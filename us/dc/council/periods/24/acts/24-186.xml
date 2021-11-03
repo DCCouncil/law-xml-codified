@@ -29,7 +29,7 @@
       <para codify:path="(a)">
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "any reason other than nonpayment of rent" and inserting the phrase "any reason" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3505.01|(a)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3505.01|(a)|(1)">
           <find>any reason other than for nonpayment of rent</find>
           <replace>any reason</replace>
         </codify:find-replace>
@@ -358,7 +358,7 @@
     <text>Section 16-1501 of the District of Columbia Official Code is amended by adding a new subsection (c) to read as follows:</text>
     <include>
       <para>
-        <codify:insert doc="D.C. Code" path="§16-1501" codified:doc="D.C. Code" codified:path="§16-1501|(c)"/>
+        <codify:insert doc="D.C. Code" path="§16-1501" codified:doc="D.C. Code" codified:path="§16-1501"/>
         <num>(c)</num>
         <text>The person aggrieved shall not file a complaint seeking restitution of possession pursuant to this section for nonpayment of rent in an amount less than $600; except, that the person aggrieved may file a complaint to recover the amount owed.</text>
       </para>
