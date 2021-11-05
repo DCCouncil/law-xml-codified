@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-741</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 25, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-741(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Transportation Electrification program.</heading>
   <para>
     <num>(a)</num>
@@ -64,7 +67,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>By February 1, 2022, and every 2 years thereafter, each private vehicle-for-hire company shall submit the greenhouse gas emissions reduction plan required by paragraph (1) of this subsection to the Public Service Commission and to the chairperson of the Council committee with oversight of the Public Service Commission. Any confidential or trade secret information furnished pursuant to this paragraph shall be confidential.</text>
+      <text>By February 1, 2022, and every 2 years thereafter, each private vehicle-for-hire company shall submit the greenhouse gas emissions reduction plan required by paragraph (1) of this subsection to the Department of Energy and Environment ("DOEE") and to the chairperson of the Council committee with oversight of DOEE. Any confidential or trade secret information furnished pursuant to this paragraph shall be confidential.</text>
     </para>
   </para>
   <para>
@@ -82,5 +85,7 @@
     <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7164" type="History" display="false"/>
     <annotation doc="D.C. Law 23-16" path="§7164" type="Applicability" history="false" display-template="" app="2019-09-11" eff="2019-09-11"><cite doc="D.C. Law 23-16" path="§7164">Section 7164 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-257" path="§601">§ 601 of D.C. Law 22-257</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-257">D.C. Law 22-257</cite> has been implemented.</annotation>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7164" type="History" display="false"/>
+    <annotation app="2021-11-01" doc="D.C. Act 24-192" eff="2021-11-01" path="§2|(c)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-192" path="§2|(c)" codified:display="Note" app="2021-11-01" eff="2021-11-01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-192" path="§2|(c)">§ 2(c) of CleanEnergy DC Omnibus Technical Amendment Emergency Amendment Act of 2021 (D.C. Act 24-192, Nov. 1, 2021, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
