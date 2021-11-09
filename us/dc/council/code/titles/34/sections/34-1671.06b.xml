@@ -1,18 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
+  <reason>Expired</reason>
   <num>34-1671.06b</num>
-  <text>
-      *NOTE: This section was created by temporary legislation that will expire on February 4, 2022.*
-      </text>
   <heading>Disconnection of service during a public health emergency prohibited.</heading>
-  <para>
-    <num>(a)</num>
-    <text>For the purposes of this section, the term "public health emergency" means a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>A gas company shall not disconnect gas service for non-payment of a bill or fees during a public health emergency or for 15 calendar days thereafter.</text>
-  </para>
+  <text>Expired.</text>
   <annotations>
     <annotation doc="D.C. Law 15-227" type="History" path="§7b">Mar. 16, 2005, D.C. Law 15-227, § 7b</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-326" path="§307|(d)" codified:display="Note" app="2021-06-24" eff="2020-05-27">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-326" path="§307|(d)">§ 307(d) of Coronavirus Support Emergency Amendment Act of 2020 (D.C. Act 23-326, May 27, 2020, 67 DCR 7045)</cite>.</annotation>
@@ -26,5 +17,6 @@
     <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§307|(d)" type="History" display="false"/>
     <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§307|(d)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-9" path="§307|(d)" codified:display="Note" app="2021-06-24" eff="2021-06-24">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-9" path="§307|(d)">§ 307(d) of Coronavirus Support Temporary Amendment Act of 2021 (D.C. Law 24-9, June 24, 2021, 68 DCR 004824)</cite>.</annotation>
+    <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="§3|(k)" type="History"/>
   </annotations>
 </section>
