@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-1671.05</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 3, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-1671.05(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Medical marijuana program.</heading>
   <text>There is established a medical marijuana program, which shall regulate the manufacture, cultivation, distribution, dispensing, purchase, delivery, sale, possession, testing, and administration of medical marijuana and the manufacture, possession, purchase, sale, and use of paraphernalia. The Program shall:</text>
   <para>
@@ -52,7 +55,7 @@
   </para>
   <para>
     <num>(3)</num>
-    <text>Issue nontransferable registration identification cards that expire annually to registered persons and entities, which may be presented to and used by law enforcement to confirm whether a person or entity is authorized to administer, cultivate, dispense, distribute, test, or possess medical marijuana, or manufacture, possess, or distribute paraphernalia;</text>
+    <text>Issue nontransferable registration identification cards that expire annually to registered persons and entities, which may be presented to and used by law enforcement to confirm whether a person or entity is authorized to administer, cultivate, dispense, distribute, test, or possess medical marijuana, or to manufacture, possess, or distribute paraphernalia; provided, that qualifying patients and caregivers who register after November 5, 2021, and prior to January 31, 2022, shall be issued nontransferable registration identification cards that expire biennially;</text>
   </para>
   <para>
     <num>(4)</num>
@@ -289,5 +292,8 @@
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§5012|(d)|(6)" type="History"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§5012|(d)|(7)" type="History"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§5012|(d)|(8)" type="History"/>
+    <annotation app="2021-11-05" doc="D.C. Act 24-206" eff="2021-11-05" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2021-11-05" doc="D.C. Act 24-206" eff="2021-11-05" path="§2|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-206" path="§2|(c)" codified:display="Note" app="2021-11-05" eff="2021-11-05">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-206" path="§2|(c)">§ 2(c) of Medical Marijuana Patient Access Emergency Amendment Act of 2021 (D.C. Act 24-206, Nov. 5, 2021, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
