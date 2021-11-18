@@ -34,6 +34,8 @@
     <heading>Donated Food.</heading>
     <xi:include href="./sections/48-301.xml"/>
     <xi:include href="./sections/48-302.xml"/>
+    <xi:include href="./sections/48-303.xml"/>
+    <xi:include href="./sections/48-304.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -305,11 +307,9 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
-      <reason>Not Funded</reason>
       <reason>Repealed</reason>
       <heading>Safe Disposal of Controlled Substances.</heading>
-      <annotation app="2019-04-11" doc="D.C. Law 22-285" eff="2019-04-11" path="§8|(a)" type="History" display="false"/>
-      <annotation app="notfunded" doc="D.C. Law 22-285" eff="2019-04-11" path="" type="History" display="false"/>
+      <annotation app="2019-04-11" doc="D.C. Law 22-285" eff="2019-04-11" path="" type="History" display="false"/>
       <xi:include href="./sections/48-852.01.xml"/>
       <xi:include href="./sections/48-852.02.xml"/>
       <xi:include href="./sections/48-852.03.xml"/>
