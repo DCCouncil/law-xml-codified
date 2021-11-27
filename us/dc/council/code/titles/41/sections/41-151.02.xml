@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>41-151.02</num>
-  <text>
-            *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in December, 2021.*
-            </text>
   <heading>Definitions.</heading>
   <para>
     <num undesignated="true">(a)</num>
@@ -400,17 +397,10 @@
       <text>"Worthless security" means a security whose cost of liquidation and delivery to the Administrator would exceed the value of the security on the date a report is due under <cite path="41|1A">this chapter</cite>.</text>
     </para>
   </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§41-142" expire="2021-08-23" codified:display="Note">For temporary (90 days) creation of § 41-151.02, see <cite doc="D.C. Act 24-159" path="§7002">§ 7002 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§41-151.02" applicability="2021-08-23" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§41-151.02">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-159" path="§7002">§ 7002 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§41-151.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§41-151.02">
-    <text>
-            *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in December, 2021.*
-            </text>
-  </codify:insert>
   <annotations>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="" type="History" display="false"/>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7002" type="History" display="false"/>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7002" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§7002" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-159" path="§7002">§ 7002 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§7002" codified:display="Note" app="2021-11-13" eff="2021-08-23">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-159" path="§7002">§ 7002 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-11-13" doc="D.C. Act 24-159" eff="2021-08-23" path="§7002" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7002" type="History"/>
   </annotations>
 </section>

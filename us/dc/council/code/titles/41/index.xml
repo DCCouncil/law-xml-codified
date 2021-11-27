@@ -52,20 +52,20 @@
     <xi:include href="./sections/41-141.xml"/>
     <xi:include href="./sections/41-141.01.xml"/>
     <xi:include href="./sections/41-142.xml"/>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7094|(a)" type="History"/>
     <annotation history="false" type="Emergency Legislation" path="§7094|(a)" codified:display="Note" app="2021-08-23" eff="2021-08-23" doc="D.C. Act 24-159">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 24-159" path="§7094|(a)">§ 7094(a) of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
     <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7094|(a)" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7094|(a)" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>1A</num>
     <heading>Revised Uniform Unclaimed Property Act.</heading>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="" type="History" display="false"/>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Short Title; Definitions; Rules.</heading>
-      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="" type="History" display="false"/>
+      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="" type="History" display="false"/>
       <xi:include href="./sections/41-151.01.xml"/>
       <xi:include href="./sections/41-151.02.xml"/>
       <xi:include href="./sections/41-151.03.xml"/>
@@ -75,7 +75,7 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Presumption of Abandonment.</heading>
-      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="VII|A" type="History" display="false"/>
+      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="VII|A" type="History" display="false"/>
       <xi:include href="./sections/41-152.01.xml"/>
       <xi:include href="./sections/41-152.02.xml"/>
       <xi:include href="./sections/41-152.03.xml"/>
@@ -93,7 +93,7 @@
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Rules for Taking Custody of Property Presumed Abandoned.</heading>
-      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="VII|A" type="History" display="false"/>
+      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="VII|A" type="History" display="false"/>
       <xi:include href="./sections/41-153.01.xml"/>
       <xi:include href="./sections/41-153.02.xml"/>
       <xi:include href="./sections/41-153.03.xml"/>
@@ -106,7 +106,7 @@
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Report by Holder.</heading>
-      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="VII|A" type="History" display="false"/>
+      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="VII|A" type="History" display="false"/>
       <xi:include href="./sections/41-154.01.xml"/>
       <xi:include href="./sections/41-154.02.xml"/>
       <xi:include href="./sections/41-154.03.xml"/>
@@ -117,7 +117,7 @@
       <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>Notice to Apparent Owner of Property Presumed Abandoned.</heading>
-      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="VII|A" type="History" display="false"/>
+      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="VII|A" type="History" display="false"/>
       <xi:include href="./sections/41-155.01.xml"/>
       <xi:include href="./sections/41-155.02.xml"/>
       <xi:include href="./sections/41-155.03.xml"/>
@@ -127,7 +127,7 @@
       <prefix>Subchapter</prefix>
       <num>VI</num>
       <heading>Taking Custody of Property by Administrator.</heading>
-      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="VII|A" type="History" display="false"/>
+      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="VII|A" type="History" display="false"/>
       <xi:include href="./sections/41-156.01.xml"/>
       <xi:include href="./sections/41-156.02.xml"/>
       <xi:include href="./sections/41-156.03.xml"/>
@@ -143,7 +143,7 @@
       <prefix>Subchapter</prefix>
       <num>VII</num>
       <heading>Sale of Property by Administrator.</heading>
-      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="VII|A" type="History" display="false"/>
+      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="VII|A" type="History" display="false"/>
       <xi:include href="./sections/41-157.01.xml"/>
       <xi:include href="./sections/41-157.02.xml"/>
       <xi:include href="./sections/41-157.03.xml"/>
@@ -154,7 +154,7 @@
       <prefix>Subchapter</prefix>
       <num>VIII</num>
       <heading>Administration of Property.</heading>
-      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="VII|A" type="History" display="false"/>
+      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="VII|A" type="History" display="false"/>
       <xi:include href="./sections/41-158.01.xml"/>
       <xi:include href="./sections/41-158.02.xml"/>
       <xi:include href="./sections/41-158.03.xml"/>
@@ -164,7 +164,7 @@
       <prefix>Subchapter</prefix>
       <num>IX</num>
       <heading>Claim to Recover Property from Administrator.</heading>
-      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="VII|A" type="History" display="false"/>
+      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="VII|A" type="History" display="false"/>
       <xi:include href="./sections/41-159.01.xml"/>
       <xi:include href="./sections/41-159.02.xml"/>
       <xi:include href="./sections/41-159.03.xml"/>
@@ -176,7 +176,7 @@
       <prefix>Subchapter</prefix>
       <num>X</num>
       <heading>Verified Report of Property; Examination of Records.</heading>
-      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="VII|A" type="History" display="false"/>
+      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="VII|A" type="History" display="false"/>
       <xi:include href="./sections/41-160.01.xml"/>
       <xi:include href="./sections/41-160.02.xml"/>
       <xi:include href="./sections/41-160.03.xml"/>
@@ -193,7 +193,7 @@
       <prefix>Subchapter</prefix>
       <num>XI</num>
       <heading>Determination of Liability; Putative Holder Remedies.</heading>
-      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="VII|A" type="History" display="false"/>
+      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="VII|A" type="History" display="false"/>
       <xi:include href="./sections/41-161.01.xml"/>
       <xi:include href="./sections/41-161.02.xml"/>
       <xi:include href="./sections/41-161.03.xml"/>
@@ -202,7 +202,7 @@
       <prefix>Subchapter</prefix>
       <num>XII</num>
       <heading>Enforcement.</heading>
-      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="VII|A" type="History" display="false"/>
+      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="VII|A" type="History" display="false"/>
       <xi:include href="./sections/41-162.01.xml"/>
       <xi:include href="./sections/41-162.02.xml"/>
       <xi:include href="./sections/41-162.03.xml"/>
@@ -215,7 +215,7 @@
       <prefix>Subchapter</prefix>
       <num>XIII</num>
       <heading>Agreement to Locate Property of Apparent Owner Held by Administrator.</heading>
-      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="VII|A" type="History" display="false"/>
+      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="VII|A" type="History" display="false"/>
       <xi:include href="./sections/41-163.01.xml"/>
       <xi:include href="./sections/41-163.02.xml"/>
       <xi:include href="./sections/41-163.03.xml"/>
@@ -224,7 +224,7 @@
       <prefix>Subchapter</prefix>
       <num>XIV</num>
       <heading>Confidentiality and Security of Information.</heading>
-      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="VII|A" type="History" display="false"/>
+      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="VII|A" type="History" display="false"/>
       <xi:include href="./sections/41-164.01.xml"/>
       <xi:include href="./sections/41-164.02.xml"/>
       <xi:include href="./sections/41-164.03.xml"/>
@@ -238,7 +238,7 @@
       <prefix>Subchapter</prefix>
       <num>XV</num>
       <heading>Miscellaneous Provisions.</heading>
-      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="VII|A" type="History" display="false"/>
+      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="VII|A" type="History" display="false"/>
       <xi:include href="./sections/41-165.01.xml"/>
       <xi:include href="./sections/41-165.02.xml"/>
       <xi:include href="./sections/41-165.03.xml"/>

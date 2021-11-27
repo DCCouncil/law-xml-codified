@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-2415</num>
-  <text>
-      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in December, 2021.*
-      </text>
   <heading>Violence prevention, interruption, and response services.</heading>
   <para>
     <num>(a)</num>
@@ -74,11 +71,11 @@
     <text>Payments made for services and supports under subsection (a)(4) and (5) of this section may be made by direct voucher.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 21-125" type="History" display="false">June 30, 2016, D.C. Law 21-125, § 103b</annotation>
     <annotation doc="D.C. Law 21-125" type="History">June 30, 2016, D.C. Law 21-125, § 103b</annotation>
+    <annotation doc="D.C. Law 21-125" type="History" display="false">June 30, 2016, D.C. Law 21-125, § 103b</annotation>
     <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="I|A" type="History" display="false"/>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§3033" type="History" display="false"/>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§3033" prefix="as added" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§3033" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-159" path="§3033">§ 3033 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§3033" codified:display="Note" app="2021-11-13" eff="2021-08-23">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-159" path="§3033">§ 3033 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-11-13" doc="D.C. Act 24-159" eff="2021-08-23" path="§3033" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§3033" prefix="as added" type="History"/>
   </annotations>
 </section>
