@@ -70,7 +70,7 @@
           <para codify:path="(A)">
             <num>(i)</num>
             <text>Subparagraph (A) is amended by striking the phrase ", or applicant eligible to be a medical cannabis certified business enterprise,".</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.06|(d)|(5)|(A)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.06|(d)|(5)">
               <find>, or applicant eligible to be a medical cannabis certified business enterprise,</find>
               <replace/>
             </codify:find-replace>
@@ -80,7 +80,7 @@
             <text>A new subparagraph (A-i) is added to read as follows:</text>
             <include lvl="2">
               <para>
-                <codify:insert after="(A)" codified:doc="D.C. Code" codified:path="§7-1671.06|(d)|(5)|(A-i)"/>
+                <codify:insert after="(A)" codified:doc="D.C. Code" codified:path="§7-1671.06|(d)|(5)"/>
                 <num>(A-i)</num>
                 <text>Straw ownership for the purposes of meeting the medical cannabis ownership requirements of this section is prohibited, both for a District resident and an out-of-state resident. A person who is found to have willfully asserted straw ownership shall be guilty of a misdemeanor and upon conviction shall be punished by a fine of not more than the amount set forth in <code-cite doc="D.C. Code" path="§22-3571.01">section 101 of the Criminal Fine Proportionality Amendment Act of 2012, effective June 11, 2013 (D.C. Law 19-317; D.C. Official Code § 22-3571.01)</code-cite>, or imprisoned for not more than one year, or both.</text>
               </para>

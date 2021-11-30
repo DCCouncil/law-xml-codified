@@ -87,14 +87,13 @@
         <para codify:path="(2)">
           <num>(B)</num>
           <text>Amendatory paragraph (2) is repealed.</text>
-          <codify:repeal codified:doc="D.C. Code" codified:path="§32-502.01|(b)|(2)"/>
         </para>
       </para>
       <para codify:path="(i)">
         <num>(3)</num>
         <text>Amendatory subsection (i) is repealed.</text>
       </para>
-      <codify:emergency doc="D.C. Code" path="§32-502.01" codified:doc="D.C. Code" codified:path="§32-502.01" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§32-502.01" interim-path="§32-502" perm-eff="2021-11-18" codified:doc="D.C. Code" codified:path="§32-502.01" codified:display="Note"/>
     </para>
     <para>
       <num>(d)</num>
@@ -716,7 +715,7 @@
         <text>DC Healthcare Alliance.</text>
       </para>
     </para>
-    <codify:emergency-new-sec doc="D.C. Code" path="§42-3411.01" interim-path="§42-101" perm-eff="2021-11-01" codified:doc="D.C. Code" codified:path="§42-3411.01" codified:display="Note"/>
+    <codify:emergency-new-sec doc="D.C. Code" path="§42-3411.01" interim-path="§42-101" perm-eff="2021-11-18" codified:doc="D.C. Code" codified:path="§42-3411.01" codified:display="Note"/>
   </section>
   <section codify:doc="D.C. Code">
     <num>5</num>
