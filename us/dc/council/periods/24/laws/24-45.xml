@@ -265,10 +265,18 @@
         <para>
           <num>(a)</num>
           <text>Section 101(10D) (D.C. Official Code § 1-1161.01(10D)) is amended by striking the phrase "member of the Council, and member of the State Board of Education" and inserting the phrase "member of the Council elected at large, member of the Council elected by ward, member of the State Board of Education elected at large, and member of the State Board of Education elected by ward" in its place.</text>
+          <codify:find-replace path="§1-1161.01|(10D)" count="1" codified:doc="D.C. Code" codified:path="§1-1161.01|(10D)">
+            <find>member of the Council, and member of the State Board of Education</find>
+            <replace>member of the Council elected at large, member of the Council elected by ward, member of the State Board of Education elected at large, and member of the State Board of Education elected by ward</replace>
+          </codify:find-replace>
         </para>
         <para>
           <num>(b)</num>
           <text>Section 332c(c)(4) (D.C. Official Code § 1-1163.32c(c)(4)) is amended by striking the phrase "his or her candidacy" and inserting the phrase "the participating candidate's candidacy" in its place.</text>
+          <codify:find-replace path="§1-1163.32c|(c)|(4)" count="1" codified:doc="D.C. Code" codified:path="§1-1163.32c|(c)|(4)">
+            <find>his or her candidacy</find>
+            <replace>the participating candidate's candidacy</replace>
+          </codify:find-replace>
         </para>
         <para>
           <num>(c)</num>
@@ -313,6 +321,10 @@
         <para>
           <num>(d)</num>
           <text>Section 332f(d)(3) (D.C. Official Code § 1-1163.32f(d)(3)) is amended by striking the phrase "campaign purposes" and inserting the phrase "campaign purposes, including the participating candidate's childcare expenses" in its place.</text>
+          <codify:find-replace path="§1-1163.32f|(d)|(3)" count="1" codified:doc="D.C. Code" codified:path="§1-1163.32f|(d)|(3)">
+            <find>campaign purposes</find>
+            <replace>campaign purposes, including the participating candidate's childcare expenses</replace>
+          </codify:find-replace>
         </para>
         <para codify:path="§1-1163.33">
           <num>(e)</num>
@@ -320,12 +332,17 @@
           <para codify:path="(l)">
             <num>(1)</num>
             <text>Subsection (l) is amended by striking the phrase "and (j)(2)" and inserting the phrase "(j)(2), and (m)" in its place.</text>
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1163.33|(l)">
+              <find>and (j)(2)</find>
+              <replace>(j)(2), and (m)</replace>
+            </codify:find-replace>
           </para>
           <para>
             <num>(2)</num>
             <text>A new subsection (m) is added to read as follows:</text>
             <include>
               <para>
+                <codify:insert codified:doc="D.C. Code" codified:path="§1-1163.33|(m)"/>
                 <num>(m)</num>
                 <text>A candidate may make expenditures to reimburse the candidate for the candidate's childcare expenses incurred for campaign purposes.</text>
               </para>
@@ -1331,23 +1348,24 @@
           <annotation doc="D.C. Law 18-160" type="History" path="§106e">May 27, 2010, D.C. Law 18-160, § 106e</annotation>
         </para>
       </section>
-    </container>
-    <codify:insert doc="D.C. Code" path="38" after="22A" history="false" codified:doc="D.C. Code" codified:path="38|22B">
       <container>
-        <prefix>Chapter</prefix>
-        <num>22B</num>
-        <heading>Early Childhood Educator Equitable Compensation Task Force.</heading>
+        <prefix>SUBTITLE</prefix>
+        <num>K</num>
+        <heading>EARLY CHILDHOOD EDUCATOR COMPENSATION TASKFORCE</heading>
+        <section>
+          <codify:marginalia display="New Chapter 22B of Chapter 38"/>
+          <num>1101</num>
+          <heading>Short title.</heading>
+          <text>This subtitle may be cited as the "Early Childhood Educator Equitable Compensation Task Force Act of 2021".</text>
+        </section>
       </container>
-    </codify:insert>
-    <container>
-      <prefix>SUBTITLE</prefix>
-      <num>K</num>
-      <heading>EARLY CHILDHOOD EDUCATOR COMPENSATION TASKFORCE</heading>
-      <section>
-        <num>1101</num>
-        <heading>Short title.</heading>
-        <text>This subtitle may be cited as the "Early Childhood Educator Equitable Compensation Task Force Act of 2021".</text>
-      </section>
+      <codify:insert doc="D.C. Code" path="38" after="22A" history="false" display-template="" codified:doc="D.C. Code" codified:path="38|22B">
+        <container>
+          <prefix>Chapter</prefix>
+          <num>22B</num>
+          <heading>Early Childhood Educator Equitable Compensation Task Force.</heading>
+        </container>
+      </codify:insert>
       <section>
         <codify:insert path="38|22B" num-value="38-2241" codified:doc="D.C. Code" codified:path="§38-2241"/>
         <num>1102</num>
@@ -1735,11 +1753,11 @@
       </section>
     </container>
   </container>
-  <container codify:doc="D.C. Code">
+  <container>
     <prefix>TITLE</prefix>
     <num>II</num>
     <heading>ECONOMIC DEVELOPMENT AND REGULATION</heading>
-    <container>
+    <container codify:doc="D.C. Code">
       <prefix>SUBTITLE</prefix>
       <num>A</num>
       <heading>ARTS AND HUMANITIES GRANT FUNDING</heading>
@@ -2020,7 +2038,7 @@
         <text>This subtitle shall apply as of August 23, 2021.</text>
       </section>
     </container>
-    <container>
+    <container codify:doc="D.C. Code">
       <prefix>SUBTITLE</prefix>
       <num>B</num>
       <heading>GREAT STREETS PROGRAM</heading>
@@ -2058,7 +2076,7 @@
         </para>
       </section>
     </container>
-    <container>
+    <container codify:doc="D.C. Code">
       <prefix>SUBTITLE</prefix>
       <num>C</num>
       <heading>SUPERMARKET TAX INCENTIVES</heading>
@@ -2270,7 +2288,7 @@
         </para>
       </section>
     </container>
-    <container>
+    <container codify:doc="D.C. Code">
       <prefix>SUBTITLE</prefix>
       <num>D</num>
       <heading>REAL PROPERTY TAX APPEALS COMMISSION MEMBERSHIP</heading>
@@ -2655,7 +2673,7 @@
         <aftertext>.</aftertext>
       </section>
     </container>
-    <container>
+    <container codify:doc="D.C. Code">
       <prefix>SUBTITLE</prefix>
       <num>E</num>
       <heading>LOCAL RENT SUPPLEMENT PROGRAM</heading>
@@ -3326,7 +3344,7 @@
         </para>
       </section>
     </container>
-    <container>
+    <container codify:doc="D.C. Code">
       <prefix>SUBTITLE</prefix>
       <num>F</num>
       <heading>HOUSING PRODUCTION TRUST FUND CONTRACTS</heading>
@@ -3341,7 +3359,7 @@
         <codify:repeal path="§42-2802|(f)|(2)" codified:doc="D.C. Code" codified:path="§42-2802|(f)|(2)"/>
       </section>
     </container>
-    <container>
+    <container codify:doc="D.C. Code">
       <prefix>SUBTITLE</prefix>
       <num>G</num>
       <heading>PROPERTY TAX RELIEF FOR LOW INCOME HOUSING</heading>
@@ -3598,7 +3616,7 @@
         </para>
       </section>
     </container>
-    <container>
+    <container codify:doc="D.C. Code">
       <prefix>SUBTITLE</prefix>
       <num>H</num>
       <heading>SECTION 108 DEBT RESERVE ACCOUNT</heading>
@@ -3621,7 +3639,7 @@
         </para>
       </section>
     </container>
-    <container>
+    <container codify:doc="D.C. Code">
       <prefix>SUBTITLE</prefix>
       <num>I</num>
       <heading>PARK MORTON REDEVELOPMENT</heading>
@@ -3638,14 +3656,14 @@
         </codify:annotation>
       </section>
     </container>
-    <codify:insert doc="D.C. Code" path="42" after="22" history="false" codified:doc="D.C. Code" codified:path="42|22A">
+    <codify:insert doc="D.C. Code" path="42" after="22" history="false" display-template="" codified:doc="D.C. Code" codified:path="42|22A">
       <container>
         <prefix>Chapter</prefix>
         <num>22A</num>
         <heading>Reentry Housing and Services Program.</heading>
       </container>
     </codify:insert>
-    <container>
+    <container codify:doc="D.C. Code">
       <prefix>SUBTITLE</prefix>
       <num>J</num>
       <heading>REENTRY HOUSING AND SERVICES PROGRAM</heading>
@@ -3653,6 +3671,7 @@
         <num>2091</num>
         <heading>Short title.</heading>
         <text>This subtitle may be cited as the "Reentry Housing and Services Program Act of 2021".</text>
+        <codify:marginalia display="New Chapter 22A of Title 42"/>
       </section>
       <section>
         <codify:insert path="42|22A" num-value="42-2231" codified:doc="D.C. Code" codified:path="§42-2231"/>
@@ -3767,7 +3786,7 @@
         </para>
       </section>
     </container>
-    <container>
+    <container codify:doc="D.C. Code">
       <prefix>SUBTITLE</prefix>
       <num>K</num>
       <heading>EMORY BEACON OF LIGHT TAX EXEMPTION</heading>
@@ -3840,7 +3859,7 @@
         <text>This section shall apply as of January 1, 2016.</text>
       </section>
     </container>
-    <container>
+    <container codify:doc="D.C. Code">
       <prefix>SUBTITLE</prefix>
       <num>L</num>
       <heading>DSLBD GRANTS</heading>
@@ -3878,7 +3897,7 @@
         </para>
       </section>
     </container>
-    <container>
+    <container codify:doc="D.C. Code">
       <prefix>SUBTITLE</prefix>
       <num>M</num>
       <heading>REDEVELOPMENT OF THE CENTER LEG FREEWAY</heading>
@@ -3923,7 +3942,7 @@
         <aftertext>.</aftertext>
       </section>
     </container>
-    <container>
+    <container codify:doc="D.C. Code">
       <prefix>SUBTITLE</prefix>
       <num>N</num>
       <heading>DMPED GRANTS AND INITIATIVES</heading>
@@ -3937,7 +3956,7 @@
         <text>Section 2032 of the Deputy Mayor for Planning and Economic Development Limited Grant-Making Authority Act of 2012, effective September 12, 2012 (D.C. Law 19-168; D.C. Official Code § 1-328.04), is amended by adding new subsections (j) through (v) to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(i)" num-value="[(j-1)]" codified:doc="D.C. Code" codified:path="§1-328.04|[(j-1)]"/>
+            <codify:insert after="(i)" codified:doc="D.C. Code" codified:path="§1-328.04|(j)"/>
             <num>(j)</num>
             <para>
               <num>(1)</num>
@@ -4535,7 +4554,7 @@
         </para>
       </section>
     </container>
-    <container>
+    <container codify:doc="D.C. Code">
       <prefix>SUBTITLE</prefix>
       <num>O</num>
       <heading>BID CLARIFICATION.</heading>
@@ -4549,7 +4568,7 @@
         <text>Section 206 of the Business Improvement Districts Act of 1996, effective March 8, 2006 (D.C. Law 16-56; D.C. Official Code § 2-1215.56), is amended by adding a new subsection (a-1) to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(a)" num-value="[a-1]" codified:doc="D.C. Code" codified:path="§2-1215.56|[a-1]"/>
+            <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§2-1215.56|(a-1)"/>
             <num>(a-1)</num>
             <para>
               <num>(1)</num>
@@ -4564,7 +4583,7 @@
         <aftertext>.</aftertext>
       </section>
     </container>
-    <container>
+    <container codify:doc="D.C. Code">
       <prefix>SUBTITLE</prefix>
       <num>P</num>
       <heading>D.C. HOUSING AUTHORITY BOARD OF COMMISSIONERS REFORM.</heading>
@@ -4701,7 +4720,7 @@
         </para>
       </section>
     </container>
-    <container>
+    <container codify:doc="D.C. Code">
       <prefix>SUBTITLE</prefix>
       <num>Q</num>
       <heading>CNHED TOPA STUDY</heading>
@@ -4719,7 +4738,7 @@
         </codify:annotation>
       </section>
     </container>
-    <container>
+    <container codify:doc="D.C. Code">
       <prefix>SUBTITLE</prefix>
       <num>R</num>
       <heading>MCMILLAN SLOW SAND FILTRATION SITE DEVELOPMENT</heading>
@@ -4745,14 +4764,14 @@
         <text>This subtitle shall apply as of August 23, 2021.</text>
       </section>
     </container>
-    <codify:insert doc="D.C. Code" path="30" history="false" codified:doc="D.C. Code" codified:path="30|3">
+    <codify:insert doc="D.C. Code" path="30" history="false" display-template="" codified:doc="D.C. Code" codified:path="30|3">
       <container>
         <prefix>Chapter</prefix>
         <num>3</num>
         <heading>COVID-19 Hotel Recovery Grant Program.</heading>
       </container>
     </codify:insert>
-    <container>
+    <container codify:doc="D.C. Code">
       <prefix>SUBTITLE</prefix>
       <num>S</num>
       <heading>COVID-19 HOTEL RECOVERY</heading>
@@ -4760,6 +4779,7 @@
         <num>2191</num>
         <heading>Short Title.</heading>
         <text>This subtitle may be cited as the "COVID-19 Hotel Recovery Grant Program Act of 2021".</text>
+        <codify:marginalia display="New Chapter 3 of Title 30"/>
       </section>
       <section>
         <codify:insert path="30|3" num-value="30-301" codified:doc="D.C. Code" codified:path="§30-301"/>
@@ -4916,7 +4936,7 @@
         </para>
       </section>
     </container>
-    <container>
+    <container codify:doc="D.C. Code">
       <prefix>SUBTITLE</prefix>
       <num>T</num>
       <heading>EQUITABLE IMPACT ASSISTANCE FOR LOCAL BUSINESSES</heading>
@@ -5170,7 +5190,7 @@
         <text>This subtitle shall apply as of the effective date of this act.</text>
       </section>
     </container>
-    <container>
+    <container codify:doc="D.C. Code">
       <prefix>SUBTITLE</prefix>
       <num>U</num>
       <heading>DC LOW INCOME HOUSING TAX CREDIT</heading>
@@ -7823,6 +7843,7 @@
           <text>Section 107 (D.C. Official Code § 32-541.07) is amended by adding a new subsection (j) to read as follows:</text>
           <include>
             <para>
+              <codify:insert codified:doc="D.C. Code" codified:path="§32-541.07|(j)"/>
               <num>(j)</num>
               <para>
                 <num>(1)</num>
@@ -7839,9 +7860,9 @@
         <para codify:path="§32-541.08|(e)">
           <num>(h)</num>
           <text>Section 108(e) (D.C. Official Code § 32-541.08(e)) is amended by striking the period and inserting the phrase "; except, that complaints arising from a violation of section 107(j) shall be filed with the Department of Insurance, Securities, and Banking for resolution pursuant to Title I of the Insurance Trade and Economic Development Amendment Act of 2000, effective April 3, 2001 (D.C. Law 13-265; D.C. Official Code § 31-2231.01 <em>et seq.</em>)." in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-541.08|(e)">
-            <find>For complaints</find>
-            <replace>Forcomplaints</replace>
+          <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§32-541.08|(e)">
+            <find>.</find>
+            <replace>; except, that complaints arising from a violation of <code-cite doc="D.C. Code" path="§32-541.07">section 107(j)</code-cite><span codify:value="(j)"/> shall be filed with the Department of Insurance, Securities, and Banking for resolution pursuant to <code-cite doc="D.C. Code" path="31|22A">Title I of the Insurance Trade and Economic Development Amendment Act of 2000, effective April 3, 2001 (D.C. Law 13-265; D.C. Official Code § 31-2231.01 <em>et seq.</em>)</code-cite>.</replace>
           </codify:find-replace>
         </para>
         <para codify:path="§32-541.12|(a)">
@@ -8020,6 +8041,7 @@
         <text>Title I of the Insurance Trade and Economic Development Amendment Act of 2000, effective April 2, 2001 (D.C. Law 13-265; D.C. Official Code § 31-2231.01 <em>et seq.</em>), is amended by adding a new section 120a to read as follows:</text>
         <include>
           <section>
+            <codify:insert doc="D.C. Code" path="31|22A" after="§31-2231.20" num-value="31-2231.20a" history-prefix="as added" codified:doc="D.C. Code" codified:path="§31-2231.20a"/>
             <num>120a</num>
             <heading>Prohibition on offsetting short-term disability benefits.</heading>
             <para>
@@ -8034,13 +8056,10 @@
               <num>(c)</num>
               <text>For the purposes of this section, the term "self-insured employer" shall have the same meaning as provided in section 101(19A) of the Universal Paid Leave Amendment Act of 2016 effective April 7, 2017 (D.C. Law 21-264; D.C. Official Code § 32-541.01 <em>et seq</em>.).</text>
             </para>
-            <codify:find-replace path="§31-2231.20a|(a)" count="1" codified:doc="D.C. Code" codified:path="§31-2231.20a|(a)">
-              <find>No insurer</find>
-              <replace>No insurer</replace>
-            </codify:find-replace>
           </section>
         </include>
         <aftertext>.</aftertext>
+        <annotation doc="D.C. Law 13-265" type="History" path="§120a">Apr. 3, 2001, D.C. Law 13-265, § 120a</annotation>
       </section>
     </container>
     <container>
@@ -8051,8 +8070,16 @@
         <num>4071</num>
         <heading>Short title.</heading>
         <text>This subtitle may be cited as the "Student Activity Fund Theatrical and Music Performance Expenditures Act of 2021".</text>
+        <codify:insert doc="D.C. Code" path="38" after="29A-i" history="false" codified:doc="D.C. Code" codified:path="38|29A-ii">
+          <container>
+            <prefix>Chapter</prefix>
+            <num>29A-ii</num>
+            <heading>Student Activity Funds for theatrical and music performances.</heading>
+          </container>
+        </codify:insert>
       </section>
       <section>
+        <codify:insert doc="D.C. Code" path="38|29A-ii" num-value="38-2961" codified:doc="D.C. Code" codified:path="§38-2961"/>
         <num>4072</num>
         <heading>Use of Student Activity Funds for theatrical and music performances.</heading>
         <para>
@@ -8117,13 +8144,6 @@
         <aftertext>.</aftertext>
       </section>
     </container>
-    <codify:insert doc="D.C. Code" path="32|16" after="V" history="false" codified:doc="D.C. Code" codified:path="32|16|VI">
-      <container>
-        <prefix>Subchapter</prefix>
-        <num>VI</num>
-        <heading>IT Community Training and Advisory Board.</heading>
-      </container>
-    </codify:insert>
     <container>
       <prefix>SUBTITLE</prefix>
       <num>J</num>
@@ -8132,6 +8152,13 @@
         <num>4091</num>
         <heading>Short title.</heading>
         <text>This subtitle may be cited as the "IT Community Training and Advisory Board Establishment Act of 2021".</text>
+        <codify:insert doc="D.C. Code" path="32|16" after="V" history="false" codified:doc="D.C. Code" codified:path="32|16|VI">
+          <container>
+            <prefix>Subchapter</prefix>
+            <num>VI</num>
+            <heading>IT Community Training and Advisory Board.</heading>
+          </container>
+        </codify:insert>
       </section>
       <section>
         <codify:insert path="32|16|VI" num-value="32-1691.01" codified:doc="D.C. Code" codified:path="§32-1691.01"/>
@@ -8608,13 +8635,6 @@
         <text><code-cite doc="D.C. Code" path="32|16|VI">This subtitle</code-cite> shall expire on September 30, 2024.</text>
       </section>
     </container>
-    <codify:insert doc="D.C. Code" path="32|16" after="VI" history="false" codified:doc="D.C. Code" codified:path="32|16|VII">
-      <container>
-        <prefix>Subchapter</prefix>
-        <num>VII</num>
-        <heading>Nurse Education Enhancement Program.</heading>
-      </container>
-    </codify:insert>
     <container>
       <prefix>SUBTITLE</prefix>
       <num>K</num>
@@ -8623,6 +8643,13 @@
         <num>4111</num>
         <heading>Short title.</heading>
         <text>This subtitle may be cited as the "DC Nurse Education Enhancement Program Amendment Act of 2021".</text>
+        <codify:insert doc="D.C. Code" path="32|16" after="VI" history="false" codified:doc="D.C. Code" codified:path="32|16|VII">
+          <container>
+            <prefix>Subchapter</prefix>
+            <num>VII</num>
+            <heading>Nurse Education Enhancement Program.</heading>
+          </container>
+        </codify:insert>
       </section>
       <section>
         <codify:insert doc="D.C. Code" path="32|16|VII" num-value="32-1693.01" codified:doc="D.C. Code" codified:path="§32-1693.01"/>
@@ -9227,13 +9254,6 @@
         </para>
       </section>
     </container>
-    <codify:insert doc="D.C. Code" path="32" after="1D" history="false" codified:doc="D.C. Code" codified:path="32|1D-i">
-      <container>
-        <prefix>Chapter</prefix>
-        <num>1D-i</num>
-        <heading>Jobs First DC Pilot Program.</heading>
-      </container>
-    </codify:insert>
     <container>
       <prefix>SUBTITLE</prefix>
       <num>M</num>
@@ -9243,6 +9263,13 @@
         <heading>Short title.</heading>
         <text>This subtitle may be cited as the "Jobs First DC Pilot Program Establishment Act of 2021".</text>
       </section>
+      <codify:insert doc="D.C. Code" path="32" after="1D" history="false" codified:doc="D.C. Code" codified:path="32|1D-i">
+        <container>
+          <prefix>Chapter</prefix>
+          <num>1D-i</num>
+          <heading>Jobs First DC Pilot Program.</heading>
+        </container>
+      </codify:insert>
       <section>
         <codify:insert path="32|1D-i" num-value="32-173.01" codified:doc="D.C. Code" codified:path="§32-173.01"/>
         <num>4142</num>
@@ -9526,13 +9553,6 @@
         </para>
       </section>
     </container>
-    <codify:insert doc="D.C. Code" path="32" after="1D-i" history="false" codified:doc="D.C. Code" codified:path="32|1D-ii">
-      <container>
-        <prefix>Chapter</prefix>
-        <num>1D-ii</num>
-        <heading>Workplace Rights Grant Program.</heading>
-      </container>
-    </codify:insert>
     <container>
       <prefix>SUBTITLE</prefix>
       <num>N</num>
@@ -9553,6 +9573,13 @@
               <num>2091</num>
               <heading>Short title.</heading>
               <text>This subtitle may be cited as the "Workplace Rights Grant Program Act of 2021".</text>
+              <codify:insert doc="D.C. Code" path="32" after="1D-i" history="false" display-template="" codified:doc="D.C. Code" codified:path="32|1D-ii">
+                <container>
+                  <prefix>Chapter</prefix>
+                  <num>1D-ii</num>
+                  <heading>Workplace Rights Grant Program.</heading>
+                </container>
+              </codify:insert>
             </section>
             <section>
               <codify:insert path="32|1D-ii" num-value="32-175.01" codified:doc="D.C. Code" codified:path="§32-175.01"/>
@@ -9933,16 +9960,14 @@
           <para>
             <num>(1)</num>
             <text>Designate the existing text as paragraph (1).</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§51-110|(a)">
-              <find>For weeks</find>
-              <replace>For weeks</replace>
-            </codify:find-replace>
+            <codify:redesignate-para num-value="(1)" codified:doc="D.C. Code" codified:path="§51-110|(a)"/>
           </para>
           <para>
             <num>(2)</num>
             <text>A new paragraph (2) is added to read as follows:</text>
             <include lvl="1">
               <para>
+                <codify:insert codified:doc="D.C. Code" codified:path="§51-110|(a)|(2)"/>
                 <num>(2)</num>
                 <text>For the purposes of paragraph (1) of this subsection, the term "good cause" includes working in unsafe locations or under unsafe conditions where such unsafe working condition or location would cause a reasonable and prudent person in the labor market to leave the work, as determined by the Director based on the facts in each case.</text>
               </para>
@@ -10298,13 +10323,6 @@
         <codify:repeal path="38|7B|I" codified:doc="D.C. Code" codified:path="§38-751.01"/>
       </section>
     </container>
-    <codify:insert doc="D.C. Code" path="38" after="22B" history="false" codified:doc="D.C. Code" codified:path="38|22C">
-      <container>
-        <prefix>Chapter</prefix>
-        <num>22C</num>
-        <heading>"Grow Your Own" Teacher Preparation Support Program.</heading>
-      </container>
-    </codify:insert>
     <container>
       <prefix>SUBTITLE</prefix>
       <num>R</num>
@@ -10314,6 +10332,13 @@
         <heading>Short title.</heading>
         <text>This subtitle may be cited as the "Teacher Preparation Act of 2021".</text>
       </section>
+      <codify:insert doc="D.C. Code" path="38" after="22B" history="false" codified:doc="D.C. Code" codified:path="38|22C">
+        <container>
+          <prefix>Chapter</prefix>
+          <num>22C</num>
+          <heading>"Grow Your Own" Teacher Preparation Support Program.</heading>
+        </container>
+      </codify:insert>
       <section>
         <codify:insert path="38|22C" num-value="38-2251" codified:doc="D.C. Code" codified:path="§38-2251"/>
         <num>4192</num>
@@ -11034,13 +11059,6 @@
         </para>
       </section>
     </container>
-    <codify:insert doc="D.C. Code" path="38" after="29C" history="false" codified:doc="D.C. Code" codified:path="38|29D">
-      <container>
-        <prefix>Chapter</prefix>
-        <num>29D</num>
-        <heading>Duke Ellington School of the Arts New Funding and Organization Model.</heading>
-      </container>
-    </codify:insert>
     <container>
       <prefix>SUBTITLE</prefix>
       <num>X</num>
@@ -11049,6 +11067,13 @@
         <num>4251</num>
         <heading>Short title.</heading>
         <text>This subtitle may be cited as the "Duke Ellington School of the Arts New Funding and Organization Model Act of 2021".</text>
+        <codify:insert doc="D.C. Code" path="38" after="29C" history="false" codified:doc="D.C. Code" codified:path="38|29D">
+          <container>
+            <prefix>Chapter</prefix>
+            <num>29D</num>
+            <heading>Duke Ellington School of the Arts New Funding and Organization Model.</heading>
+          </container>
+        </codify:insert>
       </section>
       <section>
         <codify:insert path="38|29D" num-value="38-2991" codified:doc="D.C. Code" codified:path="§38-2991"/>
@@ -11827,13 +11852,6 @@
         </para>
       </section>
     </container>
-    <codify:insert doc="D.C. Code" path="1|3|XI" after="QQ" history="false" codified:doc="D.C. Code" codified:path="1|3|XI|RR">
-      <container>
-        <prefix>Part</prefix>
-        <num>RR</num>
-        <heading>Early Childhood Educator Pay Equity Fund.</heading>
-      </container>
-    </codify:insert>
     <container>
       <prefix>SUBTITLE</prefix>
       <num>K</num>
@@ -11843,6 +11861,13 @@
         <heading>Short title.</heading>
         <text>This subtitle may be cited as the "Early Childhood Educator Pay Equity Fund Establishment Act of 2021".</text>
       </section>
+      <codify:insert doc="D.C. Code" path="1|3|XI" after="QQ" history="false" codified:doc="D.C. Code" codified:path="1|3|XI|RR">
+        <container>
+          <prefix>Part</prefix>
+          <num>RR</num>
+          <heading>Early Childhood Educator Pay Equity Fund.</heading>
+        </container>
+      </codify:insert>
       <section>
         <codify:insert path="1|3|XI|RR" num-value="1-325.431" codified:doc="D.C. Code" codified:path="§1-325.431"/>
         <num>5102</num>
@@ -13577,7 +13602,7 @@
       <heading>Revised Uniform Unclaimed Property Act.</heading>
     </container>
   </codify:insert>
-  <codify:insert doc="D.C. Code" path="41|1A" history="false" codified:doc="D.C. Code" codified:path="41|1A|I">
+  <codify:insert doc="D.C. Code" path="41|1A" history="false" display-template="" codified:doc="D.C. Code" codified:path="41|1A|I">
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
@@ -13597,6 +13622,7 @@
         <num>1</num>
         <heading>Short Title; Definitions; Rules.</heading>
         <section>
+          <codify:marginalia display="New Subchapter I"/>
           <codify:insert path="41|1A|I" num-value="41-151.01" codified:doc="D.C. Code" codified:path="§41-151.01"/>
           <num>7001</num>
           <heading>Short title.</heading>
@@ -14022,7 +14048,7 @@
           </para>
         </section>
       </container>
-      <codify:insert doc="D.C. Code" path="41|1A" history="false" codified:doc="D.C. Code" codified:path="41|1A|II">
+      <codify:insert doc="D.C. Code" path="41|1A" history="false" display-template="" codified:doc="D.C. Code" codified:path="41|1A|II">
         <container>
           <prefix>Subchapter</prefix>
           <num>II</num>
@@ -14034,6 +14060,7 @@
         <num>2</num>
         <heading>Presumption of Abandonment.</heading>
         <section>
+          <codify:marginalia display="New Subchapter II"/>
           <codify:insert path="41|1A|II" num-value="41-152.01" codified:doc="D.C. Code" codified:path="§41-152.01"/>
           <num>7005</num>
           <heading>When property is presumed abandoned.</heading>
@@ -14485,7 +14512,7 @@
           <text>If proceeds payable under a life or endowment insurance policy or annuity contract are deposited into an account with check or draft-writing privileges for the beneficiary of the policy or contract and, under a supplementary contract not involving annuity benefits other than death benefits, the proceeds are retained by the insurance company or the financial organization where the account is held, the policy or contract includes the assets in the account.</text>
         </section>
       </container>
-      <codify:insert doc="D.C. Code" path="41|1A" history="false" codified:doc="D.C. Code" codified:path="41|1A|III">
+      <codify:insert doc="D.C. Code" path="41|1A" history="false" display-template="" codified:doc="D.C. Code" codified:path="41|1A|III">
         <container>
           <prefix>Subchapter</prefix>
           <num>III</num>
@@ -14497,6 +14524,7 @@
         <num>3</num>
         <heading>Rules for Taking Custody of Property Presumed Abandoned.</heading>
         <section>
+          <codify:marginalia display="New Subchapter III"/>
           <codify:insert path="41|1A|III" num-value="41-153.01" codified:doc="D.C. Code" codified:path="§41-153.01"/>
           <num>7017</num>
           <heading>Address of apparent owner to establish priority.</heading>
@@ -14625,7 +14653,7 @@
           </para>
         </section>
       </container>
-      <codify:insert doc="D.C. Code" path="41|1A" history="false" codified:doc="D.C. Code" codified:path="41|1A|IV">
+      <codify:insert doc="D.C. Code" path="41|1A" history="false" display-template="" codified:doc="D.C. Code" codified:path="41|1A|IV">
         <container>
           <prefix>Subchapter</prefix>
           <num>IV</num>
@@ -14637,6 +14665,7 @@
         <num>4</num>
         <heading>Report by Holder.</heading>
         <section>
+          <codify:marginalia display="New Subchapter IV"/>
           <codify:insert path="41|1A|IV" num-value="41-154.01" codified:doc="D.C. Code" codified:path="§41-154.01"/>
           <num>7024</num>
           <heading>Report required by holder.</heading>
@@ -14771,7 +14800,7 @@
           <text>Property is reportable and payable or deliverable under <code-cite doc="D.C. Code" path="41|1A">this subtitle</code-cite> even if the owner fails to make demand or present an instrument or document otherwise required to obtain payment.</text>
         </section>
       </container>
-      <codify:insert doc="D.C. Code" path="41|1A" history="false" codified:doc="D.C. Code" codified:path="41|1A|V">
+      <codify:insert doc="D.C. Code" path="41|1A" history="false" display-template="" codified:doc="D.C. Code" codified:path="41|1A|V">
         <container>
           <prefix>Subchapter</prefix>
           <num>V</num>
@@ -14783,6 +14812,7 @@
         <num>5</num>
         <heading>Notice to Apparent Owner of Property Presumed Abandoned.</heading>
         <section>
+          <codify:marginalia display="New Subchapter V"/>
           <codify:insert path="41|1A|V" num-value="41-155.01" codified:doc="D.C. Code" codified:path="§41-155.01"/>
           <num>7029</num>
           <heading>Notice to apparent owner by holder.</heading>
@@ -14904,7 +14934,7 @@
           <text>Unless prohibited by law of the District other than <code-cite doc="D.C. Code" path="41|1A">this subtitle</code-cite>, on request of the Administrator, each officer, agency, board, commission, division, and department of the District and any body politic and corporate created by the District for a public purpose shall make its books and records available to the Administrator and cooperate with the Administrator to determine the current address of an apparent owner of property held by the Administrator under <code-cite doc="D.C. Code" path="41|1A">this subtitle</code-cite>.</text>
         </section>
       </container>
-      <codify:insert doc="D.C. Code" path="41|1A" history="false" codified:doc="D.C. Code" codified:path="41|1A|VI">
+      <codify:insert doc="D.C. Code" path="41|1A" history="false" display-template="" codified:doc="D.C. Code" codified:path="41|1A|VI">
         <container>
           <prefix>Subchapter</prefix>
           <num>VI</num>
@@ -14916,6 +14946,7 @@
         <num>6</num>
         <heading>Taking Custody of Property by Administrator.</heading>
         <section>
+          <codify:marginalia display="New Subchapter VI"/>
           <codify:insert path="41|1A|VI" num-value="41-156.01" codified:doc="D.C. Code" codified:path="§41-156.01"/>
           <num>7033</num>
           <heading>Definition of good faith.</heading>
@@ -15186,7 +15217,7 @@
           </para>
         </section>
       </container>
-      <codify:insert doc="D.C. Code" path="41|1A" history="false" codified:doc="D.C. Code" codified:path="41|1A|VII">
+      <codify:insert doc="D.C. Code" path="41|1A" history="false" display-template="" codified:doc="D.C. Code" codified:path="41|1A|VII">
         <container>
           <prefix>Subchapter</prefix>
           <num>VII</num>
@@ -15198,6 +15229,7 @@
         <num>7</num>
         <heading>Sale of Property by Administrator.</heading>
         <section>
+          <codify:marginalia display="New Subchapter VII"/>
           <codify:insert path="41|1A|VII" num-value="41-157.01" codified:doc="D.C. Code" codified:path="§41-157.01"/>
           <num>7043</num>
           <heading>Public sale of property.</heading>
@@ -15324,7 +15356,7 @@
           </para>
         </section>
       </container>
-      <codify:insert doc="D.C. Code" path="41|1A" history="false" codified:doc="D.C. Code" codified:path="41|1A|VIII">
+      <codify:insert doc="D.C. Code" path="41|1A" history="false" display-template="" codified:doc="D.C. Code" codified:path="41|1A|VIII">
         <container>
           <prefix>Subchapter</prefix>
           <num>VIII</num>
@@ -15336,6 +15368,7 @@
         <num>8</num>
         <heading>Administration of Property.</heading>
         <section>
+          <codify:marginalia display="New Subchapter VIII"/>
           <codify:insert path="41|1A|VIII" num-value="41-158.01" codified:doc="D.C. Code" codified:path="§41-158.01"/>
           <num>7048</num>
           <heading>Deposit of funds by Administrator.</heading>
@@ -15405,7 +15438,7 @@
           <text>Property received by the Administrator under <code-cite doc="D.C. Code" path="41|1A">this subtitle</code-cite> is held in custody for the benefit of the owner and is not owned by the District.</text>
         </section>
       </container>
-      <codify:insert doc="D.C. Code" path="41|1A" history="false" codified:doc="D.C. Code" codified:path="41|1A|IX">
+      <codify:insert doc="D.C. Code" path="41|1A" history="false" display-template="" codified:doc="D.C. Code" codified:path="41|1A|IX">
         <container>
           <prefix>Subchapter</prefix>
           <num>IX</num>
@@ -15417,6 +15450,7 @@
         <num>9</num>
         <heading>Claim to Recover Property from Administrator.</heading>
         <section>
+          <codify:marginalia display="New Subchapter IX"/>
           <codify:insert path="41|1A|IX" num-value="41-159.01" codified:doc="D.C. Code" codified:path="§41-159.01"/>
           <num>7052</num>
           <heading>Claim of another state to recover property.</heading>
@@ -15588,7 +15622,7 @@
           <text>Not later than one year after filing a claim under <code-cite doc="D.C. Code" path="§41-159.03|(a)">section 7054(a)</code-cite>, the claimant may commence an action against the Administrator in the Superior Court to establish a claim that has been denied or deemed denied under <span codify:value="["/><code-cite doc="D.C. Code" path="§41-159.03">section 7054(d)</code-cite><span codify:value="]"/>.</text>
         </section>
       </container>
-      <codify:insert doc="D.C. Code" path="41|1A" history="false" codified:doc="D.C. Code" codified:path="41|1A|X">
+      <codify:insert doc="D.C. Code" path="41|1A" history="false" display-template="" codified:doc="D.C. Code" codified:path="41|1A|X">
         <container>
           <prefix>Subchapter</prefix>
           <num>X</num>
@@ -15600,6 +15634,7 @@
         <num>10</num>
         <heading>Verified Report of Property; Examination of Records.</heading>
         <section>
+          <codify:marginalia display="New Subchapter X"/>
           <codify:insert path="41|1A|X" num-value="41-160.01" codified:doc="D.C. Code" codified:path="§41-160.01"/>
           <num>7058</num>
           <heading>Verified report of property.</heading>
@@ -15917,7 +15952,7 @@
           </para>
         </section>
       </container>
-      <codify:insert doc="D.C. Code" path="41|1A" history="false" codified:doc="D.C. Code" codified:path="41|1A|XI">
+      <codify:insert doc="D.C. Code" path="41|1A" history="false" display-template="" codified:doc="D.C. Code" codified:path="41|1A|XI">
         <container>
           <prefix>Subchapter</prefix>
           <num>XI</num>
@@ -15929,6 +15964,7 @@
         <num>11</num>
         <heading>Determination of Liability; Putative Holder Remedies.</heading>
         <section>
+          <codify:marginalia display="New Subchapter XI"/>
           <codify:insert path="41|1A|XI" num-value="41-161.01" codified:doc="D.C. Code" codified:path="§41-161.01"/>
           <num>7069</num>
           <heading>Determination of liability for unreported reportable property.</heading>
@@ -16025,7 +16061,7 @@
           </para>
         </section>
       </container>
-      <codify:insert doc="D.C. Code" path="41|1A" history="false" codified:doc="D.C. Code" codified:path="41|1A|XII">
+      <codify:insert doc="D.C. Code" path="41|1A" history="false" display-template="" codified:doc="D.C. Code" codified:path="41|1A|XII">
         <container>
           <prefix>Subchapter</prefix>
           <num>XII</num>
@@ -16037,6 +16073,7 @@
         <num>12</num>
         <heading>Enforcement.</heading>
         <section>
+          <codify:marginalia display="New Subchapter XII"/>
           <codify:insert path="41|1A|XII" num-value="41-162.01" codified:doc="D.C. Code" codified:path="§41-162.01"/>
           <num>7072</num>
           <heading>Judicial action to enforce liability.</heading>
@@ -16153,7 +16190,7 @@
           </para>
         </section>
       </container>
-      <codify:insert doc="D.C. Code" path="41|1A" history="false" codified:doc="D.C. Code" codified:path="41|1A|XIII">
+      <codify:insert doc="D.C. Code" path="41|1A" history="false" display-template="" codified:doc="D.C. Code" codified:path="41|1A|XIII">
         <container>
           <prefix>Subchapter</prefix>
           <num>XIII</num>
@@ -16165,6 +16202,7 @@
         <num>13</num>
         <heading>Agreement to Locate Property of Apparent Owner Held by Administrator.</heading>
         <section>
+          <codify:marginalia display="New Subchapter XIII"/>
           <codify:insert path="41|1A|XIII" num-value="41-163.01" codified:doc="D.C. Code" codified:path="§41-163.01"/>
           <num>7079</num>
           <heading>When agreement to locate property enforceable.</heading>
@@ -16228,7 +16266,7 @@
           </para>
         </section>
       </container>
-      <codify:insert doc="D.C. Code" path="41|1A" history="false" codified:doc="D.C. Code" codified:path="41|1A|XIV">
+      <codify:insert doc="D.C. Code" path="41|1A" history="false" display-template="" codified:doc="D.C. Code" codified:path="41|1A|XIV">
         <container>
           <prefix>Subchapter</prefix>
           <num>XIV</num>
@@ -16240,6 +16278,7 @@
         <num>14</num>
         <heading>Confidentiality and Security of Information.</heading>
         <section>
+          <codify:marginalia display="New Subchapter XIV"/>
           <codify:insert path="41|1A|XIV" num-value="41-164.01" codified:doc="D.C. Code" codified:path="§41-164.01"/>
           <num>7082</num>
           <heading>Definitions; applicability.</heading>
@@ -16501,7 +16540,7 @@
           </para>
         </section>
       </container>
-      <codify:insert doc="D.C. Code" path="41|1A" history="false" codified:doc="D.C. Code" codified:path="41|1A|XV">
+      <codify:insert doc="D.C. Code" path="41|1A" history="false" display-template="" codified:doc="D.C. Code" codified:path="41|1A|XV">
         <container>
           <prefix>Subchapter</prefix>
           <num>XV</num>
@@ -16513,6 +16552,7 @@
         <num>15</num>
         <heading>Miscellaneous Provisions.</heading>
         <section>
+          <codify:marginalia display="New Subchapter XV"/>
           <codify:insert path="41|1A|XV" num-value="41-165.01" codified:doc="D.C. Code" codified:path="§41-165.01"/>
           <num>7090</num>
           <heading>Uniformity of application and construction.</heading>
