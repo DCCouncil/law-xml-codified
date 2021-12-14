@@ -312,7 +312,7 @@
       <text>A new Title III-B is added to read as follows:</text>
       <include>
         <container>
-          <codify:insert doc="D.C. Code" path="50|23" after="III-A" history="false">
+          <codify:insert doc="D.C. Code" path="50|23" after="III-A" history="false" codified:doc="D.C. Code" codified:path="50|23|III-B">
             <container>
               <prefix>Subchapter</prefix>
               <num>III-B</num>
@@ -323,7 +323,7 @@
           <num>III-B</num>
           <heading>COMMUNITY SERVICE DEBT REPAYMENT PROGRAM</heading>
           <section>
-            <codify:insert doc="D.C. Code" path="50|23|III-B" num-value="50-2303.21"/>
+            <codify:insert doc="D.C. Code" path="50|23|III-B" num-value="50-2303.21" codified:doc="D.C. Code" codified:path="§50-2303.21"/>
             <num>321</num>
             <heading>Community Service Debt Repayment Program.</heading>
             <para>
@@ -373,7 +373,7 @@
               <num>(d)</num>
               <text>The Mayor, <code-cite doc="D.C. Code" path="2|5|I">pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq</em>.)</code-cite>, shall issue rules to implement the provisions of this section.</text>
             </para>
-            <codify:not-funded-anno doc="D.C. Code" path="§50-2303.21" applicability-path="§3" display-template=""/>
+            <codify:not-funded-anno doc="D.C. Code" path="§50-2303.21" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§50-2303.21" codified:display="Note"/>
           </section>
         </container>
       </include>
@@ -430,7 +430,7 @@
       <para>
         <num>(8)</num>
         <text>Section 2(i).</text>
-        <codify:applicability doc="D.C. Law 22-175" path="§2|(i)" date="notfunded" history="false"/>
+        <codify:applicability doc="D.C. Law 22-175" path="§2|(i)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="50|23|III-B"/>
       </para>
     </para>
     <para>

@@ -1,9 +1,67 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
-  <reason>Repealed</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-171.02</num>
-  <heading>Wage and Hour Education Grants Program establishment.</heading>
-  <text>Repealed.</text>
+  <heading>Establishment of Program and issuance of grants.</heading>
+  <para>
+    <num>(a)</num>
+    <text>There is established the Workplace Rights Grant Program for the purpose of authorizing OAG to provide grants to community-based organizations to conduct activities with eligible individuals related to employment laws and to inform the OAG's work related to employment laws.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>OAG shall administer the Program by:</text>
+    <para>
+      <num>(1)</num>
+      <text>Issuing Program grants to community-based organizations to provide:</text>
+      <para>
+        <num>(A)</num>
+        <text>Outreach and worker education;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Outreach and legal services; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A combination of outreach, worker education, and legal services.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Awarding Program grants at least annually, which may include the continuation or renewal of multi-year grants, to at least 2 qualified community-based organizations;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Adopting policies, procedures, guidelines, and requirements for the grants, including performance measures and target outcomes; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Issuing all grants pursuant to the requirements set forth in t<cite path="1|3|XII-A">subchapter XII-A of Chapter 3 of Title 1</cite>.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>OAG may:</text>
+    <para>
+      <num>(1)</num>
+      <text>Require that at least 95% of the individuals served by a Program grant in a grant year be low- or moderate-income eligible individuals or reasonably believed to be low- or moderate-income eligible individuals; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Pay grants on a performance basis or a reimbursable basis.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>Program grants shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Have a duration of at least one year and up to 3 years, subject to the availability of appropriations and contingent on satisfactory performance by a grantee during the grant's first year or, if applicable, the grant's second year; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Be for not less than $100,000 per year per grant.</text>
+    </para>
+  </para>
   <annotations>
     <annotation codify:doc="D.C. Code" path="§2093" type="Emergency Legislation" history="false" app="2019-09-11" eff="2019-07-22" doc="D.C. Act 23-91">
           For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="2093">§ 2093 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
@@ -15,6 +73,8 @@
     <annotation app="2019-09-11" doc="D.C. Act 23-112" eff="2019-09-04" path="§2093" type="History" display="false"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="II" type="History" display="false"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2093" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§4152" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§4152">§ 4152 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4152" type="History" display="false"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4152" type="History"/>
   </annotations>
 </section>
