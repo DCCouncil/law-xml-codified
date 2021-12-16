@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-541.01</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on March 11, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§32-541.01(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of <cite path="32|5|IV">this subchapter</cite>, the term:</text>
   <para>
@@ -110,7 +107,7 @@
     <num>(8)</num>
     <text>"Health care provider" shall have the same meaning as provided in <cite path="§32-501|(5)">§ 32-501(5)</cite>.</text>
   </para>
-  <para codify:path="(8A)">
+  <para>
     <num>(8A)</num>
     <text>"Insurer" shall have the same meaning as provided in <cite path="§31-2231.01|(7)">§ 31-2231.01(7)</cite>.</text>
   </para>
@@ -339,10 +336,8 @@
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2143|(a)|(2)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-90" path="§2|(a)" codified:display="Note" app="2021-05-26" eff="2021-05-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-90" path="§2|(a)">§ 2(a) of Short-term Disability Insurance Benefit Protection Emergency Amendment Act of 2021 (D.C. Act 24-90, May 26, 2021, 68 DCR 005853)</cite>.</annotation>
     <annotation app="2021-05-26" doc="D.C. Act 24-90" eff="2021-05-26" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2021-07-29" doc="D.C. Law 24-18" eff="2021-07-29" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2021-07-29" doc="D.C. Law 24-18" eff="2021-07-29" path="§2|(a)|(1)" type="History"/>
-    <annotation app="2021-07-29" doc="D.C. Law 24-18" eff="2021-07-29" path="§2|(a)|(2)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-18" path="§2|(a)" codified:display="Note" app="2021-07-29" eff="2021-07-29">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-18" path="§2|(a)">§ 2(a) of Short-term Disability Insurance Benefit Protection Temporary Amendment Act of 2021 (D.C. Law 24-18, July 29, 2021, 68 DCR 006100)</cite>.</annotation>
+    <annotation app="2021-07-29" doc="D.C. Law 24-18" eff="2021-07-29" path="§2|(a)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§4062|(a)" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§4062|(a)">§ 4062(a) of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
     <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4062|(a)" type="History" display="false"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4062|(a)|(1)" type="History"/>
