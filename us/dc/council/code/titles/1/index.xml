@@ -1576,13 +1576,17 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>X</num>
-      <heading>Freeze on Pay Increases and Benefits fromOctober 1, 2020 through September 30, 2021.</heading>
+      <reason>Repealed</reason>
+      <heading>Freeze on Pay Increases and Benefits from October 1, 2020 through September 30, 2021.</heading>
       <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="I" type="History" display="false"/>
       <xi:include href="./sections/1-555.01.xml"/>
       <xi:include href="./sections/1-555.02.xml"/>
       <xi:include href="./sections/1-555.03.xml"/>
       <xi:include href="./sections/1-555.04.xml"/>
       <xi:include href="./sections/1-555.05.xml"/>
+      <annotation app="2021-11-03" doc="D.C. Law 24-44" eff="2021-11-03" path="§8|(a)" type="History"/>
+      <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-44" path="§8|(a)" codified:display="Note" app="2021-11-03" eff="2021-11-03">For temporary (225 days) repeal of this section, see <cite doc="D.C. Law 24-44" path="§8|(a)">§ 8(a) of Fiscal Year 2021 Revised Local Budget and COVID Relief Adjustment Temporary Act of 2021 (D.C. Law 24-44, Nov. 3, 2021, 68 DCR 009690)</cite>.</annotation>
+      <annotation app="2021-11-03" doc="D.C. Law 24-44" eff="2021-11-03" path="§8|(a)" type="History" display="false"/>
     </container>
   </container>
   <container>
