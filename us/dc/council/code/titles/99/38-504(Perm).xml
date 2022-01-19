@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <num>38-504</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on April 12, 2022. To view the text of this section after the expiration of all emergency and emergency legislation, click this link: <cite path="§38-504(Perm)">Permanent Version</cite>.*
-      </text>
+  <num>38-504(Perm)</num>
   <heading>Notification of immunization information by school.</heading>
   <para>
     <num>(a)</num>
@@ -18,7 +15,7 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>That the student may be immunized and receive certification by a healthcare professional authorized to administer a vaccine or the public health authorities; and</text>
+      <text>That the student may be immunized and receive certification by a private physician or the public health authorities; and</text>
     </para>
     <para>
       <num>(4)</num>
@@ -33,8 +30,5 @@
     <annotation doc="D.C. Law 3-20" type="History" path="§5">Sept. 28, 1979, D.C. Law 3-20, § 5, 26 DCR 380</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 31-2204.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 31-504.</annotation>
-    <annotation app="2022-01-12" doc="D.C. Act 24-280" eff="2022-01-12" path="§2|(e)" type="History" display="false"/>
-    <annotation app="2022-01-12" doc="D.C. Act 24-280" eff="2022-01-12" path="§2|(e)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-280" path="§2|(e)" codified:display="Note" app="2022-01-12" eff="2022-01-12">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-280" path="§2|(e)">§ 2(e) of Coronavirus Immunization of School Students and Early Childhood Workers Regulation Emergency Amendment Act of 2021 (D.C. Act 24-280, Jan. 12, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
