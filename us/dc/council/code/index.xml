@@ -4,7 +4,7 @@
   <meta>
     <effective>0001-01-01</effective>
     <recency through="2022-01-13">
-      <law doc="D.C. Law 24-46">Law {{ doc.num }} effective {{ doc.effective | date }}</law>
+      <law doc="D.C. Law 24-50">Law {{ doc.num }} effective {{ doc.effective | date }}</law>
       <emergency doc="D.C. Act 24-277">Act {{ doc.num }} effective {{ doc.effective | date }}</emergency>
       <federal doc="Pub. L. 116-283">Public Law {{ doc.num }} approved {{ doc.effective | date }}</federal>
     </recency>
@@ -75,4 +75,20 @@
   <annotation app="2021-04-27" doc="D.C. Law 23-275" eff="2021-04-27" path="§3|(k)" type="History"/>
   <annotation app="2021-10-27" doc="D.C. Law 24-40" eff="2021-10-27" path="§2|(i)" type="History"/>
   <annotation app="2021-11-01" doc="D.C. Act 24-192" eff="2021-11-01" path="§2|(c)" type="History"/>
+  <annotation app="2022-02-18" doc="D.C. Act 24-196" eff="2021-10-01" path="§2" type="History" estimate="true" display="false"/>
+  <annotation app="2022-02-18" doc="D.C. Act 24-196" eff="2021-10-01" path="§3" type="History" estimate="true" display="false"/>
+  <annotation app="2022-02-18" doc="D.C. Act 24-196" eff="2021-10-01" path="§4" type="History" estimate="true" display="false"/>
+  <annotation app="2022-02-18" doc="D.C. Act 24-196" eff="2021-10-01" path="§5" type="History" estimate="true" display="false"/>
+  <annotation app="2022-02-18" doc="D.C. Act 24-196" eff="2021-10-01" path="§6" type="History" estimate="true" display="false"/>
+  <annotation app="2022-02-18" doc="D.C. Act 24-196" eff="2021-10-01" path="§7" type="History" estimate="true" display="false"/>
+  <annotation app="2022-02-18" doc="D.C. Act 24-196" eff="2021-10-01" path="§8" type="History" estimate="true" display="false"/>
+  <annotation app="2022-02-18" doc="D.C. Act 24-196" eff="2021-10-01" path="§9" type="History" estimate="true" display="false"/>
+  <annotation app="2022-02-18" doc="D.C. Act 24-239" eff="2021-12-13" path="§2" type="History" estimate="true" display="false"/>
+  <annotation app="2022-02-18" doc="D.C. Act 24-239" eff="2021-12-13" path="§3" type="History" estimate="true" display="false"/>
+  <annotation app="2022-02-18" doc="D.C. Act 24-239" eff="2021-12-13" path="§4" type="History" estimate="true" display="false"/>
+  <annotation app="2022-02-18" doc="D.C. Act 24-239" eff="2021-12-13" path="§5" type="History" estimate="true" display="false"/>
+  <annotation app="2022-02-18" doc="D.C. Act 24-239" eff="2021-12-13" path="§6" type="History" estimate="true" display="false"/>
+  <annotation app="2022-02-18" doc="D.C. Act 24-239" eff="2021-12-13" path="§7" type="History" estimate="true" display="false"/>
+  <annotation app="2022-02-18" doc="D.C. Act 24-239" eff="2021-12-13" path="§8" type="History" estimate="true" display="false"/>
+  <annotation app="2022-02-18" doc="D.C. Act 24-239" eff="2021-12-13" path="§9" type="History" estimate="true" display="false"/>
 </document>
