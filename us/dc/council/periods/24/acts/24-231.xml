@@ -32,34 +32,8 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:replace path="§34-1271.01" codified:doc="D.C. Code" codified:path="§34-1271.01">
-        <section>
-          <num>34-1271.01</num>
-          <heading>Cable operator disconnection of cable service during a public health emergency. [Expired]</heading>
-          <text>[Expired as of October 27, 2021]</text>
-          <annotation doc="D.C. Law 24-9" type="History">June 24, 2021, D.C. Law 24-9, § 307, 68 DCR 4824</annotation>
-        </section>
-      </codify:replace>
-      <codify:emergency doc="D.C. Code" path="§34-1271.01" action="expiration of this section" codified:doc="D.C. Code" codified:path="§34-1271.01" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§34-1271.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§34-1271.01">
-        <text>
-      *NOTE: This section was amended by emergency legislation that will expire on March 13, 2022.*
-      </text>
-      </codify:insert>
-      <codify:replace path="§34-2002.01" codified:doc="D.C. Code" codified:path="§34-2002.01">
-        <section>
-          <num>34-2002.01</num>
-          <heading>Disconnection of telecommunications service during a public health emergency prohibited. [Expired]</heading>
-          <text>[Expired as of October 27, 2021]</text>
-          <annotation doc="D.C. Law 24-9" type="History">June 24, 2021, D.C. Law 24-9, § 307, 68 DCR 4824</annotation>
-        </section>
-      </codify:replace>
-      <codify:emergency doc="D.C. Code" path="§34-2002.01" action="expiration of this section" codified:doc="D.C. Code" codified:path="§34-2002.01" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§34-2002.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§34-2002.01">
-        <text>
-      *NOTE: This section was amended by emergency legislation that will expire on March 13, 2022.*
-      </text>
-      </codify:insert>
+      <codify:emergency doc="D.C. Code" path="§34-1264.06" action="amendment of a section dealing with cable service during a public health emergency" codified:doc="D.C. Code" codified:path="§34-1264.06" codified:display="Note"/>
+      <codify:emergency doc="D.C. Code" path="§34-2002" action="provision dealing with the disconnection of telecommunications service during a public health emergency" codified:doc="D.C. Code" codified:path="§34-2002" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -141,113 +115,19 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:replace doc="D.C. Code" path="§34-131" codified:doc="D.C. Code" codified:path="§34-131">
-        <section>
-          <num>34-131</num>
-          <heading>General provisions after October 12, 2021.</heading>
-          <para>
-            <num>(a)</num>
-            <text>After October 12, 2021, and except as otherwise prohibited by §§ <code-cite doc="D.C. Code" path="§34-1271.01" codify:value="34-1271.01">34-1271.01</code-cite> and <code-cite doc="D.C. Code" path="§34-2002.01" codify:value="34-2002.01">34-2002.01</code-cite>, a company shall not disconnect, suspend, or degrade service, for non-payment of a bill, any fees for service or equipment, or any other charges, if:</text>
-            <para>
-              <num>(1)</num>
-              <text>The company has failed to engage the customer as required under <cite doc="D.C. Code" path="§34-132">§ 34-132</cite>;</text>
-            </para>
-            <para>
-              <num>(2)</num>
-              <text>The customer owes less than $600;</text>
-            </para>
-            <para>
-              <num>(3)</num>
-              <text>The customer has entered into a payment plan with the company and either is meeting the terms of the payment plan or is less than 2 months behind under the terms of the payment plan;</text>
-            </para>
-            <para>
-              <num>(4)</num>
-              <text>Prior to October 12, 2021, the customer has requested to enter into a payment plan with the company and fewer than 45 days have elapsed following the customer's initial request; or</text>
-            </para>
-            <para>
-              <num>(5)</num>
-              <text>The Mayor has certified or the customer has provided documentary evidence that the customer qualifies for utility disconnection relief and not more than 90 days have elapsed since October 12, 2021.</text>
-            </para>
-          </para>
-          <para>
-            <num>(b)</num>
-            <text>For purposes of subsection (a)(5) of this section, the Mayor shall certify that an individual is qualified for utility disconnection relief if the individual:</text>
-            <para>
-              <num>(1)</num>
-              <text>Within the prior 6 months, received or was approved for a benefit under the Low-Income Home Energy Assistance Program ("LIHEAP"), Utility Discount Program ("UDP"), DC Water Customer Assistance Program ("CAP"), or STAY DC Program;</text>
-            </para>
-            <para>
-              <num>(2)</num>
-              <text>Is receiving a benefit under the Supplemental Nutrition Assistance Program ("SNAP") or Temporary Assistance for Needy Families ("TANF") program; or</text>
-            </para>
-            <para>
-              <num>(3)</num>
-              <text>Is 21 years of age or older and receiving a benefit under Medicaid or the DC Healthcare Alliance.</text>
-            </para>
-          </para>
-          <para>
-            <num>(c)</num>
-            <para>
-              <num>(1)</num>
-              <text>By September 13, 2021, the Mayor shall provide notice to each individual certified as qualified for utility disconnection relief pursuant to subsection (b) of this section.</text>
-            </para>
-            <para>
-              <num>(2)</num>
-              <text>By September 27, 2021, and every 4 weeks thereafter until January 1, 2022, the Mayor shall provide companies and the Office of the People's Counsel ("OPC") with a list of each individual certified as qualified for utility disconnection relief, including the individual's home address. The list shall be property of the District and shall only be used to determine that an individual on the list is qualified for relief from utility disconnection and to communicate that to affected households and companies as needed.</text>
-            </para>
-          </para>
-          <para>
-            <num>(d)</num>
-            <text>A company shall consider a customer as certified as qualified for utility disconnection relief under this section where:</text>
-            <para>
-              <num>(1)</num>
-              <text>The customer's name is included on the list provided to a company under subsection (c)(2) of this section;</text>
-            </para>
-            <para>
-              <num>(2)</num>
-              <text>The customer's home address is included on the list provided to a company under subsection (c)(2) of this section, but the name of the individual certified does not match the name of the customer on the account; or</text>
-            </para>
-            <para>
-              <num>(3)</num>
-              <text>The customer provides the company with a copy of the notice of certification provided by the Mayor under subsection (c)(1) of this section by mail, email, fax, or other reasonable method.</text>
-            </para>
-          </para>
-          <para>
-            <num>(e)</num>
-            <text>By August 9, 2021, the Mayor shall, pursuant to <code-cite doc="D.C. Code" path="2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq</em>.)</code-cite>, promulgate emergency rules to implement this section, including guidance on the District's and the companies' responsibilities under this section.</text>
-          </para>
-          <annotation doc="D.C. Law 24-9" type="History">June 24, 2021, D.C. Law 24-9, § 307, 68 DCR 4824</annotation>
-        </section>
-      </codify:replace>
-      <codify:emergency doc="D.C. Code" path="§34-131" codified:doc="D.C. Code" codified:path="§34-131" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§34-131" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§34-131">
-        <text>
-      *NOTE: This section was created by temporary legislation that will expire on June 9, 2022, as an amendment to temporary legislation that will expire on February 4, 2022.*
-      </text>
-      </codify:insert>
-      <codify:insert doc="D.C. Code" path="§34-131" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§34-131">
-        <text>
-      *NOTE: This section was amended by emergency legislation that will expire on March 13, 2022.*
-      </text>
-      </codify:insert>
+      <codify:temporary doc="D.C. Code" path="§34-407" action="general provisions during COVID-19 emergency" codified:doc="D.C. Code" codified:path="§34-407" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
       <text>Subsection (p)(1) is amended to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:replace path="§34-137|(1)" codified:doc="D.C. Code" codified:path="§34-137|(1)"/>
           <num>(1)</num>
           <text>"Payment assistance programs" shall mean LIHEAP, UDP, or CAP.</text>
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:emergency doc="D.C. Code" path="§34-137" codified:doc="D.C. Code" codified:path="§34-137" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§34-137" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§34-137">
-        <text>
-      *NOTE: This section was amended by emergency legislation that will expire on March 13, 2022.*
-      </text>
-      </codify:insert>
+      <codify:temporary doc="D.C. Code" path="§34-407" action="general provisions during COVID-19 emergency" codified:doc="D.C. Code" codified:path="§34-407" codified:display="Note"/>
     </para>
   </section>
   <section>
@@ -324,7 +204,7 @@
                 </para>
                 <para>
                   <num>(F)</num>
-                  <text>For complaints that involve rent arrears accrued since March 11, 2020, the landlord did not offer or negotiate a payment plan in good faith pursuant to <cite doc="D.C. Code" path="§42-3192.01">§ 42-3281</cite><span codify:value=" [§ 42-3192.01]"/> at any time since March 11, 2020.</text>
+                  <text>For complaints that involve rent arrears accrued since March 11, 2020, the landlord did not offer or negotiate a payment plan in good faith pursuant to § 42-3281 at any time since March 11, 2020.</text>
                 </para>
               </para>
               <para>
@@ -494,10 +374,6 @@
       <para codify:path="(a-1)|(2)|(C)">
         <num>(2)</num>
         <text>Subsection (a-1)(C) is amended by striking the phrase "when the summons was posted" and inserting the phrase "when the summons or notice was posted" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3505.01|(a-1)|(2)|(C)">
-          <find>when the summons was posted</find>
-          <replace>when the summons or notice was posted</replace>
-        </codify:find-replace>
       </para>
       <para codify:path="(b-1)">
         <num>(3)</num>
@@ -515,7 +391,7 @@
               </para>
               <para>
                 <num>(B)</num>
-                <text>The tenant's application for emergency rental assistance was denied, or the application was approved with a balance of equal to or greater than $600 remaining unpaid, and the tenant and housing provider have not established a rent payment plan pursuant to <code-cite doc="D.C. Code" path="§42-3192.01">section 402 of the Coronavirus Support Temporary Amendment Act of 2021, effective June 24, 2021 (D.C. Law 24-9; D.C. Official Code § 42-3192.01)</code-cite>, within 14 days of the denial; or</text>
+                <text>The tenant's application for emergency rental assistance was denied, or the application was approved with a balance of equal to or greater than $600 remaining unpaid, and the tenant and housing provider have not established a rent payment plan pursuant to section 402 of the Coronavirus Support Temporary Amendment Act of 2021, effective June 24, 2021 (D.C. Law 24-9; D.C. Official Code § 42-3192.01), within 14 days of the denial; or</text>
               </para>
               <para>
                 <num>(C)</num>
@@ -693,7 +569,6 @@
         <text>Subsection (r) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§42-3505.01|(r)"/>
             <num>(r)</num>
             <text>No tenant shall be evicted from a rental unit unless the housing provider provides documentation to the court at the time of filing a writ of restitution demonstrating that the housing provider has a current business license for rental housing issued pursuant to <code-cite doc="D.C. Code" path="§47-2828|(c)|(1)">D.C. Official Code § 47-2828(c)(1)</code-cite>.</text>
           </para>
