@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-531.04</num>
   <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on February 3, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§32-531.04(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on May 4, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§32-531.04(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Certification.</heading>
   <para>
@@ -37,6 +37,10 @@
     </para>
   </para>
   <para>
+    <num>[(a-1)]</num>
+    <text>An employer may require that an employee who uses paid leave pursuant to <cite path="§[32-531.02a]">§ [32-531.02a]</cite> to provide reasonable documentation upon return to work of the need for leave, which may include a vaccination record or other documentation attesting to the date and time of the vaccination injection.</text>
+  </para>
+  <para>
     <num>(b)</num>
     <para>
       <num>(1)</num>
@@ -44,7 +48,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>All information provided to the employer under § <cite path="§32-131.02" doc="D.C. Law 21-264">32-531.02</cite> , <cite path="§32-531.02a">§ 32-531.02a</cite>, or <cite path="§32-531.02b">§ 32-131.02b</cite> shall not be disclosed by the employer, except to the extent that the disclosure is:</text>
+      <text>All information provided to the employer under § <cite path="§32-131.02" doc="D.C. Law 21-264">32-131.02</cite> , § 32-531.02a [Expired] or <cite path="§[32-531.02a]">§ [32-531.02a]</cite> shall not be disclosed by the employer, except to the extent that the disclosure is:</text>
       <para>
         <num>(A)</num>
         <text>Requested or consented to by the employee;</text>
@@ -58,10 +62,6 @@
         <text>Otherwise required by applicable federal or local law.</text>
       </para>
     </para>
-  </para>
-  <para>
-    <num>(a-2)</num>
-    <text>An employer may require that an employee who uses paid leave pursuant to <cite path="§32-531.02b">§ 32-531.02b</cite> to provide reasonable documentation upon return to work of the need for leave, which may include a vaccination record or other documentation attesting to the date and time of the vaccination injection.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 17-152" type="History" path="§5">May 13, 2008, D.C. Law 17-152, § 5, 55 DCR 3452</annotation>
@@ -81,9 +81,11 @@
     <annotation app="2021-06-07" doc="D.C. Act 24-96" eff="2021-06-07" path="§105|(a)|(4)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-9" path="§105|(a)|(4)" codified:display="Note" app="2021-06-24" eff="2021-06-24">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-9" path="§105|(a)|(4)">§ 105(a)(4) of Coronavirus Support Temporary Amendment Act of 2021 (D.C. Law 24-9, June 24, 2021, 68 DCR 004824)</cite>.</annotation>
     <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§105|(a)|(4)" type="History" display="false"/>
-    <annotation app="2021-11-05" doc="D.C. Act 24-209" eff="2021-11-05" path="§2|(d)" type="History" display="false"/>
-    <annotation app="2021-11-05" doc="D.C. Act 24-209" eff="2021-11-05" path="§2|(d)|(2)" type="History"/>
-    <annotation app="2021-11-05" doc="D.C. Act 24-209" eff="2021-11-05" path="§2|(d)|(1)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-209" path="§2|(d)" codified:display="Note" app="2021-11-05" eff="2021-11-05">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-209" path="§2|(d)">§ 2(d) of COVID Vaccination Leave Emergency Amendment Act of 2021 (D.C. Act 24-209, Nov. 5, 2021, 68 DCR 012355)</cite>.</annotation>
+    <annotation app="2021-11-05" doc="D.C. Act 24-209" eff="2021-11-05" path="§2|(d)" type="History" display="false"/>
+    <annotation app="2022-02-03" doc="D.C. Act 24-319" eff="2022-02-03" path="§2|(d)" type="History" display="false"/>
+    <annotation app="2022-02-03" doc="D.C. Act 24-319" eff="2022-02-03" path="§2|(d)|(1)" type="History"/>
+    <annotation app="2022-02-03" doc="D.C. Act 24-319" eff="2022-02-03" path="§2|(d)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-319" path="§2|(d)" codified:display="Note" app="2022-02-03" eff="2022-02-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-319" path="§2|(d)">§ 2(d) of COVID Vaccination Leave Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-319, Feb. 3, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
