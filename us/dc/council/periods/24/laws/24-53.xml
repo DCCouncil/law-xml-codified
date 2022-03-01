@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Act 24-228">
+<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 24-53">
+  <num type="law">24-53</num>
   <num type="bill">24-236</num>
   <num type="act">24-228</num>
   <heading type="short">Child Wealth Building Act of 2021</heading>
   <heading type="long">To establish the Child Trust Fund and the Child Trust Fund Program to provide a subsidized wealth building and investment account for certain children.</heading>
   <meta>
     <introduced>2021-05-03</introduced>
-    <effective projected="true">2022-02-18</effective>
+    <effective>2022-02-18</effective>
     <citations>
+      <citation type="law" url="https://lims.dccouncil.us/downloads/LIMS/47105/Signed_Act/B24-0236-Signed_Act.pdf">D.C. Law 24-53</citation>
       <citation type="act" url="https://lims.dccouncil.us/downloads/LIMS/47105/Signed_Act/B24-0236-Signed_Act.pdf">D.C. Act 24-228</citation>
       <citation type="register">68 DCR 013227</citation>
     </citations>
@@ -20,7 +22,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Child Wealth Building Act of 2021".</text>
-  <codify:insert doc="D.C. Code" path="4" after="6C" history="false" codified:doc="D.C. Code" codified:path="4|6D" codified:citation="Chapter 6D of Title 4" codified:display="New">
+  <codify:insert doc="D.C. Code" path="4" after="6C" history="false" codified:doc="D.C. Code" codified:path="4|6D">
     <container>
       <prefix>Chapter</prefix>
       <num>6D</num>
@@ -28,7 +30,7 @@
     </container>
   </codify:insert>
   <section>
-    <codify:insert doc="D.C. Code" path="4|6D" num-value="4-681.01" codified:doc="D.C. Code" codified:path="§4-681.01" codified:citation="§ 4-681.01" codified:display="New"/>
+    <codify:insert doc="D.C. Code" path="4|6D" num-value="4-681.01" codified:doc="D.C. Code" codified:path="§4-681.01"/>
     <num>2</num>
     <heading>Definitions.</heading>
     <para>
@@ -122,7 +124,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="4|6D" num-value="4-681.02" codified:doc="D.C. Code" codified:path="§4-681.02" codified:citation="§ 4-681.02" codified:display="New"/>
+    <codify:insert doc="D.C. Code" path="4|6D" num-value="4-681.02" codified:doc="D.C. Code" codified:path="§4-681.02"/>
     <num>3</num>
     <heading>Child Trust Fund.</heading>
     <para>
@@ -197,7 +199,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="4|6D" num-value="4-681.03" codified:doc="D.C. Code" codified:path="§4-681.03" codified:citation="§ 4-681.03" codified:display="New"/>
+    <codify:insert doc="D.C. Code" path="4|6D" num-value="4-681.03" codified:doc="D.C. Code" codified:path="§4-681.03"/>
     <num>4</num>
     <heading>Child Trust Fund Program.</heading>
     <para>
@@ -260,13 +262,13 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="4|6D" num-value="4-681.04" codified:doc="D.C. Code" codified:path="§4-681.04" codified:citation="§ 4-681.04" codified:display="New"/>
+    <codify:insert doc="D.C. Code" path="4|6D" num-value="4-681.04" codified:doc="D.C. Code" codified:path="§4-681.04"/>
     <num>5</num>
     <heading>Independent fiduciary.</heading>
     <text>The Chief Financial Officer may enter into a contract with an independent fiduciary to administer the Fund and the CTF Program.</text>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="4|6D" num-value="4-681.05" codified:doc="D.C. Code" codified:path="§4-681.05" codified:citation="§ 4-681.05" codified:display="New"/>
+    <codify:insert doc="D.C. Code" path="4|6D" num-value="4-681.05" codified:doc="D.C. Code" codified:path="§4-681.05"/>
     <num>6</num>
     <heading>Enrollment in the CTF Program; denial.</heading>
     <para>
@@ -293,7 +295,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="4|6D" num-value="4-681.06" codified:doc="D.C. Code" codified:path="§4-681.06" codified:citation="§ 4-681.06" codified:display="New"/>
+    <codify:insert doc="D.C. Code" path="4|6D" num-value="4-681.06" codified:doc="D.C. Code" codified:path="§4-681.06"/>
     <num>7</num>
     <heading>Distribution of funds.</heading>
     <para>
@@ -347,7 +349,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="4|6D" num-value="4-681.07" codified:doc="D.C. Code" codified:path="§4-681.07" codified:citation="§ 4-681.07" codified:display="New"/>
+    <codify:insert doc="D.C. Code" path="4|6D" num-value="4-681.07" codified:doc="D.C. Code" codified:path="§4-681.07"/>
     <num>8</num>
     <heading>Reporting requirement.</heading>
     <para>
@@ -388,7 +390,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="4|6D" num-value="4-681.08" codified:doc="D.C. Code" codified:path="§4-681.08" codified:citation="§ 4-681.08" codified:display="New"/>
+    <codify:insert doc="D.C. Code" path="4|6D" num-value="4-681.08" codified:doc="D.C. Code" codified:path="§4-681.08"/>
     <num>9</num>
     <heading>Rules.</heading>
     <text>Within 60 days after <span codify:value="December 13, 2021">the applicability date of this act</span>, the Chief Financial Officer shall issue rules to implement <span codify:value="§§">sections</span> <code-cite doc="D.C. Code" path="§4-681.01" codify:value="4-681.01">2</code-cite> through <code-cite doc="D.C. Code" path="§4-681.06" codify:value="4-681.06">7</code-cite>.  In drafting the rules, the Chief Financial Officer may consult with the agencies as the Chief Financial Officers considers necessary and appropriate.</text>
@@ -401,7 +403,7 @@
       <text>Section 47-1803.02(a)(2) of the District of Columbia Official Code is amended by adding a new subparagraph (QQ) to read as follows:</text>
       <include lvl="2">
         <para>
-          <codify:insert doc="D.C. Code" path="§47-1803.02|(a)|(2)" codified:doc="D.C. Code" codified:path="§47-1803.02|(a)|(2)|(QQ)" codified:citation="§ 47-1803.02" codified:display="Amend"/>
+          <codify:insert doc="D.C. Code" path="§47-1803.02|(a)|(2)" codified:doc="D.C. Code" codified:path="§47-1803.02|(a)|(2)|(QQ)"/>
           <num>(QQ)</num>
           <text>The amount received by an individual pursuant to <code-cite doc="D.C. Code" path="§4-681.05">section 6 of the Child Wealth Building Act of 2021, as introduced on May 3, 2021 (Bill 24-236)</code-cite>.</text>
         </para>

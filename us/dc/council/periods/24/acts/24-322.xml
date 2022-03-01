@@ -20,7 +20,14 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Returning to School Safely Emergency Amendment Act of 2022".</text>
-  <codify:insert doc="D.C. Code" path="38|9N" after="I" history="false" codified:doc="D.C. Code" codified:path="38|9N|II">
+  <codify:insert doc="D.C. Code" path="38|9N" history="false" codified:doc="D.C. Code" codified:path="38|9N|I">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>I</num>
+      <heading>General.</heading>
+    </container>
+  </codify:insert>
+  <codify:insert doc="D.C. Code" path="38|9N" history="false" codified:doc="D.C. Code" codified:path="38|9N|II">
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
