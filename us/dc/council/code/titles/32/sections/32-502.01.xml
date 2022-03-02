@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-502.01</num>
   <text>
-      *NOTE: This section was created by emergency legislation that will expire on May 4, 2022.*
+      *NOTE: This section was created by temporary legislation that will expire on October 1, 2022.*
       </text>
   <heading>COVID-19 leave.</heading>
   <para>
@@ -55,7 +55,7 @@
   </para>
   <para>
     <num>(d)</num>
-    <text>An employer may require an employee to provide reasonable advance notice of leave taken under section; provided, that in the event of an emergency or an unforeseen need to use the leave an employer may not require an employee to provide advance notice of the employee's need to use leave, but may require notice to be provided as soon as reasonably practicable after leave is taken, but in no event fewer than 24 hours, after leave is taken.</text>
+    <text>An employer may require an employee to provide reasonable advance notice of leave taken under section; provided, that in the event of an emergency or an unforeseen need to use the leave an employer may not require an employee to provide advance notice of the employee's need to use leave, but may require notice to be provided as soon as reasonably practicable after leave is taken, but in no event fewer than 24 hours after leave is taken.</text>
   </para>
   <para>
     <num>(e)</num>
@@ -78,7 +78,7 @@
   </para>
   <para>
     <num>(f)</num>
-    <text>The provisions of <cite path="§32-505">§ 32-505</cite> shall apply to an employee who takes leave pursuant to this section.</text>
+    <text>The provisions of <cite path="§32-531.05">§ 32-531.05</cite> shall apply to an employee who takes leave pursuant to this section.</text>
   </para>
   <para>
     <num>(g)</num>
@@ -94,8 +94,10 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 8-181" type="History" path="§3a">Oct. 3, 1990, D.C. Law 8-181, § 3a</annotation>
-    <annotation app="2022-02-03" doc="D.C. Act 24-319" eff="2022-02-03" path="§3" type="History" display="false"/>
-    <annotation app="2022-02-03" doc="D.C. Act 24-319" eff="2022-02-03" path="§3" prefix="as added" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-319" path="§3" codified:display="Note" app="2022-02-03" eff="2022-02-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-319" path="§3">§ 3 of COVID Vaccination Leave Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-319, Feb. 3, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-319" path="§3" codified:display="Note" app="2022-02-18" eff="2022-02-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-319" path="§3">§ 3 of COVID Vaccination Leave Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-319, Feb. 3, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2022-02-18" doc="D.C. Act 24-319" eff="2022-02-03" path="§3" type="History" display="false"/>
+    <annotation app="2022-02-18" doc="D.C. Law 24-61" eff="2022-02-18" path="§3" type="History" display="false"/>
+    <annotation app="2022-02-18" doc="D.C. Law 24-61" eff="2022-02-18" path="§3" prefix="as added" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-61" path="§3" codified:display="Note" app="2022-02-18" eff="2022-02-18">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-61" path="§3">§ 3 of COVID Vaccination Leave Temporary Amendment Act of 2021 (D.C. Law 24-61, Feb. 18, 2022, 68 DCR 014074)</cite>.</annotation>
   </annotations>
 </section>
