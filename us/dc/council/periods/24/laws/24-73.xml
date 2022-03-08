@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Act 24-269">
+<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 24-73">
+  <num type="law">24-73</num>
   <num type="act">24-269</num>
   <num type="bill">24-339</num>
   <heading type="short">John Lewis Elementary School Designation Act of 2021</heading>
   <heading type="long">To designate the school in Lot 0814 in Square 2806, at 1335 Farragut Place, N.W., as John Lewis Elementary School.</heading>
   <meta>
     <introduced>2021-07-06</introduced>
-    <effective projected="true">2022-03-02</effective>
+    <effective>2022-02-24</effective>
     <citations>
+      <citation type="law" url="https://lims.dccouncil.us/downloads/LIMS/47627/Signed_Act/B24-0339-Signed_Act.pdf">D.C. Law 24-73</citation>
       <citation type="act" url="https://lims.dccouncil.us/downloads/LIMS/47627/Signed_Act/B24-0339-Signed_Act.pdf">D.C. Act 24-269</citation>
       <citation type="register">69 DCR 000188</citation>
     </citations>
@@ -23,7 +25,7 @@
   <section>
     <num>2</num>
     <text>Pursuant to sections 401 and 422 of the Street and Alley Closing and Acquisition Procedures Act of 1982, effective March 10, 1983 (D.C. Law 4-201; D.C. Official Code §§ 9-204.01 and 9-204.22) ("Act"), and notwithstanding section 422(a) of the Act (D.C. Official Code § 9-204.22(a)), the Council designates the school in Lot 0814 in Square 2806, at 1335 Farragut Place, N.W., as "John Lewis Elementary School".</text>
-    <codify:street-designation-anno action="the Council designates the school in Lot 0814 in Square 2806, at 1335 Farragut Place, N.W., as &quot;John Lewis Elementary School" codified:doc="D.C. Code" codified:path="§9-204.01" codified:citation="§ 9-204.01" codified:display="Note"/>
+    <codify:street-designation-anno action="the Council designates the school in Lot 0814 in Square 2806, at 1335 Farragut Place, N.W., as &quot;John Lewis Elementary School" codified:doc="D.C. Code" codified:path="§9-204.01" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

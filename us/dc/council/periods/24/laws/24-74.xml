@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Act 24-265">
+<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 24-74">
+  <num type="law">24-74</num>
   <num type="act">24-265</num>
   <num type="bill">24-371</num>
   <heading type="short">Ward Redistricting Amendment Act of 2021</heading>
   <heading type="long">To amend the Redistricting Procedure Act of 1981 to adjust the ward boundaries within the District of Columbia; to amend the Boundaries Act of 1975 to include a reference for clarity; to amend Title 18 of the District of Columbia Municipal Regulations to preserve the existing residential permit parking zones in areas that are changing wards; and to amend the State Board of Education Establishment Act of 2007 to replace residency qualifications that could prevent persons who change wards as a result of redistricting from becoming candidates for the office of ward member in the year following redistricting.</heading>
   <meta>
     <introduced>2021-07-13</introduced>
-    <effective projected="true">2022-03-02</effective>
+    <effective>2022-02-24</effective>
     <citations>
+      <citation type="law" url="https://lims.dccouncil.us/downloads/LIMS/47737/Signed_Act/B24-0371-Signed_Act.pdf">D.C. Law 24-74</citation>
       <citation type="act" url="https://lims.dccouncil.us/downloads/LIMS/47737/Signed_Act/B24-0371-Signed_Act.pdf">D.C. Act 24-265</citation>
       <citation type="register">69 DCR 000010</citation>
     </citations>
@@ -28,7 +30,7 @@
     <text>Section 4 of the Redistricting Procedure Act of 1981, effective March 16, 1982 (D.C. Law 4-87; D.C. Official Code § 1-1041.03), is amended to read as follows:</text>
     <include>
       <section>
-        <codify:replace doc="D.C. Code" path="§1-1041.03" codified:doc="D.C. Code" codified:path="§1-1041.03" codified:citation="§ 1-1041.03" codified:display="Amend"/>
+        <codify:replace doc="D.C. Code" path="§1-1041.03" codified:doc="D.C. Code" codified:path="§1-1041.03"/>
         <num codify:value="1-1041.03">4</num>
         <heading>Adoption of election ward boundaries effective January 1, 2022.</heading>
         <para>
@@ -99,7 +101,7 @@
       <text>Sub-paragraph (A) is amended to read as follows:</text>
       <include lvl="2">
         <para>
-          <codify:replace codified:doc="D.C. Code" codified:path="§38-2651|(e)|(1)|(A)" codified:citation="§ 38-2651" codified:display="Amend"/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§38-2651|(e)|(1)|(A)"/>
           <num>(A)</num>
           <text>Be a qualified elector, as that term is defined in <code-cite doc="D.C. Code" path="§1-1001.02">section 2 of the District of Columbia Election Code of 1955, approved August 12, 1955 (69 Stat. 699; D.C. Official Code § 1-1001.02)</code-cite>, and, except for the at-large member, reside within the school election ward he or she represents;</text>
         </para>
@@ -111,7 +113,7 @@
       <text>Sub-paragraph (B) is amended to read as follows:</text>
       <include lvl="2">
         <para>
-          <codify:replace codified:doc="D.C. Code" codified:path="§38-2651|(e)|(1)|(B)" codified:citation="§ 38-2651" codified:display="Amend"/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§38-2651|(e)|(1)|(B)"/>
           <num>(B)</num>
           <text>Satisfy the residency requirement set forth in <code-cite doc="D.C. Code" path="§1-1001.08|(b)">section 8(b) of the District of Columbia Election Code of 1955, approved August 12, 1955 (69 Stat. 701; D.C. Official Code § 1-1001.08(b))</code-cite>;</text>
         </para>

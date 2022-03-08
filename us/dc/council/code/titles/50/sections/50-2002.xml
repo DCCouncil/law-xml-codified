@@ -1,21 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-2002</num>
   <heading>Approval of courses; certificate of completion.</heading>
   <para>
     <num>(a)</num>
-    <text>The Department of Transportation shall establish criteria and guidelines for the approval of motor vehicle accident prevention courses (“course”) for individuals 50 years of age and older.</text>
+    <text>The Department of Motor Vehicles shall establish criteria and guidelines for the approval of motor vehicle accident prevention courses ("course") for all licensed drivers.</text>
   </para>
   <para>
     <num>(b)</num>
     <text>An approved classroom course shall require that each student receives a minimum of 6 hours of instruction for the initial course and 4 hours of instruction for the renewal courses.</text>
   </para>
   <para>
-    <num>(b-1)</num>
+    <num>(c)</num>
     <text>An approved online course shall require that each student receives validation of instruction that is equal to or greater than that offered in a classroom course.</text>
   </para>
   <para>
-    <num>(c)</num>
+    <num>(d)</num>
+    <text>All course criteria shall endeavor to be consistent with the goals of the District's Vision Zero Initiative, including a focus on how drivers can ensure the safety of pedestrians and bicyclists.</text>
+  </para>
+  <para>
+    <num>(e)</num>
     <text>An individual who successfully completes an approved course shall be issued a certificate of completion by the organization operating the course.</text>
   </para>
   <annotations>
@@ -24,5 +28,7 @@
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 20-51">D.C. Law 20-51</cite> substituted “50 years of age” for “55 years of age” in (a); rewrote (b), which read: “An approved course shall provide not less than 8 hours of actual classroom or field driving instruction”; and added (b-1).</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 40-492.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§50-2003">§ 50-2003</cite>.</annotation>
+    <annotation app="2022-02-18" doc="D.C. Law 24-51" eff="2022-02-18" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2022-02-18" doc="D.C. Law 24-51" eff="2022-02-18" path="§2|(d)" type="History"/>
   </annotations>
 </section>

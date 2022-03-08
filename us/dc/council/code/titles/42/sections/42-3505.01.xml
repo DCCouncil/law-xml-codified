@@ -2,18 +2,15 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>42-3505.01</num>
   <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on June 9, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§42-3505.01(Perm)">Permanent Version</cite>.*
-      </text>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on March 13, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§42-3505.01(Perm)">Permanent Version</cite>.*
-      </text>
-  <text>
       *NOTE: This section includes amendments by temporary legislation that will expire on October 1, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§42-3505.01(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on October 7, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§42-3505.01(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Evictions.</heading>
   <para>
     <num>(a)</num>
-    <para codify:path="(1)">
+    <para>
       <num>(1)</num>
       <text>Except as provided in this section, no tenant shall be evicted from a rental unit, notwithstanding the expiration of the tenant's lease or rental agreement, so long as the tenant continues to pay the rent to which the housing provider is entitled for the rental unit; provided, that the nonpayment of a late fee shall not be the basis for an eviction. No tenant shall be evicted from a rental unit for any reason unless the tenant has been served with a written notice which meets the requirements of this section. Notices to vacate for all reasons other than for nonpayment of rent shall be served upon both the tenant and the Rent Administrator. All notices to vacate shall contain a statement detailing the reasons for the eviction, and if the housing accommodation is required to be registered by this chapter, a statement that the housing accommodation is registered with the Rent Administrator. The Rent Administrator shall provide unredacted copies of any such notices to any legal services provider upon request.</text>
     </para>
@@ -34,7 +31,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>The Superior Court shall dismiss a claim brought by a housing provider to recover possession of a rental unit where the housing provider:</text>
+      <text>The Superior Court shall dismiss a claim brought by a housing provider to recover possession of a rental unit when the housing provider:</text>
       <para>
         <num>(A)</num>
         <text>Did not provide the tenant with notice as required by this subsection;</text>
@@ -45,7 +42,7 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>In cases where a notice to quit or a summons and complaint are served by posting on the leased premise, failed to provide the Superior Court with photographic evidence of the posted service with a readable timestamp that indicates the date and time of when the summons was posted.</text>
+        <text>In cases in which a notice to quit or a summons and complaint are served by posting on the leased premise, failed to provide the Superior Court with photographic evidence of the posted service with a readable timestamp that indicates the date and time of when the summons or notice was posted.</text>
       </para>
     </para>
   </para>
@@ -64,7 +61,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>The tenant's application for emergency rental assistance was denied, or the application was approved with a balance of equal to or greater than $600 remaining unpaid, and the tenant and housing provider have not established a rent payment plan pursuant to section 402 of the Coronavirus Support Temporary Amendment Act of 2021, effective June 24, 2021 (D.C. Law 24-9; D.C. Official Code § 42-3192.01) [Expired], within 14 days of the denial; or</text>
+        <text>The tenant's application for emergency rental assistance was denied, or the application was approved with a balance of equal to or greater than $600 remaining unpaid, and the tenant and housing provider have not established a rent payment plan pursuant tosection 402 of the Coronavirus Support Temporary Amendment Act of 2021, effective June 24, 2021 (D.C. Law 24-9; D.C. Official Code § 42-3192.01) [Expired], within 14 days of the denial; or</text>
       </para>
       <para>
         <num>(C)</num>
@@ -130,10 +127,14 @@
       <para>
         <num>(C)</num>
         <text>You miss payments under a rent payment plan totaling at least $600 or two months of rent, whichever is greater.</text>
-        <text>If [name of housing provider] files in court, your next notice will be a summons to appear in court. You have the right to defend yourself in court. Only a court can order your eviction. For further help or to seek free legal services, contact the Office of the Tenant Advocate at 202-719-6560 or the Landlord Tenant Legal Assistance Network at 202-780-2575.".</text>
       </para>
       <para>
-        <num>(B)</num>
+        <num> </num>
+        <heading/>
+        <text>If [name of housing provider] files in court, your next notice will be a summons to appear in court. You have the right to defend yourself in court. Only a court can order your eviction. For further help or to seek free legal services, contact the Office of the Tenant Advocate at 202-719-6560 or the Landlord Tenant Legal Assistance Network at 202-780-2575.</text>
+      </para>
+      <para>
+        <num>(B) [sic.]</num>
         <text>On or after October 28, 2021, a notice of past due rent shall contain the following or substantively similar language:</text>
         <text>This is a notice of past due rent. The total amount of rent owed is [list specific amount]. A ledger showing the dates of rent charges and payments for the period of delinquency is attached. You have the right to remain in the rental unit if the total balance of unpaid rent is paid in full or if you are current on a rent payment plan.</text>
         <text>You may qualify for Emergency Rental Program Assistance (ERAP) if your household's income is equal to or less than the amounts shown below:</text>
@@ -177,19 +178,19 @@
         <text>[Name of housing provider] has the right to file a case in court seeking your eviction without further notice if you do not pay the total balance of unpaid rent in full or you miss payments under a rent payment plan totaling at least $600 or two months of rent, whichever is greater.</text>
         <text>If [name of housing provider] files in court, your next notice will be a summons to appear in court. You have the right to defend yourself in court, including filling out the attached declaration of financial hardship. This declaration should be submitted to the court if you receive a summons.</text>
         <text>Only a court can order your eviction. For further help or to seek free legal services, including help applying for rental assistance or preparing a payment plan, contact the Office of Tenant Advocate at 202-719-6560 or the Landlord Tenant Legal Assistance Network at 202-780-2575.</text>
-        <text/>
-        <text>TENANT’S DECLARATION OF ECONOMIC OR MEDICAL HARDSHIP DURING THE COVID-19 PANDEMIC</text>
+        <text>
+          <strong>TENANT'S DECLARATION OF ECONOMIC OR MEDICAL HARDSHIP DURING THE COVID-19 PANDEMIC.</strong>
+        </text>
         <text>I am a tenant, lawful occupant, or other person responsible for paying rent, use and occupancy, or any other financial obligation under a lease or tenancy agreement at (address of dwelling unit):</text>
-        <text/>
-        <text>YOU MUST INDICATE BELOW YOUR QUALIFICATION FOR EVICTION PROTECTION BY SELECTING ONE MORE OF THE OPTIONS BELOW</text>
+        <text>
+          <strong>YOU MUST INDICATE BELOW YOUR QUALIFICATION FOR EVICTION PROTECTION BY SELECTING ONE MORE OF THE OPTIONS BELOW</strong>
+        </text>
         <text>I am experiencing financial or medical hardship, and I am unable to pay my rent or other financial obligations under the lease in full or obtain alternative suitable permanent housing because of one or more of the following:</text>
-        <text>☐ My income prior to or during the COVID-19 covered period (March 11, 2020, through today) was below 40 percent of area median income, based on the chart below.</text>
-        <text>☐ My income has decreased during the COVID-19 covered period due to factors such as temporary or permanent job loss, reduced work hours, reductions in business revenue, or reductions in financial assistance;</text>
-        <text>☐ Personal or household expenses during the COVID-19 covered period have increased due to factors such as COVID-19-related medical care or increased childcare costs;</text>
+        <text>☐ My income is below 40 percent of area median income, based on the chart below.</text>
         <text>☐ I am currently or during the COVID-19 covered period was eligible for cash assistance, supplemental nutrition assistance program (food stamps), supplemental security income (SSI), Medicaid or DC Healthcare Alliance, or unemployment insurance or benefits.</text>
-        <text>☐ Vacating my home and moving into new permanent housing would pose a significant health risk because I myself and/or one or more members of my household have an increased risk for severe illness or death from COVID-19 due to being over the age of sixty-five, having a disability or having an underlying medical condition, which may include but is not limited to being immunocompromised.</text>
+        <text>☐ Vacating my home and moving into new permanent housing would pose a significant health risk because myself and/or one or more members of my household have an increased risk for severe illness or death from COVID-19 due to being over the age of sixty-five, having a disability or having an underlying medical condition, which may include but is not limited to being immunocompromised.</text>
         <text>To the extent that I have lost household income or had increased expenses, any additional public assistance that I have received since the start of the COVID-19 pandemic did not fully make up for my loss of household income or increased expenses.</text>
-        <text>I understand that I must comply with all other lawful terms under my tenancy, lease agreement or similar contract. I further understand that lawful fees, penalties or interest for not having paid rent in full or met other financial obligations as required by my tenancy, lease agreement or similar contract may still be charged or collected and may result in a monetary judgment against me. I further understand that my landlord may be able to seek eviction and that the law may provide certain protections at that time that are separate from those available through this declaration.</text>
+        <text>I understand that I must comply with all other lawful terms under my tenancy, lease agreement, or similar contract. I further understand that lawful fees, penalties, or interest for not having paid rent in full or met other financial obligations as required by my tenancy, lease agreement, or similar contract may still be charged or collected and may result in a monetary judgment against me. I further understand that my landlord may be able to seek eviction and that the law may provide certain protections at that time that are separate from those available through this declaration.</text>
         <text>Signed:</text>
         <text>Print Name:</text>
         <text>Date:</text>
@@ -701,8 +702,30 @@
     </para>
   </para>
   <para>
+    <num>(r)</num>
+    <text>No tenant shall be evicted from a rental unit unless the housing provider provides documentation to the court at the time of filing a writ of restitution demonstrating that the housing provider has a current business license for rental housing issued pursuant to <cite path="§47-2828|(c)|(1)">§ 47-2828(c)(1)</cite>.</text>
+  </para>
+  <para>
     <num>(s)</num>
     <text>No purchaser from a foreclosure auction or other auction shall issue a notice to quit or otherwise initiate an action for possession, ejectment, or their equivalents (or charge rent, fair use and occupancy, or their equivalents) against a current occupant, unless the purchaser has obtained the deed to the property. This subsection shall not alter the rights of tenants whose tenancies survive foreclosure.</text>
+  </para>
+  <para>
+    <num>(t)</num>
+    <para>
+      <num>(1)</num>
+      <text>For any eviction authorized in a case filed prior to March 11, 2020, that involves non-payment of rent, the housing provider shall contact the Department of Human Services to determine whether the tenant has a pending Emergency Rental Assistance Program ("ERAP") and/or STAY DC application no earlier than 5 business days and no later than 48 hours prior to the scheduled date and time of eviction.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <para>
+        <num>(A)</num>
+        <text>When the tenant has a pending ERAP and/or STAY DC application, the housing provider shall notify the Superior Court and the U.S. Marshals Service no later than 24 hours prior to the scheduled date and time of the eviction.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>If the tenant has a pending ERAP and/or STAY DC application, the housing provider shall reschedule the eviction for a date no earlier than 3 weeks from the current scheduled eviction date to allow for the application to be processed, a determination of funding to be made, and funding distributed to the housing provider if the application is approved. Any further stay or rescheduling of the eviction date may only be granted by order of the Superior Court or by agreement of the housing provider.</text>
+      </para>
+    </para>
   </para>
   <annotations>
     <text type="Editor's Notes">The Budget Director of the Council of the District of Columbia has determined, as of February 15, 2012, that the fiscal effect of subsection (o)(2), added by Law 17-146, has not been included in an approved budget and financial plan. Therefore, the provisions of subsection (o), enacted by Law 17-146, are not in effect.</text>
@@ -839,7 +862,6 @@
     <annotation app="2021-10-07" doc="D.C. Act 24-178" eff="2021-10-07" path="§2|(b)|(1)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-186" path="§2|(a)" codified:display="Note" app="2021-10-25" eff="2021-10-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-186" path="§2|(a)">§ 2(a) of Fairness in Renting Emergency Amendment Act of 2021 (D.C. Act 24-186, Oct. 25, 2021, 68 DCR 011333)</cite>.</annotation>
     <annotation app="2021-10-25" doc="D.C. Act 24-186" eff="2021-10-25" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="§5|(b)|(1)" type="History" display="false"/>
     <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="§5|(b)|(1)|(A)|(i)" type="History"/>
     <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="§5|(b)|(1)|(A)|(ii)" type="History"/>
     <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="§5|(b)|(1)|(A)|(iii)" type="History"/>
@@ -848,18 +870,23 @@
     <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="§5|(b)|(1)|(E)|(iii)" type="History"/>
     <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="§5|(b)|(1)|(F)" type="History"/>
     <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="§5|(b)|(1)|(G)" type="History"/>
-    <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="§5|(b)|(1)|(H)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-39" path="§5|(b)|(1)" codified:display="Note" app="2021-10-27" eff="2021-10-27">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-39" path="§5|(b)|(1)">§ 5(b)(1) of Public Emergency Extension and Eviction and Utility Moratorium Phasing Temporary Amendment Act of 2021 (D.C. Law 24-39, Oct. 27, 2021, 68 DCR 009487)</cite>.</annotation>
-    <annotation app="2021-12-13" doc="D.C. Act 24-231" eff="2021-12-13" path="§3|(b)" type="History" display="false"/>
-    <annotation app="2021-12-13" doc="D.C. Act 24-231" eff="2021-12-13" path="§3|(b)|(1)|(A)" type="History"/>
-    <annotation app="2021-12-13" doc="D.C. Act 24-231" eff="2021-12-13" path="§3|(b)|(1)|(B)" type="History"/>
-    <annotation app="2021-12-13" doc="D.C. Act 24-231" eff="2021-12-13" path="§3|(b)|(3)" type="History"/>
-    <annotation app="2021-12-13" doc="D.C. Act 24-231" eff="2021-12-13" path="§3|(b)|(5)" type="History"/>
+    <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="§5|(b)|(1)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-231" path="§3|(b)" codified:display="Note" app="2021-12-13" eff="2021-12-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-231" path="§3|(b)">§ 3(b) of Tenant Safe Harbor Emergency Amendment Act of 2021 (D.C. Act 24-231, Dec. 13, 2021, 68 DCR 013238)</cite>.</annotation>
+    <annotation app="2021-12-13" doc="D.C. Act 24-231" eff="2021-12-13" path="§3|(b)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-307" path="§2|(a)" codified:display="Note" app="2022-01-24" eff="2022-01-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-307" path="§2|(a)">§ 2(a) of Fairness in Renting Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-307, Jan. 24, 2022, 69 DCR 000635)</cite>.</annotation>
     <annotation app="2022-01-24" doc="D.C. Act 24-307" eff="2022-01-24" path="§2|(a)" type="History" display="false"/>
     <annotation app="2022-02-18" doc="D.C. Law 24-62" eff="2022-02-18" path="§2|(a)" type="History" display="false"/>
     <annotation app="2022-02-18" doc="D.C. Law 24-62" eff="2022-02-18" path="§2|(a)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-62" path="§2|(a)" codified:display="Note" app="2022-02-18" eff="2022-02-18">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-62" path="§2|(a)">§ 2(a) of Fairness in Renting Temporary Amendment Act of 2021 (D.C. Law 24-62, Feb. 18, 2022, 68 DCR 013220)</cite>.</annotation>
+    <annotation app="2022-02-24" doc="D.C. Law 24-75" eff="2022-02-24" path="§3|(b)" type="History" display="false"/>
+    <annotation app="2022-02-24" doc="D.C. Law 24-75" eff="2022-02-24" path="§3|(b)|(1)" type="History"/>
+    <annotation app="2022-02-24" doc="D.C. Law 24-75" eff="2022-02-24" path="§3|(b)|(2)" type="History"/>
+    <annotation app="2022-02-24" doc="D.C. Law 24-75" eff="2022-02-24" path="§3|(b)|(3)" type="History"/>
+    <annotation app="2022-02-24" doc="D.C. Law 24-75" eff="2022-02-24" path="§3|(b)|(4)" type="History"/>
+    <annotation app="2022-02-24" doc="D.C. Law 24-75" eff="2022-02-24" path="§3|(b)|(5)" type="History"/>
+    <annotation app="2022-02-24" doc="D.C. Law 24-75" eff="2022-02-24" path="§3|(b)|(6)" type="History"/>
+    <annotation app="2022-02-24" doc="D.C. Law 24-75" eff="2022-02-24" path="§3|(b)|(7)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-75" path="§3|(b)" codified:display="Note" app="2022-02-24" eff="2022-02-24">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-75" path="§3|(b)">§ 3(b) of Tenant Safe Harbor Temporary Amendment Act of 2021 (D.C. Law 24-75, Feb. 24, 2022, 69 DCR 000190)</cite>.</annotation>
   </annotations>
 </section>

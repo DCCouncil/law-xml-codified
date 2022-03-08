@@ -871,10 +871,11 @@
   <container>
     <prefix>Chapter</prefix>
     <num>20</num>
-    <heading>Senior Citizen Motor Vehicle Accident Prevention Course Certification.</heading>
+    <heading>Motor Vehicle Accident Prevention Course Certification.</heading>
     <xi:include href="./sections/50-2001.xml"/>
     <xi:include href="./sections/50-2002.xml"/>
     <xi:include href="./sections/50-2003.xml"/>
+    <annotation app="2022-02-18" doc="D.C. Law 24-51" eff="2022-02-18" path="§2|(b)" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
