@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-531.03</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on April 24, 2022.*
-      </text>
   <heading>Education on menstruation.</heading>
   <para>
     <num>(a)</num>
@@ -22,18 +19,12 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>OSSE shall implement the health education standards required by this section within one year of January 24, 2022.</text>
+    <text>OSSE shall implement the health education standards required by this section within one year of March 15, 2022.</text>
   </para>
-  <codify:emergency doc="D.C. Code" path="§38-531.03" codified:doc="D.C. Code" codified:path="§38-531.03" codified:display="Note"/>
-  <codify:insert doc="D.C. Code" path="§38-531.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-531.03">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on April 24, 2022.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation app="2022-01-24" doc="D.C. Act 24-302" eff="2022-01-24" path="" type="History" display="false"/>
-    <annotation app="2022-01-24" doc="D.C. Act 24-302" eff="2022-01-24" path="§4" type="History" display="false"/>
-    <annotation app="2022-01-24" doc="D.C. Act 24-302" eff="2022-01-24" path="§4" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-302" path="§4" codified:display="Note" app="2022-01-24" eff="2022-01-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-302" path="§4">§ 4 of Expanding Student Access to Period Products Emergency Act of 2022 (D.C. Act 24-302, Jan. 24, 2022, 69 DCR 000620)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-302" path="§4" codified:display="Note" app="2022-03-15" eff="2022-01-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-302" path="§4">§ 4 of Expanding Student Access to Period Products Emergency Act of 2022 (D.C. Act 24-302, Jan. 24, 2022, 69 DCR 000620)</cite>.</annotation>
+    <annotation app="2022-03-15" doc="D.C. Act 24-302" eff="2022-01-24" path="§4" type="History" display="false"/>
+    <annotation app="2022-03-15" doc="D.C. Law 24-92" eff="2022-03-15" path="" type="History" display="false"/>
+    <annotation app="2022-03-15" doc="D.C. Law 24-92" eff="2022-03-15" path="§4" type="History"/>
   </annotations>
 </section>
