@@ -3,6 +3,9 @@
   <heading>Council Period 24 (2021-2022)</heading>
   <text>RECENT ADDITIONS TO THE D.C. CODE</text>
   <text>
+    <cite doc="D.C. Act 24-346">• Public Emergency Extension Emergency Amendment Act of 2022 (D.C. Act 24-346; Eff. Mar. 16, 2022)</cite>
+  </text>
+  <text>
     <cite doc="D.C. Law 24-101">• District of Columbia Housing Authority Resident Commissioners Election Deadline Extension Temporary Amendment Act of 2021 (D.C. Law 24-101; Eff. Mar. 15, 2022)</cite>
   </text>
   <text>
@@ -53,6 +56,7 @@
   </collection>
   <collection name="emergency">
     <heading>Emergency Acts</heading>
+    <xi:include href="./acts/24-346.xml"/>
     <xi:include href="./acts/24-335.xml"/>
     <xi:include href="./acts/24-334.xml"/>
     <xi:include href="./acts/24-333.xml"/>
@@ -216,6 +220,7 @@
     <heading>Temporary Laws</heading>
     <collection name="effective">
       <heading>Laws</heading>
+      <xi:include href="./laws/24-102.xml"/>
       <xi:include href="./laws/24-101.xml"/>
       <xi:include href="./laws/24-100.xml"/>
       <xi:include href="./laws/24-99.xml"/>
