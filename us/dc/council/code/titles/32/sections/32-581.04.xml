@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>[Applicable April 1, 2022]</reason>
+  <reason>Applicable October 1, 2022</reason>
   <num>32-581.04</num>
   <heading>Relief and penalties.</heading>
-  <text>[Applicable April 1, 2022].</text>
+  <text>Applicable October 1, 2022.</text>
   <annotations>
     <annotation app="2021-03-16" doc="D.C. Law 23-209" eff="2021-03-16" path="" type="History" display="false"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-209" eff="2021-03-16" path="§302|(a)" type="History" display="false"/>
@@ -17,5 +17,9 @@
         </annotation>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7202" type="History" display="false"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7202" type="History"/>
+    <annotation doc="D.C. Act 24-350" path="§2" type="Applicability" history="false" app="2022-03-28" eff="2022-03-28"><cite doc="D.C. Act 24-350" path="§2">Section 2 of D.C. Act 24-350</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the creation of this section shall apply as of October 1, 2022.
+        </annotation>
+    <annotation app="2022-03-28" doc="D.C. Act 24-350" eff="2022-03-28" path="§2" type="History" display="false"/>
+    <annotation app="2022-03-28" doc="D.C. Act 24-350" eff="2022-03-28" path="§2" type="History"/>
   </annotations>
 </section>
