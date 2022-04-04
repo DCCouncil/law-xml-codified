@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>38-2651</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 26, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§38-2651(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>State Board of Education; establishment; membership.</heading>
   <para>
     <num>(a)</num>
@@ -86,7 +89,15 @@
       </para>
       <para>
         <num>(D)</num>
-        <text>Not be an officer or employee of the District of Columbia government or of the Board.</text>
+        <text>Not be an officer or employee of:</text>
+        <para>
+          <num>(i)</num>
+          <text>The Board; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>With the exception of employees of the District of Columbia Public Schools, the District of Columbia government.</text>
+        </para>
       </para>
     </para>
     <para>
@@ -110,5 +121,8 @@
     <annotation app="2021-12-29" doc="D.C. Act 24-264" eff="2021-12-29" path="§5" type="History" display="false"/>
     <annotation app="2022-02-24" doc="D.C. Law 24-74" eff="2022-02-24" path="§5|(a)" type="History"/>
     <annotation app="2022-02-24" doc="D.C. Law 24-74" eff="2022-02-24" path="§5|(b)" type="History"/>
+    <annotation app="2022-03-28" doc="D.C. Act 24-352" eff="2022-03-28" path="§2" type="History" display="false"/>
+    <annotation app="2022-03-28" doc="D.C. Act 24-352" eff="2022-03-28" path="§2" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-352" path="§2" codified:display="Note" app="2022-03-28" eff="2022-03-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-352" path="§2">§ 2 of State Board of Education Membership Eligibility Emergency Amendment Act of 2022 (D.C. Act 24-352, Mar. 28, 2022, 69 DCR 002627)</cite>.</annotation>
   </annotations>
 </section>
