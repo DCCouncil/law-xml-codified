@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>3-151</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June, 24, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§3-151(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Establishment of the Criminal Code Reform Commission.</heading>
   <para>
     <num>(a)</num>
@@ -14,11 +17,15 @@
     <num>(c)</num>
     <para>
       <num>(1)</num>
-      <text>Except as provided in paragraph (2) of this subsection, the Executive Director shall be appointed by the Chairman of the Council, subject to the approval of the majority of the Council.  The Executive Director shall serve for a term of 3 years, and shall be paid a rate of compensation as may be established from time to time by the Council.</text>
+      <text>The Executive Director shall be appointed by the Chairman of the Council, subject to the approval of the majority of the Council.  The Executive Director shall serve for a term of 3 years, and shall be paid a rate of compensation as may be established from time to time by the Council.</text>
+    </para>
+    <para placeholder="Repealed">
+      <num>(2)</num>
+      <text>Repealed.</text>
     </para>
     <para>
-      <num>(2)</num>
-      <text>Notwithstanding paragraph (1) of this subsection, as of October 8, 2016, the Criminal Code Revision Project Director of the District of Columbia Sentencing and Criminal Code Revision Commission shall be the Executive Director of the Commission.</text>
+      <num>(3)</num>
+      <text>The Council approves an annual salary of $170,000, inclusive of fringe benefits, for Jinwoo Park, as Executive Director of the Criminal Code Reform Commission.</text>
     </para>
   </para>
   <para>
@@ -64,5 +71,10 @@
            </annotation>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3002|(b)" type="History" display="false"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§3002|(a)" type="History"/>
+    <annotation app="2022-03-26" doc="D.C. Act 24-386" eff="2022-03-26" path="§2" type="History" display="false"/>
+    <annotation app="2022-03-26" doc="D.C. Act 24-386" eff="2022-03-26" path="§2|(a)" type="History"/>
+    <annotation app="2022-03-26" doc="D.C. Act 24-386" eff="2022-03-26" path="§2|(b)" type="History"/>
+    <annotation app="2022-03-26" doc="D.C. Act 24-386" eff="2022-03-26" path="§2|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-386" path="§2" codified:display="Note" app="2022-03-26" eff="2022-03-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-386" path="§2">§ 2 of Criminal Code Reform Commission Executive Director Salary Establishment Emergency Amendment Act of 2022 (D.C. Act 24-386, Mar. 26, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
