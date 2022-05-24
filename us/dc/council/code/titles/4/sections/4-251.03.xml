@@ -5,13 +5,13 @@
   <para>
     <num>(a)</num>
     <text>A grandparent may be eligible to receive subsidy payments under this section if:</text>
-    <para>
+    <para placeholder="Repealed">
       <num>(1)</num>
-      <text>The grandparent has been the child’s primary caregiver for at least the previous 6 months.</text>
+      <text>Repealed.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(2)</num>
-      <text>The child has resided in the grandparent’s home for at least the previous 6 months;</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(3)</num>
@@ -22,11 +22,15 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>The parent is a minor enrolled in school; or</text>
+        <text>The parent is a minor enrolled in school;</text>
       </para>
       <para>
         <num>(C)</num>
-        <text>The parent is a minor with a medically verifiable disability under criteria that shall be prescribed by the Mayor pursuant to <cite path="§4-251.06">§ 4-251.06</cite>.</text>
+        <text>The parent is a minor with a medically verifiable disability under criteria that shall be prescribed by the Mayor pursuant to <cite path="§4-251.06">§ 4-251.06</cite>; or</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The parent is 18 years of age or older and has a medically verifiable disability under criteria prescribed by the Mayor pursuant to <cite path="§4-251.06">§ 4-251.06</cite> that prevents the parent from caring for the child;</text>
       </para>
     </para>
     <para>
@@ -39,7 +43,19 @@
     </para>
     <para>
       <num>(6)</num>
-      <text>The grandparent is a resident of the District as defined by <cite path="§4-205.03">§ 4-205.03</cite>;</text>
+      <text>At least one of the following residency requirements is met; provided that no grandparent residing outside of the District at the time of application for a subsidy may receive payments for more than one year without establishing that they have become a resident of the District as defined by <cite path="§4-205.03">§ 4-205.03</cite>:</text>
+      <para>
+        <num>(A)</num>
+        <text>The grandparent is a resident of the District as defined by <cite path="§4-205.03">§ 4-205.03</cite>;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The child resided in the District within the 6 months preceding the filing of the application for subsidy payments and the child's parent resides in the District at the time of the application for subsidy payments; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The child resided in the District within the 6 months preceding the filing of the application for subsidy payments, the child is currently enrolled in school in the District, and the child's parent has a medically verifiable disability under criteria prescribed by the Mayor pursuant to <cite path="§4-251.06">§ 4-251.06</cite> that prevents the parent from caring for the child, regardless of the parent's place of residence.</text>
+      </para>
     </para>
     <para>
       <num>(7)</num>
@@ -62,21 +78,9 @@
       <text>The grandparent has met any additional requirements prescribed by the Mayor pursuant to rules issued under <cite path="§4-251.06">§ 4-251.06</cite>.</text>
     </para>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(a-1)</num>
-    <text>The Mayor may waive the eligibility requirements established in subsection (a)(1) and (2) of this section if:</text>
-    <para>
-      <num>(1)</num>
-      <text>The Agency determines that the child is at risk of removal from the parent, guardian, or custodian pursuant to <cite path="§4-1301.07">§ 4-1301.07</cite>;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The parent, guardian, or custodian permits the grandparent to be the child’s primary caregiver; and</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>The parent, guardian, or custodian permits the child to reside with the grandparent.</text>
-    </para>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -132,5 +136,11 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-21">D.C. Law 17-21</cite>, in subsec. (a), rewrote pars. (1) and (3) and added par. (8A); and added subsec. (f).</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§4-251.05">§ 4-251.05</cite>.</annotation>
     <annotation app="2019-11-26" doc="D.C. Law 23-32" eff="2019-11-26" path="" type="History" display="false"/>
+    <annotation app="2022-05-18" doc="D.C. Law 24-118" eff="2022-05-18" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2022-05-18" doc="D.C. Law 24-118" eff="2022-05-18" path="§2|(a)|(2)|(A)" type="History"/>
+    <annotation app="2022-05-18" doc="D.C. Law 24-118" eff="2022-05-18" path="§2|(a)|(2)|(B)" type="History"/>
+    <annotation app="2022-05-18" doc="D.C. Law 24-118" eff="2022-05-18" path="§2|(a)|(2)|(C)" type="History"/>
+    <annotation app="2022-05-18" doc="D.C. Law 24-118" eff="2022-05-18" path="§2|(a)|(3)" type="History"/>
+    <annotation app="2022-05-18" doc="D.C. Law 24-118" eff="2022-05-18" path="§2|(b)" type="History"/>
   </annotations>
 </section>
