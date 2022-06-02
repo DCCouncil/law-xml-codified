@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <num>30-301</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on August 22, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§30-301(Perm)">Permanent Version</cite>.*
-      </text>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <num>30-301(Perm)</num>
   <heading>Hotel Recovery Grant Program.</heading>
   <para>
     <num>(a)</num>
@@ -35,7 +32,7 @@
       <num>(5)</num>
       <para>
         <num>(A)</num>
-        <text>For a business that remained open and operating in 2019, have experienced in 2020, as compared to end-of-year 2019, at least a 35% reduction in:</text>
+        <text>For a business that remained open and operating in 2019, have experienced in 2020, as compared to end-of-year 2019, at least a 40% reduction in:</text>
         <para>
           <num>(i)</num>
           <text>Occupancy;</text>
@@ -51,7 +48,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>For a business that was closed or partially closed in 2019, have experienced in 2020, as compared to end-of-year 2018, at least a 35% reduction in:</text>
+        <text>For a business that was closed or partially closed in 2019, have experienced in 2020, as compared to end-of-year 2018, at least a 40% reduction in:</text>
         <para>
           <num>(i)</num>
           <text>Occupancy;</text>
@@ -123,7 +120,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>The Mayor shall issue a report setting forth the information required by paragraph (1) of this subsection to the Council no later than July 15, 2022.</text>
+      <text>The Mayor shall issue a report setting forth the information required by paragraph (1) of this subsection to the Council no later than June 1, 2022.</text>
     </para>
   </para>
   <para>
@@ -152,17 +149,9 @@
   </para>
   <para>
     <num>(i)</num>
-    <text>In the event that the Mayor determines that a grant recipient violated the requirements of <cite path="30|3">this chapter</cite>, the grant recipient shall reimburse the amount of the grant not used in compliance with <cite path="30|3">this chapter</cite>; except, that in the event the Mayor determines that the violation was knowing and willful, the grant recipient shall reimburse the entire amount of the grant.</text>
+    <text>In the event that the Mayor determines that a grant recipient violated the requirements of <cite path="30|3">Chapter 3 of Title 30</cite>, the grant recipient shall reimburse the amount of the grant not used in compliance with <cite path="30|3">Chapter 3 of Title 30</cite>; except, that in the event the Mayor determines that the violation was knowing and willful, the grant recipient shall reimburse the entire amount of the grant.</text>
   </para>
   <annotations>
-    <annotation app="2019-04-25" doc="D.C. Law 22-307" eff="2019-04-25" path="§101" type="History" display="false"/>
-    <annotation doc="D.C. Act 23-165" path="§6|(b)" type="Applicability" history="false" app="2019-11-20" eff="2019-11-20" display="false">Applicability of <cite doc="D.C. Law 22-307">D.C. Law 22-307</cite>: <cite doc="D.C. Act 23-165" path="§6|(b)">Section 6(b) of D.C. Act 23-165</cite> repealed, on an emergency basis, <cite doc="D.C. Law 22-307" path="§301">§ 301 of D.C. Law 22-307</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-200">D.C. Law 22-307</cite> has been implemented.</annotation>
-    <annotation app="2019-11-20" doc="D.C. Act 23-165" eff="2019-11-20" path="§6|(b)" type="History" display="false"/>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="II" type="History" display="false"/>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2192" type="History"/>
-    <annotation app="2022-05-24" doc="D.C. Act 24-419" eff="2022-05-24" path="§2" type="History" display="false"/>
-    <annotation app="2022-05-24" doc="D.C. Act 24-419" eff="2022-05-24" path="§2|(a)" type="History"/>
-    <annotation app="2022-05-24" doc="D.C. Act 24-419" eff="2022-05-24" path="§2|(b)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-419" path="§2" codified:display="Note" app="2022-05-24" eff="2022-05-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-419" path="§2">§ 2 of COVID-19 Hotel Recovery Grant Program Emergency Amendment Act of 2022 (D.C. Act 24-419, May 24, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation doc="D.C. Law 24-45" type="History" path="§2192">Nov. 13, 2021, D.C. Law 24-45, § 2192, 68 DCR 10163</annotation>
   </annotations>
 </section>
