@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-620.32</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on May 5, 2022. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-620.32(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Employee testing.</heading>
   <para>
     <num>(a)</num>
@@ -45,10 +42,6 @@
     <num>(g)</num>
     <text>Notwithstanding <cite path="§1-620.35|(a)">§ 1-620.35(a)</cite>, <cite path="1|6|XX-C">this subchapter</cite> shall comply with the requirements of <cite path="1|6|XX-E">subchapter XX-E of this chapter</cite> for employees who are qualifying patients.</text>
   </para>
-  <para>
-    <num>(h)</num>
-    <text>A volunteer at a District of Columbia Public School shall not be tested for drug and alcohol use; except, that a volunteer at a District of Columbia Public School may be tested for drug and alcohol use based on reasonable suspicion.</text>
-  </para>
   <annotations>
     <annotation doc="D.C. Law 2-139" type="History" path="§2032">Mar. 3, 1979, D.C. Law 2-139, § 2032</annotation>
     <annotation doc="D.C. Law 15-353" type="History">as added Apr. 13, 2005, D.C. Law 15-353, § 102, 52 DCR 2331</annotation>
@@ -83,8 +76,7 @@
     <annotation app="2021-05-04" doc="D.C. Act 24-72" eff="2021-05-04" path="§2|(c)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-114" path="§2|(b)" codified:display="Note" app="2021-07-15" eff="2021-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-114" path="§2|(b)">§ 2(b) of DCPS Drug Testing Clarification Emergency Amendment Act of 2021 (D.C. Act 24-114, July 15, 2021, 68 DCR 006940)</cite>.</annotation>
     <annotation app="2021-07-15" doc="D.C. Act 24-114" eff="2021-07-15" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2021-09-22" doc="D.C. Law 24-37" eff="2021-09-22" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2021-09-22" doc="D.C. Law 24-37" eff="2021-09-22" path="§2|(b)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-37" path="§2|(b)" codified:display="Note" app="2021-09-22" eff="2021-09-22">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-37" path="§2|(b)">§ 2(b) of DCPS Drug Testing Clarification Temporary Amendment Act of 2021 (D.C. Law 24-37, Sept. 22, 2021, 68 DCR 007339)</cite>.</annotation>
+    <annotation app="2021-09-22" doc="D.C. Law 24-37" eff="2021-09-22" path="§2|(b)" type="History" display="false"/>
   </annotations>
 </section>

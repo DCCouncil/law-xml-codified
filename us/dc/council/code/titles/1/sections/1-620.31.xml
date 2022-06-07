@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-620.31</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on May 5, 2022. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-620.31(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
   <para>
@@ -32,7 +29,7 @@
   </para>
   <para>
     <num>(7)</num>
-    <text>“Probable cause” or “reasonable suspicion” means a reasonable belief by a supervisor that an employee or volunteer in a safety-sensitive position is under the influence of an illegal drug or alcohol to the extent that the employee’s ability to perform his or her job is impaired.</text>
+    <text>“Probable cause” or “reasonable suspicion” means a reasonable belief by a supervisor that an employee in a safety-sensitive position is under the influence of an illegal drug or alcohol to the extent that the employee’s ability to perform his or her job is impaired.</text>
   </para>
   <para>
     <num>(8)</num>
@@ -40,15 +37,11 @@
   </para>
   <para>
     <num>(9)</num>
-    <text>“Reasonable suspicion referral” means referral of an employee or volunteer in a safety-sensitive position for testing by the District for drug or alcohol use.</text>
+    <text>“Reasonable suspicion referral” means referral of an employee in a safety-sensitive position for testing by the District for drug or alcohol use.</text>
   </para>
   <para placeholder="Repealed">
     <num>(10)</num>
     <text>Repealed.</text>
-  </para>
-  <para>
-    <num>(10A)</num>
-    <text>"Volunteer" means the same as provided in <cite path="§4-1501.02|(9)">§ 4-1501.02(9)</cite> or a student participating through a federal work study program under Title IV of the Higher Education Act of 1965, approved October 17, 1986 (100 Stat. 1308; 20 U.S.C. § 1070 <em>et seq</em>.).</text>
   </para>
   <para>
     <num>(11)</num>
@@ -71,10 +64,7 @@
     <annotation app="2021-04-27" doc="D.C. Law 23-276" eff="2021-04-27" path="§2|(i)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-114" path="§2|(a)" codified:display="Note" app="2021-07-15" eff="2021-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-114" path="§2|(a)">§ 2(a) of DCPS Drug Testing Clarification Emergency Amendment Act of 2021 (D.C. Act 24-114, July 15, 2021, 68 DCR 006940)</cite>.</annotation>
     <annotation app="2021-07-15" doc="D.C. Act 24-114" eff="2021-07-15" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2021-09-22" doc="D.C. Law 24-37" eff="2021-09-22" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2021-09-22" doc="D.C. Law 24-37" eff="2021-09-22" path="§2|(a)|(1)" type="History"/>
-    <annotation app="2021-09-22" doc="D.C. Law 24-37" eff="2021-09-22" path="§2|(a)|(2)" type="History"/>
-    <annotation app="2021-09-22" doc="D.C. Law 24-37" eff="2021-09-22" path="§2|(a)|(3)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-37" path="§2|(a)" codified:display="Note" app="2021-09-22" eff="2021-09-22">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-37" path="§2|(a)">§ 2(a) of DCPS Drug Testing Clarification Temporary Amendment Act of 2021 (D.C. Law 24-37, Sept. 22, 2021, 68 DCR 007339)</cite>.</annotation>
+    <annotation app="2021-09-22" doc="D.C. Law 24-37" eff="2021-09-22" path="§2|(a)" type="History" display="false"/>
   </annotations>
 </section>
