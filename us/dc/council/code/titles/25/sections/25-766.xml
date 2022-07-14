@@ -1,9 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>25-766</num>
-  <heading>Prohibited statements.</heading>
-  <text>A statement that is false or misleading with respect to any material fact shall be prohibited.</text>
+  <heading>Prohibited statements in advertisements.</heading>
+  <text>Advertisements and written notices or other documents that are displayed or provided to the public that contain false or misleading statements with respect to any material fact shall be prohibited.</text>
   <annotations>
     <annotation doc="D.C. Law 13-298" type="History">May 3, 2001, D.C. Law 13-298, § 101, 48 DCR 2959</annotation>
+    <annotation app="2022-06-30" doc="D.C. Law 24-127" eff="2022-06-30" path="§2|(f)|(1)|(B)" type="History"/>
+    <annotation app="2022-06-30" doc="D.C. Law 24-127" eff="2022-06-30" path="§2|(f)|(10)" type="History"/>
   </annotations>
 </section>

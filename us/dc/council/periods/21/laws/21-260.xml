@@ -717,7 +717,7 @@
           <para codify:path="(E)">
             <num>(i)</num>
             <text>Subparagraph (E) is amended by adding the word "and" at the end.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-402|(d)|(3)|(E)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-402|(d)">
               <find>;</find>
               <replace>; and</replace>
             </codify:find-replace>
@@ -725,7 +725,7 @@
           <para codify:path="(F)">
             <num>(ii)</num>
             <text>Subparagraph (F) is amended by striking the phrase "; and" and inserting a period in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-402|(d)|(3)|(F)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-402|(d)">
               <find>; and</find>
               <replace>.</replace>
             </codify:find-replace>
@@ -733,7 +733,7 @@
           <para codify:path="(G)">
             <num>(iii)</num>
             <text>Subparagraph (G) is repealed.</text>
-            <codify:repeal codified:doc="D.C. Code" codified:path="§25-402|(d)|(3)|(G)"/>
+            <codify:repeal codified:doc="D.C. Code" codified:path="§25-402|(d)"/>
           </para>
         </para>
         <para>
@@ -741,7 +741,7 @@
           <text>A new paragraph (4) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§25-402|(d)|(4)"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§25-402|(d)"/>
               <num>(4)</num>
               <para>
                 <num>(A)</num>

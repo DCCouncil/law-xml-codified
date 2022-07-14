@@ -1,14 +1,72 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>25-339</num>
   <heading>Special restrictions for the Georgetown historic district.</heading>
   <para>
     <num>(a)</num>
-    <text>The number of nightclub or tavern license holders, class C or D, within the Georgetown historic district shall not exceed 6. No existing nightclub or tavern license shall be transferred to any other person or to any other location within the Georgetown historic district, except when the number of such licensed establishments in the Georgetown historic district is 6 or less.</text>
+    <text>There shall be no nightclub license holders, class C or D, within the Georgetown Historic District.  No existing nightclub license shall be transferred to any location within the Georgetown Historic District.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>A licensee of a nightclub license, or a tavern license, class C, within the Georgetown historic district as of May 24, 1994, may apply for a conversion to a restaurant license, class C or D, for its present location, present owner, and for the duration of its present license. The application shall not require a public hearing or the assessment of fees.</text>
+    <text>Subject to subsection (f) of this section, the number of tavern license holders, class C or D, within the Georgetown Historic District shall not exceed 12. No existing tavern license shall be transferred from outside of the Georgetown Historic District to any other location within the Georgetown Historic District, except when the number of tavern license holders in the Georgetown Historic District is less than 12.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>Notwithstanding the requirements of <cite path="25|3|IV">Subchapter IV of this Chapter</cite>, beginning after [June 30, 2022], there shall be a 3-year moratorium on any exceptions or changes to the limitation established in subsection (b) of this section.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <para>
+      <num>(1)</num>
+      <text>Upon the expiration of the moratorium established pursuant to subsection (c) of this section, at the request of any group with standing pursuant to <cite path="§25-601">§ 25-601</cite>, the Board may hold a public hearing to determine whether the limitation set forth in subsection (b) of this section should be terminated or modified.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The public hearing shall be in the nature of a rulemaking hearing under <cite path="§2-505">§ 2-505</cite> and not in the nature of a contested case under <cite path="§2-509">§ 2-509</cite>.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>At the public hearing, any interested person may appear to give oral or written testimony.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>After the Board issues rules to terminate or modify the limitation on tavern licenses, the Board may hold future public hearings, not more frequently than every 5 years, in response to a moratorium petition filed pursuant to Subchapter IV of this Chapter 3 to determine the limitation on tavern licenses in the Georgetown Historic District.</text>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <para>
+      <num>(1)</num>
+      <text>Subject to subsection (f) of this section, until the Board issues rules pursuant to subsection (d) of this subsection, the holder of a retailer license in the Georgetown Historic District shall be prohibited from applying for a conversion of its license to a tavern license, class C or D, and the Board shall only issue a new tavern license in the Georgetown Historic District to an applicant for an establishment:</text>
+      <para>
+        <num>(A)</num>
+        <text>Of a new business or new entity with a new trade name formed after January 1, 2022; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>That has a new certification of occupancy issued after January 1, 2022.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <para>
+        <num>(A)</num>
+        <text>An applicant that is issued a new tavern license shall begin operation within 18 months after receiving the Board's approval.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>If the holder of a new tavern license does not begin operation within 18 months of the Board's approval, the tavern license shall be deemed cancelled by the Board unless the licensee receives a 60-day extension from the Board for good cause.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A licensee issued a new tavern license under this paragraph shall not be entitled to more than one 60-day extension from the Board.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>Upon rules being issued, and published, pursuant to subsection (d) of this section, subsections (b) and (e) shall not apply.</text>
   </para>
   <annotations>
     <annotation type="History">Jan. 24, 1934, 48 Stat. 327, ch. 4, § 14</annotation>
@@ -32,5 +90,6 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-39">D.C. Law 13-39</cite>, in former <cite path="§25-115|(k)" proof="true">§ 25-115(k)</cite>, deleted the period at the end of the first sentence and added “; provided, that with regard to the establishment located at 3148-3150 M Street, N.W., known as Moustache, Inc. t/a Nathans, the Class CT license may be transferred once by the Board, after determining that the requirements of section 16 have been met, to an entity controlled by the individual who controls Moustache, Inc. on the effective date of the Alcoholic Beverage Control Act Tavern Exception Amendment Act of 1999.”.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 25-115.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 25-339.</annotation>
+    <annotation app="2022-06-30" doc="D.C. Law 24-127" eff="2022-06-30" path="§2|(c)|(5)" type="History"/>
   </annotations>
 </section>

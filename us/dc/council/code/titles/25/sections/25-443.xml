@@ -1,9 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>25-443</num>
   <heading>Subpoena of witnesses.</heading>
   <para>
     <num>(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>Any party may, by written motion, request that the Board subpoena the appearance and testimony of a witness or the production of documents.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A request for a subpoena shall state the relevancy and scope of the testimony or documentary evidence sought, including, as to documentary evidence, the identification of all documents requested and the facts sought to be proven by them in sufficient detail to establish relevancy.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>A party to whom a subpoena is directed may, prior to the time specified in the subpoena for compliance, request the Board to quash or modify the subpoena.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>A motion to quash or modify the subpoena shall be accompanied by a brief statement setting forth the reasons for the motion.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The Board may quash or modify the subpoena upon a showing of good cause.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
     <text>Subpoenas issued by the Board shall be served:</text>
     <para>
       <num>(1)</num>
@@ -11,20 +35,20 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>By a special process server, at least 18 years of age, designated by the  Board from among the staff appointed by the Board who are not directly  involved in the investigation; or</text>
+      <text>By personal service on the party being subpoenaed;</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>By a special process server, at least 18 years of age, engaged by the  Board for this purpose.</text>
+      <text>By leaving the subpoena at the person's District Government office with the person in charge of the office; or</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>By mailing the subpoena by registered or certified mail to the person at the person's last known address.</text>
     </para>
   </para>
   <para>
-    <num>(b)</num>
-    <text>Witnesses, other than those employed by the District or by the United States, shall be entitled to the same fees as are paid witnesses for attendance before the Superior Court of the District of Columbia.</text>
-  </para>
-  <para>
     <num>(c)</num>
-    <text>In the case of contumacy or refusal to obey a subpoena, the Superior Court of the District of Columbia, upon written request by the Board, shall issue an order requiring the contumacious person to appear and testify before the Board or to produce evidence if so ordered.</text>
+    <text>The Board may, upon the failure by a person to obey a subpoena served upon him or her, apply to the Superior Court of the District of Columbia for an order requiring the person to appear before the Board to give testimony, produce documentary evidence, or both.</text>
   </para>
   <annotations>
     <annotation type="History">Jan. 24, 1934, 48 Stat. 322, ch. 4, § 6</annotation>
@@ -36,5 +60,6 @@
     <annotation doc="D.C. Law 13-298" type="History">May 3, 2001, D.C. Law 13-298, § 101, 48 DCR 2959</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 25-106.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 25-443.</annotation>
+    <annotation app="2022-06-30" doc="D.C. Law 24-127" eff="2022-06-30" path="§2|(d)|(5)" type="History"/>
   </annotations>
 </section>

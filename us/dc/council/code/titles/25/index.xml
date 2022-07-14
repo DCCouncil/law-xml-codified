@@ -42,6 +42,8 @@
       <xi:include href="./sections/25-127.xml"/>
       <xi:include href="./sections/25-128.xml"/>
       <xi:include href="./sections/25-129.xml"/>
+      <xi:include href="./sections/25-130.xml"/>
+      <xi:include href="./sections/25-131.xml"/>
     </container>
   </container>
   <container>
@@ -205,6 +207,7 @@
     <xi:include href="./sections/25-510.xml"/>
     <xi:include href="./sections/25-511.xml"/>
     <xi:include href="./sections/25-512.xml"/>
+    <xi:include href="./sections/25-513.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -232,6 +235,7 @@
       <xi:include href="./sections/25-701.xml"/>
       <xi:include href="./sections/25-702.xml"/>
       <xi:include href="./sections/25-703.xml"/>
+      <xi:include href="./sections/25-704.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -291,6 +295,7 @@
       <xi:include href="./sections/25-764.xml"/>
       <xi:include href="./sections/25-765.xml"/>
       <xi:include href="./sections/25-766.xml"/>
+      <xi:include href="./sections/25-767.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -370,6 +375,13 @@
       <xi:include href="./sections/25-833.xml"/>
       <xi:include href="./sections/25-834.xml"/>
       <xi:include href="./sections/25-835.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>III</num>
+      <heading>Licensee Use of Security.</heading>
+      <annotation app="2022-06-30" doc="D.C. Law 24-127" eff="2022-06-30" path="§2|(g)|(1)" type="History" display="false"/>
+      <xi:include href="./sections/25-836.xml"/>
     </container>
   </container>
   <container>
