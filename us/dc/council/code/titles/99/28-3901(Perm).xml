@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <num>28-3901</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on September 26, 2022. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§28-3901(Perm)">Permanent Version</cite>.*
-      </text>
+  <num>28-3901(Perm)</num>
   <heading>Definitions and purposes.</heading>
   <para>
     <num>(a)</num>
@@ -92,10 +89,6 @@
       <num>(15)</num>
       <text>“public interest organization” means a nonprofit organization that is organized and operating, in whole or in part, for the purpose of promoting interests or rights of consumers.</text>
     </para>
-    <para>
-      <num>(16)</num>
-      <text>"Infant formula product" means a food which purports to be, or is represented for special dietary use solely as, a food for infants by reason of its simulation of human milk or its suitability as a complete or partial substitute for human milk.</text>
-    </para>
   </para>
   <para>
     <num>(b)</num>
@@ -131,6 +124,8 @@
     <annotation doc="D.C. Law 16-33" type="History">Oct. 20, 2005, D.C. Law 16-33, § 2032(b), 52 DCR 7503</annotation>
     <annotation doc="D.C. Law 17-4" type="History">June 12, 2007, D.C. Law 17-4, § 2(a), 54 DCR 4085</annotation>
     <annotation doc="D.C. Law 19-282" type="History">Apr. 23, 2013, D.C. Law 19-282, § 2(b)(1), 60 DCR 2132</annotation>
+    <annotation doc="D.C. Law 22-140" path="§2|(b)" type="History">uly 17, 2018, D.C. Law 22-140, § 2(b), 65 DCR 5970</annotation>
+    <annotation doc="D.C. Law 23-269" path="§501|(n)|(2)" type="History">Apr. 5, 2021, D.C. Law 23-269, § 501(n)(2), 68 DCR 001490</annotation>
     <annotation type="Delegation of Authority">Delegation of authority pursuant to Law 1-76, see Mayor’s Order 86-132, August 12, 1986.</annotation>
     <annotation type="Short Title">Short title of subtitle D of title II of Law 16-33: Section 2031 of <cite doc="D.C. Law 16-33">D.C. Law 16-33</cite> provided that subtitle D of title II of the act may be cited as the Department of Consumer and Regulatory Affairs Consumer Protection Revitalization Act of 2005.</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2032(b) of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005,  52 DCR 7667).</annotation>
@@ -148,11 +143,5 @@
     <annotation type="Cross References">Employment agencies and counseling services, operation requirements, see §§ <cite path="§32-404">32-404</cite> and <cite path="§32-405">32-405</cite>.</annotation>
     <annotation type="Cross References">Employer-paid personnel services, operation requirements, see <cite path="§32-406">§ 32-406</cite>.</annotation>
     <annotation type="Cross References">Automobile Consumer Protection Act, see <cite path="§50-501">§ 50-501</cite> et seq.</annotation>
-    <annotation app="2018-07-17" doc="D.C. Law 22-140" eff="2018-07-17" path="§2|(b)" type="History"/>
-    <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="§501|(n)|(2)|(A)" type="History"/>
-    <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="§501|(n)|(2)|(B)" type="History"/>
-    <annotation app="2022-06-28" doc="D.C. Act 24-445" eff="2022-06-28" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2022-06-28" doc="D.C. Act 24-445" eff="2022-06-28" path="§2|(a)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-445" path="§2|(a)" codified:display="Note" app="2022-06-28" eff="2022-06-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-445" path="§2|(a)">§ 2(a) of Infant Formula Consumer Protection Emergency Amendment Act of 2022 (D.C. Act 24-445, June 28, 2022, 69 DCR 007739)</cite>.</annotation>
   </annotations>
 </section>

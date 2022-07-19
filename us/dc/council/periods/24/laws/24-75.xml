@@ -402,12 +402,12 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <para codify:path="(b-1)">
+      <para>
         <num>(4)</num>
         <text>Subsection (b-1) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§42-3505.01|(b-1)"/>
+            <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§42-3505.01|(b-1)"/>
             <num>(b-1)</num>
             <para>
               <num>(1)</num>
