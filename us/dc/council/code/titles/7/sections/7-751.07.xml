@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-751.07</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on September 26, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-751.07(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Program participation.</heading>
   <para>
     <num>(a)</num>
@@ -11,7 +14,14 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>Participants shall provide full-time service of at least 1,800 hours per year, with no more than 12 hours of work performed in any 24 hour period. On-call status does not count toward the annual 1,800 hour requirement. Any exceptions to the 1,800 hour annual requirement or the on-call provision of this subsection must be approved by the Director prior to placement.</text>
+      <para>
+        <num>(A)</num>
+        <text>Full-time participants shall provide service of at least 1,800 hours per year. On-call status shall not count toward the annual 1,800 hour requirement. Exceptions to the 1,800 hour annual requirement or the on-call provision of this sub-paragraph may be approved by the Director prior to placement.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Part-time participants shall provide service of at least 900 hours per year. On-call status does not count toward the annual 900 hour requirement. Exceptions to the 900 hour annual requirement or the on-call provision of this sub-paragraph may be approved by the Director prior to placement.</text>
+      </para>
     </para>
     <para>
       <num>(3)</num>
@@ -46,5 +56,8 @@
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 5111 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> rewrote subsec. (a)(2), which had read as follows: “(2) Participants shall provide full-time service of at least 40 hours per week for 45 weeks per year. The minimum 40-hour week must not be performed in less than 4 days per week, with no more than 12 hours of work performed in any 24 hour period. On-call status does not count toward the 40-hour week. Any exceptions to the on-call provision of this subsection must be approved by the Director prior to placement.”</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§7-751.09">§ 7-751.09</cite>.</annotation>
+    <annotation app="2022-07-06" doc="D.C. Act 24-468" eff="2022-07-06" path="§202|(c)" type="History" display="false"/>
+    <annotation app="2022-07-06" doc="D.C. Act 24-468" eff="2022-07-06" path="§202|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-468" path="§202|(c)" codified:display="Note" app="2022-07-06" eff="2022-07-06">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-468" path="§202|(c)">§ 202(c) of High Need Healthcare Career Scholarship and Health Professional Loan Repayment Program Emergency Amendment Act of 2022 (D.C. Act 24-468, July 6, 2022, 69 DCR 008390)</cite>.</annotation>
   </annotations>
 </section>
