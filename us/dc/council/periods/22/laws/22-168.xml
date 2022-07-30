@@ -5189,8 +5189,8 @@
         <text>Section 204(d) of the Freedom of Information Act of 1976, effective March 29, 1977 (D.C. Law 1-96; D.C. Official Code § 2-534(d)), is amended by adding a new paragraph (3) to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§2-534|(d)|(3)"/>
-            <num>(3)</num>
+            <codify:insert codified:doc="D.C. Code" codified:path="§2-534|(d)|[[2)]"/>
+            <num codify:value="[[2)]">(3)</num>
             <text>The provisions of <code-cite doc="D.C. Code" path="2|5|II">this title</code-cite> shall not apply to:</text>
             <para>
               <num>(A)</num>

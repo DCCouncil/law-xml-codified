@@ -6594,28 +6594,28 @@
               </codify:find-replace>
               <codify:annotation doc="D.C. Code" path="§4-651.10" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§4-651.10"><cite doc="D.C. Law 23-16" path="§5142|(c)">Section 5142(c) of D.C. Law 23-16</cite> amended <cite doc="D.C. Law 22-179" path="§301|(a)">section 301(a) of D.C. Law 23-16</cite> removing the applicability provision impacting subsection (a)(2) and (3) of this section.  Therefore, the addition of subsction (a)(2) and (3) of this section by section 110 of Law 22-179 has been implemented.
               </codify:annotation>
-              <codify:repeal doc="D.C. Code" path="§4-410.02|(a)|(2)" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-410.02|(a)"/>
-              <codify:find-replace doc="D.C. Code" path="§4-410.02|(a)|(2)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-410.02|(a)">
+              <codify:repeal doc="D.C. Code" path="§4-410.02|(a)|(2)" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-410.02"/>
+              <codify:find-replace doc="D.C. Code" path="§4-410.02|(a)|(2)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-410.02">
                 <find>Repealed</find>
                 <replace>Not Funded</replace>
               </codify:find-replace>
-              <codify:repeal doc="D.C. Code" path="§4-410.02|(a)|(3)" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-410.02|(a)"/>
-              <codify:find-replace doc="D.C. Code" path="§4-410.02|(a)|(3)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-410.02|(a)">
+              <codify:repeal doc="D.C. Code" path="§4-410.02|(a)|(3)" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-410.02"/>
+              <codify:find-replace doc="D.C. Code" path="§4-410.02|(a)|(3)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-410.02">
                 <find>Repealed</find>
                 <replace>Not Funded</replace>
               </codify:find-replace>
-              <codify:repeal doc="D.C. Code" path="§4-410.02|(a)|(4)" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-410.02|(a)"/>
-              <codify:find-replace doc="D.C. Code" path="§4-410.02|(a)|(4)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-410.02|(a)">
+              <codify:repeal doc="D.C. Code" path="§4-410.02|(a)|(4)" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-410.02"/>
+              <codify:find-replace doc="D.C. Code" path="§4-410.02|(a)|(4)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-410.02">
                 <find>Repealed</find>
                 <replace>Not Funded</replace>
               </codify:find-replace>
-              <codify:repeal doc="D.C. Code" path="§4-410.02|(a)|(5)" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-410.02|(a)"/>
-              <codify:find-replace doc="D.C. Code" path="§4-410.02|(a)|(5)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-410.02|(a)">
+              <codify:repeal doc="D.C. Code" path="§4-410.02|(a)|(5)" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-410.02"/>
+              <codify:find-replace doc="D.C. Code" path="§4-410.02|(a)|(5)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-410.02">
                 <find>Repealed</find>
                 <replace>Not Funded</replace>
               </codify:find-replace>
-              <codify:repeal doc="D.C. Code" path="§4-410.02|(b)" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-410.02|(b)"/>
-              <codify:find-replace doc="D.C. Code" path="§4-410.02|(b)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-410.02|(b)">
+              <codify:repeal doc="D.C. Code" path="§4-410.02|(b)" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-410.02"/>
+              <codify:find-replace doc="D.C. Code" path="§4-410.02|(b)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-410.02">
                 <find>Repealed</find>
                 <replace>Not Funded</replace>
               </codify:find-replace>
@@ -6638,7 +6638,7 @@
         <text>Section 11b (a) of the Day Care Policy Act of 1979, effective October 30, 2018 (D.C. Law 22-179; D.C. Official Code § 4-410.02(a)), is amended as follows:</text>
         <include>
           <para>
-            <codify:replace path="§4-410.02|(a)" codified:doc="D.C. Code" codified:path="§4-410.02|(a)"/>
+            <codify:replace path="§4-410.02|(a)" codified:doc="D.C. Code" codified:path="§4-410.02"/>
             <num>(a)</num>
             <text>OSSE shall establish payment rates for child development facilities providing care for infants and toddlers. The rate of payment shall be sufficient to provide a child development center and child development home with funding to operate based on a cost modeling analysis that incorporates costs incurred as a result of implementing the salary scale and schedule developed by OSSE pursuant to <code-cite doc="D.C. Code" path="§4-410.01|(b)">section 11a(b)</code-cite>. Subject to appropriations, the cost of care and teacher salary scale shall be increased as follows:</text>
             <para>

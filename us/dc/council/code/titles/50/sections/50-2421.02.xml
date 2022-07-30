@@ -5,10 +5,10 @@
   <text>For purposes of this subchapter, the terms:</text>
   <para>
     <num>(1)</num>
-    <text>“Abandoned vehicle” means any motor vehicle, trailer, or semitrailer that is left, parked, or stored on public space for more than 48 hours or on private property for more than 30 days, and to which at least 2 of the following apply:</text>
-    <para>
+    <text>“Abandoned vehicle” means any motor vehicle, trailer, or semitrailer that is left, parked, or stored on public space for more than 48 hours or on private property for more than 30 days, and to which at least one of the following applies:</text>
+    <para placeholder="Repealed">
       <num>(A)</num>
-      <text>The vehicle is extensively damaged, including fire damage;</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(B)</num>
@@ -20,12 +20,20 @@
     </para>
     <para>
       <num>(D)</num>
-      <text>The vehicle does not display valid tags or a valid registration sticker.</text>
+      <text>The vehicle does not display valid tags or a valid registration sticker; except, that a vehicle shall not be deemed an abandoned vehicle under this subparagraph solely because the vehicle displays expired tags or registration sticker, unless the tags or registration sticker expired at least one year before any enforcement action is taken under <cite path="50|24|II">this subchapter</cite>, which shall be measured concurrently with the period of time required to establish that the vehicle is abandoned, as described in the lead-in language of this paragraph.</text>
     </para>
   </para>
   <para>
     <num>(2)</num>
-    <text>“Dangerous vehicle” means any motor vehicle, trailer, or semitrailer that, as a result of the presence of rats, vermin, or other pests, exposed glass or metal shards, or other dangerous condition poses an imminent hazard to the public health, safety, or welfare. Any motor vehicle, trailer, or semitrailer that is in a wrecked, dismantled, or irreparable condition, or destroyed by fire, is per se a dangerous vehicle.</text>
+    <text>"Dangerous vehicle" means a motor vehicle, trailer, or semitrailer that, due to at least one of the following conditions existing for at least 24 hours, poses an imminent hazard to the public health, safety, or welfare:</text>
+    <para>
+      <num>(A)</num>
+      <text>The vehicle is extensively damaged, including damaged by fire or exposed broken glass or metal shards are present; or</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Another dangerous condition that poses an imminent hazard to the public health, safety, or welfare is present.</text>
+    </para>
   </para>
   <para>
     <num>(3)</num>
@@ -65,7 +73,7 @@
   </para>
   <para>
     <num>(7)</num>
-    <text>“Physical characteristics of an abandoned vehicle” means any 2 of the conditions set forth in paragraph (1) of this section.</text>
+    <text>“Physical characteristics of an abandoned vehicle” means any of the conditions set forth in paragraph (1) of this section.</text>
   </para>
   <para>
     <num>(8)</num>
@@ -83,5 +91,10 @@
     <annotation doc="D.C. Law 15-35" type="History" path="§2">Oct. 28, 2003, D.C. Law 15-35, § 2, 50 DCR 6579</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition of this section, see § 2 of Removal and Disposition of Abandoned and Other Unlawfully Parked Vehicles Reform Congressional Review Emergency Act of 2003 (D.C. Act 15-171, October 6, 2003,  50 DCR 9163).</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§50-2401">§ 50-2401</cite>, <cite path="§50-2402">§ 50-2402</cite>, <cite path="§50-2421.05">§ 50-2421.05</cite>, and <cite path="§50-2701">§ 50-2701</cite>.</annotation>
+    <annotation app="2022-07-22" doc="D.C. Law 24-144" eff="2022-07-22" path="§2|(a)|(1)|(B)" type="History"/>
+    <annotation app="2022-07-22" doc="D.C. Law 24-144" eff="2022-07-22" path="§2|(a)|(1)|(C)" type="History"/>
+    <annotation app="2022-07-22" doc="D.C. Law 24-144" eff="2022-07-22" path="§2|(a)|(1)|(A)" type="History"/>
+    <annotation app="2022-07-22" doc="D.C. Law 24-144" eff="2022-07-22" path="§2|(a)|(2)" type="History"/>
+    <annotation app="2022-07-22" doc="D.C. Law 24-144" eff="2022-07-22" path="§2|(a)|(3)" type="History"/>
   </annotations>
 </section>
