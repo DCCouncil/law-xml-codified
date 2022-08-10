@@ -1,10 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>6-228</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 25, 2022. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§6-228(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Tenant-based assistance.</heading>
   <para>
     <num>(a)</num>
-    <text>The funds allocated for tenant-based assistance shall be administered through the Authority’s Housing Choice Voucher Program. Except as provided in this section, tenant-based assistance provided through the Rent Supplement Program shall be subject to the Authority’s existing rules, regulations, policies, and procedures for the Housing Choice Voucher Program; provided, that the Authority shall waive or modify such rules, regulations, policies, and procedures so as not to exclude households on the basis of immigration status, prior criminal convictions, or pending criminal matters. Existing rules, regulations, policies, and procedures affecting the Rent Supplement Program shall be submitted for Council review as required by <cite path="§6-226">§ 6-226</cite>.</text>
+    <para>
+      <num>(1)</num>
+      <text>The funds allocated for tenant-based assistance shall be administered through the Authority's Housing Choice Voucher Program.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Except as provided in paragraphs (3), (4), and (5) of this section, tenant-based assistance provided through the Rent Supplement Program shall be subject to the Authority's existing rules, regulations, policies, and procedures for the Housing Choice Voucher Program;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The Authority shall not inquire about nor consider for the purposes of eligibility, admission, or continued occupancy any information about immigration status, prior criminal arrests or convictions, or pending criminal matters.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Rules governing eligibility, admission, and continuing occupancy by tenants in units receiving tenant-based voucher assistance under this section shall not be inconsistent with this section or <cite path="§6-226">§ 6-226</cite>.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <para>
+        <num>(A)</num>
+        <text>The Authority shall allow applicants or participants to self-certify any required eligibility, admission, or continued occupancy factors when an applicant cannot easily obtain verification documentation.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Self-certification by the applicant at the time of initial eligibility shall be final and remain sufficient for purposes of continued occupancy recertifications.</text>
+      </para>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Existing rules, regulations, policies, and procedures affecting the Rent Supplement Program shall be submitted to the Council for Council review.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
@@ -105,5 +138,8 @@
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2042|(e)|(3)" type="History"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§3032" type="History"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2042|(e)|(4)" type="History"/>
+    <annotation app="2022-07-27" doc="D.C. Act 24-522" eff="2022-07-27" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2022-07-27" doc="D.C. Act 24-522" eff="2022-07-27" path="§2|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-522" path="§2|(c)" codified:display="Note" app="2022-07-27" eff="2022-07-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-522" path="§2|(c)">§ 2(c) of Local Rent Supplement Program Eligibility Emergency Amendment Act of 2022 (D.C. Act 24-522, July 27, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

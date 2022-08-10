@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>6-226</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 25, 2022. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§6-226(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Rent Supplement Program: establishment of program and distribution of funds.</heading>
   <para>
     <num>(a)</num>
@@ -29,35 +32,30 @@
     <num>(c)</num>
     <para>
       <num>(1)</num>
-      <text>The Authority shall promulgate rules, subject to Council approval, for sponsor-based voucher assistance as required by <cite path="§6-227">§ 6-227</cite> and capital-based assistance as required by <cite path="§6-229">§ 6-229</cite>, which shall govern the administration of funds for these types of assistance.</text>
+      <text>Except as prescribed in paragraphs (2), (3), and (4) of this subsection, the Authority shall apply its existing Partnership Program and Housing Choice Voucher Program rules to govern eligibility, admission, and continuing occupancy by tenants in units receiving tenant-based, sponsor-based, or project-based voucher assistance under this section, §§ <cite path="§6-227">6-227</cite>, <cite path="§6-228">6-228</cite>, and <cite path="§6-229">6-229</cite>.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The Authority shall promulgate emergency and final rules for tenant-based voucher assistance. Rules issued pursuant to this paragraph shall establish a process to allow applicants to self-certify eligibility factors when an applicant cannot easily obtain verification documentation. Emergency rules shall be issued by November 1, 2021. Final rules shall be subject to Council approval.</text>
+      <text>The Authority shall neither inquire about nor consider for the purposes of eligibility, admission, or continued occupancy any information about citizenship, immigration status, prior criminal arrests or convictions, or pending criminal matters.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>The Department of Human Services shall promulgate emergency and final rules governing the referral of applicants to the Authority for tenant-based voucher assistance, including eligibility criteria for Targeted Affordable Housing. In Fiscal Year 2022, such eligibility criteria for Targeted Affordable Housing shall include a prioritization for families that have been in rapid re-housing the longest but are not eligible for Permanent Supportive Housing. Emergency rules shall be issued by November 1, 2021. Final rules shall be subject to Council approval.</text>
+      <text>Rules governing eligibility, admission, and continuing occupancy by tenants in units receiving tenant-based, sponsor-based, or project-based voucher assistance under this section, <cite path="§6-227">§ 6-227</cite>, <cite path="§6-228">§ 6-228</cite>, or <cite path="§6-229">§ 6-229</cite> shall not be inconsistent with this section, <cite path="§6-227">§ 6-227</cite>, <cite path="§6-228">§ 6-228</cite>, or <cite path="§6-229">§ 6-229</cite>.</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>The Authority shall promulgate rules, subject to Council approval, for project-based voucher assistance, which shall govern the administration of funds for this type of assistance; except, that the Department of Housing and Community Development shall promulgate rules governing the award of project-based voucher assistance, as provided in paragraph (5) of this subsection.</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>The Department of Housing and Community Development shall promulgate rules, subject to Council approval, governing the award of project-based voucher assistance; provided, that the rules previously promulgated by the Authority that govern the award of funds for project-based voucher assistance shall remain in effect unless amended or repealed by the Department of Housing and Community Development.</text>
-    </para>
-    <para>
-      <num>(6)</num>
-      <text>The rules proposed pursuant to this subsection shall:</text>
       <para>
         <num>(A)</num>
-        <text>Provide for allocating project-based and sponsor-based funds to maintain or create new affordable housing units, including by combining funds under this program with other sources of funds for housing production and development and for allocating tenant-based funds to expand affordable housing choices for households through housing subsidies; and</text>
+        <text>The Authority shall allow applicants or participants to self-certify any required eligibility, admission, or continued occupancy factors when an applicant cannot easily obtain verification documentation.</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>Be submitted to the Council for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, in whole or in part, by resolution within this 45-day review period, the proposed rules shall be deemed approved.</text>
+        <text>Self-certification by the applicant at the time of initial eligibility shall be final and remain sufficient for purposes of continued occupancy recertifications.</text>
       </para>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The Authority shall promulgate such additional rules as are necessary to ensure that eligibility for tenancy in the units supported by grants under this section is limited to households with gross income at or below 30% of the area median income.</text>
     </para>
   </para>
   <para placeholder="Repealed">
@@ -88,5 +86,8 @@
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2042|(b)|(2)" type="History"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2042|(b)|(3)" type="History"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2042|(b)|(4)" type="History"/>
+    <annotation app="2022-07-27" doc="D.C. Act 24-522" eff="2022-07-27" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2022-07-27" doc="D.C. Act 24-522" eff="2022-07-27" path="§2|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-522" path="§2|(a)" codified:display="Note" app="2022-07-27" eff="2022-07-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-522" path="§2|(a)">§ 2(a) of Local Rent Supplement Program Eligibility Emergency Amendment Act of 2022 (D.C. Act 24-522, July 27, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

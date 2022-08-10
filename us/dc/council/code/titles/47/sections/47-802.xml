@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-802</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 25, 2022. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-802(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter:</text>
   <para>
@@ -126,10 +129,10 @@
       <num>(17)</num>
       <para>
         <num>(A)</num>
-        <text>The term "qualified business" means a business that:</text>
+        <text>The term "qualified business" means a business that, during a tax year:</text>
         <para>
           <num>([i])</num>
-          <text>Hosts live performances by performing artists for a minimum of 48 hours per month; and</text>
+          <text>Hosts live performances by performing artists for a minimum of 48 hours per month except during months during which a public health emergency declared pursuant to <cite path="§7-2304.01">[§ 7-2304.01]</cite> is in effect; and</text>
         </para>
         <para>
           <num>([ii])</num>
@@ -250,5 +253,9 @@
     <annotation app="2021-07-29" doc="D.C. Act 24-139" eff="2021-07-29" path="§2" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-36" path="§2" codified:display="Note" app="2021-09-22" eff="2021-09-22">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-36" path="§2">§ 2 of Performing Arts Promotion Temporary Amendment Act of 2021 (D.C. Law 24-36, Sept. 22, 2021, 68 DCR 007992)</cite>.</annotation>
     <annotation app="2021-09-22" doc="D.C. Law 24-36" eff="2021-09-22" path="§2" type="History" display="false"/>
+    <annotation app="2022-07-27" doc="D.C. Act 24-523" eff="2022-07-27" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2022-07-27" doc="D.C. Act 24-523" eff="2022-07-27" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2022-07-27" doc="D.C. Act 24-523" eff="2022-07-27" path="§2|(a)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-523" path="§2|(a)" codified:display="Note" app="2022-07-27" eff="2022-07-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-523" path="§2|(a)">§ 2(a) of Performing Arts Promotion Tax Rebate Clarification Emergency Amendment Act of 2022 (D.C. Act 24-523, July 27, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

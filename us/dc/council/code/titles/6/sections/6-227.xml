@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>6-227</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 25, 2022. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§6-227(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Project-based and sponsor-based voucher assistance.</heading>
   <para>
     <num>(a)</num>
@@ -39,7 +42,33 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>The Authority shall apply its existing Partnership Program and Housing Choice Voucher Program rules to govern eligibility, admission, and continuing occupancy by tenants in units receiving sponsor-based or project-based voucher assistance under this section, §§ <cite path="§6-226">6-226</cite>, and <cite path="§6-229">6-229</cite>; except, if the rules are inconsistent with this section, <cite path="§6-226">§ 6-226</cite>, or <cite path="§6-229">§ 6-229</cite>; provided, that the Authority shall modify or waive such rules so as not to exclude households on the basis of immigration status, prior criminal convictions, or pending criminal matters. The Authority shall promulgate such additional rules as are necessary to ensure that eligibility for tenancy in the units supported by grants under this section is limited to households with gross income at or below 30% of the area median income. The Authority shall promulgate rules with respect to eligibility, admission, and continuing occupancy by tenants in units receiving project-based voucher assistance that are consistent with similar rules previously promulgated by the Authority for eligibility for tenants in units receiving sponsor-based voucher assistance.</text>
+    <para>
+      <num>(1)</num>
+      <text>Except as prescribed in paragraphs (2), (3), and (4) of this subsection, the Authority shall apply its existing Partnership Program and Housing Choice Voucher Program rules to govern eligibility, admission, and continuing occupancy by tenants in units receiving sponsor-based or project-based voucher assistance under this section, §§ <cite path="§6-226">6-226</cite>, and <cite path="§6-229">6-229</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Authority shall not inquire about nor consider for the purposes of eligibility, admission, or continued occupancy any information about citizenship, immigration status, prior criminal arrests or convictions, or pending criminal matters.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Rules governing eligibility, admission, and continuing occupancy by tenants in units receiving sponsor-based or project-based voucher assistance under this section, <cite path="§6-226">§ 6-226</cite>, or <cite path="§6-229">§ 6-229</cite> shall not be inconsistent with this section, <cite path="§6-226">§ 6-226</cite>, or <cite path="§6-229">§ 6-229</cite>.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <para>
+        <num>(A)</num>
+        <text>The Authority shall allow applicants or participants to self-certify any required eligibility, admission, or continued occupancy factors when an applicant cannot easily obtain verification documentation.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Self-certification by the applicant at the time of initial eligibility shall be final and remain sufficient for purposes of continued occupancy recertifications.</text>
+      </para>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The Authority shall promulgate such additional rules as are necessary to ensure that eligibility for tenancy in the units supported by grants under this section is limited to households with gross income at or below 30% of the area median income.</text>
+    </para>
   </para>
   <para>
     <num>(d)</num>
@@ -84,5 +113,8 @@
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2042|(d)|(2)" type="History"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2042|(d)|(3)" type="History"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2042|(d)|(4)" type="History"/>
+    <annotation app="2022-07-27" doc="D.C. Act 24-522" eff="2022-07-27" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2022-07-27" doc="D.C. Act 24-522" eff="2022-07-27" path="§2|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-522" path="§2|(b)" codified:display="Note" app="2022-07-27" eff="2022-07-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-522" path="§2|(b)">§ 2(b) of Local Rent Supplement Program Eligibility Emergency Amendment Act of 2022 (D.C. Act 24-522, July 27, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
