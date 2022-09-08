@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-712</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 11, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§10-712(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Assessments of public buildings for environmental risks.</heading>
   <para>
     <num>(a)</num>
@@ -90,9 +93,49 @@
       <text>The remediation and public disclosure measures that shall be taken when an assessment reveals levels that exceed a threshold level established pursuant to paragraph (2) of this subsection.</text>
     </para>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(b-1)</num>
-    <text>Not Funded.</text>
+    <text>If DGS determines that any of the environmental risks listed in subsection (a) of this section are potential hazards at a publicly owned site that is undergoing or will undergo demolition, construction, or excavation:</text>
+    <para>
+      <num>(1)</num>
+      <text>DGS shall promptly take any steps necessary to safeguard the public from those potential hazards and as soon as practicable conduct appropriate assessments to determine whether each environmental risk exceeds the threshold level established under subsection (b)(2) of this section and publish the complete results of that testing on the DGS website within 10 business days of receiving the test results; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>If test results are found to be in excess of a threshold level established under subsection (b)(2) of this section, DGS shall:</text>
+      <para>
+        <num>(A)</num>
+        <text>Effectively isolate the area where the environmental risk is located to safeguard the public until effective remediation occurs;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Within 10 business days of receiving the test results, provide any impacted Advisory Neighborhood Commission with and publish on the DGS website a notice of potential environmental risks that includes:</text>
+        <para>
+          <num>(i)</num>
+          <text>The potential environmental risks found;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The full testing results for each of those environmental risks;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>The threshold levels at which remediation measures for that risk will be taken; and</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>The planned timeline for remediation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Coordinate with other relevant agencies to conduct a public meeting to share the assessment results with the affected community within 20 business days; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Repeat the appropriate testing after remediation measures have been taken until the environmental conditions identified do not exceed established threshold levels.</text>
+      </para>
+    </para>
   </para>
   <para>
     <num>(c)</num>
@@ -124,7 +167,7 @@
   </para>
   <para>
     <num>(d-1)</num>
-    <text>DGS shall publish online and submit to the Council an annual report by July 1st of each year that describes, for each publicly owned site that has underwent or is undergoing demolition, excavation, substantial renovation, or construction during the reporting period, at a minimum:</text>
+    <text>DGS shall publish online and submit to the Council an annual report by July 1st of each year that describes, for each publicly owned site that has underwent or is undergoing demolition, excavation, or construction during the reporting period, at a minimum:</text>
     <para>
       <num>(1)</num>
       <text>Any potential hazards identified at each site;</text>
@@ -168,14 +211,15 @@
     <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(1)|(C)" type="History"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(1)|(A)" type="History"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(1)|(D)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(2)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(2)" type="History"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(3)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-233" path="§2|(b)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-233" path="">D.C. Law 23-233</cite>: <cite doc="D.C. Law 23-233" path="§4">§ 4 of D.C. Law 23-233</cite> provided that the change made to this section by <cite doc="D.C. Law 23-233" path="§2|(b)">§ 2(b) of D.C. Law 23-233</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)" type="History"/>
     <annotation type="Applicability" doc="D.C. Act 24-159" path="§7205" codified:display="Note" app="2021-08-23" eff="2021-08-23">Applicability of <cite doc="D.C. Act 24-159" path=""/>: <cite doc="D.C. Act 24-159" path="§7205">§ 7205 of D.C. Act 24-159</cite> provided that the creation of subsection (b-1) of this section by <cite doc="D.C. Act 24-159" path="§7205">§ 7205 of D.C. Act 24-159</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7205" type="History"/>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7205" type="History" display="false"/>
-    <annotation type="Applicability" doc="D.C. Law 24-45" path="§7205" codified:display="Note" app="2021-11-13" eff="2021-11-13">Applicability of <cite doc="D.C. Law 24-45" path="">D.C. Law 24-45</cite>: <cite doc="D.C. Law 24-45" path="§7205">§ 7205 of D.C. Law 24-45</cite> provided that the creation of subsection (b-1) of this section by <cite doc="D.C. Law 24-45" path="§7205">§ 7205 of D.C. Law 24-45</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7205" type="History"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§1032|(b)" type="History" display="false"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§1032|(b)|(1)" type="History"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§1032|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§1032|(b)" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§1032|(b)">§ 1032(b) of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
   </annotations>
 </section>

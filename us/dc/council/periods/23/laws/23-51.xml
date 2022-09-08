@@ -92,15 +92,15 @@
           <num>(B)</num>
           <text>Subsection (i) is amended as follows:</text>
           <para codify:path="(1)">
-            <num>(i)</num>
+            <num>(1)</num>
             <text>Paragraph (1) is amended as follows:</text>
             <para>
-              <num>(I)</num>
+              <num>(A)</num>
               <text>The existing text is designated as subparagraph (A).</text>
               <codify:redesignate-para num-value="(A)" codified:doc="D.C. Code" codified:path="§25-113|(i)|(1)"/>
             </para>
             <para>
-              <num>(II)</num>
+              <num>(B)</num>
               <text>A new subparagraph (B) is added to read as follows:</text>
               <include lvl="2">
                 <para>
@@ -112,14 +112,14 @@
               <aftertext>.</aftertext>
             </para>
           </para>
-        </para>
-        <para>
-          <num>(C)</num>
-          <text>Paragraph (5) is amended by striking the phrase "off-premises retailers license, class A," both times it appears and inserting the phrase "off-premises retailer's license, class A or AI" in its place.</text>
-          <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§25-113">
-            <find>off-premises retailers, class A,</find>
-            <replace>off-premises retailer, class A or AI</replace>
-          </codify:find-replace>
+          <para codify:path="(5)">
+            <num>(2)</num>
+            <text>Paragraph (5) is amended by striking the phrase "off-premises retailers license, class A," both times it appears and inserting the phrase "off-premises retailer's license, class A or AI" in its place.</text>
+            <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§25-113|(i)|(5)">
+              <find>off-premises retailers, class A,</find>
+              <replace>off-premises retailer, class A or AI</replace>
+            </codify:find-replace>
+          </para>
         </para>
       </para>
       <para>

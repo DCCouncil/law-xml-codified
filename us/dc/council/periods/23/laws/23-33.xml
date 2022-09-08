@@ -36,7 +36,7 @@
   <section>
     <num>4</num>
     <text>Section 1104(a) of the School Based Budgeting and Accountability Act of 1998, effective March 26, 1999 (D.C. Law 12-175; D.C. Official Code § 38-2803(a)), is amended by striking the phrase "in accordance with this section.  The Council shall vote on the 10-year Master Facilities Plan concurrently with its vote on the Mayor's capital budget proposal." and inserting the phrase "in accordance with this section." in its place.</text>
-    <codify:find-replace doc="D.C. Code" path="§38-2803|(a)|(1)" count="1" codified:doc="D.C. Code" codified:path="§38-2803|(a)|(1)">
+    <codify:find-replace doc="D.C. Code" path="§38-2803|(a)|(1)" count="1" codified:doc="D.C. Code" codified:path="§38-2803|(a)">
       <find>in accordance with this section. The Council shall vote on the 10-year Master Facilities Plan concurrently with its vote on the Mayor's capital budget proposal.</find>
       <replace>in accordance with this section.</replace>
     </codify:find-replace>
