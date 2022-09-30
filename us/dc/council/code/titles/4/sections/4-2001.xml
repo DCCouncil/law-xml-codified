@@ -1,14 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-2001</num>
   <heading>Definitions.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>For the purpose of <cite path="4|20">this chapter</cite>, the term:</text>
+    <para placeholder="Repealed">
+      <num>(1)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Direct care services" means home and community-based, rehabilitative, and Intermediate Care Facilities for Individuals with Intellectual Disabilities services authorized under the District of Columbia Medicaid State Plan or waivers thereof, including the District's Medicaid Home and Community-Based Services Waiver for Persons with Intellectual and Developmental Disabilities program, the District's Medicaid Home and Community-Based Services Waiver for Individual and Family Supports, and the District's Medicaid Home- and Community-Based Services Waiver for the Elderly and Persons with Physical Disabilities.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Direct care professional" means an employee of a direct care service provider who provides direct care services for at least 50% of the employee's work hours.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"Direct care service provider" means an entity enrolled with the District of Columbia Medicaid program that provides direct care services.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§4-2001" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-2001">Applicability of <cite doc="D.C. Law 23-77" path="">D.C. Law 23-77</cite>: <cite doc="D.C. Law 23-77" path="§7">§ 7 of D.C. Law 23-77</cite> provided that the creation of this section by <cite doc="D.C. Law 23-77" path="§2">§ 2 of D.C. Law 23-77</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2020-04-16" doc="D.C. Law 23-77" eff="2020-04-16" path="" type="History" display="false"/>
     <annotation app="2020-04-16" doc="D.C. Law 23-77" eff="2020-04-16" path="§7|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-77" eff="2020-04-16" path="§2" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-77" path="§2" codified:display="Note" app="2020-04-16" eff="2020-04-16">Applicability of <cite doc="D.C. Law 23-77" path="">D.C. Law 23-77</cite>: <cite doc="D.C. Law 23-77" path="§7">§ 7 of D.C. Law 23-77</cite> provided that the creation of this section by <cite doc="D.C. Law 23-77" path="§2">§ 2 of D.C. Law 23-77</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-04-16" doc="D.C. Law 23-77" eff="2020-04-16" path="§2" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-77" path="§2" codified:display="Note" app="2020-04-16" eff="2020-04-16">Applicability of <cite doc="D.C. Law 23-77" path="">D.C. Law 23-77</cite>: <cite doc="D.C. Law 23-77" path="§7">§ 7 of D.C. Law 23-77</cite> provided that the creation of this section by <cite doc="D.C. Law 23-77" path="§2">§ 2 of D.C. Law 23-77</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§5102|(a)|(1)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§5102|(a)|(2)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§5102|(g)" type="History" display="false"/>
   </annotations>
 </section>

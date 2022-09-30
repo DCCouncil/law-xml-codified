@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-1306.02a</num>
   <heading>Grandfather clause.</heading>
-  <text>Not Funded.</text>
+  <text>Individuals currently deemed eligible and receiving services under <cite path="7|13|VI">this subchapter</cite> shall not have their eligibility altered or impacted by the Developmental Disability Eligibility Reform Amendment Act of 2022 (<cite doc="D.C. Act 24-359">[, passed on 2nd reading on March 1, 2022 (Enrolled version of Bill 24-268)]</cite>D.C. Law 24-1__).</text>
   <annotations>
     <annotation doc="D.C. Law 2-137" type="History" path="§602a">Mar. 3, 1979, D.C. Law 2-137, § 602a</annotation>
-    <annotation app="notfunded" doc="D.C. Law 24-117" eff="2022-05-18" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-117" eff="2022-05-18" path="§3|(c)|(1)" prefix="as added" type="History"/>
+    <annotation app="2022-05-18" doc="D.C. Law 24-117" eff="2022-05-18" path="§3|(c)|(1)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-117" path="§3|(c)|(1)" codified:display="Note" app="2022-05-18" eff="2022-05-18">Applicability of <cite doc="D.C. Law 24-117" path="">D.C. Law 24-117</cite>: <cite doc="D.C. Law 24-117" path="§4">§ 4 of D.C. Law 24-117</cite> provided that the creation of this section by <cite doc="D.C. Law 24-117" path="§3|(c)|(1)">§ 3(c)(1) of D.C. Law 24-117</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2022-05-18" doc="D.C. Law 24-117" eff="2022-05-18" path="§3|(c)|(1)" type="History"/>
+    <annotation doc="D.C. Law 24-167" path="§7139" type="Applicability" history="false" app="2022-09-21" eff="2022-09-21"><cite doc="D.C. Law 24-167" path="§7139">Section 7139 of D.C. Law 24-167</cite> amended <cite doc="D.C. Law 24-117" path="§4">section 4 of D.C. Law 24-117</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 3(c)(1) of Law 24-117 has been implemented.
+        </annotation>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7139" type="History" display="false"/>
   </annotations>
 </section>

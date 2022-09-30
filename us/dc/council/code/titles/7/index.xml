@@ -228,6 +228,7 @@
         <xi:include href="./sections/7-503.07.xml"/>
         <xi:include href="./sections/7-503.08.xml"/>
         <xi:include href="./sections/7-503.09.xml"/>
+        <xi:include href="./sections/7-503.10.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -271,6 +272,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>II-A</num>
+      <reason>Repealed</reason>
       <heading>Senior Dental Services Program.</heading>
       <annotation app="2018-06-05" doc="D.C. Law 22-108" eff="2018-06-05" path="" type="History" display="false"/>
       <xi:include href="./sections/7-533.01.xml"/>
@@ -278,6 +280,7 @@
       <xi:include href="./sections/7-533.03.xml"/>
       <xi:include href="./sections/7-533.04.xml"/>
       <xi:include href="./sections/7-533.05.xml"/>
+      <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7062" type="History"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -645,6 +648,7 @@
     <xi:include href="./sections/7-771.07a.xml"/>
     <xi:include href="./sections/7-771.07b.xml"/>
     <xi:include href="./sections/7-771.07c.xml"/>
+    <xi:include href="./sections/7-771.07d.xml"/>
     <xi:include href="./sections/7-771.08.xml"/>
     <xi:include href="./sections/7-771.09.xml"/>
     <xi:include href="./sections/7-771.10.xml"/>
@@ -1030,6 +1034,14 @@
     <xi:include href="./sections/7-1233.02.xml"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7164" type="History"/>
   </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>12C</num>
+    <heading>Perinatal Mental Health Task Force.</heading>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="V" type="History" display="false"/>
+    <xi:include href="./sections/7-1234.01.xml"/>
+    <xi:include href="./sections/7-1234.02.xml"/>
+  </container>
   <subheading>Subtitle D. Citizens with Intellectual Disabilities.</subheading>
   <container>
     <prefix>Chapter</prefix>
@@ -1319,6 +1331,7 @@
     <xi:include href="./sections/7-1671.07.xml"/>
     <xi:include href="./sections/7-1671.08.xml"/>
     <xi:include href="./sections/7-1671.08a.xml"/>
+    <xi:include href="./sections/7-1671.08b.xml"/>
     <xi:include href="./sections/7-1671.09.xml"/>
     <xi:include href="./sections/7-1671.10.xml"/>
     <xi:include href="./sections/7-1671.11.xml"/>
@@ -1575,6 +1588,13 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>20C</num>
+    <heading>Wraparound Supports for Young Women and Girls.</heading>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="V" type="History" display="false"/>
+    <xi:include href="./sections/7-2085.01.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>21</num>
     <heading>Youth Residential Facilities Licensures.</heading>
     <xi:include href="./sections/7-2101.xml"/>
@@ -1762,6 +1782,7 @@
       <xi:include href="./sections/7-2371.02c.xml"/>
       <xi:include href="./sections/7-2371.03.xml"/>
       <xi:include href="./sections/7-2371.04.xml"/>
+      <xi:include href="./sections/7-2371.04a.xml"/>
       <xi:include href="./sections/7-2371.05.xml"/>
       <xi:include href="./sections/7-2371.06.xml"/>
     </container>

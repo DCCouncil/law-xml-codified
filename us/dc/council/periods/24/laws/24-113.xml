@@ -28,7 +28,6 @@
     <text>Section 2032(l) of the Deputy Mayor for Planning and Economic Development Limited Grant-Making Authority Act of 2012, effective September 20, 2012 (D.C. Law 19-168; D.C. Official Code § 1-328.04(l)), is amended to read as follows:</text>
     <include>
       <para>
-        <codify:replace codified:doc="D.C. Code" codified:path="§1-328.04|(l)"/>
         <num>(l)</num>
         <para>
           <num>(1)</num>
@@ -150,20 +149,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:find-replace path="§1-328.04|(l)|(2)|(A)|(vii)|num" count="1" codified:doc="D.C. Code" codified:path="§1-328.04|(l)|(2)|(A)|[(vi)]">
-      <find>(vii)</find>
-      <replace>[(vi)]</replace>
-    </codify:find-replace>
-    <codify:find-replace path="§1-328.04|(l)|(2)|(A)|(viii)|num" count="1" codified:doc="D.C. Code" codified:path="§1-328.04|(l)|(2)|(A)|[(vii)]">
-      <find>(viii)</find>
-      <replace>[(vii)]</replace>
-    </codify:find-replace>
     <codify:temporary doc="D.C. Code" path="§1-328.04" codified:doc="D.C. Code" codified:path="§1-328.04" codified:display="Note"/>
-    <codify:insert doc="D.C. Code" path="§1-328.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-328.04">
-      <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on November 20, 2022. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§1-328.04(Perm)">Permanent Version</cite>.*
-      </text>
-    </codify:insert>
   </section>
   <section>
     <num>3</num>

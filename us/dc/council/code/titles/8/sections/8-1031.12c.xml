@@ -1,14 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-1031.12c</num>
   <heading>On-site organic processing system acquisition grant program.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>There is established a grant program, to be administered by DPW, to financially assist a business or nonprofit organization in the lease or purchase of an on-site organic processing system, such as an in-vessel composter or aerobic digester.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Grants shall be awarded on a competitive basis.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>DPW may audit the accounts of a grantee receiving a grant under this section up to 3 years following the award of the grant.</text>
+  </para>
   <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§8-1031.12c" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-1031.12c">Applicability of <cite doc="D.C. Law 23-211" path="">D.C. Law 23-211</cite>: <cite doc="D.C. Law 23-211" path="§6">§ 6 of D.C. Law 23-211</cite> provided that the creation of this section by <cite doc="D.C. Law 23-211" path="§2|(k)">§ 2(k) of D.C. Law 23-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 20-154" path="112c" type="History">Feb. 26, 2015, D.C. Law 20-154, § 112c</annotation>
     <annotation app="2015-02-26" doc="D.C. Law 20-154" eff="2015-02-26" path="I" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§6|(a)" type="History" display="false"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(k)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-211" path="§2|(k)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-211" path="">D.C. Law 23-211</cite>: <cite doc="D.C. Law 23-211" path="§6">§ 6 of D.C. Law 23-211</cite> provided that the creation of this section by <cite doc="D.C. Law 23-211" path="§2|(k)">§ 2(k) of D.C. Law 23-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(k)" type="History"/>
@@ -16,9 +25,12 @@
           Applicability of D.C. Law 23-211: <cite doc="D.C. Act 24-159" path="§7203">§ 7203 of D.C. Act 24-159</cite> provided that the creation of this section by § 2(k) of D.C. Law 23-211 is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the creation of this section has not been implemented.
         </annotation>
     <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7203" type="History" display="false"/>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7203" type="History" display="false"/>
     <annotation doc="D.C. Law 24-45" path="§7203" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13">
           Applicability of D.C. Law 23-211: <cite doc="D.C. Law 24-45" path="§7203">§ 7203 of D.C. Law 24-45</cite> provided that the creation of this section by § 2(k) of D.C. Law 23-211 is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the creation of this section has not been implemented.
         </annotation>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7203" type="History" display="false"/>
+    <annotation doc="D.C. Law 24-167" path="§7135" type="Applicability" history="false" app="2022-09-21" eff="2022-09-21"><cite doc="D.C. Law 24-167" path="§7135">Section 7135 of D.C. Law 24-167</cite> amended <cite doc="D.C. Law 23-211" path="§6|(a)">section 6(a) of D.C. Law 23-211</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 2(k) of Law 23-211 has been implemented.
+        </annotation>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7135" type="History" display="false"/>
   </annotations>
 </section>

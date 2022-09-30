@@ -11,12 +11,16 @@
     <temporary/>
     <citations>
       <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/49087/Signed_Act/B24-0720-Signed_Act.pdf">D.C. Law 24-162</citation>
-      <citation type="register">69 DCR 008375</citation>
+      <citation type="register">69 DCR 008833</citation>
     </citations>
     <history url="https://lims.dccouncil.us/Legislation/B24-0720">
-      <vote date="2022-05-03" reading="First"/>
+      <vote date="2022-05-24" reading="Amendment"/>
+      <vote date="2022-05-24" reading="Amendment"/>
+      <vote date="2022-05-24" reading="First"/>
+      <vote date="2022-05-24" reading="Amendment"/>
+      <vote date="2022-06-07" reading="Amendment"/>
       <vote date="2022-06-07" reading="Final"/>
-      <enacted>2022-07-06</enacted>
+      <enacted>2022-07-13</enacted>
       <summary/>
       <committee>Retained by the Council</committee>
     </history>
@@ -378,7 +382,6 @@
       <text>Section 2032 of the Deputy Mayor for Planning and Economic Development Limited Grant-Making Authority Act of 2012, effective September 12, 2012 (D.C. Law 19-168; D.C. Official Code § 1-328.04), is amended by adding a new subsection (w) to read as follows:</text>
       <include>
         <para>
-          <codify:insert doc="D.C. Code" path="§1-328.04" after="(v)" codified:doc="D.C. Code" codified:path="§1-328.04|(w)"/>
           <num>(w)</num>
           <para>
             <num>(1)</num>
@@ -396,11 +399,6 @@
       </include>
       <aftertext>.</aftertext>
       <codify:temporary doc="D.C. Code" path="§1-328.04" codified:doc="D.C. Code" codified:path="§1-328.04" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§1-328.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-328.04">
-        <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on April 22, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§1-328.04(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(b)</num>
@@ -430,7 +428,6 @@
       <text>Subsection (b) is amended by adding a new paragraph (3) to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§32-541.04|(b)|(3)"/>
           <num>(3)</num>
           <text>For claims filed on or after July 25, 2022, paragraph (1) of this subsection shall not apply.</text>
         </para>
@@ -440,17 +437,8 @@
     <para codify:path="(c)">
       <num>(b)</num>
       <text>Subsection (c) is amended by striking the phrase "Following the filing of a claim and the one-week waiting period, if applicable" and inserting the phrase "Following the filing of a claim" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-541.04|(c)">
-        <find>Following the filing of a claim and the one-week waiting period, if applicable</find>
-        <replace>Following the filing of a claim</replace>
-      </codify:find-replace>
     </para>
     <codify:temporary doc="D.C. Code" path="§32-541.04" codified:doc="D.C. Code" codified:path="§32-541.04" codified:display="Note"/>
-    <codify:insert doc="D.C. Code" path="§32-541.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-541.04">
-      <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on April 22, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§32-541.04(Perm)">Permanent Version</cite>.*
-      </text>
-    </codify:insert>
   </section>
   <section>
     <num>6</num>
