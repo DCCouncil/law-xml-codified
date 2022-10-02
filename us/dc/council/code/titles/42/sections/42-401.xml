@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-401</num>
   <heading>Effective date of deeds; exception.</heading>
-  <text>Any deed conveying real property in the District, or interest therein, or declaring or limiting any use or trust thereof, executed and acknowledged and certified as provided in §§ <cite path="§42-101">42-101</cite>, <cite path="§42-121">42-121</cite> to <cite path="§42-123">42-123</cite> [repealed], <cite path="§42-306">42-306</cite>, and <cite path="§42-602">42-602</cite> and delivered to the person in whose favor the same is executed, shall be held to take effect from the date of the delivery thereof, except that as to creditors and subsequent bona fide purchasers and mortgagees without notice of said deed, and others interested in said property, it shall only take effect from the time of its delivery to the Recorder of Deeds for record.</text>
+  <text>Any deed conveying real property in the District, or interest therein, or declaring or limiting any use or trust thereof, executed and acknowledged and certified as provided in §§ <cite path="§42-602">§ 42-602</cite>, <cite path="§42-101">§ 42-101</cite>, and <cite path="§42-306">§ 42-306</cite>, and <cite path="1|12A">Chapter 12A of Title 1</cite>, and delivered to the person in whose favor the same is executed shall be held to take effect from the date of the delivery; except, that as to creditors and subsequent bona fide purchasers and mortgagees without notice of said deed, and others interested in the property, it shall only take effect from the time of its delivery to the Recorder of Deeds for record.</text>
   <annotations>
     <annotation type="History" doc="Stat. 45-2-ch69" path="">Apr. 29, 1878, 20 Stat. 39, ch. 69</annotation>
     <annotation type="History">Mar. 3, 1901, 31 Stat. 1268, ch. 854, § 499</annotation>
@@ -13,5 +13,6 @@
     <annotation type="Section References">This section is referenced in <cite path="§42-2002">§ 42-2002</cite>.</annotation>
     <annotation type="Cross References">Recording instrument by one who has no color of title, penalties, see <cite path="§22-1402">§ 22-1402</cite>.</annotation>
     <annotation type="Cross References">Horizontal property regimes, record defined, see <cite path="§42-2002">§ 42-2002</cite>.</annotation>
+    <annotation app="2022-09-21" doc="D.C. Law 24-178" eff="2022-09-21" path="§3|(a)" type="History"/>
   </annotations>
 </section>

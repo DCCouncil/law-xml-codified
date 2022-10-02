@@ -195,6 +195,13 @@
       <xi:include href="./sections/1-182.xml"/>
       <xi:include href="./sections/1-183.xml"/>
     </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>VII</num>
+      <heading>Juneteenth History and Planning Commission.</heading>
+      <annotation app="2022-09-21" doc="D.C. Law 24-179" eff="2022-09-21" path="" type="History" display="false"/>
+      <xi:include href="./sections/1-185.01.xml"/>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1575,6 +1582,15 @@
       <heading>Student loan repayment assistance for Council employees.</heading>
       <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="I|D" type="History" display="false"/>
       <xi:include href="./sections/1-545.01.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>VIII-B</num>
+      <heading>Data Collection and Reporting of Sexual Harassment Complains of District Government Employees.</heading>
+      <annotation app="2022-09-21" doc="D.C. Law 24-171" eff="2022-09-21" path="" type="History" display="false"/>
+      <xi:include href="./sections/1-546.01.xml"/>
+      <xi:include href="./sections/1-546.02.xml"/>
+      <xi:include href="./sections/1-546.03.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -2999,6 +3015,7 @@
     <xi:include href="./sections/1-1231.11.xml"/>
     <xi:include href="./sections/1-1231.12.xml"/>
     <xi:include href="./sections/1-1231.13.xml"/>
+    <xi:include href="./sections/1-1231.13a.xml"/>
     <xi:include href="./sections/1-1231.14.xml"/>
     <xi:include href="./sections/1-1231.15.xml"/>
     <xi:include href="./sections/1-1231.16.xml"/>
