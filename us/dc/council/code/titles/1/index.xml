@@ -198,8 +198,10 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>VII</num>
+      <reason>Not Funded</reason>
       <heading>Juneteenth History and Planning Commission.</heading>
-      <annotation app="2022-09-21" doc="D.C. Law 24-179" eff="2022-09-21" path="" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 24-179" eff="2022-09-21" path="§3" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 24-179" eff="2022-09-21" path="" type="History" display="false"/>
       <xi:include href="./sections/1-185.01.xml"/>
     </container>
   </container>
