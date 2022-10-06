@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-1653.01</num>
   <text>
-      *NOTE: This section was created by emergency legislation that will expire on October 23, 2022.*
+      *NOTE: This section was created by temporary legislation that will expire on May 4, 2023.*
       </text>
   <heading>Minor consent to vaccination.</heading>
   <para>
@@ -32,17 +32,19 @@
     <num>(d)</num>
     <text>Nothing in this section shall be construed or applied to require or excuse noncompliance with any provision of any federal law.</text>
   </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-781" expire="2022-07-25" codified:display="Note">For temporary (90 days) creation of § 7-1653.01, see <cite doc="D.C. Act 24-511" path="§2">§ 2 of Consent for Vaccinations of Minors Emergency Amendment Act of 2022 (D.C. Act 24-511, July 25, 2022, 69 DCR 009377)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-1653.01" applicability="2022-07-25" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-1653.01">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-511" path="§2">§ 2 of Consent for Vaccinations of Minors Emergency Amendment Act of 2022 (D.C. Act 24-511, July 25, 2022, 69 DCR 009377)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§7-781" expire="2022-09-21" codified:display="Note">For temporary (225 days) creation of § 7-1653.01, see <cite doc="D.C. Law 24-189" path="§2">§ 2 of Consent for Vaccinations of Minors Temporary Amendment Act of 2022 (D.C. Law 24-189, Sept. 21, 2022, 69 DCR 009946)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§7-1653.01" applicability="2022-09-21" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-1653.01">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-189" path="§2">§ 2 of Consent for Vaccinations of Minors Temporary Amendment Act of 2022 (D.C. Law 24-189, Sept. 21, 2022, 69 DCR 009946)</cite>.</codify:annotation>
   <codify:insert doc="D.C. Code" path="§7-1653.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-1653.01">
     <text>
-      *NOTE: This section was created by emergency legislation that will expire on October 23, 2022.*
+      *NOTE: This section was created by temporary legislation that will expire on May 4, 2023.*
       </text>
   </codify:insert>
   <annotations>
-    <annotation app="2022-07-25" doc="D.C. Act 24-511" eff="2022-07-25" path="" type="History" display="false"/>
-    <annotation app="2022-07-25" doc="D.C. Act 24-511" eff="2022-07-25" path="§2" type="History" display="false"/>
-    <annotation app="2022-07-25" doc="D.C. Act 24-511" eff="2022-07-25" path="§2" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-511" path="§2" codified:display="Note" app="2022-07-25" eff="2022-07-25">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-511" path="§2">§ 2 of Consent for Vaccinations of Minors Emergency Amendment Act of 2022 (D.C. Act 24-511, July 25, 2022, 69 DCR 009377)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-511" path="§2" codified:display="Note" app="2022-09-21" eff="2022-07-25">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-511" path="§2">§ 2 of Consent for Vaccinations of Minors Emergency Amendment Act of 2022 (D.C. Act 24-511, July 25, 2022, 69 DCR 009377)</cite>.</annotation>
+    <annotation app="2022-09-21" doc="D.C. Act 24-511" eff="2022-07-25" path="§2" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-189" eff="2022-09-21" path="" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-189" eff="2022-09-21" path="§2" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-189" eff="2022-09-21" path="§2" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-189" path="§2" codified:display="Note" app="2022-09-21" eff="2022-09-21">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-189" path="§2">§ 2 of Consent for Vaccinations of Minors Temporary Amendment Act of 2022 (D.C. Law 24-189, Sept. 21, 2022, 69 DCR 009946)</cite>.</annotation>
   </annotations>
 </section>
