@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>38-302</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 15, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§38-302(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Tuition required of nonresidents; deposit of payments.</heading>
   <para>
     <num>(a)</num>
@@ -20,7 +23,7 @@
   </para>
   <para>
     <num>(e)</num>
-    <text>Notwithstanding the provisions of subsection (a) of this section, a child in the care and custody of the District pursuant to <cite path="§16-2320|(a)|(3)">§ 16-2320(a)(3)</cite> who, while attending a DCPS or public charter school, ceases to be in that care and custody as a result of being placed in the permanent care and custody of a parent, guardian, or custodian who resides outside the District of Columbia shall be considered a resident of the District of Columbia for the purpose of school attendance and shall be exempt from the requirement to pay tuition for the period of time until the child completes the educational program offered at the school the child currently attends.</text>
+    <text>Notwithstanding the provisions of subsection (a) of this section, a child in the care and custody of the District pursuant to <cite path="§16-2320|(a)|(3)">§ 16-2320(a)(3)</cite> who, while attending a DCPS or public charter school, or while enrolled in a DCPS or public charter school and attending a non-public school or program pursuant to <cite path="§38-2561.03">§ 38-2561.03</cite>, ceases to be in that care and custody as a result of being placed in the permanent care and custody of a parent, guardian, or custodian who resides outside the District of Columbia shall be considered a resident of the District of Columbia for the purpose of school attendance and shall be exempt from the requirement to pay tuition for the period of time until the child completes the educational program offered at the school the child currently attends, if the child attends a DCPS or public charter school, or the remainder of the school year in which the change in care and custody occurs and through the end of the following school year, if the child is currently enrolled in a DCPS or public charter school and attending a non-public school or program pursuant to <cite path="§38-2561.03">§ 38-2561.03</cite>.</text>
   </para>
   <annotations>
     <annotation doc="Pub. L. 86-725" type="History" path="§2">Sept. 8, 1960, 74 Stat. 853, Pub. L. 86-725, § 2</annotation>
@@ -56,5 +59,9 @@
     <annotation app="2021-12-13" doc="D.C. Act 24-236" eff="2021-12-13" path="§2" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-79" path="§2" codified:display="Note" app="2022-02-24" eff="2022-02-24">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-79" path="§2">§ 2 of Non-Public Student Educational Continuity Second Temporary Amendment Act of 2021 (D.C. Law 24-79, Feb. 24, 2022, 69 DCR 000207)</cite>.</annotation>
     <annotation app="2022-02-24" doc="D.C. Law 24-79" eff="2022-02-24" path="§2" type="History" display="false"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-568" eff="2022-10-17" path="§2" type="History" display="false"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-568" eff="2022-10-17" path="§2|(a)" type="History"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-568" eff="2022-10-17" path="§2|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-568" path="§2" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-568" path="§2">§ 2 of Non-Public Student Educational Continuity Emergency Amendment Act of 2022 (D.C. Act 24-568, Oct. 17, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

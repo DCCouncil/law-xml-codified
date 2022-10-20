@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-1806.04</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 15, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-1806.04(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Tax on residents and nonresidents — Credits — In general.</heading>
   <para>
     <num>(a)</num>
@@ -186,6 +189,10 @@
           <text>Notwithstanding sub-subparagraph (i) of this subparagraph, any refunds to be paid pursuant to paragraph (1)(C) of this subsection shall be paid in one lump sum for the taxable year ending December 31, 2022.</text>
         </para>
       </para>
+      <para>
+        <num>(C)</num>
+        <text>A lump sum payment or a periodic payment made pursuant to this paragraph shall not be considered income for the purpose of determining eligibility or benefit amount for public assistance.</text>
+      </para>
     </para>
     <para>
       <num>(4)</num>
@@ -225,6 +232,10 @@
     <para>
       <num>(3)</num>
       <text>Any refunds paid pursuant to this subsection shall be paid in the manner described in subsection (f)(3) of this section.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>A lump sum payment or a periodic payment made pursuant to this subsection shall not be considered income for the purposes of determining eligibility for public assistance.</text>
     </para>
   </para>
   <annotations>
@@ -286,6 +297,12 @@
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7232|(b)|(1)|(A)" type="History"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7232|(b)|(1)|(B)" type="History"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7232|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§7012" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§7012">§ 7012 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§7012" type="History" display="false"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7012" type="History"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-561" eff="2022-10-17" path="§4" type="History" display="false"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-561" eff="2022-10-17" path="§4|(a)" type="History"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-561" eff="2022-10-17" path="§4|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-561" path="§4" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-561" path="§4">§ 4 of Earned Income Tax Credit Expansion Clarification Emergency Amendment Act of 2022 (D.C. Act 24-561, Oct. 17, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

@@ -1,10 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-773.04</num>
+  <text>
+      *NOTE: This section was created by emergency legislation that will expire on December 29, 2022.*
+      </text>
   <heading>Grants.</heading>
   <text>Notwithstanding <cite path="1|3|XII-A|B">part B of subchapter XII-A of Chapter 3 of Title 1</cite>, the Mayor may make grants to nonprofit organizations and other entities to provide services and supports to recent immigrants to the United States arriving in the District.</text>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-771.01" expire="2022-09-30" codified:display="Note">For temporary (90 days) creation of § 4-773.04, see <cite doc="D.C. Act 24-553" path="§104">§ 104 of Migrant Services and Supports Emergency Amendment Act of 2022 (D.C. Act 24-553, Sept. 30, 2022, 0 DCR 0)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-773.04" applicability="2022-09-30" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-773.04">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-553" path="§104">§ 104 of Migrant Services and Supports Emergency Amendment Act of 2022 (D.C. Act 24-553, Sept. 30, 2022, 0 DCR 0)</cite>.</codify:annotation>
+  <codify:insert doc="D.C. Code" path="§4-773.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-773.04">
+    <text>
+      *NOTE: This section was created by emergency legislation that will expire on December 29, 2022.*
+      </text>
+  </codify:insert>
   <annotations>
     <annotation app="2022-09-30" doc="D.C. Act 24-553" eff="2022-09-30" path="" type="History" display="false"/>
+    <annotation app="2022-09-30" doc="D.C. Act 24-553" eff="2022-09-30" path="§104" type="History" display="false"/>
     <annotation app="2022-09-30" doc="D.C. Act 24-553" eff="2022-09-30" path="§104" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-553" path="§104" codified:display="Note" app="2022-09-30" eff="2022-09-30">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-553" path="§104">§ 104 of Migrant Services and Supports Emergency Amendment Act of 2022 (D.C. Act 24-553, Sept. 30, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

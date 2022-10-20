@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-681.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 15, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§4-681.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Child Trust Fund.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established as a special fund, the Child Trust Fund ("Fund"), which shall be administered by the Chief Financial Officer in accordance with subsection (c) of this section. The Chief Financial Officer shall establish within the Fund a child trust fund account for each eligible child enrolled in the CTF Program.</text>
+    <text>There is established as a special fund, the Child Trust Fund ("Fund"), which shall be administered by the Chief Financial Officer in accordance with subsection (d) of this section. </text>
   </para>
   <para>
     <num>(b)</num>
@@ -18,16 +21,16 @@
       <text>Other monies that may be appropriated for the purposes of <cite path="4|6D">this chapter</cite>.</text>
     </para>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(c)</num>
-    <text>Money in the Fund shall be used for the purpose of establishing a child trust fund account for each eligible child in the CTF Program in accordance with <cite path="4|6D">this chapter</cite> and rules issued pursuant to <cite path="4|6D">this chapter</cite>.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(d)</num>
-    <text>The money in the Fund, which shall consist of all the amounts paid into the fund pursuant to subsection (b) of this section, increased by the net earnings from investments of amounts held in the Fund or reduced by the net losses from investments of amounts held in the Fund, and less total payments, including distributions and administrative expenses, shall be used to:</text>
+    <text>The money in the Fund, which shall consist of all the amounts paid into the Fund pursuant to subsection (b) of this section, increased by the net earnings from investments of amounts held in the Fund or reduced by the net losses from investments of amounts held in the Fund, and less total payments, including distributions and administrative expenses, shall be used to:</text>
     <para>
       <num>(1)</num>
-      <text>Make distributions pursuant to <cite path="§4-681.06">§ 4-681.06</cite>;</text>
+      <text>Make distributions pursuant to <cite path="§4-681.06">§ 4-681.06</cite>, and in accordance with the rules issued pursuant to <cite path="4|6D">this chapter</cite>;</text>
     </para>
     <para>
       <num>(2)</num>
@@ -40,7 +43,7 @@
   </para>
   <para>
     <num>(e)</num>
-    <text>The money in the Fund shall not be used for any purpose other than the purposes specified in subsections (c) and (d) of this section.</text>
+    <text>The money in the Fund shall not be used for any purpose other than the purposes specified in subsection (d) of this section.</text>
   </para>
   <para>
     <num>(f)</num>
@@ -79,5 +82,13 @@
     <annotation app="2022-02-18" doc="D.C. Act 24-239" eff="2021-12-13" path="§3" type="History" display="false"/>
     <annotation app="2022-02-18" doc="D.C. Law 24-53" eff="2022-02-18" path="" type="History" display="false"/>
     <annotation app="2022-02-18" doc="D.C. Law 24-53" eff="2022-02-18" path="§3" type="History"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-560" eff="2022-10-17" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-560" eff="2022-10-17" path="§2|(b)|(1)|(A)" type="History"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-560" eff="2022-10-17" path="§2|(b)|(1)|(B)" type="History"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-560" eff="2022-10-17" path="§2|(b)|(2)" type="History"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-560" eff="2022-10-17" path="§2|(b)|(3)|(A)" type="History"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-560" eff="2022-10-17" path="§2|(b)|(3)|(B)" type="History"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-560" eff="2022-10-17" path="§2|(b)|(4)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-560" path="§2|(b)" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-560" path="§2|(b)">§ 2(b) of Child Wealth Building Emergency Amendment Act of 2022 (D.C. Act 24-560, Oct. 17, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-681.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 15, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§4-681.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <para>
     <num undesignated="true">(a)</num>
@@ -24,9 +27,9 @@
       <num>(3)</num>
       <text>"Chief Financial Officer" means the head of the Office of the Chief Financial Officer of the District of Columbia, established by <cite path="§1-204.24a">§ 1-204.24a</cite>, or the designee of the Chief Financial Officer.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(4)</num>
-      <text>"Child trust fund account" means a unique personal identifier, such as a social security number, or other acceptable identification, for each child enrolled in the Child Trust Fund Program to enable the Chief Financial Officer to determine the amount in the Fund, calculating gains, losses, and costs, on a pro rata bases attributable to each eligible child.</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(5)</num>
@@ -47,7 +50,7 @@
         <text>"Eligible child" means an individual who:</text>
         <para>
           <num>(i)</num>
-          <text>Was born on or after October 1, 2021, whose birth was subject to medical coverage provided under Medicaid;</text>
+          <text>Was born on or after October 1, 2021, whose birth was subject to medical coverage provided under DC Medicaid;</text>
         </para>
         <para>
           <num>(ii)</num>
@@ -98,5 +101,9 @@
     <annotation app="2022-02-18" doc="D.C. Act 24-239" eff="2021-12-13" path="§2" type="History" display="false"/>
     <annotation app="2022-02-18" doc="D.C. Law 24-53" eff="2022-02-18" path="" type="History" display="false"/>
     <annotation app="2022-02-18" doc="D.C. Law 24-53" eff="2022-02-18" path="§2" type="History"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-560" eff="2022-10-17" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-560" eff="2022-10-17" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-560" eff="2022-10-17" path="§2|(a)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-560" path="§2|(a)" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-560" path="§2|(a)">§ 2(a) of Child Wealth Building Emergency Amendment Act of 2022 (D.C. Act 24-560, Oct. 17, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
