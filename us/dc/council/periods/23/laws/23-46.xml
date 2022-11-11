@@ -43,7 +43,7 @@
       <text>A new section 47-4671 is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert doc="D.C. Code" path="47|46" after="§[47-4671]" num-value="[47-4672]" codified:doc="D.C. Code" codified:path="§[47-4672]"/>
+          <codify:insert doc="D.C. Code" path="47|46" after="§[47-4671]" num-value="[47-4672]" codified:doc="D.C. Code" codified:path="§47-4672"/>
           <prefix>§</prefix>
           <num codify:value="[47-4672]">47-4671</num>
           <heading>MLK Gateway real property tax abatement.</heading>
@@ -144,7 +144,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:not-funded-anno doc="D.C. Code" path="§[47-4672]" applicability-path="§3" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§[47-4672]" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§[47-4672]" applicability-path="§3" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§47-4672" codified:display="Note"/>
     </para>
   </section>
   <section>
