@@ -1,14 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-551.07e</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 19, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§10-551.07e(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Government Space Maintenance and Repair Transparency Dashboard.</heading>
   <para>
     <num>(a)</num>
-    <text>Beginning no later than October 1, 2022, the Department shall publish a dashboard referencing all open District of Columbia Public School campus facility maintenance work orders, updated at least weekly to reflect changes in work order status and newly opened work orders.</text>
+    <text>Beginning no later than October 1, 2022, the Department shall publish a dashboard referencing all open District of Columbia Public School campus facility maintenance work orders not exempted by subsection (e) of this section, updated at least weekly to reflect changes in work order status and newly opened work orders.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>Beginning no later than October 1, 2023, the Department shall update the previously established dashboard to include all open Department of Parks and Recreation facility maintenance work orders, updated at least weekly to reflect changes in work order status and newly opened work orders.</text>
+    <text>Beginning no later than October 1, 2023, the Department shall update the previously established dashboard to include all open Department of Parks and Recreation facility maintenance work orders not exempted by subsection (e) of this section, updated at least weekly to reflect changes in work order status and newly opened work orders.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -50,10 +53,42 @@
       <text>If the work order remains open, an estimated completion date.</text>
     </para>
   </para>
+  <para>
+    <num>(e)</num>
+    <para>
+      <num>(1)</num>
+      <text>The following types of work order data shall be exempt from the requirements of subsections (a) and (b) of this section:</text>
+      <para>
+        <num>(A)</num>
+        <text>Any work order data regarding a door or lock issue that impairs ordinary operation or has the potential to impair lockdown of a campus space;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Any work order data regarding a window issue that impairs ordinary operation or has the potential to impair lockdown of a campus space; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Any work order data regarding a security camera or security alarm system if that data could be used to access a facility unlawfully.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Department of General Services ("Department") shall provide prompt written notice to the chairs of the Council committees with jurisdiction over the Department, the District of Columbia Public Schools, and the Department of Parks and Recreation regarding any work order omitted from a dashboard pursuant to paragraph (1) this subsection that remains open for 45 days or more.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The Department may delay its publication pursuant to subsections (a) and (b) of this section of any work order data related to door, window, and security system issues for up to 10 business days for purposes of determining whether such data are exempt from disclosure pursuant to paragraph (1) of this subsection.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 19-21" type="History" path="§1028e">Sept. 14, 2011, D.C. Law 19-21, § 1028e</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§1022" codified:display="Note" app="2022-09-21" eff="2022-07-13">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-470" path="§1022">§ 1022 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
     <annotation app="2022-09-21" doc="D.C. Act 24-470" eff="2022-07-13" path="§1022" type="History" display="false"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§1022" prefix="as added" type="History"/>
+    <annotation app="2022-11-21" doc="D.C. Act 24-650" eff="2022-11-21" path="§2" type="History" display="false"/>
+    <annotation app="2022-11-21" doc="D.C. Act 24-650" eff="2022-11-21" path="§2|(a)" type="History"/>
+    <annotation app="2022-11-21" doc="D.C. Act 24-650" eff="2022-11-21" path="§2|(b)" type="History"/>
+    <annotation app="2022-11-21" doc="D.C. Act 24-650" eff="2022-11-21" path="§2|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-650" path="§2" codified:display="Note" app="2022-11-21" eff="2022-11-21">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-650" path="§2">§ 2 of Protecting Security-Sensitive Dashboard Data Emergency Amendment Act of 2022 (D.C. Act 24-650, Nov. 21, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
