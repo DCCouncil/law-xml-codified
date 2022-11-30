@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <num>38-502.01</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on February 20, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§38-502.01(Perm)">Permanent Version</cite>.*
-      </text>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <num>38-502.01(Perm)</num>
   <heading>Certification of COVID-19 immunization.</heading>
   <para>
     <num>(a)</num>
@@ -21,11 +18,11 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>No student shall be admitted by a school unless the school has certification of COVID-19 immunization for that student or the student is exempted pursuant to <cite path="§38-506">§ 38-506</cite>; provided, that this paragraph shall not be enforced until the start of School Year 2023-2024.</text>
+      <text>No student shall be admitted by a school unless the school has certification of COVID-19 immunization for that student or the student is exempted pursuant to <cite path="§38-506">§ 38-506</cite>; provided, that this paragraph shall not be enforced until the start of School Year 2022-2023.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>Sections <cite path="§38-504">38-504</cite> and <cite path="§38-505">38-505</cite> shall apply to a student for whom a school does not have a certification of COVID-19 immunization; provided, that <cite path="§38-505">§ 38-505</cite> shall not be enforced with respect to certification of COVID-19 immunization until the start of School Year 2023-2024.</text>
+      <text>Sections <cite path="§38-504">38-504</cite> and <cite path="§38-505">38-505</cite> shall apply to a student for whom a school does not have a certification of COVID-19 immunization; provided, that <cite path="§38-505">§ 38-505</cite> shall not be enforced with respect to certification of COVID-19 immunization until the start of School Year 2022-2023.</text>
     </para>
   </para>
   <para>
@@ -72,13 +69,9 @@
       <text>"Student" means an individual who is 3 years of age or older who seeks admission to a school or for whom admission is sought by a responsible person.</text>
     </para>
   </para>
+  <aftertext>.</aftertext>
   <annotations>
     <annotation doc="D.C. Law 3-20" type="History" path="§3a">Sept. 28, 1979, D.C. Law 3-20, § 3a</annotation>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-280" path="§2|(c)" codified:display="Note" app="2022-03-02" eff="2022-01-12">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-280" path="§2|(c)">§ 2(c) of Coronavirus Immunization of School Students and Early Childhood Workers Regulation Emergency Amendment Act of 2021 (D.C. Act 24-280, Jan. 12, 2022, 69 DCR 000425)</cite>.</annotation>
-    <annotation app="2022-03-02" doc="D.C. Act 24-280" eff="2022-01-12" path="§2|(c)" type="History" display="false"/>
-    <annotation app="2022-03-02" doc="D.C. Law 24-85" eff="2022-03-02" path="§2|(c)" prefix="as added" type="History"/>
-    <annotation app="2022-11-22" doc="D.C. Act 24-669" eff="2022-11-22" path="§2" type="History" display="false"/>
-    <annotation app="2022-11-22" doc="D.C. Act 24-669" eff="2022-11-22" path="§2" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-669" path="§2" codified:display="Note" app="2022-11-22" eff="2022-11-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-669" path="§2">§ 2 of Coronavirus Immunization of School Students Emergency Amendment Act of 2022 (D.C. Act 24-669, Nov. 22, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation doc="D.C. Law 24-85" type="History" path="§2|(c)">as added Mar. 2, 2022, D.C. Law 24-85, § 2(c), 69 DCR 440</annotation>
   </annotations>
 </section>

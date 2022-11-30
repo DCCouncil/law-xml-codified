@@ -85,7 +85,7 @@
         <text>A new section 105a is added to read as follows:</text>
         <include>
           <section>
-            <codify:insert path="2|14|A|I" after="§2-1401.05" num-value="[2-1401.06]" history-prefix="as added" codified:doc="D.C. Code" codified:path="§[2-1401.06]"/>
+            <codify:insert path="2|14|A|I" after="§2-1401.05" num-value="[2-1401.06]" history-prefix="as added" codified:doc="D.C. Code" codified:path="§2-1401.06"/>
             <num>105a</num>
             <heading>Government noninterference in reproductive health decisions.</heading>
             <para>
@@ -136,7 +136,7 @@
         </include>
         <aftertext>.</aftertext>
         <annotation doc="D.C. Law 2-38" type="History" path="§105">Dec. 13, 1977, D.C. Law 2-38, title I, § 105a [106]</annotation>
-        <codify:not-funded-anno doc="D.C. Code" path="§[2-1401.06]" applicability-path="§3" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§[2-1401.06]" codified:display="Note"/>
+        <codify:not-funded-anno doc="D.C. Code" path="§[2-1401.06]" applicability-path="§3" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§2-1401.06" codified:display="Note"/>
       </para>
     </para>
     <para>
