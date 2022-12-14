@@ -1203,7 +1203,7 @@
           <text>New subsections (b-1), (b-2), and (b-3) are added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§50-301.07|(b-1)"/>
+              <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§50-301.07|(b-1)|(1)"/>
               <num>(b-1)</num>
               <text>The DFHV shall employ no fewer than 20 vehicle inspection officers to enforce the laws, rules, and regulations pertaining to public and private vehicles-for-hire. A primary function of vehicle inspection officers shall be to ensure the proper provision of service and to support safety through street enforcement efforts, including traffic stops of public and private vehicles-for-hire, pursuant to protocol prescribed by the DFHV.</text>
             </para>
