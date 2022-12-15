@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-1693.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on March 8, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§32-1693.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Establishment of the Nurse Education Enhancement Program.</heading>
   <para>
     <num>(a)</num>
-    <text>The WIC shall establish, in collaboration with the University, the University of the District of Columbia Foundation, Inc., and direct care worker training grantees, the DC Nurse Education Enhancement Program for the purpose of training District residents to obtain an occupational credential and employment in nursing care occupations. The WIC shall be responsible for providing funding for the Program consistent with the memoranda of understanding executed pursuant to <cite path="§32-1693.05">§ 32-1693.05</cite> and the direct care worker training grants authorized pursuant to <cite path="§32-1693.06">§ 32-1693.06</cite>.</text>
+    <text>The WIC shall establish, in collaboration with the Universityand direct care worker training grantees, the DC Nurse Education Enhancement Program for the purpose of training District residents to obtain an occupational credential and employment in nursing care occupations. The WIC shall be responsible for providing funding for the Program consistent with the memoranda of understanding executed pursuant to <cite path="§32-1693.05">§ 32-1693.05</cite> and the direct care worker training grants authorized pursuant to <cite path="§32-1693.06">§ 32-1693.06</cite>.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -19,7 +22,19 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>A monthly stipend to be used toward living expenses and transportation for Program participants pursuing WDLL courses or certification as a CNA, HHA, MA-C, or a CNA to HHA bridge program, through a direct care worker training grantee.</text>
+      <text>A monthly stipend to be used toward living expenses and transportation for Program participants pursuing:</text>
+      <para>
+        <num>(A)</num>
+        <text>WDLL courses;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Certification as a CNA, HHA, MA-C, or a CNA to HHA bridge program, through a community training provider; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>An LPN to AASN degree through UDC-CC.</text>
+      </para>
     </para>
   </para>
   <para>
@@ -47,5 +62,9 @@
         </annotation>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4122" type="History" display="false"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4113" type="History"/>
+    <annotation app="2022-12-08" doc="D.C. Act 24-677" eff="2022-12-08" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2022-12-08" doc="D.C. Act 24-677" eff="2022-12-08" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2022-12-08" doc="D.C. Act 24-677" eff="2022-12-08" path="§2|(a)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-677" path="§2|(a)" codified:display="Note" app="2022-12-08" eff="2022-12-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-677" path="§2|(a)">§ 2(a) of DC Nursing Education Enhancement Program Emergency Amendment Act of 2022 (D.C. Act 24-677, Dec. 8, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

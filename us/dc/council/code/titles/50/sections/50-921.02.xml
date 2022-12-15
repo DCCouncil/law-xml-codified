@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-921.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on March 8, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§50-921.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Director.</heading>
   <para>
     <num>(a)</num>
@@ -180,6 +183,32 @@
       <text>DDOT may take other appropriate actions to plan, fund, design, construct, and otherwise carry out the transportation projects, including performing work, including construction work, in regional jurisdictions.</text>
     </para>
   </para>
+  <para>
+    <num>(h)</num>
+    <para>
+      <num>(1)</num>
+      <text>Within 60 days of the effective date of the Metro for D.C. Amendment Act of 2022, passed on 1st reading on December 6, 2022 (Engrossed version of Bill 24-429)  [pending], the Director shall enter into a fare buydown agreement with the Washington Metropolitan Area Transit Authority to facilitate:</text>
+      <para>
+        <num>(A)</num>
+        <text>The provision of fare-free Metrobus transportation within the District; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <para>
+          <num>(i)</num>
+          <text>Daily 24-hour Metrobus service on at least 12 Metrobus lines in the District, with a maximum of 20 minutes between any scheduled bus arrival at any stop.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The Metrobus lines identified in subparagraph (B)(i) of this paragraph shall be determined based on high ridership, with an emphasis on serving major transportation corridors and activity centers.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Director may amend the fare buydown agreement required by paragraph (1) of this subsection or enter in additional fare buydown agreements in order to expand the availability of Metrobus service within the District.</text>
+    </para>
+  </para>
   <annotations>
     <text type="Short Title">Section 6121 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that Subtitle M of Title VI of the act may be cited as the “District Department of Transportation Jurisdiction Amendment Act of 2013”.</text>
     <text type="Short Title">Short title: Section 11001 of <cite doc="D.C. Law 19-21">D.C. Law 19-21</cite> provided that title XI of the act may be cited as “Department of Transportation Capital Budget Allocation Authority Act of 2011”.</text>
@@ -266,5 +295,8 @@
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§6012|(d)|(1)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§6012|(d)|(2)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§6012|(d)|(3)" type="History"/>
+    <annotation app="2022-12-08" doc="D.C. Act 24-699" eff="2022-12-08" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2022-12-08" doc="D.C. Act 24-699" eff="2022-12-08" path="§2|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-699" path="§2|(a)" codified:display="Note" app="2022-12-08" eff="2022-12-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-699" path="§2|(a)">§ 2(a) of Fare-Free Bus Funding Emergency Amendment Act of 2022 (D.C. Act 24-699, Dec. 8, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
