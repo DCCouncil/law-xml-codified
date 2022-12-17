@@ -1714,8 +1714,8 @@
       <num>173</num>
       <text>Section 3(c)(1) of the District of Columbia Unemployment Compensation Act, approved August 28, 1935 (49 Stat. 949; D.C. Official Code § 51-103(c)(1)), is amended by striking the phrase "; provided, that contributions received after July 1, 1981, by reason of the solvency tax set forth in paragraph (4)(B)(ii) of this subsection shall not be credited to the separate account of each employer. Each year" and inserting the phrase ". Each year" in its place.</text>
       <codify:find-replace doc="D.C. Code" path="§51-103|(c)|(1)" count="1" codified:doc="D.C. Code" codified:path="§51-103|(c)|(1)">
-        <find>; provided, that contributions received after July 1, 1981, by reason of the solvency tax set forth in paragraph (4)(B)(ii) of this subsection shall not be credited to the separate account of each employer. Each year</find>
-        <replace>. Each year</replace>
+        <find>; provided, that contributions received after July 1, 1981, by reason of the solvency tax set forth in paragraph (4)(B)(ii) of this subsection shall not be credited to the separate account of each employer</find>
+        <replace/>
       </codify:find-replace>
     </section>
     <section>

@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-205.11</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on January 15, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§4-205.11(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>TANF need determination.</heading>
   <para>
     <num>(a)</num>
@@ -121,9 +118,9 @@
     <annotation app="2019-11-26" doc="D.C. Law 23-32" eff="2019-11-26" path="§201|(a)" type="History"/>
     <annotation app="2019-11-26" doc="D.C. Law 23-32" eff="2019-11-26" path="§201|(b)" type="History"/>
     <annotation app="2019-11-26" doc="D.C. Law 23-32" eff="2019-11-26" path="§201|(c)" type="History"/>
-    <annotation app="2022-10-17" doc="D.C. Act 24-561" eff="2022-10-17" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2022-10-17" doc="D.C. Act 24-561" eff="2022-10-17" path="§2|(b)|(1)" type="History"/>
-    <annotation app="2022-10-17" doc="D.C. Act 24-561" eff="2022-10-17" path="§2|(b)|(2)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-561" path="§2|(b)" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-561" path="§2|(b)">§ 2(b) of Earned Income Tax Credit Expansion Clarification Emergency Amendment Act of 2022 (D.C. Act 24-561, Oct. 17, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2022-10-17" doc="D.C. Act 24-561" eff="2022-10-17" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2022-12-13" doc="D.C. Law 24-195" eff="2022-12-13" path="§2|(b)|(1)" type="History"/>
+    <annotation app="2022-12-13" doc="D.C. Law 24-195" eff="2022-12-13" path="§2|(b)|(2)" type="History"/>
   </annotations>
 </section>
