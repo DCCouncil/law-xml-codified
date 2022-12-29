@@ -1,36 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>1-612.38</num>
   <heading>Voluntary Transfer of Leave Program Report.</heading>
-  <text>On or before February 1 of each year, the Office of Personnel shall provide a Voluntary Transfer of Leave Program Report to the Council. The report shall include:</text>
-  <para>
-    <num>(1)</num>
-    <text>A comprehensive list of all voluntary leave bank contributors;</text>
-  </para>
-  <para>
-    <num>(2)</num>
-    <text>A comprehensive list of all transfer of leave recipients;</text>
-  </para>
-  <para>
-    <num>(3)</num>
-    <text>Documentation demonstrating that proper deductions have been taken from the contributor’s leave accrual;</text>
-  </para>
-  <para>
-    <num>(4)</num>
-    <text>Documentation demonstrating the actual transfer of leave to the recipient; and</text>
-  </para>
-  <para>
-    <num>(5)</num>
-    <text>If the head of an agency excludes an employee or group of employees from the program under <cite path="§1-612.32|(d)">§ 1-612.32(d)</cite> because an organization or program within the agency would be substantially disrupted in carrying out its functions or would incur additional costs:</text>
-    <para>
-      <num>(A)</num>
-      <text>The manner in which the organization or program within the agency would be substantially disrupted in carrying out its functions; or</text>
-    </para>
-    <para>
-      <num>(B)</num>
-      <text>The amount of additional costs which will be incurred and the reasons that they will be incurred.</text>
-    </para>
-  </para>
+  <text>Repealed.</text>
   <annotations>
     <annotation doc="D.C. Law 2-139" type="History" path="§1238">Mar. 3, 1979, D.C. Law 2-139, § 1238</annotation>
     <annotation doc="D.C. Law 15-68" type="History">as added Feb. 6, 2004, D.C. Law 15-68, § 2, 50 DCR 9819</annotation>
@@ -41,5 +14,9 @@
     <annotation type="Cross References">Merit system, effective date provisions, see <cite path="§1-636.02">§ 1-636.02</cite>.</annotation>
     <annotation type="Cross References">Merit system, continuation of existing laws, see <cite path="§1-632.06">§ 1-632.06</cite>.</annotation>
     <annotation type="Cross References">Mayor and Council members, coverage, see <cite path="§1-602.02">§ 1-602.02</cite>.</annotation>
+    <annotation app="2022-12-21" doc="D.C. Law 24-212" eff="2022-12-21" path="§2|(m)" type="History"/>
+    <annotation doc="D.C. Law 24-212" path="§2|(m)" type="Applicability" history="false" app="2022-12-21" eff="2022-12-21"><cite doc="D.C. Law 24-212" path="§3">Section 3 of D.C. Law 24-212</cite> provided that the amendments made to this section by D.C. Law 24-212 shall apply as of January 1, 2023.
+      </annotation>
+    <annotation app="2022-12-21" doc="D.C. Law 24-212" eff="2022-12-21" path="§2|(m)" type="History" display="false"/>
   </annotations>
 </section>
