@@ -1,18 +1,63 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-2201.04d</num>
-  <heading>Bicyclists’ use of leading pedestrian intervals.</heading>
+  <heading>Riders' safe crossing at intersections.</heading>
   <para>
     <num>(a)</num>
-    <text>A bicyclist may cross at an intersection while following the pedestrian traffic control signal for the bicyclist’s direction of travel unless otherwise directed by traffic signs or traffic control devices.</text>
+    <text>A rider approaching a stop sign may go straight through the intersection or make a turn without stopping; provided, that the rider:</text>
+    <para>
+      <num>(1)</num>
+      <text>Is travelling at an appropriate speed to reasonably assess and avoid hazards;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Determines there is no immediate hazard; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Yields the right-of-way to pedestrians and to other traffic lawfully using the intersection.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
-    <text>A bicyclist may cross an intersection where a leading pedestrian interval is used.</text>
+    <text>A rider approaching a steady red traffic control signal may go straight through the intersection or make a left turn; provided, that DDOT has posted signage expressly permitting such movements at that intersection, and that the rider:</text>
+    <para>
+      <num>(1)</num>
+      <text>Makes a complete stop;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Determines there is no immediate hazard; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Yields the right-of-way to pedestrians and to other traffic lawfully using the intersection.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>A rider approaching a steady red traffic control signal may make a right turn, provided that the rider:</text>
+    <para>
+      <num>(1)</num>
+      <text>Makes a complete stop;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Determines there is no immediate hazard; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Yields the right-of-way to pedestrians and to other traffic lawfully using the intersection.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>A rider may follow the pedestrian traffic control signal, including a leading pedestrian interval, for the rider's direction of travel.</text>
   </para>
   <annotations>
     <annotation type="History" doc="Stat. 68-2-ch443" path="§9d">Mar. 3, 1925, ch. 443, § 9d</annotation>
     <annotation doc="D.C. Law 20-49" type="History">as added Dec. 13, 2013, D.C. Law 20-49, § 2(b), 60 DCR 15148</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 20-49">D.C. Law 20-49</cite> added this section.</annotation>
+    <annotation app="2022-12-21" doc="D.C. Law 24-214" eff="2022-12-21" path="§2|(c)" type="History"/>
   </annotations>
 </section>

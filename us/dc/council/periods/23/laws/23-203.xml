@@ -214,12 +214,12 @@
           <text>New paragraph (14A), (14B), (14C), and (14D) are added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(14)" codified:doc="D.C. Code" codified:path="§50-2201.02|(14A)"/>
+              <codify:insert after="(14)" codified:doc="D.C. Code" codified:path="§50-2201.02|(14B)"/>
               <num>(14A)</num>
               <text>"SFD fleet" means all shared fleet devices of any single type of shared fleet device made available for rent by a permitted operator.</text>
             </para>
             <para>
-              <codify:insert after="(14A)" codified:doc="D.C. Code" codified:path="§50-2201.02|(14B)"/>
+              <codify:insert after="(14A)" codified:doc="D.C. Code" codified:path="§50-2201.02|(14C)"/>
               <num>(14B)</num>
               <para>
                 <num>(A)</num>
@@ -231,12 +231,12 @@
               </para>
             </para>
             <para>
-              <codify:insert after="(14B)" codified:doc="D.C. Code" codified:path="§50-2201.02|(14C)"/>
+              <codify:insert after="(14B)" codified:doc="D.C. Code" codified:path="§50-2201.02|(14D)"/>
               <num>(14C)</num>
               <text>"SFD permit" means a public-right-of-way occupancy permit issued by the Director to a shared fleet device operating company to offer shared fleet devices for rental in the public right-of-way in the District.</text>
             </para>
             <para>
-              <codify:insert after="(14C)" codified:doc="D.C. Code" codified:path="§50-2201.02|(14D)"/>
+              <codify:insert after="(14C)" codified:doc="D.C. Code" codified:path="§50-2201.02|(14E)"/>
               <num>(14D)</num>
               <text>"Shared fleet device" means an electric mobility device, bicycle, or electrically-powered motorized bicycle that is available for short-term rental and is permitted for use in public space.</text>
             </para>
