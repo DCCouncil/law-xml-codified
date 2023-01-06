@@ -2,12 +2,12 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>48-651</num>
   <text>
-      *NOTE: This section was created by emergency legislation that will expire on January 15, 2023.*
+      *NOTE: This section was created by temporary legislation that will expire on August 3, 2023.*
       </text>
   <heading>Third-party food delivery platforms.</heading>
   <para>
     <num>(a)</num>
-    <text>A person, corporation, partnership, or association operating a third-party food delivery platform within the District shall register with the [Department of Consumer and Regulatory Affairs].</text>
+    <text>A person, corporation, partnership, or association operating a third-party food delivery platform within the District shall register with the Department of Consumer and Regulatory Affairs.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -72,16 +72,19 @@
     <num>(i)</num>
     <text>Nothing in this section limits or otherwise impacts the requirement of a third-party food delivery platform to collect and remit sales tax imposed under <cite path="47|20">Chapter 20 of Title 47</cite>.</text>
   </para>
-  <codify:emergency doc="D.C. Code" path="§48-651" codified:doc="D.C. Code" codified:path="§48-651" codified:display="Note"/>
+  <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§48-632" expire="2022-12-21" codified:display="Note">For temporary (225 days) creation of § 48-651, see <cite doc="D.C. Law 24-226" path="§6">§ 6 of Post-Public Health Emergency Protections Extension Temporary Amendment Act of 2022 (D.C. Law 24-226, Dec. 21, 2022, 69 DCR 13983)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§48-651" applicability="2022-12-21" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§48-651">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-226" path="§6">§ 6 of Post-Public Health Emergency Protections Extension Temporary Amendment Act of 2022 (D.C. Law 24-226, Dec. 21, 2022, 69 DCR 13983)</cite>.</codify:annotation>
   <codify:insert doc="D.C. Code" path="§48-651" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§48-651">
     <text>
-      *NOTE: This section was created by emergency legislation that will expire on January 15, 2023.*
+      *NOTE: This section was created by temporary legislation that will expire on August 3, 2023.*
       </text>
   </codify:insert>
   <annotations>
-    <annotation app="2022-10-17" doc="D.C. Act 24-564" eff="2022-10-17" path="" type="History" display="false"/>
-    <annotation app="2022-10-17" doc="D.C. Act 24-564" eff="2022-10-17" path="§6" type="History" display="false"/>
-    <annotation app="2022-10-17" doc="D.C. Act 24-564" eff="2022-10-17" path="§6" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-564" path="§6" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-564" path="§6">§ 6 of Post-Public Health Emergency Protections Extension Emergency Amendment Act of 2022 (D.C. Act 24-564, Oct. 17, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-564" path="§6" codified:display="Note" app="2022-12-21" eff="2022-10-17">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-564" path="§6">§ 6 of Post-Public Health Emergency Protections Extension Emergency Amendment Act of 2022 (D.C. Act 24-564, Oct. 17, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2022-12-21" doc="D.C. Act 24-564" eff="2022-10-17" path="§6" type="History" display="false"/>
+    <annotation app="2022-12-21" doc="D.C. Law 24-226" eff="2022-12-21" path="" type="History" display="false"/>
+    <annotation app="2022-12-21" doc="D.C. Law 24-226" eff="2022-12-21" path="§6" type="History" display="false"/>
+    <annotation app="2022-12-21" doc="D.C. Law 24-226" eff="2022-12-21" path="§6" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-226" path="§6" codified:display="Note" app="2022-12-21" eff="2022-12-21">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-226" path="§6">§ 6 of Post-Public Health Emergency Protections Extension Temporary Amendment Act of 2022 (D.C. Law 24-226, Dec. 21, 2022, 69 DCR 13983)</cite>.</annotation>
   </annotations>
 </section>
