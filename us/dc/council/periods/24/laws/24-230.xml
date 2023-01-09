@@ -1,24 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Act 24-566">
-  <num type="act">24-566</num>
-  <num type="bill">24-983</num>
-  <heading type="short">Emergency Rental Assistance Reform Emergency Amendment Act of 2022</heading>
-  <heading type="long">To amend, on an emergency basis, the Homeless Services Reform Act of 2005 to reform the Emergency Rental Assistance Program to aid tenants in their recovery from the public health emergency and to reduce administrative barriers to Emergency Rental Assistance Program payments for tenants in need.</heading>
+<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 24-230">
+  <num type="law">24-230</num>
+  <num type="act">24-624</num>
+  <num type="bill">24-984</num>
+  <heading type="short">Emergency Rental Assistance Reform Temporary Amendment Act of 2022</heading>
+  <heading type="long">To amend, on a temporary basis, the Homeless Services Reform Act of 2005 to reform the Emergency Rental Assistance Program to aid tenants in their recovery from the public health emergency and to reduce administrative barriers to Emergency Rental Assistance Program payments for tenants in need.</heading>
   <meta>
     <introduced>2022-09-19</introduced>
-    <effective>2022-10-17</effective>
+    <effective>2022-12-21</effective>
+    <temporary/>
     <citations>
-      <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/51240/Signed_Act/B24-0983-Signed_Act.pdf">D.C. Act 24-566</citation>
-      <citation type="register">0 DCR 0</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/51241/Signed_Act/B24-0984-Signed_Act.pdf">D.C. Law 24-230</citation>
+      <citation type="register">69 DCR 14011</citation>
     </citations>
-    <history url="https://lims.dccouncil.us/Legislation/B24-0983">
-      <vote date="2022-09-20" reading="Final"/>
-      <enacted>2022-10-17</enacted>
+    <history url="https://lims.dccouncil.us/Legislation/B24-0984">
+      <vote date="2022-09-20" reading="First"/>
+      <vote date="2022-10-04" reading="Final"/>
+      <enacted>2022-11-03</enacted>
       <summary/>
       <committee>Retained by the Council</committee>
     </history>
   </meta>
-  <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Emergency Rental Assistance Reform Emergency Amendment Act of 2022".</text>
+  <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Emergency Rental Assistance Reform Temporary Amendment Act of 2022".</text>
   <section>
     <num>2</num>
     <text>The Homeless Services Reform Act of 2005, effective October 22, 2005 (D.C. Law 16-35; D.C. Official Code § 4-751.01 <em>et seq</em>.), is amended as follows:</text>
@@ -38,6 +41,7 @@
       <text>A new section 8f is added to read as follows:</text>
       <include>
         <section>
+          <codify:insert doc="D.C. Code" path="4|7A|III" num-value="4-753.08" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-753.08"/>
           <num>8f</num>
           <heading>Emergency rental assistance.</heading>
           <para>
@@ -120,12 +124,12 @@
                 </para>
                 <para>
                   <num>(iii)</num>
-                  <text>The applicant unit is applying for Emergency Rental Assistance Funds during a public health emergency declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14- 194; D.C. Official Code § 7-2304.01) ("public health emergency")</code-cite>, or within 180 days after its conclusion.</text>
+                  <text>The applicant unit is applying for Emergency Rental Assistance Funds during a public health emergency declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14- 194; D.C. Official Code § 7-2304.01) ("public health emergency"),</code-cite> or within 180 days after its conclusion.</text>
                 </para>
               </para>
               <para>
                 <num>(B)</num>
-                <text>During a public health emergency and for 180 days after its conclusion, an arrearage paid with Emergency Rental Assistance Funds may be for as many months of rent as the total number of months that the public health emergency has been in effect pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14- 194; D.C. Official Code § 7-2304.01) ("public health emergency")</code-cite>.</text>
+                <text>During a public health emergency and for 180 days after its conclusion, an arrearage paid with Emergency Rental Assistance Funds may be for as many months of rent as the total number of months that the public health emergency has been in effect pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>.</text>
               </para>
             </para>
             <para>
@@ -189,7 +193,7 @@
           </para>
           <para>
             <num>(d)</num>
-            <text>To the extent not explicitly superseded by the provisions of <code-cite doc="D.C. Code" path="4|7A">this act</code-cite>, the Emergency Rental Assistance Program rules (29 DCMR § 7500 <em>et seq</em>.) shall remain in effect until superseded by rules promulgated by the Mayor pursuant to the authority of <code-cite doc="D.C. Code" path="4|7A">this act</code-cite>. Upon the effective date of rules promulgated pursuant to <code-cite doc="D.C. Code" path="4|7A">this act</code-cite>, each superseded portion of the Emergency Rental Assistance Program rules shall be deemed repealed.</text>
+            <text>To the extent not explicitly superseded by the provisions of <code-cite doc="D.C. Code" path="4|7A">this act</code-cite>, the Emergency Rental Assistance Program rules (29 DCMR § 7500 <em>et seq</em>.) shall remain in effect until superseded by rules promulgated by the Mayor pursuant to the authority of <code-cite doc="D.C. Code" path="4|7A">this act</code-cite>. Upon the effective date of rules promulgated pursuant to <code-cite doc="D.C. Code" path="4|7A">this act</code-cite>t, each superseded portion of the Emergency Rental Assistance Program rules shall be deemed repealed.</text>
           </para>
           <para>
             <num>(e)</num>
@@ -215,22 +219,29 @@
       </include>
       <aftertext>.</aftertext>
       <annotation doc="D.C. Law 16-35" type="History" path="§8f">Oct. 22, 2005, D.C. Law 16-35, § 8f</annotation>
-      <codify:emergency-new-sec doc="D.C. Code" path="§4-753.08" interim-path="§4-753.07" perm-eff="2022-12-21" codified:doc="D.C. Code" codified:path="§4-753.08" codified:display="Note"/>
+      <codify:temporary-new-sec doc="D.C. Code" path="§4-753.08" interim-path="§4-753.07" perm-eff="2022-12-21" codified:doc="D.C. Code" codified:path="§4-753.08" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§4-753.08" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-753.08">
+        <text>
+      *NOTE: This section was created by temporary legislation that will expire on August 3, 2023.*
+      </text>
+      </codify:insert>
     </para>
   </section>
   <section>
     <num>3</num>
-    <heading>Applicability.</heading>
-    <text>This act shall apply as of October 1, 2022.</text>
-  </section>
-  <section>
-    <num>4</num>
     <heading>Fiscal impact statement.</heading>
     <text>The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact statement required by section 4a of the General Legislative Procedures Act of 1975, approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).</text>
   </section>
   <section>
-    <num>5</num>
+    <num>4</num>
     <heading>Effective date.</heading>
-    <text>This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto), and shall remain in effect for no longer than 90 days, as provided for emergency acts of the Council of the District of Columbia in section 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788; D.C. Official Code § 1-204.12(a)).</text>
+    <para>
+      <num>(a)</num>
+      <text>This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto), a 30-day period of congressional review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of Columbia Register.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>This act shall expire after 225 days of its having taken effect.</text>
+    </para>
   </section>
 </document>

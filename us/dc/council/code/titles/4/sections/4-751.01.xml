@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-751.01</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on August 3, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-751.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <para>
@@ -469,7 +472,7 @@
       </para>
       <para>
         <num>(iii)</num>
-        <text>Demonstrates residency by providing evidence that the individual or family is receiving public assistance from the District, except through the DC Healthcare Alliance, as administered by the Department or by providing one of the following:</text>
+        <text>Demonstrates residency by providing evidence that the individual or family is receiving public assistance from the District, other than assistance through the DC Healthcare Alliance, as administered by the Department or by providing one of the following:</text>
         <para>
           <num>(I)</num>
           <text>Documents from the U.S. Social Security Administration addressed to the individual or a member of the family at a residential address in the District;</text>
@@ -529,27 +532,23 @@
       <text>An individual or family shall be deemed to be in the District temporarily and shall not be considered a resident of the District if the individual or family:</text>
       <para>
         <num>(i)</num>
-        <text>Is en route to a family member or sponsor or an intended destination outside the District;</text>
+        <text>Is en route to a family member, sponsor, or an intended destination outside the District; or</text>
       </para>
       <para>
         <num>(ii)</num>
-        <text>Is waiting to report to an immigration office located outside the District or waiting to participate in an immigration interview or other immigration proceeding that is scheduled to be held by an office or court, or other tribunal or factfinder, located outside the District;</text>
-      </para>
-      <para>
-        <num>(iii)</num>
-        <text>Was paroled into the United States after January 1, 2022, under section 212(d)(5) of the Immigration and Nationality Act, approved June 27, 1952 (66 Stat. 182; 8 U.S.C. § 1182(d)(5)), except for:</text>
+        <text>Was paroled into the United States after April 1, 2022, under section 212(d)(5) of the Immigration and Nationality Act, approved June 27, 1952 (66 Stat. 182; 8 U.S.C. § 1182(d)(5)), except for:</text>
         <para>
           <num>(I)</num>
           <text>Individuals who entered the United States pursuant to a special parole program established by the federal government that is indicated on the parole or entry document; or</text>
         </para>
         <para>
           <num>(II)</num>
-          <text>Individuals granted parole while residing outside of the United States until the completion of their immigration proceedings, including any appeals; or</text>
+          <text>Individuals granted parole while residing outside of the United States, until the completion of their immigration proceedings, including any appeals; or</text>
         </para>
       </para>
       <para>
-        <num>(iv)</num>
-        <text>Has been issued, after January 1, 2022, a notice to appear in a proceeding to be held under section 240 of the Immigration and Nationality Act, approved June 27, 1952 (66 Stat. 182; 8 U.S.C. § 1229a), until the completion of their immigration proceedings, including any appeals.</text>
+        <num>(iii)</num>
+        <text>Has been issued, after April 1, 2022, a notice to appear in a proceeding to be held under section 240 of the Immigration and Nationality Act, approved June 27, 1952 (66 Stat. 182; 8 U.S.C. § 1229a), until the completion of their immigration proceedings, including any appeals.</text>
       </para>
     </para>
   </para>
@@ -723,9 +722,11 @@
     <annotation doc="D.C. Law 22-65" path="§4" type="Temporary Legislation" history="false" app="2018-02-28" eff="2018-02-28">
       For repeal of temporary Act 22-199, see section 4 of D.C. Act 22-229.
     </annotation>
-    <annotation app="2022-09-30" doc="D.C. Act 24-553" eff="2022-09-30" path="§201|(a)|(1)" type="History"/>
-    <annotation app="2022-09-30" doc="D.C. Act 24-553" eff="2022-09-30" path="§201|(a)|(2)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-553" path="§201|(a)" codified:display="Note" app="2022-09-30" eff="2022-09-30">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-553" path="§201|(a)">§ 201(a) of Migrant Services and Supports Emergency Amendment Act of 2022 (D.C. Act 24-553, Sept. 30, 2022, 0 DCR 0)</cite>.</annotation>
     <annotation app="2022-09-30" doc="D.C. Act 24-553" eff="2022-09-30" path="§201|(a)" type="History" display="false"/>
+    <annotation app="2022-12-21" doc="D.C. Law 24-234" eff="2022-12-21" path="§201|(a)" type="History" display="false"/>
+    <annotation app="2022-12-21" doc="D.C. Law 24-234" eff="2022-12-21" path="§201|(a)|(1)" type="History"/>
+    <annotation app="2022-12-21" doc="D.C. Law 24-234" eff="2022-12-21" path="§201|(a)|(2)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-234" path="§201|(a)" codified:display="Note" app="2022-12-21" eff="2022-12-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-234" path="§201|(a)">§ 201(a) of Migrant Services and Supports Temporary Amendment Act of 2022 (D.C. Law 24-234, Dec. 21, 2022, 69 DCR 13991)</cite>.</annotation>
   </annotations>
 </section>

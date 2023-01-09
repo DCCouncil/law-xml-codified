@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-753.01</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on August 3, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-753.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Continuum of Care for individuals and families who are homeless.</heading>
   <para>
     <num>(a)</num>
@@ -76,7 +79,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>The Mayor shall determine that a person seeking shelter by reason of domestic violence, sexual assault, human trafficking, refugee status, or asylum, except for a person who is eligible to receive shelter under <cite path="4|7C">Chapter 7C of this title</cite>, is a resident of the District without receiving demonstration of District residency in accordance with <cite path="§4-751.01|(32)">§ 4-751.01(32)</cite>.</text>
+        <text>The Mayor shall determine that a person seeking shelter by reason of domestic violence, sexual assault, human trafficking, refugee status, or asylum, except, in regard to asylum alone, a person who is eligible to receive shelter under <cite path="4|7C">Chapter 7C of this title</cite>, is a resident of the District without receiving demonstration of District residency in accordance with <cite path="§4-751.01|(32)">§ 4-751.01(32)</cite>.</text>
       </para>
     </para>
     <para>
@@ -230,8 +233,10 @@
     <annotation app="2018-07-31" doc="D.C. Act 22-430" eff="2018-07-31" path="§2" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 22-188" path="§2" codified:display="Note" app="2018-11-27" eff="2018-11-27">For temporary (225 days) requirement that demolition at the current D.C. General Family Shelter site meet all applicable environmental, health, and safety standards and that current D.C. General Family Shelter residents be relocated into safe, appropriate housing, see <cite doc="D.C. Law 22-188" path="§2">§ 2 of D.C. General Resident Relocation Temporary Act of 2018 (D.C. Law 22-188, Nov. 27, 2018, 65 DCR 11412)</cite>.</annotation>
     <annotation app="2018-11-27" doc="D.C. Law 22-188" eff="2018-11-27" path="§2" type="History" display="false"/>
-    <annotation app="2022-09-30" doc="D.C. Act 24-553" eff="2022-09-30" path="§201|(b)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-553" path="§201" codified:display="Note" app="2022-09-30" eff="2022-09-30">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-553" path="§201">§ 201 of Migrant Services and Supports Emergency Amendment Act of 2022 (D.C. Act 24-553, Sept. 30, 2022, 0 DCR 0)</cite>.</annotation>
     <annotation app="2022-09-30" doc="D.C. Act 24-553" eff="2022-09-30" path="§201" type="History" display="false"/>
+    <annotation app="2022-12-21" doc="D.C. Law 24-234" eff="2022-12-21" path="§201|(b)" type="History" display="false"/>
+    <annotation app="2022-12-21" doc="D.C. Law 24-234" eff="2022-12-21" path="§201|(b)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-234" path="§201|(b)" codified:display="Note" app="2022-12-21" eff="2022-12-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-234" path="§201|(b)">§ 201(b) of Migrant Services and Supports Temporary Amendment Act of 2022 (D.C. Law 24-234, Dec. 21, 2022, 69 DCR 13991)</cite>.</annotation>
   </annotations>
 </section>
