@@ -25,7 +25,7 @@
   <section>
     <num>2</num>
     <text>Section 6(g) of the Board of Education Continuity and Transition Amendment Act of 2004, effective December 7, 2004 (D.C. Law 15-211; D.C. Official Code § 38-2831(g)), is amended by striking the phrase "By December 1, 2023" and inserting the phrase "By March 31, 2024" in its place.</text>
-    <codify:find-replace doc="D.C. Code" path="§38-2831|(g)" count="1" codified:doc="D.C. Code" codified:path="§38-2831|(g)">
+    <codify:find-replace doc="D.C. Code" path="§38-2831|(g)" count="1" codified:doc="D.C. Code" codified:path="§38-2831">
       <find>By December 1, 2023</find>
       <replace>By March 31, 2024</replace>
     </codify:find-replace>
