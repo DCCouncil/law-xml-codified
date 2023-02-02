@@ -21,11 +21,11 @@
     </redirects>
     <build xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="DCCouncil/law-xml" commit="0350fa6716df521fca76632b6b80184caf9432a1"/>
+        <repository name="DCCouncil/law-xml" commit="18c5b089c466029aa652b68a8d2021c27906ec5c"/>
       </repositories>
       <platform version="2.5.6" reproducible="true"/>
-      <build-date>2023-01-26</build-date>
-      <codified-date>2023-01-26</codified-date>
+      <build-date>2023-02-02</build-date>
+      <codified-date>2023-02-02</codified-date>
       <publication>publication/2021-10-18</publication>
     </build>
   </meta>
@@ -65,6 +65,7 @@
   <collection name="fedlaws">
     <heading>Federal Laws Codified in the D.C. Code</heading>
     <heading type="search">U.S. Laws</heading>
+    <xi:include href="./us/congress/congresses/117/index.xml"/>
     <xi:include href="./us/congress/congresses/116/index.xml"/>
     <xi:include href="./us/congress/congresses/115/index.xml"/>
     <xi:include href="./us/congress/congresses/114/index.xml"/>
