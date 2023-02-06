@@ -7,7 +7,8 @@
   <annotations>
     <annotation doc="D.C. Law 4-101" type="History" path="§539">Apr. 6, 1982, D.C. Law 4-101, § 539, 29 DCR 1060</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 3-205.39.</annotation>
-    <annotation app="2022-10-17" doc="D.C. Act 24-561" eff="2022-10-17" path="§2|(e)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-561" path="§2|(e)" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-561" path="§2|(e)">§ 2(e) of Earned Income Tax Credit Expansion Clarification Emergency Amendment Act of 2022 (D.C. Act 24-561, Oct. 17, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2022-10-17" doc="D.C. Act 24-561" eff="2022-10-17" path="§2|(e)" type="History" display="false"/>
     <annotation app="2022-12-13" doc="D.C. Law 24-195" eff="2022-12-13" path="§2|(e)" type="History"/>
   </annotations>
 </section>
