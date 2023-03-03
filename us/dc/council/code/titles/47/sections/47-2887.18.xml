@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>47-2887.18</num>
-  <heading>Electronic Signatures in Global and National Commerce Act.</heading>
-  <text>The provisions of this part governing the legal effect, validity, or enforceability of electronic records or signatures, and of contracts formed or performed with the use of such records or signatures conform to the requirements of section 102 of the Electronic Signatures in Global and National Commerce Act, approved June 30, 2000 (114 Stat. 467; 5 U.S.C. § 7002  ) (“Act”), and supersede, modify, and limit the Act.</text>
+  <heading proof="needed">Relation to Electronic Signatures in Global and National Commerce Act.</heading>
+  <text><cite path="47|28|IV|E">This part</cite> modifies, limits, or supersedes the Electronic Signatures in Global and National Commerce Act, approved June 30, 2000 (114 Stat. 467; 5 U.S.C. § 7002) ("Act"), but does not modify, limit, or supersede section 101(c) of that Act, 15 U.S.C. § 7001(c), or authorize electronic delivery of any of the notices described in section 103(b) of that Act, 15 U.S.C. § 7003(b).</text>
   <annotations>
     <annotation doc="D.C. Law 14-107" type="History">Apr. 13, 2002, D.C. Law 14-107, § 3, 49 DCR 1193)</annotation>
     <annotation type="Editor's Notes">Uniform Law: This section is based upon § 19 of the Uniform Athlete Agents Act.</annotation>
+    <annotation app="2023-02-23" doc="D.C. Law 24-245" eff="2023-02-23" path="§102|(a)|(5)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-245" eff="2023-02-23" path="§102|(m)" type="History"/>
   </annotations>
 </section>

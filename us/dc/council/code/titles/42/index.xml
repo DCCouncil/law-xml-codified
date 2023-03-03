@@ -1611,6 +1611,19 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>35C</num>
+    <reason>Not Funded</reason>
+    <heading>Bedbug Control.</heading>
+    <annotation app="notfunded" doc="D.C. Law 24-238" eff="2023-02-23" path="§9|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-238" eff="2023-02-23" path="" type="History" display="false"/>
+    <xi:include href="./sections/42-3551.01.xml"/>
+    <xi:include href="./sections/42-3551.02.xml"/>
+    <xi:include href="./sections/42-3551.03.xml"/>
+    <xi:include href="./sections/42-3551.04.xml"/>
+    <xi:include href="./sections/42-3551.05.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>36</num>
     <heading>Residential Drug-Related Evictions.</heading>
     <container>

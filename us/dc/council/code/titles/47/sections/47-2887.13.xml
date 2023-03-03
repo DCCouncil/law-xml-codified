@@ -1,54 +1,64 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>47-2887.13</num>
-  <heading>Prohibited conduct.</heading>
+  <heading proof="needed">Prohibited conduct.</heading>
   <para>
-    <num>(a)</num>
-    <text>An athlete agent, with the intent to induce a student-athlete to enter into an agency contract, may not:</text>
-    <para>
-      <num>(1)</num>
-      <text>Give any materially false or misleading information or make a materially false promise or representation;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Furnish anything of value to a student-athlete before the student-athlete enters into the agency contract; or</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Furnish anything of value to any individual other than the student-athlete or another registered athlete agent.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
+    <num undesignated="true">(a)</num>
     <text>An athlete agent may not intentionally:</text>
     <para>
       <num>(1)</num>
-      <text>Initiate contact with a student-athlete unless registered under this part;</text>
+      <text>Give a student-athlete or, if the student-athlete is a minor, a parent or guardian of the student-athlete materially false or misleading information or make a materially false promise or representation with the intent to influence the student-athlete, parent, or guardian to enter into an agency contract;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Refuse or fail to retain or permit inspection of the records required to be retained by <cite path="§47-2887.12">§ 47-2887.12</cite>;</text>
+      <text>Furnish anything of value to a student-athlete or another individual, if to do so may result in loss of the student-athlete's eligibility to participate in the student-athlete's sport, unless:</text>
+      <para>
+        <num>(A)</num>
+        <text>The agent notifies the athletic director of the educational institution at which the student-athlete is enrolled or at which the agent has reasonable grounds to believe the student-athlete intends to enroll, not later than 72 hours after giving the thing of value; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The student-athlete or, if the student-athlete is a minor, a parent or guardian of the student-athlete acknowledges to the agent in a record that receipt of the thing of value may result in loss of the student-athlete's eligibility to participate in the athlete's sport;</text>
+      </para>
     </para>
     <para>
       <num>(3)</num>
-      <text>Fail to register when required by <cite path="§47-2887.03">§ 47-2887.03</cite>;</text>
+      <text>Initiate contact, directly or indirectly, with a student-athlete or, if the student-athlete is a minor, a parent or guardian of the student-athlete to recruit or solicit the student-athlete, parent, or guardian to enter an agency contract unless the athlete agent is registered under <cite path="47|28|IV|E">this part</cite>;</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>Provide materially false or misleading information in an application for registration or renewal of registration;</text>
+      <text>Fail to create, retain, or permit inspection of the records required by <cite path="§47-2887.12">§ 47-2887.12</cite>;</text>
     </para>
     <para>
       <num>(5)</num>
-      <text>Predate or postdate an agency contract; or</text>
+      <text>Fail to register when required by <cite path="§47-2887.03">§ 47-2887.03</cite>;</text>
     </para>
     <para>
       <num>(6)</num>
-      <text>Fail to notify a student-athlete before the student-athlete signs or otherwise authenticates an agency contract for a particular sport that the signing or authentication may make the student-athlete ineligible to participate as a student-athlete in that sport.</text>
+      <text>Provide materially false or misleading information in an application for registration or renewal of registration;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Predate or postdate an agency contract;</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>Fail to notify a student-athlete or, if the athlete is a minor, a parent or guardian of the student-athlete before the student-athlete, parent, or guardian signs an agency contract for a particular sport that the signing may result in loss of the student-athlete's eligibility to participate in the student-athlete's sport;</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>Encourage another individual to do any of the acts described in paragraphs (1) through (8) of this subsection on behalf of the athlete agent; or</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>Encourage another individual to assist any other individual in doing any of the acts described in paragraphs (1) through (8) of this subsection on behalf of the athlete agent.</text>
     </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 14-107" type="History">Apr. 13, 2002, D.C. Law 14-107, § 3, 49 DCR 1193)</annotation>
     <annotation type="Editor's Notes">Uniform Law: This section is based upon § 14 of the Uniform Athlete Agents Act.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§47-2887.05">§ 47-2887.05</cite> and <cite path="§47-2887.14">§ 47-2887.14</cite>.</annotation>
+    <annotation app="2023-02-23" doc="D.C. Law 24-245" eff="2023-02-23" path="§102|(i)" type="History"/>
   </annotations>
 </section>
