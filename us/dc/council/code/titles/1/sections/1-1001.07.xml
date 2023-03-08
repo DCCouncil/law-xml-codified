@@ -19,6 +19,10 @@
         <num>(B)</num>
         <text>Automatically registers pursuant to subsection (c) of this section; and</text>
       </para>
+      <para placeholder="Not Funded">
+        <num>(C)</num>
+        <text>Not Funded.</text>
+      </para>
     </para>
     <para>
       <num>(3)</num>
@@ -102,7 +106,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>Unless the applicant indicates that the applicant does not want to register to vote:</text>
+        <text>Unless the applicant indicates that the applicant does not want to register to vote or indicates the applicant is not a U.S. citizen:</text>
         <para>
           <num>(i)</num>
           <text>Each DMV application for a DMV-issued driver's license (including any renewal application) or nondriver's identification card shall automatically serve as an application to register to vote or update the applicant's voter registration information; and</text>
@@ -242,6 +246,10 @@
       <para>
         <num>(L)</num>
         <text>Except as provided in this subsection, any citizenship information provided by an applicant for voter registration purposes shall not be otherwise retained, used, or shared by the automatic voter registration agency.</text>
+      </para>
+      <para>
+        <num>(M)</num>
+        <text>Automatic voter registration agencies shall not register individuals who are not U.S. citizens.</text>
       </para>
     </para>
     <para placeholder="Repealed">
@@ -537,6 +545,10 @@
         <num>(B)</num>
         <text>The Board shall make the list available to public inspection upon request.</text>
       </para>
+    </para>
+    <para placeholder="Not Funded">
+      <num>(8)</num>
+      <text>Not Funded.</text>
     </para>
   </para>
   <para>
@@ -939,5 +951,25 @@
     <annotation app="notfunded" doc="D.C. Law 24-242" eff="2023-02-23" path="§2|(b)|(2)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-242" path="§2|(b)" codified:display="Note" app="2023-02-23" eff="2023-02-23">Applicability of <cite doc="D.C. Law 24-242" path="">D.C. Law 24-242</cite>: <cite doc="D.C. Law 24-242" path="§3">§ 3 of D.C. Law 24-242</cite> provided that the change made to this section by <cite doc="D.C. Law 24-242" path="§2|(b)">§ 2(b) of D.C. Law 24-242</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-02-23" doc="D.C. Law 24-242" eff="2023-02-23" path="§2|(b)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-265" eff="2023-02-23" path="§3|(b)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(1)|(A)|(i)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(1)|(A)|(ii)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(1)|(A)|(iii)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(1)|(B)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(2)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(3)|(A)|(i)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(3)|(A)|(ii)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(3)|(B)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(3)|(C)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(3)|(D)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(3)|(E)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(3)|(F)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(4)|(A)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(4)|(B)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(4)|(C)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(4)|(D)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(5)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-265" path="§2|(a)" codified:display="Note" app="2023-02-23" eff="2023-02-23">Applicability of <cite doc="D.C. Law 24-265" path="">D.C. Law 24-265</cite>: <cite doc="D.C. Law 24-265" path="§3">§ 3 of D.C. Law 24-265</cite> provided that the amendment, except for one of the amendments to subsection (c)(1)(B) and (F), to this section by <cite doc="D.C. Law 24-265" path="§2|(a)">§ 2(a) of D.C. Law 24-265</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-02-23" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)" type="History"/>
   </annotations>
 </section>

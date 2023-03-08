@@ -63,7 +63,7 @@
       <para codify:path="(8A)|num">
         <num>(4)</num>
         <text>Paragraph (8A) is redesignated as paragraph (8C).</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1031.01|(8C)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1031.01|(8D)">
           <find>(8A)</find>
           <replace>(8C)</replace>
         </codify:find-replace>
@@ -95,12 +95,12 @@
             <text>"In-vessel composting" means a process in which organic waste is enclosed in a drum, silo, bin, tunnel, reactor, or other container and maintained under controlled conditions of temperature and moisture for the purpose of producing compost.</text>
           </para>
           <para>
-            <codify:insert after="(10A)" codified:doc="D.C. Code" codified:path="§8-1031.01|(10B)"/>
+            <codify:insert after="(10A)" codified:doc="D.C. Code" codified:path="§8-1031.01|(10C)"/>
             <num>(10B)</num>
             <text>"Organic waste processing facility" means a facility that processes compostable materials through composting, aerobic digestion, or anaerobic digestion.</text>
           </para>
           <para>
-            <codify:insert after="(10B)" codified:doc="D.C. Code" codified:path="§8-1031.01|(10C)"/>
+            <codify:insert after="(10B)" codified:doc="D.C. Code" codified:path="§8-1031.01|(10D)"/>
             <num>(10C)</num>
             <text>"Organic waste processing system" means a system that processes compostable materials, such as an in-vessel composter or an anaerobic digester.</text>
           </para>

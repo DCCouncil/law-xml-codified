@@ -32,25 +32,12 @@
       <para codify:path="text">
         <num>(1)</num>
         <text>The lead-in language is amended by striking the colon and inserting the phrase ", during a tax year:" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-802|(17)|(A)">
-          <find>:</find>
-          <replace>, during a tax year:</replace>
-        </codify:find-replace>
       </para>
       <para codify:path="(i)">
         <num>(2)</num>
         <text>Sub-subparagraph (i) is amended by striking the phrase "; and" and inserting the phrase "except during months during which a public health emergency declared pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194, D.C. Official Code § 7-2304.01), is in effect; and" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-802|(17)|(A)|(i)">
-          <find>; and</find>
-          <replace> except during months during which a public health emergency declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194, D.C. Official Code § 7-2304.01),</code-cite> is in effect; and</replace>
-        </codify:find-replace>
       </para>
       <codify:temporary doc="D.C. Code" path="§47-802" codified:doc="D.C. Code" codified:path="§47-802" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§47-802" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-802">
-        <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on July 26, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§47-802(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para codify:path="§47-869">
       <num>(b)</num>
@@ -58,10 +45,6 @@
       <para codify:path="(a)|(2)">
         <num>(1)</num>
         <text>Subsection (a)(2) is amended by striking the phrase "; and" and inserting the phrase "of the tax year; and" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-869|(a)|(2)">
-          <find>; and</find>
-          <replace> of the tax year; and</replace>
-        </codify:find-replace>
       </para>
       <para codify:path="(b)">
         <num>(2)</num>
@@ -73,10 +56,6 @@
             <para>
               <num>(b)</num>
               <text>For tax years beginning on or after October 1, 2022, the application shall be submitted to the Mayor. The application shall include:</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-869|(b)">
-                <find>The application shall include:</find>
-                <replace>For tax years beginning on or after October 1, 2022, the application shall be submitted to the Mayor. The application shall include:</replace>
-              </codify:find-replace>
             </para>
           </include>
           <aftertext>.</aftertext>
@@ -84,25 +63,16 @@
         <para codify:path="(2)">
           <num>(B)</num>
           <text>Paragraph (2) is amended by striking the word "and".</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-869|(b)|(2)">
-            <find>and</find>
-            <replace/>
-          </codify:find-replace>
         </para>
         <para codify:path="(3)">
           <num>(C)</num>
           <text>Paragraph (3) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-869|(b)|(3)">
-            <find>.</find>
-            <replace>; and</replace>
-          </codify:find-replace>
         </para>
         <para>
           <num>(D)</num>
           <text>A new paragraph (4) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§47-869|(b)|(4)"/>
               <num>(4)</num>
               <text>Documentation or information satisfying any additional requirements for eligibility established by the Mayor through rulemaking or by publication on an official website.</text>
             </para>
@@ -115,7 +85,6 @@
         <text>Subsection (c) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace path="(c)" codified:doc="D.C. Code" codified:path="§47-869|(c)"/>
             <num>(c)</num>
             <para>
               <num>(1)</num>
@@ -135,10 +104,6 @@
         <para codify:path="text">
           <num>(A)</num>
           <text>The lead-in language is amended by striking the word "section" and inserting the phrase "section for a tax year" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-869|(d)">
-            <find>section</find>
-            <replace>section for a tax year</replace>
-          </codify:find-replace>
         </para>
         <para codify:path="(1)">
           <num>(B)</num>
@@ -146,27 +111,14 @@
           <para>
             <num>(i)</num>
             <text>Strike the word "tax" and insert the phrase "tax for the tax year" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-869|(d)|(1)">
-              <find>tax</find>
-              <replace>tax for the tax year</replace>
-            </codify:find-replace>
           </para>
           <para>
             <num>(ii)</num>
             <text>Strike the phrase "; and" and insert the phrase "qualified business; and" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-869|(d)|(1)">
-              <find>; and</find>
-              <replace> qualified business; and</replace>
-            </codify:find-replace>
           </para>
         </para>
       </para>
       <codify:temporary doc="D.C. Code" path="§47-869" codified:doc="D.C. Code" codified:path="§47-869" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§47-869" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-869">
-        <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on July 26, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§47-869(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
   </section>
   <section>

@@ -688,7 +688,7 @@
       <para codify:path="(27B)|num">
         <num>(1)</num>
         <text>Paragraph (27B) is redesignated as paragraph (27C).</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1401.02|(27C)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1401.02|(27D)">
           <find>(27B)</find>
           <replace>(27C)</replace>
         </codify:find-replace>
