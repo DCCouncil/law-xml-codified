@@ -26,25 +26,16 @@
     <para codify:path="(a)">
       <num>(a)</num>
       <text>Subsection (a) is amended by striking the phrase "campus facility maintenance work orders," and inserting the phrase "campus facility maintenance work orders not exempted by subsection (e) of this section," in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§10-551.07e|(a)">
-        <find>campus facility maintenance work orders,</find>
-        <replace>campus facility maintenance work orders not exempted by subsection (e) of this section,</replace>
-      </codify:find-replace>
     </para>
     <para codify:path="(b)">
       <num>(b)</num>
       <text>Subsection (b) is amended by striking the phrase "facility maintenance work orders," and inserting the phrase "facility maintenance work orders not exempted by subsection (e) of this section," in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§10-551.07e|(b)">
-        <find>facility maintenance work orders,</find>
-        <replace>facility maintenance work orders not exempted by subsection (e) of this section,</replace>
-      </codify:find-replace>
     </para>
     <para>
       <num>(c)</num>
       <text>A new subsection (e) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert codified:doc="D.C. Code" codified:path="§10-551.07e|(e)"/>
           <num>(e)</num>
           <para>
             <num>(1)</num>
@@ -75,11 +66,6 @@
       <aftertext>.</aftertext>
     </para>
     <codify:emergency doc="D.C. Code" path="§10-551.07e" codified:doc="D.C. Code" codified:path="§10-551.07e" codified:display="Note"/>
-    <codify:insert doc="D.C. Code" path="§10-551.07e" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§10-551.07e">
-      <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on February 19, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§10-551.07e(Perm)">Permanent Version</cite>.*
-      </text>
-    </codify:insert>
   </section>
   <section>
     <num>3</num>
