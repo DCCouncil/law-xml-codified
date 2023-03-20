@@ -2584,6 +2584,18 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>16A</num>
+    <reason>Not Funded</reason>
+    <heading>Criminal History Reports.</heading>
+    <annotation app="notfunded" doc="D.C. Law 24-284" eff="2023-03-10" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-284" eff="2023-03-10" path="" type="History" display="false"/>
+    <xi:include href="./sections/2-1651.xml"/>
+    <xi:include href="./sections/2-1652.xml"/>
+    <xi:include href="./sections/2-1653.xml"/>
+    <xi:include href="./sections/2-1654.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>17</num>
     <heading>Public Records Management.</heading>
     <xi:include href="./sections/2-1701.xml"/>
