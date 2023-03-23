@@ -1,33 +1,57 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-281.03</num>
-  <text>
-      *NOTE: This section was created by temporary legislation that will expire on April 9, 2023.*
-      </text>
-  <heading>Eligibility, enrollment, and program requirements.</heading>
+  <heading proof="needed">Eligibility, enrollment, and program requirements.</heading>
   <para>
     <num>(a)</num>
     <text>To be eligible to participate in the program, a household shall:</text>
     <para>
       <num>(1)</num>
-      <text>Reside in the District of Columbia;</text>
+      <text>Reside in the District;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Be a low-income household at the time that the household's initial eligibility is determined;</text>
+      <text>Be a low-income household at the time the household's initial eligibility is determined;</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>Contain at least one individual who is currently participating in a housing-assistance program administered by the District or federal government at the time that the household's initial eligibility is determined; and</text>
+      <text>Contain at least one individual who is currently participating in a housing assistance program administered by the District or federal government at the time that the household's initial eligibility is determined; and</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>Meet any other eligibility criteria established by the Mayor.</text>
+      <text>Meet any other eligibility criteria established by the Mayor by rule.</text>
     </para>
   </para>
   <para>
     <num>(b)</num>
-    <text>The Department may establish preference criteria and an application process, and may also conduct a randomized lottery to select eligible households to participate in the program and to aid in the evaluation of the program. Preference criteria may factor in whether a household is participating in a time-limited housing-assistance program, includes children under the age of 18, and is willing to participate in career-related and other program activities. Preference criteria may limit participation to households that are participating in one or more specific housing-assistance programs at the time their initial eligibility for the program is determined.</text>
+    <para>
+      <num>(1)</num>
+      <text>The Department may establish preference criteria and an application process and conduct a randomized lottery to select eligible households to participate in the program to aid in the evaluation of the program.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The established preference criteria may:</text>
+      <para>
+        <num>(A)</num>
+        <text>Factor in whether a household:</text>
+        <para>
+          <num>(i)</num>
+          <text>Is participating in a time-limited housing-assistance program;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Includes children under the age of 18; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Is willing to participate in career-related and other program activities; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Limit participation to households that are participating in one or more specific housing assistance programs at the time their initial eligibility for the program is determined.</text>
+      </para>
+    </para>
   </para>
   <para>
     <num>(c)</num>
@@ -41,28 +65,37 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>To remain eligible to participate in the program, program participants shall maintain residency in the District, participate in any support services mandated as a condition of continued eligibility in the program, and meet requirements and criteria established by the Department.</text>
+      <text>To remain eligible to participate in the program, a program participant shall:</text>
+      <para>
+        <num>(A)</num>
+        <text>Maintain residency in the District;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Participate in any support services mandated;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Comply with paragraph (3) of this subsection; and</text>
+      </para>
+      <para>
+        <num>[(D)]</num>
+        <text>Meet other requirements and criteria established by the Department.</text>
+      </para>
     </para>
     <para>
       <num>(3)</num>
       <text>Program participants must exit other housing-assistance programs upon enrollment in the program. A program participant shall cease to be eligible to participate in the program if, during the program participant's enrollment, any member of the program participant's household becomes enrolled in another District- or federal government-funded rental assistance program.</text>
     </para>
   </para>
-  <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§4-271.01" expire="2022-08-27" codified:display="Note">For temporary (225 days) creation of § 4-281.03, see <cite doc="D.C. Law 24-161" path="§4">§ 4 of Career Mobility Action Plan Program Establishment Temporary Act of 2022 (D.C. Law 24-161, Aug. 27, 2022, 69 DCR 008381)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§4-281.03" applicability="2022-08-27" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-281.03">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-161" path="§4">§ 4 of Career Mobility Action Plan Program Establishment Temporary Act of 2022 (D.C. Law 24-161, Aug. 27, 2022, 69 DCR 008381)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§4-281.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-281.03">
-    <text>
-      *NOTE: This section was created by temporary legislation that will expire on April 9, 2023.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-433" path="§4" codified:display="Note" app="2022-08-27" eff="2022-05-23">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-433" path="§4">§ 4 of Career Mobility Action Plan Program Establishment Emergency Act of 2022 (D.C. Act 24-433, May 23, 2022, 0 DCR 0)</cite>.</annotation>
-    <annotation app="2022-08-27" doc="D.C. Act 24-433" eff="2022-05-23" path="§4" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-521" path="§4" codified:display="Note" app="2022-08-27" eff="2022-07-27">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-521" path="§4">§ 4 of Career Mobility Action Plan Program Establishment Congressional Review Emergency Act of 2022 (D.C. Act 24-521, July 27, 2022, 69 DCR 009895)</cite>.</annotation>
-    <annotation app="2022-08-27" doc="D.C. Act 24-521" eff="2022-07-27" path="§4" type="History" display="false"/>
-    <annotation app="2022-08-27" doc="D.C. Law 24-161" eff="2022-08-27" path="" type="History" display="false"/>
-    <annotation app="2022-08-27" doc="D.C. Law 24-161" eff="2022-08-27" path="§4" type="History" display="false"/>
-    <annotation app="2022-08-27" doc="D.C. Law 24-161" eff="2022-08-27" path="§4" type="History"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-161" path="§4" codified:display="Note" app="2022-08-27" eff="2022-08-27">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-161" path="§4">§ 4 of Career Mobility Action Plan Program Establishment Temporary Act of 2022 (D.C. Law 24-161, Aug. 27, 2022, 69 DCR 008381)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-433" path="§4" codified:display="Note" app="2023-03-10" eff="2022-05-23">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-433" path="§4">§ 4 of Career Mobility Action Plan Program Establishment Emergency Act of 2022 (D.C. Act 24-433, May 23, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2023-03-10" doc="D.C. Act 24-433" eff="2022-05-23" path="§4" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-521" path="§4" codified:display="Note" app="2023-03-10" eff="2022-07-27">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-521" path="§4">§ 4 of Career Mobility Action Plan Program Establishment Congressional Review Emergency Act of 2022 (D.C. Act 24-521, July 27, 2022, 69 DCR 009895)</cite>.</annotation>
+    <annotation app="2023-03-10" doc="D.C. Act 24-521" eff="2022-07-27" path="§4" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-161" path="§4" codified:display="Note" app="2023-03-10" eff="2022-08-27">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-161" path="§4">§ 4 of Career Mobility Action Plan Program Establishment Temporary Act of 2022 (D.C. Law 24-161, Aug. 27, 2022, 69 DCR 008381)</cite>.</annotation>
+    <annotation app="2023-03-10" doc="D.C. Law 24-161" eff="2022-08-27" path="§4" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-287" eff="2023-03-10" path="" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-287" eff="2023-03-10" path="§203" type="History"/>
   </annotations>
 </section>

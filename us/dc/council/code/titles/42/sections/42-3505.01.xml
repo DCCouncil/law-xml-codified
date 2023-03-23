@@ -44,14 +44,14 @@
     <num>(a-1)</num>
     <para>
       <num>(1)</num>
-      <text>A housing provider may recover possession of a rental unit for nonpayment of rent when the tenant fails to pay rent in an amount equal to at least $600.  The housing provider shall serve on the tenant a notice of past due rent at least 30 days in advance of action to recover possession of the rental unit."</text>
+      <text>A housing provider may recover possession of a rental unit for nonpayment of rent when the tenant fails to pay rent in an amount equal to at least $600.  The housing provider shall serve on the tenant a notice of past due rent at least 30 days in advance of action to recover possession of the rental unit.</text>
     </para>
     <para>
       <num>(2)</num>
       <text>A notice of past due rent shall contain the following or substantively similar language:</text>
-      <text>The total amount of rent owed is [list specific amount due]. A ledger showing the dates of rent charges and payments for the period of delinquency is attached. You have the right to remain in the rental unit if the total balance of unpaid rent is paid in full.</text>
-      <text>[Name of housing provider] has the right to file a case in court seeking your eviction if you do not pay the balance of unpaid rent in full within 30 days of this notice.</text>
-      <text>You have the right to defend yourself in court. Only a court can order your eviction. For further help or to seek free legal services, contact the Office of the Tenant Advocate at 202-719-6560 or the Landlord Tenant Legal Assistance Network at 202-780-2575.</text>
+      <text>"The total amount of rent owed is [list specific amount due]. A ledger showing the dates of rent charges and payments for the period of delinquency is attached. You have the right to remain in the rental unit if the total balance of unpaid rent is paid in full.</text>
+      <text>"[Name of housing provider] has the right to file a case in court seeking your eviction if you do not pay the balance of unpaid rent in full within 30 days of this notice.</text>
+      <text>"You have the right to defend yourself in court. Only a court can order your eviction. For further help or to seek free legal services, contact the Office of the Tenant Advocate at 202-719-6560 or the Landlord Tenant Legal Assistance Network at 202-780-2575.".</text>
     </para>
   </para>
   <para>
@@ -458,6 +458,17 @@
     <num>(q)</num>
     <text>No tenant shall be evicted from a rental unit unless the housing provider provides documentation to the court at the time of filing a writ of restitution demonstrating that the housing provider has a current business license for rental housing issued pursuant to <cite path="§47-2828|(c)|(1)">§ 47-2828(c)(1)</cite>, unless the court waived the license requirement. The requirements of this subsection shall not apply to complaints involving subtenants.</text>
   </para>
+  <para>
+    <num>(r)</num>
+    <para>
+      <num>(1)</num>
+      <text>The court shall stay any proceedings for a claim brought by a housing provider to recover possession of a rental unit for non-payment of rent if a tenant submits documentation to the court demonstrating that he or she has a pending Emergency Rental Assistance Program application. Proceedings shall be stayed until a determination of funding has been made and, if the application is approved, funding has been distributed to the housing provider.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>When an eviction that involves non-payment of rent has been authorized by the court and a tenant notifies the housing provider that he or she has a pending Emergency Rental Assistance Program application no later than 48 hours prior to the scheduled date and time of the eviction, the housing provider shall reschedule the eviction for a date no earlier than 3 weeks from the current scheduled eviction date to allow for the application to be processed, a determination of funding to be made, and, if the application is approved, funding to be distributed to the housing provider. Any further stay or rescheduling of the eviction date may only be granted by order of the Superior Court or by agreement of the housing provider.</text>
+    </para>
+  </para>
   <annotations>
     <text type="Editor's Notes">The Budget Director of the Council of the District of Columbia has determined, as of February 15, 2012, that the fiscal effect of subsection (o)(2), added by Law 17-146, has not been included in an approved budget and financial plan. Therefore, the provisions of subsection (o), enacted by Law 17-146, are not in effect.</text>
     <text type="Editor's Notes">Subsection (o)(2), added by Law 17-146 states that this subsection shall not apply until its fiscal effect is included in an approved budget and financial plan.</text>
@@ -613,5 +624,6 @@
     <annotation app="2022-12-13" doc="D.C. Law 24-203" eff="2022-12-13" path="§2" type="History" display="false"/>
     <annotation app="2022-12-13" doc="D.C. Law 24-203" eff="2022-12-13" path="§2" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-203" path="§2" codified:display="Note" app="2022-12-13" eff="2022-12-13">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-203" path="§2">§ 2 of Notice Requirements for Evictions for Nonpayment of Rent Clarification Temporary Amendment Act of 2022 (D.C. Law 24-203, Dec. 13, 2022, 69 DCR 12687)</cite>.</annotation>
+    <annotation app="2023-03-10" doc="D.C. Law 24-287" eff="2023-03-10" path="§102" type="History"/>
   </annotations>
 </section>
