@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
+  <num>18-907</num>
+  <heading proof="needed">Revocation.</heading>
+  <para>
+    <num>(a)</num>
+    <text>An electronic will may revoke all or part of a previous will.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>All or part of an electronic will is revoked by:</text>
+    <para>
+      <num>(1)</num>
+      <text>A subsequent will that revokes all or part of the electronic will expressly or by inconsistency; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A physical act, if it is established by a preponderance of the evidence that the testator, with the intent of revoking all or part of the will, performed the act or directed another individual who performed the act in the testator's physical presence.</text>
+    </para>
+  </para>
+  <annotations>
+    <annotation app="2023-03-10" doc="D.C. Law 24-296" eff="2023-03-10" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-296" eff="2023-03-10" path="§2|(c)" type="History"/>
+  </annotations>
+</section>

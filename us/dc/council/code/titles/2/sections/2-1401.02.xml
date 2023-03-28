@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-1401.02</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on October 6, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§2-1401.02(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Definitions.</heading>
   <text>The following words and terms when used in this chapter have the following meanings:</text>
   <para>
@@ -15,10 +12,6 @@
     <para>
       <num>(2)</num>
       <text>“Age” means 18 years of age or older.</text>
-    </para>
-    <para>
-      <num>(2A)</num>
-      <text>"Attorney General" means the Attorney General for the District of Columbia, as established under <cite path="§1-204.35">§ 1-204.35</cite>.</text>
     </para>
     <para>
       <num>(3)</num>
@@ -189,7 +182,23 @@
     </para>
     <para>
       <num>(16)</num>
-      <text>“Make public” means disclosure to the public or to the news media of any personal or business data obtained during the course of an investigation of a complaint filed under the provisions of this chapter, but not to include the publication of EEO-1, EEO-2, or EEO-3 reports as required by the Equal Employment Opportunity Commission, or any other data in the course of any administrative or judicial proceeding under this chapter; or any judicial proceeding under Title VII of the Civil Rights Act of 1964 [42 U.S.C. § 2000e et seq.] involving such information; nor shall it include access to such data by staff or the Office of Human Rights, members of the Commission on Human Rights, or parties to a proceeding, nor shall it include publication of aggregated data from individual reports.</text>
+      <text>"Make public" means disclosure to the public or to the news media of any personal or business data, documents, information, records, or reports obtained during the course of a complaint filed under the provisions of <cite path="2|14|A">this unit</cite>.  The term "make public" does not include:</text>
+      <para>
+        <num>(A)</num>
+        <text>The publication of EEO-1, EEO-2, or EEO-3 reports as required by the Equal Employment Opportunity Commission;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The provision of any data, documents, information, records, or reports in the course of any administrative or judicial proceeding under <cite path="2|14|A">this unit</cite> or any judicial proceeding under Title VII of the Civil Rights Act of 1964, approved July 2, 1964 (78 Stat. 253; 42 U.S.C. § 2000e <em>et seq.</em>), or Title VIII or IX of the Civil Rights Act of 1968, approved April 11, 1968 (82 Stat. 81; 42 U.S.C § 3601 <em>et seq.</em>), involving such data, documents, information, records, or reports; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The access to such data, documents, information, records, or reports by personnel of the Office, members of the Commission, or personnel of the Attorney General pursuant to section 316a or for the Attorney General's defense and enforcement of the Office's investigations or the Commission's decisions and orders, or parties to a proceeding before the Office, or their representatives, after the closure of the case and passage of the reconsideration period; or</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The publication of aggregated data from individual reports, such that personally identifiable information is indeterminable.</text>
+      </para>
     </para>
     <para>
       <num>(17)</num>
@@ -228,7 +237,7 @@
     </para>
     <para>
       <num>(21)</num>
-      <text>“Person” means any individual, firm, partnership, mutual company, joint-stock company, corporation, association, organization, unincorporated organization, labor union, government agency, incorporated society, statutory or common-law trust, estate, executor, administrator, receiver, trustee, conservator, liquidator, trustee in bankruptcy, committee, assignee, officer, employee, principal or agent, legal or personal representative, real estate broker or salesman or any agent or representative of any of the foregoing.</text>
+      <text>“Person” means any individual, firm, partnership, mutual company, joint-stock company, corporation, association, organization, unincorporated organization, labor union, government agency, incorporated society, statutory or common-law trust, estate, executor, administrator, receiver, trustee, conservator, liquidator, trustee in bankruptcy, committee, assignee, officer, employee, principal or agent, legal or personal representative, real estate broker, real estate salesperson, property manager, or any agent or representative of any of the foregoing.</text>
     </para>
     <para>
       <num>(22)</num>
@@ -260,7 +269,7 @@
     </para>
     <para>
       <num>(26)</num>
-      <text>“Real estate broker (or salesperson)” means any person licensed as such in accordance with the provisions of <cite path="42|17">Chapter 17 of Title 42</cite>.</text>
+      <text>"Real estate broker" or "real estate salesperson" or "property manager" means a person who is licensed under <cite path="47|28">Chapter 28 of Title 47</cite> as a real estate broker, a real estate salesperson, or a property manager. The term "real estate broker" includes a real estate organization.</text>
     </para>
     <para>
       <num>(27)</num>
@@ -384,8 +393,14 @@
     <annotation app="2023-02-23" doc="D.C. Law 24-257" eff="2023-02-23" path="§301|(c)" type="History"/>
     <annotation app="2023-02-23" doc="D.C. Law 24-257" eff="2023-02-23" path="§301|(b)" type="History"/>
     <annotation app="2023-02-23" doc="D.C. Law 24-257" eff="2023-02-23" path="§301|(d)" type="History"/>
-    <annotation app="2023-02-23" doc="D.C. Law 24-271" eff="2023-02-23" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2023-02-23" doc="D.C. Law 24-271" eff="2023-02-23" path="§2|(a)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-271" path="§2|(a)" codified:display="Note" app="2023-02-23" eff="2023-02-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-271" path="§2|(a)">§ 2(a) of Attorney General Civil Rights Enforcement Second Temporary Amendment Act of 2022 (D.C. Law 24-271, Feb. 23, 2023, 69 DCR 14758)</cite>.</annotation>
+    <annotation app="2023-02-23" doc="D.C. Law 24-271" eff="2023-02-23" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-295" eff="2023-03-10" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-295" eff="2023-03-10" path="§2|(a)|(2)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-295" eff="2023-03-10" path="§2|(a)|(3)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-305" eff="2023-03-10" path="§401|(a)|(1)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-305" eff="2023-03-10" path="§201|(a)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-305" path="§201|(a)" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-305" path="">D.C. Law 24-305</cite>: <cite doc="D.C. Law 24-305" path="§401">§ 401 of D.C. Law 24-305</cite> provided that the change made to this section by <cite doc="D.C. Law 24-305" path="§201|(a)">§ 201(a) of D.C. Law 24-305</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-03-10" doc="D.C. Law 24-305" eff="2023-03-10" path="§201|(a)" type="History"/>
   </annotations>
 </section>

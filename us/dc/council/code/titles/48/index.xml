@@ -111,9 +111,14 @@
   <container>
     <prefix>Chapter</prefix>
     <num>6A</num>
-    <heading>Third-party Food Delivery Platforms.</heading>
-    <annotation app="2022-12-21" doc="D.C. Law 24-226" eff="2022-12-21" path="" type="History" display="false"/>
+    <heading>Third-party Food Delivery.</heading>
+    <annotation app="2023-03-10" doc="D.C. Law 24-292" eff="2023-03-10" path="" type="History" display="false"/>
     <xi:include href="./sections/48-651.xml"/>
+    <xi:include href="./sections/48-652.xml"/>
+    <xi:include href="./sections/48-653.xml"/>
+    <xi:include href="./sections/48-654.xml"/>
+    <xi:include href="./sections/48-655.xml"/>
+    <xi:include href="./sections/48-656.xml"/>
   </container>
   <subheading>Subtitle II. Prescription Drugs.</subheading>
   <container>
@@ -135,13 +140,6 @@
     <xi:include href="./sections/48-713.xml"/>
     <xi:include href="./sections/48-714.xml"/>
     <xi:include href="./sections/48-715.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>6B</num>
-    <heading>Third-party Food Delivery.</heading>
-    <annotation app="2022-12-21" doc="D.C. Law 24-231" eff="2022-12-21" path="" type="History" display="false"/>
-    <xi:include href="./sections/48-653.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
