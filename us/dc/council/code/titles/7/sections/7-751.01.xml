@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-751.01</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on May 4, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-751.01(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <para>
@@ -61,7 +58,7 @@
       </para>
       <para>
         <num>(D)</num>
-        <text>A private practice setting that serves residents of a Medically Underserved Area and accepts a minimum percentage or total number of patients, as determined by the Director, participating in Medicare, Medicaid, HealthCare Alliance, or a similar public insurance program at a threshold determined by the Department of Health; or</text>
+        <text>A private practice setting that serves residents of a Medically Underserved Area, and accepts a minimum percentage or total number of patients, as determined by the Director, participating in Medicare, Medicaid, HealthCare Alliance, or similar public insurance programs at a threshold determined by the Department of Health; or</text>
       </para>
       <para>
         <num>(E)</num>
@@ -88,11 +85,11 @@
     <annotation app="2021-12-29" doc="D.C. Law 24-46" eff="2021-12-29" path="§4|(d)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-468" path="§202|(a)" codified:display="Note" app="2022-07-06" eff="2022-07-06">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-468" path="§202|(a)">§ 202(a) of High Need Healthcare Career Scholarship and Health Professional Loan Repayment Program Emergency Amendment Act of 2022 (D.C. Act 24-468, July 6, 2022, 69 DCR 008390)</cite>.</annotation>
     <annotation app="2022-07-06" doc="D.C. Act 24-468" eff="2022-07-06" path="§202|(a)" type="History" display="false"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-184" eff="2022-09-21" path="§202|(a)" type="History" display="false"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-184" eff="2022-09-21" path="§202|(a)|(1)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-184" eff="2022-09-21" path="§202|(a)|(2)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-184" eff="2022-09-21" path="§202|(a)|(3)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-184" eff="2022-09-21" path="§202|(a)|(4)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-184" path="§202|(a)" codified:display="Note" app="2022-09-21" eff="2022-09-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-184" path="§202|(a)">§ 202(a) of High Need Healthcare Career Scholarship and Health Professional Loan Repayment Program Temporary Amendment Act of 2022 (D.C. Law 24-184, Sept. 21, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2022-09-21" doc="D.C. Law 24-184" eff="2022-09-21" path="§202|(a)" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-313" eff="2023-03-10" path="§202|(a)|(1)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-313" eff="2023-03-10" path="§202|(a)|(2)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-313" eff="2023-03-10" path="§202|(a)|(3)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-313" eff="2023-03-10" path="§202|(a)|(4)" type="History"/>
   </annotations>
 </section>

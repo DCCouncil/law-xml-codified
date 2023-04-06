@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-771.02</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on August 3, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§8-771.02(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Battery collection.</heading>
   <para>
     <num>(a)</num>
@@ -23,7 +20,7 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>A producer shall not be subject to the requirements in subsection (a) of this section if the producer sells or offers for sale in the District only batteries or battery-containing products that were imported into the District before October 1, 2021.</text>
+    <text>A producer shall not be subject to the requirements in subsection (a) if the producer sells or offers for sale in the District only batteries or battery-containing products that were imported into the District before October 1, 2021.</text>
   </para>
   <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§8-771.02" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-771.02">Applicability of <cite doc="D.C. Law 23-211" path="">D.C. Law 23-211</cite>: <cite doc="D.C. Law 23-211" path="§6">§ 6 of D.C. Law 23-211</cite> provided that the creation of this section by <cite doc="D.C. Law 23-211" path="§2|(q)">§ 2(q) of D.C. Law 23-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
@@ -44,10 +41,10 @@
     <annotation app="2022-03-15" doc="D.C. Law 24-99" eff="2022-03-15" path="§2" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-559" path="§2|(b)" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-559" path="§2|(b)">§ 2(b) of Battery and Electronic Stewardship Emergency Amendment Act of 2022 (D.C. Act 24-559, Oct. 17, 2022, 0 DCR 0)</cite>.</annotation>
     <annotation app="2022-10-17" doc="D.C. Act 24-559" eff="2022-10-17" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-223" eff="2022-12-21" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-223" eff="2022-12-21" path="§2|(b)|(1)" type="History"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-223" eff="2022-12-21" path="§2|(b)|(2)" type="History"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-223" eff="2022-12-21" path="§2|(b)|(3)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-223" path="§2|(b)" codified:display="Note" app="2022-12-21" eff="2022-12-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-223" path="§2|(b)">§ 2(b) of Battery and Electronic Stewardship Temporary Amendment Act of 2022 (D.C. Law 24-223, Dec. 21, 2022, 69 DCR 13973)</cite>.</annotation>
+    <annotation app="2022-12-21" doc="D.C. Law 24-223" eff="2022-12-21" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-320" eff="2023-03-10" path="§2|(b)|(1)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-320" eff="2023-03-10" path="§2|(b)|(2)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-320" eff="2023-03-10" path="§2|(b)|(3)" type="History"/>
   </annotations>
 </section>
