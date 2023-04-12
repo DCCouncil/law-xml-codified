@@ -44,6 +44,10 @@
       <num>(5)</num>
       <text>Education, training, outreach, and other market transformation initiatives;</text>
     </para>
+    <para placeholder="Not Funded">
+      <num>(5A)</num>
+      <text>Not Funded.</text>
+    </para>
     <para>
       <num>(6)</num>
       <text>Seed support for demonstration projects, their evaluation, and when successful, their institutionalization;</text>
@@ -55,6 +59,10 @@
     <para placeholder="Repealed">
       <num>(8)</num>
       <text>[Applicable October 1, 2023].</text>
+    </para>
+    <para placeholder="Not Funded">
+      <num>[(9)]</num>
+      <text>Not Funded.</text>
     </para>
   </para>
   <para>
@@ -98,5 +106,12 @@
     <annotation doc="D.C. Law 24-177" path="§4" type="Applicability" history="false" app="2022-09-21" eff="2022-09-21">
       Section 4 of D.C. Law 24-177 provided that the addtion of subsection (c)(8) to this section shall apply October 1, 2023.
     </annotation>
+    <annotation app="notfunded" doc="D.C. Law 24-337" eff="2023-03-22" path="§6|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-337" eff="2023-03-22" path="§4|(a)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-337" eff="2023-03-22" path="§4|(b)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-337" eff="2023-03-22" path="§4|(c)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-337" eff="2023-03-22" path="§4|(d)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-337" path="§4" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-337" path="">D.C. Law 24-337</cite>: <cite doc="D.C. Law 24-337" path="§6">§ 6 of D.C. Law 24-337</cite> provided that the change made to this section by <cite doc="D.C. Law 24-337" path="§4">§ 4 of D.C. Law 24-337</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-03-22" doc="D.C. Law 24-337" eff="2023-03-22" path="§4" type="History"/>
   </annotations>
 </section>

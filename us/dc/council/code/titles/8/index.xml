@@ -395,6 +395,17 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>1D</num>
+    <reason>Not Funded</reason>
+    <heading>Office of District Waterways Management.</heading>
+    <annotation app="notfunded" doc="D.C. Law 24-336" eff="2023-03-22" path="§6|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-336" eff="2023-03-22" path="" type="History" display="false"/>
+    <xi:include href="./sections/8-191.01.xml"/>
+    <xi:include href="./sections/8-191.02.xml"/>
+    <xi:include href="./sections/8-191.03.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>2</num>
     <heading>Drainage of Lots.</heading>
     <xi:include href="./sections/8-201.xml"/>
@@ -812,6 +823,7 @@
     <xi:include href="./sections/8-1031.03.xml"/>
     <xi:include href="./sections/8-1031.03a.xml"/>
     <xi:include href="./sections/8-1031.03b.xml"/>
+    <xi:include href="./sections/8-1031.03c.xml"/>
     <xi:include href="./sections/8-1031.04.xml"/>
     <xi:include href="./sections/8-1031.04a.xml"/>
     <xi:include href="./sections/8-1031.05.xml"/>
@@ -1476,6 +1488,17 @@
         <xi:include href="./sections/8-2231.11.xml"/>
         <xi:include href="./sections/8-2231.12.xml"/>
       </container>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>IV</num>
+      <reason>Not Funded</reason>
+      <heading>Migratory Local Wildlife Protection.</heading>
+      <annotation app="notfunded" doc="D.C. Law 24-337" eff="2023-03-22" path="§6|(a)" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 24-337" eff="2023-03-22" path="" type="History" display="false"/>
+      <xi:include href="./sections/8-2241.01.xml"/>
+      <xi:include href="./sections/8-2241.02.xml"/>
+      <xi:include href="./sections/8-2241.03.xml"/>
     </container>
   </container>
 </container>

@@ -1,62 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-921.81</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on March 8, 2023.*
-      </text>
-  <heading>Fare-Free Bus Service Fund established.</heading>
+  <heading proof="needed">Definitions.</heading>
   <para>
-    <num>(a)</num>
-    <text>There is established as a special fund the Fare-Free Bus Service Fund ("Fund"), which shall be administered by the Mayor in accordance with subsection (c) of this section.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>Provided that the Chief Financial Officer certifies that sufficient revenue exists pursuant to <cite path="§50-921.83">§ 50-921.83</cite>, there shall be deposited into the Fund general retail sales tax revenue collected pursuant to <cite path="47|20">Chapter 20 of Title 47</cite> as follows:</text>
+    <num undesignated="true">(a)</num>
+    <text>For the purposes of <cite path="50|9A|V">this subchapter</cite>, the term:</text>
     <para>
       <num>(1)</num>
-      <text>In Fiscal Year 2023 -- $11 million;</text>
+      <text>"DDOT" means the District Department of Transportation.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>In Fiscal Year 2024 -- $43.03 million;</text>
+      <text>"Participant" means an individual who has applied and been determined eligible for the Program within the prior 12 months, pursuant to <cite path="§50-921.84">§ 50-921.84</cite>.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>In Fiscal Year 2025 -- $45.18 million;</text>
+      <text>"Program" means the District Resident Transit Subsidy Program, established by <cite path="§50-921.82">§ 50-921.82</cite>.</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>In Fiscal Year 2026 -- $47.44 million; and</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>For each succeeding fiscal year after Fiscal Year 2026, an amount equal to 105% of the prior year's amount.</text>
+      <text>"WMATA" means the Washington Metropolitan Area Transit Authority.</text>
     </para>
   </para>
-  <para>
-    <num>(c)</num>
-    <text>Money in the Fund shall be used to support the fare buydown agreement entered into pursuant to <cite path="§50-921.02|(h)">§ 50-921.02(h)</cite> to provide fare-free Metrobus transportation within the District and 24-hour daily Metrobus service on Metrobus lines as specified by the fare buydown agreement.</text>
-  </para>
-  <para>
-    <num>(d)</num>
-    <para>
-      <num>(1)</num>
-      <text>The money deposited into the Fund but not expended in a fiscal year shall not revert to the unassigned fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
-    </para>
-  </para>
-  <codify:emergency doc="D.C. Code" path="§50-921.81" codified:doc="D.C. Code" codified:path="§50-921.81" codified:display="Note"/>
-  <codify:insert doc="D.C. Code" path="§50-921.81" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-921.81">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on March 8, 2023.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation app="2022-12-08" doc="D.C. Act 24-699" eff="2022-12-08" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2022-12-08" doc="D.C. Act 24-699" eff="2022-12-08" path="§2|(b)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-699" path="§2|(b)" codified:display="Note" app="2022-12-08" eff="2022-12-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-699" path="§2|(b)|includes|11z">§ 11z of Fare-Free Bus Funding Emergency Amendment Act of 2022 (D.C. Act 24-699, Dec. 8, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation doc="D.C. Law 14-137" type="History" path="§11t">May 21, 2002, D.C. Law 14-137, § 11t</annotation>
+    <annotation doc="D.C. Law 14-137" type="History" path="§11z" display="false">May 21, 2002, D.C. Law 14-137, § 11z</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-699" path="§2|(b)" codified:display="Note" app="2023-03-22" eff="2022-12-08">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-699" path="§2|(b)|includes|11z">§ 11z of Fare-Free Bus Funding Emergency Amendment Act of 2022 (D.C. Act 24-699, Dec. 8, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2023-03-22" doc="D.C. Act 24-699" eff="2022-12-08" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-335" eff="2023-03-22" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-335" eff="2023-03-22" path="§2|(b)" prefix="as added" type="History"/>
   </annotations>
 </section>

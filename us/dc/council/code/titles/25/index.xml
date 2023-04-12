@@ -49,7 +49,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>2</num>
-    <heading>Alcoholic Beverage Regulation Administration.</heading>
+    <heading>Alcoholic Beverage and Cannabis Administration.</heading>
     <xi:include href="./sections/25-201.xml"/>
     <xi:include href="./sections/25-202.xml"/>
     <xi:include href="./sections/25-203.xml"/>
@@ -414,4 +414,7 @@
     <xi:include href="./sections/25-1008.xml"/>
     <xi:include href="./sections/25-1009.xml"/>
   </container>
+  <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(a)" type="History"/>
+  <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(b)" type="History"/>
+  <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(c)" type="History"/>
 </container>

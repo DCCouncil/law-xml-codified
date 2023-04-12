@@ -315,6 +315,10 @@
         <num>(XX)</num>
         <text>The amount received by an individual or a school or program on behalf of an individual to cover the individual's tuition, fees, or other expenses pursuant to <cite path="7|7F">[Chapter 7F of Title 7]</cite>.</text>
       </para>
+      <para placeholder="Not Funded">
+        <num>(YY)</num>
+        <text>Not Funded.</text>
+      </para>
     </para>
     <para>
       <num>(3)</num>
@@ -551,5 +555,9 @@
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-184" path="§201" codified:display="Note" app="2022-09-21" eff="2022-09-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-184" path="§201">§ 201 of High Need Healthcare Career Scholarship and Health Professional Loan Repayment Program Temporary Amendment Act of 2022 (D.C. Law 24-184, Sept. 21, 2022, 0 DCR 0)</cite>.</annotation>
     <annotation app="2022-09-21" doc="D.C. Law 24-184" eff="2022-09-21" path="§201" type="History" display="false"/>
     <annotation app="2023-03-10" doc="D.C. Law 24-313" eff="2023-03-10" path="§201" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-335" eff="2023-03-22" path="§4|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-335" eff="2023-03-22" path="§3" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-335" path="§3" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-335" path="">D.C. Law 24-335</cite>: <cite doc="D.C. Law 24-335" path="§4">§ 4 of D.C. Law 24-335</cite> provided that the change made to this section by <cite doc="D.C. Law 24-335" path="§3">§ 3 of D.C. Law 24-335</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-03-22" doc="D.C. Law 24-335" eff="2023-03-22" path="§3" type="History"/>
   </annotations>
 </section>

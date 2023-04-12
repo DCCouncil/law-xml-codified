@@ -111,7 +111,7 @@
         <para>
           <num>(A)</num>
           <text>Subparagraph (A) is amended by striking the word "dispense," and inserting the phrase "dispense, administer," in its place.</text>
-          <codify:find-replace path="(A)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.01|(3)|(A)">
+          <codify:find-replace path="(A)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.01|(3)">
             <find>dispense,</find>
             <replace>dispense, administer,</replace>
           </codify:find-replace>
@@ -119,7 +119,7 @@
         <para>
           <num>(B)</num>
           <text>Subparagraph (C) is amended by striking the phrase "Is not currently" and inserting the phrase "Is not currently, with the exception of caregivers providing services on behalf of nursing homes and hospices, as those terms are defined in sections (2)(a)(3) and (6), respectively, of the Health-Care and Community Residence Facility, Hospice and Home Care Licensure Act of 1983, effective February 24, 1984 (D.C. Law 5-48; D.C. Official Code § 44-501(a)(3) and (6)," in its place.</text>
-          <codify:find-replace path="(C)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.01|(3)|(C)">
+          <codify:find-replace path="(C)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.01|(3)">
             <find>Is not currently</find>
             <replace>Is not currently, with the exception of caregivers providing services on behalf of nursing homes and hospices, as those terms are defined in <code-cite doc="D.C. Code" path="§44-501">sections (2)(a)(3) and (6), respectively, of the Health-Care and Community Residence Facility, Hospice and Home Care Licensure Act of 1983, effective February 24, 1984 (D.C. Law 5-48; D.C. Official Code § 44-501</code-cite>(a)(3) and (6)),</replace>
           </codify:find-replace>
@@ -142,7 +142,7 @@
         <text>A new paragraph (12A) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(12)" codified:doc="D.C. Code" codified:path="§7-1671.01|(12A)"/>
+            <codify:insert after="(12)" codified:doc="D.C. Code" codified:path="§7-1671.01|(12B)"/>
             <num>(12A)</num>
             <text>"Medical marijuana product" means a product derived from or composed of medical marijuana, in part or in whole.</text>
           </para>
@@ -218,7 +218,7 @@
         <text>Paragraph (19) is amended by striking the phrase "medical condition or is undergoing a qualifying medical treatment." and inserting the phrase "medical or dental condition or is undergoing a qualifying medical or dental treatment, or a patient enrolled in another jurisdiction's medical marijuana program; provided, that a patient from another jurisdiction shall not be a qualifying patient if the Department determines that there is a shortage of medical marijuana or the real-time electronic records system referenced in 6(4)(A) is inactive." in its place.</text>
         <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.01|(19)">
           <find>medical condition or is undergoing a qualifying medical treatment.</find>
-          <replace>medical or dental condition or is undergoing a qualifying medical or dental treatment, or a patient enrolled in another jurisdiction's medical marijuana program; provided, that a patient from another jurisdiction shall not be a qualifying patient if the Department determines that there is a shortage of medical marijuana or the real-time electronic records system referenced in <code-cite doc="D.C. Code" path="§7-1671.05|(4)|(A)">section 6(4)(A)</code-cite> is inactive.</replace>
+          <replace>medical or dental condition or is undergoing a qualifying medical or dental treatment, or a patient enrolled in another jurisdiction's medical marijuana program; provided, that a patient from another jurisdiction shall not be a qualifying patient if the Department determines that there is a shortage of medical marijuana or the real-time electronic records system referenced in <code-cite doc="D.C. Code" path="§7-1671.05">section 6</code-cite>(4)(A) is inactive.</replace>
         </codify:find-replace>
       </para>
       <para>
@@ -255,12 +255,12 @@
         <para>
           <num>(A)</num>
           <text>Designate the existing text as subparagraph (A).</text>
-          <codify:redesignate-para path="(1)" num-value="(A)" codified:doc="D.C. Code" codified:path="§7-1671.02|(c)|(1)"/>
+          <codify:redesignate-para path="(1)" num-value="(A)" codified:doc="D.C. Code" codified:path="§7-1671.02|(c)"/>
         </para>
         <para>
           <num>(B)</num>
           <text>The newly designated subparagraph (A) is amended by striking the phrase "from a physician" and inserting the phrase "from an authorized practitioner" in its place.</text>
-          <codify:find-replace path="(1)|(A)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.02|(c)|(1)|(A)">
+          <codify:find-replace path="(1)|(A)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.02|(c)">
             <find>from a physician</find>
             <replace>from an authorized practitioner</replace>
           </codify:find-replace>
@@ -272,7 +272,7 @@
         <para>
           <num>(A)</num>
           <text>Redesignate the existing text as paragraph (1)(B).</text>
-          <codify:insert path="(1)" after="(A)" codified:doc="D.C. Code" codified:path="§7-1671.02|(c)|(1)|(B)">
+          <codify:insert path="(1)" after="(A)" codified:doc="D.C. Code" codified:path="§7-1671.02|(c)">
             <para>
               <num>(B)</num>
               <text>Registered with the Mayor pursuant to <cite path="§7-1671.05">§ 7-1671.05</cite>; or</text>
@@ -289,7 +289,7 @@
         <text>A new paragraph (2) is added to read as follows:</text>
         <include>
           <para>
-            <codify:replace path="(2)" codified:doc="D.C. Code" codified:path="§7-1671.02|(c)|(2)"/>
+            <codify:replace path="(2)" codified:doc="D.C. Code" codified:path="§7-1671.02|(c)"/>
             <num>(2)</num>
             <text>Enrolled in another jurisdiction's medical marijuana program.</text>
           </para>
@@ -307,7 +307,7 @@
         <para codify:path="(1)">
           <num>(A)</num>
           <text>Paragraph (1) is amended by striking the phrase "the qualifying patient's residence, if permitted" and inserting the phrase "the qualifying patient's residence, if permitted, the residence of an individual who has given permission to the qualifying patient to administer medical marijuana at his or her residence, if permitted" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.03|(b)|(1)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.03|(b)">
             <find>the qualifying patient's residence, if permitted</find>
             <replace>the qualifying patient's residence, if permitted, the residence of an individual who has given permission to the qualifying patient to administer medical marijuana at his or her residence, if permitted</replace>
           </codify:find-replace>
@@ -315,7 +315,7 @@
         <para codify:path="(2)">
           <num>(B)</num>
           <text>Paragraph (2) is amended by striking the phrase "dispensary or cultivation center" and inserting the phrase "dispensary, cultivation center, or testing laboratory" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.03|(b)|(2)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.03|(b)">
             <find>dispensary or cultivation center</find>
             <replace>dispensary, cultivation center, or testing laboratory</replace>
           </codify:find-replace>
@@ -358,7 +358,7 @@
           <para>
             <num>(i)</num>
             <text>Strike the phrase "A physician" and insert the phrase "An authorized practitioner" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.04|(a)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.04">
               <find>A physician</find>
               <replace>An authorized practitioner</replace>
             </codify:find-replace>
@@ -366,7 +366,7 @@
           <para>
             <num>(ii)</num>
             <text>Strike the phrase "the physician" and insert the phrase "the authorized practitioner" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.04|(a)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.04">
               <find>the physician</find>
               <replace>the authorized practitioner</replace>
             </codify:find-replace>
@@ -375,7 +375,7 @@
         <para codify:path="(1)">
           <num>(B)</num>
           <text>Paragraph (1) is amended by striking the phrase "bona fide physician-patient relationship with the qualifying patient" and inserting the phrase "bona fide relationship with the qualifying patient" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.04|(a)|(1)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.04">
             <find>bona fide physician-patient relationship with the qualifying patient</find>
             <replace>bona fide relationship with the qualifying patient</replace>
           </codify:find-replace>
@@ -386,7 +386,7 @@
           <para>
             <num>(i)</num>
             <text>Strike the word "physician's" and insert the phrase "authorized practitioner's" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.04|(a)|(2)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.04">
               <find>physician's</find>
               <replace>authorized practitioner's</replace>
             </codify:find-replace>
@@ -394,7 +394,7 @@
           <para>
             <num>(ii)</num>
             <text>Strike the word "medical" wherever it appears and insert the phrase "medical or dental" in its place.</text>
-            <codify:find-replace count="4" codified:doc="D.C. Code" codified:path="§7-1671.04|(a)|(2)">
+            <codify:find-replace count="4" codified:doc="D.C. Code" codified:path="§7-1671.04">
               <find>medical</find>
               <replace>medical or dental</replace>
             </codify:find-replace>
@@ -413,7 +413,7 @@
             <para>
               <num>(I)</num>
               <text>Strike the phrase "A physician's recommendation" and insert the phrase "An authorized practitioner's recommendation" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.04|(b)|(1)">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.04">
                 <find>A physician's recommendation</find>
                 <replace>An authorized practitioner's recommendation</replace>
               </codify:find-replace>
@@ -421,7 +421,7 @@
             <para>
               <num>(II)</num>
               <text>Strike the phrase "the physician" and insert the phrase "the authorized practitioner" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.04|(b)|(1)">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.04">
                 <find>the physician</find>
                 <replace>the authorized practitioner</replace>
               </codify:find-replace>
@@ -430,7 +430,7 @@
           <para codify:path="(A)">
             <num>(ii)</num>
             <text>Subparagraph (A) is amended by striking the phrase "physician's medical license number" and inserting the phrase "authorized practitioner's board-issued license number" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.04|(b)|(1)|(A)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.04">
               <find>physician's medical license number</find>
               <replace>authorized practitioner's board-issued license number</replace>
             </codify:find-replace>
@@ -438,7 +438,7 @@
           <para codify:path="(B)">
             <num>(iii)</num>
             <text>Subparagraph (B) is amended by striking the phrase "medical condition or the side effects of a qualifying medical treatment" and inserting the phrase "medical or dental condition or the side effects of a qualifying medical or dental treatment" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.04|(b)|(1)|(B)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.04">
               <find>medical condition or the side effects of a qualifying medical treatment</find>
               <replace>medical or dental condition or the side effects of a qualifying medical or dental treatment</replace>
             </codify:find-replace>
@@ -447,7 +447,7 @@
         <para codify:path="(2)">
           <num>(B)</num>
           <text>Paragraph (2) is amended by striking the phrase "A physician's" and inserting the phrase "An authorized practitioner's" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.04|(b)|(2)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.04">
             <find>A physician's</find>
             <replace>An authorized practitioner's</replace>
           </codify:find-replace>
@@ -459,11 +459,11 @@
         <para>
           <num>(A)</num>
           <text>Strike the phrase "A physician" and insert the phrase "An authorized practitioner" in its place.</text>
-          <codify:find-replace path="(c)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.04|(c)">
+          <codify:find-replace path="(c)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.04">
             <find>a physician</find>
             <replace>a physician [an authorized practitioner]</replace>
           </codify:find-replace>
-          <codify:find-replace path="(d)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.04|(d)">
+          <codify:find-replace path="(d)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.04">
             <find>A physician</find>
             <replace>An authorized practitioner</replace>
           </codify:find-replace>
@@ -495,7 +495,7 @@
         <para codify:path="(A)|(i)">
           <num>(A)</num>
           <text>Subparagraph (A)(i) is amended by striking the phrase "patients;" and inserting the phrase "patients, except qualifying patients enrolled in another jurisdiction's medical marijuana program under section 3(c)(2);" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(1)|(A)|(i)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
             <find>patients;</find>
             <replace>patients, except qualifying patients enrolled in another jurisdiction's medical marijuana program under <code-cite doc="D.C. Code" path="§7-1671.02|(c)|(2)">section 3(c)(2)</code-cite>;</replace>
           </codify:find-replace>
@@ -506,12 +506,12 @@
           <para codify:path="(i)">
             <num>(i)</num>
             <text>Sub-subparagraph (i) is repealed.</text>
-            <codify:repeal codified:doc="D.C. Code" codified:path="§7-1671.05|(1)|(B)|(i)"/>
+            <codify:repeal codified:doc="D.C. Code" codified:path="§7-1671.05"/>
           </para>
           <para codify:path="(ii)">
             <num>(ii)</num>
             <text>Sub-subparagraph (ii) is amended by striking the phrase "physician's recommendation" and inserting the phrase "authorized practitioner's recommendation" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(1)|(B)|(ii)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
               <find>physician's recommendation</find>
               <replace>authorized practitioner's recommendation</replace>
             </codify:find-replace>
@@ -524,7 +524,7 @@
         <para codify:path="(B)">
           <num>(A)</num>
           <text>Subparagraph (B) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(2)|(B)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
             <find>; and</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -534,7 +534,7 @@
           <text>A new subparagraph (B-i) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(B)" codified:doc="D.C. Code" codified:path="§7-1671.05|(2)|(B-i)"/>
+              <codify:insert after="(B)" codified:doc="D.C. Code" codified:path="§7-1671.05"/>
               <num>(B-i)</num>
               <text>Testing laboratories; and</text>
             </para>
@@ -544,7 +544,7 @@
         <para codify:path="(C)">
           <num>(C)</num>
           <text>Subparagraph (C) is amended by striking the phrase "dispensaries and cultivation centers;" and inserting the phrase "dispensaries, cultivation centers, and testing laboratories;" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(2)|(C)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
             <find>dispensaries and cultivation centers;</find>
             <replace>dispensaries, cultivation centers, and testing laboratories;</replace>
           </codify:find-replace>
@@ -553,7 +553,7 @@
       <para codify:path="(3)">
         <num>(4)</num>
         <text>Paragraph (3) is amended by striking the phrase "distribute, or possess medical marijuana" and inserting the phrase "distribute, test, or possess medical marijuana" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(3)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
           <find>distribute, or possess medical marijuana</find>
           <replace>distribute, test, or possess medical marijuana</replace>
         </codify:find-replace>
@@ -564,7 +564,7 @@
         <para>
           <num>(A)</num>
           <text>The lead-in language is amended by striking the phrase "dispensaries and cultivation centers" and inserting the phrase "dispensaries, cultivation centers, and testing laboratories" in its place.</text>
-          <codify:find-replace path="text" count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(4)">
+          <codify:find-replace path="text" count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
             <find>dispensaries and cultivation centers</find>
             <replace>dispensaries, cultivation centers, and testing laboratories</replace>
           </codify:find-replace>
@@ -575,7 +575,7 @@
           <para codify:path="text">
             <num>(i)</num>
             <text>The lead-in language is amended by striking the phrase "and current records" and inserting the phrase "and real-time electronic records" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(4)|(A)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
               <find>and current records</find>
               <replace>and real-time electronic records</replace>
             </codify:find-replace>
@@ -586,7 +586,7 @@
             <para codify:path="text">
               <num>(I)</num>
               <text>The lead-in language is amended by striking the phrase "A record of each transaction," and inserting the phrase "Each transaction conducted by the facility," in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(4)|(A)|(ii)">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
                 <find>A record of each transaction,</find>
                 <replace>Each transaction conducted by the facility,</replace>
               </codify:find-replace>
@@ -594,7 +594,7 @@
             <para codify:path="(I)">
               <num>(II)</num>
               <text>Sub-sub-subparagraph (I) is amended by striking the phrase "distributed or dispensed" and inserting the phrase "tested, distributed, or dispensed" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(4)|(A)|(ii)|(I)">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
                 <find>distributed or dispensed</find>
                 <replace>tested, distributed, or dispensed</replace>
               </codify:find-replace>
@@ -602,7 +602,7 @@
             <para codify:path="(II)">
               <num>(III)</num>
               <text>Sub-sub-subparagraph (II) is amended by striking the phrase "the medical marijuana" and inserting the phrase "the medical marijuana, if any" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(4)|(A)|(ii)|(II)">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
                 <find>the medical marijuana</find>
                 <replace>the medical marijuana, if any</replace>
               </codify:find-replace>
@@ -611,7 +611,7 @@
           <para codify:path="(iii)">
             <num>(iii)</num>
             <text>Sub-subparagraph (iii) is amended by striking the phrase "dispensary or cultivation center" and inserting the phrase "dispensary, cultivation center, or testing laboratory" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(4)|(A)|(iii)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
               <find>dispensary or cultivation center</find>
               <replace>dispensary, cultivation center, or testing laboratory</replace>
             </codify:find-replace>
@@ -619,7 +619,7 @@
           <para codify:path="(iv)">
             <num>(iv)</num>
             <text>Sub-subparagraph (iv) is amended by striking the phrase "but not sold" and inserting the phrase "but that did not meet the requirements for sale established by the Department through rulemaking under paragraph (5A) of this section or that was not sold for any other reason" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(4)|(A)|(iv)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
               <find>but not sold</find>
               <replace>but that did not meet the requirements for sale established by the Department through rulemaking under paragraph (5A) of this section or that was not sold for any other reason</replace>
             </codify:find-replace>
@@ -631,7 +631,7 @@
         <text>New paragraphs (5A) and (5B) are added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(5)" codified:doc="D.C. Code" codified:path="§7-1671.05|(5A)"/>
+            <codify:insert after="(5)" codified:doc="D.C. Code" codified:path="§7-1671.05"/>
             <num>(5A)</num>
             <text>Upon the registration of at least one testing laboratory under paragraph (2)(B-i) of this section and pursuant to rules issued by the Department, require that cultivation centers segregate all harvested medical marijuana into batches before manufacturing any medical marijuana product or packaging raw medical marijuana for sale to a dispensary and hold the harvested medical marijuana from sale until:</text>
             <para>
@@ -648,7 +648,7 @@
             </para>
           </para>
           <para>
-            <codify:insert after="(5A)" codified:doc="D.C. Code" codified:path="§7-1671.05|(5B)"/>
+            <codify:insert after="(5A)" codified:doc="D.C. Code" codified:path="§7-1671.05"/>
             <num>(5B)</num>
             <text>Require testing laboratories to provide cultivation centers with the following information after testing harvested medical marijuana samples:</text>
             <para>
@@ -677,7 +677,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the phrase "fees for dispensaries and cultivation centers" and insert the phrase "fees for dispensaries, cultivation centers, and testing laboratories" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(9)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
             <find>fees for dispensaries and cultivation centers</find>
             <replace>fees for dispensaries, cultivation centers, and testing laboratories</replace>
           </codify:find-replace>
@@ -685,7 +685,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "employees of dispensaries and cultivation centers" and insert the phrase "employees of dispensaries, cultivation centers, and testing laboratories" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(9)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
             <find>employees of dispensaries and cultivation centers</find>
             <replace>employees of dispensaries, cultivation centers, and testing laboratories</replace>
           </codify:find-replace>
@@ -697,7 +697,7 @@
         <para codify:path="text">
           <num>(A)</num>
           <text>The lead-in language is amended by striking the phrase "physicians," and inserting the phrase "authorized practitioners," in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(11)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
             <find>physicians,</find>
             <replace>authorized practitioners,</replace>
           </codify:find-replace>
@@ -705,7 +705,7 @@
         <para codify:path="(E)">
           <num>(B)</num>
           <text>Subparagraph (E) is amended by striking the word "physicians" and inserting the phrase "authorized practitioners" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(11)|(E)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
             <find>physicians</find>
             <replace>authorized practitioners</replace>
           </codify:find-replace>
@@ -714,7 +714,7 @@
       <para codify:path="(12)">
         <num>(9)</num>
         <text>Paragraph (12) is amended by striking the phrase "dispensary and cultivation center" and inserting the phrase "dispensary, cultivation center, and testing laboratory" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(12)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
           <find>dispensary and cultivation center</find>
           <replace>dispensary, cultivation center, and testing laboratory</replace>
         </codify:find-replace>
@@ -728,7 +728,7 @@
           <para>
             <num>(i)</num>
             <text>Strike the phrase "to all Advisory Neighborhood Commissions in the affected ward" and insert the phrase "to the Councilmember and all Advisory Neighborhood Commissions in the affected ward" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(13)|(A)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
               <find>to all Advisory Neighborhood Commissions in the affected ward</find>
               <replace>to the Councilmember and all Advisory Neighborhood Commissions in the affected ward</replace>
             </codify:find-replace>
@@ -736,7 +736,7 @@
           <para>
             <num>(ii)</num>
             <text>Strike the phrase "dispensary or cultivation center" and insert the phrase "dispensary, cultivation center, or testing laboratory" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(13)|(A)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
               <find>dispensary or cultivation center</find>
               <replace>dispensary, cultivation center, or testing laboratory</replace>
             </codify:find-replace>
@@ -745,7 +745,7 @@
         <para codify:path="(B)">
           <num>(B)</num>
           <text>Subparagraph (B) is amended by striking the phrase "dispensary or cultivation center" and inserting the phrase "dispensary, cultivation center, or testing laboratory" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(13)|(B)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
             <find>dispensary or cultivation center</find>
             <replace>dispensary, cultivation center, or testing laboratory</replace>
           </codify:find-replace>
@@ -761,7 +761,7 @@
         <text>A new subsection (b-1) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§7-1671.06|(b-1)"/>
+            <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§7-1671.06"/>
             <num>(b-1)</num>
             <text>Notwithstanding any other District law, a testing laboratory may possess medical marijuana for the purpose of testing its contents, in accordance with <span codify:value="this chapter">this act</span> and the rules issued pursuant to <code-cite doc="D.C. Code" path="§7-1671.13">section 14</code-cite>.</text>
           </para>
@@ -777,7 +777,7 @@
           <para>
             <num>(i)</num>
             <text>Strike the phrase "dispensary and cultivation center" and insert the phrase "dispensary, cultivation center, and testing laboratory" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.06|(d)|(1)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.06">
               <find>dispensary and cultivation center</find>
               <replace>dispensary, cultivation center, and testing laboratory</replace>
             </codify:find-replace>
@@ -785,7 +785,7 @@
           <para>
             <num>(ii)</num>
             <text>Strike the phrase "possessing, or distributing medical marijuana," and insert the phrase "possessing, testing, or distributing medical marijuana," in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.06|(d)|(1)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.06">
               <find>possessing, or distributing medical marijuana,</find>
               <replace>possessing, testing, or distributing medical marijuana,</replace>
             </codify:find-replace>
@@ -798,7 +798,7 @@
             <para>
               <num>(3)</num>
               <para>
-                <codify:replace codified:doc="D.C. Code" codified:path="§7-1671.06|(d)|(3)|(A)"/>
+                <codify:replace codified:doc="D.C. Code" codified:path="§7-1671.06"/>
                 <num>(A)</num>
                 <text>The number of cultivation centers and testing laboratories that may be registered to operate in the District shall be determined by rulemaking; provided, that the combined total number of cultivation centers and testing laboratories registered to operate within an election ward established by the Council in <code-cite doc="D.C. Code" path="§1-1041.03">section 4 of the Redistricting Procedure Act of 1981, effective March 16, 1982 (D.C. Law 4-87; D.C. Official Code § 1-1041.03)</code-cite>, shall not exceed 6.</text>
               </para>
@@ -811,7 +811,7 @@
           <text>A new paragraph (4) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(3)" codified:doc="D.C. Code" codified:path="§7-1671.06|(d)|(4)"/>
+              <codify:insert after="(3)" codified:doc="D.C. Code" codified:path="§7-1671.06"/>
               <num>(4)</num>
               <text>The Mayor may approve the holder of a cultivation center registration that also owns, or has a valid lease for, real property adjacent to its existing cultivation center to physically expand the registered cultivation center into that adjacent real property for the purpose of increasing production of medical marijuana.</text>
             </para>
@@ -822,7 +822,7 @@
       <para codify:path="(e)|(2)">
         <num>(3)</num>
         <text>Subsection (e)(2) is amended by striking the number "500" and inserting the number "1,000" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.06|(e)|(2)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.06">
           <find>500</find>
           <replace>1,000</replace>
         </codify:find-replace>
@@ -830,7 +830,7 @@
       <para>
         <num>(4)</num>
         <text>Subsection (f) is amended by striking the phrase "dispensary or a cultivation center" and inserting the phrase "dispensary, cultivation center, or testing laboratory" in its place.</text>
-        <codify:find-replace path="(f)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.06|(f)">
+        <codify:find-replace path="(f)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.06">
           <find>dispensary or a cultivation center</find>
           <replace>dispensary, cultivation center, or testing laboratory</replace>
         </codify:find-replace>
@@ -838,7 +838,7 @@
       <para>
         <num>(5)</num>
         <text>Subsection (g) is amended by striking the phrase "dispensary or cultivation center" and inserting the phrase "dispensary, cultivation center, or testing laboratory" in its place.</text>
-        <codify:find-replace path="(g)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.06|(g)">
+        <codify:find-replace path="(g)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.06">
           <find>dispensary or cultivation center</find>
           <replace>dispensary, cultivation center, or testing laboratory</replace>
         </codify:find-replace>
@@ -848,12 +848,12 @@
         <text>New subsections (g-2) and (g-3) are added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(g-1)" codified:doc="D.C. Code" codified:path="§7-1671.06|(g-2)"/>
+            <codify:insert after="(g-1)" codified:doc="D.C. Code" codified:path="§7-1671.06"/>
             <num>(g-2)</num>
             <text>A dispensary, cultivation center, or testing laboratory may be permitted to relocate within an election ward upon approval from the Mayor.</text>
           </para>
           <para>
-            <codify:insert after="(g-2)" codified:doc="D.C. Code" codified:path="§7-1671.06|(g-3)"/>
+            <codify:insert after="(g-2)" codified:doc="D.C. Code" codified:path="§7-1671.06"/>
             <num>(g-3)</num>
             <text>A dispensary, cultivation center, or testing laboratory may be permitted to change ownership or controlling interest upon approval from the Mayor.</text>
           </para>
@@ -863,7 +863,7 @@
       <para>
         <num>(7)</num>
         <text>Subsection (h) is amended by striking the phrase "dispensary and cultivation center" and inserting the phrase "dispensary, cultivation center, and testing laboratory" in its place.</text>
-        <codify:find-replace path="(h)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.06|(h)">
+        <codify:find-replace path="(h)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.06">
           <find>dispensary and cultivation center</find>
           <replace>dispensary, cultivation center, and testing laboratory" </replace>
         </codify:find-replace>
@@ -873,7 +873,7 @@
         <text>Subsection (j) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace path="(j)" codified:doc="D.C. Code" codified:path="§7-1671.06|(j)"/>
+            <codify:replace path="(j)" codified:doc="D.C. Code" codified:path="§7-1671.06"/>
             <num>(j)</num>
             <text>No director, officer, member, incorporator, agent, or employee of a dispensary, cultivation center, or testing laboratory who has access to the medical marijuana at the dispensary, cultivation center, or testing laboratory shall have a felony conviction; provided, that the Mayor shall not disqualify any of the forgoing individuals solely for a felony conviction of possession with intent to distribute marijuana that occurred before the <span codify:value="July 17, 2014">effective date of the Marijuana Possession Decriminalization Amendment Act of 2014, effective July 17, 2014 (D.C. Law 20-126; D.C. Official Code § 48-1201 <em>et seq</em>.)</span>.
             </text>
@@ -884,7 +884,7 @@
       <para>
         <num>(9)</num>
         <text>Subsection (k) is amended by striking the phrase "dispensary or cultivation center" wherever it appears and inserting the phrase "dispensary, cultivation center, or testing laboratory" in its place.</text>
-        <codify:find-replace path="(k)" count="3" codified:doc="D.C. Code" codified:path="§7-1671.06|(k)">
+        <codify:find-replace path="(k)" count="3" codified:doc="D.C. Code" codified:path="§7-1671.06">
           <find>dispensary or cultivation center</find>
           <replace>dispensary, cultivation center, or testing laboratory</replace>
         </codify:find-replace>
@@ -919,7 +919,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the phrase "The Board of Medicine" and insert the phrase "The Boards of Medicine, Nursing, and Dentistry" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.07|(a)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.07">
             <find>The Board of Medicine</find>
             <replace>The Boards of Medicine, Nursing, and Dentistry"</replace>
           </codify:find-replace>
@@ -927,7 +927,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "written physician recommendations" and insert the phrase "written authorized practitioner recommendations" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.07|(a)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.07">
             <find>written physician recommendations</find>
             <replace>written authorized practitioner recommendations</replace>
           </codify:find-replace>
@@ -935,7 +935,7 @@
         <para>
           <num>(C)</num>
           <text>Strike the phrase "physicians" and insert the phrase "authorized practitioners under their licensing authority" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.07|(a)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.07">
             <find>physicians</find>
             <replace>authorized practitioners under their licensing authority</replace>
           </codify:find-replace>
@@ -947,7 +947,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the phrase "The Board of Medicine" and insert the phrase "The relevant licensing board" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.07|(b)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.07">
             <find>The Board of Medicine</find>
             <replace>The relevant licensing board</replace>
           </codify:find-replace>
@@ -955,7 +955,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "any physician" and insert the phrase "any authorized practitioner" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.07|(b)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.07">
             <find>any physician</find>
             <replace>any authorized practitioner</replace>
           </codify:find-replace>
@@ -967,7 +967,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the phrase "a license to practice medicine or osteopathy" and insert the phrase "an authorized practitioner's license" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.07|(c)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.07">
             <find>a license to practice medicine or osteopathy</find>
             <replace>an authorized practitioner's license</replace>
           </codify:find-replace>
@@ -975,7 +975,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "or both." and insert the phrase "or both, at the licensing board's discretion." in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.07|(c)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.07">
             <find>or both.</find>
             <replace>or both, at the licensing board's discretion.</replace>
           </codify:find-replace>
@@ -1055,11 +1055,11 @@
             <text>Within 6 months after <span codify:value="February 18, 2017">the effective date of the Medical Marijuana Omnibus Amendment Act of 2016, passed on 2nd reading on November 1, 2016 (Enrolled version of Bill 21-210)</span>, determine the process for permitting a dispensary, cultivation center, or testing laboratory to:</text>
             <para>
               <num>(A)</num>
-              <text>Relocate within an election ward, established by the Council in <code-cite doc="D.C. Code" path="§1-1041.03">section 4 of the Redistricting Procedure Act of 1981, effective March 16, 1982 (D.C. Law 4-87; D.C. Official Code § 1-1041.03)</code-cite>, pursuant to <code-cite doc="D.C. Code" path="§7-1671.06|(g-2)">section 7(g-2)</code-cite>; and</text>
+              <text>Relocate within an election ward, established by the Council in <code-cite doc="D.C. Code" path="§1-1041.03">section 4 of the Redistricting Procedure Act of 1981, effective March 16, 1982 (D.C. Law 4-87; D.C. Official Code § 1-1041.03)</code-cite>, pursuant to <code-cite doc="D.C. Code" path="§7-1671.06">section 7(g-2)</code-cite>; and</text>
             </para>
             <para>
               <num>(B)</num>
-              <text>Change ownership or controlling interest pursuant to <code-cite doc="D.C. Code" path="§7-1671.06|(g-3)">section 7(g-3)</code-cite>.</text>
+              <text>Change ownership or controlling interest pursuant to <code-cite doc="D.C. Code" path="§7-1671.06">section 7(g-3)</code-cite>.</text>
             </para>
           </para>
         </include>

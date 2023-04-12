@@ -410,7 +410,7 @@
       <para>
         <num>(a)</num>
         <text>Subsection (a)(2) is amended by striking the phase "publically accessible" and inserting the phrase "publicly accessible" in its place.</text>
-        <codify:find-replace doc="D.C. Code" path="§50-921.01a|(1A)" count="1" codified:doc="D.C. Code" codified:path="§50-921.01a|(1A)">
+        <codify:find-replace doc="D.C. Code" path="§50-921.01a|(1A)" count="1" codified:doc="D.C. Code" codified:path="§50-921.01a|(1C)">
           <find>publically accessible</find>
           <replace>publicly accessible</replace>
         </codify:find-replace>

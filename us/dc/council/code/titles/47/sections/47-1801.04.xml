@@ -185,6 +185,10 @@
     <num>(31)</num>
     <text>“International banking facility time deposit” or “IBF time deposit” shall have the same meaning as provided in section 204.8(a)(2) of Regulation D of the Board of Governors of the Federal Reserve System, effective December 3, 1981 (12 CFR § 204.8(a)(2)).</text>
   </para>
+  <para placeholder="Not Funded">
+    <num>(31A)</num>
+    <text>Not Funded.</text>
+  </para>
   <para>
     <num>(32)</num>
     <text>“Net operating loss” shall have the same meaning as provided in section 172(c) of the Internal Revenue Code of 1986, subject to limitations and modifications provided in this section.</text>
@@ -716,5 +720,9 @@
         </annotation>
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7174" type="History" display="false"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2022|(a)" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§9|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-332" eff="2023-03-22" path="§7|(a)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-332" path="§7|(a)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-332" path="">D.C. Law 24-332</cite>: <cite doc="D.C. Law 24-332" path="§9">§ 9 of D.C. Law 24-332</cite> provided that the creation of this section by <cite doc="D.C. Law 24-332" path="§7|(a)">§ 7(a) of D.C. Law 24-332</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§7|(a)" type="History"/>
   </annotations>
 </section>

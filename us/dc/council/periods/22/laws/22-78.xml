@@ -30,7 +30,7 @@
       <para codify:path="(1)">
         <num>(1)</num>
         <text>Paragraph (1) is redesignated as paragraph (1B).</text>
-        <codify:find-replace path="num" count="1" codified:doc="D.C. Code" codified:path="§50-921.01a|(1B)">
+        <codify:find-replace path="num" count="1" codified:doc="D.C. Code" codified:path="§50-921.01a|(1D)">
           <find>(1)</find>
           <replace>(1B)</replace>
         </codify:find-replace>
@@ -40,12 +40,12 @@
         <text>New paragraphs (1) and (1A) are added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert before="(1B)" codified:doc="D.C. Code" codified:path="§50-921.01a|(1)"/>
+            <codify:insert before="(1B)" codified:doc="D.C. Code" codified:path="§50-921.01a|(1B)"/>
             <num>(1)</num>
             <text>"Electric vehicle" means a vehicle that is propelled by an electric motor and is capable of being recharged from an external source of electricity.</text>
           </para>
           <para>
-            <codify:insert before="(1B)" codified:doc="D.C. Code" codified:path="§50-921.01a|(1A)"/>
+            <codify:insert before="(1B)" codified:doc="D.C. Code" codified:path="§50-921.01a|(1C)"/>
             <num>(1A)</num>
             <text>"Electric vehicle charging station" means a publically accessible facility or equipment that is located on public property, including any public space in the District, and is used to charge the battery or other energy storage device of an electric vehicle.</text>
           </para>
