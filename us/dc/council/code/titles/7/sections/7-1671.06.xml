@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-1671.06</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on May 28, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-1671.06(Perm)">Permanent Version</cite>.*
+      </text>
   <heading proof="needed">Cultivation centers, manufacturers, retailers, internet retailers, and testing laboratories.</heading>
   <para>
     <num>(a)</num>
@@ -486,6 +489,10 @@
       <text>The ABC Board may also issue a written warning to a licensed or registered person or business for a violation of <cite path="7|16B">this chapter</cite> or rules issued under <cite path="7|16B">this chapter</cite> to the extent permitted by regulations issued under <cite path="7|16B">this chapter</cite>.</text>
     </para>
   </para>
+  <para>
+    <num>(w)</num>
+    <text>An applicant that submitted a medical cannabis facility registration application to the ABC Board between November 29, 2021, and March 28, 2022, and was selected by the ABC Board on September 28, 2022, shall be allowed to change the location of the cultivation center or retailer (formerly, dispensary) facility on its application by September 30, 2023, without negatively affecting the current status of the application.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 13-315" type="History" path="§7">Feb. 25, 2010, D.C. Law 13-315, § 7</annotation>
     <annotation doc="D.C. Law 18-210" type="History">as added July 27, 2010, D.C. Law 18-210, § 2, 57 DCR 4798</annotation>
@@ -610,6 +617,9 @@
     <annotation app="2023-02-23" doc="D.C. Law 24-267" eff="2023-02-23" path="§2" type="History" display="false"/>
     <annotation app="2023-02-23" doc="D.C. Law 24-267" eff="2023-02-23" path="§2" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-267" path="§2" codified:display="Note" app="2023-02-23" eff="2023-02-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-267" path="§2">§ 2 of Medical Marijuana Plant Count Elimination Temporary Amendment Act of 2022 (D.C. Law 24-267, Feb. 23, 2023, 69 DCR 14648)</cite>.</annotation>
+    <annotation app="2023-03-23" doc="D.C. Act 25-38" eff="2023-02-27" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2023-03-23" doc="D.C. Act 25-38" eff="2023-02-27" path="§2|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-38" path="§2|(b)" codified:display="Note" app="2023-03-23" eff="2023-02-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-38" path="§2|(b)">§ 2(b) of Medical Cannabis Clarification Emergency Amendment Act of 2023 (D.C. Act 25-38, Feb. 27, 2023, 70 DCR 2987)</cite>.</annotation>
     <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§3|(g)" type="History"/>
   </annotations>
 </section>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>39-205</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 19, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§39-205(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Administration.</heading>
   <para>
     <num>(a)</num>
@@ -30,6 +33,30 @@
       <para>
         <num>(D)</num>
         <text>Report regularly on the activities and operations of the agency to the members of the Commission.</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>In the event of a vacancy in the position of Executive Director:</text>
+      <para>
+        <num>(A)</num>
+        <text>The Commission may designate an individual to serve as interim or acting Executive Director; provided, that:</text>
+        <para>
+          <num>(i)</num>
+          <text>An individual designated as interim Executive Director is an employee of the Commission at the time the vacancy in the position of Executive Director occurs;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>An individual designated as acting Executive Director has been nominated to serve as Executive Director pursuant to paragraph (1) of this subsection; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>The total combined period of time during which the Commission relies on an interim or acting Executive Director does not exceed 180 days.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>An individual appointed to fill the vacancy shall serve for the remainder of the unexpired term.</text>
       </para>
     </para>
   </para>
@@ -146,5 +173,8 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§2112" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§2112">§ 2112 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
     <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§2112" type="History" display="false"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§2112" type="History"/>
+    <annotation app="2023-03-21" doc="D.C. Act 25-49" eff="2023-03-21" path="§2" type="History" display="false"/>
+    <annotation app="2023-03-21" doc="D.C. Act 25-49" eff="2023-03-21" path="§2" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-49" path="§2" codified:display="Note" app="2023-03-21" eff="2023-03-21">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-49" path="§2">§ 2 of Commission on the Arts and Humanities Acting Executive Director Emergency Amendment Act of 2023 (D.C. Act 25-49, Mar. 21, 2023, 70 DCR 3777)</cite>.</annotation>
   </annotations>
 </section>
