@@ -175,6 +175,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>IV</num>
+      <reason>Repealed</reason>
       <heading>Prison Industries.</heading>
       <xi:include href="./sections/24-231.01.xml"/>
       <xi:include href="./sections/24-231.02.xml"/>
@@ -191,6 +192,7 @@
       <xi:include href="./sections/24-231.13.xml"/>
       <xi:include href="./sections/24-231.14.xml"/>
       <xi:include href="./sections/24-231.15.xml"/>
+      <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§15" type="History"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -300,6 +302,7 @@
       <xi:include href="./sections/24-403.xml"/>
       <xi:include href="./sections/24-403.01.xml"/>
       <xi:include href="./sections/24-403.01a.xml"/>
+      <xi:include href="./sections/24-403.01b.xml"/>
       <xi:include href="./sections/24-403.02.xml"/>
       <xi:include href="./sections/24-403.03.xml"/>
       <xi:include href="./sections/24-403.04.xml"/>

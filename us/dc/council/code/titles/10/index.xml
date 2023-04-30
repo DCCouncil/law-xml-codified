@@ -495,6 +495,15 @@
         </annotation>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7166" type="History" display="false"/>
   </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>10C</num>
+    <heading>Free-for-use Period Products in Women's and Gender-neutral Bathrooms.</heading>
+    <annotation app="2023-02-23" doc="D.C. Law 24-250" eff="2023-02-23" path="" type="History" display="false"/>
+    <xi:include href="./sections/10-1071.xml"/>
+    <xi:include href="./sections/10-1072.xml"/>
+    <xi:include href="./sections/10-1073.xml"/>
+  </container>
   <subheading>Subtitle III. Use of Public Space.</subheading>
   <container>
     <prefix>Chapter</prefix>

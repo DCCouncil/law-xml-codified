@@ -58,8 +58,8 @@
         <text>A new paragraph (8B) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(8)" codified:doc="D.C. Code" codified:path="§6-1401|(8B)"/>
-            <num>(8B)</num>
+            <codify:insert after="(8)" codified:doc="D.C. Code" codified:path="§6-1401|[(8A)]"/>
+            <num codify:value="[(8A)]">(8B)</num>
             <text>"District-occupied building" means a building that is owned, leased, acquired or constructed by the District for exclusive use and occupancy by a District agency, department, or instrumentality.</text>
           </para>
         </include>

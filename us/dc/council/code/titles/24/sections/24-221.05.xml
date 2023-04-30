@@ -1,10 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>24-221.05</num>
-  <heading>Reporting requirement.</heading>
-  <text>The Department shall regularly inform inmates of all awards, forfeitures, and restorations of good time credits, and shall inform the Board of Parole of all persons who are expected to become eligible for release on parole within 45 days of their eligibility date, and shall inform the Board of Parole of all persons whose release on parole will become mandatory within 45 days of the date when their release on parole becomes mandatory.</text>
+  <heading proof="needed">Reporting requirement.</heading>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>The Department of Corrections shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Regularly inform incarcerated persons of all awards, forfeitures, and restorations of good time credits; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Inform the United States Parole Commission of all incarcerated persons:</text>
+      <para>
+        <num>(A)</num>
+        <text>Who are expected to become eligible for release on parole within 45 days of their eligibility date; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Whose release on parole will become mandatory within 45 days of the date when their release on parole becomes mandatory.</text>
+      </para>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 6-218" type="History" path="§7">Apr. 11, 1987, D.C. Law 6-218, § 7, 34 DCR 484</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 24-433.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§14|(d)" type="History"/>
   </annotations>
 </section>
