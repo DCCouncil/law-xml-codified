@@ -1,42 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>22-4505</num>
-  <heading>Exceptions to § 22-4504.</heading>
+  <heading proof="needed">Exceptions to § 22-4504.</heading>
   <para>
     <num>(a)</num>
-    <text>The provisions of §§ <cite path="§22-4504|(a)">22-4504(a)</cite> and <cite path="§22-4504|(a-1)">22-4504(a-1)</cite> shall not apply to:</text>
+    <text>The provisions of <cite path="§22-4504|(a)">§ 22-4504(a)</cite>, as they pertain to a pistol, and <cite path="§22-4504|(a-1)">(a-1)</cite>, shall not apply to:</text>
     <para>
       <num>(1)</num>
-      <text>Marshals, sheriffs, prison or jail wardens, or their deputies, policemen or other duly appointed law enforcement officers, including special agents of the Office of Tax and Revenue, authorized in writing by the Deputy Chief Financial Officer for the Office of Tax and Revenue to carry a firearm while engaged in the performance of their official duties, and criminal investigators of the Office of the Inspector General, designated in writing by the Inspector General, while engaged in the performance of their official duties;</text>
+      <text>A person engaged in the business of manufacturing, repairing, or dealing in firearms, or their agents, employees, and representatives, who possess, carry, or use a pistol in the ordinary course of that business; or</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Special police officers and campus police officers who carry a firearm in accordance with D.C. Official Code <cite path="§5-129.02">§ 5-129.02</cite>, and rules promulgated pursuant to that section;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Members of the Army, Navy, Air Force, or Marine Corps of the United States or of the National Guard or Organized Reserves when on duty, or to the regularly enrolled members of any organization duly authorized to purchase or receive such weapons from the United States; provided, that such members are at or are going to or from their places of assembly or target practice;</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>Officers or employees of the United States duly authorized to carry a concealed pistol;</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>Any person engaged in the business of manufacturing, repairing, or dealing in firearms, or the agent or representative of any such person having in his or her possession, using, or carrying a pistol in the usual or ordinary course of such business; and</text>
-    </para>
-    <para>
-      <num>(6)</num>
-      <text>Any person while carrying a pistol, transported in accordance with <cite path="§22-4504.02">§ 22-4504.02</cite>, from the place of purchase to his or her home or place of business or to a place of repair or back to his or her home or place of business or in moving goods from one place of abode or business to another, or to or from any lawful recreational firearm-related activity.</text>
+      <text>A person while carrying a pistol, transported in accordance with <cite path="§22-4504.02">§ 22-4504.02</cite>:</text>
+      <para>
+        <num>(A)</num>
+        <text>From the place of purchase to the person's home or place of business;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>To a place of repair, or back from that place to the person's home or place of business;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>While moving goods from one place of abode or business to another; or</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>To or from any lawful recreational firearm-related activity.</text>
+      </para>
     </para>
   </para>
   <para>
     <num>(b)</num>
-    <text>The provisions of <cite path="§22-4504|(a)">§ 22-4504(a)</cite> with respect to pistols shall not apply to a police officer who has retired from the Metropolitan Police Department, if the police officer has registered a pistol and it is concealed on or about the police officer.</text>
+    <text>The provisions of <cite path="§22-4504|(a)">§ 22-4504(a)</cite> and <cite path="§22-4504|(a-1)">(a-1)</cite> shall not apply to:</text>
+    <para>
+      <num>(1)</num>
+      <text>The concealed carrying of a firearm by a qualified law enforcement officer who is carrying the identification required by 18 U.S.C. § 926B(d);</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The concealed carrying of a firearm by a qualified retired law enforcement officer who is carrying the identification required by 18 U.S.C. § 926C(d);</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Members of the Army, Navy, Air Force, or Marine Corps of the United States, or of the National Guard or Organized Reserves when on duty and duly authorized to carry a firearm; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Officers or employees of the United States when duly authorized to carry a firearm.</text>
+    </para>
   </para>
   <para>
     <num>(c)</num>
-    <text>For the purposes of subsection (a)(6) of this section, the term “recreational firearm-related activity” includes a firearms training and safety class.</text>
+    <text>For the purposes of this section, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>"Qualified law enforcement officer" shall have the same meaning as provided in 18 U.S.C. § 926B(c) and (f).</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Qualified retired law enforcement officer" shall have the same meaning as provided in 18 U.S.C. § 926C(c) and (e)(2).</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Recreational firearm-related activity" includes a firearms training and safety class.</text>
+    </para>
   </para>
   <annotations>
     <annotation type="History" doc="Stat. 72-1-ch465" path="§5">July 8, 1932, 47 Stat. 651, ch. 465, § 5</annotation>
@@ -58,5 +86,6 @@
     <annotation type="Prior Codifications">1981 Ed., § 22-3205.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§6-223">§ 6-223</cite>.</annotation>
     <annotation type="Cross References">District of Columbia Housing Authority Police Force, applicability of this section, see <cite path="§6-258.01">§ 6-258.01</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Law 24-347" eff="2023-04-21" path="§3|(c)" type="History"/>
   </annotations>
 </section>

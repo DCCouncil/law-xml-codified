@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>22-3014</num>
-  <heading>Second degree sexual abuse of a ward, patient, client, or prisoner.</heading>
-  <text>Any staff member, employee, contract employee, consultant, or volunteer at a hospital, treatment facility, detention or correctional facility, group home, or other institution; anyone who is an ambulance driver or attendant, a bus driver or attendant, or person who participates in the transportation of a ward, patient, client, or prisoner to and from such institutions; or any official custodian of a ward, patient, client, or prisoner, who engages in a sexual contact with a ward, patient, client, or prisoner, or causes a ward, patient, client, or prisoner, to engage in or submit to a sexual contact shall be imprisoned for not more than 5 years or fined not more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or both.</text>
+  <heading proof="needed">Second degree sexual abuse of a ward, patient, client, arrestee, detainee, or prisoner.</heading>
+  <text>Any staff member, employee, contract employee, consultant, or volunteer of a law enforcement agency or at a hospital, treatment facility, law enforcement facility, detention or correctional facility, group home, or other institution; anyone who is an ambulance driver or attendant, bus driver or attendant, or person who participates in the transportation of a ward, patient, client, arrestee, detainee, or prisoner to and from such institutions; or any official custodian of a ward, patient, client, arrestee, detainee, or prisoner, who engages in a sexual contact with a ward, patient, client, arrestee, detainee, or prisoner, or causes a ward, patient, client, arrestee, detainee, or prisoner, to engage in or submit to a sexual contact shall be fined not more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or incarcerated for no more than 5 years, or both.</text>
   <annotations>
     <annotation doc="D.C. Law 10-257" type="History" path="§213">May 23, 1995, D.C. Law 10-257, § 213, 42 DCR 53</annotation>
     <annotation doc="D.C. Law 16-306" type="History">Apr. 24, 2007, D.C. Law 16-306, § 216(h), 53 DCR 8610</annotation>
@@ -16,5 +16,6 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-306">D.C. Law 16-306</cite> rewrote the section.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 22-4114.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§23-113">§ 23-113</cite> and <cite path="§24-112">§ 24-112</cite>.</annotation>
+    <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="§109|(b)" type="History"/>
   </annotations>
 </section>

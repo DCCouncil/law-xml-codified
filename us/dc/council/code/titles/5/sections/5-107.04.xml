@@ -1,16 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>5-107.04</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 22, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§5-107.04(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Duties of the Board.</heading>
   <para>
     <num>(a)</num>
     <text>The Board shall establish minimum application and appointment criteria for the Metropolitan Police Department that include the following:</text>
     <para>
       <num>(1)</num>
-      <text>That an applicant be a citizen of the United States at the time of application;</text>
+      <text>That an applicant be a citizen or national of, or person lawfully admitted for permanent residence in, the United States at the time of application;</text>
     </para>
     <para>
       <num>(2)</num>
@@ -45,16 +42,16 @@
       <text>The completion of a background investigation;</text>
     </para>
     <para>
-      <num>(9A)</num>
-      <text>If the applicant has prior service with another law enforcement or public safety agency in the District or another jurisdiction, information on any alleged or sustained misconduct or discipline imposed by that law enforcement or public safety agency;</text>
-    </para>
-    <para>
       <num>(10)</num>
-      <text>Military discharge classification information; and</text>
+      <text>Military discharge classification information;</text>
     </para>
     <para>
       <num>(11)</num>
-      <text>Information on prior service with the Metropolitan Police Department.</text>
+      <text>Information on prior service with the Metropolitan Police Department; and</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>If the applicant has prior service with another law enforcement or public safety agency in the District or another jurisdiction, information on any alleged or sustained misconduct or discipline imposed by that law enforcement or public safety agency.</text>
     </para>
   </para>
   <para>
@@ -287,8 +284,11 @@
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-149" path="§111|(c)" codified:display="Note" app="2022-08-12" eff="2022-08-12">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-149" path="§111|(c)">§ 111(c) of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2022 (D.C. Law 24-149, Aug. 12, 2022, 69 DCR 007767)</cite>.</annotation>
     <annotation app="2022-08-12" doc="D.C. Law 24-149" eff="2022-08-12" path="§111|(c)" type="History" display="false"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3052|(b)" type="History"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§109|(c)" type="History" display="false"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§109|(c)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-61" path="§109|(c)" codified:display="Note" app="2023-03-24" eff="2023-03-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-61" path="§109|(c)">§ 109(c) of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2023 (D.C. Act 25-61, Mar. 24, 2023, 70 DCR 3820)</cite>.</annotation>
+    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§109|(c)" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§111|(c)|(1)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§111|(c)|(2)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§111|(c)|(3)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§111|(c)|(4)" type="History"/>
   </annotations>
 </section>

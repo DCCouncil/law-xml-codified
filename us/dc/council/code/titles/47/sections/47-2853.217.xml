@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <prefix>§</prefix>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>47-2853.217</num>
   <heading proof="needed">Definitions.</heading>
-  <text>For purposes of this part, the term "tour guide" means a person who engages primarily in the business of guiding or directing people to any place or point of interest in the District.".</text>
-  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§47-2853.217" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-2853.217">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the creation of this section by <cite doc="D.C. Law 24-333" path="§5|(d)|(5)">§ 5(d)(5) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <text>Not Funded.</text>
   <annotations>
     <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§9|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(a)|(65)" type="History" display="false"/>
     <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(d)|(5)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(d)|(5)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the creation of this section by <cite doc="D.C. Law 24-333" path="§5|(d)|(5)">§ 5(d)(5) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-03-22" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(d)|(5)" type="History"/>

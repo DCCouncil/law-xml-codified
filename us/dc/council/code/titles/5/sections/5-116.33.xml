@@ -1,10 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>5-116.33</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 22, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§5-116.33(Perm)">Permanent Version</cite>.*
-      </text>
-  <heading>Body-Worn Camera Program; reporting requirements.</heading>
+  <heading>Body-Worn Camera Program; reporting requirements; access.</heading>
   <para>
     <num>(a)</num>
     <text>By October 1, 2015, and every 6 months thereafter, the Mayor shall collect, and make available in a publicly accessible format, data on the Metropolitan Police Department’s Body-Worn Camera Program, including:</text>
@@ -34,7 +31,7 @@
     </para>
     <para>
       <num>(7)</num>
-      <text>How many Freedom of Information Act requests the Metropolitan Police Department received for body-worn camera recordings during the reporting period, the outcome of each request, including any reasons for denial, and the cost to the department for complying with each request, including redaction; and</text>
+      <text>How many Freedom of Information Act requests the Metropolitan Police Department ("Department") received for body-worn camera recordings during the reporting period, the outcome of each request, including any reasons for denial, any costs invoiced to the requestor, the cost to the Department for complying with each request, including redaction, and the length of time between the initial request and the Department's final response; and</text>
     </para>
     <para>
       <num>(8)</num>
@@ -47,39 +44,44 @@
   </para>
   <para>
     <num>(c)</num>
+    <text>Notwithstanding any other law:</text>
     <para>
       <num>(1)</num>
-      <text>Notwithstanding any other law:</text>
+      <text>Within 5 business days after a request from the Chairperson of the Council Committee with jurisdiction over the Metropolitan Police Department ("Chairperson"), the Metropolitan Police Department shall provide unredacted copies of the requested body-worn camera recordings to the Chairperson and the Councilmember elected by the Ward in which the incident occurred. Such body-worn camera recordings shall not be publicly disclosed by the Chairperson or the Council; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Mayor:</text>
       <para>
         <num>(A)</num>
-        <text>Within 5 business days after a request from the Chairperson of the Council Committee with jurisdiction over the Metropolitan Police Department, the Metropolitan Police Department shall provide unredacted copies of the requested body-worn camera recordings to the Chairperson. Such body-worn camera recordings shall not be publicly disclosed by the Chairperson or the Council; and</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>The Mayor:</text>
+        <text>Shall, except as provided in paragraph (3) of this subsection:</text>
         <para>
           <num>(i)</num>
-          <text>Shall, except as provided in paragraph (2) of this subsection:</text>
+          <text>Within 5 business days after an officer-involved death or the serious use of force, publicly release:</text>
           <para>
             <num>(I)</num>
-            <text>Within 5 business days after an officer-involved death or the serious use of force, publicly release the names and body-worn camera recordings of all officers who committed the officer-involved death or serious use of force; and</text>
+            <text>The names and body-worn camera recordings of all officers directly involved in the officer-involved death or serious use of force; and</text>
           </para>
           <para>
             <num>(II)</num>
-            <text>By August 15, 2020, publicly release the names and body-worn camera recordings of all officers who have committed an officer-involved death since the Body-Worn Camera Program was launched on October 1, 2014; and</text>
+            <text>A description of the incident; and</text>
           </para>
         </para>
         <para>
           <num>(ii)</num>
-          <text>May, on a case-by-case basis in matters of significant public interest and after consultation with the Chief of Police, the United States Attorney's Office for the District of Columbia, and the Office of the Attorney General, publicly release any other body-worn camera recordings that may not otherwise be releasable pursuant to a FOIA request.</text>
+          <text>Maintain, on the website of the Metropolitan Police Department in a format readily accessible and searchable by the public, the names and body-worn camera recordings of all officers who were directly involved in an officer-involved death since the Body-Worn Camera Program was launched on October 1, 2014; and</text>
         </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>May, on a case-by-case basis in matters of significant public interest and after consultation with the Chief of Police, the Office of the Attorney General, and the United States Attorney's Office for the District of Columbia, publicly release any other body-worn camera recordings that may not otherwise be releasable pursuant to a FOIA request or subparagraph (A) of this paragraph.</text>
       </para>
     </para>
     <para>
-      <num>(2)</num>
+      <num>(3)</num>
       <para>
         <num>(A)</num>
-        <text>The Mayor shall not release a body-worn camera recording pursuant to paragraph (1)(B)(i) of this subsection if the following persons inform the Mayor, orally or in writing, that they do not consent to its release:</text>
+        <text>The Mayor shall not release a body-worn camera recording pursuant to paragraph (1)(A) of this subsection if the following persons inform the Mayor, orally or in writing, that they do not consent to its release:</text>
         <para>
           <num>(i)</num>
           <text>For a body-worn camera recording of an officer-involved death, the decedent's next of kin; and</text>
@@ -97,7 +99,7 @@
         </para>
         <para>
           <num>(ii)</num>
-          <text>The Superior Court of the District of Columbia shall order the release of the body-worn camera recording if it finds that the release is in the interests of justice.</text>
+          <text>The Superior Court of the District of Columbia shall order the release of the body-worn camera recording if it finds that the release is in the interest of justice.</text>
         </para>
       </para>
     </para>
@@ -107,31 +109,86 @@
     <text>Before publicly releasing a body-worn camera recording of an officer-involved death, the Metropolitan Police Department shall:</text>
     <para>
       <num>(1)</num>
-      <text>Consult with an organization with expertise in trauma and grief on best practices for creating an opportunity for the decedent's next of kin to view the body-worn camera recording in advance of its release;</text>
+      <text>Consult with an organization with expertise in trauma and grief on best practices for providing the decedent's next of kin with a reasonable opportunity view the body-worn camera recording privately in a non-law enforcement setting prior to its release; and</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Notify the decedent's next of kin of its impending release, including the date when it will be released; and</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Offer the decedent's next of kin the opportunity to view the body-worn camera recording privately in a non-law enforcement setting in advance of its release, and if the next of kin wish to so view the body-worn camera recording, facilitate its viewing.</text>
+      <text>In a manner that is informed by the consultation described in paragraph (1) of this subsection:</text>
+      <para>
+        <num>(A)</num>
+        <text>Provide actual notice to the decedent's next of kin at least 24 hours before the release, including the date on and the manner in which it will be released;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Offer the decedent's next of kin a reasonable opportunity to view the body-worn camera recording privately in a non-law enforcement setting; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>If the next of kin accepts the offer in subparagraph (B) of this paragraph, provide the decedent's next of kin a reasonable opportunity to view the body-worn camera recording privately in a non-law enforcement setting.</text>
+      </para>
     </para>
   </para>
   <para>
     <num>(e)</num>
-    <text>For the purposes of this subsection, the term:</text>
     <para>
       <num>(1)</num>
-      <text>"FOIA" means <cite path="2|5|II">subchapter II of Chapter 5 of Title 2</cite>;</text>
+      <text>Metropolitan Police Department officers shall not review their body-worn camera recordings or body-worn camera recordings that have been shared with them to assist in initial report writing.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>"Next of kin" shall mean the priority for next of kin as provided in Metropolitan Police Department General Order 401.08, or its successor directive; and</text>
+      <text>Officers shall indicate, when writing any subsequent reports, whether the officer viewed body-worn camera footage prior to writing the subsequent report and specify what body-worn camera footage the officer viewed.</text>
+    </para>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>When releasing body-worn camera recordings, the likenesses of any local, county, state, or federal government employees acting in their professional capacities, other than those acting undercover, shall not be redacted or otherwise obscured.</text>
+  </para>
+  <para>
+    <num>(g)</num>
+    <text>For the purposes of this section, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>"FOIA" means <cite path="2|5|II">subchapter II of Chapter 5 of Title 2</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Next of kin" means the priority for next of kin as provided in Metropolitan Police Department General Order 401.08, or its successor directives.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>"Serious use of force" shall have the same meaning as that term is defined in MPD General Order 901.07, or its successor directive.</text>
+      <text>"Serious use of force" means any:</text>
+      <para>
+        <num>(A)</num>
+        <text>Firearm discharges by a Metropolitan Police Department officer, with the exception of range and training incidents;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Head strikes by a Metropolitan Police Department officer with an impact weapon;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Use of force by a Metropolitan Police Department officer:</text>
+        <para>
+          <num>(i)</num>
+          <text>Resulting in serious bodily injury;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Resulting in a loss of consciousness, or that create a substantial risk of death, serious disfigurement, disability or impairment of the functioning of any body part or organ;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Involving the use of a prohibited technique, as that term is defined in <cite path="§5-125.02|(6)">§ 5-125.02(6)</cite>; and</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Resulting in a death; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Incidents in which a Metropolitan Police Department canine bites a person.</text>
+      </para>
     </para>
   </para>
   <annotations>
@@ -158,9 +215,11 @@
     <annotation app="2022-06-28" doc="D.C. Act 24-454" eff="2022-06-28" path="§103" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-149" path="§103" codified:display="Note" app="2022-08-12" eff="2022-08-12">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-149" path="§103">§ 103 of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2022 (D.C. Law 24-149, Aug. 12, 2022, 69 DCR 007767)</cite>.</annotation>
     <annotation app="2022-08-12" doc="D.C. Law 24-149" eff="2022-08-12" path="§103" type="History" display="false"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§103" type="History" display="false"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§103|(a)" type="History"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§103|(b)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-61" path="§103" codified:display="Note" app="2023-03-24" eff="2023-03-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-61" path="§103">§ 103 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2023 (D.C. Act 25-61, Mar. 24, 2023, 70 DCR 3820)</cite>.</annotation>
+    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§103" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§103|(a)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§103|(b)|(1)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§103|(b)|(2)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§103|(c)" type="History"/>
   </annotations>
 </section>

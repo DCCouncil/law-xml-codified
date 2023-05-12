@@ -243,7 +243,7 @@
           <para codify:path="(A)">
             <num>(i)</num>
             <text>Subparagraph (A) is amended by striking the phrase "The Board shall" and inserting the phrase "Except as provided in subparagraph (C) of this paragraph, the Board shall" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.05|(e)|(4)|(A)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.05|(e)|(4)">
               <find>The Board shall</find>
               <replace>Except as provided in subparagraph (C) of this paragraph, the Board shall</replace>
             </codify:find-replace>
@@ -251,7 +251,7 @@
           <para codify:path="(B)">
             <num>(ii)</num>
             <text>Subparagraph (B) is amended by striking the phrase "him or her to" and inserting the phrase "the polling place worker to" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.05|(e)|(4)|(B)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.05|(e)|(4)">
               <find>him or her to</find>
               <replace>the polling place worker to</replace>
             </codify:find-replace>
@@ -261,7 +261,7 @@
             <text>A new subparagraph (C) is added to read as follows:</text>
             <include lvl="2">
               <para>
-                <codify:insert codified:doc="D.C. Code" codified:path="§1-1001.05|(e)|(4)|(C)"/>
+                <codify:insert codified:doc="D.C. Code" codified:path="§1-1001.05|(e)|(4)"/>
                 <num>(C)</num>
                 <text>Election workers, including precinct captains and polling place workers, who are District government employees are not required to be District residents or qualified electors.</text>
               </para>

@@ -29,7 +29,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>At least 5% of the voter-verifiable records that are tabulated centrally, including absentee ballots and special ballots.</text>
+        <text>At least 5% of the voter-verifiable records that are tabulated centrally, including mail-in ballots and special ballots.</text>
       </para>
     </para>
     <para>
@@ -64,9 +64,9 @@
   <para>
     <num>(g)</num>
     <text>Individuals performing the manual audit shall:</text>
-    <para>
+    <para placeholder="Repealed">
       <num>(1)</num>
-      <text>Not be assigned to tally the results from a precinct in which that individual served as a polling place worker;</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -144,5 +144,7 @@
     <annotation doc="D.C. Law 21-160" path="§7018" type="Editor's Notes" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7018">Section 7018 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 20-273" path="§5">§ 5 of D.C. Law 20-273</cite>. Therefore the changes made to this section by D.C. Law 20-273 have been given effect.
         </annotation>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7018" type="History" display="false"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(h)|(1)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(h)|(2)" type="History"/>
   </annotations>
 </section>

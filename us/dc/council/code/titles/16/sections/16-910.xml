@@ -1,63 +1,82 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>16-910</num>
-  <heading>Assignment and equitable distribution of property.</heading>
-  <text>Upon entry of a final decree of legal separation, annulment, or divorce, or upon the termination of a domestic partnership pursuant to <cite path="§32-702|(d)">§ 32-702(d)</cite> or <cite path="§16-904|(e)">§ 16-904(e)</cite> and the filing of a petition for relief available under this section, in the absence of a valid antenuptial or postnuptial agreement resolving all issues related to the property of the parties, the court shall:</text>
+  <heading proof="needed">Assignment and equitable distribution of property.</heading>
   <para>
     <num>(a)</num>
-    <text>assign to each party his or her sole and separate property acquired prior to the marriage or domestic partnership, and his or her sole and separate property acquired during the marriage or domestic partnership by gift, bequest, devise, or descent, and any increase thereof, or property acquired in exchange therefor; and</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>value and distribute all other property and debt accumulated during the marriage or domestic partnership that has not been addressed in a valid antenuptial or postnuptial agreement or a decree of legal separation, regardless of whether title is held individually or by the parties in a form of joint tenancy or tenancy by the entireties, in a manner that is equitable, just, and reasonable, after considering all relevant factors, including, but not limited to:</text>
+    <text>Upon entry of a final decree of legal separation, annulment, or divorce, or upon the termination of a domestic partnership pursuant to § 32-702(d) or § 16-904(e) and the filing of a petition for relief available under this section, in the absence of a valid antenuptial or postnuptial agreement resolving all issues related to the property of the parties, the court shall:</text>
     <para>
       <num>(1)</num>
-      <text>the duration of the marriage or domestic partnership;</text>
+      <text>Assign to each party the party's sole and separate property acquired prior to the marriage or domestic partnership, and the party's sole and separate property acquired during the marriage or domestic partnership by gift, bequest, devise, or descent, and any increase thereof, or property acquired in exchange therefore;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>the age, health, occupation, amount, and sources of income, vocational skills, employability, assets, debts, and needs of each of the parties;</text>
+      <text>Value and distribute all other property and debt accumulated during the marriage or domestic partnership that has not been addressed in a valid antenuptial or postnuptial agreement or a decree of legal separation, regardless of whether title is held individually or by the parties in a form of joint tenancy or tenancy by the entireties, in a manner that is equitable, just, and reasonable, after considering all relevant factors, including:</text>
+      <para>
+        <num>(A)</num>
+        <text>The duration of the marriage or domestic partnership;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The age, health, occupation, amount, and sources of income, vocational skills, employability, assets, debts, and needs of each of the parties;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Provisions for the custody of minor children;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Whether the distribution is in lieu of or in addition to alimony;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Each party's obligation from a prior marriage, a prior domestic partnership, or for other children;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>The opportunity of each party for future acquisition of assets and income;</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Each party's contribution as a homemaker or otherwise to the family unit;</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>Each party's contribution to the education of the other party, which enhanced the other party's earning ability;</text>
+      </para>
+      <para>
+        <num>(I)</num>
+        <text>Each party's increase or decrease in income as a result of the marriage, the domestic partnership, or duties of homemaking and child care;</text>
+      </para>
+      <para>
+        <num>(J)</num>
+        <text>Each party's contribution to the acquisition, preservation, appreciation, dissipation, or depreciation in value of the assets that are subject to distribution, the taxability of these assets, and whether the asset was acquired or the debt incurred after separation;</text>
+      </para>
+      <para>
+        <num>(K)</num>
+        <text>The effects of taxation on the value of the assets subject to distribution; and</text>
+      </para>
+      <para>
+        <num>(L)</num>
+        <text>The circumstances that contributed to the estrangement of the parties; and</text>
+      </para>
     </para>
     <para>
       <num>(3)</num>
-      <text>provisions for the custody of minor children;</text>
+      <para>
+        <num>(A)</num>
+        <text>At the request of a party to proceedings for dissolution of marriage or for legal separation of the parties, enter an order, prior to the final determination of ownership of a pet animal, to require a party to care for the pet animal. The existence of an order providing for the care of a pet animal during the course of proceedings for dissolution of marriage or for legal separation of the parties shall not have any impact on the court's final determination of ownership of the pet animal.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The court, at the request of a party to proceedings for dissolution of marriage or for legal separation of the parties, may assign sole or joint ownership of a pet animal, taking into consideration the care and best interest of the pet animal.</text>
+      </para>
     </para>
-    <para>
-      <num>(4)</num>
-      <text>whether the distribution is in lieu of or in addition to alimony;</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>each party’s obligation from a prior marriage, a prior domestic partnership, or for other children;</text>
-    </para>
-    <para>
-      <num>(6)</num>
-      <text>the opportunity of each party for future acquisition of assets and income;</text>
-    </para>
-    <para>
-      <num>(7)</num>
-      <text>each party’s contribution as a homemaker or otherwise to the family unit;</text>
-    </para>
-    <para>
-      <num>(8)</num>
-      <text>each party’s contribution to the education of the other party which enhanced the other party’s earning ability;</text>
-    </para>
-    <para>
-      <num>(9)</num>
-      <text>each party’s increase or decrease in income as a result of the marriage, the domestic partnership, or duties of homemaking and child care;</text>
-    </para>
-    <para>
-      <num>(10)</num>
-      <text>each party’s contribution to the acquisition, preservation, appreciation, dissipation, or depreciation in value of the assets which are subject to distribution, the taxability of these assets, and whether the asset was acquired or the debt incurred after separation;</text>
-    </para>
-    <para>
-      <num>(11)</num>
-      <text>the effects of taxation on the value of the assets subject to distribution; and</text>
-    </para>
-    <para>
-      <num>(12)</num>
-      <text>the circumstances which contributed to the estrangement of the parties.</text>
-    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>For the purposes of this section, the term "pet animal" means any animal that is community property and kept as a household pet.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -78,5 +97,6 @@
     <annotation type="Prior Codifications">1973 Ed., § 16-910.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 16-910.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§19-604.13">§ 19-604.13</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Law 24-346" eff="2023-04-21" path="§5" type="History"/>
   </annotations>
 </section>

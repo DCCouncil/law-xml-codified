@@ -19,6 +19,10 @@
     <num>(4)</num>
     <text>“Forensic science services” means forensic science research, analysis, and related services, including the examination of evidence, the interpretation of results, and the provision of expert testimony, such as for the purposes of a criminal investigation or civil action.</text>
   </para>
+  <para placeholder="Not Funded">
+    <num>(4A)</num>
+    <text>Not Funded.</text>
+  </para>
   <para>
     <num>(5)</num>
     <text>“MPD” means the Metropolitan Police Department.</text>
@@ -54,5 +58,10 @@
   <annotations>
     <annotation doc="D.C. Law 19-18" type="History" path="§2">Aug. 17, 2011, D.C. Law 19-18, § 2, 58 DCR 5403</annotation>
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§501|(a)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§10|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(a)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(a)|(2)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(a)|(3)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(a)|(4)" type="History"/>
   </annotations>
 </section>

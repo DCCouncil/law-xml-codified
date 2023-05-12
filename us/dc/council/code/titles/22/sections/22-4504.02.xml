@@ -1,10 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>22-4504.02</num>
-  <heading>Lawful transportation of firearms.</heading>
+  <heading>Transportation of firearms.</heading>
   <para>
     <num>(a)</num>
-    <text>Any person who is not otherwise prohibited by the law from transporting, shipping, or receiving a firearm shall be permitted to transport a firearm for any lawful purpose from any place where he may lawfully possess and carry the firearm to any other place where he may lawfully possess and carry the firearm if the firearm is transported in accordance with this section.</text>
+    <text>A person may not transport a firearm unless the person:</text>
+    <para>
+      <num>(1)</num>
+      <text>Is not otherwise prohibited by law from transporting, shipping, or receiving the firearm;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Is transporting the firearm for a lawful purpose from a place where the person may lawfully possess and carry the firearm to another place where the person may lawfully possess and carry the firearm; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Transports the firearm in accordance with this section.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
@@ -33,10 +45,25 @@
       <text>Separate from any ammunition.</text>
     </para>
   </para>
+  <para>
+    <num>(d)</num>
+    <text>The requirements of subsection (b) of this section shall not apply to a person who has a license to carry a pistol concealed upon their person pursuant to section 6 and who is transporting the firearm concealed upon their person.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>The requirements of subsection (c) of this section shall not apply to a person who has a license to carry a pistol concealed upon their person pursuant to section 6 and who is transporting the firearm concealed upon their person.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>Prosecutions for violations of this section shall be brought by the Attorney General for the District of Columbia in the name of the District of Columbia.</text>
+  </para>
   <annotations>
     <annotation type="History" doc="Stat. 72-1-ch465" path="§4b">July 8, 1932, 47 Stat. 651, ch. 465, § 4b</annotation>
     <annotation doc="D.C. Law 17-388" type="History">as added May 20, 2009, D.C. Law 17-388, § 2(d), 56 DCR 1162</annotation>
     <annotation type="Editor's Notes">Section 3 of <cite doc="D.C. Law 17-388">D.C. Law 17-388</cite> provided: “Sec. 3. Savings clause. Nothing in section 2 shall affect any action, proceeding, or prosecution commenced before September 16, 2008. Any such action, proceeding, or prosecution shall continue, or may be enforced, in the same manner and to the same extent as if the amendments made by that section had not been made.”</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§7-2502.01">§ 7-2502.01</cite>, <cite path="§7-2502.04">§ 7-2502.04</cite>, <cite path="§7-2505.04">§ 7-2505.04</cite>, <cite path="§7-2507.05">§ 7-2507.05</cite>, <cite path="§22-4505">§ 22-4505</cite>, and <cite path="§22-4508">§ 22-4508</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Law 24-347" eff="2023-04-21" path="§3|(b)|(1)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-347" eff="2023-04-21" path="§3|(b)|(2)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-347" eff="2023-04-21" path="§3|(b)|(3)" type="History"/>
   </annotations>
 </section>

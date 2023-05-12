@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-2502.03</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on August 3, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-2502.03(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Qualifications for registration; information required for registration.</heading>
   <para>
     <num>(a)</num>
@@ -92,7 +89,15 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>Subparagraph (A) of this paragraph shall not apply if the court has granted the applicant relief pursuant to subsection (f) of this section, unless the applicant, since the court granted the applicant relief pursuant to subsection (f) of this section, is again disqualified under subparagraph (A) of this paragraph.</text>
+        <text>Subparagraph (A) of this paragraph shall not apply if:</text>
+        <para>
+          <num>(i)</num>
+          <text>For applicants disqualified as a result of a voluntary admission, commitment, incapacity determination, or adjudication that occurred in the District, the Superior Court of the District of Columbia has granted the applicant relief pursuant to subsection (f) of this section, unless the applicant, since the court granted the applicant relief pursuant to subsection (f) of this section, is again disqualified under subparagraph (A) of this paragraph; and</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>For applicants disqualified as a result of a voluntary admission, commitment, incapacity determination, or adjudication that occurred in another jurisdiction, the court or commission of competent jurisdiction has granted the applicant relief, unless the applicant, since the court or commission granted the applicant relief, is again disqualified under subparagraph (A) of this paragraph.</text>
+        </para>
       </para>
     </para>
     <para>
@@ -242,7 +247,7 @@
     <num>(f)</num>
     <para>
       <num>(1)</num>
-      <text>A person disqualified under subsection (a)(6)(A) of this section, or 18 U.S.C. § 922(g)(4) as a result of a commitment or adjudication that occurred in the District, may petition the Superior Court for the District of Columbia for relief from disqualification.</text>
+      <text>A person disqualified under subsection (a)(6)(A) of this section, 18 U.S.C. § 922(d)(4), or 18 U.S.C. § 922(g)(4) as a result of a commitment or adjudication that occurred in the District, may petition the Superior Court for the District of Columbia for relief from disqualification.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -464,8 +469,10 @@
     <annotation app="2022-03-02" doc="D.C. Law 24-87" eff="2022-03-02" path="§2|(c)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-583" path="§2|(c)" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-583" path="§2|(c)">§ 2(c) of Ghost Gun Clarification Emergency Amendment Act of 2022 (D.C. Act 24-583, Oct. 17, 2022, 69 DCR 012714)</cite>.</annotation>
     <annotation app="2022-10-17" doc="D.C. Act 24-583" eff="2022-10-17" path="§2|(c)" type="History" display="false"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-221" eff="2022-12-21" path="§2|(c)" type="History" display="false"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-221" eff="2022-12-21" path="§2|(c)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-221" path="§2|(c)" codified:display="Note" app="2022-12-21" eff="2022-12-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-221" path="§2|(c)">§ 2(c) of Ghost Gun Clarification Temporary Amendment Act of 2022 (D.C. Law 24-221, Dec. 21, 2022, 69 DCR 13966)</cite>.</annotation>
+    <annotation app="2022-12-21" doc="D.C. Law 24-221" eff="2022-12-21" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="§106|(a)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="§106|(b)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-347" eff="2023-04-21" path="§2|(d)" type="History"/>
   </annotations>
 </section>

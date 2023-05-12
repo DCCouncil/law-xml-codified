@@ -647,6 +647,14 @@
       <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="III" type="History" display="false"/>
       <xi:include href="./sections/4-571.01.xml"/>
     </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>VI</num>
+      <heading>ffice of Victim Services and Justice Grants.</heading>
+      <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="" type="History" display="false"/>
+      <xi:include href="./sections/4-581.01.xml"/>
+      <xi:include href="./sections/4-581.02.xml"/>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1132,6 +1140,7 @@
       <xi:include href="./sections/4-1321.05.xml"/>
       <xi:include href="./sections/4-1321.06.xml"/>
       <xi:include href="./sections/4-1321.07.xml"/>
+      <xi:include href="./sections/4-1321.08.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>

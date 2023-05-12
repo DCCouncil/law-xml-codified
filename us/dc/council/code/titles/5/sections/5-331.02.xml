@@ -2,16 +2,21 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>5-331.02</num>
   <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 22, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§5-331.02(Perm)">Permanent Version</cite>.*
-      </text>
-  <text>
       *NOTE: Section 201(b)(2) of D.C. Act 25-61 provides that the amendments made to this section by § 119 of D.C. Act 25-61 shall expire on October 1, 2023.*
       </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
   <para>
     <num>(1)</num>
-    <text>"Chemical irritant" means tear gas or any chemical that can rapidly produce sensory irritation or disabling physical effects in humans, which disappear within a short time following termination of exposure, or any substance prohibited by the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction, effective April 29, 1997.</text>
+    <text>"Chemical irritant" means any:</text>
+    <para>
+      <num>(A)</num>
+      <text>Chemical that can rapidly produce sensory irritation or disabling physical effects in humans, which are meant to disappear within a short time following termination of exposure, including tear gas; or</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Substance prohibited by the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction, effective April 29, 1997, for law enforcement purposes or as a method of warfare.</text>
+    </para>
   </para>
   <para>
     <num>(2)</num>
@@ -19,10 +24,22 @@
   </para>
   <para>
     <num>(3)</num>
-    <text>"Less-lethal projectiles" means any munition that may cause bodily injury or death through the transfer of kinetic energy and blunt force trauma. The term "less-lethal projectiles" includes rubber or foam-covered bullets and stun grenades.</text>
+    <text>"Less-lethal projectile" means any munition that can cause bodily injury or death through the transfer of kinetic energy and blunt force trauma, including rubber or foam-covered bullets and stun grenades.</text>
   </para>
   <para>
     <num>(4)</num>
+    <text>"Less-lethal weapons" means:</text>
+    <para>
+      <num>(A)</num>
+      <text>Chemical irritants; and</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Less-lethal projectiles.</text>
+    </para>
+  </para>
+  <para>
+    <num>(5)</num>
     <text>“MPD” means the Metropolitan Police Department.</text>
   </para>
   <annotations>
@@ -45,11 +62,11 @@
     <annotation app="2022-06-28" doc="D.C. Act 24-454" eff="2022-06-28" path="§121|(a)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-149" path="§121|(a)" codified:display="Note" app="2022-08-12" eff="2022-08-12">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-149" path="§121|(a)">§ 121(a) of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2022 (D.C. Law 24-149, Aug. 12, 2022, 69 DCR 007767)</cite>.</annotation>
     <annotation app="2022-08-12" doc="D.C. Law 24-149" eff="2022-08-12" path="§121|(a)" type="History" display="false"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§119|(a)" type="History" display="false"/>
     <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§201|(b)|(2)" type="History" display="false"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§119|(a)|(2)" type="History"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§119|(a)|(1)" type="History"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§119|(a)|(3)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-61" path="§119|(a)" codified:display="Note" app="2023-03-24" eff="2023-03-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-61" path="§119|(a)">§ 119(a) of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2023 (D.C. Act 25-61, Mar. 24, 2023, 70 DCR 3820)</cite>.</annotation>
+    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§119|(a)" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§121|(a)|(2)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§121|(a)|(1)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§121|(a)|(3)" type="History"/>
   </annotations>
 </section>

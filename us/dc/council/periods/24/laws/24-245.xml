@@ -40,7 +40,7 @@
       <para>
         <num>(1)</num>
         <text>The section designation for § 47-2887.04 is amended by striking the phrase "form; requirements." and inserting the phrase "application; requirements; reciprocal registration." in its place.</text>
-        <codify:find-replace doc="D.C. Code" path="§47-2887.04" count="1" codified:doc="D.C. Code" codified:path="§47-2887.04">
+        <codify:find-replace doc="D.C. Code" path="§47-2887.04" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-2887.04">
           <find>form; requirements.</find>
           <replace>application; requirements; reciprocal registration.</replace>
         </codify:find-replace>
@@ -48,7 +48,7 @@
       <para>
         <num>(2)</num>
         <text>The section designation for § 47-2887.09 is amended by striking the phrase "of contract" and inserting the phrase "of agency contract" in its place.</text>
-        <codify:find-replace doc="D.C. Code" path="§47-2887.09" count="1" codified:doc="D.C. Code" codified:path="§47-2887.09">
+        <codify:find-replace doc="D.C. Code" path="§47-2887.09" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-2887.09">
           <find>of contract</find>
           <replace>of agency contract</replace>
         </codify:find-replace>
@@ -56,7 +56,7 @@
       <para>
         <num>(3)</num>
         <text>The section designation for § 47-2887.16 is amended by striking the word "Administrative" and inserting the word "Civil" in its place.</text>
-        <codify:find-replace doc="D.C. Code" path="§47-2887.16" count="1" codified:doc="D.C. Code" codified:path="§47-2887.16">
+        <codify:find-replace doc="D.C. Code" path="§47-2887.16" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-2887.16">
           <find>Administrative</find>
           <replace>Civil</replace>
         </codify:find-replace>
@@ -68,7 +68,7 @@
       <para>
         <num>(5)</num>
         <text>The section designation for § 47-2887.18 is amended by striking the word "Electronic" and inserting the phrase "Relation to Electronic" in its place.</text>
-        <codify:find-replace doc="D.C. Code" path="§47-2887.18" position="first" codified:doc="D.C. Code" codified:path="§47-2887.18">
+        <codify:find-replace doc="D.C. Code" path="§47-2887.18" position="first" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-2887.18">
           <find>Electronic</find>
           <replace>Relation to Electronic</replace>
         </codify:find-replace>
@@ -713,7 +713,7 @@
           <para>
             <codify:insert codified:doc="D.C. Code" codified:path="§47-2887.10|(h)"/>
             <num>(h)</num>
-            <text>For the purposes of this section, the term "communicates or attempts" to communicate" means contacting or attempting to contact by an in-person meeting, a record, or any other method that conveys or attempts to convey a message.</text>
+            <text>For the purposes of this section, the term "communicates<span codify:value="[&quot;]"/> or <span codify:value="[&quot;]"/>attempts<span codify:value="[]">"</span> to communicate" means contacting or attempting to contact by an in-person meeting, a record, or any other method that conveys or attempts to convey a message.</text>
           </para>
         </include>
         <aftertext>.</aftertext>
@@ -1471,7 +1471,7 @@
             <prefix>§</prefix>
             <num>47-2889.01</num>
             <heading proof="needed">Definitions.</heading>
-            <text>For the purposes of <cite doc="D.C. Code" path="47|28|IV|G">this part</cite>, <code-cite doc="D.C. Code" path="§38-1631.01">the definitions in section 211 of the Uniform College Athlete Name, Image, or Likeness Act of 2022, passed on 2nd on December 6, 2022 (Enrolled version of Bill 24-455),</code-cite> shall apply.</text>
+            <text>For the purposes of <cite doc="D.C. Code" path="47|28|IV|G">this part</cite>, the definitions in <code-cite doc="D.C. Code" path="§38-1631.01">section 211 of the Uniform College Athlete Name, Image, or Likeness Act of 2022, passed on 2nd on December 6, 2022 (Enrolled version of Bill 24-455),</code-cite> shall apply.</text>
           </section>
           <section>
             <codify:insert doc="D.C. Code" path="47|28|IV|G" codified:doc="D.C. Code" codified:path="§47-2889.02"/>
@@ -1536,7 +1536,7 @@
             </para>
             <para>
               <num>(d)</num>
-              <text>A violation of <cite doc="D.C. Code" path="47|28|IV|G">this part</cite> is a violation of and enforceable under Chapter 39 of Title 28.</text>
+              <text>A violation of <cite doc="D.C. Code" path="47|28|IV|G">this part</cite> is a violation of and enforceable under <cite doc="D.C. Code" path="28|39">Chapter 39 of Title 28</cite>.</text>
             </para>
           </section>
           <section>
@@ -1565,10 +1565,10 @@
             <prefix>§</prefix>
             <num>47-2889.08</num>
             <heading proof="needed">Relation to Electronic Signatures in Global and National Commerce Act.</heading>
-            <text><cite doc="D.C. Code" path="47|28|IV|G">This subtitle</cite> modifies, limits, or supersedes the Electronic Signatures in Global and National Commerce Act, approved June 30, 2000 (114 Stat. 467; 15 U.S.C. § 7001 <em>et seq.</em>) ("Act"), but does not modify, limit, or supersede section 101(c) of that Act, (15 U.S.C. § 7001(c)), or authorize electronic delivery of any of the notices described in section 103(b) of that Act, (15 U.S.C. § 7003(b)).</text>
+            <text>This subtitle modifies, limits, or supersedes the Electronic Signatures in Global and National Commerce Act, approved June 30, 2000 (114 Stat. 467; 15 U.S.C. § 7001 <em>et seq.</em>) ("Act"), but does not modify, limit, or supersede section 101(c) of that Act, (15 U.S.C. § 7001(c)), or authorize electronic delivery of any of the notices described in section 103(b) of that Act, (15 U.S.C. § 7003(b)).</text>
             <codify:find-replace doc="D.C. Code" path="§47-2889.08" count="1" display-template="" codified:doc="D.C. Code" codified:path="§47-2889.08">
               <find>subtitle</find>
-              <replace>part</replace>
+              <replace>[part]</replace>
             </codify:find-replace>
           </section>
         </container>
