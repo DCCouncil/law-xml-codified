@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>48-653</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on August 22, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§48-653(Perm)">Permanent Version</cite>.*
+      </text>
   <heading proof="needed">Customer disclosure requirement.</heading>
   <para>
     <num undesignated="true">(a)</num>
-    <text>In addition to the price of items being selected for purchase and delivery from a restaurant through a third-party meal delivery platform, the third-party meal delivery platform shall disclose to the customer, regardless of where the restaurant is located, in plain language and in a conspicuous manner, any commission, fee, or other monetary payment to be charged to the customer by the third-party meal delivery platform ("charges"):</text>
+    <text>In addition to the price of items being selected for purchase and delivery from a restaurant through a third-party meal delivery platform, the third-party meal delivery service shall disclose to the customer, regardless of where the restaurant is located, in plain language and in a conspicuous manner, any commission, fee, or other monetary payment to be charged to the customer by the third-party meal delivery service ("charges"):</text>
     <para>
       <num>(1)</num>
       <text>The subtotal of charges on the product page along with the price of the item as each item is selected; and</text>
@@ -17,5 +20,9 @@
   <annotations>
     <annotation app="2023-03-10" doc="D.C. Law 24-292" eff="2023-03-10" path="" type="History" display="false"/>
     <annotation app="2023-03-10" doc="D.C. Law 24-292" eff="2023-03-10" path="§4" type="History"/>
+    <annotation app="2023-05-24" doc="D.C. Act 25-108" eff="2023-05-24" path="§2|(d)" type="History" display="false"/>
+    <annotation app="2023-05-24" doc="D.C. Act 25-108" eff="2023-05-24" path="§2|(d)|(1)" type="History"/>
+    <annotation app="2023-05-24" doc="D.C. Act 25-108" eff="2023-05-24" path="§2|(d)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-108" path="§2|(d)" codified:display="Note" app="2023-05-24" eff="2023-05-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-108" path="§2|(d)">§ 2(d) of Food Delivery Fees Transparency Emergency Amendment Act of 2023 (D.C. Act 25-108, May 24, 2023,  DCR )</cite>.</annotation>
   </annotations>
 </section>
