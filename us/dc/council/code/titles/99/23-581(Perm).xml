@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <num>23-581</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on September 25, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§23-581(Perm)">Permanent Version</cite>.*
-      </text>
+  <num>23-581(Perm)</num>
   <heading>Arrests without warrant by law enforcement officers.</heading>
   <para>
     <num>(a)</num>
@@ -165,12 +162,12 @@
             <td>section 9(b-1) (D.C. Official Code <cite path="§50-2201.04|(b-1)">§ 50-2201.04(b-1)</cite>)</td>
           </tr>
           <tr>
-            <td>Leaving after colliding</td>
-            <td>section 10c <cite path="§50-2201.05c">(D.C. Official Code § 50-2201.05c)</cite></td>
+            <td>Fleeing from the scene of an accident</td>
+            <td>section 10(a) (D.C. Official Code <cite path="§50-2201.05|(a)" proof="true">§ 50-2201.05(a)</cite>)</td>
           </tr>
           <tr>
             <td>Operating or physically controlling a vehicle when under the influence of intoxicating liquor or drugs, when operating ability is impaired by intoxicating liquor, or when the operator's blood, breath, or urine contains the amount of alcohol which is prohibited by section 10(b)</td>
-            <td>section 10(b) (D.C. Official Code <cite path="§50-2201.05|(b)" proof="true">§ 50-2201.05(b)</cite>) [Repealed]</td>
+            <td>section 10(b) (D.C. Official Code <cite path="§50-2201.05|(b)" proof="true">§ 50-2201.05(b)</cite>)</td>
           </tr>
           <tr>
             <td>Operating a motor vehicle when the operator's permit is revoked or suspended</td>
@@ -190,7 +187,7 @@
   </para>
   <para>
     <num>(a-3)</num>
-    <text>A law enforcement officer may arrest a person without a warrant if the officer has probable cause to believe the person has committed an offense as provided in §§ <cite path="§22-3312.01">[22-3312.01]</cite> and <cite path="§22-3312.02">[22-3312.02]</cite>.</text>
+    <text>A law enforcement officer may arrest a person without a warrant if the officer has probable cause to believe the person has committed an offense as provided in sections 22-3312.01 and 22-3312.02.</text>
   </para>
   <para>
     <num>(a-4)</num>
@@ -246,6 +243,8 @@
     <annotation doc="D.C. Law 19-316" type="History">June 8, 2013, D.C. Law 19-316, § 5, 60 DCR 1713</annotation>
     <annotation doc="D.C. Law 19-320" type="History">June 19, 2013, D.C. Law 19-320, § 202, 60 DCR 3390</annotation>
     <annotation doc="D.C. Law 20-243" type="History">Apr. 24, 2015, D.C. Law 20-243, § 2(a)(3), 61 DCR 8320</annotation>
+    <annotation doc="D.C. Law 24-341" type="History">Apr. 6, 2023, D.C. Law 24-341, § 110(b), 69 DCR 14698</annotation>
+    <annotation doc="D.C. Law 24-345" type="History">Apr. 21, 2023, D.C. Law 24-345, § 107, 70 DCR 953</annotation>
     <annotation type="Editor's Notes">Section 8 of <cite doc="D.C. Law 19-316">D.C. Law 19-316</cite> provided that the act shall apply as of June 1, 2013.</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 5 of the Reckless Driving Emergency Act of 2013 (D.C. Act 20-75, May 23, 2013,  60 DCR 7597, 20 DCSTAT 1428).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 202 of the Omnibus Criminal Code Amendment Congressional Review Emergency Act of 2013 (D.C. Act 20-44, April 1, 2013,  60 DCR 5381, 20 DCSTAT 1281).</annotation>
@@ -279,31 +278,5 @@
     <annotation type="Cross References">Unauthorized use of motor vehicles, see <cite path="§22-3215">§ 22-3215</cite>.</annotation>
     <annotation type="Cross References">Theft, see <cite path="§22-3211">§ 22-3211</cite>.</annotation>
     <annotation type="Cross References">Receiving stolen property, see <cite path="§22-3232">§ 22-3232</cite>.</annotation>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-336" path="§109" codified:display="Note" app="2020-07-22" eff="2020-07-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-336" path="§109">§ 109 of Comprehensive Policing and Justice Reform Second Emergency Amendment Act of 2020 (D.C. Act 23-336, July 22, 2020, 67 DCR 9148)</cite>.</annotation>
-    <annotation app="2020-07-22" doc="D.C. Act 23-336" eff="2020-07-22" path="§109" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-437" path="§109" codified:display="Note" app="2020-10-28" eff="2020-10-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-437" path="§109">§ 109 of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-437, Oct. 28, 2020, 67 DCR 12993)</cite>.</annotation>
-    <annotation app="2020-10-28" doc="D.C. Act 23-437" eff="2020-10-28" path="§109" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-151" path="§109" codified:display="Note" app="2020-12-03" eff="2020-12-03">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-151" path="§109">§ 109 of Comprehensive Policing and Justice Reform Second Temporary Amendment Act of 2020 (D.C. Law 23-151, Dec. 3, 2020, 67 DCR 9920)</cite>.</annotation>
-    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§109" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-76" path="§109" codified:display="Note" app="2021-05-03" eff="2021-05-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-76" path="§109">§ 109 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-76, May 3, 2021, 68 DCR 004935)</cite>.</annotation>
-    <annotation app="2021-05-03" doc="D.C. Act 24-76" eff="2021-05-03" path="§109" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-128" path="§109" codified:display="Note" app="2021-07-29" eff="2021-07-29">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-128" path="§109">§ 109 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-128, July 29, 2021, 68 DCR 007656)</cite>.</annotation>
-    <annotation app="2021-07-29" doc="D.C. Act 24-128" eff="2021-07-29" path="§109" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-23" path="§109" codified:display="Note" app="2021-09-03" eff="2021-09-03">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-23" path="§109">§ 109 of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2021 (D.C. Law 24-23, Sept. 3, 2021, 68 DCR 005837)</cite>.</annotation>
-    <annotation app="2021-09-03" doc="D.C. Law 24-23" eff="2021-09-03" path="§109" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-370" path="§109" codified:display="Note" app="2022-04-07" eff="2022-04-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-370" path="§109">§ 109 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2022 (D.C. Act 24-370, Apr. 7, 2022, 0 DCR 0)</cite>.</annotation>
-    <annotation app="2022-04-07" doc="D.C. Act 24-370" eff="2022-04-07" path="§109" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-454" path="§109" codified:display="Note" app="2022-06-28" eff="2022-06-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-454" path="§109">§ 109 of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-454, June 28, 2022, 69 DCR 007767)</cite>.</annotation>
-    <annotation app="2022-06-28" doc="D.C. Act 24-454" eff="2022-06-28" path="§109" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-149" path="§109" codified:display="Note" app="2022-08-12" eff="2022-08-12">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-149" path="§109">§ 109 of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2022 (D.C. Law 24-149, Aug. 12, 2022, 69 DCR 007767)</cite>.</annotation>
-    <annotation app="2022-08-12" doc="D.C. Law 24-149" eff="2022-08-12" path="§109" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-61" path="§107" codified:display="Note" app="2023-03-24" eff="2023-03-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-61" path="§107">§ 107 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2023 (D.C. Act 25-61, Mar. 24, 2023, 70 DCR 3820)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§107" type="History" display="false"/>
-    <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="§110|(b)" type="History"/>
-    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§107" type="History"/>
-    <annotation app="2023-06-27" doc="D.C. Act 25-129" eff="2023-06-27" path="§2" type="History" display="false"/>
-    <annotation app="2023-06-27" doc="D.C. Act 25-129" eff="2023-06-27" path="§2|(1)" type="History"/>
-    <annotation app="2023-06-27" doc="D.C. Act 25-129" eff="2023-06-27" path="§2|(2)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-129" path="§2" codified:display="Note" app="2023-06-27" eff="2023-06-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-129" path="§2">§ 2 of Law Enforcement Arrest Authority Technical Correction Emergency Amendment Act of 2023 (D.C. Act 25-129, June 27, 2023, 70 DCR 7944)</cite>.</annotation>
   </annotations>
 </section>
