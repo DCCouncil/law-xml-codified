@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <num>6-1451.02</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 8, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§6-1451.02(Perm)">Permanent Version</cite>.*
-      </text>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <num>6-1451.02(Perm)</num>
   <heading>Publicly-owned, leased, and financed buildings and projects.</heading>
   <para>
     <num>(a)</num>
@@ -52,17 +49,17 @@
           </para>
           <para>
             <num>(II)</num>
-            <text>Upon receipt, DOEE shall make the benchmark and Energy Star® statements available to the public via an online database accessible through the DOEE website; and</text>
+            <text>Upon receipt, DOEE shall make the benchmark and Energy Star® statements available to the public via an online database accessible through the DOEE website;</text>
           </para>
         </para>
       </para>
       <para>
         <num>(C)</num>
-        <text>Institute building systems monitoring and maintenance accountability methods upon receipt of a certificate of occupancy.</text>
+        <text>Institute building systems monitoring and maintenance accountability methods upon receipt of a certificate of occupancy; and</text>
       </para>
-      <para placeholder="Not Funded">
+      <para>
         <num>(D)</num>
-        <text>Not Funded.</text>
+        <text>Maintain net zero energy compliance.</text>
       </para>
     </para>
     <para>
@@ -70,23 +67,15 @@
       <text>If a residential project includes 10,000 square feet of gross floor area or more, the residential project shall:</text>
       <para>
         <num>(A)</num>
-        <text>Fulfill or exceed the current edition of the Green Communities standard, or a substantially similar standard; and</text>
+        <text>Fulfill or exceed the current edition of the Green Communities standard, or a substantially similar standard;</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>Submit to DCRA a copy of the standard’s self-certification checklist and a verification of meeting the standard’s requirements for energy efficiency, as part of the application for a certificate of occupancy.</text>
+        <text>Submit to DCRA a copy of the standard’s self-certification checklist and a verification of meeting the standard’s requirements for energy efficiency, as part of the application for a certificate of occupancy; and</text>
       </para>
       <para>
         <num>(C)</num>
-        <text>Maintain net zero energy compliance; except, that:</text>
-        <para>
-          <num>(1)</num>
-          <text>This subparagraph shall not apply to residential projects selected by the District or a District instrumentality for financing or land disposition for the purposes of providing rent or income-restricted affordable housing for tenants with designated household annual incomes if the District commits such assistance prior to December 31, 2023; and</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Nothing in this subparagraph shall be interpreted to allow housing projects to violate any other building energy mandate, including <cite path="§6-1453.01">§ 6-1453.01</cite>(b).</text>
-        </para>
+        <text>Maintain net zero energy compliance.</text>
       </para>
     </para>
     <para>
@@ -123,7 +112,7 @@
     </para>
     <para>
       <num>(6)</num>
-      <text>An applicant for new construction or substantial improvement of a mixed-use space shall fulfill or exceed the current edition of the LEED standard for commercial and institutional buildings at the certified level for the mixed-use space of the project. Any requirements of <cite path="§6-1451.05">§ 6-1451.05</cite> shall apply to the mixed-use space of the project. For the purposes of mixed-use space in this paragraph, the term:</text>
+      <text>An applicant for new construction or substantial improvement of a mixed-use space shall maintain net zero energy compliance and fulfill or exceed the current edition of the LEED standard for commercial and institutional buildings at the certified level for the mixed-use space of the project. Any requirements of <cite path="§6-1451.05">§ 6-1451.05</cite> shall apply to the mixed-use space of the project. For the purposes of mixed-use space in this paragraph, the term:</text>
       <para>
         <num>(A)</num>
         <text>“LEED” also includes LEED for Commercial Interiors and LEED for Retail: Commercial Interiors; and</text>
@@ -133,7 +122,7 @@
         <text>“Certificate of occupancy” refers to the first certificate of occupancy issued for a usable, habitable space at grade or above grade for the mixed-use space of the project.</text>
       </para>
     </para>
-    <para placeholder="Not Funded">
+    <para>
       <num>(7)</num>
       <text>Not Funded.</text>
     </para>
@@ -194,6 +183,8 @@
     <annotation doc="D.C. Law 18-209" type="History">July 27, 2010, D.C. Law 18-209, § 504(a), 57 DCR 4779</annotation>
     <annotation doc="D.C. Law 18-349" type="History">Mar. 31, 2011, D.C. Law 18-349, § 2(b), 58 DCR 724</annotation>
     <annotation doc="D.C. Law 19-139" type="History">June 5, 2012, D.C. Law 19-139, § 2(b), 59 DCR 2555</annotation>
+    <annotation doc="D.C. Law 21-160" path="§6044" type="History">Oct. 8, 2016, D.C. Law 21-160, § 6044(b), 63 DCR 10775</annotation>
+    <annotation doc="D.C. Law 24-306" path="§2" type="History">Mar. 10, 2023, D.C. Law 24-306, § 2, 70 DCR 658</annotation>
     <annotation type="Delegation of Authority">Delegation of Authority—Green Building Act of 2006, see Mayor’s Order 2010-1, January 15, 2010 ( 57 DCR 641).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2(b) of Green Building Compliance Emergency Amendment Act of 2011 (D.C. Act 19-257, December 21, 2011,  58 DCR 11222).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2(1) of Green Building Technical Corrections Emergency Amendment Act of 2011 (D.C. Act 19-164, October 11, 2011,  58 DCR 8894).</annotation>
@@ -206,20 +197,5 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-209">D.C. Law 18-209</cite>, in subsec. (b)(1)(C)(iii), inserted “Notwithstanding the foregoing sentence, the District shall meet LEED for Schools certification at the Gold level or higher if sufficient funding for the construction or renovation is provided.”</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-250">D.C. Law 17-250</cite> added subsec. (a-1).</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§6-1451.04">§ 6-1451.04</cite>, <cite path="§6-1451.05">§ 6-1451.05</cite>, and <cite path="§6-1451.10">§ 6-1451.10</cite>.</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6044|(b)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-306" eff="2023-03-10" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-306" eff="2023-03-10" path="§2|(a)|(1)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-306" eff="2023-03-10" path="§2|(a)|(2)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-306" eff="2023-03-10" path="§2|(a)|(3)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-306" eff="2023-03-10" path="§2|(b)|(1)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-306" eff="2023-03-10" path="§2|(b)|(2)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-306" eff="2023-03-10" path="§2|(b)|(3)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-306" eff="2023-03-10" path="§2|(c)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-306" eff="2023-03-10" path="§2|(d)" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-306" path="§2" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-306" path="">D.C. Law 24-306</cite>: <cite doc="D.C. Law 24-306" path="§4">§ 4 of D.C. Law 24-306</cite> provided that the change made to this section by <cite doc="D.C. Law 24-306" path="§2">§ 2 of D.C. Law 24-306</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2023-03-10" doc="D.C. Law 24-306" eff="2023-03-10" path="§2" type="History"/>
-    <annotation app="2023-07-10" doc="D.C. Act 25-164" eff="2023-07-10" path="§2" type="History" display="false"/>
-    <annotation app="2023-07-10" doc="D.C. Act 25-164" eff="2023-07-10" path="§2" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-164" path="§2" codified:display="Note" app="2023-07-10" eff="2023-07-10">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-164" path="§2">§ 2 of Green Housing Transition Emergency Amendment Act of 2023 (D.C. Act 25-164, July 10, 2023, 00 DCR 0000)</cite>.</annotation>
   </annotations>
 </section>
