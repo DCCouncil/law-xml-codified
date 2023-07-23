@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-2851.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 12, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§38-2851.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading proof="needed">DCPS's annual budget.</heading>
   <para>
     <num>(a)</num>
@@ -175,6 +178,18 @@
     <text>No later than October 30 of each year, the Mayor shall submit to the Council a revised appropriated funds operating budget for DCPS for the fiscal year beginning on the preceding October 1 that sets forth the total amount of the approved appropriation and that realigns budgeted data with anticipated actual expenditures with the specification set forth in of subsections (a), (b), and (c) of this section.</text>
   </para>
   <para>
+    <num>(g-1)</num>
+    <text>Beginning with the year-end closing period for Fiscal Year 2023 and annually during the year-end closing period thereafter, the Chief Financial Officer shall charge DCPS's advance expenditures against its lapsed appropriations until either:</text>
+    <para>
+      <num>(1)</num>
+      <text>The total value of the advanced expenditures is fully offset by lapsed appropriations; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The balance of lapsed appropriations is less than 0.05% of the local fund appropriations for DCPS for the closing fiscal year.</text>
+    </para>
+  </para>
+  <para>
     <num>(h)</num>
     <text>For the purposes of this section:</text>
     <para>
@@ -259,5 +274,11 @@
     <annotation app="2023-03-10" doc="D.C. Act 24-722" eff="2023-01-10" path="§103" type="History" display="false"/>
     <annotation app="2023-03-10" doc="D.C. Law 24-300" eff="2023-03-10" path="" type="History" display="false"/>
     <annotation app="2023-03-10" doc="D.C. Law 24-300" eff="2023-03-10" path="§103" type="History"/>
+    <annotation app="2023-07-14" doc="D.C. Act 25-172" eff="2023-07-14" path="§4202|(b)" type="History" display="false"/>
+    <annotation app="2023-07-14" doc="D.C. Act 25-172" eff="2023-07-14" path="§4202|(b)" type="History"/>
+    <annotation doc="D.C. Act 25-172" path="§4202|(b)" type="Applicability" history="false" app="2023-07-14" eff="2023-07-14">
+            Section 4203 of D.C. Act 25-172 provided that the changes made to this section by section 4202(b) D.C. Act 25-172 shall apply as of July 1, 2023.
+          </annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-172" path="§4202|(b)" codified:display="Note" app="2023-07-14" eff="2023-07-14">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-172" path="§4202|(b)">§ 4202(b) of Fiscal Year 2024 Budget Support Emergency Act of 2023 (D.C. Act 25-172, July 14, 2023, 70 DCR 2957)</cite>.</annotation>
   </annotations>
 </section>

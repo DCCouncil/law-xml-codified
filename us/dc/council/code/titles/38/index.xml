@@ -1237,6 +1237,13 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>II-A</num>
+      <heading>Public Charter School Teacher Compensation.</heading>
+      <annotation app="2023-07-14" doc="D.C. Act 25-172" eff="2023-07-14" path="IV" type="History" display="false"/>
+      <xi:include href="./sections/38-1834.01.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Evaluation of Authorizing Boards.</heading>
       <xi:include href="./sections/38-1835.01.xml"/>

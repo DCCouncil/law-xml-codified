@@ -239,7 +239,7 @@
           <num>(2)</num>
           <text>Amendatory section 5120(b)(1)(C) of the Not-For-Profit Hospital Corporation Establishment Amendment Act of 2011, effective September 14, 2011 (D.C. Law 19-21; D.C. Official Code § 44-951.09(b)(1)(C)), is amended by striking the phrase "thereafter.." and inserting the phrase "thereafter." in its place.</text>
         </para>
-        <codify:find-replace doc="D.C. Code" path="§44-951.09|(b)|(1)|(C)" count="1" codified:doc="D.C. Code" codified:path="§44-951.09|(b)|(1)|(C)">
+        <codify:find-replace doc="D.C. Code" path="§44-951.09|(b)|(1)|(C)" count="1" codified:doc="D.C. Code" codified:path="§44-951.09|(b)|(1)">
           <find>thereafter[.]</find>
           <replace>thereafter.</replace>
         </codify:find-replace>

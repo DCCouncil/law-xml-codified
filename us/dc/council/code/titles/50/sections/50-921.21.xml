@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-921.21</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 12, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§50-921.21(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 12, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§50-921.21(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Congestion management studies.</heading>
   <para>
     <num>(a)</num>
@@ -70,6 +76,29 @@
       <text>An analysis of the potential benefits of regional collaboration.</text>
     </para>
   </para>
+  <para>
+    <num>(c)</num>
+    <para>
+      <num>(1)</num>
+      <text>By October 1, 2023, DDOT shall execute a contract for a study that updates the findings of the study conducted pursuant to subsection (b) of this section (the "prior study").</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The contract entered into pursuant to paragraph (1) of this subsection shall:</text>
+      <para>
+        <num>(A)</num>
+        <text>Ensure that the study is developed in consultation with entities with expertise in transportation, including the organization that contracted for the prior study;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Ensure that the study utilizes the same methodology as the prior study, except for any updates necessary to account for changes in commuting patterns since completion of the prior study; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Require the contracting party to transmit the study to the Council and the Chair of the Council Committee with oversight of DDOT by January 1, 2024, but not otherwise limit the contracting party's ability to share the study or any research conducted while developing the study; except, that DDOT may include provisions in the contract limiting references in the study to the District government, and may include a requirement that the study specify that the findings are not attributable to the District government.</text>
+      </para>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 14-137" type="History" path="§9m">May 21, 2002, D.C. Law 14-137, §  9m</annotation>
     <annotation doc="D.C. Law 21-36" type="History">as added Oct. 22, 2015, D.C. Law 21-36, § 6112, 62 DCR 10905</annotation>
@@ -81,5 +110,16 @@
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§6113|(a)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§6113|(b)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§6113|(c)" type="History"/>
+    <annotation app="2023-07-14" doc="D.C. Act 25-172" eff="2023-07-14" path="§6042" type="History" display="false"/>
+    <annotation app="2023-07-14" doc="D.C. Act 25-172" eff="2023-07-14" path="§6043" type="History" display="false"/>
+    <annotation app="2023-07-14" doc="D.C. Act 25-172" eff="2023-07-14" path="§6042" type="History"/>
+    <annotation doc="D.C. Act 25-172" path="§6042" type="Applicability" history="false" app="2023-07-14" eff="2023-07-14">
+          Section 6044 of D.C. Act 25-172 provided that the amendments to this section by § 6042 of D.C. Act 25-172 shall apply as of July 14, 2023.
+        </annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-172" path="§6042" codified:display="Note" app="2023-07-14" eff="2023-07-14">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-172" path="§6042">§ 6042 of Fiscal Year 2024 Budget Support Emergency Act of 2023 (D.C. Act 25-172, July 14, 2023, 70 DCR 2957)</cite>.</annotation>
+    <annotation doc="D.C. Act 25-172" path="§6043" type="Applicability" history="false" app="2023-07-14" eff="2023-07-14">
+          Section 6044 of D.C. Act 25-172 provided that the amendments to this section by § 6043 of D.C. Act 25-172 shall apply as of July 14, 2023.
+        </annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-172" path="§6043" codified:display="Note" app="2023-07-14" eff="2023-07-14">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-172" path="§6043">§ 6043 of Fiscal Year 2024 Budget Support Emergency Act of 2023 (D.C. Act 25-172, July 14, 2023, 70 DCR 2957)</cite>.</annotation>
   </annotations>
 </section>
