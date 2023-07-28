@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>23-1903</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 18, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§23-1903(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Crime victim privacy and security.</heading>
   <para>
     <num>(a)</num>
@@ -16,9 +19,13 @@
   </para>
   <para>
     <num>(d)</num>
-    <text>In a proceeding in which a child is called to give testimony, on motion by the attorney for the government or the victim’s legal or court-appointed representative, or on its own motion, the court may designate the case as being of special public importance. In cases so designated, the court shall expedite the proceeding and ensure that it takes precedence over any other. The court shall ensure a speedy trial in order to minimize the length of time the child must be involved with the criminal justice system. When deciding whether to grant a continuance, the court shall take into consideration the age of the child and the potential adverse impact the delay may have on the child’s well-being. The court shall make written findings of fact and conclusions of law when granting a continuance in cases involving a child witness.</text>
+    <text>In a proceeding in which a child is a victim or is called to give testimony, on motion by the attorney for the government or the victim’s legal or court-appointed representative, or on its own motion, the court may designate the case as being of special public importance. In cases so designated, the court shall expedite the proceeding and ensure that it takes precedence over any other. The court shall ensure a speedy trial in order to minimize the length of time the child must be involved with the criminal justice system. When deciding whether to grant a continuance, the court shall take into consideration the age of the child and the potential adverse impact the delay may have on the child’s well-being. The court shall make written findings of fact and conclusions of law when granting a continuance in cases involving a child victim or child witness.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 13-301" type="History">June 8, 2001, D.C. Law 13-301, § 302(b), 47 DCR 7039</annotation>
+    <annotation app="2023-07-20" doc="D.C. Act 25-175" eff="2023-07-20" path="§7|(e)" type="History" display="false"/>
+    <annotation app="2023-07-20" doc="D.C. Act 25-175" eff="2023-07-20" path="§7|(e)|(1)" type="History"/>
+    <annotation app="2023-07-20" doc="D.C. Act 25-175" eff="2023-07-20" path="§7|(e)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-175" path="§7|(e)" codified:display="Note" app="2023-07-20" eff="2023-07-20">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-175" path="§7|(e)">§ 7(e) of Prioritizing Public Safety Emergency Amendment Act of 2023 (D.C. Act 25-175, July 20, 2023, 00 DCR 0000)</cite>.</annotation>
   </annotations>
 </section>
