@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-1671.05</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 29, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§7-1671.05(Perm)">Permanent Version</cite>.*
+      </text>
   <heading proof="needed">Medical cannabis program.</heading>
   <para>
     <num>(a)</num>
@@ -37,11 +40,11 @@
       <num>(4)</num>
       <para>
         <num>(A)</num>
-        <text>As part of the registration process, permit a non-resident qualifying patient visiting the District of Columbia to apply to ABCA to receive a temporary non-resident registration identification card, which shall be valid for 30 days; and</text>
+        <text>As part of the registration process, permit a non-resident qualifying patient visiting the District of Columbia to apply to ABCA to receive a temporary non-resident registration identification card, which shall be valid for periods established by the ABC Board by rulemaking, which are between 3 days and no longer than one year in length; and</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>After the expiration of a temporary non-resident registration identification card, permit a non-resident qualifying patient to apply to ABCA to be issued another 30-day temporary non-resident identification card.</text>
+        <text>After the expiration of a temporary non-resident registration identification card, permit a non-resident qualifying patient to apply to ABCA to be issued another  temporary non-resident identification card.</text>
       </para>
     </para>
     <para>
@@ -57,7 +60,7 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>The ABC Board may, by rule, establish license and registration periods and fees under the section that are valid for one year, 2 years, or 3 years.</text>
+        <text>The ABC Board may, by rule, establish license and registration periods and fees under the section that are valid for one year, 2 years, or 3 years, except for temporary non-resident registration identification cards that are valid for periods established by the ABC Board by rulemaking, which shall be between 3 days and no longer than one year in length.</text>
       </para>
     </para>
     <para>
@@ -190,6 +193,18 @@
       <para>
         <num>(E)</num>
         <text>Any other information that the ABC Board may require through rulemaking;</text>
+      </para>
+    </para>
+    <para>
+      <num>(11A)</num>
+      <text>Allow testing laboratories to:</text>
+      <para>
+        <num>(A)</num>
+        <text>Receive and test samples of medical cannabis products from qualifying patients; provided, that the qualifying patient must present proof that he or she is currently registered, and that the medical cannabis product was purchased from a retailer or internet retailer licensed with ABCA.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Receive and test samples of medical cannabis products from licensed cultivation centers or manufacturers for purposes of quality assurance or research and development. Samples collected for quality assurance or research and development testing may be selected by the cultivation center or manufacturer non-randomly. Any tests conducted for purposes of quality assurance or research and development shall not satisfy the requirements of paragraphs (8) through (11) of this subsection.</text>
       </para>
     </para>
     <para>
@@ -372,11 +387,14 @@
     <annotation app="2022-09-21" doc="D.C. Law 24-187" eff="2022-09-21" path="§2|(b)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-565" path="§2|(d)" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-565" path="§2|(d)">§ 2(d) of Medical Marijuana Patient Access Extension Second Emergency Amendment Act of 2022 (D.C. Act 24-565, Oct. 17, 2022, 0 DCR 0)</cite>.</annotation>
     <annotation app="2022-10-17" doc="D.C. Act 24-565" eff="2022-10-17" path="§2|(d)" type="History" display="false"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-229" eff="2022-12-21" path="§2|(d)" type="History" display="false"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-229" eff="2022-12-21" path="§2|(d)|(1)" type="History"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-229" eff="2022-12-21" path="§2|(d)|(2)" type="History"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-229" eff="2022-12-21" path="§2|(d)|(3)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-229" path="§2|(d)" codified:display="Note" app="2022-12-21" eff="2022-12-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-229" path="§2|(d)">§ 2(d) of Medical Marijuana Patient Access Extension Second Temporary Amendment Act of 2022 (D.C. Law 24-229, Dec. 21, 2022, 69 DCR 13901)</cite>.</annotation>
+    <annotation app="2022-12-21" doc="D.C. Law 24-229" eff="2022-12-21" path="§2|(d)" type="History" display="false"/>
     <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§3|(e)" type="History"/>
+    <annotation app="2023-07-31" doc="D.C. Act 25-194" eff="2023-07-31" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2023-07-31" doc="D.C. Act 25-194" eff="2023-07-31" path="§2|(b)|(1)|(A)" type="History"/>
+    <annotation app="2023-07-31" doc="D.C. Act 25-194" eff="2023-07-31" path="§2|(b)|(1)|(B)" type="History"/>
+    <annotation app="2023-07-31" doc="D.C. Act 25-194" eff="2023-07-31" path="§2|(b)|(2)" type="History"/>
+    <annotation app="2023-07-31" doc="D.C. Act 25-194" eff="2023-07-31" path="§2|(b)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-194" path="§2|(b)" codified:display="Note" app="2023-07-31" eff="2023-07-31">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-194" path="§2|(b)">§ 2(b) of Medical Cannabis Clarification and Non-Resident Patient Access Emergency Amendment Act of 2023 (D.C. Act 25-194, July 31, 2023, 70 DCR 10733)</cite>.</annotation>
   </annotations>
 </section>

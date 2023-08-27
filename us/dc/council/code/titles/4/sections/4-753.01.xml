@@ -2,10 +2,10 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-753.01</num>
   <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on August 3, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-753.01(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 29, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-753.01(Perm)">Permanent Version</cite>.*
       </text>
   <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on July 23, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-753.01(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 29, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-753.01(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Continuum of Care for individuals and families who are homeless.</heading>
   <para>
@@ -52,7 +52,54 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>Rapid Re-Housing programs for the purpose of providing housing relocation and stabilization services and time-limited rental assistance to help a homeless individual or family move as quickly as possible into permanent housing and achieve stability in that housing.</text>
+        <para>
+          <num>(i)</num>
+          <text>Rapid Re-Housing programs for the purpose of providing housing relocation and stabilization services and time-limited rental assistance to help a homeless individual or family move as quickly as possible into permanent housing and achieve stability in that housing.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The Department, or the Department's designee, shall consider requests for Family Re-Housing Stabilization Program ("FRSP") assistance extending past 12 months if:</text>
+          <para>
+            <num>(I)</num>
+            <text>There is funding available within FRSP;</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>The participant has requested an extension in writing;</text>
+          </para>
+          <para>
+            <num>(III)</num>
+            <text>The participant has made a good faith effort towards the achievement of goals set forth in an individualized plan with the aim of a targeted progression towards exit from the supports of FRSP, as observed by the service provider at consistent intervals, but cannot yet sustain housing stability independently of FRSP; and</text>
+          </para>
+          <para>
+            <num>(IV)</num>
+            <text>The participant has not yet been approved for permanently affordable housing.</text>
+          </para>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>When making a determination of whether to grant a participant in FRSP an extension beyond 12 months, the Department or Department's designee shall:</text>
+          <para>
+            <num>(I)</num>
+            <text>Consider the totality of the circumstances; and</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>Grant extensions of time in increments not greater than 6 months, with regular formal reviews every 3 months to ensure that participants are given the support necessary to exit FRSP with stable housing."</text>
+          </para>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>If a requested extension of FRSP assistance by a participant is denied, the participant shall be given 30 days written notice prior to the final subsidy payment explicitly setting forth the reason for the denial of additional assistance and inform the participant that the FRSP participant has a right to:</text>
+          <para>
+            <num>(I)</num>
+            <text>Appeal the determination through a fair hearing and administrative review, including deadlines for requesting an appeal; and</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>The continuation of FRSP services pending the outcome of any fair hearing requested within 15 days of receipt of written notice of a termination.</text>
+          </para>
+        </para>
       </para>
     </para>
     <para>
@@ -82,7 +129,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>The Mayor shall determine that a person seeking shelter by reason of domestic violence, sexual assault, human trafficking, refugee status, or asylum, is a resident of the District without receiving demonstration of District residency in accordance with <cite path="§4-751.01|(32)">§ 4-751.01(32)</cite>, except if the Mayor can demonstrate that a person seeking asylum is eligible for and will receive shelter under <cite path="4|7C">Chapter 7C of this title</cite>, or any subsequently enacted act substantially similar to <cite path="4|7C">Chapter 7C of this title</cite>, the Mayor may direct that person to the Office of Migrant Services to obtain shelter.</text>
+        <text>The Mayor shall determine that a person seeking shelter by reason of domestic violence, sexual assault, human trafficking, refugee status, or asylum, is a resident of the District without receiving a demonstration of District residency in accordance with <cite path="§4-751.01">§ 4-751.01</cite>(32); except, that if the Mayor can demonstrate that a person seeking asylum is eligible for and will receive shelter under <cite path="4|7C">Chapter 7C of this title</cite> or any subsequently enacted act substantially similar to <cite path="4|7C">Chapter 7C of this title</cite>, the Mayor may direct that person to the Office of Migrant Services to obtain shelter.</text>
       </para>
     </para>
     <para>
@@ -238,11 +285,18 @@
     <annotation app="2018-11-27" doc="D.C. Law 22-188" eff="2018-11-27" path="§2" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-553" path="§201" codified:display="Note" app="2022-09-30" eff="2022-09-30">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-553" path="§201">§ 201 of Migrant Services and Supports Emergency Amendment Act of 2022 (D.C. Act 24-553, Sept. 30, 2022, 0 DCR 0)</cite>.</annotation>
     <annotation app="2022-09-30" doc="D.C. Act 24-553" eff="2022-09-30" path="§201" type="History" display="false"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-234" eff="2022-12-21" path="§201|(b)" type="History" display="false"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-234" eff="2022-12-21" path="§201|(b)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-234" path="§201|(b)" codified:display="Note" app="2022-12-21" eff="2022-12-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-234" path="§201|(b)">§ 201(b) of Migrant Services and Supports Temporary Amendment Act of 2022 (D.C. Law 24-234, Dec. 21, 2022, 69 DCR 13991)</cite>.</annotation>
-    <annotation app="2023-04-24" doc="D.C. Act 25-69" eff="2023-04-24" path="§3|(b)" type="History" display="false"/>
-    <annotation app="2023-04-24" doc="D.C. Act 25-69" eff="2023-04-24" path="§3|(b)" type="History"/>
+    <annotation app="2022-12-21" doc="D.C. Law 24-234" eff="2022-12-21" path="§201|(b)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-69" path="§3|(b)" codified:display="Note" app="2023-04-24" eff="2023-04-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-69" path="§3|(b)">§ 3(b) of Migrant Services Eligibility Clarification Emergency Amendment Act of 2023 (D.C. Act 25-69, Apr. 24, 2023, 70 DCR 6115)</cite>.</annotation>
+    <annotation app="2023-04-24" doc="D.C. Act 25-69" eff="2023-04-24" path="§3|(b)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-29" path="§3|(b)" codified:display="Note" app="2023-07-20" eff="2023-07-20">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-29" path="§3|(b)">§ 3(b) of Migrant Services Eligibility Clarification Temporary Amendment Act of 2023 (D.C. Law 25-29, July 20, 2023, 70 DCR 7919)</cite>.</annotation>
+    <annotation app="2023-07-20" doc="D.C. Law 25-29" eff="2023-07-20" path="§3|(b)" type="History" display="false"/>
+    <annotation app="2023-07-27" doc="D.C. Act 25-193" eff="2023-07-27" path="§201|(b)" type="History" display="false"/>
+    <annotation app="2023-07-27" doc="D.C. Act 25-193" eff="2023-07-27" path="§201|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-193" path="§201|(b)" codified:display="Note" app="2023-07-27" eff="2023-07-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-193" path="§201|(b)">§ 201(b) of Migrant Services and Supports Extension Emergency Amendment Act of 2023 (D.C. Act 25-193, July 27, 2023, 70 DCR 10729)</cite>.</annotation>
+    <annotation app="2023-07-31" doc="D.C. Act 25-196" eff="2023-07-31" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2023-07-31" doc="D.C. Act 25-196" eff="2023-07-31" path="§2|(a)" type="History"/>
+    <annotation app="2023-07-31" doc="D.C. Act 25-196" eff="2023-07-31" path="§2|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-196" path="§2|(b)" codified:display="Note" app="2023-07-31" eff="2023-07-31">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-196" path="§2|(b)">§ 2(b) of Family Re-Housing Stabilization Program Protection Emergency Amendment Act of 2023 (D.C. Act 25-196, July 31, 2023, 70 DCR 10740)</cite>.</annotation>
   </annotations>
 </section>

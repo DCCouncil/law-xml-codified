@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>42-3505.01</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on July 26, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§42-3505.01(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Evictions.</heading>
   <para>
     <num>(a)</num>
@@ -44,11 +41,11 @@
     <num>(a-1)</num>
     <para>
       <num>(1)</num>
-      <text>A housing provider may recover possession of a rental unit for nonpayment of rent when the tenant fails to pay rent in an amount equal to at least $600.  The housing provider shall serve on the tenant a notice of past due rent at least 30 days in advance of action to recover possession of the rental unit.</text>
+      <text>A housing provider shall provide the tenant with notice of the housing provider's intent to file a claim against a tenant to recover possession of a rental unit for the non-payment of rent at least 30 days before filing the claim.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>A notice of past due rent shall contain the following or substantively similar language:</text>
+      <text>Notice provided to a tenant shall contain the following or substantively similar language:</text>
       <text>"The total amount of rent owed is [list specific amount due]. A ledger showing the dates of rent charges and payments for the period of delinquency is attached. You have the right to remain in the rental unit if the total balance of unpaid rent is paid in full.</text>
       <text>"[Name of housing provider] has the right to file a case in court seeking your eviction if you do not pay the balance of unpaid rent in full within 30 days of this notice.</text>
       <text>"You have the right to defend yourself in court. Only a court can order your eviction. For further help or to seek free legal services, contact the Office of the Tenant Advocate at 202-719-6560 or the Landlord Tenant Legal Assistance Network at 202-780-2575.".</text>
@@ -621,9 +618,8 @@
     <annotation app="2022-07-27" doc="D.C. Act 24-543" eff="2022-07-27" path="§2" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-668" path="§2" codified:display="Note" app="2022-11-22" eff="2022-11-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-668" path="§2">§ 2 of Notice Requirements for Evictions for Nonpayment of Rent Clarification Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-668, Nov. 22, 2022, 0 DCR 0)</cite>.</annotation>
     <annotation app="2022-11-22" doc="D.C. Act 24-668" eff="2022-11-22" path="§2" type="History" display="false"/>
-    <annotation app="2022-12-13" doc="D.C. Law 24-203" eff="2022-12-13" path="§2" type="History" display="false"/>
-    <annotation app="2022-12-13" doc="D.C. Law 24-203" eff="2022-12-13" path="§2" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-203" path="§2" codified:display="Note" app="2022-12-13" eff="2022-12-13">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-203" path="§2">§ 2 of Notice Requirements for Evictions for Nonpayment of Rent Clarification Temporary Amendment Act of 2022 (D.C. Law 24-203, Dec. 13, 2022, 69 DCR 12687)</cite>.</annotation>
+    <annotation app="2022-12-13" doc="D.C. Law 24-203" eff="2022-12-13" path="§2" type="History" display="false"/>
     <annotation app="2023-03-10" doc="D.C. Law 24-287" eff="2023-03-10" path="§102" type="History"/>
   </annotations>
 </section>

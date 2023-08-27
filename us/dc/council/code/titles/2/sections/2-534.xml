@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-534</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 24, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§2-534(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Exemptions from disclosure.</heading>
   <para>
     <num>(a)</num>
@@ -119,7 +122,7 @@
     </para>
     <para>
       <num>(15)</num>
-      <text>Any critical infrastructure information or plans that contain critical infrastructure information for the critical infrastructures of companies that are regulated by the Public Service Commission of the District of Columbia;</text>
+      <text>Any critical infrastructure information or plans that contain critical infrastructure information for the critical infrastructures of the District of Columbia Water and Sewer Authority or companies that are regulated by the Public Service Commission of the District of Columbia;</text>
     </para>
     <para>
       <num>(16)</num>
@@ -329,5 +332,8 @@
     <annotation app="notfunded" doc="D.C. Law 24-345" eff="2023-04-21" path="§134" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-345" path="§134" codified:display="Note" app="2023-04-21" eff="2023-04-21">Applicability of <cite doc="D.C. Law 24-345" path="">D.C. Law 24-345</cite>: <cite doc="D.C. Law 24-345" path="§301">§ 301 of D.C. Law 24-345</cite> provided that the change made to this section by <cite doc="D.C. Law 24-345" path="§134">§ 134 of D.C. Law 24-345</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§134" type="History"/>
+    <annotation app="2023-07-26" doc="D.C. Act 25-201" eff="2023-07-26" path="§2" type="History" display="false"/>
+    <annotation app="2023-07-26" doc="D.C. Act 25-201" eff="2023-07-26" path="§2" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-201" path="§2" codified:display="Note" app="2023-07-26" eff="2023-07-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-201" path="§2">§ 2 of DC Water Critical Infrastructure Freedom of Information Clarification Emergency Amendment Act of 2023 (D.C. Act 25-201, July 26, 2023, 70 DCR 10754)</cite>.</annotation>
   </annotations>
 </section>

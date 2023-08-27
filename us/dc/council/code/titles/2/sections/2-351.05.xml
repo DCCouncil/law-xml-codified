@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>2-351.05</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on August 22, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§2-351.05(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Application; exemptions.</heading>
   <para>
     <num>(a)</num>
@@ -104,10 +101,6 @@
         <text>Any other agency that has entered into an agreement with any of the agencies listed in subparagraphs (A) through (E) of this paragraph directly related to the production of permanent supportive housing;</text>
       </para>
     </para>
-    <para>
-      <num>(16A)</num>
-      <text>Procurements by the District of Columbia Housing Authority involving the expenditure of federal funds as provided for in <cite path="§6-219">§ 6-219</cite>.</text>
-    </para>
     <para placeholder="Repealed">
       <num>(17)</num>
       <text>Repealed.</text>
@@ -194,8 +187,7 @@
     <annotation doc="D.C. Law 23-223" path="§2" type="Expiration of Law" history="false" app="2021-03-16" eff="2021-03-16"><cite doc="D.C. Law 23-223" path="§2">Section 2 of D.C. Law 23-223</cite> provided that § 2(a)(2), (3), and (4) of the act shall expire on September 30, 2023. 
         </annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-223" eff="2021-03-16" path="§2" type="History" display="false"/>
-    <annotation app="2023-05-24" doc="D.C. Act 25-114" eff="2023-05-24" path="§3|(a)" type="History" display="false"/>
-    <annotation app="2023-05-24" doc="D.C. Act 25-114" eff="2023-05-24" path="§3|(a)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-114" path="§3|(a)" codified:display="Note" app="2023-05-24" eff="2023-05-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-114" path="§3|(a)">§ 3(a) of District of Columbia Housing Authority Procurement Clarification Emergency Amendment Act of 2023 (D.C. Act 25-114, May 24, 2023, 70 DCR 7942)</cite>.</annotation>
+    <annotation app="2023-05-24" doc="D.C. Act 25-114" eff="2023-05-24" path="§3|(a)" type="History" display="false"/>
   </annotations>
 </section>
