@@ -1,9 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>2-272.03</num>
   <heading>Budget.</heading>
-  <text>The Mayor shall provide in the annual budget request to the Council funding for the Office of Public-Private Partnership represented as a separate line or responsibility center.</text>
+  <text>Repealed.</text>
   <annotations>
     <annotation doc="D.C. Law 20-228" type="History" path="§104">Mar. 11, 2015, D.C. Law 20-228, § 104, 62 DCR 261</annotation>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2082|(a)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2082|(b)" type="History"/>
   </annotations>
 </section>

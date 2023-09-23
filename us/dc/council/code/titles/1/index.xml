@@ -698,6 +698,7 @@
         <num>L</num>
         <heading>Office of the Deputy Mayor for Public Safety and Justice.</heading>
         <xi:include href="./sections/1-301.191.xml"/>
+        <xi:include href="./sections/1-301.192.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -1624,6 +1625,13 @@
       <annotation app="2021-11-03" doc="D.C. Law 24-44" eff="2021-11-03" path="§8|(a)" type="History"/>
       <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-44" path="§8|(a)" codified:display="Note" app="2021-11-03" eff="2021-11-03">For temporary (225 days) repeal of this section, see <cite doc="D.C. Law 24-44" path="§8|(a)">§ 8(a) of Fiscal Year 2021 Revised Local Budget and COVID Relief Adjustment Temporary Act of 2021 (D.C. Law 24-44, Nov. 3, 2021, 68 DCR 009690)</cite>.</annotation>
       <annotation app="2021-11-03" doc="D.C. Law 24-44" eff="2021-11-03" path="§8|(a)" type="History" display="false"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>XI</num>
+      <heading>District of Columbia Auditor Compensation.</heading>
+      <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="I" type="History" display="false"/>
+      <xi:include href="./sections/1-556.01.xml"/>
     </container>
   </container>
   <container>

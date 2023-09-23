@@ -1,14 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>3-701.01</num>
   <heading proof="needed">Definitions.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>For the purposes of <cite path="3|7">this chapter</cite>, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>"CEDAW" means the Convention on the Elimination of All Forms of Discrimination Against Women, as adopted by the United Nations General Assembly.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Commission" means the Commission for Women established in <cite path="§3-702">§ 3-702</cite>.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Gender" means the socially constructed characteristics and needs for women, men, and those who are nonbinary in a society.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"Gender equity" means the fair treatment and distribution of opportunities and resources for women, men, and those who are nonbinary according to their respective needs.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"Gender identity or expression" shall have the same meaning as provided in <cite path="§2-1401.02|(12A)">§ 2-1401.02(12A)</cite>.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>"Intersectionality" means an analytical framework for understanding the ways in which systems of inequality based on gender, race, ethnicity, sexual orientation, gender identity, disability, class, and other forms of discrimination intersect to create unique dynamics and effects.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>"PII" means Personal Identifiable Information that can be used to distinguish or trace an individual's identity, either alone or when combined with other personal or identifying information that is linked or linkable to a specific individual, including name, birthdate, race, ethnicity, sex, gender, gender identity or expression, age, social security number, address, marital status, educational history, salary, job title, telephone numbers, disability, medical history, email addresses, computer passwords, spouse name, financial information, credit card numbers, bank account numbers, and biometric identifiers such as fingerprints, voiceprints, and iris scans.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 2-109" type="History" path="§2a">Sept. 22, 1978, D.C. Law 2-109, § 2a</annotation>
-    <annotation app="notfunded" doc="D.C. Law 24-303" eff="2023-03-10" path="§3|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-303" eff="2023-03-10" path="§2|(a)" prefix="as added" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-303" eff="2023-03-10" path="§2|(a)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-303" path="§2|(a)" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-303" path="">D.C. Law 24-303</cite>: <cite doc="D.C. Law 24-303" path="§4">§ 4 of D.C. Law 24-303</cite> provided that the creation of this section by <cite doc="D.C. Law 24-303" path="§2|(a)">§ 2(a) of D.C. Law 24-303</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-03-10" doc="D.C. Law 24-303" eff="2023-03-10" path="§2|(a)" type="History"/>
+    <annotation doc="D.C. Law 25-50" path="§7089" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7089">Section 7089 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 24-303" path="§3">section 3 of D.C. Law 24-303</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 2(a) of Law 24-303 has been implemented.
+        </annotation>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7089" type="History" display="false"/>
   </annotations>
 </section>

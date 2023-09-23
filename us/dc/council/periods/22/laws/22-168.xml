@@ -8642,7 +8642,7 @@
         <text>This subtitle may be cited as the "School and Park Facilities and Grounds 311 Expansion Act of 2018".</text>
       </section>
       <section>
-        <codify:replace path="§10-721" display="New Subchapter III, Chapter 7, Title 10 New" codified:doc="D.C. Code" codified:path="§10-721"/>
+        <codify:replace path="§10-721" display="New Subchapter III, Chapter 7, Title 10 New" codified:doc="D.C. Code" codified:path="§10-721|(a)"/>
         <num codify:value="10-721">6072</num>
         <heading codify:value="School and Park Facilities and Grounds 311 Expansion."/>
         <text>Within 180 days after <span codify:value="October 30, 2018">the effective date of this act</span>, the Mayor shall permit persons to submit requests via the District's 311 system for repairs and other maintenance services at Department of Parks and Recreation and District of Columbia Public Schools facilities and grounds that are maintained by the Department of General Services.</text>
@@ -9170,7 +9170,7 @@
         <text>Section 656(c) of the Fire and Police Medical Leave and Limited Duty Amendment Act of 2004, effective May 1, 2013 (D.C. Law 19-311; D.C. Official Code § 5-656(c)), is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace doc="D.C. Law 15-194" path="§656|(c)" codified:doc="D.C. Code" codified:path="§5-656|(c)"/>
+            <codify:replace doc="D.C. Law 15-194" path="§656|(c)" codified:doc="D.C. Code" codified:path="§5-656"/>
             <num>(c)</num>
             <text><code-cite doc="D.C. Code" path="§5-652" codify:value="Section 5-652">Section 652</code-cite> shall apply as of October 1, 2018.</text>
           </para>
