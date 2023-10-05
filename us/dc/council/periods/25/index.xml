@@ -8,6 +8,8 @@
       <xi:include href="./laws/25-50.xml"/>
       <xi:include href="./laws/25-49.xml"/>
       <xi:include href="./laws/25-46.xml"/>
+      <xi:include href="./laws/25-45.xml"/>
+      <xi:include href="./laws/25-44.xml"/>
       <xi:include href="./laws/25-36.xml"/>
       <xi:include href="./laws/25-35.xml"/>
       <xi:include href="./laws/25-34.xml"/>
@@ -110,6 +112,12 @@
       <heading>Laws</heading>
       <xi:include href="./laws/25-51.xml"/>
       <xi:include href="./laws/25-48.xml"/>
+      <xi:include href="./laws/25-43.xml"/>
+      <xi:include href="./laws/25-42.xml"/>
+      <xi:include href="./laws/25-41.xml"/>
+      <xi:include href="./laws/25-40.xml"/>
+      <xi:include href="./laws/25-39.xml"/>
+      <xi:include href="./laws/25-38.xml"/>
       <xi:include href="./laws/25-32.xml"/>
       <xi:include href="./laws/25-31.xml"/>
       <xi:include href="./laws/25-30.xml"/>
@@ -133,6 +141,7 @@
   </collection>
   <collection name="budget">
     <heading>Budget Legislation</heading>
+    <xi:include href="./laws/25-47.xml"/>
     <xi:include href="./acts/25-162.xml"/>
     <xi:include href="./acts/25-134.xml"/>
   </collection>

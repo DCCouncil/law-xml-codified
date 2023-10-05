@@ -1207,7 +1207,7 @@
       <section>
         <num>2121</num>
         <heading proof="needed">Short title.</heading>
-        <text>This subtitle may be cited as the "Rental Assistance Funds Reporting and Notice Requirements Amendment Act of 2023".</text>
+        <text>This subtitle may be cited as the "Emergency Rental Assistance Funds Reporting and Notice Requirements Amendment Act of 2023".</text>
       </section>
       <section>
         <num>2122</num>
@@ -1218,7 +1218,7 @@
             <num>(c-1)</num>
             <para>
               <num>(1)</num>
-              <text>Beginning October 31, 2023, the Mayor shall transmit a report to the Council every month that funds remain available for the Rental Assistance Program that provides the following information related to the program:</text>
+              <text>Beginning October 31, 2023, the Mayor shall transmit a report to the Council every month that funds remain available for the Emergency Rental Assistance Program that provides the following information related to the program:</text>
               <para>
                 <num>(A)</num>
                 <text>The number of applications:</text>
@@ -1272,20 +1272,20 @@
               <num>(2)</num>
               <para>
                 <num>(A)</num>
-                <text>The reports required by paragraph (1) of this subsection shall be posted conspicuously on the Department of Human Services website and the application portal website for Rental Assistance funds.</text>
+                <text>The reports required by paragraph (1) of this subsection shall be posted conspicuously on the Department of Human Services website and the application portal website for Emergency Rental Assistance funds.</text>
               </para>
               <para>
                 <num>(B)</num>
-                <text>The Mayor shall not pass costs incurred or administrative obligations required pursuant to paragraph (1) of this subsection on to community-based organizations that support the disbursal of Rental Assistance funds; except, that the Mayor may request the cooperation of community-based organizations to provide accurate reporting.</text>
+                <text>The Mayor shall not pass costs incurred or administrative obligations required pursuant to paragraph (1) of this subsection on to community-based organizations that support the disbursal of Emergency Rental Assistance funds; except, that the Mayor may request the cooperation of community-based organizations to provide accurate reporting.</text>
               </para>
             </para>
             <para>
               <num>(3)</num>
-              <text>The Mayor shall provide one month of public notice before the anticipated closing date of the application portal for Rental Assistance funds.</text>
+              <text>The Mayor shall provide one month of public notice before the anticipated closing date of the application portal for Emergency Rental Assistance funds.</text>
             </para>
             <para>
               <num>(4)</num>
-              <text>When the application portal for Rental Assistance funds closes due to projected funding exhaustion, the Mayor shall report quarterly to the Council the number of inquiries or requests related to emergency rental assistance received through any means by the Department of Human Services.</text>
+              <text>When the application portal for Emergency Rental Assistance funds closes due to projected funding exhaustion, the Mayor shall report quarterly to the Council the number of inquiries or requests related to emergency rental assistance received through any means by the Department of Human Services.</text>
             </para>
           </para>
         </include>
@@ -1456,7 +1456,7 @@
             <text>A new subsection (d) is added to read as follows:</text>
             <include>
               <para>
-                <codify:insert codified:doc="D.C. Code" codified:path="§6-213|(d)"/>
+                <codify:insert after="(c)" codified:doc="D.C. Code" codified:path="§6-213|(d)"/>
                 <num>(d)</num>
                 <para>
                   <num>(1)</num>
@@ -1718,7 +1718,7 @@
           <text>A new section 6d is added to read as follows:</text>
           <include>
             <section>
-              <codify:insert path="39|2" after="§39-205.03" num-value="39-205.04" codified:doc="D.C. Code" codified:path="§39-205.04"/>
+              <codify:insert path="39|2" after="§39-205.03" num-value="39-205.04" history-prefix="as added" codified:doc="D.C. Code" codified:path="§39-205.04"/>
               <num>6d</num>
               <heading proof="needed">Large capital grants program.</heading>
               <para>
@@ -1739,7 +1739,7 @@
               </para>
               <para>
                 <num>(c)</num>
-                <text>An organization awarded a large capital grant pursuant to this section shall not be eligible for a grant to fund capital projects pursuant to section 6(c-1)(2)(A)(i) in the same fiscal year.</text>
+                <text>An organization awarded a large capital grant pursuant to this section shall not be eligible for a grant to fund capital projects pursuant to <code-cite doc="D.C. Code" path="§39-205|(c-1)|(2)|(A)|(i)">section 6(c-1)(2)(A)(i)</code-cite> in the same fiscal year.</text>
               </para>
               <para>
                 <num>(d)</num>
@@ -1767,6 +1767,7 @@
                   </para>
                 </para>
               </para>
+              <annotation doc="D.C. Law 1-22" type="History" path="§6d">Oct. 21, 1975, D.C. Law 1-22, § 6d</annotation>
             </section>
           </include>
           <aftertext>.</aftertext>
@@ -1794,7 +1795,7 @@
           <text>Subsection (b)(1) is amended by striking the phrase "5 years" and inserting the phrase "10 years" in its place.</text>
         </para>
         <codify:annotation doc="D.C. Code" path="§10-801" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§10-801">
-      For an amendment to the requirement that the Mayor transfer certain properties in fee simple and without charge to the L'Enfant Trust, see <cite doc="D.C. Act 25-172" path="§2172">section 2172 of D.C. Act 25-172</cite>.
+      For an amendment to the requirement that the Mayor transfer certain properties in fee simple and without charge to the L'Enfant Trust, see <cite doc="D.C. Law 25-50" path="§2172">section 2172 of D.C. Law 25-50</cite>.
     </codify:annotation>
       </section>
       <section>
@@ -1822,7 +1823,7 @@
             <para>
               <codify:replace codified:doc="D.C. Code" codified:path="§42-1103|(h)"/>
               <num>(h)</num>
-              <text>Funds collected under this section shall be deposited pursuant to section 322.</text>
+              <text>Funds collected under this section shall be deposited pursuant to <code-cite doc="D.C. Code" path="§42-1122">section 322</code-cite>.</text>
             </para>
           </include>
           <aftertext>.</aftertext>
@@ -2022,7 +2023,7 @@
           <para>
             <codify:insert path="§42-2802" after="(b-5)" codified:doc="D.C. Code" codified:path="§42-2802|(b-6)"/>
             <num>(b-6)</num>
-            <text>Notwithstanding any provision of <span codify:value="["/><code-cite doc="D.C. Code" path="42|28">this chapter</code-cite><span codify:value="]"/> or any other law, the Mayor may in Fiscal Year 2024 transfer the following from the Fund:</text>
+            <text>Notwithstanding any provision of <span codify:value="[]"/><code-cite doc="D.C. Code" path="42|28">this chapter</code-cite><span codify:value="]"/> or any other law, the Mayor may in Fiscal Year 2024 transfer the following from the Fund:</text>
             <para>
               <num>(1)</num>
               <text>$4 million to the Home Purchase Assistance Program; and</text>
@@ -2380,7 +2381,7 @@
         <para>
           <num>(a)</num>
           <text>Section 3(a-1) of the Department of Forensic Sciences Establishment Act of 2011, effective August 17, 2011 (D.C. Law 19-18; D.C. Official Code § 5-1501.02(a-1)), is amended by striking the phrase "as an independent agency" and inserting the phrase "as a subordinate agency" in its place.</text>
-          <codify:not-funded-anno doc="D.C. Law 25-50" path="§3032" applicability-path="§3033" display-template=""/>
+          <codify:not-funded-anno doc="D.C. Law 25-50" path="§3032" applicability-path="§3033"/>
         </para>
         <para>
           <num>(b)</num>
@@ -2460,7 +2461,7 @@
             <replace>$13,046 per student for Fiscal Year 2024</replace>
           </codify:find-replace>
         </para>
-        <para>
+        <para codify:path="§38-2904">
           <num>(c)</num>
           <text>Section 105 (D.C. Official Code § 38-2904) is amended by striking the tabular array and inserting the following tabular array in its place:</text>
           <include>
@@ -2522,12 +2523,53 @@
             </text>
           </include>
           <aftertext>.</aftertext>
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2904">
+            <find>FY 2023</find>
+            <replace>FY 2024</replace>
+          </codify:find-replace>
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2904">
+            <find>$16,641</find>
+            <replace>$17,482</replace>
+          </codify:find-replace>
+          <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§38-2904">
+            <find>$16,145</find>
+            <replace>$16,960</replace>
+          </codify:find-replace>
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2904">
+            <find>$12,419</find>
+            <replace>$13,046</replace>
+          </codify:find-replace>
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2904">
+            <find>$13,413</find>
+            <replace>$14,090</replace>
+          </codify:find-replace>
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2904">
+            <find>$15,151</find>
+            <replace>$15,916</replace>
+          </codify:find-replace>
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2904">
+            <find>$18,877</find>
+            <replace>$19,830</replace>
+          </codify:find-replace>
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2904">
+            <find>$14,530</find>
+            <replace>$15,264</replace>
+          </codify:find-replace>
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2904">
+            <find>0.91</find>
+            <replace>0.91</replace>
+          </codify:find-replace>
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2904">
+            <find>$11,301</find>
+            <replace>$11,872</replace>
+          </codify:find-replace>
         </para>
-        <para>
+        <para codify:path="§38-2905|(c)">
           <num>(d)</num>
           <text>Section 106(c) (D.C. Official Code § 38-2905(c)) is amended to read as follows:</text>
           <include>
             <para>
+              <codify:replace codified:doc="D.C. Code" codified:path="§38-2905|(c)"/>
               <num>(c)</num>
               <text>The supplemental allocations shall be calculated by applying weightings to the foundation level as follows:</text>
               <text>Special Education Add-ons:</text>
@@ -2727,22 +2769,28 @@
         <para>
           <num>(e)</num>
           <text>Section 106a(c-2)(1) (D.C. Official Code § 38-2905.01(c-2)(1)) is amended by striking the phrase "based on projected enrollments" and inserting the phrase "based on actual audited enrollments for public charter schools and projected enrollments for DCPS schools" in its place.</text>
+          <codify:find-replace path="§38-2905.01|(c-2)|(1)" count="1" codified:doc="D.C. Code" codified:path="§38-2905.01|(c-2)|(1)">
+            <find>based on projected enrollments</find>
+            <replace>based on actual audited enrollments for public charter schools and projected enrollments for DCPS schools</replace>
+          </codify:find-replace>
         </para>
-        <para>
+        <para codify:path="§38-2905.02">
           <num>(f)</num>
           <text>Section 106b (D.C. Official Code § 38-2905.02) is amended as follows:</text>
-          <para>
+          <para codify:path="(b)">
             <num>(1)</num>
             <text>Subsection (b) is amended as follows:</text>
             <para>
               <num>(A)</num>
               <text>Designate the existing text as paragraph (1).</text>
+              <codify:redesignate-para num-value="(1)" codified:doc="D.C. Code" codified:path="§38-2905.02|(b)"/>
             </para>
             <para>
               <num>(B)</num>
               <text>A new paragraph (2) is added to read as follows:</text>
               <include lvl="1">
                 <para>
+                  <codify:insert codified:doc="D.C. Code" codified:path="§38-2905.02|(b)|(2)"/>
                   <num>(2)</num>
                   <text>There shall be deposited into the Fund $19,835,082 in Fiscal Year 2024.</text>
                 </para>
@@ -2750,11 +2798,12 @@
               <aftertext>.</aftertext>
             </para>
           </para>
-          <para>
+          <para codify:path="(c)">
             <num>(2)</num>
             <text>Subsection (c) is amended to read as follows:</text>
             <include>
               <para>
+                <codify:replace codified:doc="D.C. Code" codified:path="§38-2905.02|(c)"/>
                 <num>(c)</num>
                 <para>
                   <num>(1)</num>
@@ -2772,17 +2821,22 @@
             </include>
             <aftertext>.</aftertext>
           </para>
-          <para>
+          <para codify:path="(d)">
             <num>(3)</num>
             <text>Subsection (d) is amended by striking the phrase "PCS Amount" and inserting the phrase "FY23 PCS Amount" in its place.</text>
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2905.02|(d)">
+              <find>PCS Amount</find>
+              <replace>FY23 PCS Amount</replace>
+            </codify:find-replace>
           </para>
           <para>
             <num>(4)</num>
             <text>A new subsection (d-1) is added to read as follows:</text>
             <include>
               <para>
+                <codify:insert after="(d)" codified:doc="D.C. Code" codified:path="§38-2905.02|(d-1)"/>
                 <num>(d-1)</num>
-                <text>From the FY24 PCS Amount, in School Year 2023-2024, the Mayor shall award each public charter school $196.11 per enrolled pupil, which the Mayor shall pay in quarterly installments throughout Fiscal Year 2024 according to the schedule and enrollment figures the Mayor uses to make Formula payments pursuant to section 107b(b); provided, that the first quarterly payment may be paid by October 15, 2023.</text>
+                <text>From the FY24 PCS Amount, in School Year 2023-2024, the Mayor shall award each public charter school $196.11 per enrolled pupil, which the Mayor shall pay in quarterly installments throughout Fiscal Year 2024 according to the schedule and enrollment figures the Mayor uses to make Formula payments pursuant to <code-cite doc="D.C. Code" path="§38-2906.02|(b)">section 107b(b)</code-cite>; provided, that the first quarterly payment may be paid by October 15, 2023.</text>
               </para>
             </include>
             <aftertext>.</aftertext>
@@ -2804,6 +2858,7 @@
         <text>Section 202 of the Department of Education Establishment Act of 2007, effective June 12. 2007 (D.C. Law 17-9; D.C. Official Code § 38-191), is amended by adding new subsections (b-1) and (b-2) to read as follows:</text>
         <include>
           <para>
+            <codify:insert path="§38-191" after="(b)" codified:doc="D.C. Code" codified:path="§38-191|(b-1)"/>
             <num>(b-1)</num>
             <para>
               <num>(1)</num>
@@ -2887,28 +2942,38 @@
             </para>
           </para>
           <para>
+            <codify:insert path="§38-191" after="(b-1)" codified:doc="D.C. Code" codified:path="§38-191|(b-2)"/>
             <num>(b-2)</num>
             <text>The Department of Education shall be considered an authorized representative of the Office of the State Superintendent of Education and the Higher Education Licensure Commission under applicable federal, District, and state laws and regulations for the purpose of accessing and compiling student record data for research purposes.</text>
           </para>
         </include>
         <aftertext>.</aftertext>
       </section>
-      <section>
+      <section codify:path="§51-113|(f)">
         <num>4013</num>
         <text>Section 13(f) of the District of Columbia Unemployment Compensation Act, approved August 28, 1935 (49 Stat. 953; D.C. Official Code § 51-113(f)), is amended as follows:</text>
-        <para>
+        <para codify:path="(2)">
           <num>(a)</num>
           <text>Paragraph (2) is amended by redesignating the second subparagraph (C) as subparagraph (D).</text>
+          <codify:find-replace path="[(D)]" count="1" codified:doc="D.C. Code" codified:path="§51-113|(f)|(2)|(C)">
+            <find>[(D)]</find>
+            <replace>(C)</replace>
+          </codify:find-replace>
         </para>
-        <para>
+        <para codify:path="(3)">
           <num>(b)</num>
           <text>Paragraph (3) is amended by striking the phrase "or the maintenance of a system of public employment offices" and inserting the phrase ", the maintenance of a system of public employment offices, or with responsibility or authority for the evaluation of workforce or education programs" in its place.</text>
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§51-113|(f)|(3)">
+            <find>or the maintenance of a system of public employment offices</find>
+            <replace>, the maintenance of a system of public employment offices, or with responsibility or authority for the evaluation of workforce or education programs</replace>
+          </codify:find-replace>
         </para>
         <para>
           <num>(c)</num>
           <text>A new paragraph (4) is added to read as follows:</text>
           <include lvl="1">
             <para>
+              <codify:insert codified:doc="D.C. Code" codified:path="§51-113|(f)|(4)"/>
               <num>(4)</num>
               <text>The Director may disclose workforce and employment data that is otherwise protected pursuant to paragraph (1) of this subsection without prior consent from the employing unit or individual when:</text>
               <para>
@@ -2934,27 +2999,43 @@
         <heading proof="needed">Short title.</heading>
         <text>This subtitle may be cited as the "Universal Paid Leave Implementation Fund Amendment Act of 2023".</text>
       </section>
-      <section>
+      <section codify:path="§32-551.01">
         <num>4022</num>
         <text>Section 1152 of the Universal Paid Leave Implementation Fund Act of 2016, effective October 8, 2016 (D.C. Law 21-160; D.C. Official Code § 32-551.01), is amended as follows:</text>
-        <para>
+        <para codify:path="(b)|(2)">
           <num>(a)</num>
           <text>Subsection (b)(2) is amended as follows:</text>
-          <para>
+          <para codify:path="text">
             <num>(1)</num>
             <text>The lead-in language is amended by striking the phrase "Fund the Universal Paid Leave" and inserting the phrase "Fund each fiscal year the Universal Paid Leave" in its place.</text>
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-551.01|(b)|(2)">
+              <find>Fund the Universal Paid Leave</find>
+              <replace>Fund each fiscal year the Universal Paid Leave</replace>
+            </codify:find-replace>
           </para>
-          <para>
+          <para codify:path="(A)">
             <num>(2)</num>
             <text>Subparagraph (A) is amended by striking the phrase "No more than 8.75% of money in the Fund" and inserting the phrase "No more than 15% of the money estimated to be deposited in the Fund" in its place.</text>
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-551.01|(b)|(2)|(A)">
+              <find>No more than 8.75% of money in the Fund</find>
+              <replace>No more than 15% of the money estimated to be deposited in the Fund</replace>
+            </codify:find-replace>
           </para>
-          <para>
+          <para codify:path="(B)">
             <num>(3)</num>
             <text>Subparagraph (B) is amended by striking the phrase "money in the Fund" and inserting the phrase "money estimated to be deposited in the Fund" in its place.</text>
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-551.01|(b)|(2)|(B)">
+              <find>money in the Fund</find>
+              <replace>money estimated to be deposited in the Fund</replace>
+            </codify:find-replace>
           </para>
-          <para>
+          <para codify:path="(C)">
             <num>(4)</num>
             <text>Subparagraph (C) is amended by striking the phrase "money in the Fund" and inserting the phrase "money estimated to be deposited in the Fund" in its place.</text>
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-551.01|(b)|(2)|(C)">
+              <find>money in the Fund</find>
+              <replace>money estimated to be deposited in the Fund</replace>
+            </codify:find-replace>
           </para>
         </para>
         <para>
@@ -2962,8 +3043,9 @@
           <text>A new subsection (b-1) is added to read as follows:</text>
           <include>
             <para>
+              <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§32-551.01|(b-1)"/>
               <num>(b-1)</num>
-              <text>For the purposes of subsection (b) of this section, the phrase "money estimated to be deposited in the Fund" means the amount of revenue that the Chief Financial Officer estimates will be deposited in the Fund, as indicated in the certification provided by the Chief Financial Officer pursuant to section 104a(b) of the Universal Paid Leave Amendment Act of 2016, effective November 13, 2021 (D.C. Law 24-45; D.C. Official Code § 32-541.04a(b)), during the fiscal year in which the money in the Fund will be used to fund the Universal Paid Leave Administration Fund.</text>
+              <text>For the purposes of subsection (b) of this section, the phrase "money estimated to be deposited in the Fund" means the amount of revenue that the Chief Financial Officer estimates will be deposited in the Fund, as indicated in the certification provided by the Chief Financial Officer pursuant to <code-cite doc="D.C. Code" path="§32-541.04a|(b)">section 104a(b) of the Universal Paid Leave Amendment Act of 2016, effective November 13, 2021 (D.C. Law 24-45; D.C. Official Code § 32-541.04a(b))</code-cite>, during the fiscal year in which the money in the Fund will be used to fund the Universal Paid Leave Administration Fund.</text>
             </para>
           </include>
           <aftertext>.</aftertext>
@@ -2979,25 +3061,34 @@
         <heading proof="needed">Short title.</heading>
         <text>This subtitle may be cited as the "Enhancing Child Care Access for Children with Disabilities Amendment Act of 2023".</text>
       </section>
-      <section>
+      <section codify:path="§4-402">
         <num>4032</num>
         <text>Section 3 of the Day Care Policy Act of 1979, effective September 19, 1979 (D.C. Law 3-16; D.C. Official Code § 4-402), is amended as follows:</text>
-        <para>
+        <para codify:path="(a)">
           <num>(a)</num>
           <text>Subsection (a) is amended as follows:</text>
-          <para>
+          <para codify:path="(4)">
             <num>(1)</num>
             <text>Paragraph (4) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-402|(a)|(4)">
+              <find>; and</find>
+              <replace>;</replace>
+            </codify:find-replace>
           </para>
-          <para>
+          <para codify:path="(5)">
             <num>(2)</num>
             <text>Paragraph (5) is amended by striking the period and inserting the phrase "; and" in its place.</text>
+            <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§4-402|(a)|(5)">
+              <find>.</find>
+              <replace>; and</replace>
+            </codify:find-replace>
           </para>
           <para>
             <num>(3)</num>
             <text>A new paragraph (6) is added to read as follows:</text>
             <include lvl="1">
               <para>
+                <codify:insert codified:doc="D.C. Code" codified:path="§4-402|(a)|(6)"/>
                 <num>(6)</num>
                 <text>Provide a program which supports the childcare needs of children with disabilities and their families.</text>
               </para>
@@ -3010,11 +3101,12 @@
           <text>A new subsection (b-1) is added to read as follows:</text>
           <include>
             <para>
+              <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§4-402|(b-1)"/>
               <num>(b-1)</num>
               <text>The Department is further authorized to:</text>
               <para>
                 <num>(1)</num>
-                <text>Make grants, as authorized by section 7g(c)(5) of the State Education Office Establishment Act of 2000, effective March 10, 2015 (D.C. Law 20-196; D.C. Official Code § 38-2613(c)(5)), to child development facilities to support the costs of:</text>
+                <text>Make grants, as authorized by <code-cite doc="D.C. Code" path="§38-2613|(c)|(5)">section 7g(c)(5) of the State Education Office Establishment Act of 2000, effective March 10, 2015 (D.C. Law 20-196; D.C. Official Code § 38-2613(c)(5))</code-cite>, to child development facilities to support the costs of:</text>
                 <para>
                   <num>(A)</num>
                   <text>Maintaining dedicated slots for infants, toddlers, and preschoolers with disabilities;</text>
@@ -3033,22 +3125,31 @@
           <aftertext>.</aftertext>
         </para>
       </section>
-      <section>
+      <section codify:path="§38-2613|(c)">
         <num>4033</num>
         <text>Section 7g(c) of the State Education Office Establishment Act of 2000, effective March 10, 2015 (D.C. Law 20-196; D.C. Official Code § 38-2613(c)), is amended as follows:</text>
-        <para>
+        <para codify:path="(3)|(C)">
           <num>(a)</num>
           <text>Paragraph (3)(C) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2613|(c)|(3)|(C)">
+            <find>; and</find>
+            <replace>;</replace>
+          </codify:find-replace>
         </para>
-        <para>
+        <para codify:path="(4)">
           <num>(b)</num>
           <text>Paragraph (4) is amended by striking the period at the end and inserting the phrase "; and" in its place.</text>
+          <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§38-2613|(c)|(4)">
+            <find>.</find>
+            <replace>; and</replace>
+          </codify:find-replace>
         </para>
         <para>
           <num>(c)</num>
           <text>A new paragraph (5) is added to read as follows:</text>
           <include lvl="1">
             <para>
+              <codify:insert codified:doc="D.C. Code" codified:path="§38-2613|(c)|(5)"/>
               <num>(5)</num>
               <text>Make grants to child development facilities to support the costs of maintaining dedicated slots for infants, toddlers, and preschoolers with disabilities and providing out-of-school-time programming to school-aged children with disabilities and to implement a referral program to place children with disabilities in dedicated grant-funded slots.</text>
             </para>
@@ -3085,7 +3186,7 @@
         </include>
         <aftertext>.</aftertext>
         <codify:annotation doc="D.C. Code" path="§1-611.10" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§1-611.10">
-          Section 4043 of D.C. Act 25-172 provided that the amendments made to this section by § 4042 of D.C. Act 25-172 shall apply as of January 1, 2024.
+          Section 4043 of D.C. Law 25-50 provided that the amendments made to this section by § 4042 of D.C. Law 25-50 shall apply as of January 1, 2024.
         </codify:annotation>
       </section>
       <section>
@@ -3106,6 +3207,10 @@
       <section>
         <num>4052</num>
         <text>Section 14(b) of An Act To establish and provide for the maintenance of a free public library and reading room in the District of Columbia, effective September 20, 2012 (D.C. Law 19-168; D.C. Official Code § 39-114(b)), is amended by striking the phrase "Public Library" and inserting the phrase "Public Library and to support the procurement, processing, and cataloging of library materials" in its place.</text>
+        <codify:find-replace path="§39-114|(b)" count="1" codified:doc="D.C. Code" codified:path="§39-114|(b)">
+          <find>Public Library</find>
+          <replace>Public Library and to support the procurement, processing, and cataloging of library materials</replace>
+        </codify:find-replace>
       </section>
     </container>
     <codify:insert doc="D.C. Code" path="38|18A" after="II" history="false" codified:doc="D.C. Code" codified:path="38|18A|II-A">
@@ -3204,7 +3309,7 @@
           </para>
         </para>
         <codify:annotation doc="D.C. Code" path="§38-1834.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§38-1834.01">
-          Section 4064 of D.C. Act 25-172 provided that the creation of this section by § 4062 of D.C. Act 25-172 shall apply as of July 1, 2023.
+          Section 4064 of D.C. Law 25-50 provided that the creation of this section by § 4062 of D.C. Law 25-50 shall apply as of July 1, 2023.
         </codify:annotation>
       </section>
       <section>
@@ -3215,14 +3320,8 @@
           <replace>Payments to public charter schools authorized to be paid from the Account by other District law</replace>
         </codify:find-replace>
         <codify:annotation doc="D.C. Code" path="§47-368.07" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§47-368.07">
-          Section 4064 of D.C. Act 25-172 provided that the amendments to this section by § 4063 of D.C. Act 25-172 shall apply as of July 1, 2023.
+          Section 4064 of D.C. Law 25-50 provided that the amendments to this section by § 4063 of D.C. Law 25-50 shall apply as of July 1, 2023.
         </codify:annotation>
-        <codify:emergency doc="D.C. Code" path="§47-368.07" codified:doc="D.C. Code" codified:path="§47-368.07" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§47-368.07" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-368.07">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 12, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§47-368.07(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </section>
       <section>
         <num>4064</num>
@@ -3240,6 +3339,7 @@
         <text>This subtitle may be cited as the "Ward 4 Libraries Act of 2023".</text>
       </section>
       <section>
+        <codify:marginalia display="Not Codified in the D.C. Code"/>
         <num>4072</num>
         <para>
           <num>(a)</num>
@@ -3283,6 +3383,7 @@
         <text>This subtitle may be cited as the "Community Access to Recreational Space Pilot Program Act of 2023".</text>
       </section>
       <section>
+        <codify:marginalia display="Not Codified in the D.C. Code"/>
         <num>4082</num>
         <heading proof="needed">Public Access to Recreational Facilities Pilot Program.</heading>
         <para>
@@ -3312,6 +3413,7 @@
         <text>This subtitle may be cited as the "Department of Parks and Recreation Grants Act of 2023".</text>
       </section>
       <section>
+        <codify:marginalia display="Not Codified in the D.C. Code"/>
         <num>4092</num>
         <text>Notwithstanding the Grant Administration Act of 2013, effective December 24, 2013 (D.C. Law 20-61; D.C. Official Code § 1-328.11 <em>et seq.</em>), in Fiscal Year 2024, the Department of Parks and Recreation shall issue the following grants:</text>
         <para>
@@ -3337,6 +3439,7 @@
         <text>This subtitle may be cited as the "University of the District of Columbia Funding Act of 2023".</text>
       </section>
       <section>
+        <codify:marginalia display="Not Codified in the D.C. Code"/>
         <num>4102</num>
         <para>
           <num>(a)</num>
@@ -3348,6 +3451,7 @@
         </para>
       </section>
       <section>
+        <codify:marginalia display="Not Codified in the D.C. Code"/>
         <num>4103</num>
         <para>
           <num>(a)</num>
@@ -3380,14 +3484,8 @@
         </include>
         <aftertext>.</aftertext>
         <codify:annotation doc="D.C. Code" path="§38-823.02" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§38-823.02">
-          Section 4113 of D.C. Act 25-172 provided that the amendments to this section by § 4112 of D.C. Act 25-172 shall apply as of July 14, 2023.
+          Section 4113 of D.C. Law 25-50 provided that the amendments to this section by § 4112 of D.C. Law 25-50 shall apply as of July 14, 2023.
         </codify:annotation>
-        <codify:emergency doc="D.C. Code" path="§38-823.02" codified:doc="D.C. Code" codified:path="§38-823.02" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§38-823.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-823.02">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 12, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§38-823.02(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </section>
       <section>
         <num>4113</num>
@@ -3405,6 +3503,7 @@
         <text>This subtitle may be cited as the "Special Needs Public Charter School Funding Authorization Act of 2023".</text>
       </section>
       <section>
+        <codify:marginalia display="Not Codified in the D.C. Code"/>
         <num>4122</num>
         <para>
           <num>(a)</num>
@@ -3446,22 +3545,31 @@
       <section>
         <num>4132</num>
         <text>The Office of Out of School Time Grants and Youth Outcomes Establishment Act of 2016, effective April 7, 2017 (D.C. Law 21-261; D.C. Official Code § 2-1555.01 <em>et seq.</em>), is amended as follows:</text>
-        <para>
+        <para codify:path="§2-1555.03|(b)">
           <num>(a)</num>
           <text>Section 4(b) (D.C. Official Code § 2-1555.03(b)) is amended by striking the phrase "organizations providing" and inserting the phrase "organizations, District of Columbia Public Schools schools, and public charter schools providing" in its place.</text>
+          <codify:find-replace path="§2-1555.03" count="1" codified:doc="D.C. Code" codified:path="§2-1555.03">
+            <find>organizations providing</find>
+            <replace>organizations, District of Columbia Public Schools schools, and public charter schools providing</replace>
+          </codify:find-replace>
         </para>
-        <para>
+        <para codify:path="§2-1555.04|(b)">
           <num>(b)</num>
           <text>Section 5(b) (D.C. Official Code § 2-1555.04(b)), is amended as follows:</text>
-          <para>
+          <para codify:path="(1)">
             <num>(1)</num>
             <text>Paragraph (1) is amended by striking the phrase "Except as provided in paragraphs (2) and (3) of this subsection" and inserting the phrase "Except as provided in paragraphs (2), (3), and (4) of this subsection" in its place.</text>
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1555.04|(b)|(1)">
+              <find>Except as provided in paragraphs (2) and (3) of this subsection</find>
+              <replace>Except as provided in paragraphs (2), (3), and (4) of this subsection</replace>
+            </codify:find-replace>
           </para>
           <para>
             <num>(2)</num>
             <text>A new paragraph (4) is added to read as follows:</text>
             <include lvl="1">
               <para>
+                <codify:insert codified:doc="D.C. Code" codified:path="§2-1555.04|(b)|(4)"/>
                 <num>(4)</num>
                 <text>The Office may award grants on a competitive or formula basis to one or more District of Columbia Public Schools schools or public charter schools to provide out-of-school-time programs; provided, that:</text>
                 <para>
@@ -3578,14 +3686,8 @@
           <replace>$75,103/year</replace>
         </codify:find-replace>
         <codify:annotation doc="D.C. Code" path="§4-410.02" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§4-410.02">
-          Section 4143 of D.C. Act 25-172 provided that the amendments to this section by § 4142 of D.C. Act 25-172 shall apply as of July 14, 2023.
+          Section 4143 of D.C. Law 25-50 provided that the amendments to this section by § 4142 of D.C. Law 25-50 shall apply as of July 14, 2023.
         </codify:annotation>
-        <codify:emergency doc="D.C. Code" path="§4-410.02" codified:doc="D.C. Code" codified:path="§4-410.02" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§4-410.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-410.02">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 12, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§4-410.02(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </section>
       <section>
         <num>4143</num>
@@ -3605,36 +3707,60 @@
       <section>
         <num>4152</num>
         <text>Section 10005 of the Revised Revenue Estimate Adjustment Allocation Act of 2013, effective December 24, 2013 (D.C. Law 20-61; D.C. Official Code § 1-325.251), is repealed.</text>
+        <codify:repeal path="§1-325.251" codified:doc="D.C. Code" codified:path="§1-325.251"/>
       </section>
       <section>
         <num>4153</num>
         <text>Section 7a of the Child Development Facilities Regulation Act of 1998, effective December 13, 2017 (D.C. Law 22-33; D.C. Official Code § 7-2036.01), is repealed.</text>
+        <codify:repeal path="§7-2036.01" codified:doc="D.C. Code" codified:path="§7-2036.01"/>
       </section>
       <section>
         <num>4154</num>
-        <para>
+        <para codify:path="§38-282">
           <num>(a)</num>
           <text>Section 4073 of the Healthy Tots Act of 2014, effective February 26, 2015 (D.C. Law 20-155; D.C. Official Code § 38-282), is amended as follows:</text>
-          <para>
+          <para codify:path="heading">
             <num>(1)</num>
             <text>The section heading is amended by striking the word "Fund" and inserting the word "funding" in its place.</text>
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-282">
+              <find>Fund</find>
+              <replace>funding</replace>
+            </codify:find-replace>
           </para>
           <para>
             <num>(2)</num>
             <text>Subsections (a) and (b) are repealed.</text>
+            <codify:repeal path="(a)" codified:doc="D.C. Code" codified:path="§38-282|(a)"/>
+            <codify:repeal path="(b)" codified:doc="D.C. Code" codified:path="§38-282|(b)"/>
           </para>
-          <para>
+          <para codify:path="(c)">
             <num>(3)</num>
             <text>The lead-in language of subsection (c) is amended by striking the phrase "the Fund" and inserting the phrase "annual appropriations for the Healthy Tots Program" in its place.</text>
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-282|(c)">
+              <find>the Fund</find>
+              <replace>annual appropriations for the Healthy Tots Program</replace>
+            </codify:find-replace>
           </para>
-          <para>
+          <para codify:path="(d)">
             <num>(4)</num>
             <text>The lead-in language of subsection (d) is amended by striking the phrase "the Fund" and inserting the phrase "annual appropriations for the Healthy Tots Program" in its place.</text>
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-282|(d)">
+              <find>the Fund</find>
+              <replace>annual appropriations for the Healthy Tots Program</replace>
+            </codify:find-replace>
           </para>
         </para>
-        <para>
+        <para codify:path="§38-2602|(b)|(23)">
           <num>(b)</num>
           <text>Section 3(b)(23) of the of the State Education Office Establishment Act of 2000, effective October 21, 2000 (D.C. Law 13-176; D.C. Official Code § 38-2602(b)(23)), is amended by striking the phrase "the Healthy Tots Fund fulfill its" and inserting the phrase "Healthy Tots funding and fulfill its" in its place.</text>
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2602|(b)|(23)">
+            <find>the Healthy</find>
+            <replace>Healthy</replace>
+          </codify:find-replace>
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2602|(b)|(23)">
+            <find>Fund</find>
+            <replace>funding and</replace>
+          </codify:find-replace>
         </para>
       </section>
       <section>
@@ -3643,15 +3769,18 @@
         <para>
           <num>(a)</num>
           <text>Section 2(c) (D.C. Official Code § 38-302(c)) is repealed.</text>
+          <codify:repeal path="§38-302|(c)" codified:doc="D.C. Code" codified:path="§38-302|(c)"/>
         </para>
         <para>
           <num>(b)</num>
           <text>Section 15b (D.C. Official Code § 38-312.02) is repealed.</text>
+          <codify:repeal path="§38-312.02" codified:doc="D.C. Code" codified:path="§38-312.02"/>
         </para>
       </section>
       <section>
         <num>4156</num>
         <text>Section 7j of the State Education Office Establishment Act of 2000, effective September 11, 2019 (D.C. Law 23-16; D.C. Official Code § 38-2616), is repealed.</text>
+        <codify:repeal path="§38-2616" codified:doc="D.C. Code" codified:path="§38-2616"/>
       </section>
     </container>
     <container>
@@ -3671,11 +3800,12 @@
           <text>A new section 101a is added to read as follows:</text>
           <include>
             <section>
+              <codify:insert path="38|1A" before="§38-171" num-value="38-170" history-prefix="as added" codified:doc="D.C. Code" codified:path="§38-170"/>
               <num>101a</num>
               <heading proof="needed">Definitions.</heading>
               <para>
                 <num undesignated="true">(a)</num>
-                <text>For the purposes of this title, the term:</text>
+                <text>For the purposes of <code-cite doc="D.C. Code" path="38|1A">this title</code-cite>, the term:</text>
                 <para>
                   <num>(1)</num>
                   <text>"DCPS" means the District of Columbia Public Schools system.</text>
@@ -3693,15 +3823,17 @@
                   <text>"Personal Identifiable Information" means information that can be used to distinguish or trace an individual's identity, either alone or when combined with other personal or identifying information that is linked or linkable to a specific individual.</text>
                 </para>
               </para>
+              <annotation doc="D.C. Law 17-9" type="History" path="§101a">June 12, 2007, D.C. Law 17-9, § 101a</annotation>
             </section>
           </include>
           <aftertext>.</aftertext>
         </para>
-        <para>
+        <para codify:path="§38-174">
           <num>(b)</num>
           <text>Section 105 (D.C. Official Code § 38-174) is amended by adding a new subsection (d) to read as follows:</text>
           <include>
             <para>
+              <codify:insert codified:doc="D.C. Code" codified:path="§38-174|(d)"/>
               <num>(d)</num>
               <para>
                 <num>(1)</num>
@@ -3791,6 +3923,7 @@
         <text>Section 3 of the Mayor's Youth Leadership Institute Act of 2005, effective October 20, 2005 (D.C. Law 16-32; D.C. Official Code § 2-1572), is amended by adding a new subsection (d) to read as follows:</text>
         <include>
           <para>
+            <codify:insert path="§2-1572" codified:doc="D.C. Code" codified:path="§2-1572|(d)"/>
             <num>(d)</num>
             <text>Department of Employment Services funds may be used to purchase food and non-alcoholic beverages for participants during the required summer training program sessions and the District government employees who supervise the youth during the required summer training program sessions.</text>
           </para>
@@ -3800,11 +3933,12 @@
       <section>
         <num>4173</num>
         <text>The Youth Employment Act of 1979, effective January 5, 1980 (D.C. Law 3-46; D.C. Official Code § 32-241 <em>et seq</em>.), is amended as follows:</text>
-        <para>
+        <para codify:path="§32-242">
           <num>(a)</num>
           <text>Section 2a (D.C. Official Code § 32-242) is amended by adding a new subsection (h) to read as follows:</text>
           <include>
             <para>
+              <codify:insert codified:doc="D.C. Code" codified:path="§32-242|(h)"/>
               <num>(h)</num>
               <text>When the purchase is reasonably necessary to assist in the effective achievement of a statutorily authorized goal, objective, or responsibility, Department of Employment Services funds may be used to purchase food and non-alcoholic beverages for:</text>
               <para>
@@ -3823,11 +3957,12 @@
           </include>
           <aftertext>.</aftertext>
         </para>
-        <para>
+        <para codify:path="§32-246">
           <num>(b)</num>
           <text>Section 2e (D.C. Official Code § 32-246) is amended by adding a new subsection (e) to read as follows:</text>
           <include>
             <para>
+              <codify:insert codified:doc="D.C. Code" codified:path="§32-246|(e)"/>
               <num>(e)</num>
               <text>Department of Employment Services funds may be used to purchase food and non-alcoholic beverages for participants receiving DCIA skills training, when the purchase is reasonably necessary to assist in the effective achievement of a statutorily authorized goal, objective, or responsibility.</text>
             </para>
@@ -3840,6 +3975,7 @@
         <text>Section 2102 of the Transitional Employment Program and Apprenticeship Initiative Establishment Act of 2005, effective October 20, 2005 (D.C. Law 16-33; D.C. Official Code § 32-1331), is amended by adding a new subsection (h) to read as follows:</text>
         <include>
           <para>
+            <codify:insert path="§32-1331" codified:doc="D.C. Code" codified:path="§32-1331|(h)"/>
             <num>(h)</num>
             <text>Department of Employment Services funds may be used to purchase food and non-alcoholic beverages for transitional employment program participants attending training and education activities when the purchase is reasonably necessary to assist in the effective achievement of a statutorily authorized goal, objective, or responsibility.</text>
           </para>
@@ -3851,12 +3987,14 @@
         <text>An Act To provide for voluntary apprenticeship in the District of Columbia, approved May 21, 1946 (60 Stat. 204; D.C. Official Code § 32-1401 <em>et seq.</em>), is amended by adding a new section 12b to read as follows:</text>
         <include>
           <section>
+            <codify:insert path="32|14|I" after="§32-1412.01" num-value="32-1412.02" history-prefix="as added" codified:doc="D.C. Code" codified:path="§32-1412.02"/>
             <num>12b</num>
             <heading proof="needed">Use of funds.</heading>
             <text>Department of Employment Services funds may be used to purchase food and non-alcoholic beverages for apprentices, when the purchase is reasonably necessary to assist in the effective achievement of a statutorily authorized goal, objective, or responsibility.</text>
           </section>
         </include>
         <aftertext>.</aftertext>
+        <annotation type="History" doc="Stat. 79-2-ch267" path="§12b">May 21, 1946, 60 Stat. 207, ch. 267, § 12b</annotation>
       </section>
     </container>
     <container>
@@ -3873,6 +4011,7 @@
         <text>The District of Columbia Public Schools Agency Establishment Act of 2007, effective June 12, 2007 (D.C. Law 17-9; D.C. Official Code § 38-171 <em>et seq.</em>), is amended by adding a new section 105b to read as follows:</text>
         <include>
           <section>
+            <codify:insert path="38|1A" after="38-174.01" num-value="38-174.02" history-prefix="as added" codified:doc="D.C. Code" codified:path="§38-174.02"/>
             <num>105b</num>
             <heading proof="needed">District of Columbia Public Schools Flexible Schedule Pilot.</heading>
             <para>
@@ -3899,6 +4038,7 @@
               <num>(c)</num>
               <text>For the purposes of this section, the term "educator" includes a principal, assistant principal, teacher, assistant teacher, paraprofessional, school psychologist or counselor, all school service providers, or any person who provides professional educational services or education psychological services at a school.</text>
             </para>
+            <annotation doc="D.C. Law 17-9" type="History" path="§105b">June 12, 2007, D.C. Law 17-9, § 105b</annotation>
           </section>
         </include>
         <aftertext>.</aftertext>
@@ -3906,13 +4046,14 @@
       <section>
         <num>4183</num>
         <text>The State Education Office Establishment Act of 2000, effective October 21, 2000 (D.C. Law 13-176; D.C. Official Code § 38-2601 <em>et seq.</em>), is amended as follows:</text>
-        <para>
+        <para codify:path="§38-2601.02|(a)">
           <num>(a)</num>
           <text>Section 2b (D.C. Official Code § 38-2601.02) is amended by adding a new paragraph (5A) to read as follows:</text>
           <include lvl="1">
             <para>
+              <codify:insert after="(5)" codified:doc="D.C. Code" codified:path="§38-2601.02|(5A)"/>
               <num>(5A)</num>
-              <text>"Public charter school" shall have the same meaning as provided in section 2002 of the District of Columbia School Reform Act of 1995, approved April 26, 1996 (110 Stat. 1321-107; D.C. Official Code § 38-1800.02).</text>
+              <text>"Public charter school" shall have the same meaning as provided in <code-cite doc="D.C. Code" path="§38-1800.02">section 2002 of the District of Columbia School Reform Act of 1995, approved April 26, 1996 (110 Stat. 1321-107; D.C. Official Code § 38-1800.02)</code-cite>.</text>
             </para>
           </include>
           <aftertext>.</aftertext>
@@ -3922,6 +4063,7 @@
           <text>A new section 7k is added to read as follow:</text>
           <include>
             <section>
+              <codify:insert path="38|26|" after="§38-2616" num-value="38-2617" history-prefix="as added" codified:doc="D.C. Code" codified:path="§38-2617"/>
               <num>7k</num>
               <heading proof="needed">Flexible Schedule Pilot Program.</heading>
               <para>
@@ -4104,6 +4246,7 @@
                   <text>"Youth development program" means a program or service that engages youth in a variety of social, emotional, educational, or recreational activities to promote improvements to their intellectual, behavioral, and physical well-being, consistent with a youth development approach.</text>
                 </para>
               </para>
+              <annotation doc="D.C. Law 13-176" type="History" path="§7k">Oct. 21, 2000, D.C. Law 13-176, § 7k</annotation>
             </section>
           </include>
           <aftertext>.</aftertext>
@@ -4271,7 +4414,7 @@
           </para>
           <para>
             <num>(11)</num>
-            <text>Protocols for coordination between school-based employees whose roles involved student safety, the Safe Passage Program, and the Safe Routes to School Program established pursuant to sections 2a and 2d of the School Proximity Traffic Calming Act of 2000, effective March 10, 2023 (D.C. Law 24-285; D.C. Official Code §§ 38-3102 and 38-3105), respectively;</text>
+            <text>Protocols for coordination between school-based employees whose roles involved student safety, the Safe Passage Program, and the Safe Routes to School Program established pursuant to <span codify:value="§§">sections</span> <code-cite doc="D.C. Code" path="§38-3102" codify:value="38-2102">2a</code-cite> and <code-cite doc="D.C. Code" path="§38-3105" codify:value="38-3105">2d of the School Proximity Traffic Calming Act of 2000, effective March 10, 2023 (D.C. Law 24-285; D.C. Official Code §§ 38-3102 and 38-3105)</code-cite>, respectively;</text>
           </para>
           <para>
             <num>(12)</num>
@@ -4286,6 +4429,9 @@
             </para>
           </para>
         </para>
+        <codify:annotation doc="D.C. Code" path="§38-951.01" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§38-951.01">
+          For the establishment of a school safety enhancement committee whose purpose is to assist the Deputy Mayor for Education in issuing a report to recommend certain steps in addressing school safety, see <cite doc="D.C. Law 25-50" path="§4192">§ 4192 of D.C. Law 25-50</cite>.
+        </codify:annotation>
       </section>
     </container>
     <container>
@@ -4335,14 +4481,8 @@
             <aftertext>.</aftertext>
           </para>
           <codify:annotation doc="D.C. Code" path="§38-2851.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§38-2851.01">
-            Section 4203 of D.C. Act 25-172 provided that the changes made to this section by section 4202(a) D.C. Act 25-172 shall apply as of July 1, 2023.
+            Section 4203 of D.C. Law 25-50 provided that the changes made to this section by section 4202(a) D.C. Law 25-50 shall apply as of July 1, 2023.
           </codify:annotation>
-          <codify:emergency doc="D.C. Code" path="§38-2851.01" codified:doc="D.C. Code" codified:path="§38-2851.01" codified:display="Note"/>
-          <codify:insert doc="D.C. Code" path="§38-2851.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-2851.01">
-            <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 12, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§38-2851.01(Perm)">Permanent Version</cite>.*
-      </text>
-          </codify:insert>
         </para>
         <para>
           <num>(b)</num>
@@ -4364,14 +4504,8 @@
           </include>
           <aftertext>.</aftertext>
           <codify:annotation doc="D.C. Code" path="§38-2851.02" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§38-2851.02">
-            Section 4203 of D.C. Act 25-172 provided that the changes made to this section by section 4202(b) D.C. Act 25-172 shall apply as of July 1, 2023.
+            Section 4203 of D.C. Law 25-50 provided that the changes made to this section by section 4202(b) D.C. Law 25-50 shall apply as of July 1, 2023.
           </codify:annotation>
-          <codify:emergency doc="D.C. Code" path="§38-2851.02" codified:doc="D.C. Code" codified:path="§38-2851.02" codified:display="Note"/>
-          <codify:insert doc="D.C. Code" path="§38-2851.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-2851.02">
-            <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 12, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§38-2851.02(Perm)">Permanent Version</cite>.*
-      </text>
-          </codify:insert>
         </para>
       </section>
       <section>
@@ -4402,6 +4536,7 @@
           <text>Subsection (a) is amended to read as follows:</text>
           <include>
             <para>
+              <codify:replace doc="D.C. Code" path="§7-503.10|(a)" codified:doc="D.C. Code" codified:path="§7-503.10|(a)"/>
               <num>(a)</num>
               <text>There is established a Senior Wellness Center Feasibility and Planning Task Force ("Task Force") that shall evaluate and comment on the feasibility study and planning of 2 senior wellness centers, one to be located within Ward 2 and the other to be located within Ward 3. The Task Force shall advise and guide the Mayor, the Council, and the Department on the development of new wellness centers to serve residents of Wards 2 and 3, and review programs and services to address senior needs in those communities.</text>
             </para>
@@ -4413,6 +4548,7 @@
           <text>Subsection (f) is amended to read as follows:</text>
           <include>
             <para>
+              <codify:replace doc="D.C. Code" path="§7-503.10|(f)" codified:doc="D.C. Code" codified:path="§7-503.10|(f)"/>
               <num>(f)</num>
               <text>The Task Force shall, at a minimum:</text>
               <para>
@@ -4449,6 +4585,13 @@
         </para>
       </section>
     </container>
+    <codify:insert doc="D.C. Code" path="44" after="6A" history="false" codified:doc="D.C. Code" codified:path="44|6B">
+      <container>
+        <prefix>Chapter</prefix>
+        <num>6B</num>
+        <heading>Medicaid Provider Reimbursement.</heading>
+      </container>
+    </codify:insert>
     <container>
       <prefix>SUBTITLE</prefix>
       <num>B</num>
@@ -4459,14 +4602,15 @@
         <text>This subtitle may be cited as the "Medicaid Provider Reimbursement Act of 2023".</text>
       </section>
       <section>
+        <codify:insert path="44|6B" num-value="44-671.01" codified:doc="D.C. Code" codified:path="§44-671.01"/>
         <num>5012</num>
-        <text>Definitions</text>
+        <heading>Definitions</heading>
         <para>
           <num undesignated="true">(a)</num>
-          <text>For the purposes of this subtitle, the term:</text>
+          <text>For the purposes of <code-cite doc="D.C. Code" path="44|6B">this subtitle</code-cite>, the term:</text>
           <para>
             <num>(1)</num>
-            <text>"Covered Hospital" means a hospital, as defined in section 2(a)(9) of the Health-Care and Community Residence Facility, Hospice and Home Care Licensure Act of 1983, effective February 24, 1984 (D.C. Law 5-48; D.C. Official Code § 44-501(a)(9)), except the term shall not include:</text>
+            <text>"Covered Hospital" means a hospital, as defined in <code-cite doc="D.C. Code" path="§44-501|(a)|(9)">section 2(a)(9) of the Health-Care and Community Residence Facility, Hospice and Home Care Licensure Act of 1983, effective February 24, 1984 (D.C. Law 5-48; D.C. Official Code § 44-501(a)(9))</code-cite>, except the term shall not include:</text>
             <para>
               <num>(A)</num>
               <text>A hospital operated by the federal government;</text>
@@ -4490,7 +4634,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>"Medicaid" means the medical assistance programs authorized by Title XIX of the Social Security Act, approved July 30, 1965 (79 Stat. 343; 42 U.S.C. § 1396 <em>et seq</em>.), and by section 1 of An Act To enable the District of Columbia to receive Federal financial assistance under title XIX of the Social Security Act for a medical assistance program, and for other purposes, approved December 27, 1967 (81 Stat. 744; D.C. Official Code § 1-307.02), and administered by the Department.</text>
+            <text>"Medicaid" means the medical assistance programs authorized by Title XIX of the Social Security Act, approved July 30, 1965 (79 Stat. 343; 42 U.S.C. § 1396 <em>et seq</em>.) and by <code-cite doc="D.C. Code" path="§1-307.02">section 1 of An Act To enable the District of Columbia to receive Federal financial assistance under title XIX of the Social Security Act for a medical assistance program, and for other purposes, approved December 27, 1967 (81 Stat. 744; D.C. Official Code § 1-307.02)</code-cite>, and administered by the Department.</text>
           </para>
           <para>
             <num>(4)</num>
@@ -4499,11 +4643,12 @@
         </para>
       </section>
       <section>
+        <codify:insert path="44|6B" num-value="44-671.02" codified:doc="D.C. Code" codified:path="§44-671.02"/>
         <num>5013</num>
         <heading proof="needed">Medicaid hospital provider reimbursement.</heading>
         <para>
           <num>(a)</num>
-          <text>Beginning October 1, 2023, the Department shall fund capitation rates for each managed care organization at a level that complies with the minimum reimbursement levels established in section 5066(b-1) of the Medicaid Hospital Outpatient Supplemental Payment Act of 2017, effective December 13, 2017 (D.C. Law 22-33; D.C. Official Code § 44-664.05(b-1)), and section 5084(a)(2) of the Medicaid Hospital Inpatient Rate Supplement Act of 2017, effective December 13, 2017 (D.C. Law 22-33; D.C. Official Code § 44-664.13(a)(2)), and that ensures a covered hospital receives:</text>
+          <text>Beginning October 1, 2023, the Department shall fund capitation rates for each managed care organization at a level that complies with the minimum reimbursement levels established in <span codify:value="§§">section</span> <code-cite doc="D.C. Code" path="§44-664.05|(b-1)" codify:value="44-664.05(b-1)">5066(b-1) of the Medicaid Hospital Outpatient Supplemental Payment Act of 2017, effective December 13, 2017 (D.C. Law 22-33; D.C. Official Code § 44-664.05(b-1)),</code-cite> and <code-cite doc="D.C. Code" path="§44-664.13|(a)|(2)" codify:value="44-664.13(a)(2)">section 5084(a)(2) of the Medicaid Hospital Inpatient Rate Supplement Act of 2017, effective December 13, 2017 (D.C. Law 22-33; D.C. Official Code § 44-664.13(a)(2))</code-cite>, and that ensures a covered hospital receives:</text>
           <para>
             <num>(1)</num>
             <text>Maximum outpatient hospital reimbursements of 110% of the fee-for-service rate methodology set forth in the State Plan; and</text>
@@ -4523,11 +4668,13 @@
         </para>
       </section>
       <section>
+        <codify:insert path="44|6B" num-value="44-671.03" codified:doc="D.C. Code" codified:path="§44-671.03"/>
         <num>5014</num>
         <heading proof="needed">Annual hospital costs reporting.</heading>
         <text>By December 31, 2023, and by December 31 of each year thereafter, the Department shall publish on its website a report on District all-payer hospital costs.</text>
       </section>
       <section>
+        <codify:insert path="44|6B" num-value="44-671.04" codified:doc="D.C. Code" codified:path="§44-671.04"/>
         <num>5015</num>
         <heading proof="needed">Medicaid physician provider reimbursement.</heading>
         <text>The Mayor may direct the Department to make changes to the physician reimbursement methodology set forth in the State Plan for implementation no later than October 1, 2024.</text>
@@ -4545,25 +4692,41 @@
       <section>
         <num>5022</num>
         <text>The Grandparent Caregivers Pilot Program Establishment Act of 2005, effective March 8, 2006 (D.C. Law 16-69; D.C. Official Code § 4-251.01 <em>et seq</em>.), is amended as follows:</text>
-        <para>
+        <para codify:path="§4-251.03|(a)|(5)">
           <num>(a)</num>
           <text>Section 103(a)(5) (D.C. Official Code § 4-251.03(a)(5)) is amended by striking the phrase "income is under 200%" and inserting the phrase "income (excluding Supplemental Security Income) is under 200%" in its place.</text>
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-251.03|(a)|(5)">
+            <find>income is under 200%</find>
+            <replace>income (excluding Supplemental Security Income) is under 200%</replace>
+          </codify:find-replace>
         </para>
-        <para>
+        <para codify:path="§4-251.04|(c)">
           <num>(b)</num>
           <text>Section 104(c) (D.C. Official Code § 4-251.04(c)) is amended by striking the phrase "or Supplemental Security Income for the child." and inserting the phrase "for the child." in its place.</text>
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-251.04|(c)">
+            <find>or Supplemental Security Income for the child.</find>
+            <replace>for the child.</replace>
+          </codify:find-replace>
         </para>
       </section>
       <section>
         <num>5023</num>
         <text>The Close Relative Caregiver Subsidy Pilot Program Establishment Amendment Act of 2019, effective November 26, 2019 (D.C. Law 23-32; D.C. Official Code § 4-251.21 <em>et seq</em>.), is amended as follows:</text>
-        <para>
+        <para codify:path="§4-251.23|(a)|(5)">
           <num>(a)</num>
           <text>Section 103(a)(5) (D.C. Official Code § 4-251.23(a)(5)) is amended by striking the phrase "income is under 200%" and inserting the phrase "income (excluding Supplemental Security Income) is under 200%" in its place.</text>
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-251.23|(a)|(5)">
+            <find>income is under 200%</find>
+            <replace>income (excluding Supplemental Security Income) is under 200%</replace>
+          </codify:find-replace>
         </para>
-        <para>
+        <para codify:path="§4-251.24|(c)">
           <num>(b)</num>
           <text>Section 104(c) (D.C. Official Code § 4-251.24(c)) is amended by striking the phrase "or Supplemental Security Income for the child." and inserting the phrase "for the child." in its place.</text>
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-251.24|(c)">
+            <find>or Supplemental Security Income for the child.</find>
+            <replace>for the child.</replace>
+          </codify:find-replace>
         </para>
       </section>
     </container>
@@ -4581,6 +4744,7 @@
         <text>The Department of Health Care Finance Establishment Act of 2007, effective February 27, 2008 (D.C. Law 17-109; D.C. Official Code § 7-771.01 <em>et seq</em>.), is amended by adding a new section 11c to read as follows:</text>
         <include>
           <section>
+            <codify:insert doc="D.C. Code" path="7|7D" after="§7-771.10b" num-value="7-771.10c" codified:doc="D.C. Code" codified:path="§7-771.10c"/>
             <num>11c</num>
             <heading proof="needed">Department of Health Care Finance reporting requirements.</heading>
             <para>
@@ -4669,6 +4833,7 @@
         <text>Section 105a(a) of the Birth-to-Three for All DC Amendment Act of 2018, effective September 11, 2019 (D.C. Law 23-16; D.C. Official Code § 4-651.05a(a)), is amended by adding a new paragraph (5) to read as follows:</text>
         <include lvl="1">
           <para>
+            <codify:insert doc="D.C. Code" path="§4-651.05a|(a)" after="§4-651.05a|(a)|(4)" num-value="(5)" codified:doc="D.C. Code" codified:path="§4-651.05a|(a)|(5)"/>
             <num>(5)</num>
             <text>In Fiscal Year 2024, DHCF shall provide an amount not to exceed $225,000 to the home visiting provider who was awarded the competitive grant pursuant to paragraph (1) of this subsection, to be expended for the purposes set forth in that paragraph.</text>
           </para>
@@ -4696,6 +4861,7 @@
             <text>A new paragraph (1A) is added to read as follows:</text>
             <include lvl="1">
               <para>
+                <codify:insert doc="D.C. Code" path="§2-1517.31" after="(1)" num-value="(1A)" codified:doc="D.C. Code" codified:path="§2-1517.31|(1A)"/>
                 <num>(1A)</num>
                 <text>"DC Prevention Center" means a District of Columbia neighborhood-based center that promotes healthy, drug-free living.</text>
               </para>
@@ -4707,10 +4873,12 @@
             <text>New paragraphs (3) and (4) are added to read as follows:</text>
             <include lvl="1">
               <para>
+                <codify:insert doc="D.C. Code" path="§2-1517.31" after="(2)" num-value="(3)" codified:doc="D.C. Code" codified:path="§2-1517.31|(3)"/>
                 <num>(3)</num>
                 <text>"Resilience building" means the process by which individuals become better at reframing thought patterns and tapping into a strengths-based approach to working through obstacles.</text>
               </para>
               <para>
+                <codify:insert doc="D.C. Code" path="§2-1517.31" after="(3)" num-value="(4)" codified:doc="D.C. Code" codified:path="§2-1517.31|(4)"/>
                 <num>(4)</num>
                 <text>"School behavioral health coordinator" means a public or public charter school employee who coordinates behavioral health services and referrals.</text>
               </para>
@@ -4723,6 +4891,7 @@
           <text>A new section 204 is added to read as follows:</text>
           <include>
             <section>
+              <codify:insert doc="D.C. Code" path="2|15|I-C|B" after="§2-1517.32" num-value="2-1517.33" codified:doc="D.C. Code" codified:path="§2-1517.33"/>
               <num>204</num>
               <heading proof="needed">School-based behavioral health student peer educator pilot.</heading>
               <para>
@@ -4970,6 +5139,9 @@
           <num>(c)</num>
           <text>Within 30 days of receiving the report described in subsection (b) of this section, DBH shall submit the report to the Council and publicly post the report on its website.</text>
         </para>
+        <codify:annotation doc="D.C. Code" path="§7-1141.01" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§7-1141.01">
+          For a requirement that by October 31, 2023, the Department of Behavioral Health shall award a grant in the amount of $600,000 to a 501(c)(3) not-for-profit organization with experience in substance abuse harm reduction services to provide direct support, relationship development, and resource brokering to individuals in need of substance abuse and behavioral health services at certain locations, see <cite doc="D.C. Law 25-50" path="§5062">section 5062 of D.C. Law 25-50</cite>.
+        </codify:annotation>
       </section>
       <section>
         <num>5063</num>
@@ -4992,6 +5164,9 @@
             <num>(4)</num>
             <text>U Street, NW, between 14th Street, NW, and Georgia Avenue, NW.</text>
           </para>
+          <codify:annotation doc="D.C. Code" path="§7-1141.01" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§7-1141.01">
+          For a requirement that by October 31, 2023, the Department of Behavioral Health shall award a grant in the amount of $750,000 to an organization responsible for maintaining a Main Street corridor in Ward 1 to hire 8 full-time positions to provide direct support, relationship development, and resource brokering to individuals at certain locations, see <cite doc="D.C. Law 25-50" path="§5063">section 5063 of D.C. Law 25-50</cite>.
+        </codify:annotation>
         </para>
       </section>
     </container>
@@ -5112,7 +5287,7 @@
             <aftertext>.</aftertext>
           </para>
           <codify:annotation doc="D.C. Code" path="§44-951.04" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§44-951.04">
-            Section 5093 of D.C. Act 25-172 provided that the changes made to this section by D.C. Act 25-172 shall apply as of May 19, 2021.
+            Section 5093 of D.C. Law 25-50 provided that the changes made to this section by D.C. Law 25-50 shall apply as of May 19, 2021.
           </codify:annotation>
           <codify:emergency doc="D.C. Code" path="§44-951.04" codified:doc="D.C. Code" codified:path="§44-951.04" codified:display="Note"/>
           <codify:insert doc="D.C. Code" path="§44-951.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§44-951.04">
@@ -5192,7 +5367,7 @@
             <aftertext>.</aftertext>
           </para>
           <codify:annotation doc="D.C. Code" path="§44-951.09" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§44-951.09">
-            Section 5093 of D.C. Act 25-172 provided that the changes made to this section by D.C. Act 25-172 shall apply as of May 19, 2021.
+            Section 5093 of D.C. Law 25-50 provided that the changes made to this section by D.C. Law 25-50 shall apply as of May 19, 2021.
           </codify:annotation>
           <codify:emergency doc="D.C. Code" path="§44-951.09" codified:doc="D.C. Code" codified:path="§44-951.09" codified:display="Note"/>
           <codify:insert doc="D.C. Code" path="§44-951.09" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§44-951.09">
@@ -5237,7 +5412,7 @@
             </codify:find-replace>
           </para>
           <codify:annotation doc="D.C. Code" path="§44-951.19" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§44-951.19">
-            Section 5093 of D.C. Act 25-172 provided that the changes made to this section by D.C. Act 25-172 shall apply as of May 19, 2021.
+            Section 5093 of D.C. Law 25-50 provided that the changes made to this section by D.C. Law 25-50 shall apply as of May 19, 2021.
           </codify:annotation>
           <codify:emergency doc="D.C. Code" path="§44-951.19" codified:doc="D.C. Code" codified:path="§44-951.19" codified:display="Note"/>
           <codify:insert doc="D.C. Code" path="§44-951.19" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§44-951.19">
@@ -5476,14 +5651,8 @@
         </include>
         <aftertext>.</aftertext>
         <codify:annotation doc="D.C. Code" path="§50-921.21" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§50-921.21">
-          Section 6044 of D.C. Act 25-172 provided that the amendments to this section by § 6042 of D.C. Act 25-172 shall apply as of July 14, 2023.
+          Section 6044 of D.C. Law 25-50 provided that the amendments to this section by § 6042 of D.C. Law 25-50 shall apply as of July 14, 2023.
         </codify:annotation>
-        <codify:emergency doc="D.C. Code" path="§50-921.21" codified:doc="D.C. Code" codified:path="§50-921.21" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§50-921.21" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-921.21">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 12, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§50-921.21(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </section>
       <section codify:path="§47-362">
         <num>6043</num>
@@ -5497,14 +5666,8 @@
         </include>
         <aftertext>.</aftertext>
         <codify:annotation doc="D.C. Code" path="§47-362" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§47-362">
-          Section 6044 of D.C. Act 25-172 provided that the amendments to this section by § 6043 of D.C. Act 25-172 shall apply as of July 14, 2023.
+          Section 6044 of D.C. Law 25-50 provided that the amendments to this section by § 6043 of D.C. Law 25-50 shall apply as of July 14, 2023.
         </codify:annotation>
-        <codify:emergency doc="D.C. Code" path="§47-362" codified:doc="D.C. Code" codified:path="§47-362" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§47-362" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-362">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 12, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§47-362(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </section>
       <section>
         <num>6044</num>
@@ -6228,14 +6391,8 @@
         <heading proof="needed">Applicability.</heading>
         <text>This subtitle shall apply as of January 1, 2016.</text>
         <codify:annotation doc="D.C. Code" path="§50-1541.24a" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§50-1541.24a">
-          Section 6143 of D.C. Act 25-172 provided that the amendments to this section by § 6142 of D.C. Act 25-172 shall apply as of January 1, 2016.
+          Section 6143 of D.C. Law 25-50 provided that the amendments to this section by § 6142 of D.C. Law 25-50 shall apply as of January 1, 2016.
         </codify:annotation>
-        <codify:emergency doc="D.C. Code" path="§50-1541.24a" codified:doc="D.C. Code" codified:path="§50-1541.24a" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§50-1541.24a" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-1541.24a">
-          <text>
-      *NOTE: This section was created by emergency legislation that will expire on October 12, 2023.*
-      </text>
-        </codify:insert>
       </section>
     </container>
   </container>
@@ -6278,9 +6435,8 @@
         <num>7012</num>
         <text>Section 102(d) of the Ballpark Omnibus Financing and Revenue Act of 2004, effective April 8, 2005 (D.C. Law 15-320; D.C. Official Code § 10-1601.02(d)), is amended by striking the phrase "in which it accrues" and inserting the phrase "in which it accrues; provided further, that the first $20 million of any excess that accrues during Fiscal Year 2023, the first $22 million of any excess that accrues during Fiscal Year 2024, and the first $20 million of any excess that accrues during each of Fiscal Years 2025, 2026, and 2027 shall be deposited in the unrestricted fund balance of the General Fund during the fiscal year in which it accrues" in its place.</text>
         <codify:annotation doc="D.C. Code" path="§10-1601.02" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§10-1601.02">
-          Section 7013 of D.C. Act 25-172 provided that the amendments to this section by § 7012 of D.C. Act 25-172 shall apply as of September 1, 2023.
+          Section 7013 of D.C. Law 25-50 provided that the amendments to this section by § 7012 of D.C. Law 25-50 shall apply as of September 1, 2023.
         </codify:annotation>
-        <codify:emergency doc="D.C. Code" path="§10-1601.02" codified:doc="D.C. Code" codified:path="§10-1601.02" codified:display="Note"/>
       </section>
       <section>
         <num>7013</num>
@@ -6592,14 +6748,8 @@
           <aftertext>.</aftertext>
         </para>
         <codify:annotation doc="D.C. Code" path="§47-392.02" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§47-392.02">
-          Section 7033 of D.C. Act 25-172 provided that the amendments to this section by § 7032 of D.C. Act 25-172 shall apply as of June 27, 2023.
+          Section 7033 of D.C. Law 25-50 provided that the amendments to this section by § 7032 of D.C. Law 25-50 shall apply as of June 27, 2023.
         </codify:annotation>
-        <codify:emergency doc="D.C. Code" path="§47-392.02" codified:doc="D.C. Code" codified:path="§47-392.02" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§47-392.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-392.02">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 12, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§47-392.02(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </section>
       <section>
         <num>7033</num>

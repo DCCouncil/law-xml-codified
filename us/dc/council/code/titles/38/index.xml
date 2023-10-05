@@ -60,11 +60,13 @@
     <prefix>Chapter</prefix>
     <num>1A</num>
     <heading>District of Columbia Public Schools.</heading>
+    <xi:include href="./sections/38-170.xml"/>
     <xi:include href="./sections/38-171.xml"/>
     <xi:include href="./sections/38-172.xml"/>
     <xi:include href="./sections/38-173.xml"/>
     <xi:include href="./sections/38-174.xml"/>
     <xi:include href="./sections/38-174.01.xml"/>
+    <xi:include href="./sections/38-174.02.xml"/>
     <xi:include href="./sections/38-175.xml"/>
   </container>
   <container>
@@ -1737,6 +1739,7 @@
     <xi:include href="./sections/38-2614.xml"/>
     <xi:include href="./sections/38-2615.xml"/>
     <xi:include href="./sections/38-2616.xml"/>
+    <xi:include href="./sections/38-2617.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
