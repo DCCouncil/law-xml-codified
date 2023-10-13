@@ -396,10 +396,8 @@
   <container>
     <prefix>Chapter</prefix>
     <num>1D</num>
-    <reason>Not Funded</reason>
     <heading>Office of District Waterways Management.</heading>
-    <annotation app="notfunded" doc="D.C. Law 24-336" eff="2023-03-22" path="§6|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-336" eff="2023-03-22" path="" type="History" display="false"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-336" eff="2023-03-22" path="" type="History" display="false"/>
     <xi:include href="./sections/8-191.01.xml"/>
     <xi:include href="./sections/8-191.02.xml"/>
     <xi:include href="./sections/8-191.03.xml"/>
@@ -896,6 +894,13 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§7056" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-167" path="§7056">§ 7056 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
     <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7056" type="History" display="false"/>
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7056" type="History"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>10E</num>
+    <heading>Clean Curbs Pilot Program.</heading>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="VI" type="History" display="false"/>
+    <xi:include href="./sections/8-1090.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

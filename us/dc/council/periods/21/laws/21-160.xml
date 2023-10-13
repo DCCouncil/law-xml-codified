@@ -5538,7 +5538,7 @@
         <para>
           <num>(a)</num>
           <text>Subsection (a) is amended by striking the word "Mayor" and inserting the phrase "District Department of Transportation ("DDOT")" in its place.</text>
-          <codify:find-replace path="(a)" count="1" codified:doc="D.C. Code" codified:path="§38-3101|(a)">
+          <codify:find-replace path="(a)" count="1" codified:doc="D.C. Code" codified:path="§38-3101">
             <find>Mayor</find>
             <replace>District Department of Transportation ("DDOT")</replace>
           </codify:find-replace>
@@ -5548,7 +5548,7 @@
           <text>A new subsection (a-1) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§38-3101|(a-1)"/>
+              <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§38-3101"/>
               <num>(a-1)</num>
               <para>
                 <num>(1)</num>
@@ -5577,17 +5577,17 @@
         <para>
           <num>(c)</num>
           <text>Subsections (b), (c), (d), and (e)(2) are amended by striking the word "Mayor" wherever it appears and inserting the acronym "DDOT" in its place.</text>
-          <codify:find-replace path="(b)" find="Mayor" replace="DDOT" codified:doc="D.C. Code" codified:path="§38-3101|(b)"/>
-          <codify:find-replace path="(c)" find="Mayor" replace="DDOT" codified:doc="D.C. Code" codified:path="§38-3101|(c)"/>
-          <codify:find-replace path="(d)" find="Mayor" replace="DDOT" codified:doc="D.C. Code" codified:path="§38-3101|(d)"/>
-          <codify:find-replace path="(e)|(2)" find="Mayor" replace="DDOT" codified:doc="D.C. Code" codified:path="§38-3101|(e)|(2)"/>
+          <codify:find-replace path="(b)" find="Mayor" replace="DDOT" codified:doc="D.C. Code" codified:path="§38-3101"/>
+          <codify:find-replace path="(c)" find="Mayor" replace="DDOT" codified:doc="D.C. Code" codified:path="§38-3101"/>
+          <codify:find-replace path="(d)" find="Mayor" replace="DDOT" codified:doc="D.C. Code" codified:path="§38-3101"/>
+          <codify:find-replace path="(e)|(2)" find="Mayor" replace="DDOT" codified:doc="D.C. Code" codified:path="§38-3101"/>
         </para>
         <para>
           <num>(d)</num>
           <text>A new subsection (d-1) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(d)" codified:doc="D.C. Code" codified:path="§38-3101|(d-1)"/>
+              <codify:insert after="(d)" codified:doc="D.C. Code" codified:path="§38-3101"/>
               <num>(d-1)</num>
               <text>A public charter school shall coordinate with the Metropolitan Police Department to provide the DDOT with the information in subsection (c)(1) and (2) of this section no later than 15 days after the date of the request.</text>
             </para>
@@ -5597,7 +5597,7 @@
         <para>
           <num>(e)</num>
           <text>Subsection (f) is amended by striking the phrase "District Department of Transportation" and inserting the acronym "DDOT" in its place.</text>
-          <codify:find-replace path="(f)" count="1" codified:doc="D.C. Code" codified:path="§38-3101|(f)">
+          <codify:find-replace path="(f)" count="1" codified:doc="D.C. Code" codified:path="§38-3101">
             <find>District Department of Transportation</find>
             <replace>DDOT</replace>
           </codify:find-replace>
@@ -5607,7 +5607,7 @@
           <text>Subsection (f-1) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace path="(f-1)" codified:doc="D.C. Code" codified:path="§38-3101|(f-1)"/>
+              <codify:replace path="(f-1)" codified:doc="D.C. Code" codified:path="§38-3101"/>
               <num>(f-1)</num>
               <text>The DDOT shall provide, by July 31st of each year, recommendations to the Mayor, the Council, the Chancellor of the District of Columbia Public Schools, the Public Charter School Board, and the Chief of the Metropolitan Police Department on the deployment of school crossing guards, taking into account the impact of school closings and reconfigurations, projected enrollment, traffic conditions, investigations conducted pursuant to subsections (a) and (a-1) of this section, and all other relevant factors.</text>
             </para>

@@ -1,14 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-1071.05</num>
   <heading proof="needed">Rules.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>The Mayor, pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>), shall issue rules necessary to implement the provisions of this title, including:</text>
+    <para>
+      <num>(1)</num>
+      <text>When the requirement to modify or replace a services contract under section 102(b)(4) shall apply;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Recordkeeping requirements for a hiring entity or a referral agency; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Procedures for limiting the collection, retention, use, and disclosure of information related to the immigration status of individuals covered by this title.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§32-1071.05" codified:display="Note" codified:doc="D.C. Code" codified:path="§32-1071.05">Applicability of <cite doc="D.C. Law 24-305" path="">D.C. Law 24-305</cite>: <cite doc="D.C. Law 24-305" path="§401">§ 401 of D.C. Law 24-305</cite> provided that the creation of this section by <cite doc="D.C. Law 24-305" path="§105">§ 105 of D.C. Law 24-305</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2023-03-10" doc="D.C. Law 24-305" eff="2023-03-10" path="" type="History" display="false"/>
     <annotation app="2023-03-10" doc="D.C. Law 24-305" eff="2023-03-10" path="§401|(a)|(1)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-305" eff="2023-03-10" path="§105" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-305" path="§105" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-305" path="">D.C. Law 24-305</cite>: <cite doc="D.C. Law 24-305" path="§401">§ 401 of D.C. Law 24-305</cite> provided that the creation of this section by <cite doc="D.C. Law 24-305" path="§105">§ 105 of D.C. Law 24-305</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-03-10" doc="D.C. Law 24-305" eff="2023-03-10" path="§105" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-305" path="§105" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-305" path="">D.C. Law 24-305</cite>: <cite doc="D.C. Law 24-305" path="§401">§ 401 of D.C. Law 24-305</cite> provided that the creation of this section by <cite doc="D.C. Law 24-305" path="§105">§ 105 of D.C. Law 24-305</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7090|(a)" type="History" display="false"/>
+    <annotation doc="D.C. Law 25-50" path="§7090|(a)" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7090">Section 7090(a) of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-305" path="§401">section 401 of D.C. Law 24-305</cite> changing the applicability provision impacting this section to January 1, 2023.  Therefore the creation of this section by Law 24-305 has been implemented.
+        </annotation>
   </annotations>
 </section>

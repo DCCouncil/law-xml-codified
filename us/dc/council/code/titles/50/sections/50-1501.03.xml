@@ -111,8 +111,12 @@
                 <td>$500</td>
               </tr>
               <tr>
-                <td>Class V  (A new electric vehicle, other than a motorcycle and motorized bicycle) (This provision shall only apply to the first 2 years of the vehicle's registration, after which the vehicle shall be treated as a Class I, Class II, or Class III, Class IV, whichever is applicable.)</td>
+                <td>Class V  (A new electric vehicle, other than a motorcycle and motorized bicycle, less than 5,000 pounds.) (This provision shall only apply to the first 2 years of the vehicle's registration, after which the vehicle shall be treated as Class I or Class II, whichever is applicable.)</td>
                 <td>$36</td>
+              </tr>
+              <tr>
+                <td>Class VI (vehicles 3,500 pounds or greater that have been issued a disability license tag by the Department of Motor Vehicles pursuant to 18 DCMR § 2704, if the vehicle weight above 3,499 pounds is due to the accommodation of a disability)</td>
+                <td>$72</td>
               </tr>
             </tbody>
           </table>
@@ -120,11 +124,15 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>As of October 1, 2023, an electric vehicle may subtract 1,000 pounds from its manufacturer's shipping weight for the purposes of this paragraph.</text>
+        <text>As of October 1, 2023, an electric vehicle with a manufacturer's shipping weight less than 5,000 pounds may subtract 1,000 pounds from its manufacturer's shipping weight for the purposes of this paragraph.</text>
       </para>
       <para>
         <num>(C)</num>
         <text>Class IV shall only apply after September 30, 2023.</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Class VI shall only apply after September 30, 2023.</text>
       </para>
     </para>
     <para>
@@ -450,5 +458,8 @@
     <annotation app="2023-08-24" doc="D.C. Law 25-45" eff="2023-08-24" path="§3|(b)|(2)|(A)" type="History"/>
     <annotation app="2023-08-24" doc="D.C. Law 25-45" eff="2023-08-24" path="§3|(b)|(2)|(B)" type="History"/>
     <annotation app="2023-08-24" doc="D.C. Law 25-45" eff="2023-08-24" path="§3|(b)|(2)|(C)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6032|(b)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6032|(a)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6032|(c)" type="History"/>
   </annotations>
 </section>

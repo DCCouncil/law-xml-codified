@@ -1,14 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-551.01a</num>
   <heading proof="needed">Definitions.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>For the purposes of <cite path="10|5A">this chapter</cite>, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>"Department" means the Department of General Services.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"LEED-CS" and "LEED-NC" shall have the same meanings as provided in <cite path="§6-1451.01|(28)">§ 6-1451.01(28)</cite> and <cite path="§6-1451.01|(30)">(30)</cite>).</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Net zero energy compliance" shall have the same meaning as provided in <cite path="§6-1451.02|(a)|(7)">§ 6-1451.02(a)(7)</cite>).</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 19-21" type="History" path="§1022a">Sept. 14, 2011, D.C. Law 19-21, § 1022a</annotation>
-    <annotation app="notfunded" doc="D.C. Law 24-306" eff="2023-03-10" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-306" eff="2023-03-10" path="§3|(c)" prefix="as added" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-306" eff="2023-03-10" path="§3|(c)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-306" path="§3|(c)" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-306" path="">D.C. Law 24-306</cite>: <cite doc="D.C. Law 24-306" path="§4">§ 4 of D.C. Law 24-306</cite> provided that the creation of this section by <cite doc="D.C. Law 24-306" path="§3|(c)">§ 3(c) of D.C. Law 24-306</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-03-10" doc="D.C. Law 24-306" eff="2023-03-10" path="§3|(c)" type="History"/>
+    <annotation doc="D.C. Law 25-50" path="§7091" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7091">Section 7091 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 24-306" path="§4">section 4 of D.C. Law 24-306</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 3(c) of Law 24-306 has been implemented.
+        </annotation>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7091" type="History" display="false"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§8002|(d)" type="History"/>
   </annotations>
 </section>

@@ -713,7 +713,7 @@
           <para>
             <codify:insert codified:doc="D.C. Code" codified:path="§47-2887.10|(h)"/>
             <num>(h)</num>
-            <text>For the purposes of this section, the term "communicates<span codify:value="[&quot;]"/> or <span codify:value="[&quot;]"/>attempts<span codify:value="[]">"</span> to communicate" means contacting or attempting to contact by an in-person meeting, a record, or any other method that conveys or attempts to convey a message.</text>
+            <text>For the purposes of this section, the term "communicates or attempts" to communicate" means contacting or attempting to contact by an in-person meeting, a record, or any other method that conveys or attempts to convey a message.</text>
           </para>
         </include>
         <aftertext>.</aftertext>
@@ -857,7 +857,7 @@
       <text>A new section 47-2887.16A is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert doc="D.C. Code" path="47|28|IV|E" after="§47-2887.16" num-value="[47-2887.16a]" codified:doc="D.C. Code" codified:path="§[47-2887.16a]"/>
+          <codify:insert doc="D.C. Code" path="47|28|IV|E" after="§47-2887.16" num-value="[47-2887.16a]" codified:doc="D.C. Code" codified:path="§47-2887.16a"/>
           <prefix>§</prefix>
           <num>47-1887.16A</num>
           <heading proof="needed">Rules.</heading>

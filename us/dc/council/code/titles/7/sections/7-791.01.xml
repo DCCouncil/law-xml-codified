@@ -1,18 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-791.01</num>
   <heading proof="needed">Definitions.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>For purposes of <cite path="7|7F">this chapter</cite>, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>"High-need healthcare career" means a career as nursing assistive personnel, an emergency medical technician, a paramedic, or any healthcare profession as may be determined by the Mayor.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Program" means the High-Need Healthcare Career Scholarships and Supports Program established pursuant to <cite path="7|7F">this chapter</cite>.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§7-791.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-791.01">Applicability of <cite doc="D.C. Law 24-313" path="">D.C. Law 24-313</cite>: <cite doc="D.C. Law 24-313" path="§301">§ 301 of D.C. Law 24-313</cite> provided that the creation of this section by <cite doc="D.C. Law 24-313" path="§101">§ 101 of D.C. Law 24-313</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-468" path="§101" codified:display="Note" app="2023-03-10" eff="2022-07-06">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-468" path="§101">§ 101 of High Need Healthcare Career Scholarship and Health Professional Loan Repayment Program Emergency Amendment Act of 2022 (D.C. Act 24-468, July 6, 2022, 69 DCR 008390)</cite>.</annotation>
     <annotation app="2023-03-10" doc="D.C. Act 24-468" eff="2022-07-06" path="§101" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-184" path="§101" codified:display="Note" app="2023-03-10" eff="2022-09-21">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-184" path="§101">§ 101 of High Need Healthcare Career Scholarship and Health Professional Loan Repayment Program Temporary Amendment Act of 2022 (D.C. Law 24-184, Sept. 21, 2022, 0 DCR 0)</cite>.</annotation>
     <annotation app="2023-03-10" doc="D.C. Law 24-184" eff="2022-09-21" path="§101" type="History" display="false"/>
     <annotation app="2023-03-10" doc="D.C. Law 24-313" eff="2023-03-10" path="" type="History" display="false"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-313" eff="2023-03-10" path="§301|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-313" eff="2023-03-10" path="§101" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-313" path="§101" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-313" path="">D.C. Law 24-313</cite>: <cite doc="D.C. Law 24-313" path="§301">§ 301 of D.C. Law 24-313</cite> provided that the creation of this section by <cite doc="D.C. Law 24-313" path="§101">§ 101 of D.C. Law 24-313</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-03-10" doc="D.C. Law 24-313" eff="2023-03-10" path="§101" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-313" path="§101" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-313" path="">D.C. Law 24-313</cite>: <cite doc="D.C. Law 24-313" path="§301">§ 301 of D.C. Law 24-313</cite> provided that the creation of this section by <cite doc="D.C. Law 24-313" path="§101">§ 101 of D.C. Law 24-313</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

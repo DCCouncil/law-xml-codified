@@ -1,14 +1,92 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-742.11</num>
   <heading proof="needed">Definitions.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>For the purposes of <cite path="7|7A|III-A">this subchapter</cite>, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>"Department" means the Department of Health.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Food establishment" shall have the same meaning as provided in <cite path="§48-102|(5)">§ 48-102(5)</cite>.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Microenterprise home kitchen business means a business that:</text>
+      <para>
+        <num>(A)</num>
+        <text>Operates out of a non-commercial kitchen facility located in a private home and is operated by a resident of the home where ready-to-eat food is handled, stored, or prepared to be offered for sale;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Sells ready-to-eat food products directly to consumers in accordance with <cite path="§7-742.12">§ 7-742.12</cite> and regulations adopted by the Department of Health;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Has obtained a home occupancy permit from the Department of Licensing and Consumer Protection pursuant to section 203 of Title 11 of the District of Columbia Municipal Regulations (11 DCMR § 203);</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Does not prepare food with processes that require a Hazard Analysis and Critical Control Point (HACCP) Plan pursuant to section 4202 of Title 25-A of the District of Columbia Municipal Regulations (25-A DCMR § 4202);</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Does not include food manufacturing, and does not prepare alcohol-infused food products or food products containing cannabis, CBD, Kava, Kratom or any other unapproved food additive;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Is not a catering business, cottage food business, bed and breakfast, residence-based group home facility, or food truck;</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Meets labeling requirements set forth in rules issued by the Department; and</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>Has applied for and is otherwise eligible for a vending site permit under <cite path="37|1A">Chapter 1A of Title 37</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"Microenterprise home kitchen permit" means a permit issued by the Department to an operator for the purpose of operating a microenterprise home kitchen business.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"Operator" means an individual who resides in the private home and who manages or controls the microenterprise home kitchen business.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>"Ready-to-eat food" means:</text>
+      <para>
+        <num>(A)</num>
+        <text>Fully cooked food, including, but not limited to, meat, fish, fruit, and vegetables;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Raw fruit and vegetables that are washed and offered for sale whole or chopped;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Any other time or temperature control food that is cooked to the temperature and time required for the specific food in accordance with regulations made by the Department; or</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>A bakery item for which further cooking is not required for food safety.</text>
+      </para>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>"Time or temperature control food" means food that requires time or temperature controls for safety to limit pathogenic microorganism growth or toxin formation.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§7-742.11" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-742.11">Applicability of <cite doc="D.C. Law 25-21" path="">D.C. Law 25-21</cite>: <cite doc="D.C. Law 25-21" path="§5">§ 5 of D.C. Law 25-21</cite> provided that the creation of this section by <cite doc="D.C. Law 25-21" path="§2">§ 2 of D.C. Law 25-21</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 14-28" type="History" path="§4935">Oct. 3, 2001, D.C. Law 14-28, § 4935</annotation>
     <annotation app="2023-07-01" doc="D.C. Law 25-21" eff="2023-07-01" path="" type="History" display="false"/>
-    <annotation app="2023-07-01" doc="D.C. Law 25-21" eff="2023-07-01" path="§5|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-21" eff="2023-07-01" path="§2" prefix="as added" type="History"/>
+    <annotation app="2023-07-01" doc="D.C. Law 25-21" eff="2023-07-01" path="§2" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 25-21" path="§2" codified:display="Note" app="2023-07-01" eff="2023-07-01">Applicability of <cite doc="D.C. Law 25-21" path="">D.C. Law 25-21</cite>: <cite doc="D.C. Law 25-21" path="§5">§ 5 of D.C. Law 25-21</cite> provided that the creation of this section by <cite doc="D.C. Law 25-21" path="§2">§ 2 of D.C. Law 25-21</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-07-01" doc="D.C. Law 25-21" eff="2023-07-01" path="§2" type="History"/>
   </annotations>

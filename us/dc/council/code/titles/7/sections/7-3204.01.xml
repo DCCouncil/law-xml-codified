@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>7-3204.01</num>
   <heading>District government use of opioid antagonists.</heading>
-  <text>Not Funded.</text>
+  <text>Repealed.</text>
   <annotations>
     <annotation doc="D.C. Law 22-288" type="History" path="§104a">Apr. 11, 2019, D.C. Law 22-288, § 104a</annotation>
     <annotation app="2019-04-11" doc="D.C. Law 22-288" eff="2019-04-11" path="" type="History" display="false"/>
@@ -16,5 +16,9 @@
     <annotation type="Applicability" doc="D.C. Law 23-182" path="§3|(b)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-182" path="">D.C. Law 23-182</cite>: <cite doc="D.C. Law 23-182" path="§6">§ 6 of D.C. Law 23-182</cite> provided that the creation of this section by <cite doc="D.C. Law 23-182" path="§3|(b)">§ 3(b) of D.C. Law 23-182</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-182" eff="2021-03-16" path="§3|(b)" type="History"/>
     <annotation app="2023-03-10" doc="D.C. Law 24-315" eff="2023-03-10" path="I" type="History" display="false"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7003" type="History"/>
+    <annotation doc="D.C. Law 25-50" path="§7003" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C. Law 25-50" path="§7003"> Section 7003 of D.C. Law 25-50</cite> repealed §§ 3 and 6 of D.C. Law 23-182 including the applicability provisions impacting this section. 
+        </annotation>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7003" type="History" display="false"/>
   </annotations>
 </section>

@@ -1,13 +1,68 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-3106</num>
   <heading proof="needed">Action Plans and spot safety assessments.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>Beginning June 1, 2024, DDOT shall produce an Action Plan for at least 25 schools per school year, with schools prioritized in the order listed in the version of the Safe Streets for Students Master Plan or Master Plan modification most recently approved by the Council.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>DDOT shall undertake spot safety assessments upon request.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <para>
+        <num>(A)</num>
+        <text>DDOT may stipulate the manner in which requests for spot safety assessments ("requests") are to be submitted to the agency but shall provide a method to submit requests to the Safe Routes to School Program.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Requests received by the Safe Routes to School Program shall be posted to DDOT's Traffic Safety Investigation Dashboard ("dashboard").</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <para>
+          <num>(i)</num>
+          <text>For requests submitted to the Safe Routes to School Program after October 1, 2023, the dashboard shall denote that the request was submitted to the Safe Routes to School Program.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>As of October 1, 2023, DDOT shall permit residents to sort requests by those submitted to the Safe Routes to School Program.</text>
+        </para>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <para>
+      <num>(1)</num>
+      <text>DDOT shall install traffic safety infrastructure where called for under an Action Plan, spot safety assessment, or any other assessment or investigation focused on improving traffic safety for a school.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Where a traffic safety installation called for under an Action Plan or spot safety assessment is not completed within one year after the conclusion of the Action Plan or spot safety assessment, DDOT shall provide written notice of the basis for the delay to the principals of schools within 1/10th of a mile of the location of the traffic safety installation, the Ward Councilmember whose ward includes the location of the traffic safety installation, and the Chairs of the Council Committees with oversight of DCPS and the Public Charter School Board.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§38-3106" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-3106">Applicability of <cite doc="D.C. Law 24-285" path="">D.C. Law 24-285</cite>: <cite doc="D.C. Law 24-285" path="§4">§ 4 of D.C. Law 24-285</cite> provided that the creation of this section by <cite doc="D.C. Law 24-285" path="§2|(b)">§ 2(b) of D.C. Law 24-285</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <para>
+    <num>(d)</num>
+    <text>Any barriers preventing implementation or installation of certain traffic safety infrastructure identified in an Action Plan shall not waive the obligation of the implementation or installation of remaining traffic safety infrastructure identified in the Action Plan.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>For Action Plans finalized before October 1, 2023, if any new barriers preventing implementation or installation of certain traffic safety infrastructure are identified after the Action Plan is finalized, DDOT shall, within 60 days after identifying the new barrier, transmit to the Council and post on the DDOT website a description of the newly identified barrier.</text>
+  </para>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 24-285" eff="2023-03-10" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-285" eff="2023-03-10" path="§2|(b)" type="History"/>
+    <annotation doc="D.C. Law 13-111" type="History" path="§2e">May 23, 2000, D.C. Law 13-111, § 2e</annotation>
+    <annotation app="2023-03-10" doc="D.C. Law 24-285" eff="2023-03-10" path="§2|(b)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-285" path="§2|(b)" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-285" path="">D.C. Law 24-285</cite>: <cite doc="D.C. Law 24-285" path="§4">§ 4 of D.C. Law 24-285</cite> provided that the creation of this section by <cite doc="D.C. Law 24-285" path="§2|(b)">§ 2(b) of D.C. Law 24-285</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-03-10" doc="D.C. Law 24-285" eff="2023-03-10" path="§2|(b)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6122|(b)" type="History"/>
+    <annotation doc="D.C. Law 25-50" path="§6123|(a)" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§6123">Section 6123 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-285" path="§4">section 4 of D.C. Law 24-285</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 2(b) of Law 24-285 has been implemented.
+        </annotation>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6123|(a)" type="History" display="false"/>
   </annotations>
 </section>

@@ -1,13 +1,66 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>37-131.06b</num>
   <heading proof="needed">Food vending cart and vehicle design standards.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>Food vending cart and vehicle designs shall be subject to rules promulgated by the Department of Licensing and Consumer Protection; provided, that food vending carts and vehicles for vendors:</text>
+    <para>
+      <num>(1)</num>
+      <text>Selling only non-potentially hazardous uncut fruits and vegetables shall not be required to include freshwater tanks, wastewater tanks, or food, ware, or hand washing sinks or sink compartments; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Selling non-potentially hazardous uncut fruits and vegetables, and potentially hazardous pre-packaged foods, including frozen desserts, sandwiches, and pre-cut fruits and vegetables, shall not be required to include freshwater tanks, or food, ware, or hand washing sinks or compartments.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>The Department of Licensing and Consumer Protection shall, in consultation with the Department of Health, establish a process through which businesses, community-based organizations, and vendors can submit food vending cart designs and specifications for approval by the Department of Licensing and Consumer Protection.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>When determining whether to approve a specific food vending cart design, the Department of Licensing and Consumer Protection shall consider the following:</text>
+      <para>
+        <num>(A)</num>
+        <text>Whether the food items that will be sold by users of the food vending cart:</text>
+        <para>
+          <num>(i)</num>
+          <text>Are potentially hazardous, as defined in section 9901 of Title 25-A of the District of Columbia Municipal Regulations (25-A DCMR § 9901);</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Will be prepared off-site or at the cart; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Are packaged off-site, are packaged at the cart, or are sold unpackaged;</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Whether the application of existing food cart design requirements is necessary given the food items that will be offered for sale; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Whether the application of existing food cart design requirements would render the sale of the proposed food items unfeasible due to the size or potential cost of the cart.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>When the Department of Licensing and Consumer Protection denies a proposed food vending cart design, the Department shall provide the applicant with the specific reasons and justifications for a denial. The business, non-profit, community-based organization, or vendor who submitted the designs and specifications that were denied may, within 30 business days of receiving a denial, submit revised food vending cart design plans and specifications for consideration by the Department.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>When the Department of Licensing and Consumer Protection approves a food vending cart design, the Department shall post the final design, including any design specifications and equipment requirements for the cart, publicly on its website.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§37-131.06b" codified:display="Note" codified:doc="D.C. Code" codified:path="§37-131.06b">Applicability of <cite doc="D.C. Law 25-21" path="">D.C. Law 25-21</cite>: <cite doc="D.C. Law 25-21" path="§5">§ 5 of D.C. Law 25-21</cite> provided that the creation of this section by <cite doc="D.C. Law 25-21" path="§3|(c)">§ 3(c) of D.C. Law 25-21</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 18-71" type="History" path="§7b">Oct. 22, 2009, D.C. Law 18-71, § 7b</annotation>
-    <annotation app="2023-07-01" doc="D.C. Law 25-21" eff="2023-07-01" path="§5|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-21" eff="2023-07-01" path="§3|(c)" prefix="as added" type="History"/>
+    <annotation app="2023-07-01" doc="D.C. Law 25-21" eff="2023-07-01" path="§3|(c)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 25-21" path="§3|(c)" codified:display="Note" app="2023-07-01" eff="2023-07-01">Applicability of <cite doc="D.C. Law 25-21" path="">D.C. Law 25-21</cite>: <cite doc="D.C. Law 25-21" path="§5">§ 5 of D.C. Law 25-21</cite> provided that the creation of this section by <cite doc="D.C. Law 25-21" path="§3|(c)">§ 3(c) of D.C. Law 25-21</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-07-01" doc="D.C. Law 25-21" eff="2023-07-01" path="§3|(c)" type="History"/>
   </annotations>
