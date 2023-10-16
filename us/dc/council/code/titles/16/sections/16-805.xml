@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>16-805</num>
+  <text>
+      *NOTE: Amendment made to this section by section 7088(b) of D.C. Law 25-50 is applicable January 1, 2026.*
+      </text>
   <heading>Review by Court.</heading>
   <para>
     <num>(a)</num>
@@ -43,5 +46,6 @@
     <annotation app="notfunded" doc="D.C. Law 24-284" eff="2023-03-10" path="§301|(a)" type="History" display="false"/>
     <annotation app="2023-03-10" doc="D.C. Law 24-284" eff="2023-03-10" path="§101|(b)" type="History"/>
     <annotation app="notfunded" doc="D.C. Law 24-284" eff="2023-03-10" path="§101|(b)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7088|(b)|(2)|(A)" type="History" display="false"/>
   </annotations>
 </section>
