@@ -5699,7 +5699,7 @@
           <para>
             <codify:insert codified:doc="D.C. Code" codified:path="§47-362|(i)"/>
             <num>(i)</num>
-            <text>Notwithstanding <cite doc="D.C. Code" path="§47-363">§ 47-363</cite>, beginning October 1, 2023, until evidence that DDOT has executed the contract required pursuant to <cite doc="D.C. Code" path="§50-921.21|(c)|(i)">§ 50-921.21(c)(1)</cite> is transmitted to the Council and the Chair of the Council Committee with oversight of the District Department of Transportation, the District Department of Transportation shall not make a capital reprogramming unless the Council approves the reprogramming by resolution.</text>
+            <text>Notwithstanding <cite doc="D.C. Code" path="§47-363">§ 47-363</cite>, beginning October 1, 2023, until evidence that DDOT has executed the contract required pursuant to <cite doc="D.C. Code" path="§50-921.21|(c)|(1)">§ 50-921.21(c)(1)</cite> is transmitted to the Council and the Chair of the Council Committee with oversight of the District Department of Transportation, the District Department of Transportation shall not make a capital reprogramming unless the Council approves the reprogramming by resolution.</text>
           </para>
         </include>
         <aftertext>.</aftertext>
@@ -7849,11 +7849,9 @@
       <para>
         <num>(a)</num>
         <text>Amendatory section 108(d)(1)(B) of the Urban Forest Preservation Act of 2002, effective June 12, 2003 (D.C. Law 14-309; D.C. Official Code § 8-651.08(d)(1)(B)), in section 2(g)(2) of the Urban Forest Preservation Authority Amendment Act of 2022, effective August 16, 2022 (D.C. Law 24-152; 69 DCR 7730), is amended by striking the phrase "effective date of this act." and inserting the phrase "effective date of the Urban Forest Preservation Authority Amendment Act of 2022, effective August 16, 2022 (D.C. Law 24-152; 69 DCR 7730)." in its place.</text>
-        <codify:find-replace doc="D.C. Code" path="§8-651.08|(d)|(1)|(B)" count="1" codified:doc="D.C. Code" codified:path="§8-651.08|(d)|(1)|(B)">
+        <codify:find-replace path="§8-651.08|(d)|(1)|(B)" count="1" codified:doc="D.C. Code" codified:path="§8-651.08|(d)|(1)|(B)">
           <find>the effective date of this act</find>
-          <replace>
-            <span codify:value="August 16, 2022">the effective date of this act</span>
-          </replace>
+          <replace>August 16, 2022</replace>
         </codify:find-replace>
       </para>
       <para>
@@ -7911,16 +7909,16 @@
       <para>
         <num>(f)</num>
         <text>Section 3 of the Local Solar Expansion Amendment Act of 2022, effective March 10, 2023 (D.C. Law 24-314; 70 DCR 606), is amended by striking the phrase "subsection (a) of this section;" and inserting the phrase "section 4;" in its place.</text>
-        <codify:annotation path="§34-1432" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§34-1432">
+        <codify:annotation path="§34-1432" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§34-1432">
           For a technical correction to section 3 of D.C. Law 24-314, see <cite doc="D.C. Law 25-50" path="§8002|(f)">section 8002(f) of D.C. Law 25-50</cite>.
         </codify:annotation>
-        <codify:annotation path="§34-1434" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§34-1434">
+        <codify:annotation path="§34-1434" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§34-1434">
           For a technical correction to section 3 of D.C. Law 24-314, see <cite doc="D.C. Law 25-50" path="§8002|(f)">section 8002(f) of D.C. Law 25-50</cite>.
         </codify:annotation>
-        <codify:annotation path="§34-1436" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§34-1436">
+        <codify:annotation path="§34-1436" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§34-1436">
           For a technical correction to section 3 of D.C. Law 24-314, see <cite doc="D.C. Law 25-50" path="§8002|(f)">section 8002(f) of D.C. Law 25-50</cite>.
         </codify:annotation>
-        <codify:annotation path="§34-1436.01" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§34-1436.01">
+        <codify:annotation path="§34-1436.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§34-1436.01">
           For a technical correction to section 3 of D.C. Law 24-314, see <cite doc="D.C. Law 25-50" path="§8002|(f)">section 8002(f) of D.C. Law 25-50</cite>.
         </codify:annotation>
       </para>
