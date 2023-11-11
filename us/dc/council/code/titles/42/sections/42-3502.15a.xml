@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-3502.15a</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§42-3502.15a(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Voluntary agreement moratorium.</heading>
   <para>
     <num>(a)</num>
@@ -8,7 +11,7 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>Subsection (a) of this section shall not affect any voluntary agreements that have already been approved by the Rent Administrator pursuant to section 215(b) prior to October 1, 2021.</text>
+    <text>Subsection (a) of this section shall not affect any voluntary agreements that have already been approved by the Rent Administrator pursuant to <cite path="§42-3502.15|(b)">§ 42-3502.15(b)</cite> prior to October 1, 2021.</text>
   </para>
   <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§42-3502.15a" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-3502.15a">Applicability of <cite doc="D.C. Law 23-246" path="">D.C. Law 23-246</cite>: <cite doc="D.C. Law 23-246" path="§3">§ 3 of D.C. Law 23-246</cite> provided that the creation of this section by <cite doc="D.C. Law 23-246" path="§2">§ 2 of D.C. Law 23-246</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
@@ -22,6 +25,8 @@
     <annotation doc="D.C. Law 24-45" path="§7206" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7206">Section 7206 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-246" path="§3">section 3 of D.C. Law 23-246</cite> that impacted this section.  Therefore the amendment of this section by Law 23-246 has been implemented.
         </annotation>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7206" type="History" display="false"/>
+    <annotation app="2023-10-11" doc="D.C. Act 25-240" eff="2023-10-11" path="§2" type="History" display="false"/>
     <annotation app="2023-10-11" doc="D.C. Act 25-240" eff="2023-10-11" path="§2" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-240" path="§2" codified:display="Note" app="2023-10-11" eff="2023-10-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-240" path="§2">§ 2 of Voluntary Agreement Moratorium Emergency Amendment Act of 2023 (D.C. Act 25-240, Oct. 11, 2023, 70 DCR 13802)</cite>.</annotation>
   </annotations>
 </section>
