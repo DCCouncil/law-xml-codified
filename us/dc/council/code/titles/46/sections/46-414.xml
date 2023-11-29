@@ -1,8 +1,56 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>46-414</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 13, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§46-414(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Record books.</heading>
-  <text>The Clerk of the said Court shall provide a record book in his office, consisting of applications and licenses in blank, to be filled up by him with the names and residences of the parties for whose marriage any license may have been issued, said applications and licenses to be numbered consecutively from 1 upward, and also a record book in which shall be recorded, in the order of their numbers, the certificates of the minister or other persons authorized, upon their return to said office, corresponding to said record book of licenses issued, and a copy of any license and certificate of marriage so kept and recorded, certified by the Clerk under his hand and seal, shall be competent evidence of the marriage.</text>
+  <para>
+    <num>(a)</num>
+    <text>The Clerk of the said Court shall provide a record book in his office, consisting of applications and licenses in blank, to be filled up by him with the names and residences of the parties for whose marriage any license may have been issued, said applications and licenses to be numbered consecutively from 1 upward, and also a record book in which shall be recorded, in the order of their numbers, the certificates of the minister or other persons authorized, upon their return to said office, corresponding to said record book of licenses issued, and a copy of any license and certificate of marriage so kept and recorded, certified by the Clerk under his hand and seal, shall be competent evidence of the marriage.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>The Mayor shall maintain:</text>
+      <para>
+        <num>(A)</num>
+        <text>A true and accurate copy of each marriage license issued by the Mayor affixed with a seal;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Each marriage license certificate returned to the Mayor by a minister, magistrate, or other person authorized by <cite path="§46-406">§ 46-406</cite> to perform or witness a marriage ceremony;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A record book filled with the names and residences of the parties for whose marriage any license has been issued by the Mayor; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>A record book filled with the names of each minister, magistrate, or other person authorized by <cite path="§46-406">§ 46-406</cite> to perform or witness a marriage ceremony ("officiant") who has returned a marriage license certificate to the Mayor and the license number of each marriage license certificate returned by the officiant.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A copy of each license and marriage license certificate so kept and recorded, certified by the Mayor, shall be competent evidence of the marriage.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The Mayor shall number each marriage license consecutively, from one upward, and with an alphabetical prefix to such number to distinguish each license issued by the Mayor from licenses issued by the Clerk of the Superior Court of the District of Columbia.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <para>
+      <num>(1)</num>
+      <text>Within 5 business days after a marriage license is issued by the Mayor or a marriage license certificate is returned to the Mayor by a minister, magistrate, or other person authorized by <cite path="§46-406">§ 46-406</cite> to perform or witness a marriage ceremony, the Mayor shall transmit to the Clerk of the Superior Court of the District of Columbia a true and accurate copy of the marriage license or marriage license certificate.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A copy of each license and marriage license certificate so transmitted, as maintained and certified by the Clerk, shall be competent evidence of the marriage.</text>
+    </para>
+  </para>
   <annotations>
     <annotation type="History" doc="Stat. 56-2-ch854" path="§1295">Mar. 3, 1901, 31 Stat. 1393, ch. 854, § 1295</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 30-114.</annotation>
@@ -11,5 +59,9 @@
     <annotation type="Cross References">False or fictitious transcript of any record of marriage, penalties, see §§ <cite path="§7-220">7-220</cite>, <cite path="§7-225">7-225</cite>.</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-1" path="§2|(e)" codified:display="Note" app="2019-01-11" eff="2019-01-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-1" path="§2|(e)">§ 2(e) of Let Our Vows Endure Emergency Amendment Act of 2019 (D.C. Act 23-1, Jan. 11, 2019, 66 DCR 600)</cite>.</annotation>
     <annotation app="2019-01-11" doc="D.C. Act 23-1" eff="2019-01-11" path="§2|(e)" type="History" display="false"/>
+    <annotation app="2023-11-15" doc="D.C. Act 25-296" eff="2023-11-15" path="§2|(e)" type="History" display="false"/>
+    <annotation app="2023-11-15" doc="D.C. Act 25-296" eff="2023-11-15" path="§2|(e)|(1)" type="History"/>
+    <annotation app="2023-11-15" doc="D.C. Act 25-296" eff="2023-11-15" path="§2|(e)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-296" path="§2|(e)" codified:display="Note" app="2023-11-15" eff="2023-11-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-296" path="§2|(e)">§ 2(e) of Let Our Vows Endure (LOVE) Emergency Amendment Act of 2023 (D.C. Act 25-296, Nov. 15, 2023, 70 DCR 15226)</cite>.</annotation>
   </annotations>
 </section>
