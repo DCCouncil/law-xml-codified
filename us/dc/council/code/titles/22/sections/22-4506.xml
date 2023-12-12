@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>22-4506</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 17, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§22-4506(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Issue of a license to carry a pistol.</heading>
   <para>
     <num>(a)</num>
@@ -20,7 +23,7 @@
   </para>
   <para>
     <num>(e)</num>
-    <text>Except as provided in <cite path="§7-2509.05|(b)">§ 7-2509.05(b)</cite>, any person whose application has been denied or whose license has been limited or revoked may, within 15 days after the date of the notice of denial or notice of intent, appeal to the Concealed Pistol Licensing Review Board established pursuant to <cite path="§7-2509.08">§ 7-2509.08</cite>.</text>
+    <text>Except as provided in <cite path="§7-2509.05|(b)">§ 7-2509.05(b)</cite>, any person whose application has been denied or whose license has been limited or revoked may, within 15 days after the date of the notice of denial or notice of intent, appeal to the Office of Administrative Hearings pursuant to <cite path="§7-2509.08">§ 7-2509.08</cite>.</text>
   </para>
   <annotations>
     <annotation type="History" doc="Stat. 72-1-ch465" path="§6">July 8, 1932, 47 Stat. 651, ch. 465, § 6</annotation>
@@ -47,8 +50,9 @@
     <annotation doc="D.C. Act 25-138" path="§7" type="Applicability" history="false" app="2023-06-27" eff="2023-06-27"><cite doc="D.C. Act 25-138" path="§7">Section 7 of D.C. Act 25-138</cite> provided that the amendments made to this section by D.C. Act 25-138 shall apply as of October 1, 2023. D.C. Act 25-138 will expire before that date.
     </annotation>
     <annotation app="2023-06-27" doc="D.C. Act 25-138" eff="2023-06-27" path="§7" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-63" path="§4" codified:display="Note" app="2023-10-05" eff="2023-10-05">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-63" path="§4">§ 4 of Office of Administrative Hearings Jurisdiction Temporary Amendment Act of 2023 (D.C. Law 25-63, Oct. 5, 2023, 70 DCR 9691)</cite>.</annotation>
     <annotation app="2023-10-05" doc="D.C. Law 25-63" eff="2023-10-05" path="§4" type="History" display="false"/>
+    <annotation app="2023-10-05" doc="D.C. Law 25-63" eff="2023-10-05" path="§4" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-63" path="§4" codified:display="Note" app="2023-10-05" eff="2023-10-05">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-63" path="§4">§ 4 of Office of Administrative Hearings Jurisdiction Temporary Amendment Act of 2023 (D.C. Law 25-63, Oct. 5, 2023, 70 DCR 9691)</cite>.</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-231" path="§4" codified:display="Note" app="2023-10-11" eff="2023-10-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-231" path="§4">§ 4 of Office of Administrative Hearings Jurisdiction Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-231, Oct. 11, 2023, 70 DCR 13773)</cite>.</annotation>
     <annotation app="2023-10-11" doc="D.C. Act 25-231" eff="2023-10-11" path="§4" type="History" display="false"/>
   </annotations>
