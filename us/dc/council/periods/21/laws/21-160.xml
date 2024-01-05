@@ -474,7 +474,7 @@
         <para>
           <num>(a)</num>
           <text>Section 105(c) (D.C. Official Code § 2-272.04(c)) is amended by striking the phrase "sections 107 and 109" and inserting the phrase "this act" in its place.</text>
-          <codify:find-replace path="§105|(c)" count="1" codified:doc="D.C. Code" codified:path="§2-272.04|(c)">
+          <codify:find-replace path="§105|(c)" count="1" codified:doc="D.C. Code" codified:path="§2-272.04">
             <find>§§ <cite path="§2-273.02">2-273.02</cite> and <cite path="§2-273.04">2-273.04</cite></find>
             <replace>
               <code-cite>this act</code-cite>
