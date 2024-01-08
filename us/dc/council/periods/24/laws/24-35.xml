@@ -75,7 +75,9 @@
       </include>
       <aftertext>.</aftertext>
       <annotation doc="D.C. Law 16-33" type="History" path="§2331a">Oct. 20, 2005, D.C. Law 16-33, § 2331a</annotation>
-      <codify:temporary-new-sec doc="D.C. Code" path="§2-218.31a" interim-path="§2-218.31" perm-eff="2023-05-25" codified:doc="D.C. Code" codified:path="§2-218.31a" codified:display="Note"/>
+      <codify:annotation doc="D.C. Code" path="§2-218.31" type="Temporary Legislation" history="false" codified:doc="D.C. Code" codified:path="§2-218.31">
+        For temporary (225 days) Grace period for compliance with § 2-218.31(1A), see <cite doc="D.C. Law 24-35">D.C. Law 24-35</cite>.
+      </codify:annotation>
     </para>
   </section>
   <section>
