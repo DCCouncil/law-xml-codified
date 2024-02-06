@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <num>31-3884</num>
+  <heading proof="needed">Length of prior authorization.</heading>
+  <para>
+    <num>(a)</num>
+    <text>Except as otherwise provided in subsection (b) of this section, approval shall be valid for at least one year from the date the enrollee receives notice of the approval and shall remain valid regardless of any changes in dosage for a prescription drug prescribed by the health care provider; provided, that the utilization review entity may rescind the approval for dosages exceeding limitations set by federal or District laws or regulations.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>Approval for a course of treatment, as that term is defined at 2 CFR 422.112(b)(8)(ii)(A), or for a health care service to treat a chronic condition, shall remain valid for as long as medically reasonable and necessary to avoid disruptions in care, in accordance with applicable coverage criteria, the enrollee's medical history, and the treating provider's recommendation.</text>
+    </para>
+    <para placeholder="Not Funded">
+      <num>(2)</num>
+      <text>Not Funded.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>A utilization review entity may not revoke, limit, condition, or restrict approval if care is provided within 45 business days from the date the enrollee receives notice of the approval; provided, that approval may be revoked or otherwise restricted in cases of fraud.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§31-3884" codified:display="Note" codified:doc="D.C. Code" codified:path="§31-3884">Applicability of <cite doc="D.C. Law 25-100" path="">D.C. Law 25-100</cite>: <cite doc="D.C. Law 25-100" path="§301">§ 301 of D.C. Law 25-100</cite> provided that the change made to this section by <cite doc="D.C. Law 25-100" path="§104">§ 104 of D.C. Law 25-100</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <annotations>
+    <annotation app="2020-10-20" doc="D.C. Law 23-135" eff="2020-10-20" path="" type="History" display="false"/>
+    <annotation app="2024-01-17" doc="D.C. Law 25-100" eff="2024-01-17" path="" type="History" display="false"/>
+    <annotation app="2024-01-17" doc="D.C. Law 25-100" eff="2024-01-17" path="§301|(a)" type="History" display="false"/>
+    <annotation app="2024-01-17" doc="D.C. Law 25-100" eff="2024-01-17" path="§104" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 25-100" path="§104" codified:display="Note" app="2024-01-17" eff="2024-01-17">Applicability of <cite doc="D.C. Law 25-100" path="">D.C. Law 25-100</cite>: <cite doc="D.C. Law 25-100" path="§301">§ 301 of D.C. Law 25-100</cite> provided that the change made to this section by <cite doc="D.C. Law 25-100" path="§104">§ 104 of D.C. Law 25-100</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+  </annotations>
+</section>

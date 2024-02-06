@@ -1368,15 +1368,17 @@
     <xi:include href="./sections/7-1671.11.xml"/>
     <xi:include href="./sections/7-1671.12.xml"/>
     <xi:include href="./sections/7-1671.12a.xml"/>
+    <xi:include href="./sections/7-1671.12b.xml"/>
     <xi:include href="./sections/7-1671.13.xml"/>
+    <xi:include href="./sections/7-1671.12c.xml"/>
+    <xi:include href="./sections/7-1671.12d.xml"/>
+    <xi:include href="./sections/7-1671.12e.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>16C</num>
-    <reason>Not Funded</reason>
     <heading>Penalties for commercial property owners of illegal cannabis businesses.</heading>
-    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§9|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-332" eff="2023-03-22" path="§8" type="History" display="false"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§8" type="History" display="false"/>
     <xi:include href="./sections/7-1675.01.xml"/>
   </container>
   <subheading>Subtitle H. Tobacco Smoking, Sales, Distribution, Regulation, and Settlement.</subheading>
@@ -2043,7 +2045,7 @@
       <prefix>Unit</prefix>
       <num>D</num>
       <heading>Firearm tracing data and accountability report.</heading>
-      <annotation app="2023-12-21" doc="D.C. Act 25-339" eff="2023-12-21" path="" type="History" display="false"/>
+      <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="" type="History" display="false"/>
       <xi:include href="./sections/7-2561.01.xml"/>
     </container>
   </container>

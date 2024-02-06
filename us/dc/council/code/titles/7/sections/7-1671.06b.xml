@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-1671.06b</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on April 24, 2024. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§7-1671.06b(Perm)">Permanent Version</cite>.*
+      </text>
   <heading proof="needed">Unlicensed establishment compliance.</heading>
   <para>
     <num>(a)</num>
@@ -50,8 +53,27 @@
       <text>The ABC Board shall cancel a retailer or internet retailer license issued to an unlicensed establishment that does not open within 120 days.</text>
     </para>
   </para>
+  <para>
+    <num>(e)</num>
+    <text>An unlicensed establishment shall not display signage or imagery advertising relating to:</text>
+    <para>
+      <num>(1)</num>
+      <text>The prices of cannabis or cannabis product in the window;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Cannabis or a cannabis product on the exterior of any window or on the exterior or interior of any door; or</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Cannabis or a cannabis product on the exterior or visible from the exterior of the unlicensed establishment or elsewhere in the District.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 13-315" type="History" path="§7b">Feb. 25, 2010, D.C. Law 13-315, § 7b</annotation>
     <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§3|(h)" prefix="as added" type="History"/>
+    <annotation app="2024-01-25" doc="D.C. Act 25-371" eff="2024-01-25" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2024-01-25" doc="D.C. Act 25-371" eff="2024-01-25" path="§2|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-371" path="§2|(c)" codified:display="Note" app="2024-01-25" eff="2024-01-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-371" path="§2|(c)">§ 2(c) of Medical Cannabis Program Enforcement Emergency Amendment Act of 2024 (D.C. Act 25-371, Jan. 25, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
