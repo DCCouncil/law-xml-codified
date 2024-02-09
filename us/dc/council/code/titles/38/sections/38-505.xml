@@ -1,12 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-505</num>
-  <heading>Attendance without certification.</heading>
-  <text>A school shall permit a student to attend for not more than 20 school days while the school does not have certification of immunization for that student. If immunization requires a series of treatments that cannot be completed within the 20 school days, the student shall be permitted to attend school while the treatments are continuing if, within the 20 school days, the school receives written notification from whomever is administering it that the immunization is in progress.</text>
+  <heading proof="needed">School attendance without immunization.</heading>
+  <para>
+    <num>(a)</num>
+    <text>With respect to any student who has been admitted to a school and for whom the school does not receive a certification of immunization reflecting immunization or an exemption from immunization for each immunization on the list of immunizations, the school shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Notify a responsible person in accordance with <cite path="§38-504|(b)">§ 38-504(b)</cite>; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Unless otherwise provided in the exclusion standards issued pursuant to <cite path="§38-503">§ 38-503</cite>, not permit the student to attend school for more than 20 school days after the date of notification unless the school receives a completed certification of immunization within the 20 school days.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Unless otherwise provided in the exclusion standards issued pursuant to <cite path="§38-503">§ 38-503</cite> and notwithstanding subsection (a)(2) of this section, if immunization requires a series of treatments that cannot be completed within 20 school days after notification, the student shall be permitted to attend school while the treatments are continuing if, within the 20 school days, the school receives written notification from the provider administering the treatment that the immunization is in progress.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 3-20" type="History" path="§6">Sept. 28, 1979, D.C. Law 3-20, § 6, 26 DCR 380</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 31-2205.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 31-505.</annotation>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4082" type="History"/>
+    <annotation app="2024-01-23" doc="D.C. Law 25-108" eff="2024-01-23" path="§2|(f)" type="History"/>
   </annotations>
 </section>

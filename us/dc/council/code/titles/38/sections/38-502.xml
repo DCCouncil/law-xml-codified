@@ -1,22 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-502</num>
-  <heading>Certification of immunization required.</heading>
+  <heading proof="needed">Certification of immunization required.</heading>
   <para>
     <num>(a)</num>
-    <text>No student shall be admitted by a school unless the school has certification of immunization for that student, or unless the student is exempted pursuant to <cite path="§38-506">§ 38-506</cite>.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>Beginning with School Year 2022-2023:</text>
     <para>
       <num>(1)</num>
-      <text>All certifications of immunization provided by a healthcare professional authorized to administer a vaccine shall be submitted electronically to the public health authorities, which shall electronically transmit the certifications of immunization to the student's local education agency.</text>
+      <text>Except as provided in <cite path="38|5">this chapter</cite> or rules issued pursuant to <cite path="§38-503">§ 38-503</cite>, no student shall attend a school or child development facility in the District without a certification of immunization reflecting that the student has received each immunization on the list of immunizations or is exempt from immunization in accordance with <cite path="§38-506">§ 38-506</cite>.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>All certifications of immunization for a student provided by the public health authorities shall be electronically transmitted to the student's local education agency.</text>
+      <text>At least annually, a responsible person shall furnish a certification of immunization for each student attending a school or child development facility to the LEA; private, parochial, or independent school; or child development facility to which the student is admitted in accordance with the rules established pursuant to <cite path="§38-503">§ 38-503</cite>.</text>
     </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>A responsible person shall furnish a certification of immunization for each student admitted to a college or university in accordance with the policy established by the college or university pursuant to <cite path="§38-503">§ 38-503</cite>.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>Beginning with School Year 2023-2024, healthcare professionals shall electronically submit all certifications of immunization to the public health authorities.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 3-20" type="History" path="§3">Sept. 28, 1979, D.C. Law 3-20, § 3, 26 DCR 380</annotation>
@@ -27,5 +30,6 @@
     <annotation app="2022-01-12" doc="D.C. Act 24-280" eff="2022-01-12" path="§2|(c)" type="History" display="false"/>
     <annotation app="2022-03-02" doc="D.C. Law 24-85" eff="2022-03-02" path="§2|(b)|(1)" type="History"/>
     <annotation app="2022-03-02" doc="D.C. Law 24-85" eff="2022-03-02" path="§2|(b)|(2)" type="History"/>
+    <annotation app="2024-01-23" doc="D.C. Law 25-108" eff="2024-01-23" path="§2|(b)" type="History"/>
   </annotations>
 </section>
