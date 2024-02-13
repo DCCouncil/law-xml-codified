@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-1671.12e</num>
+  <text>
+      *NOTE: This section was created by emergency legislation that will expire on April 24, 2024.*
+      </text>
   <heading proof="needed">Nuisance.</heading>
   <para>
     <num>(a)</num>
@@ -10,8 +13,17 @@
     <num>(b)</num>
     <text>An action to enjoin any nuisance defined in subsection (a) of this section may be brought in the name of the District of Columbia by the Attorney General for the District of Columbia in the Civil Branch of the Superior Court of the District of Columbia against any person conducting or maintaining such nuisance or knowingly permitting such nuisance to be conducted or maintained.</text>
   </para>
+  <codify:emergency doc="D.C. Code" path="§7-1671.12e" codified:doc="D.C. Code" codified:path="§7-1671.12e" codified:display="Note"/>
+  <codify:insert doc="D.C. Code" path="§7-1671.12e" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-1671.12e">
+    <text>
+      *NOTE: This section was created by emergency legislation that will expire on April 24, 2024.*
+      </text>
+  </codify:insert>
   <annotations>
+    <annotation doc="D.C. Law 13-315" type="History" path="§13e" display="false">Feb. 25, 2010, D.C. Law 13-315, § 13e</annotation>
     <annotation doc="D.C. Law 13-315" type="History" path="§13e">Feb. 25, 2010, D.C. Law 13-315, § 13e</annotation>
+    <annotation app="2024-01-25" doc="D.C. Act 25-371" eff="2024-01-25" path="§2|(f)" type="History" display="false"/>
     <annotation app="2024-01-25" doc="D.C. Act 25-371" eff="2024-01-25" path="§2|(f)" prefix="as added" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-371" path="§2|(f)" codified:display="Note" app="2024-01-25" eff="2024-01-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-371" path="§2|(f)|includes|13e">§ 13e of Medical Cannabis Program Enforcement Emergency Amendment Act of 2024 (D.C. Act 25-371, Jan. 25, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

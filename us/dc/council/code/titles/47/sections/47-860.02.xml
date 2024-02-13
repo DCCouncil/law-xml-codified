@@ -2,10 +2,13 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>§</prefix>
   <num>47-860.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on May 1, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-860.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Tax abatements for housing in downtown – Requirements.</heading>
   <para>
     <num>(a)</num>
-    <text>Subject to <cite path="§47-860.03">§ 47-860.03</cite>, the Mayor may approve a tax abatement, in an amount calculated pursuant to <cite path="§47-860.03|(a)">§ 47-860.03(a)</cite>, for real property in an eligible area if:</text>
+    <text>Subject to <cite path="§47-860.03">§ 47-860.03</cite>, the Mayor may, through a competitive process, approve a tax abatement, in an amount calculated pursuant to <cite path="§47-860.03|(a)">§ 47-860.03(a)</cite>, for real property in an eligible area if:</text>
     <para>
       <num>(1)</num>
       <text>There is a change in use of the real property resulting in the development of at least 10 housing units.</text>
@@ -27,7 +30,7 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>The property owner files a covenant in the land records of the District, binding on the owner and all of its successors, covenanting to comply with the requirements of paragraphs (1) and (2) of this subsection.</text>
+      <text>The property owner files a covenant in the land records of the District, binding on the owner and all of its successors, covenanting to comply with the requirements of paragraphs (2) and (3) of this subsection, <cite path="§47-860.02a|(b)">§ 47-860.02a(b)</cite>, and any additional terms included in the covenant related to the design and administration of the affordable housing units required by the Mayor by rule.</text>
     </para>
     <para>
       <num>(5)</num>
@@ -43,7 +46,7 @@
     </para>
     <para>
       <num>(8)</num>
-      <text>The Mayor transmits to the owner the eligibility and reservation letter requested under paragraph (7) of this subsection, subject to such conditions as may be imposed by the Mayor and subject to the adjustment of the abatement amount based on the certifications provided for in <cite path="§47-860.03|(a)">§ 47-860.03(a)</cite>, the abatement cap set forth in <cite path="§47-860.03|(b)">§ 47-860.03(b)</cite>, and subsection (d) of this section.</text>
+      <text>The Mayor transmits to the owner the eligibility and reservation letter requested under paragraph (7) of this subsection, subject to such conditions as may be imposed by the Mayor, the abatement cap set forth in <cite path="§47-860.03|(b)">§ 47-860.03(b)</cite>, and subsection (d) of this section.</text>
     </para>
   </para>
   <para>
@@ -56,7 +59,29 @@
   </para>
   <para>
     <num>(d)</num>
-    <text>A tax abatement shall not be provided for a property for which an eligibility and reservation letter was transmitted by the Mayor pursuant to subsection (a)(8) of this section if the project based upon which the eligibility and reservation letter was issued has not received a certificate of occupancy within 18 months after the date the eligibility and reservation letter was transmitted; provided, that the Mayor may, in the Mayor's sole discretion, extend the 18-month period for up to 6 months if the project's construction has reached grade within the 18-month period, as certified by the project architect and the Mayor.</text>
+    <text>A tax abatement shall not be provided for a property for which an eligibility and reservation letter was transmitted by the Mayor pursuant to subsection (a)(8) of this section if the project based upon which the eligibility and reservation letter was issued has not received a certificate of occupancy within 24 months after the date the eligibility and reservation letter was transmitted; except, that the Mayor may, in the Mayor's reasonable discretion, extend the 24-month period for any number of 6-month periods if:</text>
+    <para>
+      <num>(1)</num>
+      <para>
+        <num>(A)</num>
+        <text>The project's construction has reached grade within the 24-month period, as certified by the project architect and the Mayor; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The project has not reached grade within that period, but any delays were beyond the control of the developer; and</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <para>
+        <num>(A)</num>
+        <text>The project is making progress toward delivering housing; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>There exists a public emergency as defined in <cite path="§7-2301|(3)">[§ 7-2301(3)]</cite>.</text>
+      </para>
+    </para>
   </para>
   <para>
     <num>(e)</num>
@@ -71,5 +96,11 @@
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2062|(b)|(1)|(A)" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2062|(b)|(1)|(C)" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2062|(b)|(2)" type="History"/>
+    <annotation app="2024-02-01" doc="D.C. Act 25-386" eff="2024-02-01" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2024-02-01" doc="D.C. Act 25-386" eff="2024-02-01" path="§2|(a)|(1)|(B)" type="History"/>
+    <annotation app="2024-02-01" doc="D.C. Act 25-386" eff="2024-02-01" path="§2|(a)|(1)|(C)" type="History"/>
+    <annotation app="2024-02-01" doc="D.C. Act 25-386" eff="2024-02-01" path="§2|(a)|(1)|(A)" type="History"/>
+    <annotation app="2024-02-01" doc="D.C. Act 25-386" eff="2024-02-01" path="§2|(a)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-386" path="§2|(a)" codified:display="Note" app="2024-02-01" eff="2024-02-01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-386" path="§2|(a)">§ 2(a) of Housing in Downtown Tax Abatement Emergency Amendment Act of 2024 (D.C. Act 25-386, Feb. 1, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
