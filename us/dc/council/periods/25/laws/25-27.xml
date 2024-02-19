@@ -32,7 +32,6 @@
       <text>Section 3(f)(2) (D.C. Official Code § 31-2703(f)(2)) is amended to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:replace codified:doc="D.C. Code" codified:path="§31-2703|(f)|(2)"/>
           <num>(2)</num>
           <para>
             <num>(A)</num>
@@ -72,28 +71,17 @@
       </include>
       <aftertext>.</aftertext>
       <codify:temporary doc="D.C. Code" path="§31-2703" codified:doc="D.C. Code" codified:path="§31-2703" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§31-2703" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§31-2703">
-        <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on March 1, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§31-2703(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para codify:path="§31-2704|(c)|(2)|(A)|(ii)">
       <num>(b)</num>
       <text>Section 4(c)(2)(A)(ii) (D.C. Official Code § 31-2704(c)(2)(A)(ii)) is amended to read as follows:</text>
       <include lvl="2">
         <para>
-          <codify:replace codified:doc="D.C. Code" codified:path="§31-2704|(c)|(2)|(A)|(ii)"/>
           <num>(ii)</num>
           <text>The order is made after the prescribed investigation and hearing and within 30 days after the filing of rates affected, except as otherwise permitted by <code-cite doc="D.C. Code" path="§31-2703|(f)|(2)">section 3(f)(2) of the act</code-cite>.</text>
         </para>
       </include>
       <codify:temporary doc="D.C. Code" path="§31-2704" codified:doc="D.C. Code" codified:path="§31-2704" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§31-2704" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§31-2704">
-        <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on March 1, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§31-2704(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
   </section>
   <section>
