@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-2509.06</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-2509.06(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Carrying a pistol while impaired.</heading>
   <para>
     <num>(a)</num>
@@ -20,11 +23,15 @@
   </para>
   <para>
     <num>(e)</num>
-    <text>For the purposes of this section, the term “impaired” means a licensee has consumed alcohol or other drug or drugs and that it has affected the licensee’s behavior in a way that can be perceived or noticed.</text>
+    <text>For the purposes of this section, the term “impaired” means a person has consumed alcohol or other drug or drugs and that it has affected [the] person's behavior in a way that can be perceived or noticed.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 1-85" type="History" path="§906">Sept. 24, 1976, D.C. Law 1-85, § 906</annotation>
     <annotation doc="D.C. Law 20-279" type="History">as added June 16, 2015, D.C. Law 20-279, § 2(f), 62 DCR 1944</annotation>
     <annotation app="2023-04-21" doc="D.C. Law 24-347" eff="2023-04-21" path="§2|(k)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(d)" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(d)|(1)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(d)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§11|(d)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§11|(d)">§ 11(d) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

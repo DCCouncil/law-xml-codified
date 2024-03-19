@@ -1,8 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>22-3006</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§22-3006(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Misdemeanor sexual abuse.</heading>
-  <text>Whoever engages in a sexual act or sexual contact with another person and who should have knowledge or reason to know that the act was committed without that other person’s permission, shall be imprisoned for not more than 180 days and, in addition, may be fined in an amount not more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>.</text>
+  <para>
+    <num>(a)</num>
+    <text>Whoever engages in a sexual act or sexual contact with another person and who should have knowledge or reason to know that the act was committed without that other person’s permission, shall be imprisoned for not more than 180 days and, in addition, may be fined in an amount not more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>A person convicted of misdemeanor sexual abuse who has 3 or more prior convictions for misdemeanor sexual abuse shall be fined no more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or incarcerated for no more than 3 years, or both.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>In addition to a violation of this section, a person shall be considered to have prior convictions for misdemeanor sexual abuse if that person has been previously convicted of a violation of a crime under the laws of any other jurisdiction that involved conduct that would, if committed in the District of Columbia, constitute a violation of this section, or conduct that is substantially similar to conduct prosecuted under this section.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 10-257" type="History" path="§205">May 23, 1995, D.C. Law 10-257, § 205, 42 DCR 53</annotation>
     <annotation doc="D.C. Law 19-317" type="History">June 11, 2013, D.C. Law 19-317, § 232(e), 60 DCR 2064</annotation>
@@ -12,5 +29,9 @@
     <annotation type="Prior Codifications">1981 Ed., § 22-4106.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§16-801">§ 16-801</cite>, <cite path="§22-4151">§ 22-4151</cite>, and <cite path="§23-581">§ 23-581</cite>.</annotation>
     <annotation type="Cross References">Consent defense to sexual abuse, see <cite path="§22-3007">§ 22-3007</cite>.</annotation>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§16|(b)" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§16|(b)|(1)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§16|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§16|(b)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§16|(b)">§ 16(b) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

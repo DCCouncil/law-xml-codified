@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-2507.06</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-2507.06(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Penalties.</heading>
   <para>
     <num>(a)</num>
@@ -26,14 +29,18 @@
         <num>(A)</num>
         <text>A person convicted of possessing more than one restricted pistol bullet in violation of <cite path="§7-2506.01|(a)|(3)">§ 7-2506.01(a)(3)</cite> may be sentenced to imprisonment for a term not to exceed 10 years and shall be sentenced to imprisonment for a mandatory-minimum term of not less than 1 year and shall not be released from prison or granted probation or suspension of sentence prior to serving the mandatory-minimum sentence, and, in addition, may be fined not more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>.</text>
       </para>
-      <para>
+      <para placeholder="Repealed">
         <num>(B)</num>
-        <text>A person convicted of possessing a single restricted pistol bullet in violation of <cite path="§7-2506.01|(a)|(3)">§ 7-2506.01(a)(3)</cite> shall be fined not more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite> or imprisoned for not more than 1 year, or both.</text>
+        <text>Repealed.</text>
       </para>
     </para>
     <para>
       <num>(4)</num>
-      <text>A person convicted of possessing a large capacity ammunition feeding device in violation of <cite path="§7-2506.01|(b)">§ 7-2506.01(b)</cite> shall be fined no more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or incarcerated for no more than 3 years, or both.</text>
+      <text>A person convicted of possessing a large capacity ammunition feeding device in violation of <cite path="§7-2506.01|(b)">§ 7-2506.01(b)</cite> shall be fined no more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or incarcerated for no more than 3 years, which shall be imposed consecutive to any other sentence of incarceration, or both.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>A person convicted of possessing a firearm with an intent to sell, offer for sale, or make available for sale, in violation of section 501, shall be fined no more than the amount set forth in section 101 of the Criminal Fine Proportionality Amendment Act of 2012, effective June 11, 2013 (D.C. Law 19-317; D.C. Official Code § 22-3571.01), or incarcerated for no less than 2 years nor more than 10 years, or both.</text>
     </para>
   </para>
   <para>
@@ -61,6 +68,10 @@
         <num>(E)</num>
         <text>Possession of a stun gun in violation of <cite path="§7-2502.15">§ 7-2502.15</cite>.</text>
       </para>
+    </para>
+    <para>
+      <num>(1A)</num>
+      <text>The administrative disposition provided for in this subsection shall not be available to any person who has previously been convicted of any felony in the District or elsewhere.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -123,5 +134,11 @@
     <annotation app="2019-04-15" doc="D.C. Act 23-41" eff="2019-04-15" path="§2|(d)" type="History" display="false"/>
     <annotation app="2019-05-10" doc="D.C. Law 22-314" eff="2019-05-10" path="§2|(d)|(1)" type="History"/>
     <annotation app="2019-05-10" doc="D.C. Law 22-314" eff="2019-05-10" path="§2|(d)|(2)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(c)" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(c)|(1)|(A)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(c)|(1)|(B)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(c)|(1)|(C)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(c)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§11|(c)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§11|(c)">§ 11(c) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

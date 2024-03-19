@@ -57,6 +57,7 @@
   </collection>
   <collection name="emergency">
     <heading>Emergency Acts</heading>
+    <xi:include href="./acts/25-410.xml"/>
     <xi:include href="./acts/25-404.xml"/>
     <xi:include href="./acts/25-403.xml"/>
     <xi:include href="./acts/25-402.xml"/>
@@ -212,6 +213,11 @@
     <heading>Temporary Laws</heading>
     <collection name="effective">
       <heading>Laws</heading>
+      <xi:include href="./laws/25-137.xml"/>
+      <xi:include href="./laws/25-131.xml"/>
+      <xi:include href="./laws/25-130.xml"/>
+      <xi:include href="./laws/25-129.xml"/>
+      <xi:include href="./laws/25-128.xml"/>
       <xi:include href="./laws/25-126.xml"/>
       <xi:include href="./laws/25-120.xml"/>
       <xi:include href="./laws/25-119.xml"/>
@@ -259,7 +265,6 @@
       <xi:include href="./laws/25-53.xml"/>
       <xi:include href="./laws/25-52.xml"/>
       <xi:include href="./laws/25-51.xml"/>
-      <xi:include href="./laws/25-48.xml"/>
       <xi:include href="./laws/25-43.xml"/>
       <xi:include href="./laws/25-42.xml"/>
       <xi:include href="./laws/25-41.xml"/>
@@ -289,6 +294,7 @@
   </collection>
   <collection name="budget">
     <heading>Budget Legislation</heading>
+    <xi:include href="./laws/25-48.xml"/>
     <xi:include href="./laws/25-47.xml"/>
     <xi:include href="./acts/25-162.xml"/>
     <xi:include href="./acts/25-134.xml"/>

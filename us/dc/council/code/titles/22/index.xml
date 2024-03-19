@@ -36,7 +36,7 @@
     <xi:include href="./sections/22-404.01.xml"/>
     <xi:include href="./sections/22-404.02.xml"/>
     <xi:include href="./sections/22-404.03.xml"/>
-    <xi:include href="./sections/22-404.04.xml"/>
+    <xi:include href="./sections/22-404.05.xml"/>
     <xi:include href="./sections/22-405.xml"/>
     <xi:include href="./sections/22-405.01.xml"/>
     <xi:include href="./sections/22-406.xml"/>
@@ -635,6 +635,7 @@
       <num>II</num>
       <heading>Theft; Related Offenses.</heading>
       <xi:include href="./sections/22-3211.xml"/>
+      <xi:include href="./sections/22-3211.01.xml"/>
       <xi:include href="./sections/22-3212.xml"/>
       <xi:include href="./sections/22-3213.xml"/>
       <xi:include href="./sections/22-3214.xml"/>
@@ -814,6 +815,7 @@
     <xi:include href="./sections/22-3601.xml"/>
     <xi:include href="./sections/22-3602.xml"/>
     <xi:include href="./sections/22-3603.xml"/>
+    <xi:include href="./sections/22-3604.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -924,6 +926,8 @@
     <num>41B</num>
     <heading>DNA Sample Collection.</heading>
     <xi:include href="./sections/22-4151.xml"/>
+    <xi:include href="./sections/22-4152.xml"/>
+    <xi:include href="./sections/22-4153.xml"/>
   </container>
   <subheading>Subtitle IV. Prevention, Solution, and Punishment of Crimes.</subheading>
   <container>
@@ -1022,6 +1026,7 @@
     <xi:include href="./sections/22-4503.01.xml"/>
     <xi:include href="./sections/22-4503.02.xml"/>
     <xi:include href="./sections/22-4503.03.xml"/>
+    <xi:include href="./sections/22-4503.04.xml"/>
     <xi:include href="./sections/22-4504.xml"/>
     <xi:include href="./sections/22-4504.01.xml"/>
     <xi:include href="./sections/22-4504.02.xml"/>

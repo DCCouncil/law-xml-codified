@@ -1,10 +1,75 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>48-1002</num>
-  <reason>Repealed</reason>
-  <heading>Procedure for establishing a drug free zone.</heading>
-  <text>Repealed.</text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§48-1002(Perm)">Permanent Version</cite>.*
+      </text>
+  <heading proof="needed">Procedure for establishing a drug free zone.</heading>
+  <para>
+    <num>(a)</num>
+    <text>The Chief of Police may declare any public area a drug free zone for a period not to exceed 120 consecutive hours.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>In determining whether to designate a drug free zone, the Chief of Police shall consider the following</text>
+    <para>
+      <num>(1)</num>
+      <text>Within the preceding 6-month period, the occurrence of a disproportionately high number of:</text>
+      <para>
+        <num>(A)</num>
+        <text>Arrests for the possession or distribution of illegal drugs in the proposed drug free zone;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Police reports for dangerous crimes, as that term is defined in <cite path="§23-1331|(3)">§ 23-1331(3)</cite>, that were committed in the proposed drug free zone; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Police reports for crimes of violence, as that term is defined in <cite path="§23-1331|(4)">§ 23-1331(4)</cite>, that were committed in the proposed drug free zone;</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Any number of homicides that were committed in the proposed drug free zone;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Objective evidence or verifiable information that shows that illegal drugs are being sold and distributed on public space on public property within the proposed drug free zone; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Any other verifiable information from which the Chief of Police may ascertain whether the health or safety of residents who live in the proposed drug free zone are endangered by the purchase, sale, or use of illegal drugs or other illegal activity.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>At least 24 hours prior to the designation of the drug free zone, the Chief of Police shall notify, in writing:</text>
+    <para>
+      <num>(1)</num>
+      <text>The Chairman and each member of the Council of the District of Columbia of the declaration of the drug free zone and the boundaries of the drug free zone;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>All licensed medical or social services clinics operating in or adjacent to the drug free zone of the declaration of the drug free zone and the boundaries of the drug free zone; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The Deputy Mayor for Health and Human Services, the Director of the Department of Behavioral Health, the Director of the Department of Health, the Director of the Department of Human Services, the Deputy Mayor for Public Safety and Justice, the Director of the Office of Neighborhood Safety and Engagement, and the Office of the Attorney General's "Cure the Streets" program of the designation of the drug free zone, the boundaries of the drug free zone, and the need for any relevant medical or social services in the surrounding area, in order to ensure that this designation does not conflict with <cite path="§48-1004|(c)">§ 48-1004(c)</cite>.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>The Chief of Police may not declare the same area, or an overlapping area, as a drug free zone for more than 360 consecutive hours or for more than 360 hours within a 30-day period.</text>
+  </para>
+  <codify:emergency doc="D.C. Code" path="§48-1002" codified:doc="D.C. Code" codified:path="§48-1002" codified:display="Note"/>
+  <codify:insert doc="D.C. Code" path="§48-1002" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§48-1002">
+    <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§48-1002(Perm)">Permanent Version</cite>.*
+      </text>
+  </codify:insert>
   <annotations>
+    <annotation doc="D.C. Law 11-270" type="History" path="§3" display="false">June 3, 1997, D.C. Law 11-270, § 3, 43 DCR 4493</annotation>
+    <annotation doc="D.C. Law 11-270" type="History" path="§6" display="false">June 3, 1997, D.C. Law 11-270, § 6, 43 DCR 4493</annotation>
     <annotation doc="D.C. Law 11-270" type="History" path="§3">June 3, 1997, D.C. Law 11-270, § 3, 43 DCR 4493</annotation>
     <annotation doc="D.C. Law 16-306" type="History">Apr. 24, 2007, D.C. Law 16-306, § 226, 53 DCR 8610</annotation>
     <annotation doc="D.C. Law 18-88" type="History">Dec. 10, 2009, D.C. Law 18-88, § 226, 56 DCR 7413</annotation>
@@ -20,5 +85,9 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-306">D.C. Law 16-306</cite>, in subsec. (a), substituted “240 consecutive hours” for “120 consecutive hours”.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 33-582.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§48-1001">§ 48-1001</cite> and <cite path="§48-1004">§ 48-1004</cite>.</annotation>
+    <annotation doc="D.C. Law 11-270" type="History" path="§6">June 3, 1997, D.C. Law 11-270, § 6, 43 DCR 4493</annotation>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§30" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§30" prefix="revived" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§30" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§30|includes|3">§ 3 of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

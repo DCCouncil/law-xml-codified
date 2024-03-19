@@ -1,12 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>35-254</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§35-254(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Penalties.</heading>
   <para>
     <num>(a)</num>
     <para>
       <num>(1)</num>
-      <text>Except as provided in subsection (b)(1) of this section, a violation of <cite path="§35-251|(b)">§ 35-251(b)</cite> or <cite path="§35-252">§ 35-252</cite> shall be punishable by a civil fine of not more than $50.</text>
+      <text>Except as provided in subsection (b)(1) of this section, a violation of <cite path="§35-251|(b)">§ 35-251(b)</cite> or <cite path="§35-252|(a)">§ 35-252(a)</cite> shall be punishable by a civil fine of not more than $50.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -29,6 +32,10 @@
     <para>
       <num>(1)</num>
       <text>A violation of section <cite path="§35-251|(b)|(6)">§ 35-251(b)(6)</cite>, <cite path="§35-251|(c)">(c)</cite> or <cite path="§35-251|(d)">(d)</cite> shall be punishable by a fine of not more than $300, imprisonment of not more than 90 days, not fewer than 30 hours of community service, or a combination of any 2 penalties, except that imprisonment and community service shall not be imposed together.</text>
+    </para>
+    <para>
+      <num>(1A)</num>
+      <text>A person who refuses to provide his or her name and address, or who knowingly provides an incorrect name or address, to an authorized individual in violation of <cite path="§35-252|(b)">§ 35-252(b)</cite> shall, upon conviction, be fined no more than $100.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -64,5 +71,9 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-25" path="§7" codified:display="Note" app="2021-02-26" eff="2021-02-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-25" path="§7">§ 7 of Omnibus Public Safety and Justice Emergency Amendment Act of 2021 (D.C. Act 24-25, Feb. 26, 2021, 68 DCR 002604)</cite>.</annotation>
     <annotation app="2021-02-26" doc="D.C. Act 24-25" eff="2021-02-26" path="§7" type="History" display="false"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§1402" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§28|(b)" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§28|(b)|(1)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§28|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§28|(b)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§28|(b)">§ 28(b) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>23-1321</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§23-1321(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Release prior to trial.</heading>
   <para>
     <num>(a)</num>
@@ -24,7 +27,7 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>The judicial officer shall order the pretrial release of the person on personal recognizance, or upon execution of an unsecured appearance bond in an amount specified by the court, subject to the condition that the person not commit a local, state, or federal crime during the period of release, unless the judicial officer determines that the release will not reasonably assure the appearance of the person as required or will endanger the safety of any other person or the community.</text>
+    <text>The judicial officer shall order the pretrial release of the person on personal recognizance, or upon execution of an unsecured appearance bond in an amount specified by the court, subject to the condition that the person not commit a local, state, or federal crime during the period of release, and subject to the condition that the person cooperate in the collection of a DNA sample from the person if the collection of such a sample is authorized pursuant to <cite path="22|41B">[Chapter 41B of Title 22]</cite>, unless the judicial officer determines that the release will not reasonably assure the appearance of the person as required or will endanger the safety of any other person or the community.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -33,7 +36,7 @@
       <text>If the judicial officer determines that the release described in subsection (b) of this section will not reasonably assure the appearance of the person as required or will endanger the safety of any other person or the community, the judicial officer shall order the pretrial release of the person subject to the:</text>
       <para>
         <num>(A)</num>
-        <text>Condition that the person not commit a local, state, or federal crime during the period of release; and</text>
+        <text>Condition that the person not commit a local, state, or federal crime during the period of release and that the person cooperate in the collection of a DNA sample from the person if the collection of such a sample is authorized pursuant to <cite path="22|41B">[Chapter 41B of Title 22]</cite>; and</text>
       </para>
       <para>
         <num>(B)</num>
@@ -117,6 +120,41 @@
     <num>(d)</num>
     <text>Notwithstanding any other provision of law, when issuing an order of release pursuant to this section, the court shall, upon request of defense counsel and with the knowing, intelligent, and voluntary consent of the defendant, order that the defendant be transferred to the custody of the Department of Corrections for release from the Central Detention Facility or Correctional Treatment Facility within 5 hours after the issuance of the order.</text>
   </para>
+  <para>
+    <num>(e)</num>
+    <para>
+      <num>(1)</num>
+      <text>The Metropolitan Police Department may request a supervisory agency to provide the Metropolitan Police Department with location and identification data collected from any detection device that a person is required to wear while incarcerated or committed, while subject to a protection order, or while on pretrial release, presentence release, predisposition release, supervised release, probation, or parole that is deemed by the Chief of Police as necessary in conducting a criminal law enforcement investigation. The Department of Youth Rehabilitation Services shall comply with any request under this subsection.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>For the purposes of this subsection, the term:</text>
+      <para>
+        <num>(A)</num>
+        <text>"Device" shall have the same meaning as in <cite path="§22-1211|(a)|(2)">[§ 22-1211(a)(2)]</cite>.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>"Supervisory agencies" means the following agencies:</text>
+        <para>
+          <num>(i)</num>
+          <text>The Court Services and Offender Supervision Agency of the District of Columbia;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The Department of Youth Rehabilitation Services;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>The Superior Court of the District of Columbia's Family Court Social Services Division; and</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>The Pretrial Services Agency for the District of Columbia.</text>
+        </para>
+      </para>
+    </para>
+  </para>
   <annotations>
     <annotation doc="Pub. L. 91-358" type="History">July 29, 1970, 84 Stat. 642, Pub. L. 91-358, title II, § 210(a)</annotation>
     <annotation doc="D.C. Law 4-152" type="History">Sept. 17, 1982, D.C. Law 4-152, §§ 2, 5, 29 DCR 3479</annotation>
@@ -138,5 +176,10 @@
     <annotation type="Cross References">Bail and collateral security, see <cite path="§16-704">§ 16-704</cite>.</annotation>
     <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§401" type="History"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-282" eff="2021-04-27" path="§2" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§25|(e)" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§25|(e)|(1)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§25|(e)|(2)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§25|(e)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§25|(e)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§25|(e)">§ 25(e) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

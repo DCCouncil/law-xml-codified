@@ -1,12 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>22-3751</num>
-  <heading>Enhanced penalties for offenses committed against taxicab drivers.</heading>
-  <text>Any person who commits an offense listed in <cite path="§22-3752">§ 22-3752</cite> against a taxicab driver who, at the time of the offense, has a current license to operate a taxicab in the District of Columbia or any United States jurisdiction and is operating a taxicab in the District of Columbia may be punished by a fine of up to one and 1  /2   times the maximum fine otherwise authorized for the offense and may be imprisoned for a term of up to one and 1  /2   times the maximum term of imprisonment otherwise authorized for the offense, or both.</text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§22-3751(Perm)">Permanent Version</cite>.*
+      </text>
+  <heading proof="needed">Enhanced penalties for committing a crime of violence against transportation providers.</heading>
+  <para>
+    <num>(a)</num>
+    <text>Any person who commits a crime of violence, as that term is defined in <cite path="§23-1331|(4)">§ 23-1331(4)</cite>, against a transportation provider may be punished by a fine of up to 1 1/2 times the maximum fine otherwise authorized for the offense and may be imprisoned for a term of up to 1 1/2 times the maximum term of imprisonment otherwise authorized for the offense, or both.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>For the purposes of this section, the term "transportation provider" means a person who operates within the District of Columbia a private vehicle-for-hire or a public vehicle-for-hire, as those terms are defined in <cite path="§50-301.03|(16A)">§ 50-301.03(16A)</cite> and <cite path="§50-301.03|(17)">(17)</cite> , or a person that provides transportation of parcels, food, or beverages in the District for compensation.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 13-307" type="History" path="§2">June 9, 2001, D.C. Law 13-307, § 2, 48 DCR 600</annotation>
     <annotation doc="D.C. Law 17-206" type="History">July 23, 2008, D.C. Law 17-206, § 2(a), 55 DCR 5168</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-206">D.C. Law 17-206</cite>, in the section name line, inserted “for offenses committed against taxicab drivers”; and substituted “operating” for “lawfully operating”.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§22-3752">§ 22-3752</cite>.</annotation>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§20|(a)" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§20|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§20|(a)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§20|(a)">§ 20(a) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

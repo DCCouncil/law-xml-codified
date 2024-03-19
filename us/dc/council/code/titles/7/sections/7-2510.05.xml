@@ -1,12 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-2510.05</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-2510.05(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Service of extreme risk protection orders.</heading>
   <para>
     <num>(a)</num>
     <para>
       <num>(1)</num>
-      <text>Except as provided in subsection (b) of this section, an extreme risk protection order issued pursuant to <cite path="§7-2510.03">§ 7-2510.03</cite> or <cite path="§7-2510.04">§ 7-2510.04</cite>, or renewed pursuant to <cite path="§7-2510.06">§ 7-2510.06</cite>, shall be personally served upon the respondent by a sworn member of the Metropolitan Police Department.</text>
+      <text>Except as provided in subsection (b) of this section, an extreme risk protection order issued pursuant to <cite path="§7-2510.03">§ 7-2510.03</cite> or <cite path="§7-2510.04">§ 7-2510.04</cite>, or renewed pursuant to <cite path="§7-2510.06">§ 7-2510.06</cite>, shall be personally served upon the respondent by any sworn law enforcement officer, or in open court. Upon a finding of good cause, a judge may authorize personal service by a person over the age of 18 who is not a sworn law enforcement officer.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -53,5 +56,8 @@
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§102|(h)|(1)|(B)" type="History"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§102|(h)|(1)|(C)" type="History"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§102|(h)|(2)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(h)" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(h)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§11|(h)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§11|(h)">§ 11(h) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

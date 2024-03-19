@@ -2,6 +2,9 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>§</prefix>
   <num>14-307</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§14-307(Perm)">Permanent Version</cite>.*
+      </text>
   <heading proof="needed">Confidential information.</heading>
   <para>
     <num>(a)</num>
@@ -131,7 +134,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>When determining whether the disclosure of confidential information is required in the interest of justice, as provided in subsection (c)(1)(B) and (5)(B) of this section, the court shall consider the rights of crime victims under <cite path="§23-1901">§ 23-1901</cite> and 18 U.S.C. 3771.</text>
+      <text>When determining whether the disclosure of confidential information of a victim is required in the interest of justice, as provided in subsection (c)(1)(B) and (5)(B) of this section, the court shall consider the rights of crime victims under <cite path="§23-1901">§ 23-1901</cite> and 18 U.S.C. 3771.</text>
     </para>
   </para>
   <para>
@@ -196,5 +199,8 @@
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§401|(b)" type="History"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§301" type="History"/>
     <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="§107|(a)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§12" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§12" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§12" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§12">§ 12 of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-2510.06</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-2510.06(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Renewal of final extreme risk protection orders.</heading>
   <para>
     <num>(a)</num>
-    <text>At least 120 days before the expiration of a final extreme risk protection order, the court shall notify the petitioner of the date that the order is set to expire and advise the petitioner of the procedures for seeking a renewal of the order.</text>
+    <text>At least 120 days before the expiration of a final extreme risk protection order, the court shall send notice to the petitioner in writing of the date that the order is set to expire and advise the petitioner of the procedures for seeking a renewal of the order.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -12,7 +15,7 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>Personal service of the notice of hearing and request for renewal shall be made upon the respondent by a Metropolitan Police Department officer not fewer than 21 days before the hearing.</text>
+    <text>Personal service of the notice of hearing and request for renewal shall be made upon the respondent prior to the hearing by a person authorized to serve via personal service.</text>
   </para>
   <para>
     <num>(d)</num>
@@ -124,5 +127,9 @@
     <annotation app="2021-02-26" doc="D.C. Act 24-25" eff="2021-02-26" path="§4|(l)" type="History" display="false"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§102|(i)|(1)" type="History"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§102|(i)|(2)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(i)" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(i)|(1)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(i)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§11|(i)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§11|(i)">§ 11(i) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
