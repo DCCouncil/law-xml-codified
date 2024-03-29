@@ -36,17 +36,12 @@
       <para codify:path="(1)">
         <num>(1)</num>
         <text>Paragraph (1) is amended by striking the word "platform" and inserting the word "service" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§48-651|(1)">
-          <find>platform</find>
-          <replace>service</replace>
-        </codify:find-replace>
       </para>
       <para codify:path="(2)">
         <num>(2)</num>
         <text>Paragraph (2) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§48-651|(2)"/>
             <num>(2)</num>
             <text>"Core delivery service" means a service that lists a restaurant and makes the restaurant discoverable on all third-party meal delivery platforms where a third-party meal delivery service lists restaurants and facilitates or performs the delivery through employees or independent contractors of the third-party meal delivery service of food or beverages from restaurants to customers. The term "core delivery service" does not include any other service that may be provided by a third-party meal delivery service to a restaurant, including advertising or other promotional services, search engine optimization, business consulting, or credit card processing.</text>
           </para>
@@ -58,12 +53,10 @@
         <text>New paragraphs (2A) and (2B) are added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§48-651|(2A)"/>
             <num>(2A)</num>
             <text>"Covered restaurant" means a restaurant that elects to receive only core delivery service.</text>
           </para>
           <para>
-            <codify:insert after="(2A)" codified:doc="D.C. Code" codified:path="§48-651|(2B)"/>
             <num>(2B)</num>
             <text>"Delivery radius" means the circular delivery area from around a restaurant within which customers can search for and order from a restaurant.</text>
           </para>
@@ -73,17 +66,12 @@
       <para codify:path="(6)">
         <num>(4)</num>
         <text>Paragraph (6) is amended by striking the phrase "by, and same-day delivery, and the" and inserting the phrase "by, and provides the" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§48-651|(6)">
-          <find>by, and the same-day delivery, and the</find>
-          <replace>by, and [] provides the</replace>
-        </codify:find-replace>
       </para>
       <para>
         <num>(5)</num>
         <text>A new paragraph (6A) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(6)" codified:doc="D.C. Code" codified:path="§48-651|(6A)"/>
             <num>(6A)</num>
             <text>"Third-party meal delivery service" means a person that operates a third-party meal delivery platform.</text>
           </para>
@@ -91,11 +79,6 @@
         <aftertext>.</aftertext>
       </para>
       <codify:temporary doc="D.C. Code" path="§48-651" codified:doc="D.C. Code" codified:path="§48-651" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§48-651" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§48-651">
-        <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on March 29, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§48-651(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para codify:path="§48-652">
       <num>(c)</num>
@@ -103,26 +86,14 @@
       <para codify:path="heading">
         <num>(1)</num>
         <text>The section heading is amended by striking the phrase "meals delivery platforms" and inserting the phrase "meal delivery services" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§48-652">
-          <find>meals delivery platforms</find>
-          <replace>meal delivery services</replace>
-        </codify:find-replace>
       </para>
       <para codify:path="(a)">
         <num>(2)</num>
         <text>Subsection (a) is amended by striking the word "platform" both times it appears and inserting the word "service" in its place.</text>
-        <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§48-652|(a)">
-          <find>platform</find>
-          <replace>service</replace>
-        </codify:find-replace>
       </para>
       <para codify:path="(b)">
         <num>(3)</num>
         <text>Subsection (b) is amended by striking the word "platform" both times it appears and inserting the word "service" in its place.</text>
-        <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§48-652|(b)">
-          <find>platform</find>
-          <replace>service</replace>
-        </codify:find-replace>
       </para>
       <para codify:path="(c)">
         <num>(4)</num>
@@ -130,44 +101,29 @@
         <para codify:path="(1)">
           <num>(A)</num>
           <text>Paragraph (1) is amended by striking the word "platform" and inserting the word "service" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§48-652|(c)|(1)">
-            <find>platform</find>
-            <replace>service</replace>
-          </codify:find-replace>
         </para>
         <para codify:path="(2)">
           <num>(B)</num>
           <text>Paragraph (2) is amended by striking the word "platform" and inserting the word "service" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§48-652|(c)|(2)">
-            <find>platform</find>
-            <replace>service</replace>
-          </codify:find-replace>
         </para>
       </para>
       <para codify:path="(d)">
         <num>(5)</num>
         <text>Subsection (d) is amended by striking the phrase "platform that" and inserting the phrase "service that" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§48-652|(d)">
-          <find>platform that</find>
-          <replace>service that</replace>
-        </codify:find-replace>
       </para>
       <para>
         <num>(6)</num>
         <text>New subsections (e), (f), and (g) are added to read as follows:</text>
         <include>
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§48-652|(e)"/>
             <num>(e)</num>
             <text>A third party meal delivery service shall not exclude any restaurant with whom the third-party meal delivery service has an agreement from a customer within 4 miles of a restaurant.</text>
           </para>
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§48-652|(f)"/>
             <num>(f)</num>
             <text>A third-party meal delivery service shall not reduce the delivery radius of a covered restaurant below 4 miles, based on the level or percentage of commissions paid.</text>
           </para>
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§48-652|(g)"/>
             <num>(g)</num>
             <text>A third-party meal delivery service shall not reduce the availability of delivery drivers provided to a covered restaurant, based on the level or percentage of commissions paid; provided, that this subsection shall not be construed to restrict a third-party meal delivery service's ability to use any method (that does not conflict with the restrictions in this subsection or any other applicable law) to offer expedited or priority driver services to a covered restaurant that pays for such services on a third-party meal delivery platform.</text>
           </para>
@@ -175,11 +131,6 @@
         <aftertext>.</aftertext>
       </para>
       <codify:temporary doc="D.C. Code" path="§48-652" codified:doc="D.C. Code" codified:path="§48-652" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§48-652" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§48-652">
-        <text>
-        *NOTE: This section includes amendments by temporary legislation that will expire on March 29, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§48-652(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para codify:path="§48-653">
       <num>(d)</num>
@@ -187,32 +138,18 @@
       <para>
         <num>(1)</num>
         <text>Strike the phrase ", the third-party meal delivery platform" and insert the phrase ", the third-party meal delivery service" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§48-653">
-          <find>, the third-party meal delivery platform</find>
-          <replace>, the third-party meal delivery service</replace>
-        </codify:find-replace>
       </para>
       <para>
         <num>(2)</num>
         <text>Strike the phrase "platform ("charges")" and insert<s>ing</s> the phrase "service ("charges")" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§48-653">
-          <find>platform ("charges")</find>
-          <replace>service ("charges")</replace>
-        </codify:find-replace>
       </para>
       <codify:temporary doc="D.C. Code" path="§48-653" codified:doc="D.C. Code" codified:path="§48-653" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§48-653" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§48-653">
-        <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on March 29, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§48-653(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(e)</num>
       <text>A new section 4a is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert path="48|6A" after="§48-653" num-value="48-653.01" history-prefix="as added" codified:doc="D.C. Code" codified:path="§48-653.01"/>
           <num>4a</num>
           <heading>Restaurant disclosure requirement.</heading>
           <para>
@@ -231,12 +168,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:temporary-new-sec doc="D.C. Code" path="§48-653.01" interim-path="§48-653" perm-eff="2023-08-17" codified:doc="D.C. Code" codified:path="§48-653.01" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§48-653.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§48-653.01">
-        <text>
-      *NOTE: This section was created by temporary legislation that will expire on March 29, 2024.*
-      </text>
-      </codify:insert>
+      <codify:temporary doc="D.C. Code" path="§48-653" action="For temporary (225-day) restaurant disclosure requirement, see § 2(e) of D.C. Law 25-38" codified:doc="D.C. Code" codified:path="§48-653" codified:display="Note"/>
     </para>
     <para codify:path="§48-654">
       <num>(f)</num>

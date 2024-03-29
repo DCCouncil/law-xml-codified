@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-921.25</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on June 23, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-921.25(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>ATE system revenue designation.</heading>
   <para>
     <num>(a)</num>
@@ -8,7 +11,7 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>There shall be deposited in the [Fund] revenue from fines generated from the automated traffic enforcement system, authorized by <cite path="§50-2209.01">§ 50-2209.01</cite>, in excess of the following [thresholds]:</text>
+    <text>There shall be deposited in the Fund revenue from fines generated from the automated traffic enforcement system, authorized by <cite path="§50-2209.01">§ 50-2209.01</cite>, in excess of the following thresholds:</text>
     <para>
       <num>(1)</num>
       <text>For Fiscal Year 2024, $116,989,000;</text>
@@ -23,7 +26,7 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>For Fiscal Year 2027 and each fiscal year thereafter, $[277,341,000].</text>
+      <text>For Fiscal Year 2027 and each fiscal year thereafter, $277,341,000.</text>
     </para>
   </para>
   <para>
@@ -76,5 +79,10 @@
     <annotation doc="D.C. Law 25-50" path="§7095" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7095">Section 7095 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 24-321" path="§3">section 3 of D.C. Law 24-321</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 2 of Law 24-321 has been implemented.
         </annotation>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7095" type="History" display="false"/>
+    <annotation app="2024-03-25" doc="D.C. Act 25-426" eff="2024-03-25" path="§4" type="History" display="false"/>
+    <annotation app="2024-03-25" doc="D.C. Act 25-426" eff="2024-03-25" path="§4|(a)|(1)" type="History"/>
+    <annotation app="2024-03-25" doc="D.C. Act 25-426" eff="2024-03-25" path="§4|(a)|(2)" type="History"/>
+    <annotation app="2024-03-25" doc="D.C. Act 25-426" eff="2024-03-25" path="§4|(b)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Act 25-426" path="§4" codified:display="Note" app="2024-03-25" eff="2024-03-25">For temporary (225 days) amendment of this section, see <cite doc="D.C. Act 25-426" path="§4">§ 4 of Comprehensive Policing and Justice Reform Technical Emergency Amendment Act of 2024 (D.C. Act 25-426, Mar. 25, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
