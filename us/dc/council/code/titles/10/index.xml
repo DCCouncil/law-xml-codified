@@ -336,18 +336,18 @@
       <xi:include href="./sections/10-564.01.xml"/>
       <xi:include href="./sections/10-564.02.xml"/>
     </container>
-    <container>
-      <prefix>Subchapter</prefix>
-      <num>V</num>
-      <heading>Proactive Inspection of Multifamily Rental Housing.</heading>
-      <annotation app="2024-03-23" doc="D.C. Law 25-141" eff="2024-03-23" path="" type="History" display="false"/>
-      <xi:include href="./sections/10-565.01.xml"/>
-      <xi:include href="./sections/10-565.02.xml"/>
-      <xi:include href="./sections/10-565.03.xml"/>
-      <xi:include href="./sections/10-565.04.xml"/>
-      <xi:include href="./sections/10-565.05.xml"/>
-      <xi:include href="./sections/10-565.06.xml"/>
-    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>5C</num>
+    <heading>Proactive Inspection of Multifamily Rental Housing.</heading>
+    <annotation app="2024-03-23" doc="D.C. Law 25-141" eff="2024-03-23" path="" type="History" display="false"/>
+    <xi:include href="./sections/10-571.01.xml"/>
+    <xi:include href="./sections/10-571.02.xml"/>
+    <xi:include href="./sections/10-571.03.xml"/>
+    <xi:include href="./sections/10-571.04.xml"/>
+    <xi:include href="./sections/10-571.05.xml"/>
+    <xi:include href="./sections/10-565.06.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
