@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-301.86b</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 27, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-301.86b(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Litigation Support Fund.</heading>
   <para>
     <num>(a)</num>
@@ -54,7 +57,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>Beginning in Fiscal Year 2020, up to $9 million deposited into the Fund each fiscal year may be used for the purposes of crime reduction, violence interruption, and other public safety initiatives.</text>
+      <text>Beginning in Fiscal Year 2024, up to $9.7 million deposited into the Fund each fiscal year may be used for the purposes of crime reduction, violence interruption, and other public safety initiatives.</text>
     </para>
     <para>
       <num>(3)</num>
@@ -79,7 +82,7 @@
       <num>(3)</num>
       <para>
         <num>(A)</num>
-        <text>The balance in the Fund, including interest earned, shall not exceed $23.5 million.  Any funds in excess of $23.5 million shall revert at the end of a fiscal year to the unrestricted fund balance of the General Fund of the District of Columbia.</text>
+        <text>The balance in the Fund, including interest earned, shall not exceed $27 million.  Any funds in excess of $27 million shall revert at the end of a fiscal year to the unrestricted fund balance of the General Fund of the District of Columbia.</text>
       </para>
       <para placeholder="Repealed">
         <num>(B)</num>
@@ -179,5 +182,9 @@
     <annotation doc="D.C. Law 25-109" path="§3" type="Applicability" history="false" app="2024-01-23" eff="2024-01-23"><cite doc="D.C. Law 25-109" path="§3">Section 3 of D.C. Law 25-109</cite> repealed <cite doc="D.C. Law 24-315" path="§301">section 301 of D.C. Law 24-315</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 201 of Law 24-315 has been implemented.
         </annotation>
     <annotation app="2024-01-23" doc="D.C. Law 25-109" eff="2024-01-23" path="§3" type="History" display="false"/>
+    <annotation app="2024-03-29" doc="D.C. Act 25-436" eff="2024-03-29" path="§2" type="History" display="false"/>
+    <annotation app="2024-03-29" doc="D.C. Act 25-436" eff="2024-03-29" path="§2|(a)" type="History"/>
+    <annotation app="2024-03-29" doc="D.C. Act 25-436" eff="2024-03-29" path="§2|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-436" path="§2" codified:display="Note" app="2024-03-29" eff="2024-03-29">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-436" path="§2">§ 2 of Litigation Support Fund Emergency Amendment Act of 2024 (D.C. Act 25-436, Mar. 29, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
