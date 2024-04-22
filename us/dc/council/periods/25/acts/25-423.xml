@@ -9,7 +9,7 @@
     <effective>2024-03-25</effective>
     <citations>
       <citation type="act">D.C. Act 25-423</citation>
-      <citation type="register">0 DCR 0</citation>
+      <citation type="register">71 DCR 3515</citation>
     </citations>
     <history url="https://lims.dccouncil.us/Legislation/B25-0725">
       <vote date="2024-03-05" reading="Final"/>
@@ -47,10 +47,10 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:temporary doc="D.C. Code" path="§48-652" codified:doc="D.C. Code" codified:path="§48-652" codified:display="Note"/>
+    <codify:emergency doc="D.C. Code" path="§48-652" codified:doc="D.C. Code" codified:path="§48-652" codified:display="Note"/>
     <codify:insert doc="D.C. Code" path="§48-652" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§48-652">
       <text>
-        *NOTE: This section includes amendments by temporary legislation that will expire on June 23, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§48-652(Perm)">Permanent Version</cite>.*
+        *NOTE: This section includes amendments by emergency legislation that will expire on June 23, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§48-652(Perm)">Past Permanent Version</cite>.*
       </text>
     </codify:insert>
   </section>
