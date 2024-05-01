@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <num>2-218.02</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on July 14, 2024. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§2-218.02(Perm)">Prior Permanent Version</cite>.*
-      </text>
+  <num>2-218.02(Perm)</num>
   <heading>Definitions.</heading>
+  <text>
+      *NOTE: This codification is <u><b>not</b></u> the most current, due to recent law changes. To see the current law (including emergency and temporary legislation, if relevent) click this link: <cite path="§2-218.02">Current Version</cite>*
+      </text>
   <text>For the purposes of this subchapter, the term:</text>
   <para>
     <num>(1)</num>
@@ -116,10 +116,6 @@
   </para>
   <para>
     <num>(9A)</num>
-    <text>"Formal complaint" means a complaint that is submitted to the Department in writing, sworn to by the complainant, and notarized.</text>
-  </para>
-  <para>
-    <num>(9B)</num>
     <text>“Government-assisted project” means:</text>
     <para>
       <num>(A)</num>
@@ -149,10 +145,6 @@
   <para>
     <num>(10)</num>
     <text>Repealed.</text>
-  </para>
-  <para>
-    <num>(10A)</num>
-    <text>"Informal complaint" means a complaint other than a formal complaint and includes complaints submitted in person, by email, by telephone, or through the Department's complaint hotline.</text>
   </para>
   <para>
     <num>(11)</num>
@@ -188,10 +180,6 @@
   </para>
   <para>
     <num>(13B)</num>
-    <text>"Person" means any individual, firm, partnership, joint venture, general partner of a partnership, limited liability company, registered limited liability partnership, foreign limited liability partnership, association, corporation, unincorporated business, company, syndicate, estate, trust, business trust, trustee, trustee in bankruptcy, receiver, executor, administrator, assignee, fiduciary, or entity of any kind.</text>
-  </para>
-  <para>
-    <num>(13C)</num>
     <text>“Qualified”  means a business enterprise deemed by the Department to have the capability  to perform the work that has been issued a certificate of registration  issued pursuant to this subchapter.</text>
   </para>
   <para>
@@ -234,6 +222,7 @@
     <annotation doc="D.C. Law 18-141" type="History">Apr. 20, 2010, D.C. Law 18-141, § 2(a), 57 DCR 1485</annotation>
     <annotation doc="D.C. Law 20-108" type="History">June 10, 2014, D.C. Law 20-108, § 2(b), 61 DCR 3892</annotation>
     <annotation doc="D.C. Law 20-234" type="History">Mar. 11, 2015, D.C. Law 20-234, § 2(a), 62 DCR 458</annotation>
+    <annotation doc="D.C. Law 23-149" type="History">Dec. 3, 2020, D.C. Law 23-149, § 2042(b), 67 DCR 10493</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) repeal of <cite doc="D.C. Law 20-108">D.C. Law 20-108</cite>, § 4(c), see § 7005 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015,  62 DCR 884, 21 STAT 541).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) repeal of <cite doc="D.C. Law 20-108">D.C. Law 20-108</cite>, § 4(c), see § 7005 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014,  61 DCR 10915, 20 STAT 4188).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 2 of the Small and Certified Business Enterprise Development and Assistance Clarification Congressional Review Emergency Amendment Act of 2014 (D.C. Act 20-465, Nov. 6, 2014, 61 DCR 11830, 20 STAT 4399).</annotation>
@@ -254,21 +243,5 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-141">D.C. Law 18-141</cite> added pars. (12A) and (17); and, in par. (15), substituted “subject to personal income tax solely in the District of Columbia” for “subject to personal income tax in the District of Columbia”.</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-207">D.C. Law 17-207</cite> added pars. (1A) and (1B).</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§2-218.35">§ 2-218.35</cite>, <cite path="§2-218.36">§ 2-218.36</cite>, <cite path="§2-218.37">§ 2-218.37</cite>, <cite path="§2-218.39a">§ 2-218.39a</cite>, <cite path="§2-351.04">§ 2-351.04</cite>, <cite path="§10-1601.04">§ 10-1601.04</cite>, and <cite path="§38-2973.04">§ 38-2973.04</cite>.</annotation>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-22" path="§2|(b)" codified:display="Note" app="2019-03-27" eff="2019-03-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-22" path="§2|(b)">§ 2(b) of Small and Certified Business Enterprise Development and Assistance Emergency Amendment Act of 2019 (D.C. Act 23-22, Mar. 27, 2019, 66 DCR 3991)</cite>.</annotation>
-    <annotation app="2019-03-27" doc="D.C. Act 23-22" eff="2019-03-27" path="§2|(b)" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-7" path="§2|(b)" codified:display="Note" app="2019-06-04" eff="2019-06-04">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-7" path="§2|(b)">§ 2(b) of Small and Certified Business Enterprise Development and Assistance Temporary Amendment Act of 2019 (D.C. Law 23-7, June 4, 2019, 66 DCR 5250)</cite>.</annotation>
-    <annotation app="2019-06-04" doc="D.C. Law 23-7" eff="2019-06-04" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2042|(b)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-211" path="§3" codified:display="Note" app="2021-11-18" eff="2021-11-18">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-211" path="§3">§ 3 of Fifty-Point Preference Clarification Emergency Amendment Act of 2021 (D.C. Act 24-211, Nov. 18, 2021, 68 DCR 012363)</cite>.</annotation>
-    <annotation app="2021-11-18" doc="D.C. Act 24-211" eff="2021-11-18" path="§3" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-68" path="§3" codified:display="Note" app="2022-02-18" eff="2022-02-18">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-68" path="§3">§ 3 of Fifty-Point Preference Clarification Temporary Amendment Act of 2021 (D.C. Law 24-68, Feb. 18, 2022, 68 DCR 014082)</cite>.</annotation>
-    <annotation app="2022-02-18" doc="D.C. Law 24-68" eff="2022-02-18" path="§3" type="History" display="false"/>
-    <annotation app="2024-04-15" doc="D.C. Act 25-444" eff="2024-04-15" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2024-04-15" doc="D.C. Act 25-444" eff="2024-04-15" path="§2|(a)|(2)" type="History"/>
-    <annotation app="2024-04-15" doc="D.C. Act 25-444" eff="2024-04-15" path="§2|(a)|(1)" type="History"/>
-    <annotation app="2024-04-15" doc="D.C. Act 25-444" eff="2024-04-15" path="§2|(a)|(3)" type="History"/>
-    <annotation app="2024-04-15" doc="D.C. Act 25-444" eff="2024-04-15" path="§2|(a)|(5)" type="History"/>
-    <annotation app="2024-04-15" doc="D.C. Act 25-444" eff="2024-04-15" path="§2|(a)|(4)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-444" path="§2|(a)" codified:display="Note" app="2024-04-15" eff="2024-04-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-444" path="§2|(a)">§ 2(a) of Certified Business Enterprise Program Compliance and Enforcement Support Emergency Amendment Act of 2024 (D.C. Act 25-444, Apr. 15, 2024, 71 DCR 4625)</cite>.</annotation>
   </annotations>
 </section>
