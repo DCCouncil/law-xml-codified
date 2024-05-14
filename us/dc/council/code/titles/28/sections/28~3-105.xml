@@ -4,7 +4,15 @@
   <heading>Issue of instrument.</heading>
   <para>
     <num>(a)</num>
-    <text>“Issue” means the first delivery of an instrument by the maker or drawer, whether to a holder or nonholder, for the purpose of giving rights on the instrument to any person.</text>
+    <text>"Issue" means:</text>
+    <para>
+      <num>(1)</num>
+      <text>The first delivery of an instrument by the maker or drawer, whether to a holder or non-holder, for the purpose of giving rights on the instrument to any person; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>If agreed by the payee, the first transmission by the drawer to the payee of an image of an item and information derived from the item that enables the depositary bank to collect the item by transferring or presenting under federal law an electronic check.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
@@ -21,5 +29,6 @@
     <annotation doc="D.C. Law 10-249" type="History">Mar. 23, 1995, D.C. Law 10-249, § 2(d), 42 DCR 467</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 28:3-105.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§28:3-103">§ 28:3-103</cite>.</annotation>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(e)|(2)" type="History"/>
   </annotations>
 </section>

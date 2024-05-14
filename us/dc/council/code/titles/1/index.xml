@@ -1491,36 +1491,6 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
-    <num>3A</num>
-    <heading>Advisory Neighborhood Commission Boundaries.</heading>
-    <annotation app="2023-03-10" doc="D.C. Law 24-326" eff="2023-03-10" path="§2" type="History" display="false"/>
-    <container>
-      <prefix>Subchapter</prefix>
-      <num>1</num>
-      <heading>Ward 1.</heading>
-      <annotation app="2023-03-10" doc="D.C. Law 24-326" eff="2023-03-10" path="§2|(a)" type="History" display="false"/>
-      <container>
-        <prefix>Part</prefix>
-        <num>A</num>
-        <heading>ANC 1A</heading>
-        <annotation app="2023-03-10" doc="D.C. Law 24-326" eff="2023-03-10" path="§2|(a)|(1)" type="History" display="false"/>
-        <container>
-          <prefix>Subpart</prefix>
-          <num>i</num>
-          <heading>SMD 1A01</heading>
-          <annotation app="2023-03-10" doc="D.C. Law 24-326" eff="2023-03-10" path="§2|(a)|(1)|(A)" type="History" display="false"/>
-        </container>
-        <container>
-          <prefix>Subpart</prefix>
-          <num>ii</num>
-          <heading>SMD 1A02</heading>
-          <annotation app="2023-03-10" doc="D.C. Law 24-326" eff="2023-03-10" path="§2|(a)|(1)|(B)" type="History" display="false"/>
-        </container>
-      </container>
-    </container>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
     <num>4</num>
     <heading>Delegate to the House of Representatives.</heading>
     <xi:include href="./sections/1-401.xml"/>

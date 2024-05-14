@@ -8,7 +8,7 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>A system satisfies subsection (a) of this section, and a person is deemed to have control of an electronic document of title, if the document is created, stored, and assigned in such a manner that:</text>
+    <text>A system satisfies subsection (a) of this section, and a person has control of an electronic document of title, if the document is created, stored, and transferred in a manner that:</text>
     <para>
       <num>(1)</num>
       <text>A single authoritative copy of the document exists which is unique, identifiable, and, except as otherwise provided in paragraphs (4), (5), and (6) of this subsection, unalterable;</text>
@@ -31,7 +31,7 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>Copies or amendments that add or change an identified assignee of the authoritative copy can be made only with the consent of the person asserting control;</text>
+      <text>Copies or amendments that add or change an identified transferee of the authoritative copy can be made only with the consent of the person asserting control;</text>
     </para>
     <para>
       <num>(5)</num>
@@ -41,6 +41,86 @@
       <num>(6)</num>
       <text>Any amendment of the authoritative copy is readily identifiable as authorized or unauthorized.</text>
     </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>A system satisfies subsection (a) of this section, and a person has control of an electronic document of title, if an authoritative electronic copy of the document, a record attached to or logically associated with the electronic copy, or a system in which the electronic copy is recorded:</text>
+    <para>
+      <num>(1)</num>
+      <text>Enables the person readily to identify each electronic copy as either an authoritative copy or a non-authoritative copy;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Enables the person readily to identify itself in any way, including by name, identifying number, cryptographic key, office, or account number, as the person to which each authoritative electronic copy was issued or transferred; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Gives the person exclusive power, subject to subsection (d) of this section, to:</text>
+      <para>
+        <num>(A)</num>
+        <text>Prevent others from adding or changing the person to which each authoritative electronic copy has been issued or transferred; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Transfer control of each authoritative electronic copy.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>Subject to subsection (e) of this section, a power is exclusive under subsection (c)(3) of this section even if:</text>
+    <para>
+      <num>(1)</num>
+      <text>The authoritative electronic copy, a record attached to or logically associated with the authoritative electronic copy, or a system in which the authoritative electronic copy is recorded limits the use of the document of title or has a protocol that is programmed to cause a change, including a transfer or loss of control; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The power is shared with another person.</text>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>A power of a person is not shared with another person under subsection (d)(2) of this section and the person's power is not exclusive if:</text>
+    <para>
+      <num>(1)</num>
+      <text>The person can exercise the power only if the power also is exercised by the other person; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The other person:</text>
+      <para>
+        <num>(A)</num>
+        <text>Can exercise the power without exercise of the power by the person; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Is the transferor to the person of an interest in the document of title.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>If a person has the powers specified in subsection (c)(3) of this section, those powers are presumed to be exclusive.</text>
+  </para>
+  <para>
+    <num>(g)</num>
+    <text>A person has control of an electronic document of title if another person, other than the transferor to the person of an interest in the document:</text>
+    <para>
+      <num>(1)</num>
+      <text>Has control of the document and acknowledges that it has control on behalf of the person; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Obtains control of the document after having acknowledged that it will obtain control of the document on behalf of the person.</text>
+    </para>
+  </para>
+  <para>
+    <num>(h)</num>
+    <text>A person that has control under this section is not required to acknowledge that it has control on behalf of another person.</text>
+  </para>
+  <para>
+    <num>(i)</num>
+    <text>If a person acknowledges that it has or will obtain control on behalf of another person, unless the person otherwise agrees or law other than this article or Article 9 otherwise provides, the person does not owe any duty to the other person and is not required to confirm the acknowledgment to any other person.</text>
   </para>
   <annotations>
     <text type="Uniform Commercial Code Comment">
@@ -63,5 +143,9 @@
     <text type="Uniform Commercial Code Comment"><strong>Prior Uniform Statutory Provision:</strong> Uniform Electronic Transactions Act Section 16.</text>
     <annotation doc="D.C. Law 19-299" type="History">Apr. 27, 2013, D.C. Law 19-299, § 9, 60 DCR 2634</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§28:2-103">§ 28:2-103</cite>, <cite path="§28:4-104">§ 28:4-104</cite>, <cite path="§28:9-102">§ 28:9-102</cite>, <cite path="§28:9-203">§ 28:9-203</cite>, <cite path="§28:9-207">§ 28:9-207</cite>, <cite path="§28:9-314">§ 28:9-314</cite>, and <cite path="§28:9-601">§ 28:9-601</cite>.</annotation>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(h)|(2)|(A)|(ii)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(h)|(2)|(A)|(i)|(I)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(h)|(2)|(A)|(i)|(II)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(h)|(2)|(B)" type="History"/>
   </annotations>
 </section>

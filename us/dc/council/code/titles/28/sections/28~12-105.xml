@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
+  <num>28:12-105</num>
+  <heading proof="needed">Control of controllable electronic record.</heading>
+  <para>
+    <num>(a)</num>
+    <text>A person has control of a controllable electronic record if the electronic record, a record attached to or logically associated with the electronic record, or a system in which the electronic record is recorded:</text>
+    <para>
+      <num>(1)</num>
+      <text>Gives the person:</text>
+      <para>
+        <num>(A)</num>
+        <text>Power to avail itself of substantially all the benefit from the electronic record; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Exclusive power, subject to subsection (b) of this section, to:</text>
+        <para>
+          <num>(i)</num>
+          <text>Prevent others from availing themselves of substantially all the benefit from the electronic record; and</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Transfer control of the electronic record to another person or cause another person to obtain control of another controllable electronic record as a result of the transfer of the electronic record; and</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Enables the person readily to identify itself in any way, including by name, identifying number, cryptographic key, office, or account number, as having the powers specified in paragraph (1) of this subsection.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Subject to subsection (c) of this section, a power is exclusive under subsections (a)(1)(B)(i) and (ii) of this section even if:</text>
+    <para>
+      <num>(1)</num>
+      <text>The controllable electronic record, a record attached to or logically associated with the electronic record, or a system in which the electronic record is recorded limits the use of the electronic record or has a protocol programmed to cause a change, including a transfer or loss of control or a modification of benefits afforded by the electronic record; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The power is shared with another person.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>A power of a person is not shared with another person under subsection (b)(2) of this section and the person's power is not exclusive if:</text>
+    <para>
+      <num>(1)</num>
+      <text>The person can exercise the power only if the power also is exercised by the other person; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The other person:</text>
+      <para>
+        <num>(A)</num>
+        <text>Can exercise the power without exercise of the power by the person; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Is the transferor to the person of an interest in the controllable electronic record or a controllable account or controllable payment intangible evidenced by the controllable electronic record.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>If a person has the powers specified in subsection (a)(1)(B)(i) and (ii) of this section, the powers are presumed to be exclusive.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>A person has control of a controllable electronic record if another person, other than the transferor to the person of an interest in the controllable electronic record or a controllable account or controllable payment intangible evidenced by the controllable electronic record:</text>
+    <para>
+      <num>(1)</num>
+      <text>Has control of the electronic record and acknowledges that it has control on behalf of the person; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Obtains control of the electronic record after having acknowledged that it will obtain control of the electronic record on behalf of the person.</text>
+    </para>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>A person that has control under this section is not required to acknowledge that it has control on behalf of another person.</text>
+  </para>
+  <para>
+    <num>(g)</num>
+    <text>If a person acknowledges that it has or will obtain control on behalf of another person, unless the person otherwise agrees or law other than this article or Article 9 otherwise provides, the person does not owe any duty to the other person and is not required to confirm the acknowledgment to any other person.</text>
+  </para>
+  <annotations>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(a)|(13)" type="History" display="false"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(a)|(13)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(k)" type="History"/>
+  </annotations>
+</section>

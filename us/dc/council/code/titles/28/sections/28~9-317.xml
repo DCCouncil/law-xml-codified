@@ -24,7 +24,7 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>Except as otherwise provided in subsection (e), a buyer, other than a secured party, of tangible chattel paper, tangible documents, goods, instruments, or a certificated security takes free of a security interest or agricultural lien if the buyer gives value and receives delivery of the collateral without knowledge of the security interest or agricultural lien and before it is perfected.</text>
+    <text>Except as otherwise provided in subsection (e), a buyer, other than a secured party, of goods, instruments, tangible documents, or a certificated security takes free of a security interest or agricultural lien if the buyer gives value and receives delivery of the collateral without knowledge of the security interest or agricultural lien and before it is perfected.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -32,11 +32,35 @@
   </para>
   <para>
     <num>(d)</num>
-    <text>A licensee of a general intangible or a buyer, other than a secured party, of collateral other than tangible chattel paper, tangible documents, goods, instruments, or a certificated security takes free of a security interest if the licensee or buyer gives value without knowledge of the security interest and before it is perfected.</text>
+    <text>Subject to subsections (f) through (i) of this section, a licensee of a general intangible or a buyer, other than a secured party, of collateral other than electronic money, goods, instruments, tangible documents, or a certificated security takes free of a security interest if the licensee or buyer gives value without knowledge of the security interest and before it is perfected.</text>
   </para>
   <para>
     <num>(e)</num>
     <text>Except as otherwise provided in §§ <cite path="§28:9-320">28:9-320</cite> and <cite path="§28:9-321">28:9-321</cite>, if a person files a financing statement with respect to a purchase-money security interest before or within 20  days after the debtor receives delivery of the collateral, the security interest takes priority over the rights of a buyer, lessee, or lien creditor which arise between the time the security interest attaches and the time of filing.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>A buyer, other than a secured party, of chattel paper takes free of a security interest if, without knowledge of the security interest and before it is perfected, the buyer gives value and:</text>
+    <para>
+      <num>(1)</num>
+      <text>Receives delivery of each authoritative tangible copy of the record evidencing the chattel paper; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>If each authoritative electronic copy of the record evidencing the chattel paper can be subjected to control under <cite path="§28:9-105">§ 28:9-105</cite>, obtains control of each authoritative electronic copy.</text>
+    </para>
+  </para>
+  <para>
+    <num>(g)</num>
+    <text>A buyer of an electronic document takes free of a security interest if, without knowledge of the security interest and before it is perfected, the buyer gives value and, if each authoritative electronic copy of the document can be subjected to control under <cite path="§28:7-106">§ 28:7-106</cite>, obtains control of each authoritative electronic copy.</text>
+  </para>
+  <para>
+    <num>(h)</num>
+    <text>A buyer of a controllable electronic record takes free of a security interest if, without knowledge of the security interest and before it is perfected, the buyer gives value and obtains control of the controllable electronic record.</text>
+  </para>
+  <para>
+    <num>(i)</num>
+    <text>A buyer, other than a secured party, of a controllable account or a controllable payment intangible takes free of a security interest if, without knowledge of the security interest and before it is perfected, the buyer gives value and obtains control of the controllable account or controllable payment intangible.</text>
   </para>
   <annotations>
     <text type="Uniform Commercial Code Comment">Section 9-311(b) provides that compliance with the perfection requirements of a statute or treaty described in  Section 9-311(a) “is equivalent to the filing of a financing statement.” It follows that a person who perfects a security interest in goods covered by a certificate of title by complying with the perfection requirements of an applicable certificate-of-title statute “files a financing statement” within the meaning of subsection(e).</text>
@@ -62,5 +86,8 @@
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-302">D.C. Law 19-302</cite> substituted “certificated security” for “security certificate” in (b); and substituted “collateral other than tangible chattel paper, tangible documents, goods, instruments, or a certificated security” for “accounts, electronic chattel paper, electronic documents, general intangibles, or investment property other than a certificated security” in (d).</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-299">D.C. Law 19-299</cite> substituted “tangible documents” for “documents” in (b); and inserted “electronic documents” in (d).</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§28:2A-307">§ 28:2A-307</cite>.</annotation>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(22)|(A)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(22)|(B)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(22)|(C)" type="History"/>
   </annotations>
 </section>

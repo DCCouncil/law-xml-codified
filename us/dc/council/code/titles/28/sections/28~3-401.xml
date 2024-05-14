@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>28:3-401</num>
-  <heading>Signature.</heading>
+  <heading>Signature necessary for liability on instrument.</heading>
   <para>
     <num>(a)</num>
     <text>A person is not liable on an instrument unless (i) the person signed the instrument, or (ii) the person is represented by an agent or representative who signed the instrument and the signature is binding on the represented person under section 28:3-402.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(b)</num>
-    <text>A signature may be made (i) manually or by means of a device or machine, and (ii) by the use of any name, including a trade or assumed name, or by a word, mark, or symbol executed or adopted by a person with present intention to authenticate a writing.</text>
+    <text>[Repealed].</text>
   </para>
   <annotations>
     <text type="Uniform Commercial Code Comment">This section is not intended to affect any other law requiring a signature by mark to be witnessed, or any signature to be otherwise authenticated, or requiring any form of proof.</text>
@@ -18,5 +18,7 @@
     <annotation doc="D.C. Law 10-249" type="History">Mar. 23, 1995, D.C. Law 10-249, § 2(d), 42 DCR 467</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 28:3-401.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 28:3-401.</annotation>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(e)|(3)|(B)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(a)|(4)" type="History"/>
   </annotations>
 </section>

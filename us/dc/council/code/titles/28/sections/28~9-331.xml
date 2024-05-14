@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>28:9-331</num>
-  <heading>Priority of rights of purchasers of instruments, documents, and securities under other articles; priority of interests in financial assets and security entitlements under Article 8.</heading>
+  <heading>Priority of rights of purchasers of controllable accounts, controllable electronic records, controllable payment intangibles, documents, instruments, and securities under other articles; priority of interests in financial assets and security entitlements and protection against assertion of claim under Articles 8 and 12.</heading>
   <para>
     <num>(a)</num>
-    <text>This article does not limit the rights of a holder in due course of a negotiable instrument, a holder to which a negotiable document of title has been duly negotiated, or a protected purchaser of a security. These holders or purchasers take priority over an earlier security interest, even if perfected, to the extent provided in Articles 3, 7, and 8.</text>
+    <text>This article does not limit the rights of a holder in due course of a negotiable instrument, a holder to which a negotiable document of title has been duly negotiated, a protected purchaser of a security, or a qualifying purchaser of a controllable account, controllable electronic record, or controllable payment intangible.  These holders or purchasers take priority over an earlier security interest, even if perfected, to the extent provided in Articles <cite path="28|I|3">3</cite>, <cite path="28|I|7">7</cite>, <cite path="28|I|8">8</cite>, and <cite path="28|I|12">12</cite>.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>This article does not limit the rights of or impose liability on a person to the extent that the person is protected against the assertion of a claim under Article 8.</text>
+    <text>This article does not limit the rights of or impose liability on a person to the extent that the person is protected against the assertion of a claim under <cite path="28|I|8">Article 8</cite> or <cite path="28|I|12">12</cite>.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -25,5 +25,8 @@
     <text type="Uniform Commercial Code Comment">1. Source. Former  Section 9-309.</text>
     <annotation doc="D.C. Law 13-201" type="History">Oct. 26, 2000, D.C. Law 13-201, § 101, 47 DCR 7576</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§28:9-322">§ 28:9-322</cite> and <cite path="§28:9-330">§ 28:9-330</cite>.</annotation>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(27)|(B)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(27)|(C)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(a)|(12)" type="History"/>
   </annotations>
 </section>

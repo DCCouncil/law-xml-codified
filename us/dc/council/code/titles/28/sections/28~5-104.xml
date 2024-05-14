@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>28:5-104</num>
   <heading>Formal requirements.</heading>
-  <text>A letter of credit, confirmation, advice, transfer, amendment, or cancellation may be issued in any form that is a record and is authenticated (i) by a signature or (ii) in accordance with the agreement of the parties or the standard practice referred to in <cite path="§28:5-108|(e)">§ 28:5-108(e)</cite>.</text>
+  <text>A letter of credit, confirmation, advice, transfer, amendment, or cancellation may be issued in any form that is a signed record.</text>
   <annotations>
     <text type="Uniform Commercial Code Comment">To be a record sufficient to serve as a letter of credit or other undertaking under this section, data must have a durability consistent with that function. Because consideration is not required for a binding letter of credit or similar undertaking ( Section 5-105) yet those undertakings are to be strictly construed ( Section 5-108), parties to a letter of credit transaction are especially dependent on the continued availability of the terms and conditions of the letter of credit or other undertaking. By declining to specify any particular medium in which the letter of credit must be established or communicated,  Section 5-104 leaves room for future developments.</text>
     <text type="Uniform Commercial Code Comment">3. Many banking transactions, including the issuance of many letters of credit, are now conducted mostly by electronic means. For example, S.W.I.F.T. is currently used to transmit letters of credit from issuing to advising banks. The letter of credit text so transmitted may be printed at the advising bank, stamped “original” and provided to the beneficiary in that form. The printed document may then be used as a way of controlling and recording payments and of recording and authorizing assignments of proceeds or transfers of rights under the letter of credit. Nothing in this section should be construed to conflict with that practice.</text>
@@ -14,5 +14,6 @@
     <annotation type="Prior Codifications">1973 Ed., § 28:5-104.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 28:5-104.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§28:5-102">§ 28:5-102</cite> and <cite path="§28:5-116">§ 28:5-116</cite>.</annotation>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(g)|(1)" type="History"/>
   </annotations>
 </section>
