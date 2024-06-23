@@ -2992,7 +2992,7 @@
             <text>Subsection (a) is amended to read as follows:</text>
             <include>
               <para>
-                <codify:replace codified:doc="D.C. Code" codified:path="§32-1009.01|(a)"/>
+                <codify:replace codified:doc="D.C. Code" codified:path="§32-1009.01"/>
                 <num>(a)</num>
                 <para>
                   <num>(1)</num>
@@ -3058,7 +3058,7 @@
             <text>Subsection (b)(2) is amended to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:replace codified:doc="D.C. Code" codified:path="§32-1009.01|(b)|(2)"/>
+                <codify:replace codified:doc="D.C. Code" codified:path="§32-1009.01"/>
                 <num>(2)</num>
                 <text>A person required to submit documents pursuant to subsection (a) of this section shall submit the documents online through the Internet-based portal, unless the Mayor exempts the person from online reporting because it creates a hardship for the person, in which case, the person shall submit the documents in hard-copy form.</text>
               </para>
@@ -3070,7 +3070,7 @@
             <text>A new subsection (d) is added to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:insert codified:doc="D.C. Code" codified:path="§32-1009.01|(d)"/>
+                <codify:insert codified:doc="D.C. Code" codified:path="§32-1009.01"/>
                 <num>(d)</num>
                 <text>For the purposes of this section the term "tipped worker" means an employee paid in accordance with <code-cite doc="D.C. Code" path="§32-1003|(f)">section 4(f)</code-cite>.</text>
               </para>

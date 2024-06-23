@@ -73,9 +73,9 @@
         <num>(B)</num>
         <text>Vouchers shall be contingent upon the availability of funds.</text>
       </para>
-      <para placeholder="Repealed">
+      <para>
         <num>(C)</num>
-        <text>Repealed.</text>
+        <text>No vouchers shall be issued until the Mayor promulgates rules pursuant to subsection (f) of this section.</text>
       </para>
     </para>
     <para>
@@ -96,15 +96,15 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>Identification of priority areas for Program eligibility; provided, that the priority areas include at least one area in each ward identified by crime levels and other public safety indicators in the corresponding police service area;</text>
+      <text>Identification of priority areas for Program eligibility; provided, that the priority areas include at least one area in each ward identified by crime levels and other public safety indicators in the corresponding police service area; and</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>Requirements and procedures for participating in the voucher option under subsection (d) of this section; and</text>
+      <text>Requirements and procedures for participating in the voucher option under subsection (d) of this section.</text>
     </para>
-    <para>
+    <para placeholder="Not Funded">
       <num>(5)</num>
-      <text>The maximum amount of rebate that will be available under this section after the applicability date of section 2(a)(1) of the Prioritizing Public Safety Temporary Amendment Act of 2023, passed on 2nd reading on September 19, 2023 (Enrolled version of Bill 25-396).</text>
+      <text>Not Funded.</text>
     </para>
   </para>
   <para>
@@ -151,6 +151,10 @@
     <num>(i)</num>
     <text>For the purposes of this section, the term "security camera system" or "system" means one or more outdoor surveillance cameras with functioning digital video recording capability.</text>
   </para>
+  <para placeholder="Not Funded">
+    <num>(j)</num>
+    <text>Not Funded.</text>
+  </para>
   <annotations>
     <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="II" type="History" display="false"/>
     <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="II|K" type="History" display="false"/>
@@ -179,13 +183,28 @@
     <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§2" type="History" display="false"/>
     <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§2|(a)|(1)" type="History"/>
     <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§2|(a)|(2)" type="History"/>
-    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§2|(b)" type="History"/>
-    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§2|(c)|(1)" type="History"/>
-    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§2|(c)|(2)" type="History"/>
-    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§2|(c)|(3)" type="History"/>
     <annotation doc="D.C. Law 25-101" path="§2" type="Applicability" history="false" app="2024-01-17" eff="2024-01-17">
           Section 13 of <cite doc="D.C. Act 25-339" path="§13">D.C. Act 25-339</cite> provided that the amendments to this section by § 2 of <cite doc="D.C. Act 25-339" path="§2">D.C. Act 25-339</cite> shall apply upon the effective date of the rules issued pursuant to § 7-2831(f)(5).
     </annotation>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-101" path="§2" codified:display="Note" app="2024-01-17" eff="2024-01-17">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-101" path="§2">§ 2 of Prioritizing Public Safety Temporary Amendment Act of 2023 (D.C. Law 25-101, Jan. 17, 2024, 70 DCR 13762)</cite>.</annotation>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§16|(a)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§16|(b)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§16|(b)|(2)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§16|(c)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§16|(c)|(2)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§16|(d)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§16|(e)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§16|(f)|(2)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§16|(f)|(3)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§16|(f)|(4)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§16|(f)|(5)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§16|(f)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§16|(g)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§16|(g)|(2)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§16|(h)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§16|(i)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 25-175" path="§16" codified:display="Note" app="2024-06-08" eff="2024-06-08">Applicability of <cite doc="D.C. Law 25-175" path="">D.C. Law 25-175</cite>: <cite doc="D.C. Law 25-175" path="§45">§ 45 of D.C. Law 25-175</cite> provided that the amendment of this section by <cite doc="D.C. Law 25-175" path="§16">§ 16 of D.C. Law 25-175</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§16" type="History"/>
   </annotations>
 </section>

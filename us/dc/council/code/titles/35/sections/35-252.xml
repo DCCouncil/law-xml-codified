@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>35-252</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§35-252(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Failure to pay fare or to present valid transfer; entry by rear door prohibited.</heading>
   <para>
     <num>(a)</num>
@@ -44,9 +41,9 @@
     <annotation type="Prior Codifications">2001 Ed., § 35-216.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§35-253">§ 35-253</cite> and <cite path="§35-254">§ 35-254</cite>.</annotation>
     <annotation app="2019-05-03" doc="D.C. Law 22-310" eff="2019-05-03" path="§4|(b)" type="History"/>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§28|(a)" type="History" display="false"/>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§28|(a)|(1)" type="History"/>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§28|(a)|(2)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§28|(a)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§28|(a)">§ 28(a) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§28|(a)" type="History" display="false"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§35|(a)|(1)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§35|(a)|(2)" type="History"/>
   </annotations>
 </section>

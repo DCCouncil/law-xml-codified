@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>23-1322</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on August 29, 2024. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§23-1322(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Detention prior to trial.</heading>
   <para>
     <num>(a)</num>
@@ -61,7 +58,7 @@
     <text>There shall be a rebuttable presumption that no condition or combination of conditions of release will reasonably assure the safety of any other person and the community if the judicial officer finds by probable cause that the person:</text>
     <para>
       <num>(1)</num>
-      <text>Committed a dangerous crime , as that crime is defined in <cite path="§23-1331">§ 23-1331</cite>, while armed with or having readily available a pistol, firearm, imitation firearm, or other deadly or dangerous weapon;</text>
+      <text>Committed a dangerous crime or a crime of violence, as these crimes are defined in <cite path="§23-1331">§ 23-1331</cite>, while armed with or having readily available a pistol, firearm, imitation firearm, or other deadly or dangerous weapon;</text>
     </para>
     <para>
       <num>(2)</num>
@@ -69,31 +66,31 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>Committed a dangerous crime , as that crime is defined in <cite path="§23-1331">§ 23-1331</cite>, and has previously been convicted of a dangerous crime or a crime of violence which was committed while on release pending trial for a local, state, or federal offense;</text>
+      <text>Committed a dangerous crime or a crime of violence, as these terms are defined in <cite path="§23-1331">§ 23-1331</cite>, and has previously been convicted of a dangerous crime or a crime of violence which was committed while on release pending trial for a local, state, or federal offense;</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>Committed a dangerous crime while on release pending trial for a local, state, or federal offense;</text>
+      <text>Committed a dangerous crime or a crime of violence while on release pending trial for a local, state, or federal offense;</text>
     </para>
     <para>
       <num>(5)</num>
-      <text>Committed 2 or more dangerous crimes in separate incidents that are joined in the case before the judicial officer;</text>
+      <text>Committed 2 or more dangerous crimes or crimes of violence in separate incidents that are joined in the case before the judicial officer;</text>
     </para>
-    <para placeholder="Repealed">
+    <para>
       <num>(6)</num>
-      <text>[Repealed].</text>
+      <text>Committed a robbery in which the victim sustained a physical injury;</text>
     </para>
     <para>
       <num>(7)</num>
-      <text>Violated <cite path="§22-4504|(a)">§ 22-4504(a)</cite> (carrying a pistol without a license), <cite path="§22-4504|(a-1)">§ 22-4504(a-1)</cite> (carrying a rifle or shotgun), <cite path="§22-4504|(b)">§ 22-4504(b)</cite> (possession of a firearm during the commission of a crime of violence or dangerous crime), or <cite path="§22-4503">§ 22-4503</cite> (unlawful possession of a firearm);</text>
+      <text>Violated <cite path="§22-4504|(a)">§ 22-4504(a)</cite> (carrying a pistol without a license), <cite path="§22-4504|(a-1)">§ 22-4504(a-1)</cite> (carrying a rifle or shotgun), <cite path="§22-4504|(b)">§ 22-4504(b)</cite> (possession of a firearm during the commission of a crime of violence or dangerous crime), or <cite path="§22-4503">§ 22-4503</cite> (unlawful possession of a firearm); or</text>
     </para>
     <para>
       <num>(8)</num>
-      <text>Violated [<cite path="7|25|VIII">subchapter VIII of Chapter 25 of Title 7</cite>, <cite path="§7-2508.01">§ 7-2508.01</cite> et seq.], while on probation, parole, or supervised release for committing a dangerous crime or a crime of violence, as these crimes are defined in <cite path="§23-1331">§ 23-1331</cite>, and while armed with or having readily available a firearm, imitation firearm, or other deadly or dangerous weapon as described in <cite path="§22-4502|(a)">§ 22-4502(a)</cite>; or</text>
+      <text>Violated [<cite path="7|25|VIII">subchapter VIII of Chapter 25 of Title 7</cite>, <cite path="§7-2508.01">§ 7-2508.01</cite> et seq.], while on probation, parole, or supervised release for committing a dangerous crime or a crime of violence, as these crimes are defined in <cite path="§23-1331">§ 23-1331</cite>, and while armed with or having readily available a firearm, imitation firearm, or other deadly or dangerous weapon as described in <cite path="§22-4502|(a)">§ 22-4502(a)</cite>.</text>
     </para>
-    <para>
+    <para placeholder="Not Funded">
       <num>(9)</num>
-      <text>Committed a crime of violence, as that term is defined in § 23-1331(4).</text>
+      <text>Not Funded.</text>
     </para>
   </para>
   <para>
@@ -177,6 +174,10 @@
         <num>(C)</num>
         <text>The provisions of <cite path="§22-722">§ 22-722</cite>, relating to threats, force, or intimidation of witnesses, jurors, and officers of the court, obstruction of criminal investigations and retaliating against a witness, victim, or an informant.</text>
       </para>
+    </para>
+    <para placeholder="Not Funded">
+      <num>(3)</num>
+      <text>Not Funded.</text>
     </para>
   </para>
   <para>
@@ -327,15 +328,25 @@
     <annotation app="2023-10-16" doc="D.C. Act 25-257" eff="2023-10-16" path="§6|(c)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-339" path="§7|(c)" codified:display="Note" app="2023-12-21" eff="2023-12-21">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-339" path="§7|(c)">§ 7(c) of Prioritizing Public Safety Second Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-339, Dec. 21, 2023, 70 DCR 16594)</cite>.</annotation>
     <annotation app="2023-12-21" doc="D.C. Act 25-339" eff="2023-12-21" path="§7|(c)" type="History" display="false"/>
-    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§7|(c)" type="History" display="false"/>
-    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§7|(c)|(1)|(A)" type="History"/>
-    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§7|(c)|(1)|(B)" type="History"/>
-    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§7|(c)|(1)|(C)" type="History"/>
-    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§7|(c)|(1)|(D)" type="History"/>
-    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§7|(c)|(1)|(E)" type="History"/>
-    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§7|(c)|(1)|(F)" type="History"/>
-    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§7|(c)|(1)|(G)" type="History"/>
-    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§7|(c)|(1)|(H)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-101" path="§7|(c)" codified:display="Note" app="2024-01-17" eff="2024-01-17">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-101" path="§7|(c)">§ 7(c) of Prioritizing Public Safety Temporary Amendment Act of 2023 (D.C. Law 25-101, Jan. 17, 2024, 70 DCR 13762)</cite>.</annotation>
+    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§7|(c)" type="History" display="false"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(B)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(C)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(D)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(E)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(F)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(G)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(H)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(A)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(2)|(A)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(2)|(B)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(2)|(C)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(3)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 25-175" path="§30|(f)" codified:display="Note" app="2024-06-08" eff="2024-06-08">Applicability of <cite doc="D.C. Law 25-175" path="">D.C. Law 25-175</cite>: <cite doc="D.C. Law 25-175" path="§45">§ 45 of D.C. Law 25-175</cite> provided that the amendment of this section by <cite doc="D.C. Law 25-175" path="§30|(f)">§ 30(f) of D.C. Law 25-175</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)" type="History"/>
+    <annotation doc="D.C. Law 25-175" path="§30|(k)" type="Expiration of Law" history="false" app="2024-06-08" eff="2024-06-08"><cite doc="D.C. Law 25-175" path="§30|(k)"> Section 30(k) of D.C. Law 25-175</cite> provided that the amendments made to this section by § 30(f) of D.C. Law 25-175 shall expire 225 days after [insert applicability date].
+      </annotation>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(k)" type="History" display="false"/>
   </annotations>
 </section>

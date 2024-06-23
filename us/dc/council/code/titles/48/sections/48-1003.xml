@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>48-1003</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§48-1003(Perm)">Permanent Version</cite>.*
-      </text>
   <heading proof="needed">Notice of a drug free zone.</heading>
   <para>
     <num undesignated="true">(a)</num>
@@ -25,22 +22,16 @@
       <text>Any other additional notice to inform the public of the drug free zone.</text>
     </para>
   </para>
-  <codify:emergency doc="D.C. Code" path="§48-1003" codified:doc="D.C. Code" codified:path="§48-1003" codified:display="Note"/>
-  <codify:insert doc="D.C. Code" path="§48-1003" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§48-1003">
-    <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§48-1003(Perm)">Permanent Version</cite>.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation doc="D.C. Law 11-270" type="History" path="§4" display="false">June 3, 1997, D.C. Law 11-270, § 4, 43 DCR 4493</annotation>
-    <annotation doc="D.C. Law 11-270" type="History" path="§6" display="false">June 3, 1997, D.C. Law 11-270, § 6, 43 DCR 4493</annotation>
     <annotation doc="D.C. Law 11-270" type="History" path="§4">June 3, 1997, D.C. Law 11-270, § 4, 43 DCR 4493</annotation>
     <annotation doc="D.C. Law 20-274" type="History">May 6, 2015, D.C. Law 20-274, § 3, 61 DCR 12117</annotation>
     <annotation type="Emergency Legislation">For temporary addition of subchapter, see note to <cite path="§48-1001">§ 48-1001</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 33-583.</annotation>
+    <annotation doc="D.C. Law 11-270" type="History" path="§4" display="false">June 3, 1997, D.C. Law 11-270, § 4, 43 DCR 4493</annotation>
+    <annotation doc="D.C. Law 11-270" type="History" path="§6" display="false">June 3, 1997, D.C. Law 11-270, § 6, 43 DCR 4493</annotation>
     <annotation doc="D.C. Law 11-270" type="History" path="§6">June 3, 1997, D.C. Law 11-270, § 6, 43 DCR 4493</annotation>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§30" type="History" display="false"/>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§30" prefix="revived" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§30" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§30|includes|4">§ 4 of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§30" type="History" display="false"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§37" prefix="revived" type="History"/>
   </annotations>
 </section>

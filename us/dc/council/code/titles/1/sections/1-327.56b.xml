@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-327.56b</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on June 6, 2024.*
-      </text>
   <heading proof="needed">Call data collection and posting.</heading>
   <para>
     <num>(a)</num>
@@ -89,24 +86,17 @@
     <num>(c)</num>
     <text>All data posted according to this section shall be archived and publicly posted for at least 5 years from the date of publication.</text>
   </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-327.56a" expire="2024-03-11" codified:display="Note">For temporary (90 days) creation of § 1-327.56b, see <cite doc="D.C. Act 25-410" path="§2|includes|3207b">§ 3207b of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-327.56b" applicability="2024-03-11" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-327.56b">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-410" path="§2|includes|3207b">§ 3207b of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§1-327.56b" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-327.56b">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on June 6, 2024.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation doc="D.C. Law 15-205" type="History" path="§3207b" display="false">Dec. 7, 2004, D.C. Law 15-205, § 3207b</annotation>
     <annotation doc="D.C. Law 15-205" type="History" path="§3207b">Dec. 7, 2004, D.C. Law 15-205, § 3207b</annotation>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-198" path="§2" codified:display="Note" app="2024-05-01" eff="2023-07-27">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-198" path="§2">§ 2 of Office of Unified Communications Transparency and Accuracy Emergency Amendment Act of 2023 (D.C. Act 25-198, July 27, 2023, 70 DCR 10746)</cite>.</annotation>
-    <annotation app="2024-05-01" doc="D.C. Act 25-198" eff="2023-07-27" path="§2" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-259" path="§2" codified:display="Note" app="2024-05-01" eff="2023-10-25">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-259" path="§2">§ 2 of Office of Unified Communications Transparency and Accuracy Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-259, Oct. 25, 2023, 0 DCR 0)</cite>.</annotation>
-    <annotation app="2024-05-01" doc="D.C. Act 25-259" eff="2023-10-25" path="§2" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-76" path="§2" codified:display="Note" app="2024-05-01" eff="2023-11-28">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 25-76" path="§2">§ 2 of Office of Unified Communications Transparency and Accuracy Temporary Amendment Act of 2023 (D.C. Law 25-76, Nov. 28, 2023, 70 DCR 13746)</cite>.</annotation>
-    <annotation app="2024-05-01" doc="D.C. Law 25-76" eff="2023-11-28" path="§2" type="History" display="false"/>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§2" type="History" display="false"/>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§2" prefix="as added" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§2" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-410" path="§2|includes|3207b">§ 3207b of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
+    <annotation doc="D.C. Law 15-205" type="History" path="§3207b" display="false">Dec. 7, 2004, D.C. Law 15-205, § 3207b</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-198" path="§2" codified:display="Note" app="2024-06-08" eff="2023-07-27">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-198" path="§2">§ 2 of Office of Unified Communications Transparency and Accuracy Emergency Amendment Act of 2023 (D.C. Act 25-198, July 27, 2023, 70 DCR 10746)</cite>.</annotation>
+    <annotation app="2024-06-08" doc="D.C. Act 25-198" eff="2023-07-27" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-259" path="§2" codified:display="Note" app="2024-06-08" eff="2023-10-25">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-259" path="§2">§ 2 of Office of Unified Communications Transparency and Accuracy Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-259, Oct. 25, 2023, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2024-06-08" doc="D.C. Act 25-259" eff="2023-10-25" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-76" path="§2" codified:display="Note" app="2024-06-08" eff="2023-11-28">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 25-76" path="§2">§ 2 of Office of Unified Communications Transparency and Accuracy Temporary Amendment Act of 2023 (D.C. Law 25-76, Nov. 28, 2023, 70 DCR 13746)</cite>.</annotation>
+    <annotation app="2024-06-08" doc="D.C. Law 25-76" eff="2023-11-28" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§2" codified:display="Note" app="2024-06-08" eff="2024-03-11">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-410" path="§2|includes|3207b">§ 3207b of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
+    <annotation app="2024-06-08" doc="D.C. Act 25-410" eff="2024-03-11" path="§2" type="History" display="false"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§3" prefix="as added" type="History"/>
   </annotations>
 </section>

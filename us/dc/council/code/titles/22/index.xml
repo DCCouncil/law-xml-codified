@@ -37,10 +37,9 @@
     <xi:include href="./sections/22-404.02.xml"/>
     <xi:include href="./sections/22-404.03.xml"/>
     <xi:include href="./sections/22-404.04.xml"/>
-    <xi:include href="./sections/22-404.05.xml"/>
     <xi:include href="./sections/22-405.xml"/>
-    <xi:include href="./sections/22-405.01.xml"/>
     <xi:include href="./sections/22-406.xml"/>
+    <xi:include href="./sections/22-406.01.xml"/>
     <xi:include href="./sections/22-407.xml"/>
     <xi:include href="./sections/22-408.xml"/>
   </container>
@@ -812,11 +811,12 @@
   <container>
     <prefix>Chapter</prefix>
     <num>36</num>
-    <heading>Crimes Committed Against Certain Persons.</heading>
+    <heading> Enhanced Crimes Committed Against Certain Persons.</heading>
     <xi:include href="./sections/22-3601.xml"/>
     <xi:include href="./sections/22-3602.xml"/>
     <xi:include href="./sections/22-3603.xml"/>
     <xi:include href="./sections/22-3604.xml"/>
+    <xi:include href="./sections/22-3605.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -951,6 +951,7 @@
       <xi:include href="./sections/22-4234.xml"/>
       <xi:include href="./sections/22-4235.xml"/>
       <xi:include href="./sections/22-4236.xml"/>
+      <xi:include href="./sections/22-4237.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -967,6 +968,13 @@
     <num>42B</num>
     <heading>Homicide Elimination.</heading>
     <xi:include href="./sections/22-4251.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>42C</num>
+    <heading>Comprehensive Public Safety Plan.</heading>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="" type="History" display="false"/>
+    <xi:include href="./sections/22-4271.xml"/>
   </container>
   <subheading>Subtitle V. Harbor, Game and Fish Laws.</subheading>
   <container>

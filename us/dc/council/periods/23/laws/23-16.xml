@@ -1652,7 +1652,7 @@
         <para>
           <num>(a)</num>
           <text>Subparagraph (A) is amended by striking the phrase "and to enable an employee to report a violation of this act".</text>
-          <codify:find-replace doc="D.C. Law 22-196" path="6|(d)|(2)|includes|(b)|(1)|(A)" count="1" codified:doc="D.C. Code" codified:path="§32-1009.01|(b)|(1)|(A)">
+          <codify:find-replace doc="D.C. Law 22-196" path="6|(d)|(2)|includes|(b)|(1)|(A)" count="1" codified:doc="D.C. Code" codified:path="§32-1009.01">
             <find> and to enable an employee to report a violation of <code-cite doc="D.C. Code" path="32|10|I">this act</code-cite></find>
             <replace/>
           </codify:find-replace>
@@ -1660,7 +1660,7 @@
         <para>
           <num>(b)</num>
           <text>Subparagraph (C) is repealed.</text>
-          <codify:repeal doc="D.C. Law 22-196" path="6|(d)|(2)|includes|(b)|(1)|(C)" codified:doc="D.C. Code" codified:path="§32-1009.01|(b)|(1)|(C)"/>
+          <codify:repeal doc="D.C. Law 22-196" path="6|(d)|(2)|includes|(b)|(1)|(C)" codified:doc="D.C. Code" codified:path="§32-1009.01"/>
         </para>
         <codify:marginalia display="Subject to appropriations"/>
         <codify:annotation doc="D.C. Code" path="§32-1009.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-1009.01"><cite doc="D.C. Law 23-16" path="§2103">D.C. Law 23-16, § 2103,</cite> amended this section which is subject to appropriations pursuant to <cite doc="D.C. Law 22-196" path="§8">§ 8 of D.C. Law 22-196</cite>. Therefore the amendment made by D.C. Law 23-16 has not been implemented.

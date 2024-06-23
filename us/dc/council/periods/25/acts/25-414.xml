@@ -25,25 +25,12 @@
     <para>
       <num>(a)</num>
       <text>Strike the phrase "2022 and 2023" wherever it appears and insert the phrase "2022, 2023, and 2024" in its place.</text>
-      <codify:find-replace count="4" codified:doc="D.C. Code" codified:path="§25-113|(a)|(6)">
-        <find>2022 and 2023</find>
-        <replace>2022, 2023, and 2024</replace>
-      </codify:find-replace>
     </para>
     <para>
       <num>(b)</num>
       <text>Subparagraph (A)(i)(II) is amended by striking the semicolon and inserting the phrase "annually with the fee for 2024 due by April 1, 2024; except, that an on-premises retailer licensee, class C/T, D/T, C/N, or D/N, or a manufacturer licensee class B, shall pay the fee for 2024 by September 30, 2024;" in its place.</text>
-      <codify:find-replace path="(A)|(i)|(II)" count="1" codified:doc="D.C. Code" codified:path="§25-113|(a)|(6)|(A)|(i)|(II)">
-        <find>;</find>
-        <replace> annually with the fee for 2024 due by April 1, 2024; except, that an on-premises retailer licensee, class C/T, D/T, C/N, or D/N, or a manufacturer licensee class B, shall pay the fee for 2024 by September 30, 2024;</replace>
-      </codify:find-replace>
     </para>
     <codify:emergency doc="D.C. Code" path="§25-113" codified:doc="D.C. Code" codified:path="§25-113" codified:display="Note"/>
-    <codify:insert doc="D.C. Code" path="§25-113" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§25-113">
-      <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 19, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§25-113(Perm)">Past Permanent Version</cite>.*
-      </text>
-    </codify:insert>
   </section>
   <section>
     <num>3</num>

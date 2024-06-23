@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <num>42-1625</num>
+  <text>
+      *NOTE: This section was created by emergency legislation that will expire on August 27, 2024.*
+      </text>
+  <heading proof="needed">Optional form for amendment by owner.</heading>
+  <text>The following form may be used by an owner to make an amendment under <cite path="§42-1622">§ 42-1622</cite>:</text>
+  <include>
+    <text>Amendment by Owner to Remove an Unlawful Restriction.</text>
+    <para>
+      <num undesignated="true">(a)</num>
+      <text>This amendment is recorded under the Uniform Unlawful Restrictions in Land Records Emergency Act of 2024 ("Act") by an owner of an interest in real property subject to an unlawful restriction as defined under the Act.</text>
+      <para>
+        <num>(1)</num>
+        <text>Name of owner:</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The owner's property that is subject to the unlawful restriction is described as follows:</text>
+        <text>Address:</text>
+        <text>Legal Description:</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>This amendment amends the following document:</text>
+        <text>Title of document being amended:</text>
+        <text>Recording date of document being amended:</text>
+        <text>Recording information (book/page or instrument number):</text>
+        <text>This amendment removes from the document described in paragraph (3) all unlawful restrictions as defined under the Act.  Removal of an unlawful restriction through this amendment does not affect the validity and enforceability of any other restriction that is not an unlawful restriction as defined under the Act, at the time of filing this amendment. This amendment is not effective if the property is subject to a governing instrument as defined under the Act.</text>
+        <text>Owner's signature</text>
+        <text>Date</text>
+        <text>Notary acknowledgment</text>
+        <text>Witnesses (if required)</text>
+      </para>
+    </para>
+  </include>
+  <aftertext>.</aftertext>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§42-1604" expire="2024-05-29" codified:display="Note">For temporary (90 days) creation of § 42-1625, see <cite doc="D.C. Act 25-476" path="§106">§ 106 of Unlawful Restrictions in Land Records Emergency Amendment Act of 2024 (D.C. Act 25-476, May 29, 2024, 71 DCR 6682)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§42-1625" applicability="2024-05-29" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-1625">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-476" path="§106">§ 106 of Unlawful Restrictions in Land Records Emergency Amendment Act of 2024 (D.C. Act 25-476, May 29, 2024, 71 DCR 6682)</cite>.</codify:annotation>
+  <codify:insert doc="D.C. Code" path="§42-1625" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-1625">
+    <text>
+      *NOTE: This section was created by emergency legislation that will expire on August 27, 2024.*
+      </text>
+  </codify:insert>
+  <annotations>
+    <annotation app="2024-05-29" doc="D.C. Act 25-476" eff="2024-05-29" path="I" type="History" display="false"/>
+    <annotation app="2024-05-29" doc="D.C. Act 25-476" eff="2024-05-29" path="§106" type="History" display="false"/>
+    <annotation app="2024-05-29" doc="D.C. Act 25-476" eff="2024-05-29" path="§106" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-476" path="§106" codified:display="Note" app="2024-05-29" eff="2024-05-29">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-476" path="§106">§ 106 of Unlawful Restrictions in Land Records Emergency Amendment Act of 2024 (D.C. Act 25-476, May 29, 2024, 71 DCR 6682)</cite>.</annotation>
+  </annotations>
+</section>
