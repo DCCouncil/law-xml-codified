@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>23-1325</num>
+  <text placeholder="Not Funded">
+      *NOTE: The amendments to this section by section 30(g) of D.C. Law 25-175 shall expire 225 days after June 8, 2024 [January 19, 2025].*
+      <text>Not Funded.</text></text>
   <heading>Release in first degree murder, second degree murder, and assault with intent to kill while armed cases or after conviction.</heading>
   <para>
     <num>(a)</num>
@@ -38,11 +41,12 @@
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-101" path="§7|(d)" codified:display="Note" app="2024-01-17" eff="2024-01-17">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-101" path="§7|(d)">§ 7(d) of Prioritizing Public Safety Temporary Amendment Act of 2023 (D.C. Law 25-101, Jan. 17, 2024, 70 DCR 13762)</cite>.</annotation>
     <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§7|(d)" type="History" display="false"/>
     <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(g)" type="History" display="false"/>
     <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(g)|(1)" type="History"/>
     <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(g)|(2)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 25-175" path="§30|(g)" codified:display="Note" app="2024-06-08" eff="2024-06-08">Applicability of <cite doc="D.C. Law 25-175" path="">D.C. Law 25-175</cite>: <cite doc="D.C. Law 25-175" path="§45">§ 45 of D.C. Law 25-175</cite> provided that the amendment of this section by <cite doc="D.C. Law 25-175" path="§30|(g)">§ 30(g) of D.C. Law 25-175</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(g)" type="History"/>
-    <annotation doc="D.C. Law 25-175" path="§30|(k)" type="Expiration of Law" history="false" app="2024-06-08" eff="2024-06-08"><cite doc="D.C. Law 25-175" path="§30|(k)"> Section 30(k) of D.C. Law 25-175</cite> provided that the amendments made to this section by § 30(g) of D.C. Law 25-175 shall expire 225 days after [insert applicability date].
+    <annotation doc="D.C. Law 25-175" path="§30|(k)" type="Expiration of Law" history="false" app="2024-06-08" eff="2024-06-08"><cite doc="D.C. Law 25-175" path="§30|(k)"> Section 30(k) of D.C. Law 25-175</cite> provided that the amendments made to this section by § 30(g) of D.C. Law 25-175 shall expire 225 days after June 8, 2024.
       </annotation>
     <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(k)" type="History" display="false"/>
   </annotations>
