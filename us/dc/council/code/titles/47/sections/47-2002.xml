@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-2002</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on July 7, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-2002(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Imposition of tax.</heading>
   <para>
     <num>(a)</num>
@@ -67,7 +64,7 @@
       <num>(7)</num>
       <para>
         <num>(A)</num>
-        <text>The rate of tax shall be 6% of the gross receipts from the sale of or charges for medical cannabis, as defined in <cite path="§7-1671.01|(12)">§ 7-1671.01(12)</cite>, except for sales or charges occurring during the period of April 15, 2024 through April 28, 2024, which is established as the 4/20 Medical Cannabis Sales Tax Holiday Week for year 2024.</text>
+        <text>The rate of tax shall be 6% of the gross receipts from the sale of or charges for medical marijuana, as defined in <cite path="7|16B">[Chapter 16B of Title 7]</cite>.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -243,8 +240,7 @@
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7024|(a)|(2)" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7024|(a)|(1)" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7024|(a)|(3)" type="History"/>
-    <annotation app="2024-04-08" doc="D.C. Act 25-437" eff="2024-04-08" path="§3" type="History" display="false"/>
-    <annotation app="2024-04-08" doc="D.C. Act 25-437" eff="2024-04-08" path="§3" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-437" path="§3" codified:display="Note" app="2024-04-08" eff="2024-04-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-437" path="§3">§ 3 of Medical Cannabis Patient Card Extension and 4/20 Medical Cannabis Sales Tax Holiday Week Emergency Amendment Act of 2024 (D.C. Act 25-437, Apr. 8, 2024, 71 DCR 4118)</cite>.</annotation>
+    <annotation app="2024-04-08" doc="D.C. Act 25-437" eff="2024-04-08" path="§3" type="History" display="false"/>
   </annotations>
 </section>
