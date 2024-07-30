@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <num>34-1432</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 6, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§34-1432(Perm)">Permanent Version</cite>.*
-      </text>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <num>34-1432(Perm)</num>
   <heading>Renewable energy portfolio standard.</heading>
+  <text>
+      *NOTE: This codification is <u><b>not</b></u> the most current. To see the current law, click this link <cite path="§34-1432">Current Version</cite>*
+      </text>
   <para>
     <num>(a)</num>
     <text>The Commission shall implement a renewable energy portfolio standard which applies to all District of Columbia retail electricity sales, except as provided under subsection (b) of this section.</text>
@@ -26,18 +26,7 @@
   </para>
   <para>
     <num>(b)</num>
-    <para>
-      <num>(1)</num>
-      <text>If the standard becomes applicable to electricity sold to a customer after the start of a calendar year, the standard shall not apply to electricity sold to the customer during that portion of the year before the standard became applicable.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The standard shall not apply to electricity sold to the District of Columbia government beginning January 1, 2024, and ending September 30, 2028.</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>The District of Columbia government shall not purchase renewable energy credits that do not meet the requirements of the standard until the electricity sold to the District of Columbia government is in compliance with the standard.</text>
-    </para>
+    <text>If the standard becomes applicable to electricity sold to a customer after the start of a calendar year, the standard shall not apply to electricity sold to the customer during that portion of the year before the standard became applicable.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -181,10 +170,6 @@
       <num>(2)</num>
       <text>As of January 1, 2015, notwithstanding paragraph (1) of this subsection, an electricity supplier may meet the remaining non-solar tier one renewable source requirement of the renewable energy portfolio standard by obtaining the equivalent amount of renewable energy credits from solar energy systems that do not satisfy the requirements under paragraph (1) of this subsection.</text>
     </para>
-    <para>
-      <num>(3)</num>
-      <text>Any solar energy system not located within the District or in a location served by a distribution feeder serving the District that was certified by the Commission prior to February 1, 2011, shall be decertified by the Commission no later than January 1, 2025.</text>
-    </para>
   </para>
   <para>
     <num>(f)</num>
@@ -204,6 +189,9 @@
     <annotation doc="D.C. Law 18-223" type="History">Sept. 24, 2010, D.C. Law 18-223, § 2223(b), 57 DCR 6242</annotation>
     <annotation doc="D.C. Law 19-36" type="History">Oct. 20, 2011, D.C. Law 19-36, § 2(a), 58 DCR 6837</annotation>
     <annotation doc="D.C. Law 20-155" type="History">Feb. 26, 2015, D.C. Law 20-155, § 6052, 61 DCR 9990</annotation>
+    <annotation doc="D.C. Law 21-154" path="§2|(b)" type="History">Oct. 8, 2016, D.C. Law 21-154, § 2(b), 63 DCR 10138</annotation>
+    <annotation doc="D.C. Law 22-257" path="§101|(b)|(1)" type="History">Mar. 22, 2019, D.C. Law 22-257, § 101(b)(1), 66 DCR 1344</annotation>
+    <annotation doc="D.C. Law 24-314" path="§2|(a)" type="History">Mar. 10, 2023, D.C. Law 24-314, § 2(a), 70 DCR 606</annotation>
     <annotation type="Editor's Notes">Applicability of <cite doc="D.C. Law 19-36">D.C. Law 19-36</cite>: Section 3 of <cite doc="D.C. Law 19-36">D.C. Law 19-36</cite>, as amended by <cite doc="D.C. Law 20-245">D.C. Law 20-245</cite>, § 3, provided that the act (a) shall apply as of July 12, 2011; and (b) shall not apply to contracts entered into before August 1, 2011, provided that, for a contract entered into before August 1, 2011, the act shall apply to an extension or renewal of that contract executed on or after August 1, 2011.</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 6052 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015,  62 DCR 884, 21 STAT 541).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 6052 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014,  61 DCR 10915, 20 STAT 4188).</annotation>
@@ -225,50 +213,5 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-36">D.C. Law 19-36</cite> rewrote subsecs. (a-1), (c), and (e).</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> rewrote subsec. (e), which had read as follows: “(e) Subject to subsections (a) and (c) of this section, an electricity supplier shall meet the solar requirement by obtaining the equivalent amount of renewable energy credits from solar energy systems interconnected to the distribution grid serving the District of Columbia. Only after an electricity supplier exhausts all opportunity to meet this requirement that the solar energy systems be connected to the grid within the District of Columbia, can that supplier obtain renewable energy credits from jurisdictions outside the District of Columbia.”</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-250">D.C. Law 17-250</cite> added subsecs. (a-1) and (e); and rewrote subsec. (c).</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(A)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(B)|(i)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(B)|(ii)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(2)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(3)" type="History"/>
-    <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="§101|(b)|(1)|(A)" type="History"/>
-    <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="§101|(b)|(1)|(B)" type="History"/>
-    <annotation doc="D.C. Law 22-257" path="§101|(b)|(2)" type="Applicability" history="false" display-template="" app="2019-03-22" eff="2019-03-22"><cite doc="D.C. Law 22-257" path="§101|(b)|(2)">Section 101(b)(2) of D.C. Law 22-257</cite> provided that changes made to subsection (c) of this section by D.C. Law 22-257 shall not apply to any contract entered into before March 22, 2019; provided, that this subsection shall apply to an extension or renewal of such a contract.
-          </annotation>
-    <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="§101|(b)|(2)" type="History" display="false"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(1)" type="History"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(2)" type="History"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(3)" type="History"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(4)" type="History"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(5)" type="History"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(6)" type="History"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(7)" type="History"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(8)" type="History"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(9)" type="History"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(10)" type="History"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(11)" type="History"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(12)" type="History"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(13)" type="History"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(14)" type="History"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(15)" type="History"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(16)" type="History"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(17)" type="History"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(18)" type="History"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(19)" type="History"/>
-    <annotation doc="D.C. Law 24-314" path="§3" type="Applicability" history="false" app="2023-03-10" eff="2023-03-10"><cite doc="D.C. Law 24-314" path="§3">Section 3 of D.C. Law 24-314</cite> provided that for 3 years after the date described in section 4, section 2(a) shall not apply to any contract entered into before the date described in subsection (a) of this section; except, that section 2(a) shall apply to an extension or renewal of such a contract.
-    </annotation>
-    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§3" type="History" display="false"/>
-    <annotation doc="D.C. Law 24-314" path="§4" type="Applicability" history="false" app="2023-03-10" eff="2023-03-10"><cite doc="D.C. Law 24-314" path="§4">Section 4 of D.C. Law 24-314</cite> provided that this act shall apply as of March 1, 2023, or as of the effective date of this act, whichever occurs later.
-    </annotation>
-    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§4" type="History" display="false"/>
-    <annotation path="§8002|(f)" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06" doc="D.C. Law 25-50">
-          For a technical correction to section 3 of D.C. Law 24-314, see <cite doc="D.C. Law 25-50" path="§8002|(f)">section 8002(f) of D.C. Law 25-50</cite>.
-        </annotation>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§8002|(f)" type="History" display="false"/>
-    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§8|(a)" type="History" display="false"/>
-    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§8|(a)|(1)|(B)" type="History"/>
-    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§8|(a)|(1)|(A)" type="History"/>
-    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§8|(a)|(2)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-499" path="§8|(a)" codified:display="Note" app="2024-07-08" eff="2024-07-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-499" path="§8|(a)">§ 8(a) of Fiscal Year 2024 Revised Local Budget Adjustment Emergency Act of 2024 (D.C. Act 25-499, July 8, 2024, 71 DCR 7957)</cite>.</annotation>
   </annotations>
 </section>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-2209.05</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 6, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-2209.05(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>ATE Reporting to Council.</heading>
   <para>
     <num>(a)</num>
@@ -25,21 +28,9 @@
       </para>
     </para>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(b)</num>
-    <text>The Chief Financial Officer ("CFO") shall submit to the Mayor and Council monthly reports that:</text>
-    <para>
-      <num>(1)</num>
-      <text>State the amount of actual revenue deposited in the Fund established by <cite path="§50-921.25">§ 50-921.25</cite> for the fiscal year to-date;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>State the CFO's current projections regarding revenue from fines generated from the automated traffic enforcement system, including whether revenue is projected to exceed the certified revenue included in the Fiscal Year 2024 budget and financial plan; and</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Describe the methodology employed by the CFO to project revenue from fines generated from the automated traffic enforcement system.</text>
-    </para>
+    <text>Repealed.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 11-198" type="History" path="§905">Apr. 9, 1997, D.C. Law 11-198, § 905</annotation>
@@ -48,5 +39,8 @@
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§6092" prefix="as added" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7023|(b)|(1)" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7023|(b)|(2)" type="History"/>
+    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§14|(b)" type="History" display="false"/>
+    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§14|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-499" path="§14|(b)" codified:display="Note" app="2024-07-08" eff="2024-07-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-499" path="§14|(b)">§ 14(b) of Fiscal Year 2024 Revised Local Budget Adjustment Emergency Act of 2024 (D.C. Act 25-499, July 8, 2024, 71 DCR 7957)</cite>.</annotation>
   </annotations>
 </section>

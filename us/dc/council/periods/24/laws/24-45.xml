@@ -12384,7 +12384,7 @@
         <text>Section 210(c)(16) of the Clean and Affordable Energy Act of 2008, effective October 22, 2008 (D.C. Law 17-250; D.C. Official Code § 8-1774.10(c)(16)), is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace path="§8-1774.10|(c)|(16)" codified:doc="D.C. Code" codified:path="§8-1774.10|(c)|(16)"/>
+            <codify:replace path="§8-1774.10|(c)|(16)" codified:doc="D.C. Code" codified:path="§8-1774.10|(c)|(16)|(A)"/>
             <num>(16)</num>
             <text>In Fiscal Years 2022, 2023, 2024, and 2025, transferring at least $10 million, but no more than $15 million, to the Green Finance Authority to support sustainable projects and programs; provided, that funding for such transfers is included in an approved budget and financial plan; provided further, that the total amount of money transferred to the Green Finance Authority from the Sustainable Energy Trust Fund in Fiscal Years 2020 through 2025 shall not exceed $70 million; and</text>
           </para>
@@ -13071,7 +13071,7 @@
           <para codify:path="(16)">
             <num>(1)</num>
             <text>Paragraph (16) is amended by striking the phrase "; and" and inserting a semi-colon in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1774.10|(c)|(16)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1774.10|(c)|(16)|(A)">
               <find>; and</find>
               <replace>;</replace>
             </codify:find-replace>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-754.11</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 6, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-754.11(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Client rights.</heading>
   <para>
     <num>(a)</num>
@@ -83,7 +86,19 @@
     </para>
     <para>
       <num>(18)</num>
-      <text>Continuation of shelter or housing services provided within the Continuum of Care without change, other than transfer pursuant to <cite path="§4-754.34">§ 4-754.34</cite> or emergency transfer, suspension, or termination pursuant to <cite path="§4-754.38">§ 4-754.38</cite>, pending the outcome of any fair hearing requested within 15 calendar days of receipt of written notice of a suspension or termination;</text>
+      <text>Continuation of shelter or housing services provided within the Continuum of Care without change, pending the outcome of any fair hearing requested within 15 calendar days of receipt of written notice of a suspension, termination, or program exit, other than:</text>
+      <para>
+        <num>(A)</num>
+        <text>A transfer pursuant to <cite path="§4-754.34">§ 4-754.34</cite>;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>An emergency transfer, suspension, or termination pursuant to <cite path="§4-754.38">§ 4-754.38</cite>;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A program exit from a Rapid Re-Housing due to a statutory or regulatory time limit on the duration of services provided by the Rapid Re-Housing program;</text>
+      </para>
     </para>
     <para>
       <num>(19)</num>
@@ -170,5 +185,8 @@
     <annotation app="2022-04-25" doc="D.C. Act 24-377" eff="2022-04-25" path="§2|(b)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-120" path="§2|(b)" codified:display="Note" app="2022-05-18" eff="2022-05-18">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-120" path="§2|(b)">§ 2(b) of Department of Human Services Emergency Powers Temporary Amendment Act of 2022 (D.C. Law 24-120, May 18, 2022, 69 DCR 002665)</cite>.</annotation>
     <annotation app="2022-05-18" doc="D.C. Law 24-120" eff="2022-05-18" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§11|(b)" type="History" display="false"/>
+    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§11|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-499" path="§11|(b)" codified:display="Note" app="2024-07-08" eff="2024-07-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-499" path="§11|(b)">§ 11(b) of Fiscal Year 2024 Revised Local Budget Adjustment Emergency Act of 2024 (D.C. Act 25-499, July 8, 2024, 71 DCR 7957)</cite>.</annotation>
   </annotations>
 </section>
