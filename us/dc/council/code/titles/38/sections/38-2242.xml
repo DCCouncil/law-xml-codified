@@ -1,10 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-2242</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 13, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§38-2242(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Early Childhood Educator Equitable Compensation Task Force establishment.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established by the Council an Early Childhood Educator Equitable Compensation Task Force ("Task Force") to provide recommendations on how to implement an employee compensation scale for early childhood development providers.</text>
+    <para>
+      <num>(1)</num>
+      <text>There is established by the Council an Early Childhood Educator Equitable Compensation Task Force ("Task Force") to provide recommendations on how to implement an employee compensation scale for early childhood development providers.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Following the submission of the report required pursuant to subsection (c)(3) of this section, the Task Force shall reconvene every 4th calendar year, or as deemed necessary by the Chairman.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
@@ -58,7 +68,7 @@
     <text>The Task Force shall:</text>
     <para>
       <num>(1)</num>
-      <text>Review the findings and recommendations of the Early Childhood Educator Compensation in the Washington Region study completed by the Urban Institute and any completed employee compensation scale and other relevant materials provided by the Office of the State Superintendent of Education; and</text>
+      <text>Review the findings and recommendations of the Early Childhood Educator Compensation in the Washington Region study completed by the Urban Institute and any completed employee compensation scale and other relevant materials provided by the Office of the State Superintendent of Education;</text>
     </para>
     <para>
       <num>(2)</num>
@@ -92,8 +102,24 @@
         </para>
         <para>
           <num>(iii)</num>
-          <text>Oversight, reporting, and accountability mechanisms for the use of funds allocated to early childhood development providers from the Early Childhood Educator Pay Equity Fund.</text>
+          <text>Oversight, reporting, and accountability mechanisms for the use of funds allocated to early childhood development providers from the Early Childhood Educator Pay Equity Fund; and</text>
         </para>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Following the adoption of the Fiscal Year 2025 budget and financial plan, submit a report to the Mayor and Council by September 30, 2024, that:</text>
+      <para>
+        <num>(A)</num>
+        <text>Recommends changes to the Early Childhood Educator Pay Equity Program established pursuant to <cite path="§4-402|(b)">§ 4-402(b)</cite>, including recommendations for limiting fiscal pressures on the Early Childhood Educator Pay Equity Program through Fiscal Year 2028;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Proposes a new compensation scale for employees of early childhood development providers that takes into account the compensation and benefits of individuals employed by the District of Columbia Public Schools and District public charter schools who teach pre-kindergarten and kindergarten; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Provides additional recommendations for the allocation of monies available in the Early Childhood Educator Pay Equity Fund.</text>
       </para>
     </para>
   </para>
@@ -106,5 +132,12 @@
     <annotation app="2022-01-24" doc="D.C. Act 24-311" eff="2022-01-24" path="§2" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-106" path="§2" codified:display="Note" app="2022-04-08" eff="2022-04-08">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-106" path="§2">§ 2 of Early Childhood Educator Equitable Compensation Task Force Temporary Amendment Act of 2022 (D.C. Law 24-106, Apr. 8, 2022, 69 DCR 001476)</cite>.</annotation>
     <annotation app="2022-04-08" doc="D.C. Law 24-106" eff="2022-04-08" path="§2" type="History" display="false"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4084" type="History" display="false"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4084|(a)|(1)" type="History"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4084|(a)|(2)" type="History"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4084|(b)|(1)" type="History"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4084|(b)|(2)" type="History"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4084|(b)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§4084" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§4084">§ 4084 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
   </annotations>
 </section>
