@@ -5447,7 +5447,7 @@
           <para codify:path="(A)">
             <num>(1)</num>
             <text>Subparagraph (A) is amended by striking the phrase "his or her designee" and inserting the phrase "the USAO's designee" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2509.08|(b)|(1)|(A)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2509.08|(b)">
               <find>his or her designee</find>
               <replace>the USAO's designee</replace>
             </codify:find-replace>
@@ -5455,7 +5455,7 @@
           <para codify:path="(B)">
             <num>(2)</num>
             <text>Subparagraph (B) is amended by striking the phrase "his or her designee" and inserting the phrase "the Attorney General's designee" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2509.08|(b)|(1)|(B)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2509.08|(b)">
               <find>his or her designee</find>
               <replace>the Attorney General's designee</replace>
             </codify:find-replace>
@@ -5466,7 +5466,7 @@
           <text>Paragraph (4) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§7-2509.08|(b)|(4)"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§7-2509.08|(b)"/>
               <num>(4)</num>
               <text>Members of the Board, except members who are District or federal government employees, shall be entitled to compensation as provided in <code-cite doc="D.C. Code" path="§1-611.08">section 1108 of the District of Columbia Government Comprehensive Merit Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-611.08),</code-cite> for their service on the Board.</text>
             </para>

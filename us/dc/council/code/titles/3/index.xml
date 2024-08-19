@@ -298,6 +298,7 @@
       <xi:include href="./sections/3-1201.02.xml"/>
       <xi:include href="./sections/3-1201.03.xml"/>
       <xi:include href="./sections/3-1201.04.xml"/>
+      <xi:include href="./sections/3-1201.05.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -325,6 +326,8 @@
       <xi:include href="./sections/3-1202.20.xml"/>
       <xi:include href="./sections/3-1202.21.xml"/>
       <xi:include href="./sections/3-1202.22.xml"/>
+      <xi:include href="./sections/3-1202.23.xml"/>
+      <xi:include href="./sections/3-1202.24.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -349,11 +352,12 @@
       <xi:include href="./sections/3-1204.10.xml"/>
       <xi:include href="./sections/3-1204.11.xml"/>
       <xi:include href="./sections/3-1204.12.xml"/>
+      <xi:include href="./sections/3-1204.13.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>V</num>
-      <heading>Licensing, Registration, or Certification of Health Professionals.</heading>
+      <heading>Licensing, Registration, Certification or Approval Required.</heading>
       <xi:include href="./sections/3-1205.01.xml"/>
       <xi:include href="./sections/3-1205.01a.xml"/>
       <xi:include href="./sections/3-1205.02.xml"/>
@@ -369,10 +373,13 @@
       <xi:include href="./sections/3-1205.09a.xml"/>
       <xi:include href="./sections/3-1205.10.xml"/>
       <xi:include href="./sections/3-1205.11.xml"/>
+      <xi:include href="./sections/3-1205.11a.xml"/>
       <xi:include href="./sections/3-1205.12.xml"/>
       <xi:include href="./sections/3-1205.13.xml"/>
       <xi:include href="./sections/3-1205.13a.xml"/>
       <xi:include href="./sections/3-1205.14.xml"/>
+      <xi:include href="./sections/3-1205.14a.xml"/>
+      <xi:include href="./sections/3-1205.14b.xml"/>
       <xi:include href="./sections/3-1205.15.xml"/>
       <xi:include href="./sections/3-1205.16.xml"/>
       <xi:include href="./sections/3-1205.17.xml"/>
@@ -383,6 +390,8 @@
       <xi:include href="./sections/3-1205.22.xml"/>
       <xi:include href="./sections/3-1205.23.xml"/>
       <xi:include href="./sections/3-1205.24.xml"/>
+      <xi:include href="./sections/3-1205.25.xml"/>
+      <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(aa)" type="History"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -393,9 +402,14 @@
       <xi:include href="./sections/3-1206.03.xml"/>
       <xi:include href="./sections/3-1206.04.xml"/>
       <xi:include href="./sections/3-1206.05.xml"/>
+      <xi:include href="./sections/3-1206.05a.xml"/>
       <xi:include href="./sections/3-1206.06.xml"/>
+      <xi:include href="./sections/3-1206.06a.xml"/>
       <xi:include href="./sections/3-1206.07.xml"/>
+      <xi:include href="./sections/3-1206.07a.xml"/>
+      <xi:include href="./sections/3-1206.07b.xml"/>
       <xi:include href="./sections/3-1206.08.xml"/>
+      <xi:include href="./sections/3-1206.09.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -510,11 +524,19 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>VII-F</num>
-      <heading>Qualifications for Licensure to Practice as a Clinical Laboratory Practitioner.</heading>
+      <heading>Qualifications for Licensure to Practice as a Clinical Laboratory Practitioner [Repealed].</heading>
       <xi:include href="./sections/3-1207.61.xml"/>
       <xi:include href="./sections/3-1207.62.xml"/>
       <xi:include href="./sections/3-1207.63.xml"/>
       <xi:include href="./sections/3-1207.64.xml"/>
+      <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ggg)" type="History"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>VII-G</num>
+      <heading>Qualifications for Licensure to Practice as a Behavior Analyst.</heading>
+      <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(hhh)" type="History" display="false"/>
+      <xi:include href="./sections/3-1207.71.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -524,6 +546,7 @@
       <xi:include href="./sections/3-1208.02.xml"/>
       <xi:include href="./sections/3-1208.03.xml"/>
       <xi:include href="./sections/3-1208.04.xml"/>
+      <xi:include href="./sections/3-1208.04a.xml"/>
       <xi:include href="./sections/3-1208.05.xml"/>
       <xi:include href="./sections/3-1208.06.xml"/>
     </container>
@@ -572,6 +595,24 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>VIII-F</num>
+      <heading>Categories and Qualifications Required for the Practice of Psychology.</heading>
+      <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ppp)" type="History" display="false"/>
+      <xi:include href="./sections/3-1208.75.xml"/>
+      <xi:include href="./sections/3-1208.76.xml"/>
+      <xi:include href="./sections/3-1208.77.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>VIII-G</num>
+      <heading>Categories and Qualifications Required for the Practice of Medical Radiation Technology.</heading>
+      <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ppp)" type="History" display="false"/>
+      <xi:include href="./sections/3-1208.81.xml"/>
+      <xi:include href="./sections/3-1208.82.xml"/>
+      <xi:include href="./sections/3-1208.83.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>IX</num>
       <heading>Related Occupations; Registration Requirements; Prohibited Actions.</heading>
       <xi:include href="./sections/3-1209.01.xml"/>
@@ -586,6 +627,7 @@
       <xi:include href="./sections/3-1209.10.xml"/>
       <xi:include href="./sections/3-1209.11.xml"/>
       <xi:include href="./sections/3-1209.12.xml"/>
+      <xi:include href="./sections/3-1209.13.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>

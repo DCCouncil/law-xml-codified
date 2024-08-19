@@ -4,7 +4,7 @@
   <heading>Revocation, suspension, or denial of license or privilege; civil penalty; reprimand.</heading>
   <para>
     <num>(a)</num>
-    <text>Each board, subject to the right of a hearing as provided by this subchapter, on an affirmative vote of a majority of a quorum of its appointed members may take one or more of the disciplinary actions provided in subsection (c) of this section against any applicant for a license, registration, or certification, an applicant to establish or operate a school of nursing or nursing program, or a person permitted by this subchapter to practice a health occupation regulated by the board in the District who:</text>
+    <text>Each board, subject to the right of a hearing as provided by this subchapter, on an affirmative vote of a majority of a quorum of its appointed members may take one or more of the disciplinary actions provided in subsection (c) of this section against any applicant for a license, registration, or certification, or a person permitted by this subchapter to practice a health occupation regulated by the board in the District who:</text>
     <para>
       <num>(1)</num>
       <text>Fraudulently or deceptively obtains or attempts to obtain a license, registration, or certification for himself, herself, or another person;</text>
@@ -15,7 +15,7 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>Is disciplined by a licensing or disciplinary authority or peer review body or convicted or disciplined by a court of any jurisdiction for conduct that would be grounds for disciplinary action under this section; for the purposes of this paragraph, the term “convicted” means a judgment or other admission of guilt, including a plea of nolo contendere or an Alford plea;</text>
+      <text>Is disciplined by a licensing, disciplinary, or regulatory authority, professional interstate compact, or peer review body, has entered into a Corporate Integrity Agreement or other agreement with the federal government in lieu of legal sanction, or is convicted or disciplined by a court of any jurisdiction for conduct that would be grounds for disciplinary action under this section; for the purposes of this paragraph, the term "convicted" means the entry of a finding of guilt by a judge or jury, or the acceptance or entry of a guilty plea, a judgment, or any admission of guilt, including a plea of nolo contendere, an Alford plea, deferred sentence, or deferred judgment;</text>
     </para>
     <para>
       <num>(4)</num>
@@ -77,13 +77,13 @@
       <num>(18)</num>
       <text>Violates any of the conditions of an agreement between the licensee and the board to voluntarily limit the practice of the licensee made pursuant to <cite path="§3-1205.18">§ 3-1205.18</cite>;</text>
     </para>
-    <para>
+    <para codify:path="(19)">
       <num>(19)</num>
-      <text>Prescribes, dispenses, recommends, or administers drugs when not authorized to do so;</text>
+      <text>Prescribes, dispenses, takes, acquires, appropriates for one's own or another's use, or administers drugs when not authorized to do so;</text>
     </para>
-    <para>
+    <para codify:path="(20)">
       <num>(20)</num>
-      <text>Practices without a protocol when required by <cite path="3|12|VI">subchapter VI of this chapter</cite>;</text>
+      <text>Fails to exercise appropriate supervision over persons who are authorized to practice only under the supervision of the licensee, registrant, or certificate holder;</text>
     </para>
     <para>
       <num>(21)</num>
@@ -119,15 +119,19 @@
     </para>
     <para>
       <num>(25)</num>
-      <text>Violates any District of Columbia or federal law, regulation, or rule related to the practice of a health profession or drugs, or fails to conduct business with honesty and fair dealing with employees or students in his or her school of nursing or nursing program, the District of Columbia, a state, the federal government, or the public;</text>
+      <text>Violates any District of Columbia or federal law, regulation, or rule related to the practice of a health profession or drugs;</text>
     </para>
     <para>
       <num>(26)</num>
       <text>Fails to conform to standards of acceptable conduct and prevailing practice within a health profession;</text>
     </para>
     <para>
+      <num>(26A)</num>
+      <text>Performs treatments or services without informed consent by the patient, client, or their legal representative, except as provided under <cite path="§7-401">§ 7-401</cite>;</text>
+    </para>
+    <para>
       <num>(27)</num>
-      <text>Violates an order of the board or the Mayor, or violates a consent decree or negotiated settlement entered into with a board or the Mayor;</text>
+      <text>Violates an order of the board or the Mayor, or violates a consent decree or negotiated settlement agreement entered into with a board or the Mayor;</text>
     </para>
     <para>
       <num>(28)</num>
@@ -139,7 +143,11 @@
     </para>
     <para>
       <num>(30)</num>
-      <text>Abandons a patient; for the purposes of this paragraph, the term “abandons” means termination, without adequate notice, of the professional relationship between a health care provider and a patient or client at a time when the patient or client is in need of further emergency care;</text>
+      <text>Abandons a patient; for the purposes of this paragraph, the term “abandons” means termination, without adequate notice, of the professional relationship between a health care provider and a patient or client at a time when the patient or client is in need of further emergency care, or without the withdrawing health professional providing a referral or list of alternative providers;</text>
+    </para>
+    <para>
+      <num>(30A)</num>
+      <text>Neglects or verbally or physically abuses a patient or client; for the purposes of this paragraph, the term "verbal abuse" includes yelling, screaming, shouting, threats, intimidation, insults, or name calling by the health professional or by their staff;</text>
     </para>
     <para>
       <num>(31)</num>
@@ -147,7 +155,7 @@
     </para>
     <para>
       <num>(32)</num>
-      <text>Refuses, withholds from, denies, or discriminates against an individual with regard to the provision of professional services that the licensee, registrant, or person certified is licensed and qualified to render because the individual is HIV positive;</text>
+      <text>Refuses, withholds from, denies, or discriminates against an individual with regard to the provision of professional services that the licensee, registrant, or person certified is licensed and qualified to render because the individual is HIV positive or is regarded as HIV positive;</text>
     </para>
     <para>
       <num>(33)</num>
@@ -223,11 +231,23 @@
     </para>
     <para>
       <num>(51)</num>
-      <text>Engages in the financial exploitation of a patient, client, or employer; or</text>
+      <text>Engages in the financial exploitation of a patient, client, or employer;</text>
     </para>
     <para>
       <num>(52)</num>
-      <text>Fails to timely register with the Prescription Drug Monitoring Program pursuant to <cite path="§48-853.03b|(d)">§ 48-853.03b(d)</cite>.</text>
+      <text>Fails to timely register with the Prescription Drug Monitoring Program pursuant to <cite path="§48-853.03b|(d)">§ 48-853.03b(d)</cite>;</text>
+    </para>
+    <para>
+      <num>(53)</num>
+      <text>Engages in conduct in their practice that is unprofessional or creates a deleterious impact on the public's impression of the profession, or that denies a patient or client an atmosphere of safety and health while undergoing treatment;</text>
+    </para>
+    <para>
+      <num>(54)</num>
+      <text>Allows staff or persons under their supervision or employment to engage in conduct that is unprofessional in their interaction with patients or clients; or</text>
+    </para>
+    <para>
+      <num>(55)</num>
+      <text>Fails to maintain the minimum requirements for licensure, registration, or certification during the period of licensure, registration or certification.</text>
     </para>
   </para>
   <para>
@@ -250,7 +270,7 @@
     <text>Except as otherwise provided in subsection (e-1) of this section, upon determination by the board that an applicant, licensee, registrant, person certified, or person permitted by this subchapter to practice in the District has committed any of the acts described in subsection (a) of this section, the board may:</text>
     <para>
       <num>(1)</num>
-      <text>Deny a license, registration, or certification to any applicant or an application to establish a school of nursing or nursing program;</text>
+      <text>Deny a license, registration, or certification to any applicant ;</text>
     </para>
     <para>
       <num>(2)</num>
@@ -262,7 +282,7 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>Reprimand any licensee, registrant, person certified, or person permitted by this subchapter to practice in the District;</text>
+      <text>Reprimand any licensee, registrant, person certified, or person permitted by this subchapter to practice in the District; provided, that the reprimand may subsequently be removed from the individual's record upon approval by the board as authorized by rule;</text>
     </para>
     <para>
       <num>(5)</num>
@@ -290,11 +310,15 @@
     </para>
     <para>
       <num>(7)</num>
-      <text>Require a period of probation; or</text>
+      <text>Require a period of probation;</text>
     </para>
     <para>
       <num>(8)</num>
-      <text>Issue a cease and desist order pursuant to <cite path="§3-1205.16">§ 3-1205.16</cite>.</text>
+      <text>Issue a cease and desist order pursuant to <cite path="§3-1205.16">§ 3-1205.16</cite>; or</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>Limit or restrict the practice of the person.</text>
     </para>
   </para>
   <para>
@@ -410,5 +434,23 @@
     <annotation app="2022-09-21" doc="D.C. Law 24-170" eff="2022-09-21" path="§3|(f)|(3)" type="History"/>
     <annotation app="2023-03-10" doc="D.C. Law 24-307" eff="2023-03-10" path="§2|(c)|(1)" type="History"/>
     <annotation app="2023-03-10" doc="D.C. Law 24-307" eff="2023-03-10" path="§2|(c)|(2)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(aa)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(pp)|(1)|(B)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(pp)|(1)|(C)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(pp)|(1)|(D)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(pp)|(1)|(E)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(pp)|(1)|(F)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(pp)|(1)|(G)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(pp)|(1)|(H)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(pp)|(1)|(I)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(pp)|(1)|(J)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(pp)|(1)|(K)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(pp)|(1)|(A)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(pp)|(1)|(L)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(pp)|(2)|(A)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(pp)|(2)|(B)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(pp)|(2)|(C)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(pp)|(2)|(D)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(pp)|(2)|(E)" type="History"/>
   </annotations>
 </section>

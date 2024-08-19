@@ -28,7 +28,7 @@
     <para codify:path="(i)">
       <num>(a)</num>
       <text>Sub-subparagraph (i) is amended by striking the period and inserting the phrase "; or" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1201.02|(16)|(B)|(i)">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1201.02|(16)">
         <find>[or]</find>
         <replace>or</replace>
       </codify:find-replace>
@@ -38,7 +38,7 @@
       <text>Sub-subparagraph (ii) is amended to read as follows:</text>
       <include lvl="3">
         <para>
-          <codify:replace codified:doc="D.C. Code" codified:path="§3-1201.02|(16)|(B)|(ii)"/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§3-1201.02|(16)"/>
           <num>(ii)</num>
           <text>A school psychologist employed by District of Columbia Public Schools or a public charter school and working in accordance with regulations issued by the Office of the State Superintendent of Education.</text>
         </para>

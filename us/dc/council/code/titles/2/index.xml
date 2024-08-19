@@ -1224,9 +1224,10 @@
       <container>
         <prefix>Part</prefix>
         <num>A</num>
-        <heading>Office of Motion Picture and Television Development.</heading>
+        <heading>Office of Motion Picture and Television Development. [Repealed]</heading>
         <xi:include href="./sections/2-1204.01.xml"/>
         <xi:include href="./sections/2-1204.02.xml"/>
+        <annotation app="2024-07-19" doc="D.C. Law 25-190" eff="2024-07-19" path="§10|(a)" type="History" display="false"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -1240,6 +1241,18 @@
         <xi:include href="./sections/2-1204.11e.xml"/>
         <xi:include href="./sections/2-1204.12.xml"/>
         <xi:include href="./sections/2-1204.13.xml"/>
+      </container>
+      <container>
+        <prefix>Part</prefix>
+        <num>C</num>
+        <heading>Open Movie Captioning Requirement.</heading>
+        <annotation app="2024-07-19" doc="D.C. Law 25-190" eff="2024-07-19" path="" type="History" display="false"/>
+        <xi:include href="./sections/2-1204.21.xml"/>
+        <xi:include href="./sections/2-1204.22.xml"/>
+        <xi:include href="./sections/2-1204.23.xml"/>
+        <xi:include href="./sections/2-1204.24.xml"/>
+        <xi:include href="./sections/2-1204.25.xml"/>
+        <xi:include href="./sections/2-1204.26.xml"/>
       </container>
     </container>
     <container>
