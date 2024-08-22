@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-1671.04</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on March 1, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-1671.04(Perm)">Permanent Version</cite>.*
+      </text>
   <heading proof="needed">Recommending authorized practitioner; protections.</heading>
   <para>
     <num>(a)</num>
@@ -17,6 +20,41 @@
   <para>
     <num>(d)</num>
     <text>An authorized practitioner recommending the use of medical cannabis to a qualifying patient shall not have a professional office located at a retailer, internet retailer, cultivation center, manufacturer, or testing laboratory or receive financial compensation from a cultivation center, manufacturer, or testing laboratory, or a director, officer, member, incorporator, agent, or employee of a retailer, internet retailer, cultivation center, courier, manufacturer, or testing laboratory.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <para>
+      <num>(1)</num>
+      <text>Within 14 calendar days of receiving a notice as described in paragraph (2) of this subsection, a qualifying patient shall:</text>
+      <para>
+        <num>(A)</num>
+        <text>Surrender his or her registration card to the Board; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Notify his or her registered caregiver, if applicable, of the change described in the notice.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>For the purposes of this subsection, "notice" means:</text>
+      <para>
+        <num>(A)</num>
+        <text>An authorized practitioner declaring that:</text>
+        <para>
+          <num>(i)</num>
+          <text>The qualifying patient no longer suffers from a qualifying medical or dental condition; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The authorized practitioner no longer recommends use of medical cannabis for a qualifying medical or dental treatment for the qualifying patient; or</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A qualifying patient notifying ABCA that they no longer need cannabis for the treatment of a qualifying medical or dental condition or for a qualifying medical or dental treatment.</text>
+      </para>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 13-315" type="History" path="§5">Feb. 25, 2010, D.C. Law 13-315, § 5</annotation>
@@ -39,5 +77,8 @@
     <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§3|(d)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-437" path="§2|(a)" codified:display="Note" app="2024-04-08" eff="2024-04-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-437" path="§2|(a)">§ 2(a) of Medical Cannabis Patient Card Extension and 4/20 Medical Cannabis Sales Tax Holiday Week Emergency Amendment Act of 2024 (D.C. Act 25-437, Apr. 8, 2024, 71 DCR 4118)</cite>.</annotation>
     <annotation app="2024-04-08" doc="D.C. Act 25-437" eff="2024-04-08" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-193" eff="2024-07-19" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-193" eff="2024-07-19" path="§2|(a)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-193" path="§2|(a)" codified:display="Note" app="2024-07-19" eff="2024-07-19">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-193" path="§2|(a)">§ 2(a) of Medical Cannabis Patient Card Extension and 4/20 Medical Cannabis Sales Tax Holiday Week Temporary Amendment Act of 2024 (D.C. Law 25-193, July 19, 2024, 71 DCR 6749)</cite>.</annotation>
   </annotations>
 </section>
