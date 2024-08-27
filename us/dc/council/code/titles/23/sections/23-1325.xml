@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>23-1325</num>
-  <text placeholder="Not Funded">
+  <text>
       *NOTE: The amendments to this section by section 30(g) of D.C. Law 25-175 shall expire 225 days after June 8, 2024 [January 19, 2025].*
-      <text>Not Funded.</text></text>
+      </text>
   <heading>Release in first degree murder, second degree murder, and assault with intent to kill while armed cases or after conviction.</heading>
   <para>
     <num>(a)</num>
-    <text>A person who is charged with murder in the first degree, murder in the second degree, or assault with intent to kill while armed shall be treated in accordance with the provisions of section 23-1321 unless the judicial officer has reason to believe that no one or more conditions of release will reasonably assure that the person will not flee or pose a danger to any other person or to the community. If such a risk of flight or danger is believed to exist, the person may be ordered detained. In any pretrial detention hearing under the provisions of this section, if the judicial officer finds that there is a substantial probability that the person has committed any of the foregoing offenses while armed with or having readily available a pistol, firearm, or imitation firearm, there shall be a rebuttable presumption that no condition or combination of conditions of release will reasonably assure the safety of any other person or the community.</text>
+    <text>A person who is charged with murder in the first degree, murder in the second degree, or assault with intent to kill while armed shall be treated in accordance with the provisions of section 23-1321 unless the judicial officer has reason to believe that no one or more conditions of release will reasonably assure that the person will not flee or pose a danger to any other person or to the community. If such a risk of flight or danger is believed to exist, the person may be ordered detained. In any pretrial detention hearing under the provisions of this section, if the judicial officer finds that there is probable cause that the person has committed any of the foregoing offenses while armed with or having readily available a pistol, firearm, imitation firearm, or other deadly or dangerous weapon, there shall be a rebuttable presumption that no condition or combination of conditions of release will reasonably assure the safety of any other person or the community.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -28,7 +28,6 @@
     <annotation doc="D.C. Law 8-120" type="History">May 8, 1990, D.C. Law 8-120, § 2(b), 37 DCR 24</annotation>
     <annotation doc="D.C. Law 9-125" type="History">July 3, 1992, D.C. Law 9-125, § 6, 39 DCR 2134</annotation>
     <annotation doc="D.C. Law 13-310" type="History">June 12, 2001, D.C. Law 13-310, § 2(c), 48 DCR 1648</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-310">D.C. Law 13-310</cite>, in the section heading, inserted “, second degree murder,”; and, in subsec. (a), substituted “murder in the first degree, murder in the second degree” in the first sentence, and substituted “substantial probability that the person has committed any of the foregoing offenses” for “substantial probability that the person has committed murder in the first degree”.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 23-1325.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 23-1325.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§23-1321">§ 23-1321</cite>.</annotation>
@@ -40,12 +39,14 @@
     <annotation app="2023-12-21" doc="D.C. Act 25-339" eff="2023-12-21" path="§7|(d)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-101" path="§7|(d)" codified:display="Note" app="2024-01-17" eff="2024-01-17">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-101" path="§7|(d)">§ 7(d) of Prioritizing Public Safety Temporary Amendment Act of 2023 (D.C. Law 25-101, Jan. 17, 2024, 70 DCR 13762)</cite>.</annotation>
     <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§7|(d)" type="History" display="false"/>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(g)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(g)|(1)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(g)|(2)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(g)" type="History" display="false"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(g)|(1)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(g)|(2)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 25-175" path="§30|(g)" codified:display="Note" app="2024-06-08" eff="2024-06-08">Applicability of <cite doc="D.C. Law 25-175" path="">D.C. Law 25-175</cite>: <cite doc="D.C. Law 25-175" path="§45">§ 45 of D.C. Law 25-175</cite> provided that the amendment of this section by <cite doc="D.C. Law 25-175" path="§30|(g)">§ 30(g) of D.C. Law 25-175</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(g)" type="History"/>
+    <annotation doc="D.C. Law 25-175" path="§30|(g)" type="Applicability" history="false" app="2024-06-08" eff="2024-06-08">
+        The District's Chief Financial Officer stated in a letter to the Council's Budget Director, dated August 4, 2024, that the amendment of this section by D.C. Law 25-175 has been funded. Therefore that amendment has been implemented.
+      </annotation>
     <annotation doc="D.C. Law 25-175" path="§30|(k)" type="Expiration of Law" history="false" app="2024-06-08" eff="2024-06-08"><cite doc="D.C. Law 25-175" path="§30|(k)"> Section 30(k) of D.C. Law 25-175</cite> provided that the amendments made to this section by § 30(g) of D.C. Law 25-175 shall expire 225 days after June 8, 2024.
       </annotation>
     <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(k)" type="History" display="false"/>
