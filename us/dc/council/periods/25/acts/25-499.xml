@@ -1800,18 +1800,12 @@
       <text>Section 7(b)(4)(B) (D.C. Official Code § 4-753.01(b)(4)(B)) is amended to read as follows:</text>
       <include lvl="2">
         <para>
-          <codify:replace path="(b)|(4)|(B)" codified:doc="D.C. Code" codified:path="§4-753.01|(b)|(4)|(B)"/>
           <num>(B)</num>
           <text>Rapid Re-Housing programs for the purpose of providing housing relocation and stabilization services and time-limited rental assistance to help a homeless individual or family move as quickly as possible into permanent housing and achieve stability in permanent housing.</text>
         </para>
       </include>
       <aftertext>.</aftertext>
       <codify:emergency doc="D.C. Code" path="§4-753.01" codified:doc="D.C. Code" codified:path="§4-753.01" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§4-753.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-753.01">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 6, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§4-753.01(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para codify:path="§4-754.11">
       <num>(b)</num>
