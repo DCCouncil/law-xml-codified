@@ -1,61 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>3-641.05</num>
-  <heading>Commission on Poverty; resources and staff.</heading>
+  <heading proof="needed">Commission on Poverty; resources and staff.</heading>
   <para>
     <num>(a)</num>
-    <para>
-      <num>(1)</num>
-      <text>The Commission shall have at least 3 paid staff persons, including an Executive Director.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <para>
-        <num>(A)</num>
-        <text>The Mayor shall appoint the Executive Director.</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>The Executive Director shall:</text>
-        <para>
-          <num>(i)</num>
-          <text>Be a resident of the District;</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>Devote full time to the duties of the position;</text>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>Report on a regular basis, as determined by the Chairperson, to the Commission; and</text>
-        </para>
-        <para>
-          <num>(iv)</num>
-          <text>Hire and supervise other Commission staff, as the approved budget for the Commission permits.</text>
-        </para>
-      </para>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>At least one member of the staff shall have been in poverty at sometime within the 3-year period before the individual's date of hire.</text>
-    </para>
+    <text>The Commission shall be supported by an Executive Director, who shall be a District resident appointed by the Mayor.</text>
   </para>
   <para>
     <num>(b)</num>
+    <text>The Executive Director shall:</text>
     <para>
       <num>(1)</num>
-      <text>Staff shall assist in the preparation of the poverty-reduction plan and annual reports, conduct the administrative activities of the Commission, and perform other duties, as directed by the Commission's Chairperson.</text>
+      <text>Report on a regular basis, as determined by the Chairperson of the Commission, to the Commission;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The staff may retain outside consultants to assist with preparing and drafting the poverty-reduction plan and annual reports.</text>
+      <text>Assist in the preparation of the poverty-reduction plan and annual reports, conduct the administrative activities of the Commission, and perform other duties, as directed by the Chairperson of the Commission; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Hire and supervise other Commission staff, as the approved Commission budget permits.</text>
     </para>
   </para>
   <para>
     <num>(c)</num>
-    <text>The Mayor shall provide sufficient office space and technical and administrative support to assist the Commission and its staff in meeting the goals mandated by <cite path="3|6A-i">this chapter</cite>.</text>
+    <text>The Commission may retain outside consultants to assist with preparing and drafting the poverty-reduction plan and annual reports; provided, that the approved Commission budget permits.</text>
   </para>
-  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§3-641.05" codified:display="Note" codified:doc="D.C. Code" codified:path="§3-641.05">Applicability of <cite doc="D.C. Law 23-184" path="">D.C. Law 23-184</cite>: <cite doc="D.C. Law 23-184" path="§301">§ 301 of D.C. Law 23-184</cite> provided that the creation of this section by <cite doc="D.C. Law 23-184" path="§105">§ 105 of D.C. Law 23-184</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <para>
+    <num>(d)</num>
+    <para>
+      <num>(1)</num>
+      <text>The Mayor shall provide sufficient office space for the Executive Director and any staff.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Department of Employment Services, and other agencies as the Mayor may designate, shall provide administrative and technical support to the Commission.</text>
+    </para>
+  </para>
   <annotations>
     <annotation app="2021-03-16" doc="D.C. Law 23-184" eff="2021-03-16" path="" type="History" display="false"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-184" eff="2021-03-16" path="§105" type="History"/>
@@ -66,5 +47,8 @@
     <annotation doc="D.C. Law 24-45" path="§7192" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7192">Section 7192 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-184" path="§301">section 301 of D.C. Law 23-184</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-184 has been implemented.
         </annotation>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7192" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§4092" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§4092|includes|105">§ 105 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4092" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4092" type="History"/>
   </annotations>
 </section>

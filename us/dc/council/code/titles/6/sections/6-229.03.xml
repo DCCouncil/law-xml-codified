@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>6-229.03</num>
-  <heading>Rent Supplement Program Tenant-Based Allocation Fund quarterly reporting.</heading>
+  <heading>Tenant-Based Rent Supplement Program quarterly reporting.</heading>
   <para>
     <num>(a)</num>
-    <text>The Department of Human Services shall submit to the Council, within 30 days after the end of each fiscal quarter, a Rent Supplement Program Tenant-Based Allocation Fund report.</text>
+    <text>The Department of Human Services shall submit to the Council, within 30 days after the end of each fiscal quarter, a report on the Tenant-Based Rent Supplement Program.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>Each report shall include the following information with respect to the Rent Supplement Program Tenant-Based Allocation Fund:</text>
-    <para>
+    <text>Each report shall include the following information:</text>
+    <para placeholder="Repealed">
       <num>(1)</num>
-      <text>The total amount of money in the fund at the beginning and end of the reporting period;</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The amount of money in the fund transferred to the Authority for each tenant-based voucher assistance program during the reporting period, listed separately by the program</text>
+      <text>The amount of money transferred to the Authority for each tenant-based voucher assistance program during the reporting period, listed separately by the program</text>
       <para>
         <num>(A)</num>
         <text>In which the household is currently participating, including the Permanent Supportive Housing, Targeted Affordable Housing program, and the Rapid Rehousing program if applicable, and categorized by individual households and family households; and</text>
@@ -25,9 +25,9 @@
         <text>To which the household is being referred, including the Permanent Supportive Housing and Targeted Affordable Housing program;</text>
       </para>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(3)</num>
-      <text>The amount of money remaining in the fund at the end of the reporting period, listed separately by the program in which the household is participating, including the Permanent Supportive Housing, Targeted Affordable Housing program, and the Rapid Rehousing program, and categorized by individual households and family households;</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(4)</num>
@@ -35,11 +35,20 @@
     </para>
     <para>
       <num>(5)</num>
-      <text>The amount of money expended from the fund during the reporting period on administrative costs, which shall contain a breakdown by category of expense.</text>
+      <text>The amount of money expended by the Department of Human Services during the reporting period on administrative costs related to the Tenant-Based Rent Supplement Program, which shall contain a breakdown by category of expense.</text>
     </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 13-105" type="History" path="§26d-3">May 9, 2000, D.C. Law 13-105, § 26d-3</annotation>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2042|(f)" prefix="as added" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§2022|(i)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§2022|(i)">§ 2022(i) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§2022|(i)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(i)|(2)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(i)|(3)|(B)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(i)|(3)|(C)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(i)|(3)|(D)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(i)|(3)|(E)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(i)|(3)|(A)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(i)|(1)" type="History"/>
   </annotations>
 </section>

@@ -1,36 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>1-325.171</num>
   <heading>Definitions.</heading>
-  <text>For the purposes of this part, the term:</text>
-  <para>
-    <num>(1)</num>
-    <text>“Chief Financial Officer” means the Chief Financial Officer established by <cite path="§1-204.24|(a)" proof="true">§ 1-204.24(a)</cite>.</text>
-  </para>
-  <para>
-    <num>(2)</num>
-    <text>“DMPED” means the Office of the Deputy Mayor for Planning and Economic Development established by Mayor’s Order 99-62 (April 9, 1999).</text>
-  </para>
-  <para>
-    <num>(3)</num>
-    <text>“Developer Sponsor” shall have the same meaning as provided in <cite path="§47-4634|(1)" proof="true">§ 47-4634(1)</cite>.</text>
-  </para>
-  <para>
-    <num>(4)</num>
-    <text>“H Street Real Property Tax Increment Revenue” means the portion of the real property tax imposed by <cite path="47|8">Chapter 8 of Title 47</cite> on real property in the H Street, N.E., Retail Priority Area in any fiscal year that exceeds the amount of the real property tax imposed on the real property in the H Street, N.E., Retail Priority Area in the fiscal year ended September 30, 2007.</text>
-  </para>
-  <para placeholder="Repealed">
-    <num>(5)</num>
-    <text>Repealed.</text>
-  </para>
-  <para>
-    <num>(6)</num>
-    <text>“H Street Retail Developer” means a person or corporation that proposes to, or provides technical assistance to, engage in the business of sale of personal property or services for use or consumption by the purchasers at locations in the H Street/Bladensburg Road/Benning Road, N.E., Corridor Retail Priority Area.</text>
-  </para>
-  <para>
-    <num>(7)</num>
-    <text>“H Street Sales Tax Increment Revenue” means the portion of the sales tax imposed by <cite path="47|20">Chapter 20 of Title 47</cite> on goods and services sold in the H Street, N.E., Retail Priority Area in any fiscal year that exceeds the amount of the sales tax imposed in the H Street, N.E., Retail Priority Area in the fiscal year ended September 30, 2007.</text>
-  </para>
+  <text>Repealed.</text>
   <annotations>
     <annotation doc="D.C. Law 18-354" type="History" path="§2">Apr. 8, 2011, D.C. Law 18-354, § 2, 58 DCR 754</annotation>
     <annotation doc="D.C. Law 19-168" type="History">Sept. 20, 2012, D.C. Law 19-168, § 2162(a), 59 DCR 8025</annotation>
@@ -47,5 +20,8 @@
     <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-168">D.C. Law 19-168</cite> added “or services” in (6).</annotation>
     <annotation app="2018-06-05" doc="D.C. Law 22-105" eff="2018-06-05" path="§3|(a)|(1)" type="History"/>
     <annotation app="2018-06-05" doc="D.C. Law 22-105" eff="2018-06-05" path="§3|(a)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7126|(a)|(1)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7126|(a)|(1)">§ 7126(a)(1) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7126|(a)|(1)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7126|(a)|(1)" type="History"/>
   </annotations>
 </section>

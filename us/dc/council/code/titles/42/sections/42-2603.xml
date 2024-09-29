@@ -2,7 +2,25 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>42-2603</num>
   <heading>Availability; use prescribed by Mayor.</heading>
-  <text>The Fund shall be available without fiscal year limitation for the purpose of providing financial assistance for down payments or interim financing to recipients for the purpose of purchasing or securing housing, including single family homes, condominium units, or occupancy rights to cooperative housing in the District of Columbia as their principal place of residence and of providing financial assistance to District of Columbia government employees eligible under the District of Columbia Employer-Assisted Housing Program to purchase a home in the District of Columbia. Under terms and conditions prescribed by the Mayor of the District of Columbia (“Mayor”), the Fund shall be used for making loans and providing other forms of financial assistance. The assistance provided pursuant to the Fund may be used in conjunction with other available home assistance programs.</text>
+  <para>
+    <num>(a)</num>
+    <text>The Fund shall be available without fiscal year limitation for the purpose of providing financial assistance for down payments or interim financing to recipients for the purpose of purchasing or securing housing, including single family homes, condominium units, or occupancy rights to cooperative housing in the District of Columbia as their principal place of residence and of providing financial assistance to District of Columbia government employees eligible under the District of Columbia Employer-Assisted Housing Program to purchase a home in the District of Columbia. Under terms and conditions prescribed by the Mayor of the District of Columbia (“Mayor”), the Fund shall be used for making loans and providing other forms of financial assistance. The assistance provided pursuant to the Fund may be used in conjunction with other available home assistance programs.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>DHCD shall maintain and publish a Program dashboard, which shall include, at a minimum, the total Program funding available, excluding administrative costs, as of the date of updating the dashboard.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>DHCD shall update the dashboard every 5 business days when the level of available Program funding is at $5 million or above and every 2 business days when the level of available Program funding is below $5 million.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>If Program funding is depleted before the end of the fiscal year in which an applicant receives a notice of eligibility, the notice of eligibility shall remain valid through at least the end of the following fiscal year.</text>
+  </para>
   <annotations>
     <text type="Repeal of Law">Section 1101 of <cite doc="D.C. Law 12-60">D.C. Law 12-60</cite> repealed the District of Columbia Employer-Assisted Housing Act of 1992, <cite doc="D.C. Law 9-118">D.C. Law 9-118</cite>.</text>
     <text type="Repeal of Law">Repeal of Law 9-118</text>
@@ -17,5 +35,9 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-96">D.C. Law 13-96</cite> rewrote the first sentence which formerly provided: “The Fund shall be available without fiscal year limitation for the purpose of providing financial assistance for down payments or interim financing to recipients for the purpose of purchasing or securing housing, including single family homes, condominium units, or occupancy rights to cooperative housing in the District of Columbia as their principal place of residence and of providing financial assistance to District of Columbia government employees eligible under the District of Columbia Employer-Assisted Housing Program to purchase a home in the District of Columbia.”</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 45-1803.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 45-2203.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§2152|(c)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§2152|(c)">§ 2152(c) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§2152|(c)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2152|(c)|(2)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2152|(c)|(1)" type="History"/>
   </annotations>
 </section>

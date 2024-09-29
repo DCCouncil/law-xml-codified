@@ -25,7 +25,7 @@
     <num>(a-1)</num>
     <para>
       <num>(1)</num>
-      <text>The District shall levy and collect a tax and a local transportation surcharge ("surcharge") on motor vehicle fuels sold or otherwise disposed of by an importer or by a user, or used for commercial purposes.</text>
+      <text>The District shall levy and collect a tax and surcharge on motor vehicle fuels sold or otherwise disposed of by an importer or by a user, or used for commercial purposes.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -48,17 +48,17 @@
     <num>(b)</num>
     <text>The proceeds of the taxes imposed under §§ <cite path="§47-2302">47-2302</cite> through <cite path="§47-2315">47-2315</cite>, and the money collected from fees charged for the registration and titling of motor vehicles, including fees charged for the issuance of permits to operate motor vehicles, shall be deposited in the General Fund of the District of Columbia established under <cite path="§47-131">§ 47-131</cite>.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(c)</num>
-    <text>The Chief Financial Officer of the District of Columbia shall:</text>
-    <para>
-      <num>(1)</num>
-      <text>Transfer annually to the District of Columbia Highway Trust Fund the proceeds of the taxes imposed under subsection (a) and (a-1) of this section; and</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Transfer to the Capital Improvements Program the revenue derived from the surcharge under subsection (a-1) to fund the renovation, repair, and maintenance of local transportation infrastructure.</text>
-    </para>
+    <text>[Repealed].</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>The Chief Financial Officer of the District of Columbia ("CFO") shall transfer annually to the District of Columbia Highway Trust Fund the proceeds of the taxes imposed by subsections (a) and (a-1) of this section to the extent necessary to satisfy local match requirements to obtain federal aid funds and the remainder of the proceeds of the taxes, if any, to the Capital Improvements Program to be used to fund the renovation, repair, and maintenance of local transportation infrastructure.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>After the transfers required by subsection (d) of this section have been made, the CFO shall transfer annually to the District of Columbia Highway Trust Fund the proceeds of the surcharge imposed under subsection (a-1) of this section to the extent necessary to satisfy local match requirements to obtain federal aid funds and the remainder of the proceeds of the surcharge, if any, to the Capital Improvements Program to be used to fund the renovation, repair, and maintenance of local transportation infrastructure.</text>
   </para>
   <annotations>
     <text type="Editor's Notes">Applicability of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite>: Section 11001 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</text>
@@ -110,5 +110,10 @@
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7132|(a)|(1)" type="History"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7132|(a)|(2)" type="History"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7132|(a)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7113" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7113">§ 7113 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7113" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7113|(a)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7113|(b)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7113|(c)" type="History"/>
   </annotations>
 </section>

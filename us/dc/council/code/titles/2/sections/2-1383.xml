@@ -1,21 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-1383</num>
-  <heading>Appointment of Director; compensation; staff.</heading>
-  <para>
+  <heading>Powers and duties of the Office.</heading>
+  <para placeholder="Repealed">
     <num>(a)</num>
-    <para>
-      <num>(1)</num>
-      <text>The Office shall be administered by the Director, who shall be appointed by the Mayor. The Director shall devote his or her full time to the duties of the Office. His or her annual compensation shall not be lower than a DS-15, step one, or equivalent compensation pursuant to §§ <cite path="§1-610.51">1-610.51</cite> through <cite path="§1-610.63">1-610.63</cite>.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The Office shall have sufficient full-time employees to perform the Office’s duties, with a minimum of 2 full-time employees, plus any temporary staff approved by the Office of Budget and Planning.</text>
-    </para>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>The Director shall:</text>
+    <text>The Office shall:</text>
     <para>
       <num>(1)</num>
       <text>Serve as an advocate for the lesbian, gay, bisexual, transgender, and questioning community in the District of Columbia;</text>
@@ -61,6 +54,10 @@
       <text>Issue grants to organizations that provide services to LGBTQ residents of the District of Columbia or in furtherance of the mission of the Office or the purposes of this chapter;</text>
     </para>
     <para>
+      <num>(11A)</num>
+      <text>Coordinate grantmaking activities to support WorldPride 2025, pursuant to <cite doc="D.C. Law 25-217" path="§2092">section 2092 of the WorldPride Grants Administration Act of 2024, passed on 2nd reading on June 25, 2024 (Enrolled version of Bill 25-784)</cite>;</text>
+    </para>
+    <para>
       <num>(12)</num>
       <text>Implement the grant program created by <cite path="§2-1384">§ 2-1384</cite>; and</text>
     </para>
@@ -103,5 +100,11 @@
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§1142|(b)|(1)" type="History"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§1142|(b)|(2)" type="History"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§1142|(b)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§1092|(b)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§1092|(b)">§ 1092(b) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§1092|(b)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1092|(b)|(2)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1092|(b)|(3)|(B)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1092|(b)|(3)|(A)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1092|(b)|(1)" type="History"/>
   </annotations>
 </section>

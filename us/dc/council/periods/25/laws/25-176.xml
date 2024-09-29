@@ -114,7 +114,7 @@
       <para codify:path="[(8)]">
         <num>(1)</num>
         <text>Paragraph (8) is amended by striking the period "." and inserting a semi-colon in its place.</text>
-        <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§1-611.08|(c-2)|[(8)]">
+        <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§1-611.08|(c-2)|(8)">
           <find>.</find>
           <replace>;</replace>
         </codify:find-replace>
@@ -131,7 +131,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:not-funded-anno doc="D.C. Law 25-176" applicability-path="§5" display-template="" codified:doc="D.C. Code" codified:path="§1-611.08|(c-2)|[(8)]" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Law 25-176" applicability-path="§5" display-template="" codified:doc="D.C. Code" codified:path="§1-611.08|(c-2)|(8)" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -144,7 +144,6 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 25-176" path="§4|(a)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-611.08|(c-2)|[(8)]"/>
     </para>
     <para>
       <num>(b)</num>

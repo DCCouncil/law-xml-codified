@@ -1,14 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-2241.02</num>
   <heading>Bird friendly construction.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>For building permits issued after October 1, 2024, for new construction, or for alterations involving the replacement of all or substantially all exterior glazing on commercial buildings, multi-unit residential buildings, institutional facilities, or District-owned or operated buildings, each façade of the exterior wall envelope and any exterior fenestration shall be constructed with bird friendly materials up to 100 feet above grade; provided, that other materials may be used to the extent that they do not exceed an aggregate of 10 square feet within any 10 feet by10 feet square area of exterior wall below 100 feet above grade.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The requirements of paragraph (1) of this subsection shall be waived for real property designated as a historic landmark pursuant to <cite path="§6-1103">§ 6-1103</cite>.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The requirements of paragraph (1) of this subsection may be waived for real property within a historic district where the Historic Preservation Review Board or the Old Georgetown Board issues a recommendation to the Department of Buildings that the compliance with paragraph (1) of this subsection would meaningfully and substantially impact historic elements of the property.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>For installations with construction commencing after October 1, 2024:</text>
+    <para>
+      <num>(1)</num>
+      <text>All glazed corners and fly-through conditions located 100 feet or less above grade shall be constructed with bird friendly materials; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The exterior wall envelope and any exterior fenestration installed adjacent to all green roof systems or roof terraces on the same structure shall be constructed with bird friendly materials up to 24 feet above the surface of the green roof system or walking surface, whichever is higher.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>Bird hazard installations shall be constructed of bird friendly materials regardless of their height above grade.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§8-2241.02" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-2241.02">Applicability of <cite doc="D.C. Law 24-337" path="">D.C. Law 24-337</cite>: <cite doc="D.C. Law 24-337" path="§6">§ 6 of D.C. Law 24-337</cite> provided that the creation of this section by <cite doc="D.C. Law 24-337" path="§3">§ 3 of D.C. Law 24-337</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 24-337" eff="2023-03-22" path="§6|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-337" eff="2023-03-22" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-337" eff="2023-03-22" path="§3" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-337" path="§3" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-337" path="">D.C. Law 24-337</cite>: <cite doc="D.C. Law 24-337" path="§6">§ 6 of D.C. Law 24-337</cite> provided that the creation of this section by <cite doc="D.C. Law 24-337" path="§3">§ 3 of D.C. Law 24-337</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-03-22" doc="D.C. Law 24-337" eff="2023-03-22" path="" type="History" display="false"/>
     <annotation app="2023-03-22" doc="D.C. Law 24-337" eff="2023-03-22" path="§3" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-337" path="§3" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-337" path="">D.C. Law 24-337</cite>: <cite doc="D.C. Law 24-337" path="§6">§ 6 of D.C. Law 24-337</cite> provided that the creation of this section by <cite doc="D.C. Law 24-337" path="§3">§ 3 of D.C. Law 24-337</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7287" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7287">§ 7287 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7287" type="History" display="false"/>
+    <annotation doc="D.C. Act 25-506" path="§7287" type="Applicability" history="false" app="2024-07-15" eff="2024-07-15"><cite doc="D.C. Act 25-506" path="§7287">Section 7287 of D.C. Act 25-506</cite> repealed <cite doc="D.C. Law 24-337" path="§6">section 6 of D.C. Law 24-337</cite> removing the applicability provision impacting this section. Therefore the amendment of this section by section 6 of Law 24-337 has been implemented.
+        </annotation>
+    <annotation doc="D.C. Law 25-217" path="§7287" type="Applicability" history="false" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-218" path="§7287">Section 7287 of D.C. Law 25-218</cite> repealed <cite doc="D.C. Law 24-337" path="§6">section 6 of D.C. Law 24-337</cite> removing the applicability provision impacting this section. Therefore the amendment of this section by section 6 of Law 24-337 has been implemented.
+        </annotation>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7287" type="History" display="false"/>
   </annotations>
 </section>

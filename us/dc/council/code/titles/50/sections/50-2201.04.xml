@@ -1,78 +1,169 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-2201.04</num>
-  <heading>Speeding and reckless driving.</heading>
+  <heading proof="needed">Speeding and reckless driving.</heading>
   <para>
     <num>(a)</num>
-    <text>No vehicle shall be operated at a greater rate of speed than permitted by the regulations adopted under the authority of this part.</text>
-    <para placeholder="Not Funded">
-      <num>(2)</num>
-      <text>Not Funded.</text>
-    </para>
+    <text>No vehicle shall be operated at a greater rate of speed than permitted by the regulations adopted under the authority of <cite path="50|22|I|A">this part</cite>.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>A person shall be guilty of reckless driving if the person drives a vehicle upon a highway carelessly and heedlessly in willful or wanton disregard for the rights or safety of others, or without due caution and circumspection and at a speed or in a manner so as to endanger or be likely to endanger a person or property.</text>
-  </para>
-  <para>
-    <num>(b-1)</num>
-    <text>A person shall be guilty of aggravated reckless driving if the person violates subsection (b) of this section and the person does one or more of the following:</text>
+    <text>A person commits the offense of reckless driving if the person drives a motor vehicle on any highway in the District:</text>
     <para>
       <num>(1)</num>
-      <text>Operates the vehicle at a rate or speed at or greater than 30 miles per hour over the stated speed limit;</text>
+      <text>At a speed of 20 miles per hour or more in excess of the speed limit; or</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Causes bodily harm or permanent disability or disfigurement to another; or</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Causes property damage in excess of $1,000.</text>
+      <text>In any other manner that displays a conscious disregard of the risk of causing property damage or bodily injury to any person.</text>
     </para>
   </para>
   <para>
     <num>(c)</num>
+    <text>A person commits the offense of aggravated reckless driving if the person drives a motor vehicle on any highway in the District:</text>
     <para>
       <num>(1)</num>
-      <text>A person violating subsection (b) of this section shall, upon conviction for the first offense, be fined no more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or incarcerated for no more than 90 days, or both.</text>
+      <text>At a speed of 30 miles per hour or more above the speed limit; or</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>A person violating subsection (b) of this section when the person has been convicted of a prior offense under subsection (b) of this section within a 2-year period and is being sentenced on the current offense shall be fined no more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or incarcerated for no more than 180 days.</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>A person violating subsection (b) of this section when the person has 2 or more prior convictions for offenses under subsection (b) of this section within a 2-year period and is being sentenced on the current offense shall be fined no more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or incarcerated for no more than one year.</text>
-    </para>
-  </para>
-  <para>
-    <num>(c-1)</num>
-    <para>
-      <num>(1)</num>
-      <text>A person violating subsection (b-1) of this section shall, upon conviction for the first offense, be fined no more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or incarcerated for no more than 180 days, or both.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>A person violating subsection (b-1) of this section when the person has one or more prior convictions for offenses under subsection (b-1) within a 2-year period and is being sentenced on the current offense shall be fined no more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or incarcerated for no more than one year.</text>
+      <text>At a speed of 20 miles per hour or more above the speed limit; and</text>
+      <para>
+        <num>(A)</num>
+        <text>Causes bodily injury to any other person;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Collides with another motor vehicle; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Causes $1,000 or more in property damage.</text>
+      </para>
     </para>
   </para>
   <para>
     <num>(d)</num>
-    <text>Any individual violating any provision of this section, except where the offense constitutes aggravated reckless driving, shall be subject to a civil fine under the District of Columbia Traffic Adjudication Act (<cite path="§50-2301.01">§ 50-2301.01</cite> et seq.).</text>
+    <text>A person convicted of reckless driving shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>For a first or second conviction of reckless driving, be fined no more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or incarcerated for no more than 90 days, or both; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>For a third or subsequent conviction for reckless driving within a 2-year period, be fined no more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or incarcerated for no more than one year, or both.</text>
+    </para>
   </para>
   <para>
     <num>(e)</num>
-    <text>A presumption shall exist that a reckless, careless, hazardous, or aggressive driving conviction that occurred in a foreign jurisdiction constitutes reckless driving as provided in subsection (b) of this section, unless the District can show evidence that the person met the requirements for aggravated reckless driving in subsection (b-1) of this section.</text>
+    <text>A person convicted of aggravated reckless driving shall be:</text>
+    <para>
+      <num>(1)</num>
+      <text>For a first or second conviction of aggravated reckless driving, be fined no more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or incarcerated for no more than 180 days, or both; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>For a third or subsequent conviction for aggravated reckless driving within a 2-year period, be fined no more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or incarcerated for no more than 2 years, or both.</text>
+    </para>
   </para>
   <para>
     <num>(f)</num>
-    <text>The fines set forth in this section shall not be limited by <cite path="§22-3571.01">§ 22-3571.01</cite>.</text>
+    <text>When determining whether a defendant has a prior conviction for reckless driving or aggravated reckless driving, the Court shall include convictions for any offense from another state or territory of the United States which, if committed in the District of Columbia, would constitute reckless driving or aggravated reckless driving, respectively.</text>
+  </para>
+  <para>
+    <num>(g)</num>
+    <para>
+      <num>(1)</num>
+      <text>The Attorney General may bring a civil cause of action in the Superior Court of the District of Columbia:</text>
+      <para>
+        <num>(A)</num>
+        <heading proof="needed">In personam, </heading>
+        <text>against any driver who is suspected of violating this section; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <heading proof="needed">In rem, </heading>
+        <text>against any motor vehicle operated by a driver in a manner that violates this section.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Attorney General shall not bring a civil cause of action as described in paragraph (1) of this subsection against any person or motor vehicle:</text>
+      <para>
+        <num>(A)</num>
+        <text>Regarding a violation of this section for which the fine imposed pursuant to regulations adopted under subsection (a) of this section:</text>
+        <para>
+          <num>(i)</num>
+          <text>Is being contested or appealed;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Is not yet due;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Has been paid by the defendant; or</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Is subject to a payment plan through which the defendant is making timely payments; or</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Who is currently serving or has completed serving the sentence imposed pursuant to subsection (d) or subsection (e) of this section.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>In civil actions brought pursuant to paragraph (1) of this subsection, the Attorney General may seek:</text>
+      <para>
+        <num>(A)</num>
+        <text>Payment of any portion of the person's outstanding fines;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Reasonable attorney's fees;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>For a defendant with a driver's license issued by:</text>
+        <para>
+          <num>(i)</num>
+          <text>The District, the suspension or revocation of the defendant's driver's license; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Another jurisdiction, the suspension or revocation of the defendant's privilege to drive in the District; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The immobilization of the motor vehicle through booting or towing and impoundment.</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>If a court orders the immobilization of a motor vehicle through booting or towing and impounding pursuant to paragraph (3)(D) of this subsection, the court's order:</text>
+      <para>
+        <num>(A)</num>
+        <text>Shall include a procedure to have the boot removed or the motor vehicle reclaimed from impoundment that is consistent with the requirements of <cite path="§50-2421.09">§ 50-2421.09</cite> and District government policy; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>May state a date after which, if the order has not been complied with, the Mayor may auction or scrap the motor vehicle consistent with §§ <cite path="§50-2421.08">§ 50-2421.08</cite> and <cite path="§50-2421.10">§ 50-2421.10</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The Attorney General may seek to enforce any final judgment in a case brought pursuant to paragraph (1) of this subsection in any court of competent jurisdiction.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The Attorney General may retain outside counsel to perform any of the functions described in this subsection.</text>
+    </para>
   </para>
   <annotations>
-    <text type="Editor's Notes">Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</text>
-    <text type="Editor's Notes">Section 8 of <cite doc="D.C. Law 19-316">D.C. Law 19-316</cite> provided that the act shall apply as of June 1, 2013.</text>
-    <text type="Editor's Notes">Definitions applicable: For definitions applicable in this section, see <cite path="§50-2201.02">§ 50-2201.02</cite>.</text>
-    <text type="Editor's Notes">Section 5 of  46 Stat. 1429, ch. 317, effective Feb. 27, 1931, provided that all convictions under the Act shall be reported by the clerk of the court to the commissioners [Mayor] or their [his] designated agent.</text>
     <annotation type="History" doc="Stat. 68-2-ch443" path="§9">Mar. 3, 1925, 43 Stat. 1123, ch. 443, § 9</annotation>
     <annotation type="History">July 3, 1926, 44 Stat. 814, ch. 739, § 5</annotation>
     <annotation type="History">Feb. 27, 1931, 46 Stat. 1427, ch. 317, § 4</annotation>
@@ -102,14 +193,19 @@
     <annotation type="Cross References">Criminal procedure, warrantless arrests, see <cite path="§23-581">§ 23-581</cite>.</annotation>
     <annotation type="Cross References">Compensation of victims of violent crime, “crime of violence,” “crime,” and “victim” defined, see <cite path="§4-501">§ 4-501</cite>.</annotation>
     <annotation type="Cross References">Alcoholic beverage control, operation of trains, streetcars, and other vehicles by intoxicated persons, see <cite path="§25-1009">§ 25-1009</cite>.</annotation>
-    <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§14|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-158" eff="2020-12-23" path="§8|(c)|(2)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-158" eff="2020-12-23" path="§8|(c)|(1)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§8|(c)|(1)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§8|(c)|(2)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-158" path="§8|(c)" codified:display="Note" app="2020-12-23" eff="2020-12-23">Applicability of <cite doc="D.C. Law 23-158" path="">D.C. Law 23-158</cite>: <cite doc="D.C. Law 23-158" path="§14">§ 14 of D.C. Law 23-158</cite> provided that the change made to this section by <cite doc="D.C. Law 23-158" path="§8|(c)">§ 8(c) of D.C. Law 23-158</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§8|(c)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 25-161" path="§4|(c)" codified:display="Note" app="2024-04-20" eff="2024-04-20">Applicability of <cite doc="D.C. Law 25-161" path="">D.C. Law 25-161</cite>: <cite doc="D.C. Law 25-161" path="§8">§ 8 of D.C. Law 25-161</cite> provided that the change made to this section by <cite doc="D.C. Law 25-161" path="§4|(c)">§ 4(c) of D.C. Law 25-161</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§4|(c)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 25-161" eff="2024-04-20" path="§8|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-161" eff="2024-04-20" path="§4|(c)" type="History"/>
+    <annotation doc="D.C. Act 25-506" path="§6082|(c)|(3)" type="Applicability" history="false" app="2024-07-15" eff="2024-07-15"><cite doc="D.C. Act 25-506" path="§6082|(e)">Section 6082(e) of D.C. Act 25-506</cite> amended <cite doc="D.C. Law 25-161" path="§8">section 8 of D.C. Law 25-161</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 4(c) of Law 25-161 has been implemented.
+            </annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§6082|(c)|(3)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§6082|(c)|(3)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§6082|(c)|(3)">§ 6082(c)(3) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6082|(c)|(3)" type="History"/>
+    <annotation doc="D.C. Law 25-217" path="§6082|(c)|(3)" type="Applicability" history="false" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-218" path="§6082|(e)">Section 6082(e) of D.C. Law 25-218</cite> amended <cite doc="D.C. Law 25-161" path="§8">section 8 of D.C. Law 25-161</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 4(c) of Law 25-161 has been implemented.
+            </annotation>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6082|(c)|(3)" type="History" display="false"/>
   </annotations>
 </section>

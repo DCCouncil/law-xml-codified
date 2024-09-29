@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-402</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 13, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-402(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Day care program authorized; funding system for child development facilities.</heading>
   <para>
     <num>(a)</num>
@@ -97,26 +94,6 @@
     </para>
   </para>
   <para>
-    <num>(d)</num>
-    <text>The Department is further authorized to:</text>
-    <para>
-      <num>(1)</num>
-      <text>Make grants, as authorized by <cite path="§38-2613|(c)|(5)">§ 38-2613(c)(5)</cite>, to child development facilities to support the costs of:</text>
-      <para>
-        <num>(A)</num>
-        <text>Maintaining dedicated slots for infants, toddlers, and preschoolers with disabilities;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Providing out-of-school-time programming to school-aged children with disabilities; and</text>
-      </para>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Establish a referral program to place children with disabilities in dedicated grant-funded slots.</text>
-    </para>
-  </para>
-  <para>
     <num>(c)</num>
     <para>
       <num>(1)</num>
@@ -155,6 +132,27 @@
       </para>
     </para>
   </para>
+  <para>
+    <codify:insert after="(c)"/>
+    <num>(d)</num>
+    <text>The Department is further authorized to:</text>
+    <para>
+      <num>(1)</num>
+      <text>Make grants, as authorized by <cite path="§38-2613|(c)|(5)">§ 38-2613(c)(5)</cite>, to child development facilities to support the costs of:</text>
+      <para>
+        <num>(A)</num>
+        <text>Maintaining dedicated slots for infants, toddlers, and preschoolers with disabilities;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Providing out-of-school-time programming to school-aged children with disabilities; and</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Establish a referral program to place children with disabilities in dedicated grant-funded slots.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 3-16" type="History" path="§3">Sept. 19, 1979, D.C. Law 3-16, § 3, 26 DCR 20</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 2 of Day Care Facility Congressional Review Emergency Act of 2009 (D.C. Act 18-152, July  30, 2009,  56 DCR 6340).</annotation>
@@ -179,13 +177,13 @@
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§4032|(a)|(2)" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§4032|(a)|(3)" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§4032|(b)" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4083|(b)" type="History" display="false"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4083|(b)|(1)|(B)" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4083|(b)|(1)|(C)" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4083|(b)|(1)|(A)" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4083|(b)|(3)" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4083|(b)|(2)" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4083|(b)|(4)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§4083|(b)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§4083|(b)">§ 4083(b) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4083|(b)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4083|(b)|(1)|(B)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4083|(b)|(1)|(C)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4083|(b)|(1)|(A)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4083|(b)|(3)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4083|(b)|(4)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4083|(b)|(2)" type="History"/>
   </annotations>
 </section>

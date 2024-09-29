@@ -160,7 +160,7 @@
     <num>(c-1)</num>
     <para>
       <num>(1)</num>
-      <text>Beginning October 31, 2023, the Mayor shall transmit a report to the Council every month that funds remain available for the Emergency Rental Assistance Program that provides the following information related to the program:</text>
+      <text>Beginning October 31, 2023, the Mayor shall transmit a report to the Council every quarter that funds remain available for the Emergency Rental Assistance Program that provides the following information related to the program:</text>
       <para>
         <num>(A)</num>
         <text>The number of applications:</text>
@@ -186,7 +186,7 @@
         </para>
         <para>
           <num>(vi)</num>
-          <text>In the process of an appeal;</text>
+          <text>In the process of an appeal; and</text>
         </para>
       </para>
       <para>
@@ -202,12 +202,12 @@
         </para>
         <para>
           <num>(iii)</num>
-          <text>Remaining; and</text>
+          <text>Remaining.</text>
         </para>
       </para>
-      <para>
+      <para placeholder="Repealed">
         <num>(C)</num>
-        <text>The projected date funds will be exhausted based on application and payment trends.</text>
+        <text>Repealed.</text>
       </para>
     </para>
     <para>
@@ -221,13 +221,25 @@
         <text>The Mayor shall not pass costs incurred or administrative obligations required pursuant to paragraph (1) of this subsection on to community-based organizations that support the disbursal of Emergency Rental Assistance funds; except, that the Mayor may request the cooperation of community-based organizations to provide accurate reporting.</text>
       </para>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(3)</num>
-      <text>The Mayor shall provide one month of public notice before the anticipated closing date of the application portal for Emergency Rental Assistance funds.</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>When the application portal for Emergency Rental Assistance funds closes due to projected funding exhaustion, the Mayor shall report quarterly to the Council the number of inquiries or requests related to emergency rental assistance received through any means by the Department of Human Services.</text>
+      <text>When funds for emergency rental assistance are exhausted for the fiscal year, the Mayor shall report quarterly to the Council the number of inquiries or requests related to emergency rental assistance received through any means by the Department of Human Services.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Within 30 days of September 18, 2024, the Department shall transmit recommendations to the Council for amendments to this section that:</text>
+      <para>
+        <num>(A)</num>
+        <text>Provide for equitable access for emergency rental assistance funds for residents experiencing emergencies, including residents without access to technology; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Protect the program from any potential waste, fraud, or abuse.</text>
+      </para>
     </para>
   </para>
   <para>
@@ -269,5 +281,14 @@
     <annotation app="2023-03-10" doc="D.C. Law 24-230" eff="2022-12-21" path="§2|(b)" type="History" display="false"/>
     <annotation app="2023-03-10" doc="D.C. Law 24-287" eff="2023-03-10" path="§101|(b)" prefix="as added" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2122" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§2042" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§2042">§ 2042 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§2042" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2042|(a)|(2)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2042|(a)|(3)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2042|(a)|(4)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2042|(a)|(1)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2042|(b)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2042|(c)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2042|(d)" type="History"/>
   </annotations>
 </section>

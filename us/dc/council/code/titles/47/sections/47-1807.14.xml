@@ -8,14 +8,58 @@
     <text>For the purposes of this section, the term:</text>
     <para>
       <num>(1)</num>
-      <text>"Qualified corporation" means a corporation that:</text>
+      <text>"Base year" means the calendar year beginning January 1, 2024, or the calendar year beginning one calendar year before the calendar year in which the new dollar amount of a maximum credit amount or income threshold amount shall become effective, whichever is later.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Consumer Price Index" means the average of the Consumer Price Index for All Urban Consumers for the Washington-Arlington-Alexandria, DC-MD-VA-WV Metropolitan Statistical Area (or such successor metropolitan statistical area that includes the District), or any successor index, as of the close of the 12-month period ending on July 31 of such calendar year.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Cost-of-living adjustment" means an amount, for any calendar year, equal to the dollar amount set forth in this section multiplied by the difference between the Consumer Price Index for the preceding calendar year and the Consumer Price Index for the base year, divided by the Consumer Price Index for the base year.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"Income threshold amount" means:</text>
       <para>
         <num>(A)</num>
-        <text>Is engaged in the business of making sales at retail and files a sales tax return pursuant to <cite path="47|20">Chapter 20 of this title</cite> reflecting those sales;</text>
+        <text>For tax years beginning after December 31, 2017, and before January 1, 2024, $2,500,000;</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>Has less than $2,500,000 in federal gross receipts or sales; and</text>
+        <text>For the tax year ending December 31, 2024, $3,000,000; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>For tax years beginning after December 31, 2024, $3,000,000, increased annually pursuant to the cost-of-living adjustment (if the adjustment does not result in a multiple of $1,000, rounded down to the next multiple of $1,000).</text>
+      </para>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"Maximum credit amount" means:</text>
+      <para>
+        <num>(A)</num>
+        <text>For tax years beginning after December 31, 2017, and before January 1, 2024, $5,000;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>For the tax year ending December 31, 2024, $10,000; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>For tax years beginning after December 31, 2024, $10,000, increased annually pursuant to the cost-of-living adjustment (if the adjustment does not result in a multiple of $100, rounded down to the next multiple of $100).</text>
+      </para>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>"Qualified corporation" means a corporation that:</text>
+      <para>
+        <num>(A)</num>
+        <text>Is engaged in the business of making sales at retail and files a sales tax return pursuant to <cite path="47|20">[Chapter 20 of this title]</cite> reflecting those sales;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Has federal gross receipts or sales less than the threshold amount for the taxable year; and</text>
       </para>
       <para>
         <num>(C)</num>
@@ -23,7 +67,23 @@
       </para>
     </para>
     <para>
-      <num>(2)</num>
+      <num>(7)</num>
+      <text>"Qualified retail owned location" means a building or part of a building in the District that during the taxable year is:</text>
+      <para>
+        <num>(A)</num>
+        <text>The primary place of the retail business of the qualified corporation;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Owned by the qualified corporation; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Classified, in whole or in part, as Class 2 Property, as defined in <cite path="§47-813">§ 47-813</cite>, and has obtained a Certificate of Occupancy for commercial use.</text>
+      </para>
+    </para>
+    <para>
+      <num>(8)</num>
       <text>"Qualified retail rental location" means a building or part of a building in the District that during the taxable year is:</text>
       <para>
         <num>(A)</num>
@@ -39,23 +99,7 @@
       </para>
       <para>
         <num>(D)</num>
-        <text>Classified, in whole or in part, as Class 2 Property, as defined in <cite path="§47-813">§ 47-813</cite> and has obtained a Certificate of Occupancy for commercial use.</text>
-      </para>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>"Qualified retail owned location" means a building or part of a building in the District that during the taxable year is:</text>
-      <para>
-        <num>(A)</num>
-        <text>The primary place of the retail business of the qualified corporation;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Owned by the qualified corporation; and</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>Classified, in whole or in part, as Class 2 Property, as defined in <cite path="§47-813">§ 47-813</cite> and has obtained a Certificate of Occupancy for commercial use.</text>
+        <text>Classified, in whole or in part, as Class 2 Property, as defined in <cite path="§47-813">[§ 47-813]</cite>, and has obtained a Certificate of Occupancy for commercial use.</text>
       </para>
     </para>
   </para>
@@ -64,11 +108,11 @@
     <text>For taxable years beginning after December 31, 2017, a qualified corporation may claim a credit against the tax imposed by <cite path="47|18">this chapter</cite> as follows:</text>
     <para>
       <num>(1)</num>
-      <text>A tax credit equal to 10% of the total rent paid by the corporation for a qualified rental retail location during the taxable year not to exceed $5,000; or</text>
+      <text>A tax credit equal to 10% of the total rent paid by the qualified corporation for a qualified rental retail location during the taxable year not to exceed the lesser of the total rent paid or the maximum credit amount; or</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>A tax credit equal to the total Class 2 real property taxes, pursuant to <cite path="§47-811">§ 47-811</cite>, paid by the qualified corporation for a qualified retail owned location during the taxable year not to exceed the lesser of the real property tax paid during the taxable year or $5,000.</text>
+      <text>A tax credit equal to the total Class 2 real property taxes, pursuant to <cite path="§47-811">§ 47-811</cite>, paid by the qualified corporation for a qualified retail owned location during the taxable year not to exceed the lesser of the real property tax paid during the taxable year or the maximum credit amount.</text>
     </para>
   </para>
   <para>
@@ -105,5 +149,8 @@
     <annotation doc="D.C. Law 22-234" path="§5|(a)" type="Applicability" history="false" display-template="" app="2019-02-22" eff="2019-02-22"><cite doc="D.C. Law 22-234" path="§6">Section 6 of D.C. Law 22-234</cite> provided that the amendments made to this section by <cite doc="D.C. Law 22-234">D.C. Law 22-234</cite> shall apply as of October 1, 2018.
     </annotation>
     <annotation app="2019-02-22" doc="D.C. Law 22-234" eff="2019-02-22" path="§5|(a)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7222|(a)|(1)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7222|(a)|(2)|(A)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7222|(a)|(2)|(B)" type="History"/>
   </annotations>
 </section>

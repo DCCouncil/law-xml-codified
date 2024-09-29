@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>36-621.07</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 13, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§36-621.07(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Duties of an operator.</heading>
   <para>
     <num>(a)</num>
@@ -65,7 +62,7 @@
     </para>
     <para>
       <num>(6A)</num>
-      <text>In the case mobile or online sports wagering, ensure that sports wagering occurs only through an Office-approved mobile or online application in locations where the Class A or Class C operator is licensed to offer sports wagering and in accordance with this title and regulations issued by the Office pursuant to this title.</text>
+      <text>In the case mobile or online sports wagering, ensure that sports wagering occurs only through an Office-approved mobile or online application in locations where the Class A or Class C operator is licensed to offer sports wagering and in accordance with <cite path="36|6|II">this subchapter</cite> and regulations issued by the Office pursuant to <cite path="36|6|II">this subchapter</cite>.</text>
     </para>
     <para>
       <num>(7)</num>
@@ -199,10 +196,10 @@
         </annotation>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7177" type="History" display="false"/>
     <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§6|(a)" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7172|(e)" type="History" display="false"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7172|(e)|(1)" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7172|(e)|(2)|(A)" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7172|(e)|(2)|(B)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7172|(e)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7172|(e)">§ 7172(e) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7172|(e)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7172|(e)|(1)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7172|(e)|(2)|(A)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7172|(e)|(2)|(B)" type="History"/>
   </annotations>
 </section>

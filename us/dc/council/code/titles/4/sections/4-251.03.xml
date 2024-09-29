@@ -39,7 +39,7 @@
     </para>
     <para>
       <num>(5)</num>
-      <text>The grandparent's annual household income (excluding Supplemental Security Income) is under 200% of the federally defined poverty level;</text>
+      <text>The grandparent's annual household income (excluding Supplemental Security Income) is under 300% of the federally defined poverty level;</text>
     </para>
     <para>
       <num>(6)</num>
@@ -132,6 +132,10 @@
     <num>(h)</num>
     <text>The Mayor shall process an application for a subsidy with reasonable promptness. An applicant whose application has been approved shall receive the first subsidy payment within 45 days of being deemed eligible, unless a delay is caused by unusual circumstances beyond the Mayor's control.</text>
   </para>
+  <para>
+    <num>(i)</num>
+    <text>For purposes of determining eligibility and the amount of subsidy payments that a grandparent is eligible to receive under <cite path="4|2A|I">this subchapter</cite>, the Mayor shall exclude from consideration, for a period of not more than 60 months, any financial assistance received by the applicant from a benefits program, including from the Supplemental Nutrition Assistance Program and the Temporary Assistance for Needy Families program, or a research project that has developed a plan to study and evaluate the impact and potential benefits of direct cash transfers.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 16-69" type="History" path="§103">Mar. 8, 2006, D.C. Law 16-69, § 103, 53 DCR 54</annotation>
     <annotation doc="D.C. Law 17-21" type="History">Sept. 20, 2007, D.C. Law 17-21, § 3(a), 54 DCR 6835</annotation>
@@ -154,5 +158,9 @@
     <annotation app="2023-03-10" doc="D.C. Law 24-309" eff="2023-03-10" path="§3|(b)|(2)" type="History"/>
     <annotation app="2023-03-10" doc="D.C. Law 24-309" eff="2023-03-10" path="§3|(b)|(3)" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§5022|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§5052|(a)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§5052|(a)">§ 5052(a) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§5052|(a)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§5052|(a)|(1)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§5052|(a)|(2)" type="History"/>
   </annotations>
 </section>

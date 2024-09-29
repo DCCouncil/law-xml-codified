@@ -892,14 +892,14 @@
       <para>
         <num>(1)</num>
         <text>The existing text is designated as paragraph (1).</text>
-        <codify:redesignate-para num-value="(1)" codified:doc="D.C. Code" codified:path="§50-2201.04|(a)"/>
+        <codify:redesignate-para num-value="(1)" codified:doc="D.C. Code" codified:path="§50-2201.04"/>
       </para>
       <para>
         <num>(2)</num>
         <text>A new paragraph (2) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§50-2201.04|(a)|(2)"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§50-2201.04"/>
             <num>(2)</num>
             <text>The speed limit on a street classified by the District Department of Transportation as local or collector shall be 20 miles per hour or less.</text>
           </para>
@@ -1149,7 +1149,10 @@
       <codify:applicability doc="D.C. Law 23-158" path="§7|(c)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-1951.05"/>
       <codify:applicability doc="D.C. Law 23-158" path="§7|(d)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-1951.06"/>
       <codify:applicability doc="D.C. Law 23-158" path="§7|(e)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2381"/>
-      <codify:applicability doc="D.C. Law 23-158" path="§8" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-1401.01|(a)|(1)|(B)|(i)"/>
+      <codify:applicability doc="D.C. Law 23-158" path="§8|(a)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-1401.01|(a)|(1)|(B)|(i)"/>
+      <codify:applicability doc="D.C. Law 23-158" path="§8|(b)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-1401.01d"/>
+      <codify:applicability doc="D.C. Law 23-158" path="§8|(d)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.04e"/>
+      <codify:applicability doc="D.C. Law 23-158" path="§8|(e)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.05a|(b-2)"/>
       <codify:applicability doc="D.C. Law 23-158" path="§9" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2209.02|(b)"/>
       <codify:applicability doc="D.C. Law 23-158" path="§12" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2651|(a-1)"/>
     </para>

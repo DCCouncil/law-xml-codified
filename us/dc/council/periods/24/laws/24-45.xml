@@ -5230,7 +5230,7 @@
           <para codify:path="(b)|(1)|(A)">
             <num>(2)</num>
             <text>Subsection (b)(1)(A) is amended by striking the phrase "at least 80% of the per dollar sale" and inserting the phrase "an amount that exceeds the lesser of $0.70 per $1.00 in District of Columbia low-income housing tax credit or 80% of the per dollar sale" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-4803|(b)|(1)|(A)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-4803|(b)|(1)">
               <find>at least 80% of the per dollar sale</find>
               <replace>an amount that exceeds the lesser of $0.70 per $1.00 in District of Columbia low-income housing tax credit or 80% of the per dollar sale</replace>
             </codify:find-replace>
@@ -16890,7 +16890,7 @@
           <para>
             <num>(1)</num>
             <text>Strike the phrase "local funds transfer" and insert the phrase "transfer of local or dedicated funds" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-392.02|(f)|(2)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-392.02|(f)">
               <find>local funds transfer</find>
               <replace>transfer of local or dedicated funds</replace>
             </codify:find-replace>
@@ -16898,7 +16898,7 @@
           <para>
             <num>(2)</num>
             <text>Strike the phrase "Fiscal Year 2020" and insert the phrase "Fiscal Year 2020 ("minimum transfer amount"); except, that in Fiscal Year 2025, the minimum transfer amount shall be $206 million" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-392.02|(f)|(2)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-392.02|(f)">
               <find>Fiscal Year 2020</find>
               <replace>Fiscal Year 2020 ("minimum transfer amount"); except, that in Fiscal Year 2025, the minimum transfer amount shall be $206 million</replace>
             </codify:find-replace>
@@ -16907,7 +16907,7 @@
         <para codify:path="(3)">
           <num>(c)</num>
           <text>Paragraph (3) is amended by striking the phrase "minimum local funds transfer" both times it appears and inserting the phrase "minimum transfer amount" in its place.</text>
-          <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§47-392.02|(f)|(3)">
+          <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§47-392.02|(f)">
             <find>minimum local funds transfer</find>
             <replace>minimum transfer amount</replace>
           </codify:find-replace>

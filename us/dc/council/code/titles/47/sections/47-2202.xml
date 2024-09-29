@@ -4,7 +4,7 @@
   <heading>Imposition of tax.</heading>
   <para>
     <num>(a)</num>
-    <text>There is hereby imposed and there shall be paid by every vendor engaging in business in the District and by every purchaser a tax on the use, storage, or consumption of any tangible personal property and service sold or purchased at retail sale. The rate of tax imposed by this section shall be 6.00% of the sales price of such tangible personal property and services, except that:</text>
+    <text>There is hereby imposed and there shall be paid by every vendor engaging in business in the District and by every purchaser a tax on the use, storage, or consumption of any tangible personal property and service sold or purchased at retail sale. The rate of tax imposed by this section on the sales price of such tangible personal property and services shall be 6.0% before October 1, 2025, 6.5% beginning on October 1, 2025, and 7.0% beginning on October 1, 2026, and continuing thereafter; except, that:</text>
     <para>
       <num>(1)</num>
       <text>The rate of tax shall be 12% of the gross receipt from the sale of or charges for the service of parking or storing of motor vehicles or trailers, except the service of parking or storing of motor vehicles or trailers on a parking lot owned or operated by the Washington Metropolitan Area Transit Authority and located adjacent to a Washington Metropolitan Area Transit Authority passenger stop or station;</text>
@@ -65,19 +65,47 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>For fiscal years beginning after September 30, 2023, and ending before October 1, 2027, there shall be dedicated to the Arts and Humanities Fund, from the use tax revenue collected at the rate provided by the lead-in language of subsection (a) of this section, the lesser of:</text>
+      <text>For fiscal years beginning after September 30, 2023, there shall be dedicated to the Arts and Humanities Fund from the sales tax revenue collected at the rate provided by the lead-in language of subsection (a) of this section, the following amounts:</text>
       <para>
         <num>(A)</num>
-        <text>5% of the use tax revenue collected at the rate provided by the lead-in language of subsection (a) of this section that is not dedicated to legislatively proposed or existing tax increment financing districts or pledged to the benefit of holders of District bonds or notes existing on or before October 30, 2018; or</text>
+        <text>In Fiscal Year 2024 and Fiscal Year 2025, the lesser of:</text>
+        <para>
+          <num>(i)</num>
+          <text>5% of the sales tax revenue collected at the rate provided by the lead-in language of subsection (a) of this section that is not dedicated to legislatively proposed or existing tax increment financing districts or pledged to the benefit of holders of District bonds or notes existing on or before October 30, 2018; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>An amount equal to 102% of the amount dedicated to the Arts and Humanities Fund in the prior fiscal year pursuant to this subsection.</text>
+        </para>
       </para>
       <para>
         <num>(B)</num>
-        <text>An amount equal to 102% of the amount dedicated to the Arts and Humanities Fund in the prior fiscal year pursuant to this subsection.</text>
+        <text>In Fiscal Year 2026, the lesser of:</text>
+        <para>
+          <num>(i)</num>
+          <text>4.615% of the sales tax revenue collected at the rate provided by the lead-in language of subsection (a) of this section that is not dedicated to legislatively proposed or existing tax increment financing districts or pledged to the benefit of holders of District bonds or notes existing on or before October 30, 2018; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>An amount equal to 102% of the amount dedicated to the Arts and Humanities Fund in the prior fiscal year pursuant to this subsection; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>In Fiscal Year 2027 and each subsequent fiscal year, the lesser of:</text>
+        <para>
+          <num>(i)</num>
+          <text>4.286% of the sales tax revenue collected at the rate provided by the lead-in language of subsection (a) of this section that is not dedicated to legislatively proposed or existing tax increment financing districts or pledged to the benefit of holders of District bonds or notes existing on or before October 30, 2018; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>An amount equal to 102% of the amount dedicated to the Arts and Humanities Fund in the prior fiscal year pursuant to this subsection.</text>
+        </para>
       </para>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(3)</num>
-      <text>For fiscal years beginning after September 30, 2027, 5% of the use tax revenue collected at the rate provided by the lead-in language of subsection (a) of this section that is not dedicated to legislatively proposed or existing tax increment financing districts or pledged to the benefit of holders of District bonds or notes existing on or before October 30, 2018, shall be dedicated to the Arts and Humanities Fund.</text>
+      <text>[Repealed].</text>
     </para>
   </para>
   <annotations>
@@ -175,5 +203,10 @@
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7024|(b)|(2)" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7024|(b)|(1)" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7024|(b)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7052|(b)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7052|(b)">§ 7052(b) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7052|(b)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7052|(b)|(1)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7052|(b)|(2)|(A)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7052|(b)|(2)|(B)" type="History"/>
   </annotations>
 </section>
