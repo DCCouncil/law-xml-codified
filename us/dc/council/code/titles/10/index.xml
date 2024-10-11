@@ -240,9 +240,6 @@
       <num>IV</num>
       <heading>Control of District Buildings.</heading>
       <xi:include href="./sections/10-507.01.xml"/>
-      <xi:include href="./sections/10-507.02.xml"/>
-      <xi:include href="./sections/10-507.03.xml"/>
-      <xi:include href="./sections/10-507.04.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -928,5 +925,14 @@
     <xi:include href="./sections/10-1904.xml"/>
     <xi:include href="./sections/10-1905.xml"/>
     <xi:include href="./sections/10-1906.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>20</num>
+    <heading>Use of District Buildings.</heading>
+    <annotation app="2010-03-03" doc="D.C. Law 18-111" eff="2010-03-03" path="" type="History" display="false"/>
+    <xi:include href="./sections/10-2001.xml"/>
+    <xi:include href="./sections/10-2002.xml"/>
+    <xi:include href="./sections/10-2003.xml"/>
   </container>
 </container>
