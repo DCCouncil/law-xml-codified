@@ -1,128 +1,54 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <prefix>§</prefix>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>16-805</num>
   <text>
               *NOTE: Amendment made to this section by section 7088(b) of D.C. Law 25-50 is applicable January 1, 2026.*
                 </text>
-  <heading proof="needed">Automatic sealing of criminal records.</heading>
+  <heading>Review by Court.</heading>
   <para>
     <num>(a)</num>
-    <text>Except as otherwise provided in this chapter and in subsection (b) of this section, the Court shall order automatic sealing of all criminal records and court proceedings related to:</text>
-    <para>
-      <num>(1)</num>
-      <text>Citations, arrests, or charges for the commission of a criminal offense; provided, that the case was terminated by the prosecutor or otherwise reached a final disposition and did not result in a conviction or acquittal pursuant to § 24-501; and</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Citations, arrests, charges, and convictions for the commission of a misdemeanor offense that resulted in a conviction; provided, that a waiting period of at least 10 years has elapsed since completion of the sentence.</text>
-    </para>
+    <text>If it plainly appears from the face of the motion, any accompanying exhibits, affidavits, and documents, and the record of any prior proceedings in the case, that the movant is not eligible for relief or is not entitled to relief, the Court may dismiss or deny the motion.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>The Court shall not order automatic sealing pursuant to this section if the citation, arrest, charge, or conviction is for:</text>
-    <para>
-      <num>(1)</num>
-      <text>An intrafamily offense, as defined in § 16-1001(8);</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Parental kidnapping, as described in § 16-1022;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Criminal abuse of a vulnerable adult or elderly person, as described in § 22-933;</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>Financial exploitation of a vulnerable adult or elderly person, as described in § 22-933.01;</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>Refusal or neglect of a guardian to provide for child under 14 years of age, as described in § 22-1102;</text>
-    </para>
-    <para>
-      <num>(6)</num>
-      <text>Incest, as defined in § 22-1901;</text>
-    </para>
-    <para>
-      <num>(7)</num>
-      <text>Misdemeanor sexual abuse, as defined in § 22-3006;</text>
-    </para>
-    <para>
-      <num>(8)</num>
-      <text>Violation of Chapter 30A of Title 22;</text>
-    </para>
-    <para>
-      <num>(9)</num>
-      <text>Violation of Chapter 31 of Title 22;</text>
-    </para>
-    <para>
-      <num>(10)</num>
-      <text>Violation of Chapter 31A of Title 22;</text>
-    </para>
-    <para>
-      <num>(11)</num>
-      <text>An offense for which sex offender registration is required pursuant to Chapter 40 of Title 22, and the registration period has not expired;</text>
-    </para>
-    <para>
-      <num>(12)</num>
-      <text>Violation of Chapter 40 of Title 22, as described in § 22-4015;</text>
-    </para>
-    <para>
-      <num>(13)</num>
-      <text>A dangerous crime, as defined in § 23-1331(3);</text>
-    </para>
-    <para>
-      <num>(14)</num>
-      <text>A crime of violence, as defined in § 23-1331(4);</text>
-    </para>
-    <para>
-      <num>(15)</num>
-      <text>Driving under the influence (known as DUI) of alcohol or a drug, as described in § 50-2206.11;</text>
-    </para>
-    <para>
-      <num>(16)</num>
-      <text>Driving under the influence of alcohol or a drug; commercial vehicle, as described in § 50-2206.12; or</text>
-    </para>
-    <para>
-      <num>(17)</num>
-      <text>Operating a vehicle while impaired, as described in § 50-2206.14.</text>
-    </para>
+    <text>If the motion is not dismissed or denied after initial review, the Court shall order the prosecutor to file a response to the motion. The prosecutor shall file the response within 60 days of the issuance of the order except where the arrest was not presented to the prosecutor for a charging decision, in which case the prosecutor shall file the response within 90 days of the issuance of the order.</text>
   </para>
   <para>
     <num>(c)</num>
-    <text>Criminal records and court proceedings:</text>
-    <para>
-      <num>(1)</num>
-      <text>Related to citations, arrests, and charges sealed pursuant to subsection (a)(1) of this section:</text>
-      <para>
-        <num>(A)</num>
-        <text>For which the case was terminated by the prosecutor or otherwise reached a final disposition and did not result in a conviction or acquittal pursuant to <cite path="§24-501">§ 24-501</cite> prior to [March 10, 2023], shall be sealed by October 1, 2027, or within 90 days after termination of the case by the prosecutor or final disposition, whichever is later; and</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>For which the case was terminated by the prosecutor or otherwise reached a final disposition and did not result in a conviction or acquittal pursuant to § 24-501 on or after the effective date of the Second Chance Amendment Act of 2022, on 2nd reading on December 20, 2022 (Enrolled version of Bill 24-63), shall be sealed within 90 days after termination of the case by the prosecutor or final disposition, whichever is later; and</text>
-      </para>
-    </para>
-    <para codify:path="(2)">
-      <num>(2)</num>
-      <text>Related to citations, arrests, charges, and convictions sealed pursuant to subsection (a)(2) of this section shall be sealed by October 1, 2027, or within 90 days after the expiration of the waiting period, whichever is later.</text>
-    </para>
+    <text>Upon the filing of the prosecutor’s response, the Court shall determine whether a hearing is required.</text>
   </para>
-  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§16-805" codified:display="Note" codified:doc="D.C. Code" codified:path="§16-805">Applicability of <cite doc="D.C. Law 24-284" path="">D.C. Law 24-284</cite>: <cite doc="D.C. Law 24-284" path="§301">§ 301 of D.C. Law 24-284</cite> provided that the change made to this section by <cite doc="D.C. Law 24-284" path="§101|(b)">§ 101(b) of D.C. Law 24-284</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <para>
+    <num>(d)</num>
+    <text>If the Court determines that a hearing is required, the hearing shall be scheduled within 30 days of the prosecutor’s response. If the Court determines that a hearing is not required, the Court shall dismiss, grant, or deny the motion within 30 days of the prosecutor’s response.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>At the hearing, the movant and the prosecutor may present witnesses and information by proffer or otherwise. Hearsay evidence shall be admissible.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>An order dismissing, granting, or denying the motion shall be in writing and include reasons.</text>
+  </para>
+  <para>
+    <num>(g)</num>
+    <text>The Court shall not be required to entertain a second or successive motion for similar relief on behalf of the same movant regarding the same offenses, arrests, or convictions unless the previous motion was dismissed or denied without prejudice.</text>
+  </para>
+  <para>
+    <num>(h)</num>
+    <text>An order dismissing, granting, or denying a motion for sealing is a final order for purposes of appeal.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 16-307" type="History">May 5, 2007, D.C. Law 16-307, § 2(b), 54 DCR 868</annotation>
     <annotation doc="D.C. Law 20-186" type="History">Mar. 10, 2015, D.C. Law 20-186, § 2(c), 61 DCR 12108</annotation>
     <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-186">D.C. Law 20-186</cite> rewrote (d).</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§16-804">§ 16-804</cite>.</annotation>
-    <annotation app="2023-03-10" doc="D.C. Law 24-284" eff="2023-03-10" path="§101|(b)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-284" path="§101|(b)" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-284" path="">D.C. Law 24-284</cite>: <cite doc="D.C. Law 24-284" path="§301">§ 301 of D.C. Law 24-284</cite> provided that the change made to this section by <cite doc="D.C. Law 24-284" path="§101|(b)">§ 101(b) of D.C. Law 24-284</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="notfunded" doc="D.C. Law 24-284" eff="2023-03-10" path="§301|(a)" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-284" eff="2023-03-10" path="§101|(b)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-284" eff="2023-03-10" path="§101|(b)" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7088|(b)|(2)|(A)" type="History" display="false"/>
     <annotation doc="D.C. Law 25-50" path="§7088|(a)" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7088">Section 7088 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-284" path="§301">section 301 of D.C. Law 24-284</cite> changing the applicability provision impacting this section to January 1, 2026.  Therefore the amendment of this section by section 101(b) of Law 24-284 will be implemented on January 1, 2026.</annotation>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7088|(a)" type="History" display="false"/>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§40|(a)|(2)|(A)" type="History"/>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§40|(a)|(2)|(B)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 25-175" path="§40|(a)|(2)" codified:display="Note" app="2024-06-08" eff="2024-06-08">Applicability of <cite doc="D.C. Law 25-175" path="">D.C. Law 25-175</cite>: <cite doc="D.C. Law 25-175" path="§45">§ 45 of D.C. Law 25-175</cite> provided that the amendment of this section by <cite doc="D.C. Law 25-175" path="§40|(a)|(2)">§ 40(a)(2) of D.C. Law 25-175</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§40|(a)|(2)" type="History"/>
     <annotation doc="D.C. Law 25-175" path="§40|(b)" type="Applicability" history="false" app="2024-06-08" eff="2024-06-08"><cite doc="D.C.Law 25-175" path="§40|(b)">Section 40(b) of D.C. Law 25-175</cite> amended <cite doc="D.C. Law 24-284" path="§301">section 301 of D.C. Law 24-284</cite> changing the applicability provision impacting this section to October 1, 2024.  Therefore the amendment of this section by section 101(b) of Law 24-284 will be implemented on October 1, 2024.</annotation>
@@ -131,7 +57,7 @@
     <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7290|(a)" type="History" display="false"/>
     <annotation doc="D.C. Act 25-506" path="§7290|(a)" type="Applicability" history="false" app="2024-07-15" eff="2024-07-15"><cite doc="D.C. Act 25-506" path="§7290|(a)">Section 7290(a) of D.C. Act 25-506</cite> amended <cite doc="D.C. Law 25-175" path="§40|(b)">section 40(b) of D.C. Law 25-175</cite> changing the applicability date of <cite doc="D.C. Law 25-175" path="§40">section 40 of D.C. Law 25-175</cite> to March 1, 2025. Therefore the amendment of this section by section 40 of Law 25-175 has not been implemented.
         </annotation>
-    <annotation doc="D.C. Law 25-217" path="§7290|(a)" type="Applicability" history="false" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-218" path="§7290|(a)">Section 7290(a) of D.C. Law 25-218</cite> amended <cite doc="D.C. Law 25-175" path="§40|(b)">section 40(b) of D.C. Law 25-175</cite> changing the applicability date of <cite doc="D.C. Law 25-175" path="§40">section 40 of D.C. Law 25-175</cite> to March 1, 2025. Therefore the amendment of this section by section 40 of Law 25-175 has not been implemented.
+    <annotation doc="D.C. Law 25-217" path="§7290|(a)" type="Applicability" history="false" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-217" path="§7290">Section 7290(a) of D.C. Law 25-217</cite> amended <cite doc="D.C. Law 25-175" path="§40|(b)">section 40(b) of D.C. Law 25-175</cite>, amending <cite doc="D.C. Law 24-284" path="§301"> section 301 of D.C. Law 24-284</cite> making the amendment of this section by section 101(b) of D.C. Law 24-284 applicable as of October 1, 2025.
         </annotation>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7290|(a)" type="History" display="false"/>
   </annotations>

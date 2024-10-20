@@ -1,20 +1,133 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>22-4237</num>
   <heading proof="needed">Prearrest Diversion Task Force.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>There is established a Prearrest Diversion Task Force ("Task Force") within the Criminal Justice Coordinating Council.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The Task Force shall consist of the following members and organizations, or their designees:</text>
+    <para>
+      <num>(1)</num>
+      <text>The Deputy Mayor for Public Safety and Justice;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Deputy Mayor for Health and Human Services;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The Chief of Police of the Metropolitan Police Department;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The Director of the Department of Behavioral Health;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The Attorney General for the District of Columbia;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The chairperson of the Council committee with jurisdiction over judiciary and public safety matters;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>The Executive Director of the Criminal Justice Coordinating Council;</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>One representative from a community organization with expertise in mental or behavioral health issues, appointed by the Chairperson of the Task Force;</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>One representative from a community organization with expertise in substance use disorder issues, appointed by the Chairperson of the Task Force; and</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>One representative from a community organization with expertise in housing issues, appointed by the Chairperson of the Task Force.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>The members of the Task Force shall select a Chairperson of the Task Force.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>In addition to the members described in subsection (b) of this section, the Chairperson of the Task Force shall invite the following individuals, or their designees, to participate as members of the Task Force:</text>
+    <para>
+      <num>(1)</num>
+      <text>The United States Attorney for the District of Columbia;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Director of the Pretrial Services Agency for the District of Columbia;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The Director of the Court Services and Offender Supervision Agency for the District of Columbia; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The Director of the Superior Court of the District of Columbia's Family Court Social Services Division.</text>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>As needed, the Task Force may establish subcommittees of its members.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>The duties of the Task Force shall include:</text>
+    <para>
+      <num>(1)</num>
+      <text>Reviewing and assessing best practices for prearrest diversion;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Making recommendations for prearrest diversion of certain misdemeanor offenses, and certain categories of persons;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Making recommendations regarding the programs, facilities, personnel, and funding that are necessary to implement prearrest diversion;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Making recommendations for any legislative changes that are necessary to enable prearrest diversion;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Implementing prearrest diversion of certain misdemeanor offenses, and categories of persons identified by the Task Force as being appropriate for diversion;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Identifying any potential improvements in police training or procedures relating to police interactions with individuals impacted by homelessness, mental or behavioral health issues, or substance abuse; and</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Identifying individuals who frequently interact with police, are frequent mental health consumers, or have suffered from chronic homelessness, and ensure that those individuals are connected to social services.</text>
+    </para>
+  </para>
+  <para>
+    <num>(g)</num>
+    <text>Within 3 months after the [when applicable], the Task Force shall convene for an initial meeting. Following that initial meeting, the Task Force shall meet on, at least, a monthly basis, until it issues its initial recommendations as required under subsection (h) of this section. Thereafter, the Task Force shall continue to meet at a frequency as determined by the Chairperson of the Task Force.</text>
+  </para>
+  <para>
+    <num>(h)</num>
+    <text>Within one year after the [when applicable], the Task Force shall issue initial recommendations for prearrest diversion of certain misdemeanor offenses and categories of persons identified pursuant to subsection (f)(5) of this section.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 14-28" type="History" path="§1507">Oct. 3, 2001, D.C. Law 14-28, § 1507 [1506b]</annotation>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§28|(c)" prefix="as added" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§28|(c)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 25-175" path="§28|(c)" codified:display="Note" app="2024-06-08" eff="2024-06-08">Applicability of <cite doc="D.C. Law 25-175" path="">D.C. Law 25-175</cite>: <cite doc="D.C. Law 25-175" path="§45">§ 45 of D.C. Law 25-175</cite> provided that the creation of this section by <cite doc="D.C. Law 25-175" path="§28|(c)">§ 28(c) of D.C. Law 25-175</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§28|(c)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7290|(b)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7290|(b)">§ 7290(b) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
     <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7290|(b)" type="History" display="false"/>
     <annotation doc="D.C. Act 25-506" path="§7290|(b)" type="Applicability" history="false" app="2024-07-15" eff="2024-07-15"><cite doc="D.C. Act 25-506" path="§7290|(b)">Section 7290(b) of D.C. Act 25-506</cite> amended <cite doc="D.C. Law 25-175" path="§45|(a)|(1)">section 45(a)(1) of D.C. Law 25-175</cite> removing the applicability provision impacting this section. Therefore the amendment of this section by section 28(c) of Law 25-175 has been implemented.
         </annotation>
-    <annotation doc="D.C. Law 25-217" path="§7290|(b)" type="Applicability" history="false" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-218" path="§7290|(b)">Section 7290(b) of Law 25-218</cite> amended <cite doc="D.C. Law 25-175" path="§45|(a)|(1)">section 45(a)(1) of D.C. Law 25-175</cite> removing the applicability provision impacting this section. Therefore the amendment of this section by section 28(c) of Law 25-175 has been implemented.
+    <annotation doc="D.C. Law 25-217" path="§7290|(b)" type="Applicability" history="false" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-217" path="§7290|(b)">Section 7290(b) of Law 25-217</cite> amended <cite doc="D.C. Law 25-175" path="§45|(a)|(1)">section 45(a)(1) of D.C. Law 25-175</cite> removing the applicability provision impacting this section. Therefore the amendment of this section by section 28(c) of Law 25-175 has been implemented.
         </annotation>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7290|(b)" type="History" display="false"/>
   </annotations>

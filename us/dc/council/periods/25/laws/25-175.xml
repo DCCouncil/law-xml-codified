@@ -1527,11 +1527,11 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>After <span codify:value="[when applicable]">the applicability date of section 17 of the Secure DC Omnibus Amendment Act of 2024, passed on 2nd reading on March 5, 2024 (Enrolled version of Bill 25-345)</span>, a security camera system installed on the interior of a building owned or leased by a business that has less than $2.5 million federal gross receipts or sales; or</text>
+              <text>After <span codify:value="October 1, 2025">the applicability date of section 17 of the Secure DC Omnibus Amendment Act of 2024, passed on 2nd reading on March 5, 2024 (Enrolled version of Bill 25-345)</span>, a security camera system installed on the interior of a building owned or leased by a business that has less than $2.5 million federal gross receipts or sales; or</text>
             </para>
             <para>
               <num>(C)</num>
-              <text>After <span codify:value="[when applicable]">the applicability date of section 17 of the Secure DC Omnibus Amendment Act of 2024, passed on 2nd reading on March 5, 2024 (Enrolled version of Bill 25-345)</span>, glass break sensors installed on the interior of the building owned or leased by a business that has less than $2.5 million federal gross receipts or sales;</text>
+              <text>After <span codify:value="October 1, 2025">the applicability date of section 17 of the Secure DC Omnibus Amendment Act of 2024, passed on 2nd reading on March 5, 2024 (Enrolled version of Bill 25-345)</span>, glass break sensors installed on the interior of the building owned or leased by a business that has less than $2.5 million federal gross receipts or sales;</text>
             </para>
           </para>
         </include>
@@ -1573,12 +1573,12 @@
     </para>
     <para codify:path="(d)|(1)">
       <num>(d)</num>
-      <text>Subsection (d)(1) is amended by striking the phrase "under the District of Columbia Public Assistance Act of 1982, effective April 6, 1982 (D.C. Law 4-101; D.C. Official Code § 4-201.01 <em>et seq.</em>)" and inserting the phrase "under the District of Columbia Public Assistance Act of 1982, effective April 6, 1982 (D.C. Law 4-101; D.C. Official Code § 4-201.01 <em>et seq.</em>), or receipt of benefits under the Supplemental Nutrition Assistance Program" in its place.</text>
+      <text>Subsection (d)(1) is amended by striking the phrase "under the District of Columbia Public Assistance Act of 1982, effective April 6, 1982 (D.C. Law 4-101; D.C. Official Code § 4-201.01 <em>et seq.</em>)" and inserting the phrase "under the District of Columbia Public Assistance Act of 1982, effective April 6, 1982 (D.C. Law 4-101; D.C. Official Code § 4-201.01 <em>et seq.)</em>, or receipt of benefits under the Supplemental Nutrition Assistance Program" in its place.</text>
       <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2831|(d)|(1)">
         <find>
-          <code-cite doc="D.C. Law 4-101">District of Columbia Public Assistance Act of 1982, effective April 6, 1982 (D.C. Law 4-101; D.C. Official Code § 4-201.01 et seq.)</code-cite>
+          <code-cite doc="D.C. Law 4-101">the District of Columbia Public Assistance Act of 1982, effective April 6, 1982 (D.C. Law 4-101; D.C. Official Code § 4-201.01 et seq.)</code-cite>
         </find>
-        <replace><code-cite doc="D.C. Law 4-101">District of Columbia Public Assistance Act of 1982, effective April 6, 1982 (D.C. Law 4-101; D.C. Official Code § 4-201.01 et seq.)</code-cite>, or receipt of benefits under the Supplemental Nutrition Assistance Program</replace>
+        <replace><code-cite doc="D.C. Law 4-101">District of Columbia Public Assistance Act of 1982, effective April 6, 1982 (D.C. Law 4-101; D.C. Official Code § 4-201.01 et seq.)</code-cite> or receipt of benefits under the Supplemental Nutrition Assistance Program</replace>
       </codify:find-replace>
     </para>
     <para codify:path="(e)|(1)|(C)">
@@ -4150,11 +4150,6 @@
         </codify:find-replace>
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§23-1322" applicability-path="§45" action="amendment of" display-template="" codified:doc="D.C. Code" codified:path="§23-1322" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§23-1322" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§23-1322">
-        <text>
-      *NOTE: The amendments to this section by section 30(f) of D.C. Law 25-175 shall expire 225 days after August 5, 2024 (March 18, 2025).*
-      </text>
-      </codify:insert>
       <codify:annotation doc="D.C. Code" path="§23-1322" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§23-1322">
         The District's Chief Financial Officer stated in a letter to the Council's Budget Director, dated August 5, 2024, that the amendment of this section by D.C. Law 25-175 has been funded. Therefore that amendment has been implemented.
       </codify:annotation>
@@ -4179,11 +4174,6 @@
         </codify:find-replace>
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§23-1325" applicability-path="§45" action="amendment of" display-template="" codified:doc="D.C. Code" codified:path="§23-1325" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§23-1325" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§23-1325">
-        <text>
-      *NOTE: The amendments to this section by section 30(g) of D.C. Law 25-175 shall expire 225 days after August 5, 2024 (March 18, 2025).*
-      </text>
-      </codify:insert>
       <codify:annotation doc="D.C. Code" path="§23-1325" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§23-1325">
         The District's Chief Financial Officer stated in a letter to the Council's Budget Director, dated August 5, 2024, that the amendment of this section by D.C. Law 25-175 has been funded. Therefore that amendment has been implemented.
       </codify:annotation>
@@ -4212,11 +4202,6 @@
         </codify:find-replace>
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§23-1331" applicability-path="§45" action="amendment of" display-template="" codified:doc="D.C. Code" codified:path="§23-1331" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§23-1331" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§23-1331">
-        <text>
-      *NOTE: The amendments to this section by section 30(h) of D.C. Law 25-175 shall expire 225 days after August 5, 2024 (March 18, 2025).*
-      </text>
-      </codify:insert>
       <codify:annotation doc="D.C. Code" path="§23-1331" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§23-1331">
         The District's Chief Financial Officer stated in a letter to the Council's Budget Director, dated August 5, 2024, that the amendment of this section by D.C. Law 25-175 has been funded. Therefore that amendment has been implemented.
       </codify:annotation>
@@ -5216,28 +5201,9 @@
       <para codify:path="§16-805|(c)">
         <num>(2)</num>
         <text>Amendatory section 16-805(c) is amended as follows:</text>
-        <para codify:path="(1)|(A)">
-          <num>(A)</num>
-          <text>Paragraph (1)(A) is amended to read as follows:</text>
-          <include lvl="2">
-            <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§16-805|(c)|(1)|(A)"/>
-              <num>(A)</num>
-              <text>For which the case was terminated by the prosecutor or otherwise reached a final disposition and did not result in a conviction or acquittal pursuant to <cite doc="D.C. Code" path="§24-501">§ 24-501</cite> prior to <span codify:value="[March 10, 2023]">the effective date of the Second Chance Amendment Act of 2022, effective March 10, 2023 (D.C. Law 24-284; 70 DCR 913)</span>, shall be sealed by October 1, 2027, or within 90 days after termination of the case by the prosecutor or final disposition, whichever is later; and</text>
-            </para>
-          </include>
-          <aftertext>.</aftertext>
-        </para>
         <para>
           <num>(B)</num>
           <text>Paragraph (2) is amended to read as follows:</text>
-          <include lvl="1">
-            <para codify:path="(2)">
-              <codify:replace codified:doc="D.C. Code" codified:path="§16-805|(c)|(2)"/>
-              <num>(2)</num>
-              <text>Related to citations, arrests, charges, and convictions sealed pursuant to subsection (a)(2) of this section shall be sealed by October 1, 2027, or within 90 days after the expiration of the waiting period, whichever is later.</text>
-            </para>
-          </include>
           <aftertext>.</aftertext>
         </para>
         <codify:not-funded-anno doc="D.C. Code" path="§16-805" applicability-path="§45" action="amendment of" display-template="" codified:doc="D.C. Code" codified:path="§16-805" codified:display="Note"/>
@@ -5251,7 +5217,6 @@
           <num>301</num>
           <heading proof="needed">Applicability.</heading>
           <text>This act shall apply as of October 1, 2024.</text>
-          <codify:repeal doc="D.C. Law 24-284" path="§301"/>
           <codify:annotation doc="D.C. Code" path="§16-801" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§16-801"><cite doc="D.C.Law 25-175" path="§40|(b)">Section 40(b) of D.C. Law 25-175</cite> amended <cite doc="D.C. Law 24-284" path="§301">section 301 of D.C. Law 24-284</cite> changing the applicability provision impacting this section to October 1, 2024.  Therefore the amendment of this section by section 101(b) of Law 24-284 will be implemented on October 1, 2024.</codify:annotation>
           <codify:annotation doc="D.C. Code" path="§16-802" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§16-802"><cite doc="D.C.Law 25-175" path="§40|(b)">Section 40(b) of D.C. Law 25-175</cite> amended <cite doc="D.C. Law 24-284" path="§301">section 301 of D.C. Law 24-284</cite> changing the applicability provision impacting this section to October 1, 2024.  Therefore the amendment of this section by section 101(b) of Law 24-284 will be implemented on October 1, 2024.</codify:annotation>
           <codify:annotation doc="D.C. Code" path="§16-803" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§16-803"><cite doc="D.C.Law 25-175" path="§40|(b)">Section 40(b) of D.C. Law 25-175</cite> amended <cite doc="D.C. Law 24-284" path="§301">section 301 of D.C. Law 24-284</cite> changing the applicability provision impacting this section to October 1, 2024.  Therefore the amendment of this section by section 101(b) of Law 24-284 will be implemented on October 1, 2024.</codify:annotation>
@@ -5343,7 +5308,6 @@
         <codify:applicability doc="D.C. Law 25-175" path="§9" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-581.01"/>
         <codify:applicability doc="D.C. Law 25-175" path="§14" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1104|(d-2)|(3)"/>
         <codify:applicability doc="D.C. Law 25-175" path="§28|(b)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§22-4234|(a)|(9)"/>
-        <codify:applicability doc="D.C. Law 25-175" path="§28|(c)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§22-4237"/>
         <codify:applicability doc="D.C. Law 25-175" path="§32" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§24-211.09"/>
         <codify:applicability doc="D.C. Law 25-175" path="§33" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§24-906.03"/>
         <codify:repeal doc="D.C. Code" path="§48-1006" history="false" display-template="" codified:doc="D.C. Code" codified:path="§48-1006"/>

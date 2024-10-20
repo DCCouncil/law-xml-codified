@@ -1,13 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+  <reason>Applicable October 1, 2025</reason>
   <num>47-2853.76</num>
   <heading proof="needed">Definitions.</heading>
-  <text>Not Funded.</text>
+  <text>Applicable October 1, 2025.</text>
   <annotations>
     <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§9|(a)" type="History" display="false"/>
     <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(d)|(2)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(d)|(2)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the creation of this section by <cite doc="D.C. Law 24-333" path="§5|(d)|(2)">§ 5(d)(2) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-03-22" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(d)|(2)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7286" type="History" display="false"/>
+    <annotation doc="D.C. Law 25-217" path="§7286" type="Applicability" history="false" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> amended <cite doc="D.C. Law 24-333" path="§9">section 9 of D.C. Law 24-333</cite> making the creation of this section by section 5(d)(2) of D.C. Law 24-333 applicable as of October 1, 2025.
+        </annotation>
   </annotations>
 </section>

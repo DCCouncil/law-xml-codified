@@ -1,33 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Applicable October 1, 2025</reason>
   <num>2-1654</num>
   <heading proof="needed">Penalties.</heading>
-  <para>
-    <num>(a)</num>
-    <text>Except as provided in subsection (b) of this section, if the Office of Human Rights determines that there is probable cause to believe that a violation of this title has occurred, it shall certify the complaint to the Commission on Human Rights, which may impose the following penalties, of which half shall be awarded to the complainant and half shall be awarded to the District and deposited into the General Fund:</text>
-    <para>
-      <num>(1)</num>
-      <text>For a first violation, a fine of up to $1,000; and</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>For a second or subsequent violation, a fine of up to $5,000.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>For any violation of this title that occurs within 6 months after the applicability date of the Second Chance Amendment Act of 2022, passed on 2nd reading on December 20, 2022 (Enrolled version of Bill 24-63), the Commission on Human Rights shall issue warnings and orders to correct instead of imposing a penalty pursuant to subsection (a) of this section.</text>
-  </para>
-  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§2-1654" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1654">Applicability of <cite doc="D.C. Law 24-284" path="">D.C. Law 24-284</cite>: <cite doc="D.C. Law 24-284" path="§301">§ 301 of D.C. Law 24-284</cite> provided that the creation of this section by <cite doc="D.C. Law 24-284" path="§204">§ 204 of D.C. Law 24-284</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <text>Applicable October 1, 2025.</text>
   <annotations>
-    <annotation app="2023-03-10" doc="D.C. Law 24-284" eff="2023-03-10" path="" type="History" display="false"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-284" eff="2023-03-10" path="§204" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-284" eff="2023-03-10" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-284" eff="2023-03-10" path="" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-284" eff="2023-03-10" path="§204" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-284" path="§204" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-284" path="">D.C. Law 24-284</cite>: <cite doc="D.C. Law 24-284" path="§301">§ 301 of D.C. Law 24-284</cite> provided that the creation of this section by <cite doc="D.C. Law 24-284" path="§204">§ 204 of D.C. Law 24-284</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-03-10" doc="D.C. Law 24-284" eff="2023-03-10" path="§204" type="History"/>
     <annotation doc="D.C. Law 25-50" path="§7088|(a)" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7088">Section 7088 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-284" path="§301">section 301 of D.C. Law 24-284</cite> changing the applicability provision impacting this section to January 1, 2026.  Therefore the creation of this section by Law 24-284 will be implemented on January 1, 2026.
         </annotation>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7088|(a)" type="History" display="false"/>
     <annotation doc="D.C. Law 25-175" path="§40|(b)" type="Applicability" history="false" app="2024-06-08" eff="2024-06-08"><cite doc="D.C.Law 25-175" path="§40|(b)">Section 40(b) of D.C. Law 25-175</cite> amended <cite doc="D.C. Law 24-284" path="§301">section 301 of D.C. Law 24-284</cite> changing the applicability provision impacting this section to October 1, 2024.  Therefore the creation of this section by Law 24-284 will be implemented on October 1, 2024.
         </annotation>
     <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§40|(b)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7290|(a)" type="History" display="false"/>
+    <annotation doc="D.C. Law 25-217" path="§7290|(a)" type="Applicability" history="false" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-217" path="§7290">Section 7290(a) of D.C. Law 25-217</cite> amended <cite doc="D.C. Law 25-175" path="§40|(b)">section 40(b) of D.C. Law 25-175</cite>, amending <cite doc="D.C. Law 24-284" path="§301"> section 301 of D.C. Law 24-284</cite> making the creation of this section by section 204 of D.C. Law 24-284 applicable as of October 1, 2025.
+        </annotation>
   </annotations>
 </section>
