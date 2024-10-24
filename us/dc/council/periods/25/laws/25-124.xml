@@ -218,6 +218,41 @@
     <para>
       <num>(a)</num>
       <text>Amendatory section 7(b) through (h) within section 2(b) shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
+      <codify:repeal path="§38-651.06|(b)" display-template="" history="false"/>
+      <codify:find-replace path="§38-651.06|(b)" count="1" display-template="" history="false">
+        <find>Repealed.</find>
+        <replace>Not funded.</replace>
+      </codify:find-replace>
+      <codify:repeal path="§38-651.06|(c)" display-template="" history="false"/>
+      <codify:find-replace path="§38-651.06|(c)" count="1" display-template="" history="false">
+        <find>Repealed.</find>
+        <replace>Not funded.</replace>
+      </codify:find-replace>
+      <codify:repeal path="§38-651.06|(d)" display-template="" history="false"/>
+      <codify:find-replace path="§38-651.06|(d)" count="1" display-template="" history="false">
+        <find>Repealed.</find>
+        <replace>Not funded.</replace>
+      </codify:find-replace>
+      <codify:repeal path="§38-651.06|(e)" display-template="" history="false"/>
+      <codify:find-replace path="§38-651.06|(e)" count="1" display-template="" history="false">
+        <find>Repealed.</find>
+        <replace>Not funded.</replace>
+      </codify:find-replace>
+      <codify:repeal path="§38-651.06|(f)" display-template="" history="false"/>
+      <codify:find-replace path="§38-651.06|(f)" count="1" display-template="" history="false">
+        <find>Repealed.</find>
+        <replace>Not funded.</replace>
+      </codify:find-replace>
+      <codify:repeal path="§38-651.06|(g)" display-template="" history="false"/>
+      <codify:find-replace path="§38-651.06|(g)" count="1" display-template="" history="false">
+        <find>Repealed.</find>
+        <replace>Not funded.</replace>
+      </codify:find-replace>
+      <codify:repeal path="§38-651.06|(h)" display-template="" history="false"/>
+      <codify:find-replace path="§38-651.06|(h)" count="1" display-template="" history="false">
+        <find>Repealed.</find>
+        <replace>Not funded.</replace>
+      </codify:find-replace>
     </para>
     <para>
       <num>(b)</num>

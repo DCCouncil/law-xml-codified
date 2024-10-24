@@ -25,11 +25,12 @@
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Business and Entrepreneurship Support to Thrive Amendment Act of 2022".</text>
   <section>
+    <codify:marginalia display="[Applicable October 1, 2025]"/>
     <num>2</num>
     <text>Section 13 of the Advisory Neighborhood Commissions Act of 1975, effective March 26, 1976 (D.C. Law 1-58; D.C. Official Code § 1-309.10), is amended by adding a new subsection (q) to read as follows:</text>
     <include>
       <para>
-        <codify:insert doc="D.C. Code" path="§1-309.10" codified:doc="D.C. Code" codified:path="§1-309.10|(q)"/>
+        <codify:insert doc="D.C. Code" path="§1-309.10"/>
         <num>(q)</num>
         <para>
           <num>(1)</num>
@@ -85,7 +86,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:not-funded-anno doc="D.C. Code" path="§1-309.10" applicability-path="§9" display-template="" codified:doc="D.C. Code" codified:path="§1-309.10" codified:display="Note"/>
+    <codify:not-funded-anno doc="D.C. Code" path="§1-309.10" applicability-path="§9" display-template=""/>
   </section>
   <section codify:doc="D.C. Code">
     <num>3</num>
@@ -757,8 +758,8 @@
         <include>
           <container>
             <prefix>Part</prefix>
-            <num>Q</num>
-            <heading>i. Detective and Security Services.</heading>
+            <num>Q-i</num>
+            <heading>Detective and Security Services.</heading>
             <toc>
               <section>
                 <num>47-2853.207</num>
@@ -803,7 +804,7 @@
         <aftertext>.</aftertext>
       </para>
     </para>
-    <para codify:path="47|28|I">
+    <para>
       <num>(b)</num>
       <text>Subchapter I is amended as follows:</text>
       <para>
@@ -982,7 +983,6 @@
         <num>(44)</num>
         <text>Section 47-2850 is repealed.</text>
       </para>
-      <codify:repeal codified:doc="D.C. Code" codified:path="§47-2801"/>
       <codify:find-replace path="§2-1801.06|(a)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1801.06|(a)">
         <find>, shall be a per se</find>
         <replace> [Repealed], shall be a per se</replace>
@@ -2848,7 +2848,7 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 24-333" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-309.10|(q)"/>
+      <codify:applicability doc="D.C. Law 24-333" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1801.06|(a)"/>
       <codify:repeal doc="D.C. Code" display-template="" history="false" path="§47-2853.207" codified:doc="D.C. Code" codified:path="§47-2853.207"/>
       <codify:find-replace doc="D.C. Code" path="§47-2853.207" display-template="" history="false" count="2" codified:doc="D.C. Code" codified:path="§47-2853.207">
         <find>Repealed</find>
