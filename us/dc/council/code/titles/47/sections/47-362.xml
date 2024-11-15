@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-362</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 27, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-362(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Policies enumerated.</heading>
   <para>
     <num>(a)</num>
@@ -44,6 +47,10 @@
   <para placeholder="Repealed">
     <num>(i)</num>
     <text>[Repealed].</text>
+  </para>
+  <para>
+    <num>(j)</num>
+    <text>Notwithstanding <cite path="§47-361|(14)">§ 47-361(14)</cite>, <cite path="§47-363|(a)">§ 47-363(a)</cite> shall apply to any reprogramming request, regardless of dollar value, related to the DC Circulator, as described in <cite path="50|9A|II">Title III of the Department of Transportation Establishment Act of 2002, effective March 5, 2007 (D.C. Law 16-225; D.C. Official Code § 50-921.31 et seq.)</cite>.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 3-100" type="History">Sept. 16, 1980, D.C. Law 3-100, § 3, 27 DCR 3617</annotation>
@@ -103,5 +110,8 @@
     <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7062" type="History" display="false"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7062" type="History"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6052" type="History"/>
+    <annotation app="2024-10-29" doc="D.C. Act 25-621" eff="2024-10-29" path="§2" type="History" display="false"/>
+    <annotation app="2024-10-29" doc="D.C. Act 25-621" eff="2024-10-29" path="§2" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-621" path="§2" codified:display="Note" app="2024-10-29" eff="2024-10-29">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-621" path="§2">§ 2 of DC Circulator Transition Emergency Amendment Act of 2024 (D.C. Act 25-621, Oct. 29, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
