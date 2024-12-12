@@ -21,11 +21,11 @@
     </redirects>
     <build xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="DCCouncil/law-xml" commit="49521ddd9d0740b5acc186da8492f0d1ea861db6"/>
+        <repository name="DCCouncil/law-xml" commit="bd706efd7a0edd126fce7da728a8bc60ed20521d"/>
       </repositories>
-      <platform version="2.12.7" reproducible="true"/>
-      <build-date>2024-12-03</build-date>
-      <codified-date>2024-12-03</codified-date>
+      <platform version="2.12.7" reproducible="false"/>
+      <build-date>2024-12-12</build-date>
+      <codified-date>2024-12-12</codified-date>
       <publication>publication/2021-10-18</publication>
     </build>
   </meta>
@@ -34,6 +34,7 @@
     <heading>D.C. Laws Codified in the D.C. Code</heading>
     <heading type="search">D.C. Laws</heading>
     <text>For laws not codified in the D.C. Code, please visit <a href="http://lims.dccouncil.us">LIMS</a>.</text>
+    <xi:include href="./us/dc/council/periods/26/index.xml"/>
     <xi:include href="./us/dc/council/periods/25/index.xml"/>
     <xi:include href="./us/dc/council/periods/24/index.xml"/>
     <xi:include href="./us/dc/council/periods/23/index.xml"/>
