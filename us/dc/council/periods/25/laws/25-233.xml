@@ -1,14 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Act 25-588">
+<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 25-233" codify:doc="D.C. Code">
+  <num type="law">25-233</num>
   <num type="act">25-588</num>
   <num type="bill">25-911</num>
   <heading type="short">Labor and Safety Omnibus Temporary Amendment Act of 2024</heading>
   <heading type="long">To amend, on a temporary basis, the Minimum Wage Act Revision Act of 1992 to postpone the date on which the first increase to the tipped minimum wage takes effect from January 1, 2023, to May 1, 2023.</heading>
   <meta>
     <introduced>2024-07-08</introduced>
-    <effective>2024-10-23</effective>
+    <effective>2024-12-12</effective>
     <temporary/>
     <citations>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/55971/Signed_Act/B25-0911-Signed_Act.pdf?Id=199933">D.C. Law 25-233</citation>
       <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/55971/Signed_Act/B25-0911-Signed_Act.pdf?Id=199933">D.C. Act 25-588</citation>
       <citation type="register">71 DCR 12968</citation>
     </citations>
@@ -26,9 +28,19 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Labor and Safety Omnibus Temporary Amendment Act of 2024".</text>
-  <section>
+  <section codify:path="§32-1003|(f)|(3)">
     <num>2</num>
     <text>Section 4(f)(3) of the Minimum Wage Act Revision Act of 1992, effective March 25, 1993 (D.C. Law 9-248; D.C. Official Code § 32-1003(f)(3)), is amended by striking the date "January 1, 2023" and inserting the date "May 1, 2023" in its place.</text>
+    <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1003|(f)|(3)">
+      <find>January 1, 2023</find>
+      <replace>May 1, 2023</replace>
+    </codify:find-replace>
+    <codify:temporary doc="D.C. Code" path="§32-1003" codified:doc="D.C. Code" codified:path="§32-1003" codified:display="Note"/>
+    <codify:insert doc="D.C. Code" path="§32-1003" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1003">
+      <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on July 25, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§32-1003(Perm)">Permanent Version</cite>.*
+      </text>
+    </codify:insert>
   </section>
   <section>
     <num>3</num>
