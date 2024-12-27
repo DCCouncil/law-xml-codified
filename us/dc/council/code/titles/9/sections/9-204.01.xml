@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>9-204.01</num>
   <heading>Scope of Council’s authority.</heading>
   <para>
@@ -31,7 +31,15 @@
     </para>
     <para>
       <num>(7)</num>
-      <text>This title shall not apply to any street, alley, other public space, or commemorative work not under the jurisdiction of the District of Columbia.</text>
+      <text>This title shall not apply to:</text>
+      <para>
+        <num>(A)</num>
+        <text>Any street, alley, other public space, or commemorative work not under the jurisdiction of the District of Columbia; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Any ancillary interior space of a District of Columbia Public Schools building, such as an auditorium or library.</text>
+      </para>
     </para>
   </para>
   <annotations>
@@ -568,5 +576,18 @@
     <annotation app="2024-06-12" doc="D.C. Law 25-185" eff="2024-06-12" path="§2" type="History" display="false"/>
     <annotation doc="D.C. Law 25-186" path="§2" history="false" type="Editor's Notes" codified:display="Note" app="2024-06-12" eff="2024-06-12">Blue and White Marching Machine Way Designation Act of 2024, <cite doc="D.C. Law 25-186" path="§2">§ 2 of D.C. Law 25-186</cite>, provided that "the Council symbolically designates A Street, NE, between North Carolina Avenue, NE, and 17th Street, NE, as "Blue and White Marching Machine Way."</annotation>
     <annotation app="2024-06-12" doc="D.C. Law 25-186" eff="2024-06-12" path="§2" type="History" display="false"/>
+    <annotation app="2024-12-17" doc="D.C. Law 25-234" eff="2024-12-17" path="§3" type="History"/>
+    <annotation doc="D.C. Law 25-234" path="§2" history="false" type="Editor's Notes" codified:display="Note" app="2024-12-17" eff="2024-12-17">Ronald “Ron” Austin Memorial Park Designation Act of 2024, <cite doc="D.C. Law 25-234" path="§2">§ 2 of D.C. Law 25-234</cite>, provided that "the Council designates the park in Square 3376N, as depicted in the plat in the committee report, as "Ronald "Ron" Austin Memorial Park."</annotation>
+    <annotation app="2024-12-17" doc="D.C. Law 25-234" eff="2024-12-17" path="§2" type="History" display="false"/>
+    <annotation doc="D.C. Law 25-241" path="§2" history="false" type="Editor's Notes" codified:display="Note" app="2024-12-17" eff="2024-12-17">Cain's Way Designation Act of 2024, <cite doc="D.C. Law 25-241" path="§2">§ 2 of D.C. Law 25-241</cite>, provided that "the Council designates the portion of the public alley system within Square 1071, connecting to East Capitol Street and A Street, SE, as "Cain's Way."</annotation>
+    <annotation app="2024-12-17" doc="D.C. Law 25-241" eff="2024-12-17" path="§2" type="History" display="false"/>
+    <annotation doc="D.C. Law 25-247" path="§2" history="false" type="Editor's Notes" codified:display="Note" app="2024-12-17" eff="2024-12-17">Alma Thomas Way Designation Act of 2024, <cite doc="D.C. Law 25-247" path="§2">§ 2 of D.C. Law 25-247</cite>, provided that "the Council designates 15th Street, NW, between Church Street, NW, and Q Street, NW, as "Alma Thomas Way."</annotation>
+    <annotation app="2024-12-17" doc="D.C. Law 25-247" eff="2024-12-17" path="§2" type="History" display="false"/>
+    <annotation doc="D.C. Law 25-248" path="§2" history="false" type="Editor's Notes" codified:display="Note" app="2024-12-17" eff="2024-12-17">Zelda Fichandler Way Designation Act of 2024, <cite doc="D.C. Law 25-248" path="§2">§ 2 of D.C. Law 25-248</cite>, provided that "the Council designates 6th Street, SW, between M Street, SW, and the northern boundary of Lot 129 in Square 472, as "Zelda Fichandler Way."</annotation>
+    <annotation app="2024-12-17" doc="D.C. Law 25-248" eff="2024-12-17" path="§2" type="History" display="false"/>
+    <annotation doc="D.C. Law 25-250" path="§2" history="false" type="Editor's Notes" codified:display="Note" app="2024-12-17" eff="2024-12-17">Joseph P. Yeldell Plaza Designation Act of 2024, <cite doc="D.C. Law 25-250" path="§2">§ 2 of D.C. Law 25-250</cite>, provided that "the Council designates North Portal Drive, NW, between 16th Street, NW, and Tamarack Street, NW, as "Joseph P. Yeldell Plaza."</annotation>
+    <annotation app="2024-12-17" doc="D.C. Law 25-250" eff="2024-12-17" path="§2" type="History" display="false"/>
+    <annotation doc="D.C. Law 25-252" path="§2" history="false" type="Editor's Notes" codified:display="Note" app="2024-12-17" eff="2024-12-17">Pearl B. Settles Way Designation Act of 2024, <cite doc="D.C. Law 25-252" path="§2">§ 2 of D.C. Law 25-252</cite>, provided that "the Council symbolically designates the 200 block of 37th Place, SE, as "Pearl B. Settles Way."</annotation>
+    <annotation app="2024-12-17" doc="D.C. Law 25-252" eff="2024-12-17" path="§2" type="History" display="false"/>
   </annotations>
 </section>
