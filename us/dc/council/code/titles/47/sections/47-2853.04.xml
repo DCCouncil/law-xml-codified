@@ -41,6 +41,10 @@
       <num>(8)</num>
       <text>Clinical Laboratory Technician;</text>
     </para>
+    <para placeholder="Not Funded">
+      <num>(8A)</num>
+      <text>Not Funded.</text>
+    </para>
     <para>
       <num>(9)</num>
       <text>Cosmetologist;</text>
@@ -52,6 +56,10 @@
     <para>
       <num>(11)</num>
       <text>Commercial Bicycle Operator;</text>
+    </para>
+    <para placeholder="Not Funded">
+      <num>(11A)</num>
+      <text>Not Funded.</text>
     </para>
     <para>
       <num>(12)</num>
@@ -140,6 +148,10 @@
     <para>
       <num>(29)</num>
       <text>Refrigeration and Air Conditioning Mechanic;</text>
+    </para>
+    <para placeholder="Not Funded">
+      <num>(29A)</num>
+      <text>Not Funded.</text>
     </para>
     <para>
       <num>(30)</num>
@@ -249,5 +261,11 @@
     <annotation doc="D.C. Law 25-217" path="§7286" type="Applicability" history="false" display-template="" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> amended <cite doc="D.C. Law 24-333" path="§9">section 9 of D.C. Law 24-333</cite> making the amendment of this section by section 5(d)(1) of D.C. Law 24-333 applicable as of October 1, 2025.
         </annotation>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7286" type="History" display="false"/>
+    <annotation app="2024-12-17" doc="D.C. Law 25-244" eff="2024-12-17" path="§3|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 25-244" eff="2024-12-17" path="§2|(b)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-244" eff="2024-12-17" path="§2|(b)|(2)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-244" eff="2024-12-17" path="§2|(b)|(3)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 25-244" path="§2|(b)" codified:display="Note" app="2024-12-17" eff="2024-12-17">Applicability of <cite doc="D.C. Law 25-244" path="">D.C. Law 25-244</cite>: <cite doc="D.C. Law 25-244" path="§3">§ 3 of D.C. Law 25-244</cite> provided that the change made to this section by <cite doc="D.C. Law 25-244" path="§2|(b)">§ 2(b) of D.C. Law 25-244</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2024-12-17" doc="D.C. Law 25-244" eff="2024-12-17" path="§2|(b)" type="History"/>
   </annotations>
 </section>

@@ -2052,6 +2052,24 @@
       </container>
       <container>
         <prefix>Part</prefix>
+        <num>D-ii</num>
+        <reason>Not Funded</reason>
+        <heading>Construction Managers and General Contractors.</heading>
+        <annotation app="2024-12-17" doc="D.C. Law 25-244" eff="2024-12-17" path="§3|(a)" type="History" display="false"/>
+        <annotation app="notfunded" doc="D.C. Law 25-244" eff="2024-12-17" path="§2" type="History" display="false"/>
+        <xi:include href="./sections/47-2853.78.xml"/>
+        <xi:include href="./sections/47-2853.78a.xml"/>
+        <xi:include href="./sections/47-2853.78b.xml"/>
+        <xi:include href="./sections/47-2853.78c.xml"/>
+        <xi:include href="./sections/47-2853.78d.xml"/>
+        <xi:include href="./sections/47-2853.78e.xml"/>
+        <xi:include href="./sections/47-2853.78f.xml"/>
+        <xi:include href="./sections/47-2853.78g.xml"/>
+        <xi:include href="./sections/47-2853.78h.xml"/>
+        <xi:include href="./sections/47-2853.78i.xml"/>
+      </container>
+      <container>
+        <prefix>Part</prefix>
         <num>E</num>
         <heading>Cosmetologists.</heading>
         <xi:include href="./sections/47-2853.81.xml"/>
