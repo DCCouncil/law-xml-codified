@@ -1,23 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-1671.06j</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on February 11, 2025.*
-      </text>
   <heading proof="needed">ANC comments.</heading>
   <text>The ABC Board shall accord great weight to input provided by an affected ANC regarding the proposed or existing location of a retailer when approving or rejecting an application for a license.</text>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-1671.06f" expire="2024-11-13" codified:display="Note">For temporary (90 days) creation of § 7-1671.06j, see <cite doc="D.C. Act 25-627" path="§4|(h)|includes|7j">§ 7j of Medical Cannabis Clarification and Program Enforcement Emergency Amendment Act of 2024 (D.C. Act 25-627, Nov. 13, 2024, 71 DCR 14129)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-1671.06j" applicability="2024-11-13" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-1671.06j">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-627" path="§4|(h)|includes|7j">§ 7j of Medical Cannabis Clarification and Program Enforcement Emergency Amendment Act of 2024 (D.C. Act 25-627, Nov. 13, 2024, 71 DCR 14129)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§7-1671.06j" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-1671.06j">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on February 11, 2025.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation type="History" doc="D.C. Law 13-315" path="§7j" display="false">Feb. 25, 2010, D.C. Law 13-315, § 7j</annotation>
     <annotation type="History" doc="D.C. Law 13-315" path="§7j">Feb. 25, 2010, D.C. Law 13-315, § 7j</annotation>
-    <annotation app="2024-11-13" doc="D.C. Act 25-627" eff="2024-11-13" path="§4|(h)" type="History" display="false"/>
-    <annotation app="2024-11-13" doc="D.C. Act 25-627" eff="2024-11-13" path="§4|(h)" prefix="as added" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-627" path="§4|(h)" codified:display="Note" app="2024-11-13" eff="2024-11-13">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-627" path="§4|(h)|includes|7j">§ 7j of Medical Cannabis Clarification and Program Enforcement Emergency Amendment Act of 2024 (D.C. Act 25-627, Nov. 13, 2024, 71 DCR 14129)</cite>.</annotation>
+    <annotation type="History" doc="D.C. Law 13-315" path="§7j" display="false">Feb. 25, 2010, D.C. Law 13-315, § 7j</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-627" path="§4|(h)" codified:display="Note" app="2024-12-17" eff="2024-11-13">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-627" path="§4|(h)|includes|7j">§ 7j of Medical Cannabis Clarification and Program Enforcement Emergency Amendment Act of 2024 (D.C. Act 25-627, Nov. 13, 2024, 71 DCR 14129)</cite>.</annotation>
+    <annotation app="2024-12-17" doc="D.C. Act 25-627" eff="2024-11-13" path="§4|(h)" type="History" display="false"/>
+    <annotation app="2024-12-17" doc="D.C. Law 25-255" eff="2024-12-17" path="§4|(h)" prefix="as added" type="History"/>
   </annotations>
 </section>
