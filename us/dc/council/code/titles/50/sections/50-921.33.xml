@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:path="§50-921.33">
   <num>50-921.33</num>
   <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on January 27, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§50-921.33(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on April 3, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§50-921.33(Perm)">Permanent Version</cite>.*
       </text>
   <heading proof="needed">DC Circulator Fund establishment.</heading>
   <para>
@@ -60,6 +60,12 @@
     <num>(e)</num>
     <text>The money deposited into the Fund but not expended in a fiscal year shall not revert to the unassigned fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
   </para>
+  <codify:emergency doc="D.C. Code" path="§50-921.33" codified:doc="D.C. Code" codified:path="§50-921.33" codified:display="Note"/>
+  <codify:insert doc="D.C. Code" path="§50-921.33" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-921.33">
+    <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on April 3, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§50-921.33(Perm)">Permanent Version</cite>.*
+      </text>
+  </codify:insert>
   <annotations>
     <annotation doc="D.C. Law 14-137" type="History" path="§11c">May 21, 2002, D.C. Law 14-137, § 11c</annotation>
     <annotation doc="D.C. Law 16-225" type="History">as added Mar. 6, 2007, D.C. Law 16-225, § 3(e), 53 DCR 10232</annotation>
@@ -77,8 +83,10 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite>, in subsec. (a), substituted “lapsing” for “nonlapsing, revolving”.</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-182">D.C. Law 18-182</cite>, in subsec. (b), substituted “procure those services; provided, that for a period of 8 months following May 27, 2010, no DC Circulator route shall replace more than 20% of the revenue miles or revenue hours of any WMATA route.” for “procure those services.”.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§50-921.31">§ 50-921.31</cite>.</annotation>
-    <annotation app="2024-10-29" doc="D.C. Act 25-621" eff="2024-10-29" path="§3|(a)" type="History" display="false"/>
-    <annotation app="2024-10-29" doc="D.C. Act 25-621" eff="2024-10-29" path="§3|(a)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-621" path="§3|(a)" codified:display="Note" app="2024-10-29" eff="2024-10-29">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-621" path="§3|(a)">§ 3(a) of DC Circulator Transition Emergency Amendment Act of 2024 (D.C. Act 25-621, Oct. 29, 2024, 71 DCR 13555)</cite>.</annotation>
+    <annotation app="2024-10-29" doc="D.C. Act 25-621" eff="2024-10-29" path="§3|(a)" type="History" display="false"/>
+    <annotation app="2025-01-03" doc="D.C. Act 25-679" eff="2025-01-03" path="§3|(a)" type="History" display="false"/>
+    <annotation app="2025-01-03" doc="D.C. Act 25-679" eff="2025-01-03" path="§3|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-679" path="§3|(a)" codified:display="Note" app="2025-01-03" eff="2025-01-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-679" path="§3|(a)|includes|11c">§ 11c of DC Circulator Transition Congressional Review Emergency Amendment Act of 2024 (D.C. Act 25-679, Jan. 3, 2025, 72 DCR 25)</cite>.</annotation>
   </annotations>
 </section>
