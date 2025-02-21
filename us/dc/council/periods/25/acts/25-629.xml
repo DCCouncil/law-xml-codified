@@ -25,22 +25,12 @@
     <para codify:path="(a)">
       <num>(a)</num>
       <text>Subsection (a) is amended by striking the phrase "Mayor shall promulgate" and inserting the phrase "Mayor may promulgate" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.10|(a)">
-        <find>Mayor shall promulgate</find>
-        <replace>Mayor may promulgate</replace>
-      </codify:find-replace>
     </para>
     <para codify:path="(b)">
       <num>(b)</num>
       <text>Subsection (b) is repealed.</text>
-      <codify:repeal codified:doc="D.C. Code" codified:path="§8-151.10|(b)"/>
     </para>
     <codify:emergency doc="D.C. Code" path="§8-151.10" codified:doc="D.C. Code" codified:path="§8-151.10" codified:display="Note"/>
-    <codify:insert doc="D.C. Code" path="§8-151.10" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-151.10">
-      <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on February 20, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§8-151.10(Perm)">Past Permanent Version</cite>.*
-      </text>
-    </codify:insert>
   </section>
   <section>
     <num>3</num>
