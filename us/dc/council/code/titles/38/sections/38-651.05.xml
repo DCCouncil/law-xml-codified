@@ -2,20 +2,36 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>38-651.05</num>
   <heading>Administration of medication.</heading>
-  <text>An employee or agent trained and certified pursuant to <cite path="§38-651.04">§ 38-651.04</cite> may administer medication to a student with a valid medication action plan; provided, that:</text>
   <para>
-    <num>(1)</num>
-    <text>The responsible person has delivered the medication to be administered to the school;</text>
+    <num>(a)</num>
+    <text>An employee or agent trained and certified pursuant to <cite path="§38-651.04">§ 38-651.04</cite> may administer medication to a student with a valid medication action plan; provided, that:</text>
+    <para>
+      <num>(1)</num>
+      <text>The responsible person has delivered the medication to be administered to the school;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The employee or agent is under the general supervision of licensed health practitioner; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Except in emergency circumstances, the responsible person has administered the initial dose of a new medication.</text>
+    </para>
   </para>
   <para>
-    <num>(2)</num>
-    <text>The employee or agent is under the general supervision of licensed health practitioner; and</text>
-  </para>
-  <para>
-    <num>(3)</num>
-    <text>Except in emergency circumstances, the responsible person has administered the initial dose of a new medication.</text>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>An employee or agent trained pursuant to rules promulgated by the Mayor may administer a seizure treatment to a student with a valid seizure action plan; provided, that the responsible person has delivered the seizure treatment to be administered to the school.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A trained employee or agent need not be certified in order to administer seizure treatment.</text>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 17-107" type="History" path="§6">Feb. 2, 2008, D.C. Law 17-107, § 6, 54 DCR 12230</annotation>
+    <annotation app="2025-03-07" doc="D.C. Law 25-272" eff="2025-03-07" path="§2|(d)|(2)" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-272" eff="2025-03-07" path="§2|(d)|(1)" type="History"/>
   </annotations>
 </section>
