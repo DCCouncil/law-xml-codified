@@ -16,6 +16,14 @@
         <num>(B)</num>
         <text>Bear or be near visible signage indicating the category of source-separated material by visuals or description or shall comply with a color scheme established by the Mayor;</text>
       </para>
+      <para placeholder="Not Funded">
+        <num>(C)</num>
+        <text>Not Funded.</text>
+      </para>
+      <para placeholder="Not Funded">
+        <num>(D)</num>
+        <text>Not Funded.</text>
+      </para>
     </para>
     <para>
       <num>(2)</num>
@@ -94,5 +102,10 @@
     <annotation doc="D.C. Law 24-167" path="§7135" type="Applicability" history="false" app="2022-09-21" eff="2022-09-21"><cite doc="D.C. Law 24-167" path="§7135">Section 7135 of D.C. Law 24-167</cite> amended <cite doc="D.C. Law 23-211" path="§6|(a)">section 6(a) of D.C. Law 23-211</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 2(d) of Law 23-211 has been implemented.
         </annotation>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7135" type="History" display="false"/>
+    <annotation type="Applicability" doc="D.C. Law 25-297" path="§2|(a)" codified:display="Note" app="2025-03-21" eff="2025-03-21">Applicability of <cite doc="D.C. Law 25-297" path="">D.C. Law 25-297</cite>: <cite doc="D.C. Law 25-297" path="§4">§ 4 of D.C. Law 25-297</cite> provided that the amendment to this section by <cite doc="D.C. Law 25-297" path="§2|(a)">§ 2(a) of D.C. Law 25-297</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2025-03-21" doc="D.C. Law 25-297" eff="2025-03-21" path="§2|(a)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-297" eff="2025-03-21" path="§4|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 25-297" eff="2025-03-21" path="§2|(a)|(1)|(A)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-297" eff="2025-03-21" path="§2|(a)|(1)|(B)" type="History"/>
   </annotations>
 </section>

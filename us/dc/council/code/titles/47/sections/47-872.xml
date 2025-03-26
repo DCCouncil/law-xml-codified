@@ -30,6 +30,10 @@
     <num>(e)</num>
     <text>The amount of the credit allowed under this section shall not exceed the amount of property tax otherwise due.</text>
   </para>
+  <para placeholder="Not Funded">
+    <num>(f)</num>
+    <text>Not Funded.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 8-180" type="History">Oct. 2, 1990, D.C. Law 8-180, § 3, 37 DCR 5039</annotation>
     <annotation doc="D.C. Law 11-52" type="History">Sept. 26, 1995, D.C. Law 11-52, § 108(a), 42 DCR 3684</annotation>
@@ -48,5 +52,9 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-307">D.C. Law 14-307</cite> rewrote subsec. (a); and in subsec. (b), deleted “or a single dwelling unit that is owned by a member of a homeowners association if the condominium or” following “condominium”.</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-305">D.C. Law 13-305</cite>, in subsec. (d), substituted “percentage increase in the local Consumer Price Index for all items” for “percentage increase in the Consumer Price Index for All Urban Consumers (‘CPI-U’) for all items, in the Washington, D.C. Standard Metropolitan Statistical Area,”.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 47-872.</annotation>
+    <annotation type="Applicability" doc="D.C. Law 25-297" path="§3" codified:display="Note" app="2025-03-21" eff="2025-03-21">Applicability of <cite doc="D.C. Law 25-297" path="">D.C. Law 25-297</cite>: <cite doc="D.C. Law 25-297" path="§4">§ 4 of D.C. Law 25-297</cite> provided that the amendment to this section by <cite doc="D.C. Law 25-297" path="§3">§ 3 of D.C. Law 25-297</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2025-03-21" doc="D.C. Law 25-297" eff="2025-03-21" path="§3" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-297" eff="2025-03-21" path="§4|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 25-297" eff="2025-03-21" path="§3" type="History"/>
   </annotations>
 </section>

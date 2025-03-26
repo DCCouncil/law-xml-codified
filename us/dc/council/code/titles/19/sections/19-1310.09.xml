@@ -1,18 +1,129 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>19-1310.09</num>
-  <heading>Beneficiary’s consent, release, or ratification.</heading>
-  <text>A trustee is not liable to a beneficiary for breach of trust if the beneficiary consented to the conduct constituting the breach, released the trustee from liability for the breach, or ratified the transaction constituting the breach, unless:</text>
+  <heading proof="needed">Beneficiary's consent, release, or ratification.</heading>
   <para>
-    <num>(1)</num>
-    <text>The consent, release, or ratification of the beneficiary was induced by improper conduct of the trustee; or</text>
+    <num>(a)</num>
+    <text>For the purposes of this section, the term "interested party" means a beneficiary, representative of a beneficiary, co-trustee, successor trustee, or any other person having an interest in or authority over a trust.</text>
   </para>
   <para>
-    <num>(2)</num>
-    <text>At the time of the consent, release, or ratification, the beneficiary did not know of the beneficiary’s rights or of the material facts relating to the breach.</text>
+    <num>(b)</num>
+    <text>A trustee is not liable to a beneficiary for breach of trust if the beneficiary consented to the conduct constituting the breach, released the trustee from liability for the breach, or ratified the transaction constituting the breach, unless:</text>
+    <para>
+      <num>(1)</num>
+      <text>The consent, release, or ratification of the beneficiary was induced by improper conduct of the trustee; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>At the time of the consent, release, or ratification, the beneficiary did not know of the beneficiary's rights or of the material facts relating to the breach.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>A trustee may elect to follow the procedures set forth in subsection (d) of this section concerning the release of the trustee from liability for the administration of the trust when any of the following occur:</text>
+    <para>
+      <num>(1)</num>
+      <text>A trust terminates pursuant to the terms of the trust;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A trust terminates early pursuant to <cite path="§19-1304.11">§ 19-1304.11</cite>; or</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>A trustee resigns or is removed.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <para>
+      <num>(1)</num>
+      <text>A trustee seeking a release of the trustee from liability under subsection (c) of this section shall send to the interested party from whom the trustee is seeking the release, by first-class and certified mail, return receipt requested, all of the following:</text>
+      <para>
+        <num>(A)</num>
+        <text>A statement showing the fair market value of the assets to be distributed from a terminating trust or to a successor trustee;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A trust accounting for the prior 2 years showing all receipts and disbursements and inventory value of the net assets;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>An estimate for any items reasonably anticipated to be received or disbursed;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The amount of any fees, including trustee fees, remaining to be paid;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Notice that the trust is terminating, or that the trustee has resigned or been removed, and a clear and conspicuous statement providing that if no objections are received from the interested party within 120 days after the notice was sent by the trustee, or if the interested party signs the waiver described in subsection (f)(2) of this section, that the interested party is barred from bringing claims against the trustee for breach of trust;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>A statement from the trustee that the trustee is unaware of any undisclosed information that could give rise to a claim by an interested party;</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>The name and mailing address of the trustee; and</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>The name and telephone number of a person who may be contacted for additional information.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The trustee may also provide the information described in this subsection to any other person who the trustee reasonably believes may have an interest in the trust.</text>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <para>
+      <num>(1)</num>
+      <text>If, after receiving the notice and trust information described in subsection (d) of this section, an interested party that received the notice and trust information objects to a disclosed act or omission, the interested party shall provide written notice of the objection to the trustee not later than 120 days after the notice was sent by the trustee. If no written objection is provided in the 120-day time period, the information provided under subsection (d) of this section shall be considered ratified by that interested party. The trustee, in the case of a trust terminating pursuant to the terms of the trust or the trustee's resignation or removal, within a reasonable period of time following the expiration of the 120-day time period, shall distribute the assets as provided in the trust or to the successor trustee. If an interested party gives the trustee a written objection within the applicable 120-day time period, the trustee or the interested party may do either of the following:</text>
+      <para>
+        <num>(A)</num>
+        <text>Submit the written objection to the court for resolution and charge the expense of commencing a proceeding to the trust; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Resolve the objection by a nonjudicial settlement agreement or other written agreement.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Any agreement entered into pursuant to paragraph (1)(B) of this subsection may include a release, an indemnity clause, or both, on the part of the interested party against the trustee relating to the trust. Upon a resolution of an objection under this subsection, within a reasonable period of time, the trustee shall distribute the remaining trust assets as provided in the trust or to the successor trustee.</text>
+    </para>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>An interested party to whom a report was sent under subsection (d)(1) of this section shall be deemed to have released the trustee and consented to and ratified all actions of the trustee if, within 120 days after the trustee mailed the report, the interested party:</text>
+    <para>
+      <num>(1)</num>
+      <text>Does not submit a written objection to the trustee; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Submits a written statement to the trustee that the interested party does not object.</text>
+    </para>
+  </para>
+  <para>
+    <num>(g)</num>
+    <text>When a trustee distributes assets of a terminating trust or to the successor trustee after complying with this section and having received no objections, each interested party who received notice and either consented or failed to object pursuant to this section is barred from bringing a claim against the trustee for breach of trust to the same extent and with the same preclusive effect as if the court had entered a final order approving the trustee's final account.</text>
+  </para>
+  <para>
+    <num>(h)</num>
+    <text>§§ <cite path="§19-1303.01">19-1303.01</cite> through <cite path="§19-1303.04">19-1303.04</cite> shall apply to this section.</text>
+  </para>
+  <para>
+    <num>(i)</num>
+    <text>Nothing in this section shall preclude a trustee from proceeding under § <cite path="§19-1302.01">19-1302.01</cite> to have the trustee's accounts reviewed and settled by the court.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 15-104" type="History">Mar. 10, 2004, D.C. Law 15-104, § 2(b), 51 DCR 208</annotation>
     <annotation type="Editor's Notes">Uniform Law: This section is based upon § 1009 of the Uniform Trust Code.</annotation>
+    <annotation app="2025-03-21" doc="D.C. Law 25-298" eff="2025-03-21" path="§2|(b)|(7)" type="History"/>
   </annotations>
 </section>
