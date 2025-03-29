@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>20-331</num>
-  <heading>Finality of abbreviated and standard probate proceedings.</heading>
+  <heading>Finality of abbreviated and formal probate proceedings.</heading>
   <para>
     <num>(a)</num>
-    <text>An abbreviated probate proceeding shall be set aside if, within 6 months after notice of the appointment of the personal representative pursuant to section 20-704, an interested person makes a request for a standard probate proceeding.</text>
+    <text>An abbreviated probate proceeding shall be set aside if, within 6 months after notice of the appointment of the personal representative pursuant to section 20-704, an interested person makes a request for a formal probate proceeding.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>A standard probate proceeding may be reopened if, within 6 months after the notice of appointment of the personal representative pursuant to section 20-704: (1) An interested person makes a request; and (2) the Court finds that:</text>
+    <text>A formal probate proceeding may be reopened if, within 6 months after the notice of appointment of the personal representative pursuant to section 20-704: (1) An interested person makes a request; and (2) the Court finds that:</text>
     <para>
       <num>(A)</num>
       <text>the notice provided in section 20-704 was not given to such interested person and such interested person did not have actual notice of the petition for probate;</text>
@@ -32,5 +32,8 @@
     <annotation type="Editor's Notes">Application of 10-241: See Application of Law 10-241 and Emergency act amendment notes to <cite path="§20-304">§ 20-304</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 20-331.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§20-311">§ 20-311</cite> and <cite path="§20-322">§ 20-322</cite>.</annotation>
+    <annotation app="2025-03-21" doc="D.C. Law 25-302" eff="2025-03-21" path="§4|(l)|(1)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-302" eff="2025-03-21" path="§4|(l)|(2)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-302" eff="2025-03-21" path="§4|(l)|(3)" type="History"/>
   </annotations>
 </section>

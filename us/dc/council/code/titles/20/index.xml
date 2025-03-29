@@ -42,7 +42,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
-      <heading>Standard Probate Proceeding.</heading>
+      <heading>Formal Probate Proceeding.<annotation app="2025-03-21" doc="D.C. Law 25-302" eff="2025-03-21" path="§4|(g)" type="History"/></heading>
       <xi:include href="./sections/20-321.xml"/>
       <xi:include href="./sections/20-322.xml"/>
       <xi:include href="./sections/20-323.xml"/>
@@ -74,6 +74,15 @@
       <xi:include href="./sections/20-355.xml"/>
       <xi:include href="./sections/20-356.xml"/>
       <xi:include href="./sections/20-357.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>VII</num>
+      <heading>Transfers by Affidavit.</heading>
+      <annotation app="2025-03-21" doc="D.C. Law 25-302" eff="2025-03-21" path="§4|(o)" type="History" display="false"/>
+      <xi:include href="./sections/20-360.xml"/>
+      <xi:include href="./sections/20-361.xml"/>
+      <xi:include href="./sections/20-362.xml"/>
     </container>
   </container>
   <container>
