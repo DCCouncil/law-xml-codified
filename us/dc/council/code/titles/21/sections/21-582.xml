@@ -1,26 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>21-582</num>
-  <heading>Petitions, applications, or certificates of physicians or qualified psychologists.</heading>
+  <heading proof="needed">Petitions, applications, or certificates of physicians, qualified psychologists, and qualified nurse practitioners.</heading>
   <para>
     <num>(a)</num>
-    <text>A petition, application, or certificate authorized under section 21-521, section 21-541(a), section 21-545.01, or section 21-548 may not be considered if made by a psychiatrist, physician, or qualified psychologist who:</text>
     <para>
       <num>(1)</num>
-      <text>Is related by blood, marriage, or domestic partnership to the person about whom the petition, application, or certificate is made;</text>
+      <text>A petition, application, or certificate authorized under §§ <cite path="§21-521">21-521</cite>, <cite path="§21-541|(a)">21-541(a)</cite>, <cite path="§21-545.01">21-545.01</cite>, or <cite path="§21-548">21-548</cite> may not be considered if made by a psychiatrist, physician, qualified psychologist, or qualified nurse practitioner who is related by blood, marriage, or domestic partnership to the person about whom the petition, application, or certificate is made.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Is financially interested in the hospital in which the person is to be detained; or</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Except in the case of psychiatrists, physicians, or qualified psychologists employed by the United States or the District of Columbia, are professionally or officially connected with the hospital or are employed on a contract basis by the Department.</text>
+      <text>A petition, application, or certificate authorized under §§ <cite path="§21-521">21-521</cite>, <cite path="§21-523">21-523</cite>, <cite path="§21-541|(a)">21-541(a)</cite>, <cite path="§21-545.01">21-545.01</cite>, or <cite path="§21-548">21-548</cite> may be considered if made by a psychiatrist, physician, qualified psychologist, or qualified nurse practitioner employed or contracted by the hospital in which the person is to be detained and the psychiatrist, physician, qualified psychologist, or qualified nurse practitioner may admit the person to the hospital if they certify in writing that their financial arrangement with the hospital is not based on the volume of inpatient referrals or admissions.</text>
     </para>
   </para>
   <para>
     <num>(b)</num>
-    <text>A petition, application, or certificate of a physician or qualified psychologist may not be considered unless it is based on personal observation and examination of the person made by the physician or qualified psychologist not more than 72 hours prior to the making of the petition, application, or certificate. The certificate shall set forth in detail the facts and reasons on which the physician or qualified psychologist based his opinions and conclusions.</text>
+    <text>A petition, application, or certificate of a physician, qualified psychologist, or qualified nurse practitioner may not be considered unless it is based on the personal observation and examination of the person made by the physician, qualified psychologist, or qualified nurse practitioner not more than 72 hours prior to the making of the petition, application, or certificate. The certificate shall set forth in detail the facts and reasons on which the physician, qualified psychologist, or qualified nurse practitioner based their opinions and conclusions.</text>
   </para>
   <annotations>
     <annotation doc="Pub. L. 89-183" type="History">Sept. 14, 1965, 79 Stat. 759, Pub. L. 89-183, § 1</annotation>
@@ -42,5 +38,6 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-283">D.C. Law 14-283</cite> rewrote subsec. (a); and in subsec. (b), deleted “alleged mentally ill” from the first sentence. Prior to amendment, subsec. (a) had read as follows: “(a) A petition, application, or certificate authorized under  section 21-521 and subsection (a) of  section 21-541 may not be considered if made by a physician or qualified psychologist who is related by blood or marriage to the alleged mentally ill person, or who is financially interested in the hospital in which the alleged mentally ill person is to be detained, or, except in the case of physicians or qualified psychologists employed by the United States or the District of Columbia, who are professionally or officially connected with the hospital.”</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 21-582.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 21-582.</annotation>
+    <annotation app="2025-03-21" doc="D.C. Law 25-304" eff="2025-03-21" path="§2|(z)" type="History"/>
   </annotations>
 </section>

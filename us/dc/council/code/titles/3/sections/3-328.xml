@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <num>3-328</num>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code" placeholder="Repealed">
   <reason>Repealed</reason>
+  <num>3-328</num>
   <heading>Limitation on indebtedness; liability of Board members; deficits in sinking fund to be included in budget estimates; authority of Council to borrow from Secretary of Treasury; repayment; bonds guaranteed by United States.</heading>
   <text>Repealed.</text>
   <annotations>
@@ -10,5 +10,6 @@
     <annotation doc="D.C. Law 10-152" type="History">Aug. 23, 1994, D.C. Law 10-152, § 21(a)(4), 41 DCR 4636</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 2-1727.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 2-328.</annotation>
+    <annotation app="2025-01-06" doc="D.C. Law 25-246" eff="2025-01-06" path="§2|(l)|(1)" type="History"/>
   </annotations>
 </section>
