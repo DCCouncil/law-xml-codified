@@ -625,6 +625,30 @@
     <xi:include href="./sections/10-1181.06.xml"/>
     <xi:include href="./sections/10-1181.07.xml"/>
   </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11B</num>
+    <heading>Amplified Sound Mitigation.</heading>
+    <annotation app="2025-03-21" doc="D.C. Law 25-313" eff="2025-03-21" path="" type="History" display="false"/>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>I</num>
+      <heading>Public Space Amplified Sound License.</heading>
+      <annotation app="2025-03-21" doc="D.C. Law 25-313" eff="2025-03-21" path="" type="History" display="false"/>
+      <xi:include href="./sections/10-1183.01.xml"/>
+      <xi:include href="./sections/10-1183.02.xml"/>
+      <xi:include href="./sections/10-1183.03.xml"/>
+      <xi:include href="./sections/10-1183.04.xml"/>
+      <xi:include href="./sections/10-1183.05.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>II</num>
+      <heading>Noise Control Enforecment and Coordination.</heading>
+      <annotation app="2025-03-21" doc="D.C. Law 25-313" eff="2025-03-21" path="" type="History" display="false"/>
+      <xi:include href="./sections/10-1185.01.xml"/>
+    </container>
+  </container>
   <subheading>Subtitle IV. Specific Locales.</subheading>
   <container>
     <prefix>Chapter</prefix>
