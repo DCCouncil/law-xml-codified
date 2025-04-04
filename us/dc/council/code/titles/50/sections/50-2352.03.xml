@@ -4,7 +4,7 @@
   <heading>Data and crash reporting.</heading>
   <para>
     <num>(a)</num>
-    <text>On a semi-annual basis, an AV testing entity shall provide to the Department, in a form to be determined by the Department, the following information from each reporting period:</text>
+    <text>On a quarterly basis, an AV testing entity shall provide to the Department, in a form to be determined by the Department, the following information from each reporting period:</text>
     <para>
       <num>(1)</num>
       <text>The vehicle miles traveled, in the aggregate, by its associated autonomous vehicles;</text>
@@ -42,7 +42,7 @@
     <num>(c)</num>
     <para>
       <num>(1)</num>
-      <text>An AV testing entity shall notify the Department of a crash involving an associated autonomous vehicle while under autonomous operation that results in property damage, bodily injury, or death as soon as possible, but in no case more than 12 hours following the crash. At the time notification is provided pursuant to this paragraph, the AV testing entity shall provide, to the extent known:</text>
+      <text>An AV testing entity, or a person or entity engaged in AV testing as described in <cite path="§50-2352.01|(d)">§ 50-2352.01(d)</cite>, shall notify the Department of a crash involving an associated autonomous vehicle while under autonomous operation that results in property damage, bodily injury, or death as soon as possible, but in no case more than 12 hours following the crash. At the time notification is provided pursuant to this paragraph, the AV testing entity shall provide, to the extent known:</text>
       <para>
         <num>(A)</num>
         <text>The name of the AV testing entity;</text>
@@ -66,7 +66,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>Within 5 business days of the crash, the AV testing entity shall submit a crash report to the Department that contains the following information:</text>
+      <text>Within 5 business days of the crash, the AV testing entity, or the person or entity engaged in AV testing as described in section <cite path="§50-2352.01|(d)">§ 50-2352.01(d)</cite>, shall submit a crash report to the Department that contains the following information:</text>
       <para>
         <num>(A)</num>
         <text>The names of the test operators involved in the crash, if applicable;</text>
@@ -108,5 +108,8 @@
     <annotation doc="D.C. Law 24-45" path="§7186" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7186">Section 7186 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-156" path="§3">section 3 of D.C. Law 23-156</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-154 has been implemented.
         </annotation>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7186" type="History" display="false"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-312" eff="2025-03-21" path="§6|(d)|(1)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-312" eff="2025-03-21" path="§6|(d)|(2)|(A)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-312" eff="2025-03-21" path="§6|(d)|(2)|(B)" type="History"/>
   </annotations>
 </section>

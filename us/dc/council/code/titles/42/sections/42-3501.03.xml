@@ -45,6 +45,10 @@
       <num>(6)</num>
       <text>“Capital improvement” means an improvement or renovation other than ordinary repair, replacement, or maintenance if the improvement or renovation is deemed depreciable under the Internal Revenue Code (26 U.S.C.).</text>
     </para>
+    <para placeholder="Not Funded">
+      <num>(6A)</num>
+      <text>Not Funded.</text>
+    </para>
     <para>
       <num>(7)</num>
       <text>“Cooperative housing association” means an association incorporated for the purpose of owning and operating residential real property in the District, the shareholders or members of which, by reason of their ownership of stock or membership certificate, a proprietary lease, or evidence of membership, are entitled to occupy a dwelling unit under the terms of a proprietary lease or occupancy agreement.</text>
@@ -274,5 +278,9 @@
     <annotation app="2023-11-28" doc="D.C. Law 25-65" eff="2023-11-28" path="§2|(a)|(1)" type="History"/>
     <annotation app="2023-11-28" doc="D.C. Law 25-65" eff="2023-11-28" path="§2|(a)|(3)" type="History"/>
     <annotation app="2023-11-28" doc="D.C. Law 25-65" eff="2023-11-28" path="§2|(a)|(2)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 25-308" path="§2|(a)" codified:display="Note" app="2025-03-21" eff="2025-03-21">Applicability of <cite doc="D.C. Law 25-308" path="">D.C. Law 25-308</cite>: <cite doc="D.C. Law 25-308" path="§4">§ 4 of D.C. Law 25-308</cite> provided that the amendment to this section by <cite doc="D.C. Law 25-308" path="§2|(a)">§ 2(a) of D.C. Law 25-308</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2025-03-21" doc="D.C. Law 25-308" eff="2025-03-21" path="§2|(a)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-308" eff="2025-03-21" path="§4|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 25-308" eff="2025-03-21" path="§2|(a)" type="History"/>
   </annotations>
 </section>
