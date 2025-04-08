@@ -57,7 +57,7 @@
         <text>A new paragraph (7A) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(7)" num-value="[(8)]" codified:doc="D.C. Code" codified:path="§38-651.01|[(8)]|(8)"/>
+            <codify:insert after="(7)" num-value="[(8)]" codified:doc="D.C. Code" codified:path="§38-651.01|(8)"/>
             <num>(7A)</num>
             <text>"UEMA plan" means the undesignated emergency medications action plan established pursuant to <code-cite doc="D.C. Code" path="§38-651.06">section 7</code-cite>.</text>
           </para>

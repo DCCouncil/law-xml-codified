@@ -60,7 +60,10 @@
       <para>
         <num>(3)</num>
         <text>Paragraph (7A) is redesignated as paragraph (8).</text>
-        <codify:redesignate-para path="[(8)]" num-value="(8)" codified:doc="D.C. Code" codified:path="§38-651.01|[(8)]"/>
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-651.01">
+          <find>[(8)]</find>
+          <replace>(8)</replace>
+        </codify:find-replace>
       </para>
     </para>
     <para codify:path="§38-651.02|(a)">
