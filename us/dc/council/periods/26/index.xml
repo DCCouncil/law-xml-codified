@@ -12,6 +12,7 @@
   </collection>
   <collection name="emergency">
     <heading>Emergency Acts</heading>
+    <xi:include href="./acts/26-41.xml"/>
     <xi:include href="./acts/26-38.xml"/>
     <xi:include href="./acts/26-36.xml"/>
     <xi:include href="./acts/26-35.xml"/>
@@ -39,10 +40,10 @@
     <heading>Temporary Laws</heading>
     <collection name="effective">
       <heading>Laws</heading>
+      <xi:include href="./laws/26-1.xml"/>
     </collection>
     <collection name="pending">
       <heading>Acts pending congressional review</heading>
-      <xi:include href="./acts/26-5.xml"/>
       <xi:include href="./acts/26-21.xml"/>
       <xi:include href="./acts/26-22.xml"/>
       <xi:include href="./acts/26-23.xml"/>
