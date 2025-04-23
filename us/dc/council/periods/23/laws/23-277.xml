@@ -596,7 +596,7 @@
         <text>A new paragraph (10) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert num-value="[(11)]" codified:doc="D.C. Code" codified:path="§24-211.02|(b)|(11)"/>
+            <codify:insert num-value="[(11)]" codified:doc="D.C. Code" codified:path="§24-211.02|(b)|[(11)]"/>
             <num>(10)</num>
             <text>Employ personnel whose sole responsibility shall be the civic engagement and enfranchisement of eligible individuals incarcerated in the Department of Corrections' care or custody, including those responsibilities in <code-cite doc="D.C. Code" path="§24-211.08">section 8</code-cite> and designing and implementing a plan to facilitate voting for each election in the Central Detention Facility and Correctional Treatment Facility.</text>
           </para>
