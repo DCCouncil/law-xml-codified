@@ -25,14 +25,12 @@
     <para codify:path="(b)">
       <num>(a)</num>
       <text>Subsection (b) is amended by repealing paragraph (4).</text>
-      <codify:repeal path="(4)" codified:doc="D.C. Code" codified:path="§42-1903.03|(b)|(4)"/>
     </para>
     <para>
       <num>(b)</num>
       <text>A new subsection (f) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(e)" num-value="(f)" codified:doc="D.C. Code" codified:path="§42-1903.03|(f)"/>
           <num>(f)</num>
           <text>Notwithstanding any language contained in <code-cite doc="D.C. Code" path="42|19">this act</code-cite> or in the condominium instruments:</text>
           <para>
@@ -55,11 +53,6 @@
       </include>
       <aftertext>.</aftertext>
       <codify:emergency doc="D.C. Code" path="§42-1903.03" codified:doc="D.C. Code" codified:path="§42-1903.03" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§42-1903.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-1903.03">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on May 14, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§42-1903.03(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
   </section>
   <section>
@@ -68,58 +61,22 @@
     <para codify:path="§29-910">
       <num>(a)</num>
       <text>Section 29-910 is amended by striking the phrase "If authorized by the articles or bylaws" and inserting the phrase "Regardless of whether remote regular and special meetings of members are authorized by the articles or bylaws" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§29-910">
-        <find>If authorized by the articles or bylaws</find>
-        <replace>Regardless of whether remote regular and special meetings of members are authorized by the articles or bylaws</replace>
-      </codify:find-replace>
       <codify:emergency doc="D.C. Code" path="§29-910" codified:doc="D.C. Code" codified:path="§29-910" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§29-910" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§29-910">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on May 14, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§29-910(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para codify:path="§29-1005.06|(c)">
       <num>(b)</num>
       <text>Section 29-1005.06(c) is amended by striking the phrase "Unless the organic rules otherwise provide, members" and inserting the word "Members" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§29-1005.06|(c)">
-        <find>Unless the organic rules otherwise provide, members</find>
-        <replace>Members</replace>
-      </codify:find-replace>
       <codify:emergency doc="D.C. Code" path="§29-1005.06" codified:doc="D.C. Code" codified:path="§29-1005.06" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§29-1005.06" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§29-1005.06">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on May 14, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§29-1005.06(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para codify:path="§29-1005.07|(e)">
       <num>(c)</num>
       <text>Section 29-1005.07(e) is amended by striking the phrase "Unless the organic rules otherwise provide, members" and inserting the word "Members" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§29-1005.07|(e)">
-        <find>Unless the organic rules otherwise provide, members</find>
-        <replace>Members</replace>
-      </codify:find-replace>
       <codify:emergency doc="D.C. Code" path="§29-1005.07" codified:doc="D.C. Code" codified:path="§29-1005.07" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§29-1005.07" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§29-1005.07">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on May 14, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§29-1005.07(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para codify:path="§29-1008.11">
       <num>(d)</num>
       <text>Section 29-1008.11(b) is amended by striking the phrase "Unless the organic rules otherwise provide, a" and inserting the word "A" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§29-1008.11">
-        <find>Unless the organic rules otherwise provide, a</find>
-        <replace>A</replace>
-      </codify:find-replace>
       <codify:emergency doc="D.C. Code" path="§29-1008.11" codified:doc="D.C. Code" codified:path="§29-1008.11" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§29-1008.11" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§29-1008.11">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on May 14, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§29-1008.11(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
   </section>
   <section>

@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-301.30</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on July 21, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-301.30(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Vehicle inspection officers.</heading>
   <para>
     <num>(a)</num>
-    <text>Vehicle inspection officers shall undergo training on the rules and regulations governing private and public vehicles-for-hire and undergo yearly performance evaluations. Vehicle inspection officers shall be prohibited from making traffic stops of on-duty private or public vehicles-for-hire in the act of transporting a fare, unless there is reasonable suspicion of a violation, and shall act in accordance with all rules governing their duties, as established through rulemaking.</text>
+    <text>Vehicle inspection officers shall undergo training on the rules and regulations governing private and public vehicles-for-hire and carrier-for-hire vehicles and undergo yearly performance evaluations. Vehicle inspection officers shall be prohibited from making traffic stops of on-duty private or public vehicles-for-hire in the act of transporting a fare, or a carrier-for-hire vehicle in the act of transporting a parcel, food, or beverage, unless there is reasonable suspicion of a violation, and shall act in accordance with all rules governing their duties, as established through rulemaking.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -43,5 +46,9 @@
     <annotation app="2025-03-21" doc="D.C. Law 25-301" eff="2025-03-21" path="§4|(a)" type="History" display="false"/>
     <annotation app="notfunded" doc="D.C. Law 25-301" eff="2025-03-21" path="§2|(g)|(1)" type="History"/>
     <annotation app="notfunded" doc="D.C. Law 25-301" eff="2025-03-21" path="§2|(g)|(2)" type="History"/>
+    <annotation app="2025-04-24" doc="D.C. Act 26-62" eff="2025-04-24" path="§2|(d)" type="History" display="false"/>
+    <annotation app="2025-04-24" doc="D.C. Act 26-62" eff="2025-04-24" path="§2|(d)|(1)" type="History"/>
+    <annotation app="2025-04-24" doc="D.C. Act 26-62" eff="2025-04-24" path="§2|(d)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-62" path="§2|(d)" codified:display="Note" app="2025-04-24" eff="2025-04-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-62" path="§2|(d)">§ 2(d) of Department of For-Hire Vehicles Delivery Vehicle Traffic Enforcement Expansion Emergency Amendment Act of 2025 (D.C. Act 26-62, Apr. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
