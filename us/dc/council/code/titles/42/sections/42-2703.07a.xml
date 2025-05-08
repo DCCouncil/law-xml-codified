@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-2703.07a</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on July 30, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§42-2703.07a(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Reverse Mortgage Foreclosure Prevention Program.</heading>
   <para>
     <num>(a)</num>
     <para>
       <num>(1)</num>
-      <text>The Agency shall establish a Reverse Mortgage Foreclosure Prevention Program ("program") as a pilot program that allows qualified homeowners to apply for and receive financial assistance for payment of past due property taxes, property insurance debts, condominium fees, and homeowners association fees that have put the qualified homeowner at risk of foreclosure.</text>
+      <text>The Agency shall establish a Reverse Mortgage Foreclosure Prevention Program ("program")  that allows qualified homeowners to apply for and receive financial assistance for payment of past due property taxes, property insurance debts, condominium fees, and homeowner association fees that have put the qualified homeowner at risk of foreclosure.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -48,7 +45,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>A homeowner and reverse mortgage lender have entered into an agreement to pay past due balances of property taxes, insurance premiums, condominium fees, homeowner association fees on a home in which the homeowner lives, but the homeowner has demonstrated difficulty maintaining the agreement.</text>
+        <text>A homeowner and reverse mortgage lender have entered into an agreement to pay past due balances of property taxes, insurance premiums, condominium fees, and homeowner association feeson a home in which the homeowner lives, but the homeowner has demonstrated difficulty maintaining the agreement.</text>
       </para>
     </para>
     <para>
@@ -68,7 +65,7 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>Has executed a reverse mortgage with a lender financial institution, which has a recorded lien on the home in which the homeowner lives; and</text>
+        <text>Has executed, or whose spouse has executed, a reverse mortgage with a lender financial institution, which has a recorded lien on the home in which the homeowner lives; and</text>
       </para>
       <para>
         <num>(D)</num>
@@ -115,13 +112,15 @@
     <annotation app="2024-03-25" doc="D.C. Act 25-422" eff="2024-03-25" path="§2" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-583" path="§2" codified:display="Note" app="2024-10-18" eff="2024-10-18">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-583" path="§2">§ 2 of Reverse Mortgage Insurance and Tax Payment Program Extension Emergency Amendment Act of 2024 (D.C. Act 25-583, Oct. 18, 2024, 71 DCR 12841)</cite>.</annotation>
     <annotation app="2024-10-18" doc="D.C. Act 25-583" eff="2024-10-18" path="§2" type="History" display="false"/>
-    <annotation app="2024-12-17" doc="D.C. Law 25-256" eff="2024-12-17" path="§2" type="History" display="false"/>
-    <annotation app="2024-12-17" doc="D.C. Law 25-256" eff="2024-12-17" path="§2|(a)|(1)" type="History"/>
-    <annotation app="2024-12-17" doc="D.C. Law 25-256" eff="2024-12-17" path="§2|(a)|(2)" type="History"/>
-    <annotation app="2024-12-17" doc="D.C. Law 25-256" eff="2024-12-17" path="§2|(b)" type="History"/>
-    <annotation app="2024-12-17" doc="D.C. Law 25-256" eff="2024-12-17" path="§2|(c)" type="History"/>
-    <annotation app="2024-12-17" doc="D.C. Law 25-256" eff="2024-12-17" path="§2|(d)|(1)" type="History"/>
-    <annotation app="2024-12-17" doc="D.C. Law 25-256" eff="2024-12-17" path="§2|(d)|(2)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-256" path="§2" codified:display="Note" app="2024-12-17" eff="2024-12-17">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-256" path="§2">§ 2 of Reverse Mortgage Insurance and Tax Payment Program Extension Temporary Amendment Act of 2024 (D.C. Law 25-256, Dec. 17, 2024, 71 DCR 13524)</cite>.</annotation>
+    <annotation app="2024-12-17" doc="D.C. Law 25-256" eff="2024-12-17" path="§2" type="History" display="false"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-324" eff="2025-05-02" path="§101|(a)|(1)|(A)" type="History"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-324" eff="2025-05-02" path="§101|(a)|(1)|(B)" type="History"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-324" eff="2025-05-02" path="§101|(a)|(2)" type="History"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-324" eff="2025-05-02" path="§101|(b)" type="History"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-324" eff="2025-05-02" path="§101|(c)" type="History"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-324" eff="2025-05-02" path="§101|(d)|(1)|(A)" type="History"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-324" eff="2025-05-02" path="§101|(d)|(1)|(B)" type="History"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-324" eff="2025-05-02" path="§101|(d)|(2)" type="History"/>
   </annotations>
 </section>
