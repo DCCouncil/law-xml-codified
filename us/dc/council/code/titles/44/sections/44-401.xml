@@ -82,6 +82,10 @@
         <num>(B)</num>
         <text>For purposes of this paragraph, the cost of studies, appraisals, charitable donations, title searches, in-kind contributions, Internal Revenue Service 1031 exchanges, acquisition of contracts, supplies and equipment, surveys, designs, plans, working drawings, specifications, site preparation, construction, related equipment, legal fees, and other activities essential to or related to the capital expenditure shall be included in determining the total costs of the expenditure.</text>
       </para>
+      <para placeholder="Not Funded">
+        <num>(C)</num>
+        <text>Not Funded.</text>
+      </para>
     </para>
     <para>
       <num>(3A)</num>
@@ -178,6 +182,10 @@
       <num>(9A)</num>
       <text>“Expedited administrative review” means a review conducted by the SHPDA staff, using the same criteria and standards that apply to projects reviewed through use of the regular process, the results of which are reported to the SHCC at the next regularly scheduled SHCC meeting.</text>
     </para>
+    <para placeholder="Not Funded">
+      <num>(9B)</num>
+      <text>Not Funded.</text>
+    </para>
     <para>
       <num>(10)</num>
       <text>“Health care facility” (“HCF”) means any private general hospital, psychiatric hospital, other specialty hospital, rehabilitation facility, skilled nursing facility, intermediate care facility, ambulatory care center or clinic, ambulatory surgical facility, kidney disease treatment center, freestanding hemodialysis facility, diagnostic health care facility home health agency, hospice, or other comparable health care facility which has an annual operating budget of at least $500,000. “Health facility” shall not include Christian Science sanitariums operated, listed, and certified by the First Church of Christ Scientist, Boston, Massachusetts; the private office facilities of a health professional or group of health professionals, where the health professional or group of health professionals provides conventional office services limited to medical consultation, general non-invasive examination, and minor treatment, or a health care facility licensed or to be licensed as a community residence facility, or an Assisted Living Residence as defined by <cite path="§44-102.01">§ 44-102.01</cite>.</text>
@@ -249,6 +257,10 @@
         <text>Any health service offered by or on behalf of a HCF and which was not offered on a regular basis by the HCF within the 12-month period prior to the time the service would be offered or which involves an operating budget of at least $600,000 in direct costs for the first year of operation, except that the SHPDA may, by rule, adjust this threshold annually to reflect the change in the medical care component of the Consumer Price Index issued by the Bureau of Labor Statistics, U.S. Department of Labor, or which results in a capital expenditure in any amount.</text>
       </para>
     </para>
+    <para placeholder="Not Funded">
+      <num>(15A)</num>
+      <text>Not Funded.</text>
+    </para>
     <para>
       <num>(16)</num>
       <text>“Person” means an individual, a trust, or estate, a partnership, or a corporation (including associations, joint stock companies, and insurance companies), the District government, or an agency, subdivision, or instrumentality of the District government.</text>
@@ -268,6 +280,14 @@
     <para>
       <num>(20)</num>
       <text>“Uncompensated care” means the cost of health care services rendered to patients for which the health care facility does not receive payment. The term “uncompensated care” includes bad debt and charity care, but does not include contractual allowances.</text>
+    </para>
+    <para placeholder="Not Funded">
+      <num>(21)</num>
+      <text>Not Funded.</text>
+    </para>
+    <para placeholder="Not Funded">
+      <num>(22)</num>
+      <text>Not Funded.</text>
     </para>
   </para>
   <annotations>
@@ -312,5 +332,27 @@
     <annotation app="2020-03-10" doc="D.C. Law 23-60" eff="2020-03-10" path="§2|(a)|(3)" type="History"/>
     <annotation app="2020-03-10" doc="D.C. Law 23-60" eff="2020-03-10" path="§2|(a)|(2)" type="History"/>
     <annotation app="2020-03-10" doc="D.C. Law 23-60" eff="2020-03-10" path="§2|(a)|(4)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 26-7" path="§2|(a)" codified:display="Note" app="2025-06-10" eff="2025-06-10">Applicability of <cite doc="D.C. Law 26-7" path="">D.C. Law 26-7</cite>: <cite doc="D.C. Law 26-7" path="§4">§ 4 of D.C. Law 26-7</cite> provided that the amendment to this section by <cite doc="D.C. Law 26-7" path="§2|(a)">§ 2(a) of D.C. Law 26-7</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2025-06-10" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(a)" type="History"/>
+    <annotation app="2025-06-10" doc="D.C. Law 26-7" eff="2025-06-10" path="§4|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(a)|(1)|(A)|(i)|(I)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(a)|(1)|(A)|(i)|(II)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(a)|(1)|(A)|(ii)|(I)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(a)|(1)|(A)|(ii)|(II)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(a)|(1)|(A)|(iii)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(a)|(1)|(B)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(a)|(2)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(a)|(3)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(a)|(4)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(a)|(5)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(a)|(6)|(A)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(a)|(6)|(B)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(a)|(6)|(C)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(a)|(7)|(A)|(i)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(a)|(7)|(A)|(ii)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(a)|(7)|(B)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(a)|(8)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(a)|(9)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(a)|(10)" type="History"/>
   </annotations>
 </section>
