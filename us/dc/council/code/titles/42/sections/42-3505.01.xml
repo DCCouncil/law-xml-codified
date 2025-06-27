@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>42-3505.01</num>
   <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on July 30, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§42-3505.01(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on September 23, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§42-3505.01(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Evictions.</heading>
   <para>
@@ -462,15 +462,62 @@
     <num>(r)</num>
     <para>
       <num>(1)</num>
-      <text>The court may stay any proceedings for a claim brought by a housing provider to recover possession of a rental unit for non-payment of rent if a tenant submits documentation to the court demonstrating that he or she has a pending Emergency Rental Assistance Program application; provided, that the court may stay proceedings pursuant to this subsection only once during the pendency of the case.</text>
+      <text>The court may stay any proceeding adjudicating a claim brought by a housing provider to recover possession of a rental unit for nonpayment of rent if a tenant submits documentation to the court demonstrating that he or she has a pending Emergency Rental Assistance Program ("ERAP") application; provided, that the court may stay a proceeding under this subsection only once during the pendency of the case.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The proviso in paragraph (1) of this subsection shall not be construed to limit a court's discretion to extend or continue a stay.</text>
+      <text>Paragraph (1) of this subsection shall not be construed to limit a court's discretion to extend a stay.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>When an eviction that involves non-payment of rent has been authorized by the court and a tenant notifies the housing provider that he or she has an approved Emergency Rental Assistance Program application that would pay the full amount of unpaid rent owed by the tenant no later than 48 hours prior to the scheduled date and time of the eviction, the housing provider shall reschedule the eviction for a date no earlier than 3 weeks from the current scheduled eviction date to allow for the application to be processed, a determination of funding to be made, and, if the application is approved, funding to be distributed to the housing provider.</text>
+      <text>When an eviction based solely on a claim for nonpayment of rent has been authorized by the court and the tenant notifies the housing provider, no later than 48 hours prior to the scheduled date and time of the eviction, that the tenant has an approved ERAP application that would pay the full amount necessary to redeem the tenancy, the housing provider shall cancel the eviction. If the housing provider then reschedules the eviction, the housing provider shall reschedule the eviction for a date no sooner than 3 weeks from the earlier-scheduled eviction date.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>A housing provider that cancels an eviction under paragraph (3) of this subsection shall have leave to file an alias writ ("writ"), and no further leave of court shall be required for the next-requested issuance of a writ following the cancellation of the originally scheduled eviction. This paragraph shall not apply if a judgment is permanently stayed by a tenant's redemption of a tenancy.</text>
+    </para>
+  </para>
+  <para>
+    <num>(s)</num>
+    <text>In any matter adjudicating a claim brought by a housing provider to recover possession of a rental unit for nonpayment of rent in which the tenant alleges, at or before an initial hearing, that the housing provider is withholding payment information requested by an ERAP provider, the court may order the housing provider to comply with any pending requests for the payment information from an ERAP provider.</text>
+  </para>
+  <para>
+    <num>(t)</num>
+    <para>
+      <num>(1)</num>
+      <text>In any matter adjudicating a claim brought by a housing provider to recover possession of a rental unit for nonpayment of rent in which the court finds, at trial or upon the resolution of a dispositive motion resolving the entire matter, that the housing provider failed to provide payment information requested by an ERAP provider for more than 45 days after receiving a request for the payment information from an ERAP provider, the court may order that the amount of rent that would have been redeemed by a successful ERAP application be deemed waived and shall not be recoverable by the housing provider.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The court shall not waive rent under paragraph (1) of this subsection if the housing provider shows that:</text>
+      <para>
+        <num>(A)</num>
+        <text>Compliance with a request for payment information necessary to perfect an ERAP application was delayed by a third party not under the control of the housing provider;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Good cause otherwise exists for the housing provider's non-compliance; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The housing provider has, since the date of the relevant request for payment information, received payment from ERAP on behalf of the tenant.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>A waiver of rent under paragraph (1) of this subsection shall apply to any future proceeding in which the housing provider seeks from the tenant:</text>
+      <para>
+        <num>(A)</num>
+        <text>The recovery of possession of the rental unit the rent for which was waived under paragraph (1) of this subsection; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A money judgment for the waived rent.</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Nothing in this subsection shall limit a tenant's ability to assert any defense to an outstanding rent balance sought by a housing provider.</text>
     </para>
   </para>
   <annotations>
@@ -632,8 +679,11 @@
     <annotation app="2023-11-28" doc="D.C. Law 25-65" eff="2023-11-28" path="§2|(c)|(2)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-572" path="§3" codified:display="Note" app="2024-10-18" eff="2024-10-18">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-572" path="§3">§ 3 of Emergency Rental Assistance Reform Emergency Amendment Act of 2024 (D.C. Act 25-572, Oct. 18, 2024, 71 DCR 12813)</cite>.</annotation>
     <annotation app="2024-10-18" doc="D.C. Act 25-572" eff="2024-10-18" path="§3" type="History" display="false"/>
-    <annotation app="2024-12-17" doc="D.C. Law 25-253" eff="2024-12-17" path="§3" type="History" display="false"/>
-    <annotation app="2024-12-17" doc="D.C. Law 25-253" eff="2024-12-17" path="§3" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-253" path="§3" codified:display="Note" app="2024-12-17" eff="2024-12-17">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-253" path="§3">§ 3 of Emergency Rental Assistance Reform Temporary Amendment Act of 2024 (D.C. Law 25-253, Dec. 17, 2024, 71 DCR 13497)</cite>.</annotation>
+    <annotation app="2024-12-17" doc="D.C. Law 25-253" eff="2024-12-17" path="§3" type="History" display="false"/>
+    <annotation app="2025-06-25" doc="D.C. Act 26-85" eff="2025-06-25" path="§3|(b)" type="History" display="false"/>
+    <annotation app="2025-06-25" doc="D.C. Act 26-85" eff="2025-06-25" path="§3|(b)|(1)" type="History"/>
+    <annotation app="2025-06-25" doc="D.C. Act 26-85" eff="2025-06-25" path="§3|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-85" path="§3|(b)" codified:display="Note" app="2025-06-25" eff="2025-06-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-85" path="§3|(b)">§ 3(b) of Emergency Rental Assistance Program Reform Congressional Review Emergency Amendment Act of 2025 (D.C. Act 26-85, June 25, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

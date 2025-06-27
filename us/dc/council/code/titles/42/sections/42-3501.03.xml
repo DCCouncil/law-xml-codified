@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-3501.03</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on September 23, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§42-3501.03(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <para>
@@ -94,6 +97,10 @@
       <text>"Elderly tenant" means a tenant who is 62 years of age or older.</text>
     </para>
     <para>
+      <num>(12A)</num>
+      <text>"ERAP provider" means a vendor that processes applications for Emergency Rental Assistance Funds.</text>
+    </para>
+    <para>
       <num>(13)</num>
       <text>“Equity” means the portion of the assessed value of a housing accommodation that exceeds the total value of all encumbrances on the housing accommodation.</text>
     </para>
@@ -148,6 +155,10 @@
     <para>
       <num>(23)</num>
       <text>“Other income which is derived from the housing accommodation” means any income, other than rents, which a housing provider earns because of his or her interest in a housing accommodation, including, but not limited to, fees, commissions, income from vending machines, income from laundry facilities, and income from parking and recreational facilities.</text>
+    </para>
+    <para>
+      <num>(23A)</num>
+      <text>"Payment information" means documents or information that identify the owner or manager of a rental unit, identify the balance of rent owed by a tenant, or facilitate the payment of the owner or manager of a rental unit, and that are necessary to perfect an application for Emergency Rental Assistance Funds, which may include personal identification, a W-9 form, a basic business license, proof of a Social Security Number, a property management agreement, or a rent ledger, but which shall not include the content of, or information associated with, a payment plan.</text>
     </para>
     <para>
       <num>(24)</num>
@@ -282,5 +293,9 @@
     <annotation app="2025-03-21" doc="D.C. Law 25-308" eff="2025-03-21" path="§2|(a)" type="History"/>
     <annotation app="2025-03-21" doc="D.C. Law 25-308" eff="2025-03-21" path="§4|(a)" type="History" display="false"/>
     <annotation app="notfunded" doc="D.C. Law 25-308" eff="2025-03-21" path="§2|(a)" type="History"/>
+    <annotation app="2025-06-25" doc="D.C. Act 26-85" eff="2025-06-25" path="§3|(a)" type="History" display="false"/>
+    <annotation app="2025-06-25" doc="D.C. Act 26-85" eff="2025-06-25" path="§3|(a)|(1)" type="History"/>
+    <annotation app="2025-06-25" doc="D.C. Act 26-85" eff="2025-06-25" path="§3|(a)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-85" path="§3|(a)" codified:display="Note" app="2025-06-25" eff="2025-06-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-85" path="§3|(a)">§ 3(a) of Emergency Rental Assistance Program Reform Congressional Review Emergency Amendment Act of 2025 (D.C. Act 26-85, June 25, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
