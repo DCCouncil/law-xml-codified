@@ -1,13 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <num>23-1322</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 12, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§23-1322(Perm)">Permanent Version</cite>.*
-      </text>
-  <text>
-      *NOTE: The amendments to this section by <cite doc="D.C. Law 25-175" path="§30|(k)">section 30(k) of D.C. Law 25-175</cite> shall expire on December 31, 2026.*
-      </text>
+  <num>23-1322(Perm)</num>
   <heading>Detention prior to trial.</heading>
+  <text>
+  *NOTE: This codification is <u><b>not</b></u> the most current, due to recent law changes. To see the current law (including emergency and temporary legislation, if relevant) click this link: <cite path="§23-1322">Current Version</cite>*
+  </text>
   <para>
     <num>(a)</num>
     <text>The judicial officer shall order the detention of a person charged with an offense for a period of not more than 5 days, excluding Saturdays, Sundays, and holidays, and direct the attorney for the government to notify the appropriate court, probation or parole official, or local or state law enforcement official, if the judicial officer determines that the person charged with an offense:</text>
@@ -72,7 +69,7 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>Committed a dangerous crime , as that term is defined in <cite path="§23-1331">§ 23-1331</cite>, and has previously been convicted of a dangerous crime or a crime of violence which was committed while on release pending trial for a local, state, or federal offense;</text>
+      <text>Committed a dangerous crime, as that term is defined in <cite path="§23-1331">§ 23-1331</cite>, and has previously been convicted of a dangerous crime or a crime of violence which was committed while on release pending trial for a local, state, or federal offense;</text>
     </para>
     <para>
       <num>(4)</num>
@@ -82,7 +79,7 @@
       <num>(5)</num>
       <text>Committed 2 or more dangerous crimes in separate incidents that are joined in the case before the judicial officer;</text>
     </para>
-    <para placeholder="Repealed">
+    <para>
       <num>(6)</num>
       <text>[Repealed].</text>
     </para>
@@ -96,7 +93,7 @@
     </para>
     <para>
       <num>(9)</num>
-      <text>Committed a crime of violence, as that term is defined in <cite path="§23-1331|(4)">§ 23-1331(4)</cite>; except, that robbery where the victim does not sustain a physical injury and burglary in the second degree shall not be subject to the rebuttable presumption of detention under this subsection.</text>
+      <text>Committed a crime of violence, as that term is defined in <cite path="§23-1331|(4)">§ 23-1331(4)</cite>.</text>
     </para>
   </para>
   <para>
@@ -294,6 +291,8 @@
     <annotation doc="D.C. Law 18-88" type="History">Dec. 10, 2009, D.C. Law 18-88, § 223, 56 DCR 7413</annotation>
     <annotation doc="D.C. Law 19-171" type="History">Sept. 26, 2012, D.C. Law 19-171, § 78, 59 DCR 6190</annotation>
     <annotation doc="D.C. Law 19-320" type="History">June 19, 2013, D.C. Law 19-320, § 107(c), 60 DCR 3390</annotation>
+    <annotation doc="D.C. Law 21-238" type="History">Apr. 4, 2017, D.C. Law 21-238, § 103, 63 DCR 15312</annotation>
+    <annotation doc="D.C. Law 25-175" type="History" path="§30|(f)">June 8, 2024, D.C. Law 25-175, § 30(f), 71 DCR 2732</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 107(c) of the Omnibus Criminal Code Amendment Congressional Review Emergency Act of 2013 (D.C. Act 20-44, April 1, 2013,  60 DCR 5381, 20 DCSTAT 1281).</annotation>
     <annotation type="Emergency Legislation">For temporary amendment of (c)(7), see § 107(c) of the Omnibus Criminal Code Amendments Emergency Amendment Act of 2012 (D.C. Act 19-599, January 14, 2013,  60 DCR 1017).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 402 of Crime Bill Emergency Amendment Act of 2009 (D.C. Act 18-129, June 29, 2009,  56 DCR 5495).</annotation>
@@ -306,56 +305,17 @@
     <annotation type="Emergency Legislation">For temporary amendment of section, see § 602 of the Omnibus Criminal Justice Reform Emergency Amendment Act of 1994 (D.C. Act 10-255, June 22, 1994,  41 DCR 4286).</annotation>
     <annotation type="Temporary Legislation">Section 4(b) of <cite doc="D.C. Law 14-115">D.C. Law 14-115</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
     <annotation type="Temporary Legislation"><cite doc="D.C. Law 14-115">D.C. Law 14-115</cite>, in subsec. (a)(1)(C), substituted “Probation, parole, or supervised release,” for “Probation, or parole”; and, in subsec. (e)(3)(B), inserted “on supervised release,” following “parole,”.</annotation>
+    <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-320">D.C. Law 19-320</cite> substituted “or <cite path="§22-4503">§ 22-4503</cite> (unlawful possession of a firearm)” for “<cite path="§22-4503">§ 22-4503</cite> (unlawful possession of a firearm) or [<cite path="§22-2511">§ 22-2511</cite>] (presence in a motor vehicle containing a firearm)” in (c)(7).</annotation>
+    <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> made a technical correction to <cite doc="D.C. Law 18-88">D.C. Law 18-88</cite> which did not affect this section as codified.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-88">D.C. Law 18-88</cite>, in subsec. (c), substituted “probable cause” for “a substantial probability” in the lead-in language, deleted “or” from the end of par. (6), rewrote par. (7), and added par. (8). Prior to amendment, par. (7) of subsec. (c) read as follows: “(7) Committed CPWL, carrying a pistol without a license.”</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-308">D.C. Law 16-308</cite>, in subsec. (c), substituted “imitation firearm, or other deadly or dangerous weapon;” for “or imitation firearm;” in par. (1), deleted “; or” from the end of par. (3), substituted a semicolon for a period at the end of par. (4), and added pars. (5), (6), and (7).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-134">D.C. Law 14-134</cite>, in subsec. (a)(1)(C), substituted “Probation, parole, or supervised release” for “Probation or parole”; and in subsec. (e)(3)(B), inserted “on supervised release,” following “parole,”.</annotation>
+    <annotation type="Effect of Amendments">“(2) Include the days detained pending a detention hearing and the days in confinement on temporary detention under subsection (a) of this section whether or not continuous with full pretrial detention. The defendant shall be treated in accordance with <cite path="§23-1321|(a)">§ 23-1321(a)</cite> unless the trial is in progress, has been delayed by the timely filing of motions excluding motions for continuance, or has been delayed at the request of the defendant.”</annotation>
+    <annotation type="Effect of Amendments">“(1) Begin on the date defendant is first detained after arrest; and</annotation>
+    <annotation type="Effect of Amendments">“(h) The case of the person detained pursuant to subsection (b) of this section shall be placed on an expedited calendar and, consistent with the sound administration of justice, the person shall be indicted before the expiration of 90 days, and shall have trial of the case commence before the expiration of 100 days. However, the person may be detained for an additional period not to exceed 20 days from the date of the expiration of the 100-day period on the basis of a petition submitted by the attorney for the government and approved by the judicial officer. The additional period of detention may be granted only on the basis of good cause shown and shall be granted only for the additional time required to prepare for the expedited trial of the person. For the purposes of determining the maximum period of detention under this section, the period shall not exceed 120 days. The period shall:</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-310">D.C. Law 13-310</cite>, in subsec. (a), inserted “or misdemeanor” following “felony” in par. (1)(A), and inserted “or, when a hearing under <cite path="§23-1329|(b)">§ 23-1329(b)</cite> is requested, is likely to violate a condition of release” in par. (2); in subsec. (f)(2)(B), substituted “immediate arrest or” for “the immediate”; and rewrote subsec. (h) which had read:</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 23-1322.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 23-1322.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§23-1321">§ 23-1321</cite>, <cite path="§23-1323">§ 23-1323</cite>, <cite path="§23-1324">§ 23-1324</cite>, and <cite path="§23-1329">§ 23-1329</cite>.</annotation>
-    <annotation app="2017-04-04" doc="D.C. Law 21-238" eff="2017-04-04" path="§103" type="History"/>
-    <annotation type="Applicability" codified:display="Note" app="2017-04-04" eff="2017-04-04" doc="D.C. Law 21-238" path="§103">Applicability of <cite doc="D.C. Law 21-238" path="">D.C. Law 21-238</cite>: <cite doc="D.C. Law 21-238" path="§701">§ 701 of D.C. Law 21-238</cite> provided that the change made to this section by <cite doc="D.C. Law 21-238" path="§103">§ 103 of D.C. Law 21-238</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-104" path="§7026" codified:display="Note" app="2017-07-20" eff="2017-07-20">For temporary (90 days) amendment of § 701|(a) of D.C. Law 21-238, see <cite doc="D.C. Act 22-104" path="§7026">§ 7026 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, July 20, 2017, 64 DCR 7032)</cite>.</annotation>
-    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7026" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§7026" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) amendment of § 701|(a) of D.C. Law 21-238, see <cite doc="D.C. Act 22-167" path="§7026">§ 7026 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
-    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7026" type="History" display="false"/>
-    <annotation doc="D.C. Law 22-168" path="§7016" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, retaining the applicability restrictions impacting this section. Therefore the changes made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have not been implemented.
-            </annotation>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7016" type="History" display="false"/>
-    <annotation doc="D.C. Law 22-168" path="§7016" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§7016">Section 7016 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 21-238" path="§701">Section 701 of D.C. Law 21-238</cite>. Therefore the amendments made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have been implemented.</annotation>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-175" path="§7|(c)" codified:display="Note" app="2023-07-20" eff="2023-07-20">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-175" path="§7|(c)">§ 7(c) of Prioritizing Public Safety Emergency Amendment Act of 2023 (D.C. Act 25-175, July 20, 2023, 70 DCR 10358)</cite>.</annotation>
-    <annotation app="2023-07-20" doc="D.C. Act 25-175" eff="2023-07-20" path="§7|(c)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-257" path="§6|(c)" codified:display="Note" app="2023-10-16" eff="2023-10-16">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-257" path="§6|(c)">§ 6(c) of Prioritizing Public Safety Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-257, Oct. 16, 2023, 70 DCR 13849)</cite>.</annotation>
-    <annotation app="2023-10-16" doc="D.C. Act 25-257" eff="2023-10-16" path="§6|(c)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-339" path="§7|(c)" codified:display="Note" app="2023-12-21" eff="2023-12-21">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-339" path="§7|(c)">§ 7(c) of Prioritizing Public Safety Second Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-339, Dec. 21, 2023, 70 DCR 16594)</cite>.</annotation>
-    <annotation app="2023-12-21" doc="D.C. Act 25-339" eff="2023-12-21" path="§7|(c)" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-101" path="§7|(c)" codified:display="Note" app="2024-01-17" eff="2024-01-17">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-101" path="§7|(c)">§ 7(c) of Prioritizing Public Safety Temporary Amendment Act of 2023 (D.C. Law 25-101, Jan. 17, 2024, 70 DCR 13762)</cite>.</annotation>
-    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§7|(c)" type="History" display="false"/>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(B)" type="History"/>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(C)" type="History"/>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(D)" type="History"/>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(E)" type="History"/>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(F)" type="History"/>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(G)" type="History"/>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(A)" type="History"/>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(H)" type="History"/>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(2)|(A)" type="History"/>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(2)|(B)" type="History"/>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(2)|(C)" type="History"/>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(3)" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 25-175" path="§30|(f)" codified:display="Note" app="2024-06-08" eff="2024-06-08">Applicability of <cite doc="D.C. Law 25-175" path="">D.C. Law 25-175</cite>: <cite doc="D.C. Law 25-175" path="§45">§ 45 of D.C. Law 25-175</cite> provided that the amendment of this section by <cite doc="D.C. Law 25-175" path="§30|(f)">§ 30(f) of D.C. Law 25-175</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)" type="History"/>
-    <annotation doc="D.C. Law 25-175" path="§30|(f)" type="Applicability" history="false" app="2024-06-08" eff="2024-06-08">
-        The District's Chief Financial Officer stated in a letter to the Council's Budget Director, dated August 5, 2024, that the amendment of this section by D.C. Law 25-175 has been funded. Therefore that amendment has been implemented.
-      </annotation>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)" type="History" display="false"/>
-    <annotation doc="D.C. Law 25-217" path="§7290|(b)" type="Expiration of Law" history="false" display-template="" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-217" path="§7290|(b)"> Section 7290(b) of D.C. Law 25-217</cite> provided that the amendments made to this section by § 30(f) of D.C. Law 25-175 shall expire 225 days after October 1, 2024.
-      </annotation>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7290|(b)" type="History" display="false"/>
-    <annotation doc="D.C. Law 26-14" path="§2|(b)" type="Expiration of Law" history="false" app="2025-06-17" eff="2025-06-17"><cite doc="D.C. Law 26-14" path="§2|(b)"> Section 2(b) of D.C. Law 26-14</cite> provided that the amendments made to this section by § 30(f) of D.C. Law 25-175 shall expire on July 15, 2025.
-      </annotation>
-    <annotation app="2025-06-17" doc="D.C. Law 26-14" eff="2025-06-17" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2025-07-14" doc="D.C. Act 26-109" eff="2025-07-14" path="§7|(b)|(1)|(H)" type="History" display="false"/>
-    <annotation app="2025-07-14" doc="D.C. Act 26-109" eff="2025-07-14" path="§7|(b)|(2)" type="History" display="false"/>
-    <annotation app="2025-07-14" doc="D.C. Act 26-109" eff="2025-07-14" path="§7|(b)|(1)|(H)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-109" path="§7|(b)|(1)|(H)" codified:display="Note" app="2025-07-14" eff="2025-07-14">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-109" path="§7|(b)|(1)|(H)">§ 7(b)(1)(H) of Peace DC Omnibus Emergency Amendment Act of 2025 (D.C. Act 26-109, July 14, 2025, 72 DCR 8013)</cite>.</annotation>
-    <annotation doc="D.C. Act 26-109" path="§7|(b)|(2)" type="Expiration of Law" history="false" app="2025-07-14" eff="2025-07-14"><cite doc="D.C. Act 26-109" path="§7|(b)|(2)"> Section 7(b)(2) of D.C. Act 26-109</cite> provided that the amendments made to this section by § 30(f) of D.C. Law 25-175 shall expire on December 31, 2026.
-      </annotation>
   </annotations>
 </section>
