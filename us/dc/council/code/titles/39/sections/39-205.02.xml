@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>39-205.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on [EXPIRATION DATE]. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§39-205.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Humanities grant program.</heading>
   <para>
     <num>(a)</num>
@@ -14,7 +17,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>Up to 30% of each disbursement from the Humanities Grant Program budget to HumanitiesDC may be utilized by HumanitiesDC for administrative expenses, capacity building, technical assistance, and evaluation of the Humanities Grant Program.</text>
+      <text>Up to 40% of each disbursement from the Humanities Grant Program budget to HumanitiesDC may be utilized by HumanitiesDC for administrative expenses, capacity building, technical assistance, and evaluation of the Humanities Grant Program.</text>
     </para>
   </para>
   <para>
@@ -58,5 +61,8 @@
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2004|(e)|(2)" type="History"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2004|(e)|(3)|(A)" type="History"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2004|(e)|(3)|(B)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2032" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2032" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2032" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2032">§ 2032 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

@@ -27,6 +27,10 @@
     <num>(6)</num>
     <text>"Locally grown" means from a grower in Delaware, the District, Maryland, New Jersey, North Carolina, Pennsylvania, Virginia, or West Virginia.</text>
   </para>
+  <para placeholder="Not Funded">
+    <num>(6A)</num>
+    <text>Not Funded.</text>
+  </para>
   <para>
     <num>(7)</num>
     <text>"Urban agriculture" means the practice of growing, cultivating, processing, and distributing vegetables, fruits, grains, mushrooms, honey, herbs, nuts, seeds, and rootstock within the District.</text>
@@ -34,5 +38,10 @@
   <annotations>
     <annotation app="2015-03-10" doc="D.C. Law 20-191" eff="2015-03-10" path="" type="History" display="false"/>
     <annotation app="2015-03-10" doc="D.C. Law 20-191" eff="2015-03-10" path="§2" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 26-27" path="§4|(b)" codified:display="Note" app="2025-08-23" eff="2025-08-23">Applicability of <cite doc="D.C. Law 26-27" path="">D.C. Law 26-27</cite>: <cite doc="D.C. Law 26-27" path="§5">§ 5 of D.C. Law 26-27</cite> provided that the amendment to this section by <cite doc="D.C. Law 26-27" path="§4|(b)">§ 4(b) of D.C. Law 26-27</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2025-08-23" doc="D.C. Law 26-27" eff="2025-08-23" path="§4|(b)" type="History"/>
+    <annotation app="2025-08-23" doc="D.C. Law 26-27" eff="2025-08-23" path="§5|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 26-27" eff="2025-08-23" path="§4|(b)|(1)|(A)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-27" eff="2025-08-23" path="§4|(b)|(1)|(B)" type="History"/>
   </annotations>
 </section>

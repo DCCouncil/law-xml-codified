@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Act 26-80">
+<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 26-22" codify:doc="D.C. Code">
+  <num type="law">26-22</num>
   <num type="act">26-80</num>
   <num type="bill">26-40</num>
   <heading type="short">1333 M Street, SE Tax Abatement Amendment Act of 2025</heading>
   <heading type="long">To amend Chapter 46 of Title 47 of the District of Columbia Official Code to abate the real property taxes on the real property known for tax assessment purposes as Lot 2, Square 1048, Suffix-S, and located at 1333 M Street, SE, in Ward 6.</heading>
   <meta>
     <introduced>2025-01-10</introduced>
-    <effective projected="true">2025-09-16</effective>
+    <effective>2025-08-16</effective>
     <citations>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/56909/Signed_Act/B26-0040-Signed_Act.pdf?Id=215574">D.C. Law 26-22</citation>
       <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/56909/Signed_Act/B26-0040-Signed_Act.pdf?Id=215574">D.C. Act 26-80</citation>
       <citation type="register">72 DCR 7515</citation>
     </citations>
@@ -21,7 +23,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "1333 M Street, SE Tax Abatement Amendment Act of 2025".</text>
-  <section>
+  <section codify:path="47|46">
     <num>2</num>
     <text>Chapter 46 of Title 47 of the District of Columbia Official Code is amended as follows:</text>
     <para>
@@ -42,6 +44,7 @@
       <text>A new section 47-4682 is added to read as follows:</text>
       <include>
         <section>
+          <codify:insert after="§47-4681" num-value="47-4682" codified:doc="D.C. Code" codified:path="§47-4682"/>
           <prefix>§</prefix>
           <num>47-4682</num>
           <heading proof="needed">1333 M Street, SE development project tax abatement.</heading>
@@ -71,7 +74,7 @@
           </para>
           <para>
             <num>(b)</num>
-            <text>Subject to subsections (c) and (d) of this section, for the 15 consecutive tax years beginning on October 1, 2029, the Property shall be allowed an annual real property tax abatement equal to the amount of the real property taxes assessed and imposed by Chapter 8 of this title, in excess of any amount over $150,000 per year.</text>
+            <text>Subject to subsections (c) and (d) of this section, for the 15 consecutive tax years beginning on October 1, 2029, the Property shall be allowed an annual real property tax abatement equal to the amount of the real property taxes assessed and imposed by <cite doc="D.C. Code" path="47|8">Chapter 8 of this title</cite>, in excess of any amount over $150,000 per year.</text>
           </para>
           <para>
             <num>(c)</num>

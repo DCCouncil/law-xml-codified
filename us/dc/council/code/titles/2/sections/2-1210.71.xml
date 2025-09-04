@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>2-1210.71</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on [EXPIRATION DATE]. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§2-1210.71(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Establishment of the Neighborhood Prosperity Initiative.</heading>
   <para>
     <num>(a)</num>
@@ -33,14 +36,26 @@
       <num>(1)</num>
       <text>"Certified Business Enterprise agreement" means an agreement with the Department of Small and Local Business Development pursuant to <cite path="2|2|IX-A">subchapter IX-A of Chapter 2 of this title</cite>.</text>
     </para>
-  </para>
-  <para>
-    <num>(2)</num>
-    <text>"First Source agreement" means an agreement with the Department of Employment Services governing certain obligations of the developer pursuant to <cite path="§2-219.03">§ 2-219.03</cite> and Mayor's Order 83-265, dated November 9, 1983, regarding job creation and employment generated as a result of the construction on the property.</text>
-  </para>
-  <para>
-    <num>(3)</num>
-    <text>"Qualifying project" means a mixed-use or retail real estate development project that is in a low-income community, as that term is defined in section 45D of the Internal Revenue Code of 1986, approved December 21, 2000 (114 Stat. 2763; 26 U.S.C. § 45D).</text>
+    <para>
+      <num>(2)</num>
+      <text>"First Source agreement" means an agreement with the Department of Employment Services governing certain obligations of the developer pursuant to <cite path="§2-219.03">§ 2-219.03</cite> and Mayor's Order 83-265, dated November 9, 1983, regarding job creation and employment generated as a result of the construction on the property.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Qualifying project" means a mixed-use or retail real estate development project that is located in a:</text>
+      <para>
+        <num>(A)</num>
+        <text>Low-income community, as that term is defined in section 45D(e) of the Internal Revenue Code of 1986, approved December 21, 2000 (114 Stat. 2763; 26 U.S.C. § 45D(e));</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Retail Priority Area established by, or approved by the Council pursuant to, <cite path="§2-1217.73">§ 2-1217.73</cite>; provided, that the mixed-use or retail real estate development project borders on or touches along an edge of a Neighborhood Prosperity Fund boundary as established by the Mayor; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Main Street corridor supported by the Department of Small and Local Business Development; provided, that the mixed-use or retail real estate development project borders on or touches along an edge of a Neighborhood Prosperity Fund boundary as established by the Mayor.</text>
+      </para>
+    </para>
   </para>
   <annotations>
     <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="II|B" type="History" display="false"/>
@@ -52,5 +67,8 @@
     <annotation app="2022-07-27" doc="D.C. Act 24-536" eff="2022-07-27" path="§2" type="History" display="false"/>
     <annotation app="2022-11-03" doc="D.C. Act 24-628" eff="2022-11-03" path="§2" type="History" display="false"/>
     <annotation app="2022-12-13" doc="D.C. Law 24-196" eff="2022-12-13" path="§2" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2022" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2022" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2022" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2022">§ 2022 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
