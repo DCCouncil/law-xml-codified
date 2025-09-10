@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-820.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-820.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Residential real property subject to certain affordability and resale restrictions; Mayor to issue rules.</heading>
   <para>
     <num>(a)</num>
@@ -38,6 +41,10 @@
     <text>For the purposes of this section, the term “resale restricted properties” means any properties for which a United States or District of Columbia government entity, or a charitable organization with tax-exempt status under section 501(c)(3) of the Internal Revenue Code of 1986, approved October 22, 1986 (100 Stat. 2085; 26 U.S.C. § 501(c)(3)), directly or indirectly, imposes limitations, encumbrances, or restrictions upon the properties’ subsequent sale or transfer that are intended to preserve or promote the affordability of housing for low- and moderate-income owners, for a period of not less than 5 years.</text>
   </para>
   <para>
+    <num>(c-1)</num>
+    <text>If the grounds of a resale restricted property are owned by a community land trust as defined by <cite path="§47-803|(1)">§ 47-803(1)</cite> and are subject to a land lease with the community land trust as the lessor, the assessed value of the grounds shall be based upon the average annual rent over the term of the lease, including renewals, capitalized at a rate of 10%, plus any additional actual consideration payable; except, that the amount to which the rate is applied shall not exceed the fair market value of the real property covered by the interest transferred.</text>
+  </para>
+  <para>
     <num>(d)</num>
     <text>The Mayor shall promulgate rules for the administration of this section within one year of [October 20, 2005].</text>
   </para>
@@ -51,5 +58,8 @@
     <annotation doc="D.C. Law 20-190" type="History">Mar. 10, 2015, D.C. Law 20-190, § 3, 61 DCR 12156</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) additions, see §§ 1281(a)(3), 1282, 1283 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005,  52 DCR 7667).</annotation>
     <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-190">D.C. Law 20-190</cite> added the (a)(1)(B)(i) designation; and added (a)(1)(B)(ii).</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2152|(a)|(2)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2152|(a)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2152|(a)|(2)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2152|(a)|(2)">§ 2152(a)(2) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
