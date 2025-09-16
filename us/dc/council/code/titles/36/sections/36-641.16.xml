@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>36-641.16</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§36-641.16(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Authority of the Office.</heading>
   <para>
     <num>(a)</num>
@@ -37,10 +34,6 @@
       <text>The business has been closed by another District government agency.</text>
     </para>
   </para>
-  <para>
-    <num>(f)</num>
-    <text>The Office shall promptly notify ABCA if a licensed establishment is the subject of a citation, revocation, or other enforcement action taken by the Office in accordance with the provisions of <cite path="36|6|III">this subchapter</cite>.</text>
-  </para>
   <annotations>
     <annotation doc="D.C. Law 3-172" type="History" path="§416">Mar. 10, 1981, D.C. Law 3-172, § 416</annotation>
     <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(a)" type="History" display="false"/>
@@ -53,8 +46,5 @@
     <annotation app="2021-04-27" doc="D.C. Law 23-280" eff="2021-04-27" path="§7|(a)|(3)" type="History" display="false"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-280" eff="2021-04-27" path="§7|(b)" prefix="as added" type="History"/>
     <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§6|(a)" type="History"/>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2064|(b)" type="History" display="false"/>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2064|(b)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2064|(b)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2064|(b)">§ 2064(b) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

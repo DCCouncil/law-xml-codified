@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-358.05</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§2-358.05(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Surplus Property Sales Fund.</heading>
   <para>
     <num>(a)</num>
@@ -23,11 +20,11 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>Money in the Fund shall be used to pay the operational costs of OCP.</text>
+    <text>Money in the Fund shall be used to pay the administrative costs of maintaining and disposing of surplus property, including the costs of online auctions.</text>
   </para>
   <para>
     <num>(d)</num>
-    <text>Any money remaining available in the Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
+    <text>Amounts in excess of the money needed to pay for the administrative costs of maintaining and disposing of surplus property shall be deposited into the unrestricted fund balance of the General Fund of the District of Columbia.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 18-371" type="History" path="§805">Apr. 8, 2011, D.C. Law 18-371, § 805</annotation>
@@ -38,9 +35,5 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§1122" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-167" path="§1122">§ 1122 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
     <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§1122" type="History" display="false"/>
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§1122" type="History"/>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§1022" type="History" display="false"/>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§1022|(a)" type="History"/>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§1022|(b)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§1022" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§1022">§ 1022 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
