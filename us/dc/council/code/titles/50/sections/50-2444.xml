@@ -1,15 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-2444</num>
   <heading proof="needed">Directory of vehicle identification tags.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>Within 90 days after the applicability date of this section, the Mayor shall establish, and thereafter maintain, a directory of all vehicle identification tags issued by U.S. states and territories.</text>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(b)</num>
+    <text>Not Funded.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 25-325" path="§114" codified:display="Note" codified:doc="D.C. Code" codified:path="§50-2444">Applicability of <cite doc="D.C. Law 25-325" path="">D.C. Law 25-325</cite>: <cite doc="D.C. Law 25-325" path="§401">§ 401 of D.C. Law 25-325</cite> provided that the creation of this section by <cite doc="D.C. Law 25-325" path="§114">§ 114 of D.C. Law 25-325</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="" type="History" display="false"/>
     <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="I|B" type="History" display="false"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="§401|(a)" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 25-325" path="§114" codified:display="Note" app="2025-05-02" eff="2025-05-02">Applicability of <cite doc="D.C. Law 25-325" path="">D.C. Law 25-325</cite>: <cite doc="D.C. Law 25-325" path="§401">§ 401 of D.C. Law 25-325</cite> provided that the creation of this section by <cite doc="D.C. Law 25-325" path="§114">§ 114 of D.C. Law 25-325</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="§114" type="History"/>
-    <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="§401|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-325" eff="2025-05-02" path="§114" type="History"/>
   </annotations>
 </section>
