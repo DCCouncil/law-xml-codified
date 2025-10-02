@@ -29,6 +29,7 @@
   </collection>
   <collection name="emergency">
     <heading>Emergency Acts</heading>
+    <xi:include href="./acts/26-150.xml"/>
     <xi:include href="./acts/26-149.xml"/>
     <xi:include href="./acts/26-146.xml"/>
     <xi:include href="./acts/26-145.xml"/>
