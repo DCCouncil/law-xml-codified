@@ -1,16 +1,69 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Applicable October 1, 2025</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>47-2851.21</num>
   <heading proof="needed">Bonding of licensees authorized to collect monies; exemptions.</heading>
-  <text>Applicable October 1, 2025.</text>
+  <para>
+    <num>(a)</num>
+    <text>The Department may require that any class or subclass of licensees licensed under the authority of <cite path="47|28|I-A">this subchapter</cite> to engage in a business, trade, profession, or calling involving an express or implied agreement to collect money for others shall give bond to safeguard against financial loss those persons with whom such class or subclass of licensees may so agree.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The bond required by subsection (a) of this section shall be a corporate surety bond in an amount to be fixed by the Council, but not to exceed $15,000, conditioned upon the observance by the licensee and any agent or employee of  the licensee of all laws and regulations in force in the District applicable to the licensee's conduct of the business, trade, profession, or calling licensed under the authority of this subchapter for the benefit of any person who may suffer damages resulting from the violation of any such law or regulation by or on the part of such licensee, his agent, or employee.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <para>
+      <num>(1)</num>
+      <text>A person aggrieved by the violation of any law or regulation applicable to a licensee's conduct of a business, trade, profession, or calling involving the collection of money for others shall have, in addition to his right of action against such licensee, a right to bring suit against the surety on the bond authorized by this section, either alone or jointly with the principal thereon, and to recover in an amount not exceeding the penalty of the bond any damages sustained by reason of any act, transaction, or conduct of the licensee and any agent or employee of the licensee that is in violation of law or regulation in force in the District of Columbia relating to the business, trade, profession, or calling licensed under <cite path="47|28|I-A">this subchapter</cite>; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The provisions of <cite path="§1-301.01|(b)|(2)">§ 1-301.01(b)(2)</cite>, <cite path="§1-301.01|(b)|(3)">(3)</cite>, and <cite path="§1-301.01|(b)|(5)">(5)</cite>, except for the last sentence of § 1-301.01(b)(3), shall be applicable to such bond as if it were the bond authorized by <cite path="§1-301.01|(b)|(1)">§ 1-301.01(b)(1)</cite>; provided, that nothing in this subsection shall be construed to impose upon the surety on any such bond a greater liability than the total amount thereof or the amount remaining unextinguished after any prior recovery or recoveries.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>This subsection shall not be applicable to persons when engaged in the regular course of any of the following professions or businesses:</text>
+    <para>
+      <num>(1)</num>
+      <text>Attorneys-at-law;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Persons regularly employed on a regular wage or salary, in the capacity of credit men or in a similar capacity, except as an independent contractor;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Banks and financing and lending institutions;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Common carriers;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Title insurers and abstract companies while doing an escrow business;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Licensed real estate brokers; or</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Employees of any class or subclass of licensees required to give bond under this subsection.".</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§47-2851.21" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-2851.21">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the creation of this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(25)">§ 5(c)(25) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <codify:annotation applicability="effective" doc="D.C. Code" path="§47-2851.21" type="Applicability" codified:doc="D.C. Code" codified:path="§47-2851.21"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> provided that the amendments made to this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(25)">Section 5(c)(25) of D.C. Law 24-333</cite> shall apply as of October 1, 2025.  Therefore those amendments have been implemented.
+         </codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§9|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(c)|(25)" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(c)|(25)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the creation of this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(25)">§ 5(c)(25) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-03-22" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(c)|(25)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7286" type="History" display="false"/>
+    <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(c)|(25)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the creation of this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(25)">§ 5(c)(25) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 24-333" path="§5|(c)|(25)" type="Applicability" app="2023-03-22" eff="2023-03-22"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> provided that the amendments made to this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(25)">Section 5(c)(25) of D.C. Law 24-333</cite> shall apply as of October 1, 2025.  Therefore those amendments have been implemented.
+         </annotation>
     <annotation doc="D.C. Law 25-217" path="§7286" type="Applicability" history="false" display-template="" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> amended <cite doc="D.C. Law 24-333" path="§9">section 9 of D.C. Law 24-333</cite> making the creation of this section by section 5(c)(25) of D.C. Law 24-333 applicable as of October 1, 2025.
         </annotation>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7286" type="History" display="false"/>
   </annotations>
 </section>

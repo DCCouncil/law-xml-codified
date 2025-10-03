@@ -694,14 +694,14 @@
       <para>
         <num>(a)</num>
         <text>The lead-in language is amended by striking the phrase "the training course shall be designed" and inserting the phrase "the training course and any refresher course provided by the Department of For-Hire Vehicles shall be designed" in its place.</text>
-        <codify:find-replace path="text" find="the training course shall be designed" replace="the training course and any refresher course provided by the Department of For-Hire Vehicles shall be designed" count="1" codified:doc="D.C. Code" codified:path="§47-2829|(e)|(2)|(A)"/>
+        <codify:find-replace path="text" find="the training course shall be designed" replace="the training course and any refresher course provided by the Department of For-Hire Vehicles shall be designed" count="1" codified:doc="D.C. Code" codified:path="§47-2829"/>
       </para>
       <para>
         <num>(b)</num>
         <text>Sub-subparagraph (iii) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace path="(iii)" codified:doc="D.C. Code" codified:path="§47-2829|(e)|(2)|(A)|(iii)"/>
+            <codify:replace path="(iii)" codified:doc="D.C. Code" codified:path="§47-2829"/>
             <num>(iii)</num>
             <text>District traffic laws and regulations and the penalties for violating these laws and regulations, including:</text>
             <para>

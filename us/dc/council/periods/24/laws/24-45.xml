@@ -12360,7 +12360,7 @@
         <para codify:path="(a)|(1)">
           <num>(a)</num>
           <text>Subsection (a)(1) is amended by striking the phrase "the basic business license" and inserting the phrase "the basic business license, with the exception of a General Business license and endorsement under 17 DCMR § 516.1(c) and an Employment Services license and endorsement under 17 DCMR § 513.1(a), (b), and (c), for which no fee shall be charged" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2851.08|(a)|(1)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2851.08">
             <find>the basic business license</find>
             <replace>the basic business license, with the exception of a General Business license and endorsement under 17 DCMR § 516.1(c) and an Employment Services license and endorsement under 17 DCMR § 513.1(a), (b), and (c), for which no fee shall be charged</replace>
           </codify:find-replace>
@@ -12368,7 +12368,7 @@
         <para codify:path="(b)|(1)">
           <num>(b)</num>
           <text>Subsection (b)(1) is amended by striking the phrase "the basic business license" and inserting the phrase "the basic business license, with the exception of a General Business license and endorsement under 17 § DCMR 516.1(c) and an Employment Services license and endorsement under 17 DCMR § 513.1(a), (b), and (c), for which no fee shall be charged" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2851.08|(b)|(1)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2851.08">
             <find>the basic business license</find>
             <replace>the basic business license, with the exception of a General Business license and endorsement under 17 DCMR § 516.1(c) and an Employment Services license and endorsement under [17 DCMR § 513.1(a), (b), and (c)], for which no fee shall be charged</replace>
           </codify:find-replace>

@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>47-2836</num>
   <heading>Guides.</heading>
-  <para>
-    <num>(a)</num>
-    <text>No person shall, for hire, guide or escort any person through or about the District of Columbia, or any part thereof, unless he shall have first secured a license so to do. The fee for each such license shall be $28 per annum. No license shall be issued hereunder without the approval of the Chief of Police. The Council of the District of Columbia is authorized and empowered to make reasonable regulations for the examination of all applicants for such licenses and for the government and conduct of persons licensed hereunder, including the power to require said persons to wear a badge while engaged in their calling.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>Any license issued pursuant to this section shall be issued as a General Services and Repair endorsement to a basic business license under the basic business license system as set forth in <cite path="47|28|I-A">subchapter I-A of this chapter</cite>.</text>
-  </para>
+  <text>[Repealed].</text>
   <annotations>
     <annotation type="History">July 1, 1902, 32 Stat. 627, ch. 1352, § 7, par. 38</annotation>
     <annotation type="History">July 1, 1932, 47 Stat. 558, ch. 366</annotation>
@@ -24,8 +18,8 @@
     <annotation type="Prior Codifications">1981 Ed., § 47-2836.</annotation>
     <annotation type="Cross References">Mayor, Council and other offices, application of certain sections to boards, commissions and committees, see <cite path="§1-321.02">§ 1-321.02</cite>.</annotation>
     <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(b)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the repeal of this section by <cite doc="D.C. Law 24-333" path="§5|(b)">§ 5(b) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§9|(a)" type="History" display="false"/>
     <annotation app="2023-03-22" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(b)" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(b)|(30)" type="History"/>
     <annotation doc="D.C. Law 25-217" path="§7286" type="Applicability" history="false" display-template="" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> amended <cite doc="D.C. Law 24-333" path="§9">section 9 of D.C. Law 24-333</cite> making the repeal of this section by section 5(b) of D.C. Law 24-333 applicable as of October 1, 2025.
         </annotation>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7286" type="History" display="false"/>

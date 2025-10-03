@@ -1,44 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>47-2851.06</num>
-  <heading>Public information.</heading>
+  <heading proof="needed">Public information.</heading>
   <para>
     <num>(a)</num>
-    <para>
-      <num>(1)</num>
-      <text>The Center shall compile information regarding the regulatory programs associated with each of the licenses obtainable under the basic business license system.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>This information shall include a listing of  all laws and administrative rules that require the issuance of licenses.</text>
-    </para>
+    <text>The Department shall compile information regarding the regulatory programs associated with each business regulated under <cite path="47|28|I-A">this subchapter</cite> and provide the information to a person requesting it.</text>
   </para>
   <para>
     <num>(b)</num>
-    <para>
-      <num>(1)</num>
-      <text>The Center shall provide the information required by this section to any person requesting it.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Materials used by the Center to describe the services provided by the Center shall indicate that this information is available upon request.</text>
-    </para>
+    <text>Notwithstanding any other provision of District law, information submitted to the Department under <cite path="47|28|I-A">this subchapter</cite> shall not be made available to the public; except, that a person may be furnished with such information for one registrant based upon the submission of either the name or address of the registrant; except also, that the person shall be limited to one request per day.</text>
   </para>
   <para>
     <num>(c)</num>
-    <text>Notwithstanding any other provision of District law, information submitted to the Center under this subchapter shall not be made available to the public; provided, that a person may be furnished with such information for one registrant based upon the submission of either the name or address of the registrant; provided further, that the person shall be limited to one request per day.</text>
-  </para>
-  <para>
-    <num>(d)</num>
-    <text>Federal Employer Identification numbers and social security numbers shall not be released to the public, except if:</text>
-    <para>
-      <num>(1)</num>
-      <text>Requested by a law enforcement agency; or</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Directed by a court order.</text>
-    </para>
+    <text>Federal Employer Identification numbers and social security numbers shall not be released to the public, except as requested by a law enforcement agency or directed by a court order.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 12-86" type="History">Apr. 29, 1998, D.C. Law 12-86, § 101(b), 45 DCR 1172</annotation>
@@ -52,10 +27,10 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-38">D.C. Law 15-38</cite>, in subsec. (a)(1), substituted “basic” for “master”; and added subsecs. (c) and (d).</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 47-2851.6.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§2-534">§ 2-534</cite>.</annotation>
-    <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(c)|(12)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the change made to this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(12)">§ 5(c)(12) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§9|(a)" type="History" display="false"/>
     <annotation app="2023-03-22" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(c)|(12)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(c)|(12)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(c)|(12)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the change made to this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(12)">§ 5(c)(12) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 24-333" path="§5|(c)|(12)" type="Applicability" app="2023-03-22" eff="2023-03-22"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> provided that the amendments made to this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(12)">Section 5(c)(12) of D.C. Law 24-333</cite> shall apply as of October 1, 2025.  Therefore those amendments have been implemented.
+         </annotation>
     <annotation doc="D.C. Law 25-217" path="§7286" type="Applicability" history="false" display-template="" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> amended <cite doc="D.C. Law 24-333" path="§9">section 9 of D.C. Law 24-333</cite> making the amendment of this section by section 5(c)(12) of D.C. Law 24-333 applicable as of October 1, 2025.
         </annotation>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7286" type="History" display="false"/>

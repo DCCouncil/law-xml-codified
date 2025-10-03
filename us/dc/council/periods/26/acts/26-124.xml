@@ -27,7 +27,6 @@
       <text>Section 20-311 is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace codified:doc="D.C. Code" codified:path="§20-311"/>
           <prefix>§</prefix>
           <num>20-311</num>
           <heading proof="needed">Nature of proceeding.</heading>
@@ -43,18 +42,12 @@
       </include>
       <aftertext>.</aftertext>
       <codify:emergency doc="D.C. Code" path="§20-311" codified:doc="D.C. Code" codified:path="§20-311" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§20-311" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§20-311">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 30, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§20-311(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para codify:path="§20-312">
       <num>(b)</num>
       <text>Section 20-312 is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace codified:doc="D.C. Code" codified:path="§20-312"/>
           <prefix>§</prefix>
           <num>20-312</num>
           <heading>Action on petition.</heading>
@@ -77,22 +70,11 @@
       </include>
       <aftertext>.</aftertext>
       <codify:emergency doc="D.C. Code" path="§20-312" codified:doc="D.C. Code" codified:path="§20-312" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§20-312" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§20-312">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 30, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§20-312(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para codify:path="§20-361|(a)|(4)">
       <num>(c)</num>
       <text>Section 20-361(a)(4) is repealed.</text>
-      <codify:repeal codified:doc="D.C. Code" codified:path="§20-361|(a)|(4)"/>
       <codify:emergency doc="D.C. Code" path="§20-361" codified:doc="D.C. Code" codified:path="§20-361" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§20-361" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§20-361">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 30, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§20-361(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
   </section>
   <section>

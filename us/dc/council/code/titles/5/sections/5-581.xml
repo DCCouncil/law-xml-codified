@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <codify:insert doc="D.C. Code" path="5" after="5" history="false" codified:doc="D.C. Code" codified:path="5|5A">
     <container>
       <prefix>Chapter</prefix>
@@ -7,18 +7,51 @@
       <heading>MPD Overtime Reimbursement Fund.</heading>
     </container>
   </codify:insert>
-  <reason>Applicable October 1, 2025</reason>
   <num>5-581</num>
   <heading proof="needed">MPD Overtime Reimbursement Fund.</heading>
-  <text>Applicable October 1, 2025.</text>
+  <para>
+    <num>(a)</num>
+    <text>This section may be cited as the "MPD Overtime Reimbursement Fund Establishment Act of 2022".</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>There is established as a special fund, the MPD Overtime Reimbursement Fund ("Fund"), which shall be administered by the Metropolitan Police Department ("MPD") in accordance with subsection (d) of this section.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>Except as provided in in <cite path="§1-325.81">§ 1-325.81</cite>, revenue from the following sources shall be deposited in the Fund:</text>
+    <para>
+      <num>(1)</num>
+      <text>Fees paid pursuant to <cite path="§47-2851.04|(d)|(2)">§ 47-2851.04(d)(2)</cite> related to police services; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Fees paid pursuant to <cite path="§5-129.71">section 3002 of the Police Escort Reimbursement Amendment Act of 2014, effective February 26, 2015 (D.C. Law 20-155; D.C. Official Code § 5-129.71)</cite>.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>Money in the Fund shall be used for the purpose of reimbursing MPD for the cost of overtime needed to:</text>
+    <para>
+      <num>(1)</num>
+      <text>Staff special events, such as parades, carnivals, and movie productions; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Provide security details to establishments, such as bars, nightclubs, and sports teams, that pay for extra police coverage.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§5-581" codified:display="Note" codified:doc="D.C. Code" codified:path="§5-581">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the creation of this section by <cite doc="D.C. Law 24-333" path="§8">§ 8 of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <codify:annotation applicability="effective" doc="D.C. Code" path="§5-581" type="Applicability" codified:doc="D.C. Code" codified:path="§5-581"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> provided that the amendments made to this section by <cite doc="D.C. Law 24-333" path="§8">Section 8 of D.C. Law 24-333</cite> shall apply as of October 1, 2025.  Therefore those amendments have been implemented.
+         </codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§9|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§8" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§8" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-333" path="§8" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the creation of this section by <cite doc="D.C. Law 24-333" path="§8">§ 8 of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-03-22" doc="D.C. Law 24-333" eff="2023-03-22" path="§8" type="History" display="false"/>
     <annotation app="2023-03-22" doc="D.C. Law 24-333" eff="2023-03-22" path="§8" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="VII|CC" type="History" display="false"/>
+    <annotation type="Applicability" doc="D.C. Law 24-333" path="§8" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the creation of this section by <cite doc="D.C. Law 24-333" path="§8">§ 8 of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 24-333" path="§8" type="Applicability" app="2023-03-22" eff="2023-03-22"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> provided that the amendments made to this section by <cite doc="D.C. Law 24-333" path="§8">Section 8 of D.C. Law 24-333</cite> shall apply as of October 1, 2025.  Therefore those amendments have been implemented.
+         </annotation>
     <annotation doc="D.C. Law 25-217" path="VII|CC" type="Applicability" history="false" display-template="" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> amended <cite doc="D.C. Law 24-333" path="§9">section 9 of D.C. Law 24-333</cite> making the creation of this section by section 8 of D.C. Law 24-333 applicable as of October 1, 2025.
         </annotation>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="VII|CC" type="History" display="false"/>
   </annotations>
 </section>

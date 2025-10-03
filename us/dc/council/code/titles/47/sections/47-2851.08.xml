@@ -1,69 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>47-2851.08</num>
   <heading>Basic business license application fees; renewal fees.</heading>
-  <para>
-    <num>(a)</num>
-    <para>
-      <num>(1)</num>
-      <text>Except as provided in paragraph (1A) of this subsection, the Center shall collect the following fees for the issuance and endorsement of an initial license:</text>
-      <para>
-        <num>(A)</num>
-        <text>$70 for each initial 2-year basic business license it issues, plus $25 for each endorsement added to an initial 2-year basic business license;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>$140 for each initial 4-year basic business license it issues, plus $25 for each endorsement added to an initial 4-year basic business license; and</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>$35 for each initial 6-month basic business license it issues, plus $12.50 for each endorsement added to an initial 6-month basic business license.</text>
-      </para>
-    </para>
-    <para>
-      <num>(1A)</num>
-      <text>No issuance or endorsement fee shall be charged by the Center for an initial General Business license and endorsement under 17 DCMR § 516.1(c) or an initial Employment Services license and endorsement under 17 DCMR § 513.1(a), (b), and (c).</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The entire basic business license application fee shall be deposited in the Basic Business License Fund established by <cite path="§47-2851.13">§ 47-2851.13</cite>.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <para>
-      <num>(1)</num>
-      <text>Except as provided in paragraph (1A) of this subsection, the Center shall collect the following fees for the issuance and endorsement of a renewal license:</text>
-      <para>
-        <num>(A)</num>
-        <text>$70 for each 2-year basic business renewal license it issues, plus $25 for each endorsement added to a 2-year basic business renewal license;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>$140 for each 4-year basic business renewal license it issues, plus $25 for each endorsement added to a 4-year basic business renewal license; and</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>$35 for each 6-month basic business renewal license it issues, plus $12.50 for each endorsement added to a 6-month basic business renewal license.</text>
-      </para>
-    </para>
-    <para>
-      <num>(1A)</num>
-      <text>No issuance or endorsement fee shall be charged by the Center for a General Business renewal license and endorsement under 17 DCMR § 516.1(c) or an Employment Services renewal license and endorsement under 17 DCMR § 513.1(a), (b), and (c).</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The entire application renewal fee shall be deposited in the Basic Business License Fund established by <cite path="§47-2851.13">§ 47-2851.13</cite>.</text>
-    </para>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>The fees assessed pursuant to this section shall be in addition to any fees required by law or by statute for the issuance of license endorsements.</text>
-  </para>
-  <para>
-    <num>(d)</num>
-    <text>Nothing in this section shall be read as reassigning license endorsement fees to the General Fund of the District of Columbia where the Mayor has determined or where the law requires that those fees should go to a dedicated fund to benefit a particular agency or department of the District government.</text>
-  </para>
+  <text>[Repealed].</text>
   <annotations>
     <annotation doc="D.C. Law 12-86" type="History">Apr. 29, 1998, D.C. Law 12-86, § 101(b), 45 DCR 1172</annotation>
     <annotation doc="D.C. Law 12-261" type="History">Apr. 20, 1999, D.C. Law 12-261, § 2002(b), (h), 46 DCR 3142</annotation>
@@ -90,10 +30,10 @@
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6012|(a)|(1)|(B)" type="History"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6012|(a)|(2)|(A)" type="History"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6012|(a)|(2)|(B)" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(c)|(14)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the repeal of this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(14)">§ 5(c)(14) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§9|(a)" type="History" display="false"/>
     <annotation app="2023-03-22" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(c)|(14)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(c)|(14)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(c)|(14)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the repeal of this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(14)">§ 5(c)(14) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 24-333" path="§5|(c)|(14)" type="Applicability" app="2023-03-22" eff="2023-03-22"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> provided that the amendments made to this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(14)">Section 5(c)(14) of D.C. Law 24-333</cite> shall apply as of October 1, 2025.  Therefore those amendments have been implemented.
+         </annotation>
     <annotation doc="D.C. Law 25-217" path="§7286" type="Applicability" history="false" display-template="" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> amended <cite doc="D.C. Law 24-333" path="§9">section 9 of D.C. Law 24-333</cite> making the repeal of this section by section 5(c)(14) of D.C. Law 24-333 applicable as of October 1, 2025.
         </annotation>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7286" type="History" display="false"/>
