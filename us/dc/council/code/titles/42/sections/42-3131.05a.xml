@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-3131.05a</num>
-  <heading>Notice by mail.</heading>
+  <heading proof="needed">Notice.</heading>
   <para>
     <num>(a)</num>
-    <text>Notice shall be deemed to be served properly on the date when mailed by first class mail to the owner of record of the vacant building at the owner’s mailing address as updated in the real property tax records of the Office of Tax and Revenue.</text>
+    <text>Notice shall be deemed to be served properly on the date when mailed by first-class mail to the owner of record of the vacant building at the owner's mailing address as updated in the real property tax records of the Office of Tax and Revenue, or when effectuated in the manner provided in <cite path="§42-3131.03">§ 42-3131.03</cite>.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>The Mayor shall cause notice also to be posted on the vacant building; provided, that the official notice for legal purposes shall be the notice mailed pursuant to subsection (a) of this section.  Unless the Mayor knows with certainty that the vacant building is not eligible for exemption pursuant to <cite path="§42-3131.06">§ 42-3131.06</cite>, the notice shall not be posted by difficult-to-remove adhesive.</text>
+    <text>In addition to furnishing notice in accordance with subsection (a) of this section, the Mayor shall cause notice to be posted on the premises.</text>
   </para>
   <para>
     <num>(c)</num>
-    <text>A courtesy copy of a notice provided pursuant to subsection (a) of this section shall be mailed or electronically mailed to the Advisory Neighborhood Commission in which the vacant building is located and the status of the building's designation shall be posted on an internet website maintained by the Department of Buildings that is accessible to the public. The courtesy copy required by this subsection shall not be construed to satisfy, nor be construed as necessary to satisfy, the requirements of subsection (a) of this section that notice be properly served by mail.</text>
+    <text>A courtesy copy of the notice provided pursuant to subsection (a) of this section shall be mailed or electronically mailed to the Advisory Neighborhood Commission in which the vacant building is located. The courtesy copy required by this subsection shall not be construed to satisfy, nor be construed as necessary to satisfy, the notice requirement of subsection (a) of this section.</text>
   </para>
   <annotations>
     <annotation type="History" doc="Stat. 59-1-ch1626" path="§5a">Apr. 14, 1906, 34 Stat. 115, ch. 1626, § 5a</annotation>
@@ -40,5 +40,6 @@
     <annotation doc="D.C. Law 24-167" path="§7132|(a)" type="Applicability" history="false" app="2022-09-21" eff="2022-09-21"><cite doc="D.C. Law 24-167" path="§7132">Section 7132 of D.C. Law 24-167</cite> amended <cite doc="D.C. Law 22-287">D.C. Law 22-287</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 4(c) of Law 22-287 has been implemented.
         </annotation>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7132|(a)" type="History" display="false"/>
+    <annotation app="2025-10-01" doc="D.C. Law 26-41" eff="2025-10-01" path="§202|(b)" type="History"/>
   </annotations>
 </section>

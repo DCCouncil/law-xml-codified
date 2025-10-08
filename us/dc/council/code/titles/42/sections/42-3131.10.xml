@@ -1,30 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-3131.10</num>
-  <heading>Penalties for noncompliance.</heading>
+  <heading proof="needed">Penalties for noncompliance.</heading>
   <para>
     <num>(a)</num>
-    <text>The failure of the owner of a vacant building to register and pay all required fees under <cite path="§42-3131.06|(a)">§ 42-3131.06(a)</cite> or <cite path="§42-3131.09">§ 42-3131.09</cite> after notice of the designation of the owner’s building as vacant, the determination of delinquency of registration or fee payment, the denial or revocation of registration, the filing by an owner of any false or misleading registration-related information, or the refusal of the owner of a vacant building to permit the Mayor to inspect the building shall, upon conviction thereof, be punished by a fine not to exceed $5,000. The Director of the Department of Buildings shall provide the Office of the Attorney General with a list of all owners who fail to register and pay the required fee after notice.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>If the owner of a vacant building fails to maintain the building in compliance with the requirements of <cite path="§42-3131.12">§ 42-3131.12</cite> or, having obtained a vacant property registration, subsequently fails to comply with the other registration requirements under <cite path="§42-3131.07">§ 42-3131.07</cite>, the Mayor may:</text>
     <para>
       <num>(1)</num>
-      <text>Charge the owner with failure to comply and enforce all applicable penalties under this chapter, and</text>
+      <text>The failure of the owner of a vacant building to pay all required fees under <cite path="§42-3131.09">§ 42-3131.09</cite> after notice of the designation of the owner's building as vacant, the determination of delinquency of registration or fee payment, the denial or revocation of registration, the filing by an owner of any false or misleading registration-related information, or the refusal of the owner of a vacant building to permit the Mayor to inspect the building shall be subject to a civil penalty of up to $1,000 for the first violation, $2,500 for the second violation, and $5,000 for the third and subsequent violations.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Take other action as required by the fire, building, and housing codes of the District of Columbia to bring the building into compliance with those codes.</text>
+      <text>The Director of the Department of Buildings shall provide the Office of the Attorney General with a list of all owners who fail to pay the required fee after notice.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>If the owner of a vacant building fails to maintain the building in compliance with the requirements of <cite path="§42-3131.12">§ 42-3131.12</cite> or, having obtained a vacant property registration, subsequently fails to comply with the other registration requirements under <cite path="§42-3131.06">§ 42-3131.06</cite>, the Mayor, in addition to issuing civil penalties pursuant to subsection (a) of this section, may:</text>
+    <para>
+      <num>(1)</num>
+      <text>Charge the owner with failure to comply and enforce all applicable penalties under <cite path="42|31A">this chapter</cite>; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Take other action as required by the Construction Codes or Construction Codes Supplement of the District of Columbia to bring the building into compliance with those codes.</text>
     </para>
   </para>
   <para>
     <num>(c)</num>
-    <text>Civil fines, penalties, and fees may be imposed as additional sanctions for any infraction of the provisions of <cite path="§42-3131.06">§ 42-3131.06</cite>, <cite path="§42-3131.07">§ 42-3131.07</cite>, <cite path="§42-3131.08">§ 42-3131.08</cite>, <cite path="§42-3131.09">§ 42-3131.09</cite>, or <cite path="§42-3131.12">§ 42-3131.12</cite>, pursuant to <cite path="2|18">Chapter 18 of Title 2</cite>.</text>
+    <text>Civil fines, penalties, and fees may be imposed as additional sanctions for any infraction of the provisions of §§ <cite path="§42-3131.06">42-3131.06</cite>, <cite path="§42-3131.08">42-3131.08</cite>, <cite path="§42-3131.09">42-3131.09</cite>, or <cite path="§42-3131.12">42-3131.12</cite>, pursuant to <cite path="2|18">Chapter 18 of Title 2</cite>.</text>
   </para>
   <para>
     <num>(d)</num>
-    <text>Criminal prosecutions under <cite path="§42-3131.05">§ 42-3131.05</cite> through <cite path="§42-3131.15">§ 42-3131.15</cite> shall be brought in the name of the District of Columbia by the Attorney General for the District of Columbia.</text>
+    <text>Criminal prosecutions under §§ <cite path="§42-3131.05">42-3131.05</cite> through <cite path="§42-3131.21">42-3131.21</cite> shall be brought in the name of the District of Columbia by the Attorney General for the District of Columbia.</text>
   </para>
   <annotations>
     <annotation type="History" doc="Stat. 59-1-ch1626" path="§10">Apr. 14, 1906, 34 Stat. 115, ch. 1626, § 10</annotation>
@@ -51,5 +58,6 @@
     <annotation type="Section References">This section is referenced in <cite path="§42-3131.06">§ 42-3131.06</cite> and <cite path="§42-3131.07">§ 42-3131.07</cite>.</annotation>
     <annotation app="2017-02-18" doc="D.C. Law 21-200" eff="2017-02-18" path="§2|(b)" type="History"/>
     <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="§501|(x)|(1)" type="History"/>
+    <annotation app="2025-10-01" doc="D.C. Law 26-41" eff="2025-10-01" path="§202|(h)" type="History"/>
   </annotations>
 </section>

@@ -136,7 +136,7 @@
     <para codify:path="§42-3131.05|(1)|(B)|(ii)">
       <num>(b)</num>
       <text>Section 5(1)(B)(ii) (D.C. Official Code § 42-3131.05(1)(B)(ii)) is amended by striking the phrase "boarded up; and" inserting the phrase "boarded up; provided, that this sub-sub-subparagraph shall not apply if the doors, windows, areaways, and other openings are secured by boards or other non-permanent means of security for not longer than 12 months and the owner submits proof of an issued building permit to rehabilitate the building for occupancy that certifies that these items will be replaced as part of the renovation of the vacant building; and" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3131.05|(1)|(B)|(ii)">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3131.05|(1)">
         <find>boarded up; and</find>
         <replace>boarded up; provided, that this sub-sub-subparagraph shall not apply if the doors, windows, areaways, and other openings are secured by boards or other non-permanent means of security for not longer than 12 months and the owner submits proof of an issued building permit to rehabilitate the building for occupancy that certifies that these items will be replaced as part of the renovation of the vacant building; and</replace>
       </codify:find-replace>
@@ -153,7 +153,7 @@
       <para codify:path="(a)">
         <num>(2)</num>
         <text>Newly designated subsection (a) is amended by striking the phrase "Office of Tax and Revenue.  Notice of the initial vacant or blighted property determination shall also be posted on the vacant building" and inserting the phrase "Office of Tax and Revenue" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3131.05a|(a)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3131.05a">
           <find>Office of Tax and Revenue. Notice of the initial vacant or blighted property determination shall also be posted on the vacant building</find>
           <replace>Office of Tax and Revenue</replace>
         </codify:find-replace>
@@ -163,12 +163,12 @@
         <text>New subsections (b) and (c) are added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§42-3131.05a|(b)"/>
+            <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§42-3131.05a"/>
             <num>(b)</num>
             <text>The Mayor shall cause notice also to be posted on the vacant building; provided, that the official notice for legal purposes shall be the notice mailed pursuant to subsection (a) of this section.  Unless the Mayor knows with certainty that the vacant building is not eligible for exemption pursuant to <code-cite doc="D.C. Code" path="§42-3131.06">section 6</code-cite>, the notice shall not be posted by difficult-to-remove adhesive.</text>
           </para>
           <para>
-            <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§42-3131.05a|(c)"/>
+            <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§42-3131.05a"/>
             <num>(c)</num>
             <text>A courtesy copy of a notice provided pursuant to subsection (a) of this section shall be mailed or electronically mailed to the Advisory Neighborhood Commission in which the vacant building is located and the status of the building's designation shall be posted on an internet website maintained by the Department of Consumer and Regulatory Affairs that is accessible to the public.  The courtesy copy required by this subsection shall not be construed to satisfy, nor be construed as necessary to satisfy, the requirements of subsection (a) of this section that notice be properly served by mail.</text>
           </para>
@@ -204,7 +204,7 @@
       <text>Section 15 (D.C. Official Code § 42-3131.15) is amended by adding a new subsection (c) to read as follows:</text>
       <include>
         <para>
-          <codify:insert codified:doc="D.C. Code" codified:path="§42-3131.15|(c)"/>
+          <codify:insert codified:doc="D.C. Code" codified:path="§42-3131.15"/>
           <num>(c)</num>
           <text>After receiving a notice of appeal from an owner as required under subsection (b) of this section, the Real Property Tax Appeals Commission for the District of Columbia shall provide by mail or electronic mail to the Advisory Neighborhood Commission in which the vacant building is located, at least 15 days before any scheduled hearing on the appeal, the following information related to the building at issue:</text>
           <para>
@@ -385,7 +385,7 @@
       <codify:applicability doc="D.C. Law 22-287" path="§2" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§2-1831.03a"/>
       <codify:applicability doc="D.C. Law 22-287" path="§3" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§29-102.01|(a)|(6)"/>
       <codify:applicability doc="D.C. Law 22-287" path="§4|(a)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§42-3131.01|(b)|(2A)"/>
-      <codify:applicability doc="D.C. Law 22-287" path="§4|(b)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§42-3131.05|(1)|(B)|(ii)"/>
+      <codify:applicability doc="D.C. Law 22-287" path="§4|(b)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§42-3131.05|(1)"/>
       <codify:applicability doc="D.C. Law 22-287" path="§5" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§42-3509.08|(e)"/>
     </para>
     <para>
