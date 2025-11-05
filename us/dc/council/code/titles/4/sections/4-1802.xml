@@ -1,16 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-1802</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-1802(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Civil legal counsel projects for eligible individuals or groups in covered proceedings.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established the Civil Legal Counsel Projects Program ("Program") for the purpose of providing legal services to eligible individuals or groups in covered proceedings.</text>
+    <text>There is established the Civil Legal Counsel Projects Program ("CLCPP") for the purpose of providing legal services to eligible individuals or groups in covered proceedings.</text>
   </para>
   <para>
     <num>(b)</num>
     <para>
       <num>(1)</num>
-      <text>The Office of Victim Services and Justice Grants shall award a grant each fiscal year to the Bar Foundation for the purposes of the Bar Foundation administering the Program. Payment of the award shall be submitted by October 15th of each fiscal year in the amount specified in an act of the Council.</text>
+      <text>CLCPP shall be part of and be funded through the Access to Justice Initiative, established pursuant to <cite path="§4-1702.01">§ 4-1702.01</cite>.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -26,11 +29,11 @@
     <text>The Bar Foundation shall:</text>
     <para>
       <num>(1)</num>
-      <text>Serve as the grant-managing entity for the Program; and</text>
+      <text>Serve as the grant-managing entity for CLCPP; and</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Adopt policies, procedures, guidelines, and requirements for the Program, including policies designed to permit designated legal service providers to limit representation to eligible individuals or groups in covered proceedings.</text>
+      <text>Adopt policies, procedures, guidelines, and requirements for CLCPP, including policies designed to permit designated legal service providers to limit representation to eligible individuals or groups in covered proceedings.</text>
     </para>
   </para>
   <codify:annotation doc="D.C. Code" path="§4-1802" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§4-1802">
@@ -57,6 +60,12 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§3043|(b)" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§3043|(b)">§ 3043(b) of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
     <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3043|(b)" type="History" display="false"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3043|(b)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3073" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3073|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3073|(b)|(1)" type="History"/>
     <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3073|(b)|(2)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3073|(c)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3073|(c)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§3073" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§3073">§ 3073 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

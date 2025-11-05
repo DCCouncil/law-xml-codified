@@ -1,14 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-1141.06c</num>
   <heading proof="needed">Development of online training materials.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>The Department shall, in collaboration with relevant stakeholders, including healthcare professionals, legal experts, and community-based organizations, develop a detailed online training module for healthcare professionals of varying disciplines and levels of expertise on the District's voluntary treatment, involuntary hospitalization, and civil commitment laws and procedures, which shall include information on:</text>
+      <para>
+        <num>(A)</num>
+        <text>Distinctions between voluntary treatment, involuntary hospitalization, and civil commitment;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Legal rights of individuals receiving mental health services;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Step-by-step procedures for initiating an involuntary hospitalization or civil commitment;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Criteria for determining when involuntary hospitalization or civil commitment is warranted;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Protocols for involving law enforcement in a mental health crisis; and</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Cultural competency and sensitivity training in mental health interactions, including topics related to religion, race or ethnicity, language access, and understanding and respecting diverse cultural backgrounds during mental health assessments.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Department shall coordinate with healthcare institutions to integrate the training module into continuing education or other training programs for relevant healthcare workers.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>The Department shall develop a publicly available online resource to provide information for members of the public on voluntary and involuntary mental health treatment, which shall include information on:</text>
+      <para>
+        <num>(A)</num>
+        <text>Distinctions between voluntary treatment, involuntary hospitalization, and civil commitment;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Alternatives to involuntary hospitalization or civil commitment, including resources for voluntary treatment;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Legal rights of individuals receiving mental health services;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Step-by-step procedures for initiating an involuntary hospitalization or civil commitment;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Criteria for determining when involuntary hospitalization or civil commitment is warranted;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Protocols for involving law enforcement in a mental health crisis;</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Information on crisis helplines and mental health resources that families can access in case of emergencies; and</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>Information on how family and friends can contribute to the ongoing care and recovery of an individual receiving mental health services.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Department shall collaborate with mental health professionals, legal experts, community-based organizations, and individuals with lived experience in the development of the online resource.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The Department shall engage in semiannual public awareness campaigns to promote the availability of the online resource, including by engaging media outlets and online platforms, utilizing social media, partnering with educational institutions and healthcare organizations, educating emergency services personnel, collaborating with government agencies, and actively involving community groups, such as religious organizations, cultural associations, and neighborhood associations.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 20-61" type="History" path="§5117c">Dec. 24, 2013, D.C. Law 20-61, § 5117c</annotation>
     <annotation type="Applicability" doc="D.C. Law 25-304" path="§5" codified:display="Note" app="2025-03-21" eff="2025-03-21">Applicability of <cite doc="D.C. Law 25-304" path="">D.C. Law 25-304</cite>: <cite doc="D.C. Law 25-304" path="§6">§ 6 of D.C. Law 25-304</cite> provided that the creation of this section by <cite doc="D.C. Law 25-304" path="§5">§ 5 of D.C. Law 25-304</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-03-21" doc="D.C. Law 25-304" eff="2025-03-21" path="§5" type="History"/>
-    <annotation app="2025-03-21" doc="D.C. Law 25-304" eff="2025-03-21" path="§6|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-304" eff="2025-03-21" path="§5" prefix="as added" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-304" eff="2025-03-21" path="§5" prefix="as added" type="History"/>
+    <annotation doc="D.C. Act 26-146" path="§7194" type="Applicability" history="false" app="2025-09-03" eff="2025-09-03">Section 7194 of <cite doc="D.C. Act 26-146" path="§7194">D.C. Act 26-146</cite> repealed Section 6 of <cite doc="D.C. Law 25-304" path="§6">D.C. Law 25-304</cite>, thus removing the applicability limitation. Therefore the creation of this section by <cite doc="D.C. Law 25-304" path="§2">§5 of D.C. Law 25-304</cite> has been implemented.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7194" type="History" display="false"/>
   </annotations>
 </section>

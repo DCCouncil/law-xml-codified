@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-850</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-850(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-850(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Residential property tax relief — Homestead deduction for houses and condominium units.</heading>
   <para>
     <num>(a)</num>
-    <text>Except as provided in subsection [(a-2)] of this section, for purpose of levying the real property tax during a tax year, the Mayor shall deduct $67,500, increased annually, beginning October 1, 2012, by the cost-of-living adjustment (if the adjustment does not result in a multiple of $50, rounded to the next lowest multiple of $50), from the assessed value of real property which qualifies as a homestead. The deduction shall be apportioned equally between each installment during a tax year and shall not be carried forward or carried back.</text>
+    <text>Except as provided in subsection (a-2) of this section, for purpose of levying the real property tax during a tax year, the Mayor shall deduct $67,500, increased annually, beginning October 1, 2012, by the cost-of-living adjustment (if the adjustment does not result in a multiple of $50, rounded to the next lowest multiple of $50), from the assessed value of real property which qualifies as a homestead. The deduction shall be apportioned equally between each installment during a tax year and shall not be carried forward or carried back.</text>
   </para>
   <para placeholder="Repealed">
     <num>(a-1)</num>
@@ -65,7 +71,7 @@
     <text>[Repealed].</text>
   </para>
   <para>
-    <num>[(h)]</num>
+    <num>(h)</num>
     <para>
       <num>(1)</num>
       <text>Except for subsection (a) of this section, for the purposes of this section and <cite path="§47-850.02">§§ 47-850.02</cite>, <cite path="§47-850.03">47-850.03</cite>, and <cite path="§47-850.04">47-850.04</cite>, the deduction provided pursuant to subsection [(a-2)] of this section shall be deemed a homestead deduction.</text>
@@ -74,6 +80,10 @@
       <num>(2)</num>
       <text>Notwithstanding <cite path="§47-863">§§ 47-863</cite> and <cite path="§47-864">47-864</cite>, a real property receiving the deduction provided pursuant to subsection [(a-2)] of this section shall not receive the credit under <cite path="§47-864">§ 47-864</cite> or the deduction under <cite path="§47-863">§ 47-863</cite>.</text>
     </para>
+  </para>
+  <para>
+    <num>(i)</num>
+    <text>For purposes of this section, an individual who occupies real property pursuant to a land lease with a community land trust as defined by <cite path="§47-803|(1)">§ 47-803(1)</cite> shall be deemed the owner thereof and entitled to apply for a homestead deduction for such real property.</text>
   </para>
   <annotations>
     <text type="Editor's Notes">Section 3 of Law 15-135 provided that § 2(a), (b), and (c)(3) of the act shall apply as of October 1, 2003.</text>
@@ -158,5 +168,12 @@
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7072|(c)" type="History"/>
     <annotation app="2022-12-13" doc="D.C. Law 24-194" eff="2022-12-13" path="§3|(b)|(1)" type="History"/>
     <annotation app="2022-12-13" doc="D.C. Law 24-194" eff="2022-12-13" path="§3|(b)|(2)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2152|(a)|(3)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§8009" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§8009|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§8009|(b)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2152|(a)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2152|(a)|(3)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2152|(a)|(3)">§ 2152(a)(3) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§8009" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§8009">§ 8009 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

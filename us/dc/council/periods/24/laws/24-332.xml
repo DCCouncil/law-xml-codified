@@ -1902,7 +1902,7 @@
               <text>Real property values.</text>
             </para>
           </para>
-          <codify:find-replace doc="D.C. Code" path="§7-1671.08b|(c)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-1671.08b|(c)">
+          <codify:find-replace doc="D.C. Code" path="§7-1671.08b|(c)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-1671.08b">
             <find>.</find>
             <replace> [rewritten].</replace>
           </codify:find-replace>
@@ -2482,7 +2482,7 @@
       <text>Section 9b(b) and (c) (D.C. Official Code § 7-1671.08b(b) and (c)) is amended as follows:</text>
       <include>
         <para>
-          <codify:replace path="(b)" codified:doc="D.C. Code" codified:path="§7-1671.08b|(b)"/>
+          <codify:replace path="(b)" codified:doc="D.C. Code" codified:path="§7-1671.08b"/>
           <num>(b)</num>
           <text>Revenue from the following sources shall be deposited into the Fund:</text>
           <para>
@@ -2503,7 +2503,7 @@
           </para>
         </para>
         <para>
-          <codify:replace path="(c)" codified:doc="D.C. Code" codified:path="§7-1671.08b|(c)"/>
+          <codify:replace path="(c)" codified:doc="D.C. Code" codified:path="§7-1671.08b"/>
           <num>(c)</num>
           <text>Money in the Fund shall be used to:</text>
           <para>

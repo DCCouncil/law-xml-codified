@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-1226.39</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 24, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§2-1226.39(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Exemptions to requirements.</heading>
   <para>
     <num>(a)</num>
@@ -22,9 +25,23 @@
     <num>(c)</num>
     <text>The DDOE shall give notice of any exemption granted pursuant to this section to the Council and affected Advisory Neighborhood Commission no less than 10 days from the date the exemption is granted. Notice of the exemption shall be published in the District of Columbia Register before the exemption may take effect.</text>
   </para>
+  <para>
+    <num>(d)</num>
+    <para>
+      <num>(1)</num>
+      <text>For any project on the development site, as defined in section 2(11) of the Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025, passed on emergency basis on September 17, 2025 (Enrolled version of Bill 26-352), DDOE may grant an exemption pursuant to subsections (a) and (b) of this section; except, that DDOE shall transmit the exemption to the Council for approval, for a 30-day period of review, excluding days of Council recess.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Council shall be deemed to have approved the exemption under this subsection if, during the 30-day period, no member introduces a resolution disapproving the exemption. If a member introduces a resolution disapproving the exemption within the 30-day period, the Council shall have an additional 30 days, excluding days of Council recess, to disapprove the exemption by resolution, or it will be deemed approved.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 17-138" type="History" path="§459">Mar. 26, 2008, D.C. Law 17-138, § 459, 55 DCR 1689</annotation>
     <annotation doc="D.C. Law 19-192" type="History">Oct. 23, 2012, D.C. Law 19-192, § 2(g), 59 DCR 10174</annotation>
     <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-192">D.C. Law 19-192</cite> substituted “DDOE” for “Mayor” throughout the section; and substituted “The substantial weight of the evidence is” for “There is evidence” in (a)(1).</annotation>
+    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§23" type="History" display="false"/>
+    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§23" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-150" path="§23" codified:display="Note" app="2025-09-25" eff="2025-09-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-150" path="§23">§ 23 of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

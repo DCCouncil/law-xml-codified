@@ -1,26 +1,50 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-733</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-733(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Health Occupations Regulation Fund.</heading>
-  <para>
+  <para codify:path="(a)">
     <num>(a)</num>
-    <text>There is established as a nonlapsing, revolving fund in the Department of Health the Health Occupations Regulation Fund (“Fund”), to be administered by the Mayor as an agency fund as defined in <cite path="§47-373|(2)|(I)">§ 47-373(2)(I)</cite>, to which all licensing fees, civil fines, and interest relating to the practice of health occupations in the District of Columbia shall be deposited and credited; except, that the Master License Fee collected by the Department of Consumer and Regulatory Affairs for the activities described in <cite path="§7-731">§ 7-731</cite> shall be deposited into the Master Business License Fund established by <cite path="§47-2851.13">§ 47-2851.13</cite>, to the credit of the Department of Consumer and Regulatory Affairs.</text>
+    <text>There is established as a special fund the Health Occupations Regulation Fund ("Fund"), which shall be administered by the Mayor in accordance with subsection (b-1) of this section.</text>
+  </para>
+  <para codify:path="(b)">
+    <num>(b)</num>
+    <text>All licensing fees and civil fines relating to the practice of health occupations in the District of Columbia shall be deposited into the Fund; except, that the Basic Business License Fee collected by the Department of Licensing and Consumer Protection for the activities described in <cite path="§7-731">§ 7-731</cite> shall be deposited into the Basic Business License Fund established by <cite path="§47-2851.13">§ 47-2851.13</cite>.</text>
   </para>
   <para>
-    <num>(b)</num>
-    <text>Revenues deposited into the Fund shall not revert to the General Fund at the end of any fiscal year or at any other time, but shall be continually available to the Department of Health for the uses and purposes set forth in subsection (c) of this section, subject to authorization by Congress in an appropriations act.</text>
+    <num>(b-1)</num>
+    <text>Money in the Fund shall be used by the Mayor for the operation of the boards established pursuant to <cite path="3|12">Chapter 12 of Title 3</cite>, including all salaries and all other expenses necessary in carrying out the duties of the boards.</text>
   </para>
   <para>
     <num>(c)</num>
     <text>Subject to the applicable laws relating to the appropriation of District of Columbia funds, monies received by and deposited in the Health Occupations Regulation Fund shall be for the sole use of the boards established pursuant to <cite path="3|12">Chapter 12 of Title 3</cite>, and from it shall be paid all salaries and all other expenses necessary in carrying out the duties of the boards. The Mayor shall be responsible for the deposit and expenditure of these monies.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(d)</num>
-    <text>The Mayor shall submit to the Council, as a part of the annual budget, a requested appropriation for expenditures from the Health Occupations Regulation Fund. The Mayor’s budget request shall be based on an estimated projection of the expenditures necessary to perform the administrative and regulatory functions of the boards established pursuant to <cite path="3|12">Chapter 12 of Title 3</cite>.</text>
+    <text>Repealed.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <para>
+      <num>(1)</num>
+      <text>The money deposited into the Fund but not expended in a fiscal year shall not revert to the unassigned fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 14-28" type="History" path="§4904">Oct. 3, 2001, D.C. Law 14-28, § 4904, 48 DCR 6981</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition of section, see § 4404 of Fiscal Year 2002 Budget Support Emergency Act of 2001 (D.C. Act 14-124, August 3, 2001,  48 DCR 7861).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition of section, see § 4 of Department of Health Functions Clarification Emergency Act of 2001 (D.C. Act 14-60, June 6, 2001,  48 DCR 5701).</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7101|(a)|(2)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7101|(a)|(2)|(A)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7101|(a)|(2)|(3)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7101|(a)|(2)|(4)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7101|(a)|(2)|(5)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7101|(a)|(2)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7101|(a)|(2)">§ 7101(a)(2) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

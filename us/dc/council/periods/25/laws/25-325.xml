@@ -957,7 +957,7 @@
                 <para>
                   <codify:replace codified:doc="D.C. Code" codified:path="§50-1501.02|(g)|(3)|(C)"/>
                   <num>(C)</num>
-                  <text>To establish procedures, consistent with <cite doc="D.C. Law 25-325">the Parking Enforcement Modernization Act of 2024, passed on 2nd reading on December 17, 2024 (Enrolled version of Bill 25-435)</cite>, for the seizure and forfeiture of a motor vehicle used with a counterfeit, stolen, or otherwise fraudulent vehicle identification tag; and</text>
+                  <text>To establish procedures, consistent with <cite doc="D.C. Law 25-325" codify:value="the Parking Enforcement Modernization Act of 2024">the Parking Enforcement Modernization Act of 2024, passed on 2nd reading on December 17, 2024 (Enrolled version of Bill 25-435)</cite>, for the seizure and forfeiture of a motor vehicle used with a counterfeit, stolen, or otherwise fraudulent vehicle identification tag; and</text>
                 </para>
               </include>
             </para>
@@ -1142,7 +1142,7 @@
         <para>
           <num>(1)</num>
           <text>Subsection (a) is amended by striking the phrase "safe driving practices and traffic regulations" and inserting the phrase "safe driving practices, parking, and traffic regulations" in its place.</text>
-          <codify:find-replace doc="D.C. Law 25-161" path="§2|includes|9a|(a)" count="1" codified:doc="D.C. Code" codified:path="§50-1405.02">
+          <codify:find-replace doc="D.C. Law 25-161" path="§2|includes|9a|(a)" count="1" codified:doc="D.C. Code" codified:path="§50-1405.02|(a)">
             <find>safe driving practices and traffic regulations</find>
             <replace>safe driving practices, parking, and traffic regulations</replace>
           </codify:find-replace>
@@ -1152,7 +1152,7 @@
           <text>Subsection (b)(1) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace doc="D.C. Law 25-161" path="§2|includes|9a|(b)|(1)" codified:doc="D.C. Code" codified:path="§50-1405.02"/>
+              <codify:replace doc="D.C. Law 25-161" path="§2|includes|9a|(b)|(1)" codified:doc="D.C. Code" codified:path="§50-1405.02|(b)"/>
               <num>(1)</num>
               <text>The DMV may waive any outstanding fines for violations of <code-cite doc="D.C. Code" path="§50-2201.04">section 9 of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (34 Stat. 1123; D.C. Official Code § 50-2201.04)</code-cite>, or for violations of Chapter 24 of Title 18 of the District of Columbia Municipal Regulations based on an individual's participation in, and completion of, courses developed pursuant to subsection (a) of this section.</text>
             </para>

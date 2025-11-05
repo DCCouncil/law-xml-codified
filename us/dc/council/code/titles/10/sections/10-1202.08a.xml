@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>10-1202.08a</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§10-1202.08a(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Establishment of the Washington Convention Center Marketing Fund; marketing service contracts.</heading>
   <para>
     <num>(a)</num>
@@ -39,11 +42,27 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>The D.C. Chamber of Commerce, pursuant to which the D.C. Chamber of Commerce shall be designated as the primary contractor to promote participation by local, small, and minority businesses in the hospitality industry, especially through neighborhood and cultural tourism; and</text>
+      <text>The D.C. Chamber of Commerce, pursuant to which the D.C. Chamber of Commerce shall be designated as the primary contractor to promote participation by local, small, and minority businesses in the hospitality industry, especially through neighborhood and cultural tourism;</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>The Greater Washington Ibero American Chamber of Commerce, for the purpose of pursuit of special projects, as designated by the Authority.</text>
+      <text>The Greater Washington Ibero American Chamber of Commerce, for the purpose of pursuit of special projects, as designated by the Authority; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The Washington DC Economic Partnership, pursuant to which the Washington DC Economic Partnership shall be designated as the primary contractor to:</text>
+      <para>
+        <num>(A)</num>
+        <text>Foster and enhance economic growth and business prospects in the District;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Provide support for the retention and expansion of businesses in the District and the attraction of businesses to the District; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Market and provide support for the marketing of the District as an attractive location to establish, operate, and grow businesses.</text>
+      </para>
     </para>
   </para>
   <para>
@@ -122,5 +141,10 @@
     <annotation doc="D.C. Law 22-234" path="§4" type="Applicability" history="false" display-template="" app="2019-02-22" eff="2019-02-22"><cite doc="D.C. Law 22-234" path="§6">Section 6 of D.C. Law 22-234</cite> provided that the amendments made to this section by <cite doc="D.C. Law 22-234">D.C. Law 22-234</cite> shall apply as of October 1, 2018.
     </annotation>
     <annotation app="2019-02-22" doc="D.C. Law 22-234" eff="2019-02-22" path="§4" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2092" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2092|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2092|(b)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2092|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2092" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2092">§ 2092 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

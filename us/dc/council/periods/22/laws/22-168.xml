@@ -7250,7 +7250,7 @@
           <para>
             <num>(1)</num>
             <text>The lead-in language is amended by striking the date "February 1, 2018" and inserting the date "October 1, 2018" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1409|(a)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1409">
               <find>February 1, 2018</find>
               <replace>October 1, 2018</replace>
             </codify:find-replace>
@@ -7258,8 +7258,8 @@
           <para>
             <num>(2)</num>
             <text>Paragraphs (7) and (8) are repealed.</text>
-            <codify:repeal path="(7)" codified:doc="D.C. Code" codified:path="§7-1409|(a)|(7)"/>
-            <codify:repeal path="(8)" codified:doc="D.C. Code" codified:path="§7-1409|(a)|(8)"/>
+            <codify:repeal path="(7)" codified:doc="D.C. Code" codified:path="§7-1409"/>
+            <codify:repeal path="(8)" codified:doc="D.C. Code" codified:path="§7-1409"/>
           </para>
         </para>
         <para>
@@ -7267,7 +7267,7 @@
           <text>A new subsection (b) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§7-1409|(b)"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§7-1409"/>
               <num>(b)</num>
               <text>Within one year after <span codify:value="October 30, 2018">the effective date of the D.C. Healthcare Alliance Recertification Reporting Amendment Act of 2018, passed on 2nd reading on June 26, 2018 (Enrolled version of Bill 22-753)</span>, the Mayor shall submit a public report to the Council that shall include, for each of the last 12 months, the following information:</text>
               <para>
@@ -7303,8 +7303,8 @@
           <find>Repealed</find>
           <replace>Not funded</replace>
         </codify:find-replace>
-        <codify:repeal doc="D.C. Code" path="§7-1409|(b)" history="false" codified:doc="D.C. Code" codified:path="§7-1409|(b)"/>
-        <codify:find-replace doc="D.C. Code" path="§7-1409|(b)" count="1" history="false" codified:doc="D.C. Code" codified:path="§7-1409|(b)">
+        <codify:repeal doc="D.C. Code" path="§7-1409|(b)" history="false" codified:doc="D.C. Code" codified:path="§7-1409"/>
+        <codify:find-replace doc="D.C. Code" path="§7-1409|(b)" count="1" history="false" codified:doc="D.C. Code" codified:path="§7-1409">
           <find>Repealed</find>
           <replace>Not funded</replace>
         </codify:find-replace>

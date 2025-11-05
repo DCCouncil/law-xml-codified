@@ -1,12 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-306.07</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 24, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-306.07(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Zoning conformity.</heading>
   <para>
     <num>(a)</num>
     <para>
       <num>(1)</num>
-      <text>Except as provided in paragraphs (2), (3), and (4) of this subsection, the government shall be subject to zoning.</text>
+      <text>Except as provided in paragraphs (2), (3), (4), and (5) of this subsection, the government shall be subject to zoning.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -19,6 +22,10 @@
     <para>
       <num>(4)</num>
       <text>The government’s use of property on the former site of the United States Naval Air Station communications facility located in the northeast corner of the east campus of Saint Elizabeths Hospital as a facility to send and receive 911 or other governmental emergency communications shall not be subject to zoning.  Any governmental use of this property for other purposes or any non-governmental use of this property shall be subject to zoning or review and approval by the Council.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The uses of government land for a multi-purpose stadium to serve as a venue for a National Football League team in the District, an accessory office building, accessory parking facilities, and a public sports and recreation facility on a portion of the RFK Campus, as defined by <cite path="§47-2002.08|(a)|(1)">§ 47-2002.08(a)(1)</cite>, shall not be subject to zoning until, with respect to each structure constructed for such uses, after such time as a final certificate of occupancy is issued for the structure.</text>
     </para>
   </para>
   <para>
@@ -55,5 +62,9 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-300">D.C. Law 16-300</cite>, in subsec. (b), substituted “March 8, 2007” for “April 27, 1999”.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-250.</annotation>
     <annotation type="Prior Codifications">2001 Ed., § 1-301.68.</annotation>
+    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§20" type="History" display="false"/>
+    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§20|(a)" type="History"/>
+    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§20|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-150" path="§20" codified:display="Note" app="2025-09-25" eff="2025-09-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-150" path="§20">§ 20 of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-205.19</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-205.19(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Application; assignment of rights for child support.</heading>
   <para>
     <num>(a)</num>
@@ -39,7 +42,7 @@
     </para>
     <para>
       <num>(5)</num>
-      <text>Beginning on October 1, 2005, shall not apply to up to the first $150 received each month by the assistance unit that represents a current monthly child support obligation or a voluntary child support payment from an absent parent or spouse.</text>
+      <text>Beginning on October 1, 2005, shall not apply to up to the first $150 received each month by the assistance unit that represents a current monthly child support obligation or a voluntary child support payment from an absent parent or spouseand beginning on October 1, 2025, shall not apply to up to the first $200 received that represents such an obligation or payment.</text>
     </para>
   </para>
   <annotations>
@@ -57,5 +60,8 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-33">D.C. Law 16-33</cite>, in subsec. (c)(1), substituted “paragraphs (4) and (5)” for “paragraph (4)”; in subsec. (c)(3), deleted “and” at the end of the subsec; in subsec. (c)(4)(B), substituted “2000; and” for “2000.”; and added subsec. (c)(5).</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 3-205.19.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§4-205.19f">§ 4-205.19f</cite>, <cite path="§4-217.07">§ 4-217.07</cite>, and <cite path="§16-916.01">§ 16-916.01</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5132|(b)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5132|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§5132|(b)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§5132|(b)">§ 5132(b) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

@@ -1,22 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>34-1252.03</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§34-1252.03(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>OCTFME Special Account.</heading>
   <para>
     <num>(a)</num>
-    <text>There is hereby established within the General Fund of the District, a OCTFME Special Account, to which shall be credited all revenues owed and accruing to the District from the establishment, regulation, and operation of the industries under <cite path="34|12|II">this subchapter</cite>. The OCTFME Special Account shall be nonlapsing. Revenues deposited into the special account shall not revert to the General Fund at the end of any fiscal year or at any other time. All special account deposits shall be secured in a manner consistent with deposits of revenues by the District.</text>
+    <text>There is established as a special fund the OCTFME Special Account ("Account"), which shall be administered by the Director of OCTFME in accordance with subsection (e) of this section.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(b)</num>
-    <text>Revenues deposited into the special account shall be continually available to the Office for the uses and purposes set forth in this chapter, subject to authorization in an appropriations chapter.</text>
+    <text>Repealed.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(c)</num>
-    <text>The Director shall administer the special account and receive all payments required by this chapter.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(d)</num>
-    <text>Deposits into the special account shall include:</text>
+    <text>The following revenue shall be deposited in the Account:</text>
     <para>
       <num>(1)</num>
       <text>Fees and penalties collected pursuant to this chapter, to regulations promulgated pursuant to this chapter, or to a franchise agreement, including franchise fees, application fees, and transfer fees;</text>
@@ -38,9 +41,21 @@
       <text>Other payments authorized by this chapter, by regulations promulgated under this chapter, or by an agreement entered into under the authority of this chapter; and</text>
     </para>
     <para>
-      <num>(5)</num>
-      <text>All interest earned on all deposits.</text>
+      <num>(4A)</num>
+      <text>All other revenues owed and accruing to the District from the establishment, regulation, and operation of industries under <cite path="34|12|II">this subchapter</cite>.</text>
     </para>
+    <para placeholder="Repealed">
+      <num>(5)</num>
+      <text>Repealed.</text>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>Money in the Account shall be used for the uses and purposes set forth in <cite path="34|12|II">this subchapter</cite>.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>Any money remaining available in the Account at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 4-142" type="History" path="§203">Aug. 21, 1982, D.C. Law 4-142, § 203</annotation>
@@ -56,5 +71,13 @@
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§2052|(c)|(3)|(B)" type="History"/>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§2052|(c)|(3)|(C)" type="History"/>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§2052|(c)|(3)|(D)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7113" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7113|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7113|(b)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7113|(c)|(2)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7113|(c)|(3)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7113|(c)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7113|(d)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7113" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7113">§ 7113 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

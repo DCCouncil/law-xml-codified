@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-3502</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-3502(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Lower income homeownership households — Qualifications.</heading>
   <para>
     <num>(a)</num>
@@ -14,11 +17,15 @@
       <text>The household shall occupy the unit and shall either:</text>
       <para>
         <num>(A)</num>
-        <text>Become an owner in fee simple; or</text>
+        <text>Become an owner in fee simple;</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>Receive, pursuant to a shared equity financing agreement which complies with the requirements of 26 U.S.C. § 280A(d)(3), at least a 5% qualified ownership interest, the right to occupy the unit, and an option to purchase the remaining ownership interest at a specified later date.</text>
+        <text>Receive, pursuant to a shared equity financing agreement which complies with the requirements of 26 U.S.C. § 280A(d)(3), at least a 5% qualified ownership interest, the right to occupy the unit, and an option to purchase the remaining ownership interest at a specified later date; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Enter into a land lease with a community land trust, as defined by <cite path="§47-803|(1)">§ 47-803(1)</cite>, as the lessor.</text>
       </para>
     </para>
   </para>
@@ -71,5 +78,10 @@
     <annotation type="Prior Codifications">1981 Ed., § 47-3502.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§47-802">§ 47-802</cite>, <cite path="§47-3503">§ 47-3503</cite>, <cite path="§47-3504">§ 47-3504</cite>, and <cite path="§47-3505">§ 47-3505</cite>.</annotation>
     <annotation type="Cross References">Real property assessment and tax, “owner” and “taxpayer” defined, see <cite path="§47-802">§ 47-802</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2152|(c)|(1)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2152|(c)|(1)|(A)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2152|(c)|(1)|(B)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2152|(c)|(1)|(C)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2152|(c)|(1)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2152|(c)|(1)">§ 2152(c)(1) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

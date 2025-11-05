@@ -1638,6 +1638,7 @@
     <xi:include href="./sections/47-2002.05.xml"/>
     <xi:include href="./sections/47-2002.06.xml"/>
     <xi:include href="./sections/47-2002.07.xml"/>
+    <xi:include href="./sections/47-2002.08.xml"/>
     <xi:include href="./sections/47-2003.xml"/>
     <xi:include href="./sections/47-2004.xml"/>
     <xi:include href="./sections/47-2005.xml"/>
@@ -1880,7 +1881,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>27B</num>
-    <heading>Ballpark Fee.</heading>
+    <heading>Sports facilities fee.<annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7042|(a)" type="History"/></heading>
     <xi:include href="./sections/47-2761.xml"/>
     <xi:include href="./sections/47-2762.xml"/>
     <xi:include href="./sections/47-2762.01.xml"/>
@@ -1989,6 +1990,7 @@
       <xi:include href="./sections/47-2851.22.xml"/>
       <xi:include href="./sections/47-2851.23.xml"/>
       <xi:include href="./sections/47-2851.24.xml"/>
+      <xi:include href="./sections/47-2851.25.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -2953,11 +2955,11 @@
     <xi:include href="./sections/47-4675.xml"/>
     <xi:include href="./sections/47-4676.xml"/>
     <xi:include href="./sections/47-4677.xml"/>
-    <xi:include href="./sections/47-4678.xml"/>
-    <xi:include href="./sections/47-4679.xml"/>
     <xi:include href="./sections/47-4680.xml"/>
     <xi:include href="./sections/47-4681.xml"/>
     <xi:include href="./sections/47-4682.xml"/>
+    <xi:include href="./sections/[47-4683].xml"/>
+    <xi:include href="./sections/[47-4684].xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

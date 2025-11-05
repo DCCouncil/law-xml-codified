@@ -1,14 +1,164 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-731.02</num>
   <heading proof="needed">Child behavioral health services directory and dashboard.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>By September 30, 2025, the Department of Health ("Department"), in consultation with the Department of Behavioral Health ("DBH"), shall create a publicly accessible and searchable online directory of available behavioral health services in the District ("directory"), which shall be prominently located on the Department's website.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>The directory shall be regularly updated to include:</text>
+      <para>
+        <num>(A)</num>
+        <text>A list of providers offering child and youth behavioral health screening services, behavioral health assessment services, behavioral health prevention and early intervention services, and behavioral health treatment services in the District, including the provider's contact information and a link to their website; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Behavioral health resources available through DBH's school-based behavioral health programs established by <cite path="2|15|I-C">subchapter I-C of Chapter 15 of Title 2</cite>, at each District of Columbia Public Schools school and public charter school.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The directory shall allow users to filter available providers included under paragraph (1)(A) of this subsection by key features, including:</text>
+      <para>
+        <num>(A)</num>
+        <text>The age of population served;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The services provided;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The types of therapy offered;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The languages spoken by the provider;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Whether the provider offers specialized services for LGBTQIA+ individuals;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Whether the services are tailored to meet the needs of individuals with disabilities, including intellectual disabilities;</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Whether the services are available for or tailored to meet the needs of foster youth or justice-involved youth;</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>Whether the provider has competency or expertise in serving specific populations, including victims of crime or gun violence, survivors of domestic violence, or individuals and families experiencing homelessness;</text>
+      </para>
+      <para>
+        <num>(I)</num>
+        <text>The types of insurance accepted;</text>
+      </para>
+      <para>
+        <num>(J)</num>
+        <text>The zip code where the services are provided; and</text>
+      </para>
+      <para>
+        <num>(K)</num>
+        <text>The availability of telehealth.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The directory may include behavioral health resources currently offered by the:</text>
+      <para>
+        <num>(A)</num>
+        <text>Department;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>DBH;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Department of Human Services;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Department of Youth Rehabilitation Services;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Child and Family Services Agency; and</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Department of Disability Services.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>By September 30, 2026, the Department shall, in consultation with DBH, establish an online dashboard or other information management tool for behavioral health services offered at District hospitals, which shall include the current status of:</text>
+    <para>
+      <num>(1)</num>
+      <text>The number of psychiatric service beds at hospitals serving children and youth up to age 17 in the District;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The treatment modalities used by each hospital; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Whether the hospital accepts children and youth who are justice involved.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>For the purposes of this section, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>"Behavioral health" shall have the same meaning as provided in <cite path="§7-1131.02|(1)">§ 7-1131.02(1)</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Behavioral health assessment" shall have the same meaning as provided in <cite path="§7-1131.02|(1A)">§ 7-1131.02(1A)</cite>.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Behavioral health prevention and early intervention services" means programs and services aimed at preventing and addressing behavioral health issues in children and youth at an early stage through screening, counseling, education, community-based interventions, and crisis response services to promote mental well-being and reduce the severity of emerging issues.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"Behavioral health screening" shall have the same meaning as provided in <cite path="§7-1131.02|(1D)">§ 7-1131.02(1D)</cite>.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"Behavioral health treatment services" means stand-alone and co-occurring treatment services for substance use and mental health disorders aimed at promoting and improving an individual's behavioral health, including screening, prevention, early intervention, and treatment services.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>"Child" means individuals under the age of 12 years.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>"LGBTQIA+" means lesbian, gay, bisexual, transgender, queer, intersex, asexual, or any other sexual or gender identity that falls outside of the traditional heterosexual and cisgender norms.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>"Justice-involved youth" means youth who have committed a delinquent or criminal act, engaged in a status offense, or are within the custody of the Department of Youth Rehabilitation Services or Department of Corrections.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>"Youth" means individuals between the ages of 12 and 26 years.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 14-28" type="History" path="§4902b">Oct. 3, 2001, D.C. Law 14-28, § 4902b</annotation>
     <annotation type="Applicability" doc="D.C. Law 25-279" path="§2" codified:display="Note" app="2025-03-07" eff="2025-03-07">Applicability of <cite doc="D.C. Law 25-279" path="">D.C. Law 25-279</cite>: <cite doc="D.C. Law 25-279" path="§3">§ 3 of D.C. Law 25-279</cite> provided that the creation of this section by <cite doc="D.C. Law 25-279" path="§2">§ 2 of D.C. Law 25-279</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-03-07" doc="D.C. Law 25-279" eff="2025-03-07" path="§2" type="History"/>
-    <annotation app="2025-03-07" doc="D.C. Law 25-279" eff="2025-03-07" path="§3|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-279" eff="2025-03-07" path="§2" prefix="as added" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-279" eff="2025-03-07" path="§2" prefix="as added" type="History"/>
+    <annotation doc="D.C. Act 26-146" path="§7189" type="Applicability" history="false" app="2025-09-03" eff="2025-09-03">Section 7189 of <cite doc="D.C. Act 26-146" path="§7189">D.C. Act 26-146</cite> repealed Section 3 of <cite doc="D.C. Law 25-279" path="§3">D.C. Law 25-279</cite>, thus removing the applicability limitation. Therefore the creation of this section by <cite doc="D.C. Law 25-279" path="§2">Section 2</cite> of D.C. Law 25-279 has been implemented.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7189" type="History" display="false"/>
   </annotations>
 </section>

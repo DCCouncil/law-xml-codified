@@ -1,82 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>3-1464</num>
   <heading proof="needed">Composition.</heading>
-  <para>
-    <num>(a)</num>
-    <para>
-      <num>(1)</num>
-      <text>The Commission shall consist of 12 members; 9 voting members appointed by the Chairperson of the Council and 3 ex-officio members.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The 9 voting members shall include:</text>
-      <para>
-        <num>(A)</num>
-        <text>Two appointees from organizations with a demonstrated commitment to reparations and preventing and repairing harms caused by racial injustice;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Two appointees from the field of academia who have expertise in at least 2 of the following 3 areas: civil rights, history, or constitutional law;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>Two appointees that either currently reside in the District who have been District residents for at least 20 years or who do not currently reside in the District but formerly did so and for at least 20 years;</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>One appointee who has expertise in community development and social justice in the District; and</text>
-      </para>
-      <para>
-        <num>(E)</num>
-        <text>One appointee from a faith-based organization.</text>
-      </para>
-    </para>
-    <para>
-      <num>(3)</num>
-      <para>
-        <num>(A)</num>
-        <text>Members shall be drawn from diverse backgrounds to represent the interests of African American communities throughout the District, have experience seeking and implementing racial justice reform, and, to the extent possible, represent geographically diverse areas of the District.</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>The Chairperson of the Council may give special consideration to long-time District residents who, in his or her determination, have been most harmed by the injury set forth in <cite path="3|14D|I">this subchapter</cite>.</text>
-      </para>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>The 3 non-voting ex officio members, who may attend and participate in meetings, shall be the:</text>
-    <para>
-      <num>(1)</num>
-      <text>Commissioner of the Department of Insurance, Securities, and Banking or the Commissioner's designee;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>District's State Archivist or the Archivist's designee; and</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Director of the District of Columbia Office of Human Rights or the Director's designee.</text>
-    </para>
-  </para>
-  <para>
-    <num>(c)</num>
-    <para>
-      <num>(1)</num>
-      <text>The term of office for members shall be for the life of the Commission.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The Chairperson of the Council shall appoint the Commission members no later than 60 days after March 7, 2025.</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>A vacancy in the voting members on the Commission shall not affect the powers of the Commission. A vacancy shall be filled in the same manner that the original appointment was made.</text>
-    </para>
-  </para>
+  <text>Not Funded.</text>
   <annotations>
     <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="" type="History" display="false"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="§401" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 25-264" eff="2025-03-07" path="§104" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 25-264" path="§104" codified:display="Note" app="2025-03-07" eff="2025-03-07">Applicability of <cite doc="D.C. Law 25-264" path="">D.C. Law 25-264</cite>: <cite doc="D.C. Law 25-264" path="§401">§ 401 of D.C. Law 25-264</cite> provided that the creation of this section by <cite doc="D.C. Law 25-264" path="§104">§ 104 of D.C. Law 25-264</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="§104" type="History"/>
   </annotations>
 </section>

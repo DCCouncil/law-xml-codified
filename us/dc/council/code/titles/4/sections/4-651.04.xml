@@ -1,16 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-651.04</num>
   <heading>Help Me Grow.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>Beginning October 1, 2019, there is established a Help Me Grow Program ("Help Me Grow"), which shall be administered by DOH in accordance with this section. The purpose of Help Me Grow shall be to serve as a comprehensive resource and referral system for child development and family support services by providing:</text>
+    <para>
+      <num>(1)</num>
+      <text>A direct toll-free phone number for families with infants and toddlers, and health professionals, that offers oral language services in accordance with the requirements of <cite path="2|19|II">subchapter II of Chapter 19 of Title 2</cite>, including oral language services in English, Spanish, Vietnamese, Chinese, Amharic, and French;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A current directory of public and private programs and services available to support families with infants and toddlers, including all programs administered by DOH, CFSA, DBH, OSSE, DHCF, and DHS;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>A process that assesses the health care needs of families with infants, toddlers, and children between 3 and 5 years of age, identifies gaps in the provision of community navigation services to such individuals, and measures the effectiveness of the home visiting referral and enrollment process;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>A centralized screening and referral mechanism, developed in collaboration with the Home Visiting Council, to facilitate the provision of home visiting services to families with infants and toddlers;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Linguistically appropriate outreach and materials to enhance the knowledge of families with infants and toddlers of available child development services; and</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Training for health professionals to promote knowledge of screening for child developmental disorders and of Help Me Grow.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>DOH shall coordinate with DMHHS, DHCF, and OSSE to establish a data system to store and share health data pertaining to the screening of infants, toddlers, and children between 3 and 5 years of age for early childhood developmental health issues.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>By January 1, 2021, DOH, in collaboration with DHCF, shall develop and implement a plan to track data pertaining to the early childhood development of infants and toddlers by providing a unique child identifier for each live birth which occurs in the District.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>Beginning January 1, 2020, and semiannually thereafter, DOH shall submit a report to the Mayor, Council, Interagency Coordinating Council, SECDCC, and the Quality Improvement Network Interagency Steering Committee regarding the implementation of Help Me Grow.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§4-651.04" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-651.04">Applicability of <cite doc="D.C. Law 22-179" path="">D.C. Law 22-179</cite>: <cite doc="D.C. Law 22-179" path="§301">§ 301 of D.C. Law 22-179</cite> provided that the creation of this section by <cite doc="D.C. Law 22-179" path="§104">§ 104 of D.C. Law 22-179</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2018-10-30" doc="D.C. Law 22-179" eff="2018-10-30" path="" type="History" display="false"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-179" eff="2018-10-30" path="§301|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-179" eff="2018-10-30" path="§104" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 22-179" path="§104" codified:display="Note" app="2018-10-30" eff="2018-10-30">Applicability of <cite doc="D.C. Law 22-179" path="">D.C. Law 22-179</cite>: <cite doc="D.C. Law 22-179" path="§301">§ 301 of D.C. Law 22-179</cite> provided that the creation of this section by <cite doc="D.C. Law 22-179" path="§104">§ 104 of D.C. Law 22-179</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2018-10-30" doc="D.C. Law 22-179" eff="2018-10-30" path="§104" type="History"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§5142|(c)" type="History" display="false"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§5141" type="History" display="false"/>
+    <annotation type="Applicability" doc="D.C. Law 22-179" path="§104" codified:display="Note" app="2018-10-30" eff="2018-10-30">Applicability of <cite doc="D.C. Law 22-179" path="">D.C. Law 22-179</cite>: <cite doc="D.C. Law 22-179" path="§301">§ 301 of D.C. Law 22-179</cite> provided that the creation of this section by <cite doc="D.C. Law 22-179" path="§104">§ 104 of D.C. Law 22-179</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Act 26-146" path="§7182" type="Applicability" history="false" app="2025-09-03" eff="2025-09-03">Section 7182 of <cite doc="D.C. Act 26-146" path="§7182">D.C. Act 26-146</cite> amended the applicability provison in Section 301(a) of <cite doc="D.C. Law 22-179" path="§301|(a)">D.C. Law 22-179</cite>. Therefore the amendments to this section by <cite doc="D.C. Law 22-179" path="§104">Section 104</cite> of D.C. Law 22-179 have been implemented.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7182" type="History" display="false"/>
   </annotations>
 </section>

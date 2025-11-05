@@ -1,11 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>44-301.09</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§44-301.09(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Assessment of insurers.</heading>
-  <text>The Mayor shall assess all insurers to cover all the costs of administering this chapter. The Mayor shall promulgate regulations to determine the assessment formula.</text>
+  <para>
+    <num>(a)</num>
+    <text>The Mayor shall assess all insurers to cover all the costs of administering this chapter. The Mayor shall promulgate regulations to determine the assessment formula.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>There is established as a special fund the Adverse Health Benefit Decision Grievance Fund ("Fund"), which shall be administered by the Mayor in accordance with paragraph (3) of this subsection.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Payments of the assessments imposed pursuant to subsection (a) of this section shall be deposited in the Fund.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Money in the Fund shall be used to pay the costs of administering <cite path="44|3">this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Any money remaining available in the Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 12-274" type="History" path="§109">Apr. 27, 1999, D.C. Law 12-274, § 109, 46 DCR 1294</annotation>
     <annotation type="Delegation of Authority">Delegation of authority pursuant to <cite doc="D.C. Law 12-274">D.C. Law 12-274</cite>, the “Health Benefits Plan Members Bill of Rights Act of 1998”, see Mayor’s Order 99-159, October 13, 1999 ( 46 DCR 8842).</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 32-571.9.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7072" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7072|(b)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7072|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7072" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7072">§ 7072 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

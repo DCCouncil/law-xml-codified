@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-1704.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-1704.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>LRAP.</heading>
   <para>
     <num>(a)</num>
@@ -8,13 +11,13 @@
   </para>
   <para>
     <num>(b)</num>
-    <para>
+    <para placeholder="Repealed">
       <num>(1)</num>
-      <text>Funding for the LRAP shall be allocated to the Office of Victim Services and Justice Grants.</text>
+      <text>Repealed.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(2)</num>
-      <text>The amount of funding for the LRAP for each fiscal year shall be specified by an act of the Council and shall not be modified except by a subsequent act of the Council.</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(3)</num>
@@ -59,5 +62,8 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§3042|(b)" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§3042|(b)">§ 3042(b) of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
     <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3042|(b)" type="History" display="false"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3042|(b)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3072|(e)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3072|(e)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§3072|(e)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§3072|(e)">§ 3072(e) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

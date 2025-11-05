@@ -2,6 +2,9 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>§</prefix>
   <num>47-860.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-860.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Tax abatements for housing in downtown – Definitions.</heading>
   <para>
     <num undesignated="true">(a)</num>
@@ -13,13 +16,25 @@
     <para>
       <num>(2)</num>
       <text>"Eligible area" means:</text>
-      <para>
+      <para placeholder="Repealed">
         <num>(A)</num>
-        <text>The geographic area bounded by a line starting at the intersection of the center line of Massachusetts Avenue, N.W., and the center of Dupont Circle, N.W.; continuing southeast along the center line of Massachusetts Avenue, N.W., to the center line of North Capitol Street, N.W.; continuing south along the center line of North Capitol Street, N.W., to the center line of Constitution Avenue, N.W.; continuing west along the center line of Constitution Avenue, N.W., to the center line of 15th Street, N.W.; continuing north along the center line of 15th Street, N.W. to the center line of Pennsylvania Avenue, N.W.; continuing west along the center line of Pennsylvania Avenue, N.W., to the center of Washington Circle, N.W.; continuing northeast along the center line of New Hampshire Avenue N.W., to, and terminating at, the intersection of the center line of Massachusetts Avenue, N.W., and the center of Dupont Circle, N.W. (the starting point); and</text>
+        <text>[Repealed].</text>
+      </para>
+      <para placeholder="Repealed">
+        <num>(B)</num>
+        <text>[Repealed].</text>
       </para>
       <para>
-        <num>(B)</num>
-        <text>Any other portion of the central business district designated by the Mayor.</text>
+        <num>(C)</num>
+        <text>The geographic area contained in the Central Washington Area Element, as set forth in <cite doc="D.C. Law 24-20">[The Comprehensive Plan Amendment Act of 2021]</cite>, plus 1,750 linear feet within the District in any direction beyond the area's boundaries;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The geographic area contained in the Near Northwest Area Element, as set forth in Volume 2 of the Comprehensive Plan Amendment Act of 2021, plus 1,750 linear feet within the District in any direction beyond the area's boundaries; and</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Any other portion of the District with a concentration of commercial office property and high commercial vacancy rates, as designated by the Mayor.</text>
       </para>
     </para>
     <para>
@@ -39,5 +54,9 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§7082|(b)" codified:display="Note" app="2022-09-21" eff="2022-07-13">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-470" path="§7082|(b)">§ 7082(b) of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
     <annotation app="2022-09-21" doc="D.C. Act 24-470" eff="2022-07-13" path="§7082|(b)" type="History" display="false"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7082|(b)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2122|(a)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2122|(a)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2122|(a)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2122|(a)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2122|(a)">§ 2122(a) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

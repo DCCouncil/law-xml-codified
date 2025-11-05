@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>32-1307.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§32-1307.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Wage Theft Prevention Fund.</heading>
   <para>
     <num>(a)</num>
@@ -24,14 +27,7 @@
   </para>
   <para>
     <num>(d)</num>
-    <para>
-      <num>(1)</num>
-      <text>The money deposited into the Fund, and interest earned, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
-    </para>
+    <text>Any money remaining available in the Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
   </para>
   <annotations>
     <annotation type="History" doc="Stat. 84-2-ch924" path="§7a">Aug. 3, 1956, 70 Stat. 978, ch. 924, § 7a</annotation>
@@ -61,5 +57,8 @@
     <annotation doc="D.C. Law 24-132" path="§2" type="Applicability" history="false" app="2022-06-30" eff="2022-06-30"><cite doc="D.C. Law 24-132" path="§2">Section 2 of D.C. Law 24-132</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the changes made to of this section by D.C. Law 23-209 shall apply as of October 1, 2022.
         </annotation>
     <annotation app="2022-06-30" doc="D.C. Law 24-132" eff="2022-06-30" path="§2" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7133" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7133" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7133" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7133">§ 7133 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

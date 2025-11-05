@@ -30,7 +30,7 @@
       <text>Section 802(11) is amended to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:replace codified:doc="D.C. Code" codified:path="§47-802|(11)"/>
+          <codify:replace/>
           <num>(11)</num>
           <text>The term "limited-equity cooperative" means a cooperative that is required by a government agency, nonprofit organization, or by its articles of incorporation or organization to:</text>
           <para>
@@ -52,7 +52,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:not-funded-anno doc="D.C. Code" path="§47-802" applicability-path="§4" display-template="" codified:doc="D.C. Code" codified:path="§47-802" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§47-802" applicability-path="§4" display-template=""/>
     </para>
     <para codify:path="§47-3503|(c)">
       <num>(b)</num>
@@ -62,7 +62,7 @@
         <text>Paragraph (1) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§47-3503|(c)|(1)"/>
+            <codify:replace/>
             <num>(1)</num>
             <text>For the purposes of this subsection, the term:</text>
             <para>
@@ -83,7 +83,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the phrase "§ 47-3502(2)(B)" and insert the phrase "§ 47-3502(a)(2)(B)" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-3503|(c)|(2)|(B)">
+          <codify:find-replace count="1">
             <find>
               <cite path="§47-3502|(2)|(B)" proof="true">§ 47-3502(2)(B)</cite>
             </find>
@@ -95,7 +95,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the word "rent" and insert the phrase "carrying charges" in its place.</text>
-          <codify:find-replace codified:doc="D.C. Code" codified:path="§47-3503|(c)|(2)|(B)">
+          <codify:find-replace>
             <find>rent</find>
             <replace>carrying charges</replace>
           </codify:find-replace>
@@ -104,7 +104,7 @@
       <para codify:path="(3)">
         <num>(3)</num>
         <text>Paragraph (3) is amended by striking the word "rent" and inserting the phrase "carrying charges" in its place.</text>
-        <codify:find-replace codified:doc="D.C. Code" codified:path="§47-3503|(c)|(3)">
+        <codify:find-replace>
           <find>rent</find>
           <replace>carrying charges</replace>
         </codify:find-replace>
@@ -112,7 +112,7 @@
       <para codify:path="(4)">
         <num>(4)</num>
         <text>Paragraph (4) is amended by striking the word "rent" and inserting the phrase "carrying charges" in its place.</text>
-        <codify:find-replace codified:doc="D.C. Code" codified:path="§47-3503|(c)|(4)">
+        <codify:find-replace>
           <find>rent</find>
           <replace>carrying charges</replace>
         </codify:find-replace>
@@ -122,7 +122,7 @@
         <text>A new paragraph (4a) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(4)" num-value="[(4A)]" codified:doc="D.C. Code" codified:path="§47-3503|(c)|[(4A)]"/>
+            <codify:insert after="(4)" num-value="[(4A)]"/>
             <num>(4a)</num>
             <text>Notwithstanding the provisions of paragraph (4) of this subsection, the exemption provided by this subsection shall apply to property owned by a limited-equity cooperative defined in <cite doc="D.C. Code" path="§47-802|(11)">§ 47-802(11)</cite> and shall not expire; provided, that:</text>
             <para>
@@ -142,7 +142,7 @@
         <aftertext>.</aftertext>
       </para>
     </para>
-    <codify:not-funded-anno doc="D.C. Code" path="§47-3503" applicability-path="§4" display-template="" codified:doc="D.C. Code" codified:path="§47-3503" codified:display="Note"/>
+    <codify:not-funded-anno doc="D.C. Code" path="§47-3503" applicability-path="§4" display-template=""/>
   </section>
   <section>
     <num>3</num>
@@ -150,13 +150,13 @@
     <text>Section 2(2) of the Limited-Equity Cooperative Task Force Act of 2018, effective July 3, 2018 (D.C. Law 22-119; D.C. Official Code § 42-2061(2)), is amended to read as follows:</text>
     <include lvl="1">
       <para>
-        <codify:replace doc="D.C. Code" path="§42-2061|(2)" codified:doc="D.C. Code" codified:path="§42-2061|(2)"/>
+        <codify:replace doc="D.C. Code" path="§42-2061|(2)"/>
         <num>(2)</num>
         <text>"Limited-equity cooperative" or "LEC" shall have the same meaning as in <code-cite doc="D.C. Code" path="§47-802|(11)">D.C. Official Code § 47-802(11)</code-cite>.</text>
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:not-funded-anno doc="D.C. Code" path="§42-2061" applicability-path="§4" display-template="" codified:doc="D.C. Code" codified:path="§42-2061" codified:display="Note"/>
+    <codify:not-funded-anno doc="D.C. Code" path="§42-2061" applicability-path="§4" display-template=""/>
   </section>
   <section>
     <num>4</num>
@@ -164,7 +164,7 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect is included in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 24-244" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-2061|(2)"/>
+      <codify:applicability doc="D.C. Law 24-244" date="notfunded" history="false" display-template=""/>
     </para>
     <para>
       <num>(b)</num>

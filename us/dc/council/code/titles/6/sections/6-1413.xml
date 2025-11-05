@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>6-1413</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§6-1413(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Diaper-changing stations.</heading>
   <para placeholder="Repealed">
     <num>(a)</num>
-    <text>Not Funded.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -83,5 +86,8 @@
     <annotation doc="D.C. Law 24-213" path="§3" type="Editor's Notes" history="false" app="2022-12-21" eff="2022-12-21"><cite doc="D.C. Law 24-212" path="§3">Section 3 of D.C. Law 24-212</cite> provided that the Mayor, in consultation with the Construction Codes Coordinating Board, shall promulgate regulations to implement D.C. Law 24-212 pursuant to § 6-1409, which regulations shall be included in subsequent editions of the Construction Codes, no later than 180 days after the effective date Law 24-212.
     </annotation>
     <annotation app="2022-12-21" doc="D.C. Law 24-213" eff="2022-12-21" path="§3" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7205" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7205" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7205" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7205">§ 7205 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

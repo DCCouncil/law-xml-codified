@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-2602</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§38-2602(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Responsibilities.</heading>
   <para>
     <num>(a)</num>
@@ -354,31 +357,7 @@
     </para>
     <para>
       <num>(24)</num>
-      <text>Provide supplemental funding for early literacy programs targeting 3rd grade reading success through a competitive, multiyear grant program, subject to available funding, for eligible grantees who are early literacy providers that, at a minimum:</text>
-      <para>
-        <num>(A)</num>
-        <text>Provide a full continuum of school-based, early literacy intervention services for all grades pre-K through 3rd consisting of developmentally appropriate components for each grade;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Deliver the literacy program by professionally coached interventionists;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>Provide direct services each day that school is in session;</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>Collect data on student progress monthly;</text>
-      </para>
-      <para>
-        <num>(E)</num>
-        <text>Use an intervention model that is comprehensive and has been proven to be effective in one or more empirical studies; and</text>
-      </para>
-      <para>
-        <num>(F)</num>
-        <text>Are not local education agencies;</text>
-      </para>
+      <text>Subject to available funding, implement a program to provide funding and other support to early literacy programs and providers, which may include the issuance of grants.</text>
     </para>
     <para>
       <num>(25)</num>
@@ -743,9 +722,9 @@
   </para>
   <para>
     <num>(d)</num>
-    <para placeholder="Repealed">
+    <para>
       <num>(1)</num>
-      <text>Not funded.</text>
+      <text>OSSE shall establish a School Support Office ("Office") to implement and administer a school support program ("Program") beginning in School Year 2025-2026. The Program shall provide support and resources for continuous academic improvement to DCPS schools and District public charter schools whose academic performance is, at minimum, in the lowest 5% of all public schools in the District.</text>
     </para>
     <para placeholder="Repealed">
       <num>(2)</num>
@@ -807,13 +786,13 @@
         <text>Discuss any additional items relevant to the needs of the Office or Program.</text>
       </para>
     </para>
-    <para placeholder="Repealed">
+    <para>
       <num>(4)</num>
-      <text>Not funded.</text>
+      <text>No later than September 1, 2025, and subject to appropriation, OSSE shall apply the school improvement models developed by the school support office to participating schools.</text>
     </para>
-    <para placeholder="Repealed">
+    <para>
       <num>(5)</num>
-      <text>Not funded.</text>
+      <text>Starting September 30, 2026, and every 2 years thereafter, OSSE shall submit a report to the Mayor and the Council on the improvement of schools in the Program. The report shall address the effectiveness of the continuous school improvement models and provide recommendations, if any, for Program improvement, including a description of evidence-based strategies developed or further refined in the years since the last report.</text>
     </para>
   </para>
   <annotations>
@@ -979,5 +958,10 @@
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4222|(a)" type="History"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4222|(b)" type="History"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4222|(c)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4042" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4042" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§4042" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§4042">§ 4042 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation doc="D.C. Act 26-146" path="§7185|(a)|(1)" type="Applicability" history="false" app="2025-09-03" eff="2025-09-03">Section 7185 of <cite doc="D.C. Act 26-146" path="§7185">D.C. Act 26-146</cite> amended Section 3(a) of <cite doc="D.C. Law 25-147" path="§3|(a)">D.C. Law 25-147</cite>. Therefore the amendment made to paragraph (d)(2) of this section by <cite doc="D.C. Law 25-147" path="§2">Section 2</cite> of D.C. Law 25-147 has not been implemented.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7185|(a)|(1)" type="History" display="false"/>
   </annotations>
 </section>

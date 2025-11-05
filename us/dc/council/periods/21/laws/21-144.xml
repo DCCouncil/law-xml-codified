@@ -165,8 +165,8 @@
       <text>A new section 8a is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert doc="D.C. Law 9-248" after="§8" history-prefix="as added" codified:doc="D.C. Code" codified:path="§32-1007.01"/>
-          <codify:organic after="§32-1007" num-value="32-1007.01" codified:doc="D.C. Code" codified:path="§32-1007.01"/>
+          <codify:insert doc="D.C. Law 9-248" after="§8" history-prefix="as added" codified:doc="D.C. Code" codified:path="§32-1007.01|(a)"/>
+          <codify:organic after="§32-1007" num-value="32-1007.01" codified:doc="D.C. Code" codified:path="§32-1007.01|(a)"/>
           <num>8a</num>
           <heading>Reporting.</heading>
           <text>The Mayor shall submit biannually a report to the Council regarding any audits or inspections conducted related to compliance with <code-cite>this act</code-cite> or any regulation issued pursuant to <code-cite>this act</code-cite>. Each report shall include:</text>
@@ -189,7 +189,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation doc="D.C. Code" path="§32-1007.01" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§32-1007.01">
+      <codify:annotation doc="D.C. Code" path="§32-1007.01" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§32-1007.01|(a)">
           For temporary (90 days) creation of this section, see <cite doc="D.C. Act 21-428" path="§2|(d)">§ 2(d) of the Fair Shot Minimum Wage Emergency Amendment Act of 2016 (D.C. Act 21-428, June 28, 2016, 63 DCR 9275)</cite>.        
         </codify:annotation>
     </para>

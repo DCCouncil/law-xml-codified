@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-361.05</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§2-361.05(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Acquisition planning.</heading>
   <para>
     <num>(a)</num>
@@ -38,19 +41,13 @@
     <num>(b)</num>
     <text>Each agency shall submit to the Council a summary of planned contracts for the upcoming fiscal year no later than the date of submission of the Mayor's proposed budget to the Council.  Each summary, at a minimum, shall list each planned contract and the source of funding for each contract by program code in the budget.</text>
   </para>
-  <para placeholder="Not Funded">
-    <num>(c)</num>
-    <text>Not Funded.</text>
-  </para>
   <annotations>
     <annotation doc="D.C. Law 18-371" type="History" path="§1105">Apr. 8, 2011, D.C. Law 18-371, § 1105, 58 DCR 1185</annotation>
     <annotation app="2016-10-08" doc="D.C. Law 21-158" eff="2016-10-08" path="§3|(r)|(1)" type="History"/>
     <annotation app="2016-10-08" doc="D.C. Law 21-158" eff="2016-10-08" path="§3|(r)|(2)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 21-504" path="§3|(q)" codified:display="Note" app="2016-10-13" eff="2016-10-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-504" path="§3|(q)">§ 3(q) of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</annotation>
     <annotation app="2016-10-13" doc="D.C. Act 21-504" eff="2016-10-13" path="§3|(q)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-169" eff="2022-09-21" path="§3|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-169" eff="2022-09-21" path="§2|(c)" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-169" path="§2|(c)" codified:display="Note" app="2022-09-21" eff="2022-09-21">Applicability of <cite doc="D.C. Law 24-169" path="">D.C. Law 24-169</cite>: <cite doc="D.C. Law 24-169" path="§3">§ 3 of D.C. Law 24-169</cite> provided that the change made to this section by <cite doc="D.C. Law 24-169" path="§2|(c)">§ 2(c) of D.C. Law 24-169</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2022-09-21" doc="D.C. Law 24-169" eff="2022-09-21" path="§2|(c)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7203" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7203" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7203">§ 7203 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

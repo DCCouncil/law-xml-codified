@@ -1,10 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-2853.154</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-2853.154(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Appraisal Education Fund.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established a fund designated as the Appraisal Education Fund (“Fund”), which shall be separate from the General Fund of the District of Columbia. All funds obtained from an appraisal education fund fee to be established by the Mayor (which shall be in addition to licensing and renewal fees established by the Mayor) and civil penalties imposed by the Board or the Office of Administrative Hearings pursuant to this part, and all interest earned on those funds, shall be deposited into the Fund without regard to fiscal year limitation pursuant to an act of Congress and used solely to pay the costs of operating and maintaining the Fund. All funds, interest, and other amounts deposited into the Fund shall not be transferred or revert to the General Fund of the District of Columbia at the end of any fiscal year or at any other time, but shall continually be available for the uses and purposes set forth in this section, subject to authorization by Congress in an appropriations act.</text>
+    <text>There is established as a special fund the Appraisal Education Fund ("Fund"), which shall be administered by the Mayor in accordance with subsection (b) of this section.</text>
+  </para>
+  <para>
+    <num>(a-1)</num>
+    <text>The following revenue shall be deposited in the Fund:</text>
+    <para>
+      <num>(1)</num>
+      <text>All funds obtained from the appraisal education fund fee established by the Mayor; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Civil penalties imposed by the Board or the Office of Administrative Hearings pursuant to <cite path="47|28|I-B|L">this part</cite>.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
@@ -37,6 +52,17 @@
     <num>(d)</num>
     <text>If a licensee fails to pay the appraisal education fee within the time prescribed by rule, his or her license shall be automatically suspended. The Board shall send a notice of the suspension, by certified mail, to the address of record within 5 days after the suspension. The license shall be restored only upon the actual receipt by the Mayor of the delinquent fee.</text>
   </para>
+  <para>
+    <num>(e)</num>
+    <para>
+      <num>(1)</num>
+      <text>The money deposited into the Fund but not expended in a fiscal year shall not revert to the unassigned fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 16-130" type="History">June 16, 2006, D.C. Law 16-130, § 2(l), 53 DCR 4718</annotation>
     <annotation type="Temporary Legislation">Section 4(b) of <cite doc="D.C. Law 16-101">D.C. Law 16-101</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
@@ -53,5 +79,10 @@
     <annotation type="Temporary Legislation">“(a) There is established a fund designated as the Appraisal Education Fund (‘Fund’), which shall be separate from the General Fund of the District of Columbia and shall be used by the Board for the purpose of raising the standards of practice and the competency of licensees and certificate holders by:</annotation>
     <annotation type="Temporary Legislation">“<cite path="§47-2853.154">§ 47-2853.154</cite>. Appraisal Education Fund.</annotation>
     <annotation type="Temporary Legislation">Section 2(m) of <cite doc="D.C. Law 16-101">D.C. Law 16-101</cite> added provisions to read as follows:</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7075" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7075|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7075|(b)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7075|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7075" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7075">§ 7075 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

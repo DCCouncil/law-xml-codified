@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-309.10</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 21, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-309.10(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Advisory Neighborhood Commissions — Duties and responsibilities; notice; great weight; access to documents; reports; contributions.</heading>
   <para>
     <num>(a)</num>
@@ -202,54 +205,11 @@
     <num>(q)</num>
     <para>
       <num>(1)</num>
-      <para>
-        <num>(A)</num>
-        <text>If an objection to the granting of a license or a license renewal for a theater, cinema, skating rink, dance hall, exhibition, lecture, or other entertainment is filed by a resident or owner of a residential property that is within 600 feet of the boundary lines of the lot upon which is situated the establishment for which the license is requested, no final action shall be taken by the Mayor until the resident or owner has an opportunity to be heard, under the rules and regulations to be issued by the Mayor.</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Upon such objection, a hearing shall be held by the Mayor to determine the effect of the establishment on the:</text>
-        <para>
-          <num>(i)</num>
-          <text>Peace, order, and quiet of the neighborhood or portion of the District of Columbia; and</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>Residential parking needs and vehicular and pedestrian safety of the neighborhood.</text>
-        </para>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>The Mayor shall rule on the application within 30 days of the hearing.</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>An applicant who holds a valid class C or D license issued pursuant to <cite path="25|1">Chapter 1 of Title 25</cite> shall be exempt from the provisions of paragraph (1) of this subsection.</text>
-      </para>
+      <text>Before granting or renewing a license for a theater, cinema, skating rink, dance hall, exhibition, lecture, or other entertainment, the Department of Licensing and Consumer Protection shall give 30-days notice by first-class mail or electronic mail to the affected Commission. The notice shall contain the name of the applicant and a description, by street number, or other plain designation, of the particular location for which the license is requested.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Once a hearing is scheduled pursuant to paragraph (1) of this subsection, the Mayor shall give 30 days' notice by mail to the Advisory Neighborhood Commission in which the theater, cinema, skating rink, dance hall, exhibition, lecture, or other entertainment licensee proposes to be located. The notice shall:</text>
-      <para>
-        <num>(A)</num>
-        <text>Contain the name of the applicant and a description, by street and number, or other plain designation, of the particular location for which the license is requested; and</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>State that any resident or owner of residential property that is within 600 feet of the boundary lines of the lot upon which is situated the establishment for which the license is requested who objects to the granting of the license is entitled to be heard before the granting of the license and the notice shall name the time and place of the hearing.</text>
-      </para>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Once a hearing is scheduled pursuant to paragraph (1) of this subsection, the applicant shall post 2 notices for a period of 4 weeks in conspicuous places on the outside of the premises. The notices shall:</text>
-      <para>
-        <num>(A)</num>
-        <text>State that any resident or owner of residential property that is within 600 feet of the boundary lines of the lot upon which is situated the establishment for which the license is requested who objects to the license is entitled to be heard before the granting of the license; and</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>State the same time and place for the hearing as set out in the notice mailed and published by the Mayor.</text>
-      </para>
+      <text>Pursuant to subsection (d) of this section, the Department of Licensing and Consumer Protection shall give great weight to the Commission's recommendations when determining whether to grant or renew the licenses.</text>
     </para>
   </para>
   <annotations>
@@ -343,5 +303,8 @@
     <annotation app="notfunded" doc="D.C. Law 24-342" eff="2023-04-06" path="§2|(d)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-342" path="§2|(d)" codified:display="Note" app="2023-04-06" eff="2023-04-06">Applicability of <cite doc="D.C. Law 24-342" path="">D.C. Law 24-342</cite>: <cite doc="D.C. Law 24-342" path="§10">§ 10 of D.C. Law 24-342</cite> provided that the change made to this section by <cite doc="D.C. Law 24-342" path="§2|(d)">§ 2(d) of D.C. Law 24-342</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§2|(d)" type="History"/>
+    <annotation app="2025-10-23" doc="D.C. Act 26-165" eff="2025-10-23" path="§2" type="History" display="false"/>
+    <annotation app="2025-10-23" doc="D.C. Act 26-165" eff="2025-10-23" path="§2" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-165" path="§2" codified:display="Note" app="2025-10-23" eff="2025-10-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-165" path="§2">§ 2 of Revised Business Licensing Reform Emergency Amendment Act of 2025 (D.C. Act 26-165, Oct. 23, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

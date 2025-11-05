@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-2904</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§38-2904(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Weightings applied to counts of students enrolled at certain grade levels.</heading>
   <text>The student counts at certain grade levels and in certain programs shall be weighted to provide an amount per student differing from the basic foundation level in accordance with the following schedule:</text>
   <text>
@@ -9,52 +12,52 @@
         <tr>
           <th>Grade Level</th>
           <th>Weighting</th>
-          <th>Per Pupil Allocation in FY 2025</th>
+          <th>Per Pupil Allocation in FY 2026</th>
         </tr>
         <tr>
           <td>Pre-Kindergarten 3</td>
           <td>1.34</td>
-          <td>$19,655</td>
+          <td>$20,194</td>
         </tr>
         <tr>
           <td>Pre-Kindergarten 4</td>
           <td>1.30</td>
-          <td>$19,068</td>
+          <td>$19,591</td>
         </tr>
         <tr>
           <td>Kindergarten</td>
           <td>1.30</td>
-          <td>$19,068</td>
+          <td>$19,591</td>
         </tr>
         <tr>
           <td>Grades 1-5</td>
           <td>1.00</td>
-          <td>$14,668</td>
+          <td>$15,070</td>
         </tr>
         <tr>
           <td>Grades 6-8</td>
           <td>1.08</td>
-          <td>$15,841</td>
+          <td>$16,276</td>
         </tr>
         <tr>
           <td>Grades 9-12</td>
           <td>1.22</td>
-          <td>$17,895</td>
+          <td>$18,385</td>
         </tr>
         <tr>
           <td>Alternative program</td>
           <td>1.58</td>
-          <td>$23,175</td>
+          <td>$23,811</td>
         </tr>
         <tr>
           <td>Special education school</td>
           <td>1.17</td>
-          <td>$17,162</td>
+          <td>$17,632</td>
         </tr>
         <tr>
           <td>Adult</td>
           <td>1.00</td>
-          <td>$14,668</td>
+          <td>$15,070</td>
         </tr>
       </tbody>
     </table>
@@ -165,5 +168,8 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§4002|(d)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§4002|(d)">§ 4002(d) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
     <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4002|(d)" type="History" display="false"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4002|(d)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4002|(b)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4002|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§4002|(b)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§4002|(b)">§ 4002(b) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

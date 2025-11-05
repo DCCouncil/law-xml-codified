@@ -1,105 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>3-1462</num>
   <heading proof="needed">Duties and responsibilities.</heading>
-  <para>
-    <num>(a)</num>
-    <text>The Commission shall:</text>
-    <para>
-      <num>(1)</num>
-      <text>Study and explore the creation of a new government agency, such as, for example, an African American People's Bureau, to implement any or all of the reparations proposals;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Make recommendations regarding the sources, distribution method, and schedule of distribution to eligible African Americans of the funds in the Reparations Fund established by <cite path="§3-1471">§ 3-1471</cite>, including recommending a method to exempt the recipients of funds from having to contribute to the sources of the Reparations Fund and from having any funds received from the Reparations Fund taxed, included in a recipient's taxable income, or in any manner negatively affecting any public assistance that a recipient may be receiving or may have received.</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Compile and synthesize evidentiary documentation and testimonies of lived experiences ("documentation") relating to the institution of slavery and its aftereffects in the United States during the period 1619 to 1865 up to the present, with a focus on the District of Columbia and former residents of the District, including, to the extent possible, documentation related to:</text>
-      <para>
-        <num>(A)</num>
-        <text>The capture and procurement of Africans;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>The forced removal and treatment of Africans from Africa and the African diaspora to what became the United States for the purpose of enslavement;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>The sale and acquisition of Africans as chattel property in interstate and intrastate commerce;</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>The treatment of enslaved human beings, including the deprivation of their freedom, exploitation of their labor, and attempted destruction of their culture, language, religion, and families;</text>
-      </para>
-      <para>
-        <num>(E)</num>
-        <text>The extensive denial of humanity and reproductive autonomy, rape and sexual abuse, forced breeding, and chattelization of persons for financial gain;</text>
-      </para>
-      <para>
-        <num>(F)</num>
-        <text>The federal and state laws that restricted the movement, land ownership, liberty, and humanity of African Americans, including Black codes, vagrancy acts, eminent domain, the war on drugs, mass incarceration, police brutality, prison conditions, and other forms of disenfranchisement;</text>
-      </para>
-      <para>
-        <num>(G)</num>
-        <text>The federal and state laws and programs that discriminated against African Americans from 1619 to the present, including the District of Columbia Compensated Emancipation Act of 1862;</text>
-      </para>
-      <para>
-        <num>(H)</num>
-        <text>The other forms of discrimination in the public and private sectors against African Americans from 1862 to the present, including redlining and unjust land seizures, educational funding discrepancies, health disparities, and predatory financial practices;</text>
-      </para>
-      <para>
-        <num>(I)</num>
-        <text>The ongoing negative effects of the institution of slavery on living African Americans; and</text>
-      </para>
-      <para>
-        <num>(J)</num>
-        <text>The lived experiences of African Americans in the District, including the spoken narratives of enslaved peoples, oral histories, and spoken testimonies.</text>
-      </para>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>In partnership with community-based organizations with a demonstrated interest in reparations, recommend ways to educate the public of the Commission's findings.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>In addition to the Commission's findings in subsection (a) of this section, the Commission shall detail in the report required by <cite path="§3-1463">§ 3-1463</cite>:</text>
-    <para>
-      <num>(1)</num>
-      <text>The criteria it determines should define an eligible African American entitled to monetary reparations or other forms of redress from the District government;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>How its recommendations comport with international standards, as set forth in various relevant international protocols, laws, and findings, for reparations or other measures to make amends for the wrongs and injuries caused by the institution of slavery and its aftermath;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>In what manner the District government can offer a formal apology for its role in the harms perpetuated on African Americans due to slavery and its aftermath;</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>How District laws and policies that may continue to disproportionately and negatively affect African Americans and perpetuate the lingering material and psychosocial effects of slavery can be eliminated;</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>How the resultant injuries can be repaired, including how to provide policies, programs, projects, and recommendations to effect that repair;</text>
-    </para>
-    <para>
-      <num>(6)</num>
-      <text>How the amount of compensation due to eligible African Americans should be calculated;</text>
-    </para>
-    <para>
-      <num>(7)</num>
-      <text>In addition to monetary compensation, if and in what form other redress should be provided to eligible African Americans and through what instrumentalities; and</text>
-    </para>
-    <para>
-      <num>(8)</num>
-      <text>The development and implementation of any programs for African Americans that may be warranted and the suggested form and scope of those programs, if any.</text>
-    </para>
-  </para>
+  <text>Not Funded.</text>
   <annotations>
     <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="" type="History" display="false"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="§401" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 25-264" eff="2025-03-07" path="§102" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 25-264" path="§102" codified:display="Note" app="2025-03-07" eff="2025-03-07">Applicability of <cite doc="D.C. Law 25-264" path="">D.C. Law 25-264</cite>: <cite doc="D.C. Law 25-264" path="§401">§ 401 of D.C. Law 25-264</cite> provided that the creation of this section by <cite doc="D.C. Law 25-264" path="§102">§ 102 of D.C. Law 25-264</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="§102" type="History"/>
   </annotations>
 </section>

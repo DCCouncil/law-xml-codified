@@ -326,49 +326,49 @@
     <num>(37)</num>
     <text>The term "Vote Center" means a centralized polling place at which registered qualified electors may vote, regardless of their address within the District; except, that only registered qualified electors in the care and custody of the Department of Corrections may vote at Vote Centers located in Department of Corrections facilities.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(38)</num>
-    <text>Not Funded.</text>
+    <text>"Active candidate" means a candidate who has not been defeated or elected and has not withdrawn their candidacy prior to election day pursuant to applicable law.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(39)</num>
-    <text>Not Funded.</text>
+    <text>"Highest-ranked active candidate" means the active candidate assigned a higher ranking than any other active candidates.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(40)</num>
-    <text>Not Funded.</text>
+    <text>"Inactive ballot" means a ballot on which no active candidate is ranked, contains an overvote at the highest ranking of active candidates, or contains 2 or more sequential skipped rankings before its highest-ranked active candidate.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(41)</num>
-    <text>Not Funded.</text>
+    <text>"Overvote" means an instance in which a voter has ranked more than one candidate at the same ranking.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(42)</num>
-    <text>Not Funded.</text>
+    <text>"Ranked choice voting" means a method of casting and tabulating votes whereby the voters rank candidates according to the order of their choice, and vote counting proceeds in rounds in which candidates are eliminated or elected.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(43)</num>
-    <text>Not Funded.</text>
+    <text>"Rank" means to assign a number to each candidate for an office corresponding to the voter's preference for that candidate relative to the other active candidates for that office, with the number "1" denoting the highest preference, followed by "2" and then "3" and then "4" and then "5."</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(44)</num>
-    <text>Not Funded.</text>
+    <text>"Ranking" means the number assigned by a voter to a candidate to express the voter's choice for that candidate, with the number "1" denoting the highest ranking, followed by "2" and then "3" and then "4" and then "5".</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(45)</num>
-    <text>Not Funded.</text>
+    <text>"Round" means an instance of the sequence of voting tabulation beginning with <cite path="§1-1001.08a|(d)">§ 1-1001.08a(d)</cite> for any single-winner contest, <cite path="§1-1001.08a|(e)">§ 1-1001.08a(e)</cite> for any general election for members of the Council at-large, and <cite path="§1-1001.08a|(f)">§ 1-1001.08a(f)</cite> for any applicable presidential preference primary election.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(46)</num>
-    <text>Not Funded.</text>
+    <text>"Skipped ranking" means an instance of a voter leaving a ranking unassigned and ranking a candidate at a subsequent ranking.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(47)</num>
-    <text>Not Funded.</text>
+    <text>"Threshold for receiving delegates" means the percentage of votes necessary for a candidate to receive delegates in a presidential preference primary election conducted under <cite path="§1-1001.08a|(f)">§ 1-1001.08a(f)</cite>.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(48)</num>
-    <text>Not Funded.</text>
+    <text>"Undervote" means a ballot that does not contain any candidates at any ranking in a particular contest.</text>
   </para>
   <annotations>
     <annotation type="History" doc="Stat. 84-1-ch862" path="§2">Aug. 12, 1955, 69 Stat. 699, ch. 862, § 2</annotation>
@@ -474,7 +474,5 @@
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7084" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 25-295" path="§2|(a)" codified:display="Note" app="2025-03-07" eff="2025-03-07">Applicability of <cite doc="D.C. Law 25-295" path="">D.C. Law 25-295</cite>: <cite doc="D.C. Law 25-295" path="§3">§ 3 of D.C. Law 25-295</cite> provided that the amendment to this section by <cite doc="D.C. Law 25-295" path="§2|(a)">§ 2(a) of D.C. Law 25-295</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-03-07" doc="D.C. Law 25-295" eff="2025-03-07" path="§2|(a)" type="History"/>
-    <annotation app="2025-03-07" doc="D.C. Law 25-295" eff="2025-03-07" path="§3|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-295" eff="2025-03-07" path="§2|(a)" type="History"/>
   </annotations>
 </section>

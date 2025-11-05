@@ -868,6 +868,13 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>10B-i</num>
+    <heading>Office of the Clean City.</heading>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6122" type="History" display="false"/>
+    <xi:include href="./sections/8-1045.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>10C</num>
     <heading>Solid Waste Facility Permits.</heading>
     <xi:include href="./sections/8-1051.xml"/>
@@ -1170,6 +1177,7 @@
       <xi:include href="./sections/8-1774.08.xml"/>
       <xi:include href="./sections/8-1774.09.xml"/>
       <xi:include href="./sections/8-1774.10.xml"/>
+      <xi:include href="./sections/8-1774.10a.xml"/>
       <xi:include href="./sections/8-1774.11.xml"/>
       <xi:include href="./sections/8-1774.12.xml"/>
       <xi:include href="./sections/8-1774.13.xml"/>

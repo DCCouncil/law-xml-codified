@@ -1,11 +1,66 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-2601</num>
-  <heading>Establishment; purpose; unexpended balance.</heading>
-  <text>There is hereby established in the District of Columbia and there is authorized, and accounted for in the General Fund as a separate revenue source allocable to provide financial assistance to low and moderate income persons, and District of Columbia Government employees participating in the District of Columbia Employer-Assisted Housing Program, and families seeking to purchase homes in the District of Columbia, for the purposes of enabling them to purchase decent, safe, and sanitary homes in the District of Columbia. Any unexpended balance at the end of the year shall be reserved as a restricted fund balance and used to provide authorization to expend for subsequent years subject to the direction of the Mayor.</text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§42-2601(Perm)">Permanent Version</cite>.*
+      </text>
+  <heading proof="needed">Home Purchase Assistance Fund.</heading>
+  <para>
+    <num>(a)</num>
+    <text>There is established as a special fund the Home Purchase Assistance Fund ("Fund"), to be administered by the Mayor in accordance with subsection (c) of this section.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The following revenue shall be deposited in the Fund:</text>
+    <para>
+      <num>(1)</num>
+      <text>Such amounts as may be appropriated to the Fund;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Grants and gifts from public and private sources to the Fund or to the District of Columbia for the purposes of the Fund;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Repayments of principal and any interest on loans provided from the Fund;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Proceeds realized from the liquidation of any security interests held by the District of Columbia under the terms of any assistance provided from the Fund;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Interest earned from the deposit or investment of monies of the Fund;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Repayments of principal and any interest on loans provided under the District of Columbia Government Employer-Assisted Housing Program; and</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>All other revenues, receipts, and fees of whatever nature derived from the operation of the Fund.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <para>
+      <num>(1)</num>
+      <text>Money in the Fund shall be used to provide financial assistance to low and moderate income persons, and District government employees participating in the District of Columbia Employer-Assisted Housing Program, and families seeking to purchase homes in the District of Columbia, for the purposes of enabling them to purchase decent, safe, and sanitary homes in the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Money in the Fund shall also be available for the purpose of providing financial assistance for down payments or interim financing to recipients for the purpose of purchasing or securing housing, including single family homes, condominium units, or occupancy rights to cooperative housing in the District of Columbia as their principal place of residence and of providing financial assistance to District of Columbia government employees eligible under the District of Columbia Employer-Assisted Housing Program to purchase a home in the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Under terms and conditions prescribed by the Mayor, the Fund may be used for making loans and providing other forms of financial assistance. The assistance provided pursuant to the Fund may be used in conjunction with other available home-assistance programs.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>Any money remaining available in the Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
+  </para>
   <annotations>
-    <text type="Repeal of Law">Section 1101 of <cite doc="D.C. Law 12-60">D.C. Law 12-60</cite> repealed the District of Columbia Employer-Assisted Housing Act of 1992, <cite doc="D.C. Law 9-118">D.C. Law 9-118</cite>.</text>
-    <text type="Repeal of Law">Repeal of Law 9-118</text>
     <annotation doc="D.C. Law 2-103" type="History" path="§2">Sept. 12, 1978, D.C. Law 2-103, § 2, 25 DCR 1977</annotation>
     <annotation doc="D.C. Law 3-70" type="History">June 14, 1980, D.C. Law 3-70, § 7(1), 27 DCR 1776</annotation>
     <annotation doc="D.C. Law 4-44" type="History">Oct. 24, 1981, D.C. Law 4-44, § 2(b), 28 DCR 4265</annotation>
@@ -22,5 +77,8 @@
     <annotation type="Prior Codifications">1981 Ed., § 45-2201.</annotation>
     <annotation doc="D.C. Law 2-103" type="History" path="§2a" display="false">Sept. 12, 1978, D.C. Law 2-103, § 2a</annotation>
     <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§2152|(a)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7104|(a)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7104|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7104|(a)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7104|(a)">§ 7104(a) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

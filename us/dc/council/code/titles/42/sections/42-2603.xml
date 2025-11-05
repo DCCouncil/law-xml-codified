@@ -1,16 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>42-2603</num>
-  <heading>Availability; use prescribed by Mayor.</heading>
-  <para>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§42-2603(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§42-2603(Perm)">Permanent Version</cite>.*
+      </text>
+  <heading>Dashboard; continuing eligibility.</heading>
+  <para placeholder="Repealed">
     <num>(a)</num>
-    <text>The Fund shall be available without fiscal year limitation for the purpose of providing financial assistance for down payments or interim financing to recipients for the purpose of purchasing or securing housing, including single family homes, condominium units, or occupancy rights to cooperative housing in the District of Columbia as their principal place of residence and of providing financial assistance to District of Columbia government employees eligible under the District of Columbia Employer-Assisted Housing Program to purchase a home in the District of Columbia. Under terms and conditions prescribed by the Mayor of the District of Columbia (“Mayor”), the Fund shall be used for making loans and providing other forms of financial assistance. The assistance provided pursuant to the Fund may be used in conjunction with other available home assistance programs.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(b)</num>
     <para>
       <num>(1)</num>
-      <text>DHCD shall maintain and publish a Program dashboard, which shall include, at a minimum, the total Program funding available, excluding administrative costs, as of the date of updating the dashboard.</text>
+      <text>DHCD shall maintain and publish a Program dashboard, which shall include, at a minimum:</text>
+      <para>
+        <num>(A)</num>
+        <text>The total Program funding available, excluding administrative costs, as of the date of updating the dashboard;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The underwriting guidelines and program rules for each Program administrator;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>For each fiscal year, the average amount of time it takes for each Program administrator and DHCD to:</text>
+        <para>
+          <num>(i)</num>
+          <text>Issue a notice of eligibility after receiving an application for assistance;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Issue a notice to proceed after issuing a notice of eligibility; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Enter into a final loan agreement after issuing a notice to proceed.</text>
+        </para>
+      </para>
     </para>
     <para>
       <num>(2)</num>
@@ -19,7 +49,27 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>If Program funding is depleted before the end of the fiscal year in which an applicant receives a notice of eligibility, the notice of eligibility shall remain valid through at least the end of the following fiscal year.</text>
+    <text>Notwithstanding subsection (a) of this section:</text>
+    <para>
+      <num>(1)</num>
+      <text>Applicants required by Program rules to receive housing counseling to receive assistance shall be permitted no less than 2 years after the completion of housing counseling to receive financial assistance from the Program;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Priority in the allocation of assistance through the Fund shall be given to District of Columbia residents who are low income, elderly, displaced applicants, or residents with disabilities;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The Mayor shall distribute Program funding to eligible applicants on a rolling basis upon availability of funding and shall not select applicants for funding based on a lottery or other similar randomization method;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The Mayor shall not use loan-to-value ratio nor the amount of a participant's first trust mortgage on a housing unit to decide whether a participant will receive Program funding;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>If Program funding is depleted before the end of the fiscal year in which an applicant receives a notice of eligibility, the notice of eligibility shall remain valid through at least the end of the next fiscal year with available funding.</text>
+    </para>
   </para>
   <annotations>
     <text type="Repeal of Law">Section 1101 of <cite doc="D.C. Law 12-60">D.C. Law 12-60</cite> repealed the District of Columbia Employer-Assisted Housing Act of 1992, <cite doc="D.C. Law 9-118">D.C. Law 9-118</cite>.</text>
@@ -39,5 +89,13 @@
     <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§2152|(c)" type="History" display="false"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2152|(c)|(2)" type="History"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2152|(c)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2182|(a)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7104|(c)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7104|(c)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7104|(c)|(2)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2182|(a)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2182|(a)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2182|(a)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2182|(a)">§ 2182(a) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7104|(c)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7104|(c)">§ 7104(c) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

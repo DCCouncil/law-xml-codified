@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-331</num>
-  <heading>Impoundment of a taxicab and passenger vehicle for hire.</heading>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-331(Perm)">Permanent Version</cite>.*
+      </text>
+  <heading>Impoundment of a vehicle for hire.</heading>
   <para>
     <num>(a)</num>
-    <text>Any taxicab or passenger vehicle for hire being operated in the District of Columbia may be booted, towed, and impounded from any public street or public space in the District of Columbia by any member of the Metropolitan Police Department or law enforcement personnel, or any authorized agent if:</text>
+    <text>Any vehicle for hire being operated in the District of Columbia may be booted, towed, and impounded from any public street or public space in the District of Columbia by any member of the Metropolitan Police Department or law enforcement personnel, or any authorized agent if:</text>
     <para>
       <num>(1)</num>
       <text>The vehicle is being operated without a valid license issued pursuant to <cite path="§50-301.19" proof="true">§ 50-301.19</cite> or <cite path="§47-2829|(c)">§ 47-2829(c)</cite> [(c) repealed], (d), or (h);</text>
@@ -15,11 +18,11 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>The vehicle is being operated by a person who has 2 or more unpaid notices of infractions issued pursuant to 31 DCMR 825 or the vehicle has 2 or more unpaid notices of infractions issued pursuant to Title 18 of the District of Columbia Municipal Regulations or 31 DCMR 825, or the accumulated unpaid infractions equal or exceed $400, for which liability has been imposed;</text>
+      <text>The vehicle is being operated by a person who has 2 or more unpaid notices of infractions issued pursuant to 31 DCMR § 2000 or the vehicle has 2 or more unpaid notices of infractions issued pursuant to Title 18 of the District of Columbia Municipal Regulations or 31 DCMR § 2000, or the accumulated unpaid infractions equal or exceed $400, for which liability has been imposed;</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>The vehicle is not licensed in the District of Columbia and is observed providing intra-District transportation service;</text>
+      <text>The vehicle is not licensed to operate as a for-hire vehicle in the District of Columbia, or the associated business entity lacks operating authority to provide for-hire services in the District, and the vehicle is observed providing for-hire service that originates in or occurs entirely within the District of Columbia;</text>
     </para>
     <para>
       <num>(5)</num>
@@ -193,5 +196,11 @@
     <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(h)" type="History"/>
     <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="§302|(b)|(1)" type="History"/>
     <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="§302|(b)|(2)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6062" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6062|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6062|(b)|(2)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6062|(b)|(3)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6062|(b)|(1)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§6062" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§6062">§ 6062 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

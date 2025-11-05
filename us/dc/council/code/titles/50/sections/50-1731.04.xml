@@ -1,10 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-1731.04</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-1731.04(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Restricted use of mobile telephone and other electronic devices.</heading>
   <para>
     <num>(a)</num>
-    <text>No person shall use a mobile telephone or other electronic device while operating a moving motor vehicle in the District of Columbia unless the telephone or device is equipped with a hands-free accessory.</text>
+    <text>No person shall, while operating a motor vehicle in the District:</text>
+    <para>
+      <num>(1)</num>
+      <text>Use, or attempt to use, a mobile telephone or other personal wireless communications device without using a hands-free accessory; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Hold, or attempt to hold, a mobile telephone or other personal wireless communications device.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
@@ -15,11 +26,15 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>Use of a mobile telephone by law enforcement and emergency personnel or by a driver of an authorized emergency vehicle, acting within the scope of official duties; or</text>
+      <text>Use of a mobile telephone by law enforcement and emergency personnel or by a driver of an authorized emergency vehicle, acting within the scope of official duties;</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>Initiating or terminating a telephone call, or turning the telephone on or off.</text>
+      <text>Initiating or terminating a telephone call, or turning the telephone on or off; or</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The operation of a vehicle that has stopped on the side of, or off, an active roadway in a location where it can safely remain stationary.</text>
     </para>
   </para>
   <para>
@@ -31,5 +46,11 @@
     <annotation type="Section References">This section is referenced in <cite path="§50-1731.05">§ 50-1731.05</cite> and <cite path="§50-1731.06">§ 50-1731.06</cite>.</annotation>
     <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§6|(a)|(1)" type="History"/>
     <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§6|(a)|(2)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6052|(b)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6052|(b)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6052|(b)|(2)|(A)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6052|(b)|(2)|(B)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6052|(b)|(2)|(C)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§6052|(b)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§6052|(b)">§ 6052(b) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

@@ -5905,7 +5905,7 @@
         <para codify:path="(b)">
           <num>(a)</num>
           <text>Subsection (b) is amended by striking the phrase "; except, that the Mayor may require enrollees to complete one in-person certification each year in Fiscal Years 2023, 2024, and 2025." and inserting a period in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1407|(b)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1407">
             <find>; except, that the Mayor may require enrollees to complete one in-person certification each year in Fiscal Years 2023, 2024, and 2025.</find>
             <replace>.</replace>
           </codify:find-replace>
@@ -5913,15 +5913,15 @@
         <para>
           <num>(b)</num>
           <text>Subsections (c) and (d) are repealed.</text>
-          <codify:repeal path="(c)" codified:doc="D.C. Code" codified:path="§7-1407|(c)"/>
-          <codify:repeal path="(d)" codified:doc="D.C. Code" codified:path="§7-1407|(d)"/>
+          <codify:repeal path="(c)" codified:doc="D.C. Code" codified:path="§7-1407"/>
+          <codify:repeal path="(d)" codified:doc="D.C. Code" codified:path="§7-1407"/>
         </para>
         <para>
           <num>(c)</num>
           <text>A new subsection (e) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§7-1407|(e)"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§7-1407"/>
               <num>(e)</num>
               <text>Enrollees in the Alliance shall be required to recertify their enrollment on an annual basis.</text>
             </para>
@@ -8133,7 +8133,7 @@
           <text>New subsections (f) and (g) are added to read as follows:</text>
           <include>
             <para>
-              <codify:insert num-value="[(h)]" codified:doc="D.C. Code" codified:path="§47-850|[(h)]"/>
+              <codify:insert num-value="[(h)]" codified:doc="D.C. Code" codified:path="§47-850|(h)"/>
               <num>(f)</num>
               <para>
                 <num>(1)</num>
@@ -8682,11 +8682,6 @@
         <aftertext>.</aftertext>
         <codify:repeal doc="D.C. Code" path="§8-1031.12e" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.12e"/>
         <codify:find-replace doc="D.C. Code" path="§8-1031.12e" count="2" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.12e">
-          <find>Repealed</find>
-          <replace>Not Funded</replace>
-        </codify:find-replace>
-        <codify:repeal doc="D.C. Code" path="§8-1031.03|(d)" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.03|(d)"/>
-        <codify:find-replace doc="D.C. Code" path="§8-1031.03|(d)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.03|(d)">
           <find>Repealed</find>
           <replace>Not Funded</replace>
         </codify:find-replace>

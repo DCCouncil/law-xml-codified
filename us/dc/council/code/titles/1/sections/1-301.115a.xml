@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-301.115a</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-301.115a(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Creation and duties of Office of the Inspector General.</heading>
   <para>
     <num>(a)</num>
@@ -351,7 +354,7 @@
   </para>
   <para placeholder="Repealed">
     <num>(f-7)</num>
-    <text>Not funded.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(g)</num>
@@ -431,5 +434,8 @@
     <annotation type="Applicability" doc="D.C. Law 24-289" path="§2" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-289" path="">D.C. Law 24-289</cite>: <cite doc="D.C. Law 24-289" path="§3">§ 3 of D.C. Law 24-289</cite> provided that the creation of subsection (f-7) of this section by <cite doc="D.C. Law 24-289" path="§2">§ 2 of D.C. Law 24-289</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-03-10" doc="D.C. Law 24-289" eff="2023-03-10" path="§2" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2143" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7209" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7209" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7209" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7209">§ 7209 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

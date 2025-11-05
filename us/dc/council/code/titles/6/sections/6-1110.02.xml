@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>6-1110.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§6-1110.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Targeted Homeowner Grant Program.</heading>
   <para>
     <num>(a)</num>
@@ -91,19 +94,35 @@
       <text>A lien shall be satisfied by payment of the amount of the lien to the State Historic Preservation Officer.</text>
     </para>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(k)</num>
+    <text>Repealed.</text>
+  </para>
+  <para>
+    <num>(l)</num>
     <para>
       <num>(1)</num>
-      <text>The Mayor shall deposit in the HLP Fund established in <cite path="§6-1110.01">§ 6-1110.01</cite> any funds appropriated for the purposes of the Targeted Homeowner Grant Program.</text>
+      <text>There is established as a special fund the Targeted Homeowner Grant Fund ("Fund"), which shall be administered by the Mayor in accordance with paragraph (3) of this subsection.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The Mayor may expend up to $1.25 million of appropriated funds for this purpose each fiscal year. Any appropriated funds not expended during a fiscal year shall be used only for the same purpose in subsequent fiscal years.</text>
+      <text>There shall be deposited in the Fund any funds appropriated for the purposes of the targeted homeowner grant program ("Program") authorized to be established by subsection (a) of this section.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>In each fiscal year, the Mayor may expend up to 5% of the amount of the funds authorized in that year for reasonable administrative costs.</text>
+      <text>Money in the Fund shall be used to:</text>
+      <para>
+        <num>(A)</num>
+        <text>Fund grants issued under the Program; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Pay the costs of administering the Program; provided, that no more than 5% of the amount of the money authorized for expenditure from the Fund in a fiscal year may be expended in that fiscal year for this purpose.</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Any money remaining available in the Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
     </para>
   </para>
   <annotations>
@@ -124,6 +143,7 @@
     <annotation type="Temporary Legislation">Section 2 of <cite doc="D.C. Law 17-277">D.C. Law 17-277</cite>, in subsec. (e), added par. (3) to read as follows:</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-111">D.C. Law 18-111</cite>, in subsec. (k)(2), substituted “fiscal year” for “fiscal year, beginning from fiscal year 2006 through fiscal year 2010”; and, in subsec. (k)(2), deleted “applicable” following “each”.</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated a previously made technical correction in the section designation.</annotation>
+    <annotation doc="D.C. Law 2-144" type="History" path="§11c" display="false">Mar. 3, 1979, D.C. Law 2-144, § 11c</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-427" path="§2" codified:display="Note" app="2018-07-25" eff="2018-07-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-427" path="§2">§ 2 of Targeted Historic Preservation Assistance Emergency Amendment Act of 2018 (D.C. Act 22-427, July 25, 2018, 65 DCR 7990)</cite>.</annotation>
     <annotation app="2018-07-25" doc="D.C. Act 22-427" eff="2018-07-25" path="§2" type="History" display="false"/>
     <annotation app="2018-11-27" doc="D.C. Law 22-180" eff="2018-11-27" path="§2|(a)" type="History"/>
@@ -152,5 +172,10 @@
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2152|(c)" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2152|(d)" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2152|(e)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7128" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7128|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7128|(b)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2142" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7128" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7128">§ 7128 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

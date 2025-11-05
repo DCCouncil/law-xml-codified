@@ -1,8 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>37-131.06</num>
-  <heading>Public markets.</heading>
-  <text>The Mayor may require the permitting of public markets on public space and may require the licensing of managers of public markets on public space and private space.</text>
+  <heading proof="needed">Public markets and farmers markets.</heading>
+  <para>
+    <num>(a)</num>
+    <text>The Mayor may require the permitting of public markets and farmers markets on public space and may require the licensing of managers of public markets and farmers markets on public space and private space.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>By January 1, 2028, the Mayor shall establish a centralized application system for the purpose of streamlining the licensing and permitting of farmers markets that shall:</text>
+      <para>
+        <num>(A)</num>
+        <text>Enable a farmers market to provide the required documentation to one government agency through an online portal;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Make the documentation available to any other relevant agency for review, including for a permit to operate on public space;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Clearly communicate to applicants through the online portal the status of their application, including whether they are missing any required documents and which approvals are still pending; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Notify the applicant when each necessary license or permit has been approved.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Mayor shall post on a public facing website the standard requirements for a license, permit, or authorization to operate a farmers market, farm stand, or mobile market in the District.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 18-71" type="History" path="§7">Oct. 22, 2009, D.C. Law 18-71, § 7, 56 DCR 6619</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 10(a) of Vending Regulation Congressional Review Emergency Act of 2009 (D.C. Act 18-47, April 27, 2009,  56 DCR 3574).</annotation>
@@ -10,7 +40,6 @@
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 10(a) of Vending Regulation Emergency Act of 2008 (D.C. Act 17-322, March 19, 2008,  55 DCR 3445).</annotation>
     <annotation type="Applicability" doc="D.C. Law 26-27" path="§3" codified:display="Note" app="2025-08-23" eff="2025-08-23">Applicability of <cite doc="D.C. Law 26-27" path="">D.C. Law 26-27</cite>: <cite doc="D.C. Law 26-27" path="§5">§ 5 of D.C. Law 26-27</cite> provided that the amendment to this section by <cite doc="D.C. Law 26-27" path="§3">§ 3 of D.C. Law 26-27</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-08-23" doc="D.C. Law 26-27" eff="2025-08-23" path="§3" type="History"/>
-    <annotation app="2025-08-23" doc="D.C. Law 26-27" eff="2025-08-23" path="§5|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 26-27" eff="2025-08-23" path="§3|(d)" type="History"/>
+    <annotation app="2025-08-23" doc="D.C. Law 26-27" eff="2025-08-23" path="§3|(d)" type="History"/>
   </annotations>
 </section>

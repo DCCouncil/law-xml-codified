@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-623.42</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-623.42(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Employees’ Compensation Fund.</heading>
   <para>
     <num>(a)</num>
@@ -8,9 +11,9 @@
       <num>(1)</num>
       <text>Repealed.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(2)</num>
-      <text>There is established in the District of Columbia government the Employees’ Compensation Fund (“Fund”), which shall consists of sums that the Council of the District of Columbia government or Congress, from time to time, may appropriate for or transfer to it and amounts that otherwise accrue to it under this chapter  or other statute. The Fund is available without time limit for the payment of compensation and other benefits and expenses incurred to implement the provisions of <cite path="1|6">this chapter</cite>.</text>
+      <text>Repealed.</text>
     </para>
     <para placeholder="Repealed">
       <num>(3)</num>
@@ -20,6 +23,37 @@
   <para placeholder="Repealed">
     <num>(b)</num>
     <text>Repealed.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>There is established as a special fund the Employees' Compensation Fund ("Fund"), which shall be administered by the Mayor in accordance with subsection (e) of this section.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>The following revenue shall be deposited into the Fund:</text>
+    <para>
+      <num>(1)</num>
+      <text>Such amounts as may be appropriated to or transferred to the Fund; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Amounts that otherwise accrue to the Fund under <cite path="1|6">this chapter</cite> or other law.</text>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>Money in the Fund shall be used for the payment of compensation and other benefits and expenses incurred to implement the provisions of <cite path="1|6|XXIII">this subchapter</cite>.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <para>
+      <num>(1)</num>
+      <text>The money deposited into the Fund but not expended in a fiscal year shall not revert to the unassigned fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 2-139" type="History" path="§2342">Mar. 3, 1979, D.C. Law 2-139, § 2342, 25 DCR 5740</annotation>
@@ -43,5 +77,9 @@
           Section 1023 of D.C. Law 21-160 provided that the changes made by section 1022 shall apply as of October 1, 2008.
         </annotation>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§1023" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7097" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7097|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7097|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7097" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7097">§ 7097 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

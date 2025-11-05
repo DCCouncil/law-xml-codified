@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-2002</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-2002(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Payment.</heading>
-  <para>
+  <para placeholder="Repealed">
     <num>(a)</num>
-    <text>By Fiscal Year 2026, the Mayor shall determine the reimbursement rate that the District will pay to direct care service providers for the provision of direct care services so that the reimbursement rate is sufficient to support direct care service provider payments to direct care professionals of a wage that, on average, is equal to at least the greater of either 117.6% of the District minimum wage pursuant to <cite path="§32-1003">§ 32-1003</cite> or 117.6% of the District living wage pursuant to <cite path="2|2|X-A">subchapter X-A of Chapter 2 of Title 2</cite>.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(a-1)</num>
@@ -30,6 +33,22 @@
       <text>Any other factor the Mayor considers relevant to the determination of the reimbursement rate.</text>
     </para>
   </para>
+  <para>
+    <num>(c)</num>
+    <text>In Fiscal Year 2026, the reimbursement rate that the District shall pay to direct care service providers for the provision of direct care services shall be the reimbursement rate that is sufficient to support direct care service provider payments to direct care professionals at the highest of the following rates:</text>
+    <para>
+      <num>(1)</num>
+      <text>117.6% of the District living wage that was in effect on July 1, 2025, pursuant to <cite path="2|2|X-A">subchapter X-A of Chapter 2 of Title 2</cite>;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The current District minimum wage pursuant to <cite path="§32-1003">§ 32-1003</cite>; or</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The current District living wage pursuant to <cite path="2|2|X-A">subchapter X-A of Chapter 2 of Title 2</cite>.</text>
+    </para>
+  </para>
   <annotations>
     <annotation app="2020-04-16" doc="D.C. Law 23-77" eff="2020-04-16" path="" type="History" display="false"/>
     <annotation app="2020-04-16" doc="D.C. Law 23-77" eff="2020-04-16" path="§7|(a)" type="History" display="false"/>
@@ -47,5 +66,9 @@
     <annotation app="2024-12-12" doc="D.C. Law 25-232" eff="2024-12-12" path="§4" type="History"/>
     <annotation app="2024-12-12" doc="D.C. Law 25-232" eff="2024-12-12" path="§5|(a)" type="History" display="false"/>
     <annotation app="pending" doc="D.C. Law 25-232" eff="2024-12-12" path="§4|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5092|(a)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5092|(a)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5092|(a)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§5092|(a)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§5092|(a)">§ 5092(a) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

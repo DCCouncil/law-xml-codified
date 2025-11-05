@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-2857.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§42-2857.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Department of Housing and Community Development Unified Fund.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established as a nonlapsing fund the Department of Housing and Community Development Unified Fund (“Unified Fund”), to be administered by the Department of Housing and Community Development.</text>
+    <text>There is established as a special fund the Department of Housing and Community Development Unified Fund (“Unified Fund”), to be administered by the Department of Housing and Community Development.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -99,7 +102,7 @@
   </para>
   <para>
     <num>(e)</num>
-    <text>The following funds shall be deposited into the Unified Fund, beginning on October 1, 2008:</text>
+    <text>The following funds shall be deposited into the Unified Fund;</text>
     <para>
       <num>(1)</num>
       <text>All revenue derived from lease payments from loans and other proceeds received under the Land Acquisitions for Housing Development Opportunities Program, established under the authority of <cite path="6|10|I">subchapter I of Chapter 10 of Title 6</cite>;</text>
@@ -208,5 +211,9 @@
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§2243|(b)" type="History"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2173|(a)" type="History"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2173|(b)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7089" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7089|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7089|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7089" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7089">§ 7089 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

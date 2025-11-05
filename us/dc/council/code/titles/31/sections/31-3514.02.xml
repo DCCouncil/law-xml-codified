@@ -1,10 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>31-3514.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§31-3514.02(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§31-3514.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Establishment of Healthy DC and Health Care Expansion Fund.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established as a nonlapsing fund the Healthy DC and Health Care Expansion Fund (“Fund”). All funds deposited into the Fund, and any interest earned on those funds, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time, but shall be continually available to support the Healthy DC Program, established by <cite path="4|6A">Chapter 6A of Title 4</cite>, and other medical assistance programs administered by the Department of Health Care Finance, without regard to fiscal year limitation, subject to authorization by Congress.</text>
+    <text>There is established as a special fund the Healthy DC and Health Care Expansion Fund ("Fund"), which shall be administered by the Mayor in accordance with subsection (a-1) of this section.</text>
+  </para>
+  <para>
+    <num>(a-1)</num>
+    <text>Money in the Fund shall be used to support the Healthy DC Program, established by <cite path="§4-632">§ 4-632</cite>, and other medical assistance programs administered by the Department of Health Care Finance.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -34,21 +44,17 @@
       <text>Grants, gifts, or subsidies from public or private sources.</text>
     </para>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(c)</num>
-    <text>Notwithstanding subsection (a) of this section, for fiscal year 2010, up to $3.25 million from the Fund shall be utilized to support the following one-time allocations:</text>
-    <para>
-      <num>(1)</num>
-      <text>An amount of $2.5 million shall support a grant to an acute care pediatric hospital in the District for the purpose of supporting operational expenses associated with the new pediatric emergency facility located at the United Medical Center; and</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Up to $750,000 to support operational expenses associated with the delivery of health care services at the D.C. Jail.</text>
-    </para>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(d)</num>
-    <text>Notwithstanding subsection (a) of this section, in each of fiscal years 2025, 2026, 2027, and 2028, $5,567,566 shall be transferred from the Fund to the General Fund of the District of Columbia.</text>
+    <text>Notwithstanding subsection (a-1) of this section, in each of fiscal years 2026, 2027, and 2028, $5,567,566 shall be transferred from the Fund to the General Fund of the District of Columbia.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>Any money remaining available in the Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
   </para>
   <annotations>
     <text type="Short Title">Short title: Section 5130 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> provided that subtitle N of title V of the act may be cited as the “Hospital and Medical Services Corporation Regulatory Amendment Act of 2009”.</text>
@@ -93,5 +99,15 @@
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§5072" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-142" path="§4" codified:display="Note" app="2025-08-18" eff="2025-08-18">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-142" path="§4">§ 4 of Fiscal Year 2025 Revised Local Budget Adjustment Emergency Act of 2025 (D.C. Act 26-142, Aug. 18, 2025, 72 DCR 9130)</cite>.</annotation>
     <annotation app="2025-08-18" doc="D.C. Act 26-142" eff="2025-08-18" path="§4" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5112" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7102" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7102|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7102|(b)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7102|(c)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5112" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7102|(d)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7102|(e)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§5112" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§5112">§ 5112 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7102" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7102">§ 7102 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

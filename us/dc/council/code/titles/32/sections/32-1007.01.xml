@@ -1,23 +1,64 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-1007.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§32-1007.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Reporting.</heading>
-  <text>The Mayor shall submit biannually a report to the Council regarding any audits or inspections conducted related to compliance with <cite path="32|10|I">this subchapter</cite> or any regulation issued pursuant to <cite path="32|10|I">this subchapter</cite>. Each report shall include:</text>
   <para>
-    <num>(1)</num>
-    <text>The number of employers inspected for compliance due to complaints received, categorized by size of the employer based on the number of employees;</text>
+    <num>(a)</num>
+    <text>The Mayor shall submit biannually a report to the Council regarding any audits or inspections conducted related to compliance with <cite path="32|10|I">this subchapter</cite> or any regulation issued pursuant to <cite path="32|10|I">this subchapter</cite>. Each report shall include:</text>
+    <para>
+      <num>(1)</num>
+      <text>The number of employers inspected for compliance due to complaints received, categorized by size of the employer based on the number of employees;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The number of employers inspected for compliance as a result of a random audit, categorized by size of the employer based on the number of employees;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The number of violations, by type of violation; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>An explication of the actions the Mayor took pursuant to <cite path="§32-1011">§ 32-1011</cite> against each employer charged with violating <cite path="32|10|I">this subchapter</cite> or any regulation issued pursuant to <cite path="32|10|I">this subchapter</cite>, including a list of fines assessed against the employer.</text>
+    </para>
   </para>
   <para>
-    <num>(2)</num>
-    <text>The number of employers inspected for compliance as a result of a random audit, categorized by size of the employer based on the number of employees;</text>
-  </para>
-  <para>
-    <num>(3)</num>
-    <text>The number of violations, by type of violation; and</text>
-  </para>
-  <para>
-    <num>(4)</num>
-    <text>An explication of the actions the Mayor took pursuant to <cite path="§32-1011">§ 32-1011</cite> against each employer charged with violating <cite path="32|10|I">this subchapter</cite> or any regulation issued pursuant to <cite path="32|10|I">this subchapter</cite>, including a list of fines assessed against the employer.</text>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>The Office of the Chief Financial Officer, beginning on June 1, 2027, and every 2 years thereafter, shall publish a report on the economic trends affecting the restaurant industry and tipped full-service and limited-service restaurant workers in the District that:</text>
+      <para>
+        <num>(A)</num>
+        <text>Compares wages and salaries for tipped restaurant workers year over year;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Indicates the average gross receipts for restaurants in the District;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Analyzes the change in wages for tipped restaurant workers year over year;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Compares the number of full-service and limited-service restaurants year over year; and</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Indicates the total number of restaurants that claimed a retailer property tax relief credit pursuant to §§ <cite path="§47-1807.14">47-1807.14</cite> and <cite path="§47-1808.14">47-1808.14</cite> year over year.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Each report published pursuant to paragraph (1) of this subsection after the June 1, 2027, report shall also include an analysis of the effect of section 70201 of the One Big Beautiful Bill Act, approved July 4, 2025 (Pub. L. No. 119-21; 139 Stat. 170), on tipped workers' overall tax liability to the District.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>By January 1, 2036, the Office of the Chief Financial Officer shall publish a report analyzing the effect of the tipped minimum wage reaching 100% of the regular minimum wage on the restaurant industry and tipped workers in the District.</text>
+    </para>
   </para>
   <annotations>
     <annotation app="1993-03-25" doc="D.C. Law 9-248" eff="1993-03-25" path="§8a" type="History"/>
@@ -26,5 +67,9 @@
           For temporary (90 days) creation of this section, see <cite doc="D.C. Act 21-428" path="§2|(d)">§ 2(d) of the Fair Shot Minimum Wage Emergency Amendment Act of 2016 (D.C. Act 21-428, June 28, 2016, 63 DCR 9275)</cite>.        
         </annotation>
     <annotation app="2016-08-19" doc="D.C. Law 21-144" eff="2016-08-19" path="§2|(d)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2222|(b)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2222|(b)|(2)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2222|(b)|(1)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2222|(b)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2222|(b)">§ 2222(b) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

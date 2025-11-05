@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>5-107.01</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 12, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§5-107.01(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Minimum standards for members of the Metropolitan Police Department.</heading>
   <para>
     <num>(a)</num>
@@ -26,7 +23,7 @@
     <text>To be eligible for appointment as a sworn member of the Metropolitan Police Department, an applicant shall have either:</text>
     <para>
       <num>(1)</num>
-      <text>Successfully completed 60 hours of post-secondary education at an accredited college or university; except, that, if the Metropolitan Police Department enters into an agreement with an accredited college or university to award credit hours to recruits successfully completing the Department's initial training program for recruits, an applicant may satisfy up to 20 credits of the 60-credit hour requirement by earning credits through the initial training program for recruits;</text>
+      <text>Successfully completed 60 hours of post-secondary education at an accredited college or university; except that, if the Metropolitan Police Department enters into an agreement with an accredited college or university to award credit hours to recruits successfully completing the Department's initial training program for recruits, an applicant may satisfy up to 20 credits of the 60-credit hour requirement by earning credits through the initial training program for recruits;</text>
     </para>
     <para>
       <num>(2)</num>
@@ -88,8 +85,10 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-61" path="§113" codified:display="Note" app="2023-03-24" eff="2023-03-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-61" path="§113">§ 113 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2023 (D.C. Act 25-61, Mar. 24, 2023, 70 DCR 3820)</cite>.</annotation>
     <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§113" type="History" display="false"/>
     <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§115" type="History"/>
-    <annotation app="2025-07-14" doc="D.C. Act 26-109" eff="2025-07-14" path="§3" type="History" display="false"/>
-    <annotation app="2025-07-14" doc="D.C. Act 26-109" eff="2025-07-14" path="§3|(1)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-109" path="§3" codified:display="Note" app="2025-07-14" eff="2025-07-14">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-109" path="§3">§ 3 of Peace DC Omnibus Emergency Amendment Act of 2025 (D.C. Act 26-109, July 14, 2025, 72 DCR 8013)</cite>.</annotation>
+    <annotation app="2025-07-14" doc="D.C. Act 26-109" eff="2025-07-14" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-169" path="§3" codified:display="Note" app="2025-10-23" eff="2025-10-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-169" path="§3">§ 3 of Peace DC Omnibus Congressional Review Emergency Amendment Act of 2025 (D.C. Act 26-169, Oct. 23, 2025, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2025-10-23" doc="D.C. Act 26-169" eff="2025-10-23" path="§3" type="History" display="false"/>
+    <annotation app="2025-10-28" doc="D.C. Law 26-52" eff="2025-10-28" path="§3" type="History"/>
   </annotations>
 </section>

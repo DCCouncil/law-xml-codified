@@ -1,14 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-1405</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-1405(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Authorization to contract for comprehensive health care services.</heading>
   <para>
     <num>(a)</num>
     <text>The Mayor is authorized to provide by contract or by other means comprehensive community-centered health care and medical services for residents of the District of Columbia.</text>
   </para>
   <para>
+    <num>(a-1)</num>
+    <text>Effective October 1, 2025, the Mayor may, notwithstanding any other law:</text>
+    <para>
+      <num>(1)</num>
+      <text>Limit the services provided by the DC Healthcare Alliance program to enrollees who are age 21 or older to such primary care services, inpatient and outpatient acute-care hospital services, emergency medical transportation services, prescription drugs, and durable medical equipment as may be designated by the Mayor; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>For enrollees under age 21:</text>
+      <para>
+        <num>(A)</num>
+        <text>Exclude home health services, nursing facility services, and services provided by an inpatient psychiatric hospital from coverage under the program; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Limit coverage by the program to such primary care, dental, durable medical equipment, and behavioral health services as may be designated by the Mayor.</text>
+      </para>
+    </para>
+  </para>
+  <para>
     <num>(b)</num>
-    <text>A contract entered into by the Mayor pursuant to subsection (a) of this section shall be exempt from the requirements of Unit A [repealed] of <cite path="2|3">Chapter 3 of Title 2</cite>, except that the contract shall be subject to <cite path="§2-301.05a">§ 2-301.05a</cite> [repealed].</text>
+    <text>A contract entered into by the Mayor pursuant to subsection (a) or (a-1) of this section shall be exempt from the requirements of <cite path="2|3A|I">subchapter I of Chapter 3A of Title 2</cite>; except, that the contract shall be subject to <cite path="§2-352.02">§ 2-352.02</cite>.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -28,6 +51,10 @@
   <para>
     <num>(e)</num>
     <text>A health maintenance organization or health insurer under contract to the District to deliver services to persons enrolled in the Alliance (“Contractor”), which shall include safety net clinics, shall have the option of paying the safety net clinics on a fee-for-service basis or a capitated basis. If the Contractor elects to pay on a fee-for-service basis, the Contractor shall pay the safety net clinics no less that $95 per visit. If the Contractor elects to pay the safety net clinics on a capitated basis, the Contractor shall pay the safety net clinics on the same terms and condition as other clinics.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>The Mayor may establish by rule, pursuant to <cite path="§7-1406">§ 7-1406</cite>, a limit on the number of District residents who may be served by a contract entered into, or program established under, this section; provided, that the rules shall provide DC HealthCare Alliance program enrollees with a 90-day grace period beyond the end of the enrollee's certification period to complete any renewal requirements and, if deemed eligible, retroactive coverage to the end of the prior certification period without interruption.</text>
   </para>
   <annotations>
     <text type="Short Title">Section 5001 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that Subtitle A of Title V of the act may be cited as the “DC HealthCare Alliance Preservation Amendment Act of 2013”.</text>
@@ -53,5 +80,10 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> added subsec. (e).</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-192">D.C. Law 16-192</cite> added subsecs. (c) and (d).</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§7-1401">§ 7-1401</cite> and <cite path="§44-407">§ 44-407</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5043|(a)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5043|(a)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5043|(a)|(2)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5043|(a)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§5043|(a)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§5043|(a)">§ 5043(a) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

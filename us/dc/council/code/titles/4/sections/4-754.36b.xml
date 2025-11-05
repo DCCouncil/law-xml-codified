@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-754.36b</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-754.36b(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Program exits.</heading>
   <para>
     <num>(a)</num>
@@ -33,14 +36,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <para>
-        <num>(A)</num>
-        <text>Paragraph (1) of this subsection shall not apply to a program exit from a Rapid Re-Housing program if the program exit is due to the client reaching a statutory or regulatory time limit on the duration of services provided by the Rapid Re-Housing program.</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Any client who requests an administrative review within 15 days of receipt of notice of a program exit due to the client reaching a statutory or regulatory time limit on the duration of services provided by a Rapid Re-Housing program shall continue to remain in the housing program pending the administrative review decision.</text>
-      </para>
+      <text>Paragraph (1) of this subsection shall not apply to an exit from a Rapid Re-Housing program if the exit is due to the client reaching the time limit for services under the program established pursuant to <cite path="§4-754.36b|(a)|(1)">[§4-754.36b(a)(1)]</cite>.</text>
     </para>
   </para>
   <para>
@@ -59,5 +55,8 @@
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§5062|(c)|(1)" type="History"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§5062|(c)|(2)|(B)" type="History"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§5062|(c)|(2)|(A)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5102|(c)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5102|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§5102|(c)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§5102|(c)">§ 5102(c) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

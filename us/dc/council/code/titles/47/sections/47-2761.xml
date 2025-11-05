@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-2761</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-2761(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <para>
@@ -21,7 +24,7 @@
   </para>
   <para>
     <num>(5)</num>
-    <text>“District gross receipts” means all income derived from any activity whatsoever from sources within the District, other than income of a feepayer derived from an ownership or beneficial interest in other feepayers subject to the ballpark fee, whether compensated in the District or not, prior to the deduction of any expense whatsoever connected with the production of the income, provided, that the calculation of the income shall not include:</text>
+    <text>“District gross receipts” means all income derived from any activity whatsoever from sources within the District, other than income of a feepayer derived from an ownership or beneficial interest in other feepayers that are subject to the sports facilities fee and that have paid the sports facilities fee for the relevant year, whether compensated in the District or not, prior to the deduction of any expense whatsoever connected with the production of the income, provided, that the calculation of the income shall not include:</text>
     <para>
       <num>(A)</num>
       <text>The collection of federal or local taxes on motor vehicle fuel; or</text>
@@ -63,5 +66,8 @@
     <annotation doc="D.C. Law 22-33" path="§7052" history="false" type="Applicability" app="2017-12-13" eff="2017-12-13">Section 7052 of Law 22-33 repealed D.C. Law 18-341, restoring this section to its state prior to the enactment of Law 18-341. 
             </annotation>
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7052" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7042|(b)|(2)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7042|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7042|(b)|(2)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7042|(b)|(2)">§ 7042(b)(2) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

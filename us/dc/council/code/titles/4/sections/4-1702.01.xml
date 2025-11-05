@@ -1,10 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-1702.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-1702.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Access to Justice Initiative.</heading>
   <para>
     <num>(a)</num>
-    <text>The Office of Victim Services and Justice Grants shall establish an Access to Justice Initiative program for the purpose of providing support to nonprofit organizations that deliver civil legal services to low-income and under-served District residents, or support to their nonprofit organization partners; and providing loan-repayment assistance to lawyers working in eligible employment. The Initiative shall consist of the ATJ and LRAP programs.</text>
+    <para>
+      <num>(1)</num>
+      <text>The Office of Victim Services and Justice Grants shall establish an Access to Justice Initiative program for the purpose of providing support to nonprofit organizations that deliver civil legal services to low-income and under-served District residents, or support to their nonprofit organization partners, including a shared legal interpreter bank; providing loan-repayment assistance to lawyers working in eligible employment; and providing legal services to eligible individuals or groups in covered proceedings as defined in <cite path="§4-1801|(2)">§ 4-1801(2)</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Initiative shall consist of the ATJ program, the LRAP, and the CLCPP.</text>
+    </para>
+  </para>
+  <para>
+    <num>(a-1)</num>
+    <para>
+      <num>(1)</num>
+      <text>The ATJ program shall provide support to nonprofit organizations that deliver civil legal services to low-income and under-served District residents, or support to their nonprofit organization partners, including a shared legal interpreter bank.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The ATJ program shall be part of and be funded through the Initiative, established pursuant to subsection (a) of this section.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
@@ -27,5 +48,12 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§3062|(a)" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§3062|(a)">§ 3062(a) of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
     <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§3062|(a)" type="History" display="false"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§3062|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3072|(b)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3072|(b)|(1)|(B)|(i)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3072|(b)|(1)|(B)|(ii)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3072|(b)|(1)|(C)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3072|(b)|(1)|(A)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3072|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§3072|(b)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§3072|(b)">§ 3072(b) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

@@ -31,7 +31,7 @@
       <para codify:path="(1)">
         <num>(1)</num>
         <text>Paragraph (1) is amended by striking the word "means" and inserting the phrase "or "Senior" means" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-502.01|(1)">
+        <codify:find-replace count="1">
           <find>means</find>
           <replace>or "Senior" means</replace>
         </codify:find-replace>
@@ -41,21 +41,21 @@
         <text>A new paragraph (4A) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(4)" codified:doc="D.C. Code" codified:path="§7-502.01|(4A)"/>
+            <codify:insert after="(4)"/>
             <num>(4A)</num>
             <text>"Nutrition services" means all District and federal programs providing food or nutrition assistance to seniors, including programs providing transportation and accessibility to food resources.</text>
           </para>
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:not-funded-anno doc="D.C. Code" path="§7-502.01" applicability-path="§6" display-template="" codified:doc="D.C. Code" codified:path="§7-502.01" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§7-502.01" applicability-path="§6" display-template=""/>
     </para>
     <para>
       <num>(b)</num>
       <text>Title III is amended by adding new sections 319, 320, and 321 to read as follows:</text>
       <include>
         <section>
-          <codify:insert doc="D.C. Code" path="7|5|I|C" num-value="7-503.19" history-prefix="as added" codified:doc="D.C. Code" codified:path="§7-503.19"/>
+          <codify:insert doc="D.C. Code" path="7|5|I|C" num-value="7-503.19" history-prefix="as added"/>
           <num>319</num>
           <heading proof="needed">Senior nutrition services communications plan.</heading>
           <para>
@@ -111,10 +111,10 @@
             <text>The Department shall update the plan required by subsection (a) of this section every 3 years. The Department shall publish the plan required by subsection (a) of this section and all updates on its website.</text>
           </para>
           <annotation doc="D.C. Law 1-24" type="History" path="§319">Oct. 29, 1975, D.C. Law 1-24, title III, §319</annotation>
-          <codify:not-funded-anno doc="D.C. Code" path="§7-503.19" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-503.19" codified:display="Note"/>
+          <codify:not-funded-anno doc="D.C. Code" path="§7-503.19" applicability-path="§4" action="creation of" display-template=""/>
         </section>
         <section>
-          <codify:insert doc="D.C. Code" path="7|5|I|C" num-value="7-503.20" history-prefix="as added" codified:doc="D.C. Code" codified:path="§7-503.20"/>
+          <codify:insert doc="D.C. Code" path="7|5|I|C" num-value="7-503.20" history-prefix="as added"/>
           <num>320</num>
           <heading proof="needed">Nutrition services.</heading>
           <para>
@@ -150,10 +150,10 @@
             <text>All agencies providing senior nutrition services shall provide all data or information relevant to the annual progress report required by subsection (c) of this section to the Department upon request.</text>
           </para>
           <annotation doc="D.C. Law 1-24" type="History" path="§320">Oct. 29, 1975, D.C. Law 1-24, title III, §320</annotation>
-          <codify:not-funded-anno doc="D.C. Code" path="§7-503.20" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-503.20" codified:display="Note"/>
+          <codify:not-funded-anno doc="D.C. Code" path="§7-503.20" applicability-path="§4" action="creation of" display-template=""/>
         </section>
         <section>
-          <codify:insert doc="D.C. Code" path="7|5|I|C" num-value="7-503.21" history-prefix="as added" codified:doc="D.C. Code" codified:path="§7-503.21"/>
+          <codify:insert doc="D.C. Code" path="7|5|I|C" num-value="7-503.21" history-prefix="as added"/>
           <num>321</num>
           <heading proof="needed">Senior Food Security Interagency Taskforce.</heading>
           <para>
@@ -229,7 +229,7 @@
             </para>
           </para>
           <annotation doc="D.C. Law 1-24" type="History" path="§321">Oct. 29, 1975, D.C. Law 1-24, title III, §321</annotation>
-          <codify:not-funded-anno doc="D.C. Code" path="§7-503.21" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-503.21" codified:display="Note"/>
+          <codify:not-funded-anno doc="D.C. Code" path="§7-503.21" applicability-path="§4" action="creation of" display-template=""/>
         </section>
       </include>
       <aftertext>.</aftertext>
@@ -242,18 +242,18 @@
       <num>(a)</num>
       <text>Section 5081 (D.C. Official Code § 4-261.01) is amended by adding a new paragraph (4A) to read as follows:</text>
       <para>
-        <codify:insert after="(4)" codified:doc="D.C. Code" codified:path="§4-261.01|(4A)"/>
+        <codify:insert after="(4)"/>
         <num>(4A)</num>
         <text> "SNAP"  means the Supplemental Nutrition Assistance Program, established pursuant to section 4 of the Food Stam Act of 1964, approved August 31, 1964 (78 Stat. 703; 7 U.S.C. § 201).</text>
       </para>
-      <codify:not-funded-anno doc="D.C. Code" path="§4-261.01" applicability-path="§4" display-template="" codified:doc="D.C. Code" codified:path="§4-261.01" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§4-261.01" applicability-path="§4" display-template=""/>
     </para>
     <para>
       <num>(b)</num>
       <text>A new section 5085 is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert path="4|2B|I" num-value="4-261.05" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-261.05"/>
+          <codify:insert path="4|2B|I" num-value="4-261.05" history-prefix="as added"/>
           <num>5085</num>
           <heading proof="needed">Senior SNAP participation.</heading>
           <para>
@@ -288,7 +288,7 @@
       </include>
       <aftertext>.</aftertext>
       <annotation doc="D.C. Law 18-111" type="History" path="§5085">Mar. 3, 2010, D.C. Law 18-111, § 5085</annotation>
-      <codify:not-funded-anno doc="D.C. Code" path="§4-261.05" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§4-261.05" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§4-261.05" applicability-path="§4" action="creation of" display-template=""/>
     </para>
   </section>
   <section codify:doc="D.C. Code">
@@ -297,18 +297,18 @@
     <para codify:path="§38-285">
       <num>(a)</num>
       <text>Section 4077 (D.C. Official Code § 38-285) is amended by striking the phrase "This subtitle shall apply" and inserting the phrase "Sections 4072 through 4075 shall apply" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-285">
+      <codify:find-replace count="1">
         <find>This chapter</find>
         <replace>Sections <code-cite doc="D.C. Code" path="§38-281" codify:value="38-281">4072</code-cite> through <code-cite doc="D.C. Code" path="§38-284" codify:value="38-284">4075</code-cite></replace>
       </codify:find-replace>
-      <codify:not-funded-anno doc="D.C. Code" path="§38-285" applicability-path="§4" display-template="" codified:doc="D.C. Code" codified:path="§38-285" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§38-285" applicability-path="§4" display-template=""/>
     </para>
     <para>
       <num>(b)</num>
       <text>A new section 4078 is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert path="38|2B" num-value="38-286" history-prefix="as added" codified:doc="D.C. Code" codified:path="§38-286"/>
+          <codify:insert path="38|2B" num-value="38-286" history-prefix="as added"/>
           <num>4078</num>
           <heading proof="needed">Adult day care participation.</heading>
           <text>Within 180 days after <span codify:value="[insert applicability]">the applicability date of the No Senior Hungry Omnibus Amendment Act of 2022, passed on 2nd reading on December 6, 2022 (Enrolled version of Bill 24-419)</span>, OSSE shall identify all adult day care centers in the District eligible for the CACF Program and provide outreach and technical assistance to nonparticipating centers to enroll them in the CACF Program.</text>
@@ -316,7 +316,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:not-funded-anno doc="D.C. Code" path="§38-286" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§38-286" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§38-286" applicability-path="§4" action="creation of" display-template=""/>
     </para>
   </section>
   <section>
@@ -324,7 +324,7 @@
     <text>The Department of Health Care Finance Establishment Act of 2007, effective February 27, 2008 (D.C. Law 17-109; D.C. Official Code § 7-771.01 <em>et seq</em>.), is amended by adding a new section 11b to read as follows:</text>
     <include>
       <section>
-        <codify:insert doc="D.C. Code" path="7|7D" after="§7-771.10a" num-value="7-771.10b" history-prefix="as added" codified:doc="D.C. Code" codified:path="§7-771.10b"/>
+        <codify:insert doc="D.C. Code" path="7|7D" after="§7-771.10a" num-value="7-771.10b" history-prefix="as added"/>
         <num>11b</num>
         <heading proof="needed">Nutrition services.</heading>
         <para>
@@ -367,7 +367,7 @@
       </section>
     </include>
     <aftertext>.</aftertext>
-    <codify:not-funded-anno doc="D.C. Code" path="§7-771.10b" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-771.10b" codified:display="Note"/>
+    <codify:not-funded-anno doc="D.C. Code" path="§7-771.10b" applicability-path="§4" action="creation of" display-template=""/>
   </section>
   <section>
     <num>6</num>
@@ -375,7 +375,7 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 24-294" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-261.01|(4A)"/>
+      <codify:applicability doc="D.C. Law 24-294" date="notfunded" history="false" display-template=""/>
     </para>
     <para>
       <num>(b)</num>

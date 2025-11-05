@@ -1,17 +1,68 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>2-1403.16</num>
-  <heading>Private cause of action.</heading>
+  <heading proof="needed">Private cause of action.</heading>
   <para>
     <num>(a)</num>
-    <text>Any person claiming to be aggrieved by an unlawful discriminatory practice shall have a cause of action in any court of competent jurisdiction for damages and such other remedies as may be appropriate, unless such person has filed a complaint hereunder; provided, that where the Office has dismissed such complaint on the grounds of administrative convenience, or where the complainant has withdrawn a complaint, such person shall maintain all rights to bring suit as if no complaint had been filed. No person who maintains, in a court of competent jurisdiction, any action based upon an act which would be an unlawful discriminatory practice under this chapter may file the same complaint with the Office. A private cause of action pursuant to this chapter shall be filed in a court of competent jurisdiction within one year of the unlawful discriminatory act, or the discovery thereof, except that the limitation shall be within 2 years of the unlawful discriminatory act, or the discovery thereof, for complaints of unlawful discrimination in real estate transactions brought pursuant to this chapter or the FHA.  The timely filing of a complaint with the Office, or under the administrative procedures established by the Mayor pursuant to <cite path="§2-1403.03">§ 2-1403.03</cite>, shall toll the running of the statute of limitations while the complaint is pending.</text>
+    <text>Any person claiming to be aggrieved by an unlawful discriminatory practice under <cite path="2|14|A">this unit</cite> may file a private cause of action in a court of competent jurisdiction for damages and such other remedies as may be appropriate, consistent with the provisions of this section.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>The court may grant any relief it deems appropriate, including, the relief provided in §§ <cite path="§2-1403.07">2-1403.07</cite> and <cite path="§2-1403.13|(a)">2-1403.13(a)</cite>.</text>
+    <para>
+      <num>(1)</num>
+      <text>Except as otherwise provided in this section, a private cause of action brought pursuant to <cite path="2|14|A">this unit</cite> shall be filed in a court of competent jurisdiction within 2 years after the unlawful discriminatory act, or the discovery thereof.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The timely filing of a complaint with the Office, under <cite path="2|14|A">this unit</cite> or under procedures established by the Mayor pursuant to <cite path="§2-1403.03">§ 2-1403.03</cite>, shall toll the time to file a private cause of action until after the Office has served a notice of right to file a civil action on the complainant pursuant to <cite path="§2-1403.06a">§ 2-1403.06a</cite>.</text>
+    </para>
   </para>
   <para>
     <num>(c)</num>
+    <para>
+      <num>(1)</num>
+      <text>After filing a complaint with the Office, a person shall maintain all rights to bring suit in any court of competent jurisdiction if:</text>
+      <para>
+        <num>(A)</num>
+        <text>The person submitted a written notice of withdrawal before the completion of the Office's investigation; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The Office dismissed the complaint on grounds of lack of jurisdiction, no probable cause, or administrative convenience.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A person who brings a private cause of action pursuant to this subsection shall file suit no later than 90 days after the Office has served the notice of right to file a civil action or within the remaining limitations period referenced in subsection (b) of this section, whichever is longer.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>With the exception of complaints alleging unlawful discrimination in residential real estate transactions brought pursuant to <cite path="2|14|A">this unit</cite> or the FHA covered by <cite path="§2-1403.05">§ 2-1403.05</cite>, if the Office has made a probable cause finding against a respondent, the person may bring a private cause of action only if:</text>
+    <para>
+      <num>(1)</num>
+      <text>The person submitted written notice of withdrawal to the Office on or before the 30th day after the close of discovery before the Commission or a hearing examiner; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The person filed the cause of action no later than 90 days after the Office has served the notice of right to file a civil action or within the period remaining on the statute of limitations referenced in subsection (b) of this section, whichever is longer.</text>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>No person who maintains, in a court of competent jurisdiction, any action based upon an act which would be an unlawful discriminatory practice under <cite path="2|14|A">this unit</cite> may file the same complaint with the Office.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>The court may grant any relief it deems appropriate, including, the relief provided in §§ <cite path="§2-1403.07">2-1403.07</cite> and <cite path="§2-1403.13|(a)">2-1403.13(a)</cite>, to a person who brings a cause of action pursuant to this section, including an action against the District of Columbia.</text>
+  </para>
+  <para>
+    <num>(g)</num>
+    <text>A court may consider but shall not be bound by the prior finding, decision, or other record of the Office.</text>
+  </para>
+  <para>
+    <num>(h)</num>
     <text>The notice requirement of <cite path="§12-309">§ 12-309</cite> shall not apply to any action brought against the District of Columbia under this section.</text>
   </para>
   <annotations>
@@ -49,7 +100,5 @@
     <annotation app="2023-02-23" doc="D.C. Law 24-271" eff="2023-02-23" path="§2|(b)" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 25-300" path="§2|(f)" codified:display="Note" app="2025-03-21" eff="2025-03-21">Applicability of <cite doc="D.C. Law 25-300" path="">D.C. Law 25-300</cite>: <cite doc="D.C. Law 25-300" path="§3">§ 3 of D.C. Law 25-300</cite> provided that the amendment to this section by <cite doc="D.C. Law 25-300" path="§2|(f)">§ 2(f) of D.C. Law 25-300</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-03-21" doc="D.C. Law 25-300" eff="2025-03-21" path="§2|(f)" type="History"/>
-    <annotation app="2025-03-21" doc="D.C. Law 25-300" eff="2025-03-21" path="§3|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-300" eff="2025-03-21" path="§2|(f)" type="History"/>
   </annotations>
 </section>

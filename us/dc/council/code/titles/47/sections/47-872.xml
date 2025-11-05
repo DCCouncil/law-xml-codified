@@ -30,9 +30,17 @@
     <num>(e)</num>
     <text>The amount of the credit allowed under this section shall not exceed the amount of property tax otherwise due.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(f)</num>
-    <text>Not Funded.</text>
+    <text>The Chief Financial Officer shall include in its periodic Tax Expenditure Review covering public works tax credits:</text>
+    <para>
+      <num>(1)</num>
+      <text>The estimated percentage of the cost of waste collection services covered by the condominium and cooperative trash collection real property tax credit; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The median cost of commercial trash collection services reported to the Office of Tax and Revenue by apartment buildings filing mandatory income and expense reports.</text>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 8-180" type="History">Oct. 2, 1990, D.C. Law 8-180, § 3, 37 DCR 5039</annotation>
@@ -54,7 +62,7 @@
     <annotation type="Prior Codifications">1981 Ed., § 47-872.</annotation>
     <annotation type="Applicability" doc="D.C. Law 25-297" path="§3" codified:display="Note" app="2025-03-21" eff="2025-03-21">Applicability of <cite doc="D.C. Law 25-297" path="">D.C. Law 25-297</cite>: <cite doc="D.C. Law 25-297" path="§4">§ 4 of D.C. Law 25-297</cite> provided that the amendment to this section by <cite doc="D.C. Law 25-297" path="§3">§ 3 of D.C. Law 25-297</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-03-21" doc="D.C. Law 25-297" eff="2025-03-21" path="§3" type="History"/>
-    <annotation app="2025-03-21" doc="D.C. Law 25-297" eff="2025-03-21" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-297" eff="2025-03-21" path="§3" type="History"/>
+    <annotation doc="D.C. Act 26-146" path="§7191|(a)" type="Applicability" history="false" app="2025-09-03" eff="2025-09-03">Section 7191 of <cite doc="D.C. Act 26-146" path="§7191">D.C. Act 26-146</cite> amended Section 4 of <cite doc="D.C. Law 25-297" path="§4">D.C. Law 25-297</cite>, thus removing the applicability limitation. Therefore the amendment to this section by <cite doc="D.C. Law 25-297" path="§3">§3 of D.C. Law 25-297</cite> has been implemented.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7191|(a)" type="History" display="false"/>
   </annotations>
 </section>

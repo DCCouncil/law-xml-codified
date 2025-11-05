@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>5-761</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§5-761(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Retired police officer redeployment.</heading>
   <para>
     <num>(a)</num>
@@ -8,7 +11,7 @@
   </para>
   <para>
     <num>(a-1)</num>
-    <text>Except for a disability annuitant, a police officer retired from the Metropolitan Police Department shall be eligible for rehire at the discretion of the Director of the Department of Forensic Sciences as a temporary full-time or temporary part-time employee without jeopardy to the retirement benefits of the employee.</text>
+    <text>Except for a disability annuitant, a police officer retired from the Metropolitan Police Department shall be eligible for rehire at the discretion of the Director of the Department of Forensic Sciences as a full-time or part-time employee of the Department of Forensic Sciences without jeopardy to the retirement benefits of the police officer.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -122,5 +125,8 @@
     <annotation app="2024-03-01" doc="D.C. Law 25-131" eff="2024-03-01" path="§2" type="History" display="false"/>
     <annotation app="2024-09-26" doc="D.C. Act 25-555" eff="2024-09-26" path="§2" type="History" display="false"/>
     <annotation app="2024-12-10" doc="D.C. Law 25-231" eff="2024-12-10" path="§2" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3032|(a)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3032|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§3032|(a)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§3032|(a)">§ 3032(a) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

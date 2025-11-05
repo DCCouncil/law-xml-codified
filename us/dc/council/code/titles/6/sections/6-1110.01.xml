@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>6-1110.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§6-1110.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Historic Landmark-District Protection Fund; establishment.</heading>
   <para>
     <num>(a)</num>
@@ -40,7 +43,7 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>The Mayor shall include in the budget estimates of the District of Columbia for each fiscal year such amount as may be necessary for capitalization of the HLP Fund.</text>
+    <text>Any money remaining available in the HLP Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 2-144" type="History" path="§11a">Mar. 3, 1979, D.C. Law 2-144, § 11a</annotation>
@@ -52,5 +55,8 @@
     <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> substituted “10-C DCMR § 205” for “10 DCMR § C 205” in (b)(7).</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite>, in subsec. (b), deleted “and” from the end of par. (5 ), substituted “; and” for a period the end of par. (6), and added par. (7).</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§6-1110.02">§ 6-1110.02</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7103" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7103" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7103" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7103">§ 7103 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

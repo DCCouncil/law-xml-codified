@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>10-1202.04</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 24, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§10-1202.04(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 24, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§10-1202.04(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Limitations on Authority’s powers.</heading>
   <para>
     <num>(a)</num>
@@ -36,6 +42,10 @@
         <text>Available revenues, assets, or other property of the Authority (including lease payments assigned to the Authority pursuant to <cite path="§10-1202.22">§ 10-1202.22</cite>), subject to preexisting agreements with holders of the bonds of the Authority.</text>
       </para>
     </para>
+  </para>
+  <para>
+    <num>(a-2)</num>
+    <text>Notwithstanding the provisions of subsection (a) of this section, the Authority may, without submission to the Council, adopt inducement resolutions or resolutions authorizing the issuance of bonds and may issue bonds in a total principal amount not to exceed $284 million or such lesser amount as necessary in order to generate net proceeds of $181 million to finance the construction of the parking facilities approved by the Mayor on the RFK Campus.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -108,17 +118,9 @@
     <num>(l)</num>
     <text>Repealed.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(m)</num>
-    <text>The Authority shall not obligate or expend funds in Fiscal Year 2021, 2022, 2023, 2024, or 2025 to do the following:</text>
-    <para>
-      <num>(1)</num>
-      <text>Purchase all or a portion of the property comprising the Robert F. Kennedy Memorial Stadium, as that term is defined by <cite path="§3-330">§ 3-330</cite>; or</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Induce a National Football League team to locate in the District.</text>
-    </para>
+    <text>Repealed.</text>
   </para>
   <annotations>
     <text type="Editor's Notes">Section 9029 of <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> provided that the amendment by § 9019 of the  act shall apply as of September 30, 2014.</text>
@@ -160,5 +162,11 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§2032|(b)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§2032|(b)">§ 2032(b) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
     <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§2032|(b)" type="History" display="false"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2032|(b)" type="History"/>
+    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§16|(a)" type="History" display="false"/>
+    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§24|(2)" type="History" display="false"/>
+    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§16|(a)" type="History"/>
+    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§24|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-150" path="§16|(a)" codified:display="Note" app="2025-09-25" eff="2025-09-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-150" path="§16|(a)">§ 16(a) of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-150" path="§24|(2)" codified:display="Note" app="2025-09-25" eff="2025-09-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-150" path="§24|(2)">§ 24(2) of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

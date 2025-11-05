@@ -1,14 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>37-103</num>
-  <heading>Enterprise Fund.</heading>
-  <para>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§37-103(Perm)">Permanent Version</cite>.*
+      </text>
+  <heading>Eastern Market Enterprise Fund.</heading>
+  <para codify:path="(a)">
     <num>(a)</num>
-    <text>There is established the Eastern Market Enterprise Fund (“Fund”) pursuant to <cite path="§47-373|(2)|(C)">§ 47-373(2)(C)</cite>. The Fund shall be operated by the CPMO in accordance with general accepted accounting principles.</text>
+    <text>There is established as a special fund the Eastern Market Enterprise Fund ("Fund"), which shall be administered by the Department of General Services in accordance with subsections (d) and (e) of this section.</text>
   </para>
-  <para>
+  <para codify:path="(b)">
     <num>(b)</num>
-    <text>The CPMO shall deposit into the Fund all revenues, proceeds, and moneys from whatever source derived that are collected or received by the CPMO on behalf of Eastern Market.</text>
+    <text>All revenues, proceeds, and moneys from whatever source derived that are collected or received by the Department of General Services on behalf of Eastern Market shall be deposited into the Fund.</text>
   </para>
   <para placeholder="Repealed">
     <num>(c)</num>
@@ -32,14 +35,7 @@
   </para>
   <para>
     <num>(f)</num>
-    <para>
-      <num>(1)</num>
-      <text>The money deposited into the Fund shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
-    </para>
+    <text>Any money remaining available in the Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 12-228" type="History" path="§4">Apr. 16, 1999, D.C. Law 12-228, § 4, 46 DCR 1066</annotation>
@@ -60,5 +56,10 @@
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§1112|(a)" type="History"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§1112|(b)" type="History"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§1112|(c)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7095" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7095|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7095|(b)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7095|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7095" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7095">§ 7095 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>
