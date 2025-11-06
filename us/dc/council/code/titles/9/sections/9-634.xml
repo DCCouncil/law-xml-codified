@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>9-634</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§9-634(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Criteria for review.</heading>
   <para>
     <num>(a)</num>
@@ -48,7 +51,8 @@
     <annotation app="2025-03-21" doc="D.C. Law 25-312" eff="2025-03-21" path="§4|(e)" type="History"/>
     <annotation app="2025-03-21" doc="D.C. Law 25-312" eff="2025-03-21" path="§4|(e)|(1)" type="History"/>
     <annotation app="2025-03-21" doc="D.C. Law 25-312" eff="2025-03-21" path="§4|(e)|(2)" type="History"/>
-    <annotation doc="D.C. Act 26-146" path="§7195|(a)" type="Applicability" history="false" app="2025-09-03" eff="2025-09-03">Section 7195 of <cite doc="D.C. Act 26-146" path="§7195">D.C. Act 26-146</cite> amended Section 7 of <cite doc="D.C. Law 25-312" path="§7">D.C. Law 25-312</cite>, thus removing the applicability limitation. Therefore the amendments to this section by <cite doc="D.C. Law 25-312" path="§4|(e)">§4(e) of D.C. Law 25-312</cite> have been implemented.</annotation>
     <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7195|(a)" type="History" display="false"/>
+    <annotation doc="D.C. Act 26-146" path="§7195|(a)" type="Applicability" history="false" app="2025-09-03" eff="2025-09-03">Section 7195 of <cite doc="D.C. Act 26-146" path="§7195">D.C. Act 26-146</cite> amended Section 7 of <cite doc="D.C. Law 25-312" path="§7">D.C. Law 25-312</cite>, thus removing the applicability limitation. Therefore the amendments to this section by <cite doc="D.C. Law 25-312" path="§4|(e)">§4(e) of D.C. Law 25-312</cite> have been implemented.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7195|(a)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7195|(a)">§ 7195(a) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>
