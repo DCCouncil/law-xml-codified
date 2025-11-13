@@ -4758,7 +4758,7 @@
           <text>Paragraph (4) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§1-325.431|(b)|(4)"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§1-325.431"/>
               <num>(4)</num>
               <text>In Fiscal Year 2025, $70,000,000 in local funds; and</text>
             </para>
@@ -4768,14 +4768,14 @@
         <para>
           <num>(b)</num>
           <text>Paragraph (6) is repealed.</text>
-          <codify:repeal path="(6)" codified:doc="D.C. Code" codified:path="§1-325.431|(b)|(6)"/>
+          <codify:repeal path="(6)" codified:doc="D.C. Code" codified:path="§1-325.431"/>
         </para>
         <para>
           <num>(c)</num>
           <text>A new paragraph (7) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(6)" num-value="(7)" codified:doc="D.C. Code" codified:path="§1-325.431|(b)|(7)"/>
+              <codify:insert after="(6)" num-value="(7)" codified:doc="D.C. Code" codified:path="§1-325.431"/>
               <num>(7)</num>
               <text>In Fiscal Year 2026, $72,126,902 in local funds.</text>
             </para>
@@ -4913,7 +4913,7 @@
             <text>New subsections (b-1) and (b-2) are added to read as follows:</text>
             <include>
               <para>
-                <codify:insert after="(b)" num-value="(b-1)" codified:doc="D.C. Code" codified:path="§4-410.02|(b-1)"/>
+                <codify:insert after="(b)" num-value="(b-1)" codified:doc="D.C. Code" codified:path="§4-410.02|(b-1)|(1)"/>
                 <num>(b-1)</num>
                 <text>From January 1, 2025, through September 30, 2026, child development facilities that enter or have entered into a contract or agreement with the Department to receive monies from the Early Childhood Educator Pay Equity Fund shall use such monies to pay, at minimum, the salaries for assistant and lead teachers listed in the following tables:</text>
                 <text>
@@ -12524,7 +12524,7 @@
         <text>Section 5102(d) of the Early Childhood Educator Pay Equity Fund Establishment Act of 2021, effective November 13, 2021 (D.C. Law 24-45; D.C. Official Code § 1-325.431(d)), is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§1-325.431|(d)"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§1-325.431"/>
             <num>(d)</num>
             <text>Any money remaining available in the Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
           </para>

@@ -6941,7 +6941,7 @@
         <para codify:path="(3)">
           <num>(a)</num>
           <text>Paragraph (3) is amended by striking the phrase "$73,883,680 in local funds" and inserting the phrase "$69,508,332 in local funds" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-325.431|(b)|(3)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-325.431">
             <find>$73,883,680 in local funds</find>
             <replace>$69,508,332 in local funds</replace>
           </codify:find-replace>
@@ -6949,7 +6949,7 @@
         <para codify:path="(4)">
           <num>(b)</num>
           <text>Paragraph (4) is amended by striking the phrase "$74,878,268 in local funds" and inserting the phrase "$70,502,920 in local funds" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-325.431|(b)|(4)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-325.431">
             <find>$74,878,268 in local funds</find>
             <replace>$70,502,920 in local funds</replace>
           </codify:find-replace>

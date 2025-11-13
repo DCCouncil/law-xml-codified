@@ -1,31 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>38-2241</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 8, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§38-2241(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
-  <para>
-    <num undesignated="true">(a)</num>
-    <text>For purposes of <cite path="38|22B">this chapter</cite>, the term:</text>
-    <para>
-      <num>(1)</num>
-      <text>"Child development facility" shall have the same meaning as provided in <cite path="§7-2031|(3)">§ 7-2031(3)</cite>.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>"Community-based organization" or "CBO" shall have the same meaning as provided in <cite path="§38-271.01|(1C)">§ 38-271.01(1C)</cite>.</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>"Early childhood development provider" shall have the same meaning as provided in <cite path="§38-271.01|(1G)">§ 38-271.01(1G)</cite>.</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>"Subsidy" means supplemental payments made by the Mayor pursuant to <cite path="§4-404.01">§ 4-404.01</cite>.</text>
-    </para>
-  </para>
+  <text>Repealed.</text>
   <annotations>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§1102" codified:display="Note" app="2021-11-13" eff="2021-08-23">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-159" path="§1102">§ 1102 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
     <annotation app="2021-11-13" doc="D.C. Act 24-159" eff="2021-08-23" path="§1102" type="History" display="false"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="I|J" type="History" display="false"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§1102" type="History"/>
+    <annotation app="2025-11-10" doc="D.C. Act 26-196" eff="2025-11-10" path="§4" type="History"/>
+    <annotation app="2025-11-10" doc="D.C. Act 26-196" eff="2025-11-10" path="§4" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-196" path="§4" codified:display="Note" app="2025-11-10" eff="2025-11-10">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-196" path="§4">§ 4 of Early Childhood Educator Pay Scales Emergency Amendment Act of 2025 (D.C. Act 26-196, Nov. 10, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

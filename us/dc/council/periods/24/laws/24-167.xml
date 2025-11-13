@@ -4518,7 +4518,7 @@
         <para codify:path="(a)">
           <num>(a)</num>
           <text>Subsection (a) is amended by striking the phrase "Education in" and inserting the phrase "Education ("OSSE") in" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-325.431|(a)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-325.431">
             <find>Education in</find>
             <replace>Education ("OSSE") in</replace>
           </codify:find-replace>
@@ -4528,7 +4528,7 @@
           <text>Subsection (c) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§1-325.431|(c)"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§1-325.431"/>
               <num>(c)</num>
               <text>The Fund shall be used to:</text>
               <para>
@@ -4587,7 +4587,7 @@
           <text>A new subsection (d-1) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(d)" codified:doc="D.C. Code" codified:path="§1-325.431|(d-1)"/>
+              <codify:insert after="(d)" codified:doc="D.C. Code" codified:path="§1-325.431"/>
               <num>(d-1)</num>
               <text>Unless otherwise prohibited by federal law, lump-sum payments an individual receives in Fiscal Years 2022 and 2023 from the early educator pay parity program established pursuant to subsection (c)(1A) of this section shall not be counted as income or assets:</text>
               <para>
@@ -4635,7 +4635,7 @@
           <text>Subsection (e) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§1-325.431|(e)"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§1-325.431"/>
               <num>(e)</num>
               <text>For the purposes of this section, the term:</text>
               <para>
@@ -4663,7 +4663,7 @@
           <text>A new subsection (f) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§1-325.431|(f)"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§1-325.431"/>
               <num>(f)</num>
               <text>Notwithstanding <code-cite doc="D.C. Code" path="§1-328.13">section 1094 of the Grant Administration Act of 2013, effective December 24, 2013 (D.C. Law 20-61; D.C. Official Code § 1-328.13)</code-cite>, OSSE may enter into a sole source grant agreement covering Fiscal Years 2022 and 2023 for the purpose of implementing the early educator pay parity program by distributing direct, lump-sum payments to employees of early childhood development providers, as authorized pursuant to subsection (c)(1A) of this section.</text>
             </para>
@@ -5146,7 +5146,7 @@
                   </para>
                   <para>
                     <num>(B)</num>
-                    <text>Reduce the number of child development facilities receiving CDF payroll formula payments, in which case the Department shall prioritize funding to child development facilities receiving subsidy payments pursuant to section 5a.</text>
+                    <text>Reduce the number of child development facilities receiving CDF payroll formula payments, in which case the Department shall prioritize funding to child development facilities receiving subsidy payments pursuant to <code-cite doc="D.C. Code" path="§4-404.01">section 5a</code-cite>.</text>
                   </para>
                 </para>
                 <para>
