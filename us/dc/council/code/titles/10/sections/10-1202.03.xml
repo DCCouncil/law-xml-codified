@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>10-1202.03</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on December 24, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§10-1202.03(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>General powers of Authority.</heading>
   <text>In addition to the general delegation of powers contained in <cite path="§10-1202.09">§ 10-1202.09</cite> and subject to the limitations contained in <cite path="§10-1202.04">§ 10-1202.04</cite>, the Authority shall possess the following powers:</text>
   <para>
@@ -126,7 +123,7 @@
     <num>(15)</num>
     <para>
       <num>(A)</num>
-      <text>To retain an independent consultant to monitor the redevelopment of the Robert F. Kennedy Campus, including compliance with all requirements of <cite doc="D.C. Act 26-150">the Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025</cite>, the terms of the Development and Financing Agreement, and all related Transaction Documents.</text>
+      <text>To retain an independent consultant to monitor the redevelopment of the Robert F. Kennedy Campus, including compliance with all requirements of <cite doc="D.C. Law 26-54">the Robert F. Kennedy Campus Redevelopment Amendment Act of 2025</cite>, the terms of the Development and Financing Agreement, and all related Transaction Documents.</text>
     </para>
     <para>
       <num>(B)</num>
@@ -217,10 +214,16 @@
     <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2173|(a)" type="History" display="false"/>
     <annotation path="§2173|(b)" history="false" type="Editor's Notes" app="2025-09-03" eff="2025-09-03" doc="D.C. Act 26-146">For the establishment of a grant program administered by the Washington Convention and Sports Authority ("Events DC") to support historical research done by a nonprofit organization occupying space in the Carnegie Library building, see <cite doc="D.C. Act 26-146" path="§2173|(b)">section 2173(b) of D.C. Act 26-146</cite>.</annotation>
     <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2173|(b)" type="History" display="false"/>
-    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§24|(1)" type="History" display="false"/>
-    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§24|(1)|(A)" type="History"/>
-    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§24|(1)|(B)" type="History"/>
-    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§24|(1)|(C)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-150" path="§24|(1)" codified:display="Note" app="2025-09-25" eff="2025-09-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-150" path="§24|(1)">§ 24(1) of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 72 DCR 10584)</cite>.</annotation>
+    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§24|(1)" type="History" display="false"/>
+    <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="§24|(1)|(A)" type="History"/>
+    <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="§24|(1)|(B)" type="History"/>
+    <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="§24|(1)|(C)" type="History"/>
+    <annotation path="§2172" history="false" type="Editor's Notes" app="2025-11-24" eff="2025-11-24" doc="D.C. Act 26-210">For the establishment of a matching grant program to support the 2026 National Cherry Blossom Festival ("Program"), which shall be administered by the Washington Convention and Sports Authority ("Events DC"), see <cite doc="D.C. Act 26-210" path="§2172">section 2172 of D.C. Act 26-210</cite>.</annotation>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2172" type="History" display="false"/>
+    <annotation path="§2173|(a)" history="false" type="Editor's Notes" app="2025-11-24" eff="2025-11-24" doc="D.C. Act 26-210">For the requirement that the Washington Convention and Sports Authority ("Events DC") issue a grant to a nonprofit organization that provides education about how the District of Columbia has been the home for the fight for freedom and democracy, see <cite doc="D.C. Act 26-210" path="§2173|(a)">section 2173(a) of D.C. Act 26-210</cite>.</annotation>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2173|(a)" type="History" display="false"/>
+    <annotation path="§2173|(b)" history="false" type="Editor's Notes" app="2025-11-24" eff="2025-11-24" doc="D.C. Act 26-210">For the establishment of a grant program administered by the Washington Convention and Sports Authority ("Events DC") to support historical research done by a nonprofit organization occupying space in the Carnegie Library building, see <cite doc="D.C. Act 26-210" path="§2173|(b)">section 2173(b) of D.C. Act 26-210</cite>.</annotation>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2173|(b)" type="History" display="false"/>
   </annotations>
 </section>

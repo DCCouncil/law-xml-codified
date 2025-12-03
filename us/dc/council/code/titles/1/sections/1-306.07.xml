@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-306.07</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on December 24, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-306.07(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Zoning conformity.</heading>
   <para>
     <num>(a)</num>
@@ -62,9 +59,9 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-300">D.C. Law 16-300</cite>, in subsec. (b), substituted “March 8, 2007” for “April 27, 1999”.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-250.</annotation>
     <annotation type="Prior Codifications">2001 Ed., § 1-301.68.</annotation>
-    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§20" type="History" display="false"/>
-    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§20|(a)" type="History"/>
-    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§20|(b)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-150" path="§20" codified:display="Note" app="2025-09-25" eff="2025-09-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-150" path="§20">§ 20 of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 72 DCR 10584)</cite>.</annotation>
+    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§20" type="History" display="false"/>
+    <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="§20|(a)" type="History"/>
+    <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="§20|(b)" type="History"/>
   </annotations>
 </section>

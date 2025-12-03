@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-1605.03</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on December 24, 2025.*
-      </text>
   <heading proof="needed">Applicability of certain laws to Transaction Documents, Development Site, easements over the RFK Campus, and the sale of Stadium Seat Rights.</heading>
   <para>
     <num>(a)</num>
@@ -63,18 +60,10 @@
       <text>To provide flexibility to deliver all housing types in an expedited and efficient manner, all other details (such as duration of affordability, lottery, and the certification process for the affordable dwelling units) regarding the implementation of the Affordable Dwelling Unit Requirement shall be as set forth in the Transaction Documents.</text>
     </para>
   </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§10-1604.14" expire="2025-09-25" codified:display="Note">For temporary (90 days) creation of § 10-1605.03, see <cite doc="D.C. Act 26-150" path="§4">§ 4 of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 72 DCR 10584)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§10-1605.03" applicability="2025-09-25" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-1605.03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-150" path="§4">§ 4 of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 72 DCR 10584)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§10-1605.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§10-1605.03">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on December 24, 2025.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="II" type="History" display="false"/>
-    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="" type="History" display="false"/>
-    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§4" type="History" display="false"/>
-    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§4" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-150" path="§4" codified:display="Note" app="2025-09-25" eff="2025-09-25">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-150" path="§4">§ 4 of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 72 DCR 10584)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-150" path="§4" codified:display="Note" app="2025-11-21" eff="2025-09-25">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-150" path="§4">§ 4 of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 72 DCR 10584)</cite>.</annotation>
+    <annotation app="2025-11-21" doc="D.C. Act 26-150" eff="2025-09-25" path="§4" type="History" display="false"/>
+    <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="" type="History" display="false"/>
+    <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="§4" type="History"/>
   </annotations>
 </section>
