@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-301.01</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on December 24, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-301.01(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Additional powers of Mayor, Council, and Director of the Office of Contracting and Procurement.</heading>
   <para>
     <num>(a)</num>
@@ -225,9 +222,9 @@
     <annotation type="Cross References">Bonding of home improvement businesses, bond requirements, see <cite path="§47-2883.01">§ 47-2883.01</cite> et seq.</annotation>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3002|(a)" type="History"/>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3002|(b)" type="History"/>
-    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§21|(b)" type="History" display="false"/>
-    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§21|(b)|(2)" type="History"/>
-    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§21|(b)|(1)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-150" path="§21|(b)" codified:display="Note" app="2025-09-25" eff="2025-09-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-150" path="§21|(b)">§ 21(b) of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 72 DCR 10584)</cite>.</annotation>
+    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§21|(b)" type="History" display="false"/>
+    <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="§21|(b)|(2)" type="History"/>
+    <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="§21|(b)|(1)" type="History"/>
   </annotations>
 </section>

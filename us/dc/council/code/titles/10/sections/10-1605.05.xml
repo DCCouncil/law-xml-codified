@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-1605.05</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on December 24, 2025.*
-      </text>
   <heading proof="needed">Conditions for the issuance of bonds and the expenditure of bond proceeds.</heading>
   <para>
     <num>(a)</num>
@@ -32,7 +29,7 @@
         </para>
         <para>
           <num>(ii)</num>
-          <text>Maintain the Stadium in a manner feasibly consistent with the objective of Version 5 LEED Platinum level for Operations and Maintenance ("LEED: O+M v5") as defined by the U.S. Green Building Council;</text>
+          <text>Maintain the Stadium in a manner feasibly consistent with the objective of Version 5 LEED Platinum level for Operations and Maintenance ("LEED: O+M v5"), as defined by the U.S. Green Building Council;</text>
         </para>
         <para>
           <num>(iii)</num>
@@ -40,7 +37,7 @@
         </para>
         <para>
           <num>(iv)</num>
-          <text>Construct or cause to be constructed the residential development within the Commercial Development in a manner feasibly consistent with the objective of Version 5 LEED Silver level for New Construction and Major Renovations ("LEED: BD+C v5"), as defined by the U.S. Green Building Council<u>;</u></text>
+          <text>Construct, or cause to be constructed, the residential development within the Commercial Development in a manner feasibly consistent with the objective of Version 5 LEED Silver level for New Construction and Major Renovations ("LEED: BD+C v5"), as defined by the U.S. Green Building Council<u>;</u></text>
         </para>
       </para>
       <para>
@@ -133,18 +130,10 @@
       <text>Should the zoning regulation established for the Plaza District Commercial Parcel require design review or further processing by either the Zoning Commission or the Board of Zoning Adjustment, the outside completion date for stage one shall be calculated beginning as of the effective date of the zoning order approving the design review or further processing. Should this zoning order be judicially challenged, the outside completion date for stage one shall be calculated beginning one year after the effective date of this zoning order. In either instance the outside completion date for each subsequent stage of development shall be calculated beginning as of the date applicable to stage one.</text>
     </para>
   </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§10-1604.14" expire="2025-09-25" codified:display="Note">For temporary (90 days) creation of § 10-1605.05, see <cite doc="D.C. Act 26-150" path="§6">§ 6 of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 72 DCR 10584)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§10-1605.05" applicability="2025-09-25" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-1605.05">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-150" path="§6">§ 6 of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 72 DCR 10584)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§10-1605.05" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§10-1605.05">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on December 24, 2025.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="II" type="History" display="false"/>
-    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="" type="History" display="false"/>
-    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§6" type="History" display="false"/>
-    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§6" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-150" path="§6" codified:display="Note" app="2025-09-25" eff="2025-09-25">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-150" path="§6">§ 6 of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 72 DCR 10584)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-150" path="§6" codified:display="Note" app="2025-11-21" eff="2025-09-25">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-150" path="§6">§ 6 of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 72 DCR 10584)</cite>.</annotation>
+    <annotation app="2025-11-21" doc="D.C. Act 26-150" eff="2025-09-25" path="§6" type="History" display="false"/>
+    <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="" type="History" display="false"/>
+    <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="§6" type="History"/>
   </annotations>
 </section>

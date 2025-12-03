@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>6-1451.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§6-1451.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Publicly-owned, leased, and financed buildings and projects.</heading>
   <para>
     <num>(a)</num>
@@ -75,7 +78,27 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>Maintain net zero energy compliance.</text>
+        <text>In the case of new construction or substantial rehabilitation, as that term is defined in <cite path="§42-3501.03|(34)">§ 42-3501.03(34)</cite>, in which a roof replacement or repair of 50% or more of the roof area is within the scope of the project in accordance with the District of Columbia Building Code (Title 12A of the District of Columbia Municipal Regulations), the developer shall incorporate rooftop renewable energy systems on-site wherever feasible except when:</text>
+        <para>
+          <num>(i)</num>
+          <text>There is not adequate solar access as determined by Chapter 13 of Title 12-I[CE] of the District of Columbia Municipal Regulations;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Mechanical equipment, HVAC systems, or other essential rooftop infrastructure are present;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Rooftop amenities such as pools, decks, or recreational areas exist;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Structural constraints, shading, or design limitations, as defined by DOB or DOEE, prevent effective solar generation; or</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Other conditions identified in regulations issued by DOB or DOEE that render installation impracticable.</text>
+        </para>
       </para>
     </para>
     <para>
@@ -112,7 +135,7 @@
     </para>
     <para>
       <num>(6)</num>
-      <text>An applicant for new construction or substantial improvement of a mixed-use space shall maintain net zero energy compliance and fulfill or exceed the current edition of the LEED standard for commercial and institutional buildings at the certified level for the mixed-use space of the project. Any requirements of <cite path="§6-1451.05">§ 6-1451.05</cite> shall apply to the mixed-use space of the project. For the purposes of mixed-use space in this paragraph, the term:</text>
+      <text>An applicant for new construction or substantial improvement of a mixed-use space shall fulfill or exceed the current edition of the LEED standard for commercial and institutional buildings at the certified level for the mixed-use space of the project. Any requirements of <cite path="§6-1451.05">§ 6-1451.05</cite> shall apply to the mixed-use space of the project. For the purposes of mixed-use space in this paragraph, the term:</text>
       <para>
         <num>(A)</num>
         <text>“LEED” also includes LEED for Commercial Interiors and LEED for Retail: Commercial Interiors; and</text>
@@ -224,5 +247,9 @@
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-213" path="§4" codified:display="Note" app="2024-09-18" eff="2024-09-18">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-213" path="§4">§ 4 of Green Housing Coordination Temporary Amendment Act of 2024 (D.C. Law 25-213, Sept. 18, 2024, 71 DCR 9946)</cite>.</annotation>
     <annotation app="2024-09-18" doc="D.C. Law 25-213" eff="2024-09-18" path="§4" type="History" display="false"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6042|(b)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-207" eff="2025-11-24" path="§4" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-207" eff="2025-11-24" path="§4|(a)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-207" eff="2025-11-24" path="§4|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-207" path="§4" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-207" path="§4">§ 4 of Green Housing Coordination Emergency Amendment Act of 2025 (D.C. Act 26-207, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

@@ -2,21 +2,23 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-1551.05</num>
   <text>
-      *NOTE: This section was created by emergency legislation that will expire on December 2, 2025.*
+      *NOTE: This section was created by emergency legislation that will expire on February 22, 2026.*
       </text>
   <heading proof="needed">Limitation on use of information.</heading>
   <text>The information contained in a notification event received by a participating agency shall be used by the participating agency only for the purpose of determining a covered individual's eligibility to care for children, persons with a disability, the elderly, or vulnerable adults, a security officer, special police officer, private detective, private detective agency, security agency, or other person responsible for protecting property, preventing theft, damage to real or personal property, assaults, disorders, or similar illegal occurrences, or for purposes of licensure, appointment, commission, certification, registration, employment, or volunteer service and shall not be further disseminated by the participating agency.</text>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-1501.11" expire="2025-09-03" codified:display="Note">For temporary (90 days) creation of § 4-1551.05, see <cite doc="D.C. Act 26-146" path="§3045">§ 3045 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-1551.05" applicability="2025-09-03" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-1551.05">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-146" path="§3045">§ 3045 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-1501.11" expire="2025-11-24" codified:display="Note">For temporary (90 days) creation of § 4-1551.05, see <cite doc="D.C. Act 26-210" path="§3045">§ 3045 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-1551.05" applicability="2025-11-24" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-1551.05">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-210" path="§3045">§ 3045 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</codify:annotation>
   <codify:insert doc="D.C. Code" path="§4-1551.05" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-1551.05">
     <text>
-      *NOTE: This section was created by emergency legislation that will expire on December 2, 2025.*
+      *NOTE: This section was created by emergency legislation that will expire on February 22, 2026.*
       </text>
   </codify:insert>
   <annotations>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="III" type="History" display="false"/>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3045" type="History" display="false"/>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3045" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§3045" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-146" path="§3045">§ 3045 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§3045" codified:display="Note" app="2025-11-24" eff="2025-09-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-146" path="§3045">§ 3045 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-11-24" doc="D.C. Act 26-146" eff="2025-09-03" path="§3045" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="III" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§3045" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§3045" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§3045" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-210" path="§3045">§ 3045 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
