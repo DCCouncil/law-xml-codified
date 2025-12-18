@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>36-601.24</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§36-601.24(Perm)">Permanent Version</cite>.*
-      </text>
   <heading proof="needed">Rules governing conduct of bingo and raffles.</heading>
   <para>
     <num>(a)</num>
@@ -69,12 +66,6 @@
     <num>(d)</num>
     <text>Any person, firm, partnership, association, organization, or corporation fined or suspended pursuant to this section shall have a right to a hearing before the Chief Financial Officer, or the Chief Financial Officer's designee, and, in the event of the affirmation of such fine or suspension, the right to appeal such fine or suspension to the Superior Court of the District of Columbia.</text>
   </para>
-  <codify:emergency doc="D.C. Code" path="§36-601.24" codified:doc="D.C. Code" codified:path="§36-601.24" codified:display="Note"/>
-  <codify:insert doc="D.C. Code" path="§36-601.24" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§36-601.24">
-    <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§36-601.24(Perm)">Permanent Version</cite>.*
-      </text>
-  </codify:insert>
   <annotations>
     <annotation doc="D.C. Law 3-172" type="History" path="§4">Mar. 10, 1981, D.C. Law 3-172, § 4, 27 DCR 4736</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 2-2524.</annotation>
@@ -89,8 +80,8 @@
     <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§6|(a)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2073|(e)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2073|(e)|includes|2-2524">§ 2-2524 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
     <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2073|(e)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§2073|(e)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§2073|(e)|includes|2-2524">§ 2-2524 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
     <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2073|(e)" type="History" display="false"/>
-    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2073|(e)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§2073|(e)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§2073|(e)|includes|2-2524">§ 2-2524 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§2073|(e)" type="History"/>
   </annotations>
 </section>

@@ -1,24 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>2-1228.04</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on February 22, 2026.*
-      </text>
   <heading proof="needed">Rules.</heading>
   <text>The Mayor, pursuant to <cite path="2|5|I">subchapter I of Chapter 5 of this title</cite>, may issue rules governing interactive wayfinding kiosks in the District, including rules related to their design, placement, and component parts.</text>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-1227.07" expire="2025-11-24" codified:display="Note">For temporary (90 days) creation of § 2-1228.04, see <cite doc="D.C. Act 26-210" path="§2214">§ 2214 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-1228.04" applicability="2025-11-24" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1228.04">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-210" path="§2214">§ 2214 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§2-1228.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1228.04">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on February 22, 2026.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2214" codified:display="Note" app="2025-11-24" eff="2025-09-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-146" path="§2214">§ 2214 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
-    <annotation app="2025-11-24" doc="D.C. Act 26-146" eff="2025-09-03" path="§2214" type="History" display="false"/>
-    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="II" type="History" display="false"/>
-    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2214" type="History" display="false"/>
-    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2214" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§2214" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-210" path="§2214">§ 2214 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2214" codified:display="Note" app="2025-12-06" eff="2025-09-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-146" path="§2214">§ 2214 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-12-06" doc="D.C. Act 26-146" eff="2025-09-03" path="§2214" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§2214" codified:display="Note" app="2025-12-06" eff="2025-11-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-210" path="§2214">§ 2214 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
+    <annotation app="2025-12-06" doc="D.C. Act 26-210" eff="2025-11-24" path="§2214" type="History" display="false"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="II" type="History" display="false"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§2214" type="History"/>
   </annotations>
 </section>

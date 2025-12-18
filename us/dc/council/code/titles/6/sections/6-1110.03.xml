@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>6-1110.03</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on February 22, 2026.*
-      </text>
   <heading proof="needed">Paul E. Sluby, Sr. Historic Burial Grounds Preservation Program.</heading>
   <para>
     <num>(a)</num>
@@ -49,20 +46,13 @@
       <text>"Qualified charitable organization" means a charitable corporation, charitable association, or charitable trust that has been granted tax-exempt status under § 501(c)(3) of the Internal Revenue Code and that has the primary purpose of preserving historical cemeteries and graves or was formed for the purpose of identifying, preserving, or maintaining historic burial grounds.</text>
     </para>
   </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§6-1110.02" expire="2025-11-24" codified:display="Note">For temporary (90 days) creation of § 6-1110.03, see <cite doc="D.C. Act 26-210" path="§2142|includes|11c">§ 11c of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§6-1110.03" applicability="2025-11-24" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§6-1110.03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-210" path="§2142|includes|11c">§ 11c of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§6-1110.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-1110.03">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on February 22, 2026.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation doc="D.C. Law 2-144" type="History" path="§11c" display="false">Mar. 3, 1979, D.C. Law 2-144, § 11c</annotation>
     <annotation doc="D.C. Law 2-144" type="History" path="§11c">Mar. 3, 1979, D.C. Law 2-144, § 11c</annotation>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2142" codified:display="Note" app="2025-11-24" eff="2025-09-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-146" path="§2142|includes|11c">§ 11c of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
-    <annotation app="2025-11-24" doc="D.C. Act 26-146" eff="2025-09-03" path="§2142" type="History" display="false"/>
-    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2142" type="History" display="false"/>
-    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2142" prefix="as added" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§2142" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-210" path="§2142|includes|11c">§ 11c of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
+    <annotation doc="D.C. Law 2-144" type="History" path="§11c" display="false">Mar. 3, 1979, D.C. Law 2-144, § 11c</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2142" codified:display="Note" app="2025-12-06" eff="2025-09-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-146" path="§2142|includes|11c">§ 11c of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-12-06" doc="D.C. Act 26-146" eff="2025-09-03" path="§2142" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§2142" codified:display="Note" app="2025-12-06" eff="2025-11-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-210" path="§2142|includes|11c">§ 11c of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
+    <annotation app="2025-12-06" doc="D.C. Act 26-210" eff="2025-11-24" path="§2142" type="History" display="false"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§2142" prefix="as added" type="History"/>
   </annotations>
 </section>

@@ -1,21 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-1053.02</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on February 22, 2026.*
-      </text>
   <heading proof="needed">Rulemaking.</heading>
   <text>The Mayor, pursuant to <cite path="2|5|I">subchapter I of Chapter 5 of Title 2</cite>, may issue rules to implement the provisions of <cite path="10|10B">this chapter</cite>.</text>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§10-1053.01" expire="2025-11-24" codified:display="Note">For temporary (90 days) creation of § 10-1053.02, see <cite doc="D.C. Act 26-210" path="§6092|(d)|includes|4b">§ 4b of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§10-1053.02" applicability="2025-11-24" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-1053.02">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-210" path="§6092|(d)|includes|4b">§ 4b of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§10-1053.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§10-1053.02">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on February 22, 2026.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation doc="D.C. Law 22-280" type="History" path="§4b" display="false">Apr. 11, 2019, D.C. Law 22-280, § 4b</annotation>
     <annotation doc="D.C. Law 22-280" type="History" path="§4b">Apr. 11, 2019, D.C. Law 22-280, § 4b</annotation>
+    <annotation doc="D.C. Law 22-280" type="History" path="§4b" display="false">Apr. 11, 2019, D.C. Law 22-280, § 4b</annotation>
     <annotation app="2019-04-11" doc="D.C. Law 22-280" eff="2019-04-11" path="" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" path="§7166" codified:display="Note" app="2019-07-22" eff="2019-07-22">For temporary (90 days) repeal of applicability provision of D.C. Law 22-280, see <cite doc="D.C. Act 23-91" path="§7166">§ 7166 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
     <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7166" type="History" display="false"/>
@@ -25,10 +15,10 @@
           Applicability of <cite doc="D.C. Law 22-280">D.C. Law 22-280</cite>: <cite doc="D.C. Law 23-16" path="§7166">§ 7166 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-280" path="§5">§ 5 of D.C. Law 22-280</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-280">D.C. Law 22-280</cite> has been implemented.
         </annotation>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7166" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§6092|(d)" codified:display="Note" app="2025-11-24" eff="2025-09-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-146" path="§6092|(d)|includes|4b">§ 4b of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
-    <annotation app="2025-11-24" doc="D.C. Act 26-146" eff="2025-09-03" path="§6092|(d)" type="History" display="false"/>
-    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6092|(d)" type="History" display="false"/>
-    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6092|(d)" prefix="as added" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§6092|(d)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-210" path="§6092|(d)|includes|4b">§ 4b of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§6092|(d)" codified:display="Note" app="2025-12-06" eff="2025-09-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-146" path="§6092|(d)|includes|4b">§ 4b of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-12-06" doc="D.C. Act 26-146" eff="2025-09-03" path="§6092|(d)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§6092|(d)" codified:display="Note" app="2025-12-06" eff="2025-11-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-210" path="§6092|(d)|includes|4b">§ 4b of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
+    <annotation app="2025-12-06" doc="D.C. Act 26-210" eff="2025-11-24" path="§6092|(d)" type="History" display="false"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§6092|(d)" prefix="as added" type="History"/>
   </annotations>
 </section>

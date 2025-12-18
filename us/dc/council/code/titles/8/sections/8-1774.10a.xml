@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-1774.10a</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on February 22, 2026.*
-      </text>
   <heading proof="needed">Mayor's Energy Surcharge Fund.</heading>
   <para>
     <num>(a)</num>
@@ -82,20 +79,13 @@
       <text>The money deposited into the Fund but not expended in a fiscal year shall not revert to the unassigned fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
     </para>
   </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§8-1774.10" expire="2025-11-24" codified:display="Note">For temporary (90 days) creation of § 8-1774.10a, see <cite doc="D.C. Act 26-210" path="§6022|(c)|includes|210a">§ 210a of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§8-1774.10a" applicability="2025-11-24" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-1774.10a">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-210" path="§6022|(c)|includes|210a">§ 210a of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§8-1774.10a" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1774.10a">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on February 22, 2026.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation doc="D.C. Law 17-250" type="History" path="§210a" display="false">Oct. 22, 2008, D.C. Law 17-250, § 210a</annotation>
     <annotation doc="D.C. Law 17-250" type="History" path="§210a">Oct. 22, 2008, D.C. Law 17-250, § 210a</annotation>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§6022|(c)" codified:display="Note" app="2025-11-24" eff="2025-09-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-146" path="§6022|(c)|includes|210a">§ 210a of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
-    <annotation app="2025-11-24" doc="D.C. Act 26-146" eff="2025-09-03" path="§6022|(c)" type="History" display="false"/>
-    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(c)" type="History" display="false"/>
-    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(c)" prefix="as added" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§6022|(c)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-210" path="§6022|(c)|includes|210a">§ 210a of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
+    <annotation doc="D.C. Law 17-250" type="History" path="§210a" display="false">Oct. 22, 2008, D.C. Law 17-250, § 210a</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§6022|(c)" codified:display="Note" app="2025-12-06" eff="2025-09-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-146" path="§6022|(c)|includes|210a">§ 210a of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-12-06" doc="D.C. Act 26-146" eff="2025-09-03" path="§6022|(c)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§6022|(c)" codified:display="Note" app="2025-12-06" eff="2025-11-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-210" path="§6022|(c)|includes|210a">§ 210a of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
+    <annotation app="2025-12-06" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(c)" type="History" display="false"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§6022|(c)" prefix="as added" type="History"/>
   </annotations>
 </section>
