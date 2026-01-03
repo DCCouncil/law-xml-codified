@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>25-101</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on March 19, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§25-101(Perm)">Past Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <para>
     <num undesignated="true">(a)</num>
@@ -534,6 +537,10 @@
       <text>“Statement” means a representation by words, design, picture, device, illustration, or other means.</text>
     </para>
     <para>
+      <num>(50A)</num>
+      <text>"Streatery" means the occupation of the parking lane of a roadway or use of designated parts of an alley network or travel lane used specifically for outdoor dining pursuant to a valid Streatery Permit issued by the District Department of Transportation and Certificate of Use issued by the Department of Buildings.</text>
+    </para>
+    <para>
       <num>(51)</num>
       <text>“Table” shall not include a counter, bar, or similar contrivance.</text>
     </para>
@@ -572,6 +579,10 @@
     <para>
       <num>(55)</num>
       <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(55A)</num>
+      <text>"Washington Convention and Sports Authority food and alcohol business" means a retailer with commercial street frontage at a location under the jurisdiction of the Washington Convention and Sports Authority that sells food and is approved by the Washington Convention and Sports Authority to sell alcoholic beverages for on-premises consumption.</text>
     </para>
     <para>
       <num>(56)</num>
@@ -718,5 +729,9 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§2072|(a)|(1)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§2072|(a)|(1)">§ 2072(a)(1) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
     <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2072|(a)|(1)" type="History" display="false"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§2072|(a)|(1)" type="History"/>
+    <annotation app="2025-12-19" doc="D.C. Act 26-220" eff="2025-12-19" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2025-12-19" doc="D.C. Act 26-220" eff="2025-12-19" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2025-12-19" doc="D.C. Act 26-220" eff="2025-12-19" path="§2|(a)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-220" path="§2|(a)" codified:display="Note" app="2025-12-19" eff="2025-12-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-220" path="§2|(a)">§ 2(a) of Streatery Program Endorsements and Protest Process Emergency Amendment Act of 2025 (D.C. Act 26-220, Dec. 19, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
