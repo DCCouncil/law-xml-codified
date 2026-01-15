@@ -51,9 +51,10 @@
     <num>(7)</num>
     <text>[Repealed].</text>
   </para>
-  <para placeholder="Repealed">
+  <para>
     <num>(8)</num>
-    <text>[Repealed].</text>
+    <text>"Qualified project" means a rental housing development in the District that receives an allocation of federal low-income housing tax credits under 26 U.S.C. § 42(h)(1) or (4) after October 1, 2021, and with respect to which an extended low-income housing commitment pursuant to 26 U.S.C. § 42(h)(6)(B), between the owner of the rental housing development and the Department is executed on or after October 1, 2021, and with respect to which the Department issues an eligibility statement on or before September 30, 2024.</text>
+    <codify:repeal doc="D.C. Law 25-217" path="§2162|(a)|(3)" codified:doc="D.C. Code" codified:path="§47-4801|(8)"/>
   </para>
   <para>
     <num>(9)</num>
@@ -75,6 +76,8 @@
     <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§2162|(a)" type="History" display="false"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2162|(a)|(1)" type="History"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2162|(a)|(2)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2162|(a)|(3)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2162|(a)|(3)" type="History" display="false"/>
+    <annotation app="2025-12-31" doc="D.C. Law 26-80" eff="2025-12-31" path="§401|(a)" type="History" display="false"/>
+    <annotation app="2025-12-31" doc="D.C. Law 26-80" eff="2025-12-31" path="§401|(a)" type="History"/>
   </annotations>
 </section>
