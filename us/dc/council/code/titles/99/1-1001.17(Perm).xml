@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <num>1-1001.17</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on April 28, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-1001.17(Perm)">Permanent Version</cite>.*
-      </text>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <num>1-1001.17(Perm)</num>
   <heading>Recall process.</heading>
+  <text>
+      *NOTE: This codification is <u><b>not</b></u> the most current, due to recent law changes. To see the current law (including emergency and temporary legislation, if relevant) click this link: <cite path="§1-1001.17">Current Version</cite>*
+      </text>
   <para>
     <num>(a)</num>
     <text>The provisions of this section shall govern the recall of all elected officers of the District of Columbia except the Delegate to the Congress from the District of Columbia.</text>
@@ -118,10 +118,6 @@
       <text>That the circulator of the petition form was in the presence of each person when the appended signature was written;</text>
     </para>
     <para>
-      <num>(3A)</num>
-      <text>That the circulator of the petition sheet has not written, altered, corrected, clarified, or obscured information on the petition about the signer of the petition after the signer affixed their signature to the petition;</text>
-    </para>
-    <para>
       <num>(4)</num>
       <text>That according to the best information available to the circulator, each signature is the genuine signature of the person whose name it purports to be;</text>
     </para>
@@ -133,10 +129,6 @@
       <num>(6)</num>
       <text>The dates between which all the signatures to the petition were obtained.</text>
     </para>
-  </para>
-  <para>
-    <num>(f-1)</num>
-    <text>No person other than the petition signer may write, alter, correct, or clarify, on a petition sheet for a recall petition unless the signer requests assistance in writing, altering, correcting, or clarifying on the petition, any information about the petition signer before the signer affixes their signature. The use of correction fluid or tape is prohibited.</text>
   </para>
   <para>
     <num>(g)</num>
@@ -233,8 +225,7 @@
   <para>
     <num>(m)</num>
     <text>The Board shall place the recall measure on the ballot in substantially the following form:</text>
-    <text>FOR the recall of (insert the name of the elected officer and the office</text>
-    <text>held)</text>
+    <text>FOR the recall of (insert the name of the elected officer and the office held)</text>
     <text>AGAINST the recall of (insert the name of the elected officer and the office held)</text>
   </para>
   <para>
@@ -255,6 +246,9 @@
     <annotation doc="D.C. Law 18-103" type="History">Feb. 4, 2010, D.C. Law 18-103, § 2(j), 56 DCR 9169</annotation>
     <annotation doc="D.C. Law 19-124" type="History">Apr. 27, 2012, D.C. Law 19-124, § 501(g)(7), 59 DCR 1862</annotation>
     <annotation doc="D.C. Law 20-31" type="History">Oct. 17, 2013, D.C. Law 20-31, § 2(d), 60 DCR 11535</annotation>
+    <annotation doc="D.C. Law 21-160" type="History" path="§1072|(d)">Oct. 8, 2016, D.C. Law 21-160, § 1072(d), 63 DCR 10775</annotation>
+    <annotation doc="D.C. Law 23-192" type="History" path="§2|(m)">Mar. 16, 2021, D.C. Law 23-192, § 2(m), 68 DCR 1073</annotation>
+    <annotation doc="D.C. Law 24-342" type="History" path="§3|(k)">Apr. 6, 2023, D.C. Law 24-342, § 3(k), 69 DCR 14609</annotation>
     <annotation type="Emergency Legislation">For temporary amendment of (i)(6), see § 2(c) of the Board of Elections Petition Circulation Requirements Emergency Amendment Act of 2012 (D.C. Act 19-587, January 7, 2013,  60 DCR 977).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 401(g)(7) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2(j) of Omnibus Election Reform Emergency Amendment Act of 2009 (D.C. Act 18-236, November 30, 2009,  56 DCR 9154).</annotation>
@@ -268,20 +262,5 @@
     <annotation type="Section References">This section is referenced in <cite path="§1-123">§ 1-123</cite>, <cite path="§1-1001.07">§ 1-1001.07</cite>, <cite path="§1-1001.09">§ 1-1001.09</cite>, <cite path="§1-1001.11">§ 1-1001.11</cite>, <cite path="§1-1001.14">§ 1-1001.14</cite>, <cite path="§1-1021.04">§ 1-1021.04</cite>, and <cite path="§1-1163.11">§ 1-1163.11</cite>.</annotation>
     <annotation type="Cross References">Political committees, statements of organization, required disclosures, see <cite path="§1-1102.04">§ 1-1102.04</cite>.</annotation>
     <annotation type="Cross References">Constitutional convention, assembly, approval or rejection of proposed constitution, election and recall of representatives elected to Congress, see <cite path="§1-123">§ 1-123</cite>.</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§1072|(d)|(1)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§1072|(d)|(2)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§1072|(d)|(3)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(m)|(1)|(A)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(m)|(1)|(B)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(m)|(2)|(B)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(m)|(2)|(A)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(m)|(3)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(m)|(4)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(m)|(5)" type="History"/>
-    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(k)" type="History"/>
-    <annotation app="2026-01-28" doc="D.C. Act 26-256" eff="2026-01-28" path="§2|(c)" type="History" display="false"/>
-    <annotation app="2026-01-28" doc="D.C. Act 26-256" eff="2026-01-28" path="§2|(c)|(1)" type="History"/>
-    <annotation app="2026-01-28" doc="D.C. Act 26-256" eff="2026-01-28" path="§2|(c)|(2)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-256" path="§2|(c)" codified:display="Note" app="2026-01-28" eff="2026-01-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-256" path="§2|(c)">§ 2(c) of Petition Administration Clarification Emergency Amendment Act of 2026 (D.C. Act 26-256, Jan. 28, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
