@@ -1,14 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Act 26-161">
+<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 26-81" codify:doc="D.C. Code">
+  <num type="law">26-81</num>
   <num type="act">26-161</num>
   <num type="bill">26-305</num>
   <heading type="short">Peace DC Omnibus Temporary Amendment Act of 2025</heading>
   <heading type="long">To amend, on a temporary basis, Title 6-A of the District of Columbia Municipal Regulations to make conforming changes; to amend the Metropolitan Police Department Application, Appointment, and Training Requirements Act of 2000 to allow applicants for sworn officers of the Metropolitan Police Department to count certain credit hours for completion of the initial training program towards the requirement that certain applicants complete 60-hours of post-secondary education at an accredited college or university; to amend section 23-581 of the District of Columbia Official Code to clarify the authority of Metropolitan Police Department warrantless arrest requirements; to amend the Act to Regulate Public Conduct on Public Passenger Vehicles to provide that the adjudication of fare evasion citations shall be pursuant to the Department of Consumer and Regulatory Affairs Civil Infractions Act of 1985; to amend Chapter 8 of Title 16 of the District of Columbia Official Code to clarify that offenses eligible in the future for automatic sealing are currently eligible for sealing by motion; to amend the Secure DC Omnibus Amendment Act of 2024 to amend the sunset date of certain provisions regarding pretrial detention; to amend the Criminal Justice Coordination Council for the District of Columbia Establishment Act of 2011 to change the deadline for certain reports; and to amend the Clemency Board Waiver Authority Temporary Amendment Act of 2025 to clarify the effective date.</heading>
   <meta>
     <introduced>2025-06-30</introduced>
-    <effective projected="true">2026-02-05</effective>
+    <effective>2026-01-29</effective>
     <temporary/>
     <citations>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/58059/Signed_Act/B26-0305-Signed_Act.pdf?Id=225580">D.C. Law 26-81</citation>
       <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/58059/Signed_Act/B26-0305-Signed_Act.pdf?Id=225580">D.C. Act 26-161</citation>
       <citation type="register">0 DCR 0</citation>
     </citations>
@@ -22,6 +24,7 @@
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Peace DC Omnibus Temporary Amendment Act of 2025".</text>
   <section>
+    <codify:marginalia display="DCMR"/>
     <num>2</num>
     <text>Section 1101 of Title 6A of the District of Columbia Municipal Regulations (6A DCMR §1101), is amended as follows:</text>
     <para>
@@ -37,27 +40,34 @@
       <text>Strike the phrase "Code §4-114 (1981)" wherever it appears and insert the phrase "Code § 5-129.02" in its place.</text>
     </para>
   </section>
-  <section>
+  <section codify:path="§5-107.01|(e)|(1)">
     <num>3</num>
     <text>Section 202(e)(1) of the Metropolitan Police Department Application, Appointment, and Training Requirements Act of 2000, effective October 4, 2000 (D.C. Law 13-160; D.C. Official Code § 5-107.01(e)(1)), is amended to read as follows:</text>
     <para>
       <num undesignated="true">(a)</num>
       <include lvl="1">
         <para>
+          <codify:replace codified:doc="D.C. Code" codified:path="§5-107.01|(e)|(1)"/>
           <num>(1)</num>
           <text>Successfully completed 60 hours of post-secondary education at an accredited college or university; except, that, if the Metropolitan Police Department enters into an agreement with an accredited college or university to award credit hours to recruits successfully completing the Department's initial training program for recruits, an applicant may satisfy up to 20 credits of the 60-credit hour requirements by earning credits through the initial training program for recruits;</text>
         </para>
       </include>
       <aftertext>.</aftertext>
     </para>
+    <codify:temporary doc="D.C. Code" path="§5-107.01" codified:doc="D.C. Code" codified:path="§5-107.01" codified:display="Note"/>
+    <codify:insert doc="D.C. Code" path="§5-107.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-107.01">
+      <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on September 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§5-107.01(Perm)">Permanent Version</cite>.*
+      </text>
+    </codify:insert>
   </section>
-  <section>
+  <section codify:path="§23-581|(a)">
     <num>4</num>
     <text>Section 23-581(a) of the District of Columbia Official Code is amended as follows:</text>
-    <para>
+    <para codify:path="(2)">
       <num>(a)</num>
       <text>Paragraph (2) is amended as follows:</text>
-      <para>
+      <para codify:path="(C)">
         <num>(1)</num>
         <text>Subparagraph (C) is amended as follows:</text>
         <para>
@@ -69,7 +79,7 @@
           <text>Strike the phrase "section 111 [D.C. Official Code, § 22-3211]" and insert the phrase "section 112 [D.C. Official Code § 22-3212(b)]" in its place.</text>
         </para>
       </para>
-      <para>
+      <para codify:path="(D)">
         <num>(2)</num>
         <text>Subparagraph (D) is amended as follows:</text>
         <para>
@@ -81,12 +91,12 @@
           <text>Strike the phrase "section 111 [D.C. Official Code, § 22-3211]" and insert the phrase "section 112(a) [D.C. Official Code § 22-3212(a)]" in its place.</text>
         </para>
       </para>
-      <para>
+      <para codify:path="(E)">
         <num>(3)</num>
         <text>Subparagraph (E) is amended by striking the phrase "Unauthorized Disposal of Solid Waste" and inserting the phrase "Unauthorized disposal of solid waste, hazardous waste, or medical waste" in its place.</text>
       </para>
     </para>
-    <para>
+    <para codify:path="(3)">
       <num>(b)</num>
       <text>Paragraph (3) is amended as follows:</text>
       <para>
@@ -106,48 +116,61 @@
         <text>Strike the phrase "section 13(e) (D.C. Official Code § 50-1403.01(e))" and insert the phrase "section 13(f) (D.C. Official Code § 50-1403.01(f))" in its place.</text>
       </para>
     </para>
+    <codify:temporary doc="D.C. Code" path="§23-581" codified:doc="D.C. Code" codified:path="§23-581" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:path="§35-254|(a)">
     <num>5</num>
     <text>Section 5(a) of the Act to Regulate Public Conduct on Public Passenger Vehicles, effective September 23, 1975 (D.C. Law 1-18; D.C. Official Code § 35-254(a)), is amended as follows:</text>
-    <para>
+    <para codify:path="(1)">
       <num>(a)</num>
       <text>Paragraph (1) is amended by striking the phrase "of this section" and inserting the phrase "and (1A) of this section" in its place.</text>
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§35-254|(a)|(1)">
+        <find>of this section</find>
+        <replace>and (1A) of this section</replace>
+      </codify:find-replace>
     </para>
-    <para>
+    <para codify:path="(2)|(A)">
       <num>(b)</num>
       <text>Paragraph (2)(A) is amended to read as follows:</text>
       <include lvl="1">
         <para>
           <num>(2)</num>
           <para>
+            <codify:replace codified:doc="D.C. Code" codified:path="§35-254|(a)|(2)|(A)"/>
             <num>(A)</num>
-            <text>Violations penalized under this subsection shall be adjudicated by the Office of Administrative Hearings in accordance with the Department of Consumer and Regulatory Affairs Civil Infractions Act of 1985, effective October 5, 1985 (D.C. Law 6-42; D.C. Official Code § 2-1801.01 <em>et seq.</em>).</text>
+            <text>Violations penalized under this subsection shall be adjudicated by the Office of Administrative Hearings in accordance with <code-cite doc="D.C. Code" path="2|18|I">the Department of Consumer and Regulatory Affairs Civil Infractions Act of 1985, effective October 5, 1985 (D.C. Law 6-42; D.C. Official Code § 2-1801.01 <em>et seq.</em>)</code-cite>.</text>
           </para>
         </para>
       </include>
       <aftertext>.</aftertext>
     </para>
+    <codify:temporary doc="D.C. Code" path="§35-254" codified:doc="D.C. Code" codified:path="§35-254" codified:display="Note"/>
+    <codify:insert doc="D.C. Code" path="§35-254" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§35-254">
+      <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on September 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§35-254(Perm)">Permanent Version</cite>.*
+      </text>
+    </codify:insert>
   </section>
   <section>
     <num>6</num>
     <text>Chapter 8 of Title 16 of the District of Columbia Official Code is amended as follows:</text>
-    <para>
+    <para codify:path="§16-805|(c)|(1)">
       <num>(a)</num>
       <text>Section 16-805(c)(1) is amended as follows:</text>
-      <para>
+      <para codify:path="(A)">
         <num>(1)</num>
         <text>Subparagraph (A) is amended by striking the phrase "prior to the effective date of the Second Chance Amendment Act of 2022, passed on 2nd reading on December 20, 2022 (Enrolled version of Bill 24-63)" and inserting the phrase "on or before September 30, 2027" in its place.</text>
       </para>
-      <para>
+      <para codify:path="(B)">
         <num>(2)</num>
         <text>Subparagraph (B) is amended by striking the phrase "the effective date of the Second Chance Amendment Act of 2022, on 2nd reading on December 20, 2022 (Enrolled version of Bill 24-63), shall be sealed" and inserting the phrase "October 1, 2027, shall be sealed by October 1, 2027, or" in its place.</text>
       </para>
+      <codify:temporary doc="D.C. Code" path="§16-805" codified:doc="D.C. Code" codified:path="§16-805" codified:display="Note"/>
     </para>
-    <para>
+    <para codify:path="§16-806">
       <num>(b)</num>
       <text>Section 16-806 is amended as follows:</text>
-      <para>
+      <para codify:path="(a)|(1)|(B)">
         <num>(1)</num>
         <text>Subsection (a)(1)(B) is amended to read as follows:</text>
         <include lvl="2">
@@ -155,27 +178,34 @@
             <num>(B)</num>
             <para>
               <num>(i)</num>
-              <text>The offense is not an offense listed in § 16-805(b) and the person cited, arrested, or charged files a written motion prior to October 1, 2027; or</text>
+              <text>The offense is not an offense listed in <cite doc="D.C. Code" path="§16-805|(b)">§ 16-805(b)</cite> and the person cited, arrested, or charged files a written motion prior to October 1, 2027; or</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>The offense is an offense listed in § 16-805(b); and</text>
+              <text>The offense is an offense listed in <cite doc="D.C. Code" path="§16-805|(b)">§ 16-805(b)</cite>; and</text>
             </para>
           </para>
         </include>
         <aftertext>.</aftertext>
       </para>
-      <para>
+      <para codify:path="(i)">
         <num>(2)</num>
         <text>Subsection (i) is amended by adding a new paragraph (7) to read as follows:</text>
         <include lvl="1">
           <para>
+            <codify:replace path="(7)" codified:doc="D.C. Code" codified:path="§16-806|(i)|(7)"/>
             <num>(7)</num>
-            <text>Notwithstanding paragraph (6) of this subsection, the dismissal of a motion under this section between March 1, 2025, and the effective date of the Peace DC Omnibus Emergency Amendment Act of 2025, effective July 14, 2025 (D.C. Act 26-109; 72 DCR 8013), shall not preclude a movant from filing and the Court from entertaining subsequent motions sooner than one year after the date on which the initial motion was resolved.</text>
+            <text>Notwithstanding paragraph (6) of this subsection, the dismissal of a motion under this section between March 1, 2025, and <span codify:value="[July 14, 2025]">the effective date of the Peace DC Omnibus Emergency Amendment Act of 2025, effective July 14, 2025 (D.C. Act 26-109; 72 DCR 8013)</span>, shall not preclude a movant from filing and the Court from entertaining subsequent motions sooner than one year after the date on which the initial motion was resolved.</text>
           </para>
         </include>
         <aftertext>.</aftertext>
       </para>
+      <codify:temporary doc="D.C. Code" path="§16-806" codified:doc="D.C. Code" codified:path="§16-806" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§16-806" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§16-806">
+        <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on September 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§16-806(Perm)">Permanent Version</cite>.*
+      </text>
+      </codify:insert>
     </para>
   </section>
   <section>
@@ -191,11 +221,17 @@
         </para>
       </include>
       <aftertext>.</aftertext>
+      <codify:insert doc="D.C. Code" path="§16-2310" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§16-2310">
+        <text>
+      *NOTE: The amendments to this section by <cite doc="D.C. Law 25-175" path="§18|(c)|(1)">section 18(c)(1) of D.C. Law 25-175</cite> shall expire on December 31, 2026.*
+      </text>
+      </codify:insert>
+      <codify:annotation history="false" path="§16-2310" type="Expiration of Law" codified:doc="D.C. Code" codified:path="§16-2310"><cite doc="D.C. Law 26-81" path="§7|(a)">Section 7(a) of D.C. Law 26-81</cite> provided that the amendments made to this section by <cite doc="D.C. Law 25-175" path="§18|(c)|(1)">Section 18(c)(1) of D.C. Law 25-175</cite> shall expire on December 31, 2026.</codify:annotation>
     </para>
     <para>
       <num>(b)</num>
       <text>Section 30 is amended as follows:</text>
-      <para>
+      <para codify:path="§23-1322|(c)|(9)">
         <num>(1)</num>
         <text>Subsection (f)(1)(H) is amended to read as follows:</text>
         <include lvl="2">
@@ -204,14 +240,21 @@
             <text>A new paragraph (9) is added to read as follows:</text>
             <include>
               <para>
+                <codify:replace codified:doc="D.C. Code" codified:path="§23-1322|(c)|(9)"/>
                 <num>(9)</num>
-                <text>Committed a crime of violence, as that term is defined in § 23-1331(4); except, that robbery where the victim does not sustain a physical injury and burglary in the second degree shall not be subject to the rebuttable presumption of detention under this subsection.</text>
+                <text>Committed a crime of violence, as that term is defined in <cite doc="D.C. Code" path="§23-1331|(4)">§ 23-1331(4)</cite>; except, that robbery where the victim does not sustain a physical injury and burglary in the second degree shall not be subject to the rebuttable presumption of detention under this subsection.</text>
               </para>
             </include>
             <aftertext>.</aftertext>
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:temporary doc="D.C. Code" path="§23-1322" codified:doc="D.C. Code" codified:path="§23-1322" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§23-1322" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§23-1322">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on September 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§23-1322(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
       <para>
         <num>(2)</num>
@@ -223,22 +266,45 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:insert doc="D.C. Code" path="§23-1322" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§23-1322">
+          <text>
+      *NOTE: The amendments to this section by <cite doc="D.C. Law 25-175" path="§30|(k)">section 30(k) of D.C. Law 25-175</cite> shall expire on December 31, 2026.*
+      </text>
+        </codify:insert>
+        <codify:insert doc="D.C. Code" path="§23-1325" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§23-1325">
+          <text>
+      *NOTE: The amendments to this section by <cite doc="D.C. Law 25-175" path="§30|(k)">section 30(k) of D.C. Law 25-175</cite> shall expire on December 31, 2026.*
+      </text>
+        </codify:insert>
+        <codify:insert doc="D.C. Code" path="§23-1331" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§23-1331">
+          <text>
+      *NOTE: The amendments to this section by <cite doc="D.C. Law 25-175" path="§30|(k)">section 30(k) of D.C. Law 25-175</cite> shall expire on December 31, 2026.*
+      </text>
+        </codify:insert>
+        <codify:annotation doc="D.C. Code" path="§23-1322" type="Expiration of Law" history="false" codified:doc="D.C. Code" codified:path="§23-1322"><cite doc="D.C. Law 26-81" path="§7|(b)|(2)"> Section 7(b)(2) of D.C. Law 26-81</cite> provided that the amendments made to this section by § 30(f) of D.C. Law 25-175 shall expire on December 31, 2026.
+      </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§23-1325" type="Expiration of Law" history="false" codified:doc="D.C. Code" codified:path="§23-1325"><cite doc="D.C. Law 26-81" path="§7|(b)|(2)"> Section 7(b)(2) of D.C. Law 26-81</cite> provided that the amendments made to this section by § 30(g) of D.C. Law 25-175 shall expire on December 31, 2026.
+      </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§23-1331" type="Expiration of Law" history="false" codified:doc="D.C. Code" codified:path="§23-1331"><cite doc="D.C. Law 26-81" path="§7|(b)|(2)"> Section 7(b)(2) of D.C. Law 26-81</cite> provided that the amendments made to this section by § 30(h) of D.C. Law 25-175 shall expire on December 31, 2026.
+      </codify:annotation>
       </para>
     </para>
   </section>
-  <section>
+  <section codify:path="§22-4234">
     <num>8</num>
     <text>Section 1505 of the Criminal Justice Coordinating Council for the District of Columbia Establishment Act of 2001, effective October 3, 2001 (D.C. Law 14-28; D.C. Official Code § 22-4234), is amended as follows:</text>
-    <para>
+    <para codify:path="(b-9)">
       <num>(a)</num>
       <text>Subsection (b-9) is amended by striking the phrase "May 7, 2025" and inserting the phrase "September 30, 2026" in its place.</text>
     </para>
-    <para>
+    <para codify:path="(b-10)">
       <num>(b)</num>
       <text>Subsection (b-10) is amended by striking the phrase "May 7, 2025" and inserting the phrase "September 30, 2026" in its place.</text>
     </para>
+    <codify:temporary doc="D.C. Code" path="§22-4234" codified:doc="D.C. Code" codified:path="§22-4234" codified:display="Note"/>
   </section>
   <section>
+    <codify:marginalia display="Effective Date Amended"/>
     <num>9</num>
     <text>Section 4(a) of the Clemency Board Waiver Authority Temporary Amendment Act of 2025, effective July 24, 2025 (D.C. Law 26-21; 72 DCR 4888), is amended to read as follows:</text>
     <include>
