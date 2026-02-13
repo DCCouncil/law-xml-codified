@@ -2,12 +2,12 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-2805</num>
   <text>
-      *NOTE: This section was created by emergency legislation that will expire on February 22, 2026.*
+      *NOTE: This section was created by emergency legislation that will expire on September 25, 2026.*
       </text>
   <heading proof="needed">Net zero energy requirements for subsidized projects.</heading>
   <para>
     <num>(a)</num>
-    <text>Any request, excluding substantial rehabilitation as that term is defined in <cite path="§42-3501.03|(34)">§ 42-3501.03(34)</cite>, for housing proposals involving the Fund shall include a requirement that proposals for new construction receiving Fund support must be designed with the intent to obtain Enterprise Green Communities Certification Plus, as defined in the EGCC, or an equivalent standard as determined by the Department in consultation with the Department of Buildings.</text>
+    <text>Any request, excluding substantial rehabilitation as that term is defined in <cite path="§42-3501.03|(34)">§ 42-3501.03(34)</cite>, for housing proposals involving the Fund shall include a requirement that proposals for new construction receiving Fund support must be designed with the intent to obtain Enterprise Green Communities Certification Plus, as defined in the EGCC or an equivalent standard as determined by the Department in consultation with the Department of Buildings.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -33,18 +33,20 @@
       <text>"EGCC" means the current Enterprise Green Communities Criteria issued by Enterprise Community Partners.</text>
     </para>
   </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§42-2804" expire="2025-11-24" codified:display="Note">For temporary (90 days) creation of § 42-2805, see <cite doc="D.C. Act 26-207" path="§2|includes|6">§ 6 of Green Housing Coordination Emergency Amendment Act of 2025 (D.C. Act 26-207, Nov. 24, 2025, 72 DCR 13506)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§42-2805" applicability="2025-11-24" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-2805">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-207" path="§2|includes|6">§ 6 of Green Housing Coordination Emergency Amendment Act of 2025 (D.C. Act 26-207, Nov. 24, 2025, 72 DCR 13506)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§42-2804" expire="2026-02-12" codified:display="Note">For temporary (90 days) creation of § 42-2805, see <cite doc="D.C. Law 26-90" path="§2|includes|6">§ 6 of Green Housing Coordination Temporary Amendment Act of 2025 (D.C. Law 26-90, Feb. 12, 2026, 73 DCR 3)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§42-2805" applicability="2026-02-12" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-2805">For temporary (90 days) creation of this section, see <cite doc="D.C. Law 26-90" path="§2|includes|6">§ 6 of Green Housing Coordination Temporary Amendment Act of 2025 (D.C. Law 26-90, Feb. 12, 2026, 73 DCR 3)</cite>.</codify:annotation>
   <codify:insert doc="D.C. Code" path="§42-2805" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-2805">
     <text>
-      *NOTE: This section was created by emergency legislation that will expire on February 22, 2026.*
+      *NOTE: This section was created by emergency legislation that will expire on September 25, 2026.*
       </text>
   </codify:insert>
   <annotations>
     <annotation doc="D.C. Law 7-202" type="History" path="§6" display="false">Mar. 16, 1989, D.C. Law 7-202, § 6</annotation>
     <annotation doc="D.C. Law 7-202" type="History" path="§6">Mar. 16, 1989, D.C. Law 7-202, § 6</annotation>
-    <annotation app="2025-11-24" doc="D.C. Act 26-207" eff="2025-11-24" path="§2" type="History" display="false"/>
-    <annotation app="2025-11-24" doc="D.C. Act 26-207" eff="2025-11-24" path="§2" prefix="as added" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-207" path="§2" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-207" path="§2|includes|6">§ 6 of Green Housing Coordination Emergency Amendment Act of 2025 (D.C. Act 26-207, Nov. 24, 2025, 72 DCR 13506)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-207" path="§2" codified:display="Note" app="2026-02-12" eff="2025-11-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-207" path="§2|includes|6">§ 6 of Green Housing Coordination Emergency Amendment Act of 2025 (D.C. Act 26-207, Nov. 24, 2025, 72 DCR 13506)</cite>.</annotation>
+    <annotation app="2026-02-12" doc="D.C. Act 26-207" eff="2025-11-24" path="§2" type="History" display="false"/>
+    <annotation app="2026-02-12" doc="D.C. Law 26-90" eff="2026-02-12" path="§2" type="History" display="false"/>
+    <annotation app="2026-02-12" doc="D.C. Law 26-90" eff="2026-02-12" path="§2" prefix="as added" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Law 26-90" path="§2" codified:display="Note" app="2026-02-12" eff="2026-02-12">For temporary (90 days) creation of this section, see <cite doc="D.C. Law 26-90" path="§2|includes|6">§ 6 of Green Housing Coordination Temporary Amendment Act of 2025 (D.C. Law 26-90, Feb. 12, 2026, 73 DCR 3)</cite>.</annotation>
   </annotations>
 </section>

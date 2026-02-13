@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-1801.04</num>
   <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on March 3, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-1801.04(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by temporary legislation that will expire on September 25, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-1801.04(Perm)">Permanent Version</cite>.*
       </text>
   <heading>General definitions.</heading>
   <text>For the purposes of this chapter, unless otherwise required by the context, the term:</text>
@@ -58,7 +58,7 @@
     </para>
     <para>
       <num>(B)</num>
-      <text>For purposes of this paragraph, the term "cost-of-living adjustment" shall have the same meaning as set forth in paragraph (11) of this section; except, that, the term "base year" shall mean the calendar year beginning January 1, 2025, or the calendar year beginning one calendar year before the calendar year in which the new dollar amount of the basic standard deduction shall become effective, whichever is later.</text>
+      <text>For purposes of this paragraph, the term "cost-of-living adjustment" shall have the same meaning as set forth in paragraph (11) of this section; except, that the term "base year" shall mean the calendar year beginning January 1, 2025, or the calendar year beginning one calendar year before the calendar year in which the new dollar amount of the basic standard deduction shall become effective, whichever is later.</text>
     </para>
   </para>
   <para>
@@ -806,19 +806,21 @@
     <annotation app="notfunded" doc="D.C. Law 24-332" eff="2023-03-22" path="§7|(a)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-332" path="§7|(a)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-332" path="">D.C. Law 24-332</cite>: <cite doc="D.C. Law 24-332" path="§9">§ 9 of D.C. Law 24-332</cite> provided that the creation of this section by <cite doc="D.C. Law 24-332" path="§7|(a)">§ 7(a) of D.C. Law 24-332</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§7|(a)" type="History"/>
-    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(b)|(1)" type="History"/>
-    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(b)|(2)" type="History"/>
-    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(b)|(3)|(A)|(i)" type="History"/>
-    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(b)|(3)|(A)|(ii)" type="History"/>
-    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(b)|(3)|(A)|(iii)" type="History"/>
-    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(b)|(3)|(B)|(i)" type="History"/>
-    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(b)|(3)|(B)|(ii)" type="History"/>
-    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(b)|(3)|(B)|(iii)" type="History"/>
-    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(b)|(3)|(C)|(ii)" type="History"/>
-    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(b)|(3)|(C)|(iii)" type="History"/>
-    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(b)|(3)|(C)|(iv)" type="History"/>
-    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(b)|(3)|(C)|(i)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-214" path="§2|(b)" codified:display="Note" app="2025-12-03" eff="2025-12-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-214" path="§2|(b)">§ 2(b) of D.C. Income and Franchise Tax Conformity and Revision Emergency Amendment Act of 2025 (D.C. Act 26-214, Dec. 3, 2025, 72 DCR 13684)</cite>.</annotation>
+    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2026-02-12" doc="D.C. Law 26-89" eff="2026-02-12" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2026-02-12" doc="D.C. Law 26-89" eff="2026-02-12" path="§2|(b)|(1)" type="History"/>
+    <annotation app="2026-02-12" doc="D.C. Law 26-89" eff="2026-02-12" path="§2|(b)|(2)" type="History"/>
+    <annotation app="2026-02-12" doc="D.C. Law 26-89" eff="2026-02-12" path="§2|(b)|(3)|(A)|(i)" type="History"/>
+    <annotation app="2026-02-12" doc="D.C. Law 26-89" eff="2026-02-12" path="§2|(b)|(3)|(A)|(ii)" type="History"/>
+    <annotation app="2026-02-12" doc="D.C. Law 26-89" eff="2026-02-12" path="§2|(b)|(3)|(A)|(iii)" type="History"/>
+    <annotation app="2026-02-12" doc="D.C. Law 26-89" eff="2026-02-12" path="§2|(b)|(3)|(B)|(i)" type="History"/>
+    <annotation app="2026-02-12" doc="D.C. Law 26-89" eff="2026-02-12" path="§2|(b)|(3)|(B)|(ii)" type="History"/>
+    <annotation app="2026-02-12" doc="D.C. Law 26-89" eff="2026-02-12" path="§2|(b)|(3)|(B)|(iii)" type="History"/>
+    <annotation app="2026-02-12" doc="D.C. Law 26-89" eff="2026-02-12" path="§2|(b)|(3)|(C)|(ii)" type="History"/>
+    <annotation app="2026-02-12" doc="D.C. Law 26-89" eff="2026-02-12" path="§2|(b)|(3)|(C)|(iii)" type="History"/>
+    <annotation app="2026-02-12" doc="D.C. Law 26-89" eff="2026-02-12" path="§2|(b)|(3)|(C)|(iv)" type="History"/>
+    <annotation app="2026-02-12" doc="D.C. Law 26-89" eff="2026-02-12" path="§2|(b)|(3)|(C)|(i)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-89" path="§2|(b)" codified:display="Note" app="2026-02-12" eff="2026-02-12">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-89" path="§2|(b)">§ 2(b) of D.C. Income and Franchise Tax Conformity and Revision Temporary Amendment Act of 2025 (D.C. Law 26-89, Feb. 12, 2026, 73 DCR 9)</cite>.</annotation>
   </annotations>
 </section>

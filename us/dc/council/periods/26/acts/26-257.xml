@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Act 26-178" codify:doc="D.C. Code">
-  <num type="act">26-178</num>
-  <num type="bill">26-459</num>
-  <heading type="short">Juvenile Curfew Second Emergency Amendment Act of 2025</heading>
-  <heading type="long">To amend, on an emergency basis, the Juvenile Curfew Act of 1995 to authorize the Mayor to extend the juvenile curfew hours in the District when appropriate to protect public safety or public or private property, to authorize the Chief of Police to establish extended juvenile curfew hour zones in specified circumstances, to start the juvenile curfew hours at 11 p.m. every day, and to extend the applicability of the juvenile curfew to 17-year olds; and to amend the Volunteer Services Clarification Temporary Amendment Act of 2025 to make conforming changes.</heading>
+<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Act 26-257" codify:doc="D.C. Code">
+  <num type="act">26-257</num>
+  <num type="bill">26-587</num>
+  <heading type="short">Juvenile Curfew Congressional Review Emergency Amendment Act of 2026</heading>
+  <heading type="long">To amend, on an emergency basis, due to congressional review, the Juvenile Curfew Act of 1995 to authorize the Mayor to extend the juvenile curfew hours in the District when appropriate to protect public safety or public or private property, to authorize the Chief of Police to establish extended juvenile curfew hour zones in specified circumstances, to start the juvenile curfew hours at 11 p.m. every day, and to extend the applicability of the juvenile curfew to 17-year olds; and to amend the Volunteer Services Clarification Temporary Amendment Act of 2025 to make conforming changes.</heading>
   <meta>
-    <introduced>2025-11-03</introduced>
-    <effective>2025-11-07</effective>
+    <introduced>2026-02-02</introduced>
+    <effective>2026-02-11</effective>
     <citations>
-      <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/60660/Signed_Act/B26-0459-Signed_Act.pdf?Id=226712">D.C. Act 26-178</citation>
-      <citation type="register">72 DCR 12678</citation>
+      <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/61160/Signed_Act/B26-0587-Signed_Act.pdf?Id=232179">D.C. Act 26-257</citation>
+      <citation type="register">0 DCR 0</citation>
     </citations>
-    <history url="https://lims.dccouncil.gov/Legislation/B26-0459">
-      <vote date="2025-11-04" reading="Final"/>
-      <enacted>2025-11-07</enacted>
+    <history url="https://lims.dccouncil.gov/Legislation/B26-0587">
+      <vote date="2026-02-03" reading="Final"/>
+      <enacted>2026-02-11</enacted>
       <summary/>
       <committee>Retained by the Council</committee>
     </history>
   </meta>
-  <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Juvenile Curfew Second Emergency Amendment Act of 2025".</text>
+  <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Juvenile Curfew Congressional Review Emergency Amendment Act of 2026".</text>
   <section>
     <num>2</num>
     <text>The Juvenile Curfew Act of 1995, effective September 20, 1995 (D.C. Law 11-48; D.C. Official Code § 2-1541 <em>et seq.</em>), is amended as follows:</text>
-    <para codify:path="§2-1542">
+    <para>
       <num>(a)</num>
       <text>Section 3 (D.C. Official Code § 2-1542) is amended as follows:</text>
-      <para codify:path="(1)">
+      <para>
         <num>(1)</num>
         <text>Paragraph (1) is amended to read as follows:</text>
         <include lvl="1">
@@ -49,17 +49,17 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>Extended curfew hours established by the Mayor pursuant to <code-cite doc="D.C. Code" path="§2-1542.01">section 3a</code-cite>; and</text>
+              <text>Extended curfew hours established by the Mayor pursuant to section 3a; and</text>
             </para>
             <para>
               <num>(C)</num>
-              <text>Extended curfew hours in extended juvenile curfew zones established by the Chief of Police pursuant to <code-cite doc="D.C. Code" path="§2-1542.02">section 3b</code-cite>.</text>
+              <text>Extended curfew hours in extended juvenile curfew zones established by the Chief of Police pursuant to section 3b.</text>
             </para>
           </para>
         </include>
         <aftertext>.</aftertext>
       </para>
-      <para codify:path="(5)">
+      <para>
         <num>(3)</num>
         <text>Paragraph (5) is amended by striking the phrase "under the age of 17 years" and inserting the phrase "under the age of 18 years" in its place.</text>
       </para>
@@ -85,7 +85,7 @@
           <heading proof="needed">Temporary extensions of juvenile curfew hours.</heading>
           <para>
             <num>(a)</num>
-            <text>The Mayor may, by issuance of an administrative order pursuant to <code-cite doc="D.C. Code" path="§1-204.22|(11)">section 422(11) of the District of Columbia Home Rule Act, effective December 24, 1973 (87 Stat. 790; D.C. Official Code § 1-204.22(11)</code-cite>, extend the juvenile curfew hours in the District, or any part of the District, beyond the hours established in <code-cite doc="D.C. Code" path="§2-1542|(1A)|(A)">section 3(1A)(A)</code-cite>, <cite doc="D.C. Code" path="§2-1542|(1A)|(B)">(B)</cite>, and <cite doc="D.C. Code" path="§2-1542|(1A)|(C)">(C)</cite>, if the Mayor determines that such an extension is appropriate to protect public safety or public or private property.</text>
+            <text>The Mayor may, by issuance of an administrative order pursuant to section 422(11) of the District of Columbia Home Rule Act, effective December 24, 1973 (87 Stat. 790; D.C. Official Code § 1-204.22(11)), extend the juvenile curfew hours in the District, or any part of the District, beyond the hours established in section 3(1A)(A), (B), and (C), if the Mayor determines that such an extension is appropriate to protect public safety or public or private property.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -125,7 +125,7 @@
           </para>
           <para>
             <num>(e)</num>
-            <text>The Mayor may extend the time period during which extended juvenile curfew hours imposed by this section shall remain in effect by issuing subsequent Mayor's orders extending the time period; provided, that each such extension of the time period shall not exceed 30 days.</text>
+            <text>The Mayor may extend the duration of the designation of an extended juvenile curfew hours zone to 30 days by issuing a subsequent order extending the duration of the designation.</text>
           </para>
           <para>
             <num>(f)</num>
@@ -151,7 +151,6 @@
               <text>Capture on body-worn camera each component of the order to return home described in paragraph (1) of this subsection.</text>
             </para>
           </para>
-          <annotation doc="D.C. Law 11-48" type="History" path="§3a">Sept. 20, 1995, D.C. Law 11-48, § 3a</annotation>
           <codify:emergency-new-sec doc="D.C. Code" path="§2-1542.01" interim-path="§2-1542" perm-eff="2026-02-12" codified:doc="D.C. Code" codified:path="§2-1542.01" codified:display="Note"/>
         </section>
         <section>
@@ -201,15 +200,15 @@
               </para>
               <para>
                 <num>(B)</num>
-                <text>Police reports of disturbances of the public peace described in <code-cite doc="D.C. Code" path="§22-1301">section 1 of An Act To confer concurrent jurisdiction on the police court of the District of Columbia in certain cases, approved July 16, 1912 (37 Stat. 192; D.C. Official Code § 22-1301)</code-cite>, <span codify:value="§§">sections</span> <cite doc="D.C. Code" path="§22-1307" codify:value="22-1307">6</cite>, <cite doc="D.C. Code" path="§22-1309" codify:value="22-1309">3</cite>, <cite doc="D.C. Code" path="§22-1312" codify:value="22-1312">9</cite>, or <cite doc="D.C. Code" path="§22-1318" codify:value="22-1318">16 of An act for the preservation of the public peace and the protection of property within the District of Columbia, approved July 29, 1892 (27 Stat. 323; D.C. Official Code §§ 22-1307,  22-1309, 22-1312, or 22-1318)</cite>, <code-cite doc="D.C. Code" path="§22-1321">section 211 of the District of Columbia Law Enforcement Act of 1953, approved June 29, 1953 (67 Stat. 98; D.C. Official Code § 22-1321)</code-cite>, or <code-cite doc="D.C. Code" path="§22-1322">section 901 of An Act relating to crime and criminal procedure in the District of Columbia, approved December 27, 1967 (81 Stat. 742; D.C. Official Code § 22-1322)</code-cite>, in the proposed extended juvenile curfew hours zone;</text>
+                <text>Police reports of disturbances of the public peace described in section 1 of An Act To confer concurrent jurisdiction on the police court of the District of Columbia in certain cases, approved July 16, 1912 (37 Stat. 192; D.C. Official Code § 22-1301), sections 6, 3,9, or 16 of An act for the preservation of the public peace and the protection of property within the District of Columbia, approved July 29, 1892 (27 Stat. 323; D.C. Official Code §§ 22-1307, 22-1309, 22-1312, or 22-1318), section 211 of the District of Columbia Law Enforcement Act of 1953, approved June 29, 1953 (67 Stat. 98; D.C. Official Code § 22-1321), or section 901 of An Act relating to crime and criminal procedure in the District of Columbia, approved December 27, 1967 (81 Stat. 742; D.C. Official Code § 22-1322), in the proposed extended juvenile curfew hours zone;</text>
               </para>
               <para>
                 <num>(C)</num>
-                <text>Police reports of dangerous crimes, as that term is defined in <code-cite doc="D.C. Code" path="§23-1331|(3)">D.C. Official Code § 23-1331(3)</code-cite>, in the proposed extended juvenile curfew hours zone;</text>
+                <text>Police reports of dangerous crimes, as that term is defined in D.C. Official Code § 23-1331(3), in the proposed extended juvenile curfew hours zone;</text>
               </para>
               <para>
                 <num>(D)</num>
-                <text>Police reports of crimes of violence, as that term is defined in <code-cite doc="D.C. Code" path="§23-1331|(4)">D.C. Official Code § 23-1331(4)</code-cite>, in the proposed extended juvenile curfew hours zone; or</text>
+                <text>Police reports of crimes of violence, as that term is defined in D.C. Official Code § 23-1331(4), in the proposed extended juvenile curfew hours zone; or</text>
               </para>
               <para>
                 <num>(E)</num>
@@ -292,8 +291,7 @@
               <text>Consideration of a petition submitted under this section, and the determination of whether to designate an extended juvenile curfew hours zone in response to the petition, shall be at the sole discretion of the Chief of Police.</text>
             </para>
           </para>
-          <annotation doc="D.C. Law 11-48" type="History" path="§3b">Sept. 20, 1995, D.C. Law 11-48, § 3b</annotation>
-          <codify:emergency-new-sec doc="D.C. Code" path="§2-1542.02" interim-path="§2-1542" perm-eff="2026-02-12" codified:doc="D.C. Code" codified:path="§2-1542.02" codified:display="Note"/>
+          <codify:temporary-new-sec doc="D.C. Code" path="§2-1542.02" interim-path="§2-1542" perm-eff="2026-02-12" codified:doc="D.C. Code" codified:path="§2-1542.02" codified:display="Note"/>
         </section>
       </include>
       <aftertext>.</aftertext>
@@ -301,35 +299,71 @@
   </section>
   <section>
     <num>3</num>
-    <text>Amendatory section 3(1A) within section 3(a)(2) of the Volunteer Services Temporary Amendment Act of 2025, enacted on October 24, 2025 (D.C. Act 26-175; __ DCR ___), is amended to read as follows:</text>
-    <include lvl="1">
+    <text>The Volunteer Services Temporary Amendment Act of 2025, effective December 18, 2025 (D.C. Law 26-61; 72 DCR 175), is amended as follows:</text>
+    <para>
+      <num>(a)</num>
+      <text>Section 3 is amended as follows:</text>
       <para>
-        <num>(1A)</num>
-        <text>"Curfew hours" means:</text>
-        <para>
-          <num>(A)</num>
-          <text>From 11:00 p.m. every day until 6:00 a.m. on the following day;</text>
-        </para>
-        <para>
-          <num>(B)</num>
-          <text>Extended curfew hours established by the Mayor pursuant to section 3a; and</text>
-        </para>
-        <para>
-          <num>(C)</num>
-          <text>Extended curfew hours in extended juvenile curfew zones established by the Chief of Police pursuant to section 3b.</text>
-        </para>
+        <num>(1)</num>
+        <text>Amendatory section 3(1A) within subsection (a)(2) is amended to read as follows:</text>
+        <include lvl="1">
+          <para>
+            <num>(1A)</num>
+            <text>"Curfew hours" means:</text>
+            <para>
+              <num>(A)</num>
+              <text>From 11:00 p.m. every day until 6:00 a.m. on the following day;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Extended curfew hours established by the Mayor pursuant to section 3a; and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Extended curfew hours in extended juvenile curfew zones established by the Chief of Police pursuant to section 3b.</text>
+            </para>
+          </para>
+        </include>
+        <aftertext>.</aftertext>
       </para>
-    </include>
-    <aftertext>.</aftertext>
+      <para>
+        <num>(2)</num>
+        <text>Amendatory section 3a(e) within subsection (b) is amended to read as follows:</text>
+        <include>
+          <para>
+            <num>(e)</num>
+            <text>The Mayor may extend the duration of the designation of an extended juvenile curfew hours zone to 30 days by issuing a subsequent order extending the duration of the designation.</text>
+          </para>
+        </include>
+        <aftertext>.</aftertext>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A new section 3a is added to read as follows:</text>
+      <include>
+        <section>
+          <num>3a</num>
+          <heading proof="needed">Sunset.</heading>
+          <text>This act shall expire as of April 15, 2026.</text>
+        </section>
+      </include>
+      <aftertext>.</aftertext>
+    </para>
   </section>
   <section>
     <num>4</num>
+    <heading proof="needed">Sunset.</heading>
+    <text>Section 2 shall expire as of April 15, 2026.</text>
+  </section>
+  <section>
+    <num>5</num>
     <heading proof="needed">Fiscal impact statement.</heading>
     <text>The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact statement required by section 4a of the General Legislative Procedures Act of 1975, approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).</text>
   </section>
   <section>
-    <num>5</num>
+    <num>6</num>
     <heading proof="needed">Effective date.</heading>
-    <text>This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto) and shall remain in effect for no longer than 90 days, as provided for emergency acts of the Council of the District of Columbia in section 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-204.12(a)).</text>
+    <text>This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto), and shall remain in effect for no longer than 90 days, as provided for emergency acts of the Council of the District of Columbia in section 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788; D.C. Official Code § 1-204.12(a)).</text>
   </section>
 </document>

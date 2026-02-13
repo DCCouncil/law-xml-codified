@@ -3,7 +3,7 @@
   <prefix>§</prefix>
   <num>47-1806.17</num>
   <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on March 3, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-1806.17(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by temporary legislation that will expire on September 25, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-1806.17(Perm)">Permanent Version</cite>.*
       </text>
   <heading proof="needed">Child tax credit.</heading>
   <para>
@@ -109,10 +109,10 @@
       </para>
     </para>
   </para>
-  <codify:emergency doc="D.C. Code" path="§47-1806.17" codified:doc="D.C. Code" codified:path="§47-1806.17" codified:display="Note"/>
+  <codify:temporary doc="D.C. Code" path="§47-1806.17" codified:doc="D.C. Code" codified:path="§47-1806.17" codified:display="Note"/>
   <codify:insert doc="D.C. Code" path="§47-1806.17" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-1806.17">
     <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on March 3, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-1806.17(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by temporary legislation that will expire on September 25, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-1806.17(Perm)">Permanent Version</cite>.*
       </text>
   </codify:insert>
   <annotations>
@@ -123,8 +123,10 @@
     <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7062" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§7062" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§7062">§ 7062 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
     <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7062" type="History" display="false"/>
-    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(j)" type="History" display="false"/>
-    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(j)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-214" path="§2|(j)" codified:display="Note" app="2025-12-03" eff="2025-12-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-214" path="§2|(j)|includes|47-1806.17">§ 47-1806.17 of D.C. Income and Franchise Tax Conformity and Revision Emergency Amendment Act of 2025 (D.C. Act 26-214, Dec. 3, 2025, 72 DCR 13684)</cite>.</annotation>
+    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(j)" type="History" display="false"/>
+    <annotation app="2026-02-12" doc="D.C. Law 26-89" eff="2026-02-12" path="§2|(j)" type="History" display="false"/>
+    <annotation app="2026-02-12" doc="D.C. Law 26-89" eff="2026-02-12" path="§2|(j)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-89" path="§2|(j)" codified:display="Note" app="2026-02-12" eff="2026-02-12">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-89" path="§2|(j)|includes|47-1806.17">§ 47-1806.17 of D.C. Income and Franchise Tax Conformity and Revision Temporary Amendment Act of 2025 (D.C. Law 26-89, Feb. 12, 2026, 73 DCR 9)</cite>.</annotation>
   </annotations>
 </section>
