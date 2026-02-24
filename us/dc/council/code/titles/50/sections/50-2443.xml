@@ -1,15 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-2443</num>
   <heading proof="needed">License plate recognition systems; usage and privacy.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>Within one year after the applicability date of this section, the Mayor shall issue rules to:</text>
+    <para>
+      <num>(1)</num>
+      <text>Ensure that all District agencies equipped with LPRS for enforcement of parking or moving violations utilize the same database of information;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Maximize the ability of District agencies equipped with LPRS to transmit information to the Department that may assist in identifying the location of immobilization-eligible vehicles;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Maintain reasonable security procedures and practices, including operational, administrative, technical, and physical safeguards to protect LPRS information from unauthorized access, destruction, use, modification, or disclosure; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Implement a usage and privacy policy in order to ensure that the collection, use, maintenance, sharing, and dissemination of LPRS information is consistent with respect to individuals' privacy and civil liberties.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 25-325" path="§113" codified:display="Note" codified:doc="D.C. Code" codified:path="§50-2443">Applicability of <cite doc="D.C. Law 25-325" path="">D.C. Law 25-325</cite>: <cite doc="D.C. Law 25-325" path="§401">§ 401 of D.C. Law 25-325</cite> provided that the creation of this section by <cite doc="D.C. Law 25-325" path="§113">§ 113 of D.C. Law 25-325</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="" type="History" display="false"/>
     <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="I|B" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 25-325" path="§113" codified:display="Note" app="2025-05-02" eff="2025-05-02">Applicability of <cite doc="D.C. Law 25-325" path="">D.C. Law 25-325</cite>: <cite doc="D.C. Law 25-325" path="§401">§ 401 of D.C. Law 25-325</cite> provided that the creation of this section by <cite doc="D.C. Law 25-325" path="§113">§ 113 of D.C. Law 25-325</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="§113" type="History"/>
-    <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="§401|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-325" eff="2025-05-02" path="§113" type="History"/>
+    <annotation doc="D.C. Act 26-261" path="§2" type="Applicability" history="false" app="2026-02-13" eff="2026-02-13"><cite doc="D.C. Act 26-261" path="§2">Section 2 of D.C. Act 26-261</cite> amended the applicability provision of <cite doc="D.C. Law 25-325" path="§113">section 113 of D.C. Law 25-325</cite> that impacted this section.  Therefore the creation of this section by §113 of Law 25-325 has been implemented.
+        </annotation>
+    <annotation app="2026-02-13" doc="D.C. Act 26-261" eff="2026-02-13" path="§2" type="History" display="false"/>
   </annotations>
 </section>
