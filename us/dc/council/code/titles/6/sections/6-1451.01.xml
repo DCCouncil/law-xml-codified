@@ -1,11 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>6-1451.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 4, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§6-1451.01(Perm)">Past Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <para>
     <num>(1)</num>
-    <text>“Addition” has the same meaning as in <cite path="§6-1410|(a)|(1)" proof="true">§ 6-1410(a)(1)</cite>.</text>
+    <text>"Addition" shall have the meaning ascribed to it in the Building Codes.</text>
   </para>
   <para>
     <num>(2)</num>
@@ -13,11 +16,19 @@
   </para>
   <para>
     <num>(2A)</num>
+    <text>"Aquatic center" means a structure intended for swimming or recreational bathing that contains water over 24 inches deep and includes the pool, decks, surrounding structure, locker rooms, electrical and mechanical rooms, and IT controls that support the pool.</text>
+  </para>
+  <para>
+    <num>(2B)</num>
     <text>“Bond” means a financial instrument posted by an applicant, the proceeds of which shall be paid to the District in its entirety or in part, and deposited in the Green Building Fund, if the project fails to meet the standards required by §§ <cite path="§6-1451.03">6-1451.03</cite> and <cite path="§6-1451.06">6-1451.06</cite>.</text>
   </para>
   <para>
     <num>(3)</num>
     <text>“Building” means any structure used or intended for supporting or sheltering any use or occupancy.</text>
+  </para>
+  <para>
+    <num>(3A)</num>
+    <text>"Building Codes" means the portions of the Construction Codes designated as the Building Code and the Existing Building Code.</text>
   </para>
   <para>
     <num>(4)</num>
@@ -37,15 +48,15 @@
   </para>
   <para>
     <num>(6)</num>
-    <text>“Construction Codes” means the standards and requirements adopted pursuant to <cite path="6|14">Chapter 14 of this title</cite>.</text>
+    <text>"Construction Codes" shall have the same meaning as in section 2(2) of the Construction Codes Approval and Amendments Act of 1986, effective March 21, 1987 (D.C. Law 6-216; D.C. Official Code § 6-1401(2)).</text>
   </para>
   <para>
     <num>(7)</num>
-    <text>“Construction documents” has the same meaning as in <cite path="§6-1405.02|(a)|(1)">§ 6-1405.02(a)(1)</cite>.</text>
+    <text>"Construction documents" shall have the meaning ascribed to it in the Building Codes.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(8)</num>
-    <text>“Construction permit application” has the same meaning as in <cite path="§6-1410|(a)|(4)" proof="true">§ 6-1410(a)(4)</cite>.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(8A)</num>
@@ -105,7 +116,7 @@
   </para>
   <para>
     <num>(14)</num>
-    <text>“Existing building” has the same meaning as in <cite path="§6-1410|(a)|(8)" proof="true">§ 6-1410(a)(8)</cite>.</text>
+    <text>"Existing building" shall have the meaning ascribed to it in the Building Codes.</text>
   </para>
   <para>
     <num>(14A)</num>
@@ -141,7 +152,7 @@
   </para>
   <para>
     <num>(22)</num>
-    <text>“Gross floor area” has the same definition as found in section 199.1 of Title 11 of the District of Columbia Municipal Regulations (11 DCMR § 199.1).</text>
+    <text>"Gross floor area" shall have the meaning ascribed to it in the Building Codes.</text>
   </para>
   <para>
     <num>(23)</num>
@@ -184,6 +195,10 @@
     <text>“LEED standard for commercial and institutional buildings” means the green building rating system designed by the USGBC for Core &amp; Shell, New Construction, Schools, and Retail: New Construction &amp; Major Renovations.</text>
   </para>
   <para>
+    <num>(31B)</num>
+    <text>"Level 3 alteration" shall have the meaning ascribed to it in the Building Codes.</text>
+  </para>
+  <para>
     <num>(32)</num>
     <text>“Maintenance accountability method” means a system for maintaining building performance standards, including annual building performance reporting that publicly compares actual energy consumption to benchmarks using the ENERGY STAR Portfolio Manager tool for all building types for which it is available; the description of changes to operations and maintenance arrangements and procedures for major energy-consuming equipment; the maintenance of manuals, manufacturer’s literature, model numbers, methods of operation, and maintenance practices for installed building systems; the records of metering systems and mechanisms for the monitoring and control of energy consumption; and the collection of complete “as-built” drawing sets and information on best practices for building maintenance, housekeeping, pest management, and mold prevention.</text>
   </para>
@@ -194,6 +209,10 @@
   <para>
     <num>(32B)</num>
     <text>"Multi-unit building" means a residential building with 5 or more dwelling units.</text>
+  </para>
+  <para>
+    <num>(32C)</num>
+    <text>"Natatorium" means a building or complex housing one or more indoor pools featuring HVAC and humidity controls to manage the environment.</text>
   </para>
   <para>
     <num>(33)</num>
@@ -237,7 +256,15 @@
   </para>
   <para>
     <num>(40A)</num>
-    <text>"Temporary structure" means trailers and modular spaces.</text>
+    <text>"Temporary building" means a:</text>
+    <para>
+      <num>(A)</num>
+      <text>Trailer; or</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Structure that is used or intended for supporting or sheltering any use or occupancy on a non-permanent timeframe for an interim use during construction of a permanent structure.</text>
+    </para>
   </para>
   <para>
     <num>(41)</num>
@@ -299,5 +326,18 @@
     <annotation app="2025-03-07" doc="D.C. Law 25-262" eff="2025-03-07" path="§4|(a)" type="History"/>
     <annotation app="2025-03-07" doc="D.C. Law 25-262" eff="2025-03-07" path="§7|(a)" type="History" display="false"/>
     <annotation app="notfunded" doc="D.C. Law 25-262" eff="2025-03-07" path="§4|(a)" type="History"/>
+    <annotation app="2026-03-06" doc="D.C. Act 26-275" eff="2026-03-06" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2026-03-06" doc="D.C. Act 26-275" eff="2026-03-06" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2026-03-06" doc="D.C. Act 26-275" eff="2026-03-06" path="§2|(a)|(3)" type="History"/>
+    <annotation app="2026-03-06" doc="D.C. Act 26-275" eff="2026-03-06" path="§2|(a)|(2)" type="History"/>
+    <annotation app="2026-03-06" doc="D.C. Act 26-275" eff="2026-03-06" path="§2|(a)|(4)" type="History"/>
+    <annotation app="2026-03-06" doc="D.C. Act 26-275" eff="2026-03-06" path="§2|(a)|(5)" type="History"/>
+    <annotation app="2026-03-06" doc="D.C. Act 26-275" eff="2026-03-06" path="§2|(a)|(6)" type="History"/>
+    <annotation app="2026-03-06" doc="D.C. Act 26-275" eff="2026-03-06" path="§2|(a)|(7)" type="History"/>
+    <annotation app="2026-03-06" doc="D.C. Act 26-275" eff="2026-03-06" path="§2|(a)|(8)" type="History"/>
+    <annotation app="2026-03-06" doc="D.C. Act 26-275" eff="2026-03-06" path="§2|(a)|(9)" type="History"/>
+    <annotation app="2026-03-06" doc="D.C. Act 26-275" eff="2026-03-06" path="§2|(a)|(10)" type="History"/>
+    <annotation app="2026-03-06" doc="D.C. Act 26-275" eff="2026-03-06" path="§2|(a)|(11)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-275" path="§2|(a)" codified:display="Note" app="2026-03-06" eff="2026-03-06">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-275" path="§2|(a)">§ 2(a) of Net Zero Modification and Preservation Emergency Amendment Act of 2026 (D.C. Act 26-275, Mar. 6, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

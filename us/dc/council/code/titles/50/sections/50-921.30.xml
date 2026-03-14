@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-921.30</num>
   <text>
-      *NOTE: This section was created by emergency legislation that will expire on March 19, 2026.*
+      *NOTE: This section was created by temporary legislation that will expire on October 17, 2026.*
       </text>
   <heading proof="needed">Streatery program.</heading>
   <para>
@@ -42,19 +42,21 @@
       <num>(3)</num>
       <text>A streatery permit holder that receives an exception under paragraph (2) of this subsection shall apply for a streatery permit renewal through the Public Space Committee every 2 years.</text>
     </para>
-  </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§50-921.29" expire="2025-12-19" codified:display="Note">For temporary (90 days) creation of § 50-921.30, see <cite doc="D.C. Act 26-233" path="§2|includes|9v">§ 9v of Streatery Program Emergency Amendment Act of 2025 (D.C. Act 26-233, Dec. 19, 2025, 73 DCR 59)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§50-921.30" applicability="2025-12-19" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§50-921.30">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-233" path="§2|includes|9v">§ 9v of Streatery Program Emergency Amendment Act of 2025 (D.C. Act 26-233, Dec. 19, 2025, 73 DCR 59)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§50-921.30" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-921.30">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on March 19, 2026.*
+    <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§50-921.29" expire="2026-03-06" codified:display="Note">For temporary (225 days) creation of § 50-921.30, see <cite doc="D.C. Law 26-97" path="§2|includes|9v|(b)">§ 9v(b) of Streatery Program Temporary Amendment Act of 2025 (D.C. Law 26-97, Mar. 6, 2026, 73 DCR 443)</cite>.</codify:annotation>
+    <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§50-921.30" applicability="2026-03-06" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§50-921.30">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 26-97" path="§2|includes|9v|(b)">§ 9v(b) of Streatery Program Temporary Amendment Act of 2025 (D.C. Law 26-97, Mar. 6, 2026, 73 DCR 443)</cite>.</codify:annotation>
+    <codify:insert doc="D.C. Code" path="§50-921.30" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-921.30">
+      <text>
+      *NOTE: This section was created by temporary legislation that will expire on October 17, 2026.*
       </text>
-  </codify:insert>
+    </codify:insert>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 14-137" type="History" path="§9v" display="false">May 21, 2002, D.C. Law 14-137, §  9v</annotation>
     <annotation doc="D.C. Law 14-137" type="History" path="§9v">May 21, 2002, D.C. Law 14-137, §  9v</annotation>
-    <annotation app="2025-12-19" doc="D.C. Act 26-233" eff="2025-12-19" path="§2" type="History" display="false"/>
-    <annotation app="2025-12-19" doc="D.C. Act 26-233" eff="2025-12-19" path="§2" prefix="as added" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-233" path="§2" codified:display="Note" app="2025-12-19" eff="2025-12-19">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-233" path="§2|includes|9v">§ 9v of Streatery Program Emergency Amendment Act of 2025 (D.C. Act 26-233, Dec. 19, 2025, 73 DCR 59)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-233" path="§2" codified:display="Note" app="2026-03-06" eff="2025-12-19">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-233" path="§2|includes|9v">§ 9v of Streatery Program Emergency Amendment Act of 2025 (D.C. Act 26-233, Dec. 19, 2025, 73 DCR 59)</cite>.</annotation>
+    <annotation app="2026-03-06" doc="D.C. Act 26-233" eff="2025-12-19" path="§2" type="History" display="false"/>
+    <annotation app="2026-03-06" doc="D.C. Law 26-97" eff="2026-03-06" path="§2" type="History" display="false"/>
+    <annotation app="2026-03-06" doc="D.C. Law 26-97" eff="2026-03-06" path="§2" prefix="as added" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-97" path="§2" codified:display="Note" app="2026-03-06" eff="2026-03-06">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 26-97" path="§2|includes|9v|(b)">§ 9v(b) of Streatery Program Temporary Amendment Act of 2025 (D.C. Law 26-97, Mar. 6, 2026, 73 DCR 443)</cite>.</annotation>
   </annotations>
 </section>
