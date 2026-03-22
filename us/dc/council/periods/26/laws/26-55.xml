@@ -4335,7 +4335,7 @@
             <text>New subsections (b-1) and (b-2) are added to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:insert after="(b)" num-value="(b-1)" codified:doc="D.C. Code" codified:path="§4-410.02|(b-1)"/>
+                <codify:insert after="(b)" num-value="(b-1)"/>
                 <num>(b-1)</num>
                 <text>From January 1, 2025, through September 30, 2026, child development facilities that enter or have entered into a contract or agreement with the Department to receive monies from the Early Childhood Educator Pay Equity Fund shall use such monies to pay, at minimum, the salaries for assistant and lead teachers listed in the following tables:</text>
                 <text>
@@ -4390,7 +4390,7 @@
                 </text>
               </para>
               <para>
-                <codify:insert after="(b-1)" num-value="(b-2)" codified:doc="D.C. Code" codified:path="§4-410.02|(b-2)"/>
+                <codify:insert after="(b-1)" num-value="(b-2)"/>
                 <num>(b-2)</num>
                 <text>The Department shall issue guidance to assist child development facilities with aligning the minimum salary requirements in subsections (b) and (b-1) of this section with the qualifications for child development facility assistant and lead teachers it has established by regulation.</text>
               </para>
