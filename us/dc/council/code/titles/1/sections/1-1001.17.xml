@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-1001.17</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on April 28, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-1001.17(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Recall process.</heading>
   <para>
     <num>(a)</num>
@@ -279,9 +276,9 @@
     <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(m)|(4)" type="History"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(m)|(5)" type="History"/>
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(k)" type="History"/>
-    <annotation app="2026-01-28" doc="D.C. Act 26-256" eff="2026-01-28" path="§2|(c)" type="History" display="false"/>
-    <annotation app="2026-01-28" doc="D.C. Act 26-256" eff="2026-01-28" path="§2|(c)|(1)" type="History"/>
-    <annotation app="2026-01-28" doc="D.C. Act 26-256" eff="2026-01-28" path="§2|(c)|(2)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-256" path="§2|(c)" codified:display="Note" app="2026-01-28" eff="2026-01-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-256" path="§2|(c)">§ 2(c) of Petition Administration Clarification Emergency Amendment Act of 2026 (D.C. Act 26-256, Jan. 28, 2026, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2026-01-28" doc="D.C. Act 26-256" eff="2026-01-28" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2026-03-24" doc="D.C. Law 26-102" eff="2026-03-24" path="§2|(c)|(1)" type="History"/>
+    <annotation app="2026-03-24" doc="D.C. Law 26-102" eff="2026-03-24" path="§2|(c)|(2)" type="History"/>
   </annotations>
 </section>
