@@ -1,16 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Applicable</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-1601.02a</num>
+  <text>
+      *NOTE: This section was created by emergency legislation that will expire on July 23, 2026.*
+      </text>
   <heading proof="needed">Ballpark Preservation and Improvement Fund.</heading>
-  <text>Not Applicable.</text>
+  <para>
+    <num>(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>There is established as a special fund the Ballpark Preservation and Improvement Fund ("Fund"), which shall be administered by the Office Chief Financial Officer ("OCFO") in accordance with this section.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The OCFO shall create a sub-account within the Fund for each revenue type to be deposited into the Fund pursuant to subsection (b) of this section and shall allocate the deposits to the appropriate sub-account.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The OCFO shall advance funds to the Washington Convention and Sports Authority ("Authority") after the Authority has submitted documentation of planned encumbrances and expenditures consistent with the purposes provided in subsection (c)(1) of this section.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The OCFO shall advance funds to the Washington Nationals Youth Baseball Academy after it has submitted documentation of planned encumbrances and expenditures consistent with the purposes provided in subsection (c)(2) of this section and such encumbrances and expenditures have been approved by the Office of Deputy Mayor for Planning and Economic Development ("DMPED").</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Beginning when the requirements of <cite path="§10-1601.02|(e)">§ 10-1601.02(e)</cite> have been met, revenue from the following sources shall be deposited in the Fund:</text>
+    <para>
+      <num>(1)</num>
+      <text>All receipts from the ballpark sales taxes collected pursuant to <cite path="§47-2002.05">§ 47-2002.05</cite> except that if said ballpark sales taxes collected in any fiscal year exceed 110% of the ballpark sales taxes collected in the previous fiscal year, the amount in excess of 110% shall not be deposited in the Fund but shall be deposited in the General Fund of the District of Columbia;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Any rent paid pursuant to a lease of the ballpark;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Amounts collected pursuant to <cite path="§47-2501|(a-2)">§ 47-2501(a-2)</cite>; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Any balance remaining in the Ballpark Revenue Fund, established by <cite path="§10-1601.02">§ 10-1601.02</cite>.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <para>
+      <num>(1)</num>
+      <text>Money in the Fund shall be used for the District's obligations under the ballpark lease for the maintenance, repairs, and capital improvements of the ballpark;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Money in the Fund may be used for capital improvement of the Nationals Academy if requested by the Washington Nationals Youth Baseball Academy and approved by DMPED.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Money in the Fund may be used for debt service to support borrowing for capital improvements to the ballpark.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <para>
+      <num>(1)</num>
+      <text>The money deposited into the Fund but not expended in a fiscal year shall not revert to the unassigned fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>By March 1 of each year, the Authority shall submit a report to the Mayor and to the Council that details expenditures from the Fund for the prior fiscal year and planned spending from the Fund in the current and next four years.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>For the purposes of this section, the term "Ballpark Revenue Bonds" shall have the same meaning as the term "bonds" in <cite path="§10-1601.03|(a)|(2)">§ 10-1601.03(a)(2)</cite>.</text>
+  </para>
+  <codify:annotation applicability="effective" doc="D.C. Code" path="§10-1601.02a" type="Applicability" codified:doc="D.C. Code" codified:path="§10-1601.02a"><cite doc="D.C. Law 25-276" path="§4">Section 4 of D.C. Law 25-276</cite> provided that the creation of this section by <cite doc="D.C. Law 25-276" path="§2|(b)">Section 2(b) of D.C. Law 25-276</cite> shall become applicable upon the execution and Council approval of a lease amendment agreement between the District and the Washington Nationals Stadium, LLC that extends the current lease agreement through February 28, 2054. Therefore those amendments have not been implemented.
+          </codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 15-320" type="History" path="§102a">Apr. 8, 2005, D.C. Law 15-320, § 102a</annotation>
-    <annotation app="2025-03-07" doc="D.C. Law 25-276" eff="2025-03-07" path="§4" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-276" eff="2025-03-07" path="§2|(b)" prefix="as added" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-276" eff="2025-03-07" path="§2|(b)" prefix="as added" type="History"/>
     <annotation doc="D.C. Law 25-276" path="§2|(b)" type="Applicability" app="2025-03-07" eff="2025-03-07"><cite doc="D.C. Law 25-276" path="§4">Section 4 of D.C. Law 25-276</cite> provided that the creation of this section by <cite doc="D.C. Law 25-276" path="§2|(b)">Section 2(b) of D.C. Law 25-276</cite> shall become applicable upon the execution and Council approval of a lease amendment agreement between the District and the Washington Nationals Stadium, LLC that extends the current lease agreement through February 28, 2054. Therefore those amendments have not been implemented.
           </annotation>
     <annotation app="2025-03-07" doc="D.C. Law 25-276" eff="2025-03-07" path="§2|(b)" type="History"/>
-    <annotation app="2025-03-07" doc="D.C. Law 25-276" eff="2025-03-07" path="§4" type="History"/>
+    <annotation app="2026-04-24" doc="D.C. Act 26-313" eff="2026-04-24" path="§2" type="History" display="false"/>
+    <annotation doc="D.C. Act 26-313" path="§2" type="Applicability" app="2026-04-24" eff="2026-04-24"><cite doc="D.C. Act 26-313" path="§2">Section 2 of D.C. Act 26-313</cite> authorizes the Washington Convention and Sports Authority ("Events DC") to enter into the Amended and Restated Lease Agreement ("Agreement") between Events DC and Washington Nationals Stadium, LLC, for a lease agreement extension through February 28, 2059, and approves the Agreement submitted by Events DC on March 2, 2026. Therefore, the creation of this section by <cite doc="D.C. Law 25-276" path="§2|(b)">Section 2(b) of D.C. Law 25-276</cite> has been implemented.
+      </annotation>
+    <annotation app="2026-04-24" doc="D.C. Act 26-313" eff="2026-04-24" path="§2" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-313" path="§2" codified:display="Note" app="2026-04-24" eff="2026-04-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-313" path="§2">§ 2 of Nationals Ballpark Amended and Restated Lease Emergency Act of 2026 (D.C. Act 26-313, Apr. 24, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
