@@ -437,6 +437,21 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:repeal doc="D.C. Code" path="§2-351.05|(c)|(16)" codified:doc="D.C. Code" codified:path="§2-351.05|(c)|(16)"/>
+          <codify:repeal doc="D.C. Code" path="§2-351.05|(c)|(17)" codified:doc="D.C. Code" codified:path="§2-351.05|(c)|(17)"/>
+          <codify:repeal doc="D.C. Code" path="§2-351.05|(c)|(18)" codified:doc="D.C. Code" codified:path="§2-351.05|(c)|(18)"/>
+          <codify:find-replace doc="D.C. Code" path="§2-351.05|(c)|(16)" count="1" codified:doc="D.C. Code" codified:path="§2-351.05|(c)|(16)">
+            <find>Repealed</find>
+            <replace>Expired</replace>
+          </codify:find-replace>
+          <codify:find-replace doc="D.C. Code" path="§2-351.05|(c)|(17)" count="1" codified:doc="D.C. Code" codified:path="§2-351.05|(c)|(17)">
+            <find>Repealed</find>
+            <replace>Expired</replace>
+          </codify:find-replace>
+          <codify:find-replace doc="D.C. Code" path="§2-351.05|(c)|(18)" count="1" codified:doc="D.C. Code" codified:path="§2-351.05|(c)|(18)">
+            <find>Repealed</find>
+            <replace>Expired</replace>
+          </codify:find-replace>
         </para>
         <para>
           <num>(b)</num>
