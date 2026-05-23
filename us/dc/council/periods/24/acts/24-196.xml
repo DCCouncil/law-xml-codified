@@ -448,7 +448,7 @@
       <text>Section 47-1803.02(a)(2) of the District of Columbia Official Code is amended by adding a new subparagraph (QQ) to read as follows:</text>
       <include lvl="2">
         <para>
-          <codify:insert doc="D.C. Code" path="§47-1803.02|(a)|(2)" after="(PP)" codified:doc="D.C. Code" codified:path="§47-1803.02|(a)|(2)|(QQ)"/>
+          <codify:insert doc="D.C. Code" path="§47-1803.02|(a)|(2)" codified:doc="D.C. Code" codified:path="§47-1803.02|(a)|(2)|(QQ)"/>
           <num>(QQ)</num>
           <text>The amount received by an individual pursuant to <span codify:value="["/><code-cite doc="D.C. Code" path="§4-681.05">section 6 of the Child Wealth Building Act of 2021, as introduced on May 3, 2021 (Bill 24-236)</code-cite><span codify:value="]"/>.</text>
         </para>

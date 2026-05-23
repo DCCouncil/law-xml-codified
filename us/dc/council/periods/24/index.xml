@@ -3,6 +3,9 @@
   <heading>Council Period 24 (2021-2022)</heading>
   <text>RECENT ADDITIONS TO THE D.C. CODE</text>
   <text>
+    <cite doc="D.C.Law 24-45">• Fiscal Year 2022 Budget Support Act of 2021 (D.C. Law 24-45; Eff. Nov. 13, 2021)</cite>
+  </text>
+  <text>
     <cite doc="D.C. Act 24-208">• Anti-SLAPP Emergency Amendment Act of 2021 (D.C. Act  24-208; Eff. Nov. 8, 2021)</cite>
   </text>
   <text>
@@ -33,6 +36,7 @@
     <heading>Permanent Laws</heading>
     <collection name="effective">
       <heading>Laws</heading>
+      <xi:include href="./laws/24-45.xml"/>
       <xi:include href="./laws/24-26.xml"/>
       <xi:include href="./laws/24-25.xml"/>
       <xi:include href="./laws/24-24.xml"/>
