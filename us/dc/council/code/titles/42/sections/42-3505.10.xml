@@ -1,28 +1,68 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-3505.10</num>
-  <text>
-      *NOTE: This section was created by temporary legislation that will expire on October 1, 2022.*
-      </text>
   <heading>Tenant screening.</heading>
   <para>
     <num>(a)</num>
-    <text>Before requesting any information from a prospective tenant as a part of tenant screening, a housing provider shall first notify the prospective tenant in writing, or by posting in a manner accessible to prospective tenants:</text>
+    <text>Before requesting any information or fees from a prospective tenant as a part of tenant screening, a housing provider shall first notify the prospective tenant in writing, or by posting in a manner accessible to a prospective tenant:</text>
     <para>
       <num>(1)</num>
-      <text>The types of information that will be accessed to conduct a tenant screening;</text>
+      <text>The amount and purpose of each fee or deposit, whether mandatory or voluntary, that may be charged to a tenant or prospective tenant and whether the fee or deposit is refundable;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The criteria that may result in denial of the application; and</text>
+      <text>The types of information that will be accessed to conduct a tenant screening;</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>If a credit or consumer report is used, the name and contact information of the credit or consumer reporting agency and a statement of the prospective tenant's rights to obtain a free copy of the credit or consumer report in the event of a denial or other adverse action.</text>
+      <text>The specific criteria that will result in automatic denial of the application;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Any additional criteria that may result in denial of the application;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>If a credit or consumer report is used, the name and contact information of the credit or consumer reporting agency and a statement of the prospective tenant's rights to obtain a free copy of the credit or consumer report in the event of a denial or other adverse action;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The approximate quantity of rental units that will be available for rent over a specified period, by bedroom size and monthly rent, or if such information is not available, the number of rental units that became available for rent each calendar month in the housing provider's prior fiscal year;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>The number of days after receipt of a prospective tenant's application that the housing provider will respond with an approval or denial decision;</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>The prospective tenant's right to dispute any information relied upon by the housing provider that is inaccurately or incorrectly attributed to the prospective tenant or is based upon the housing provider's use of prohibited criteria, and the right to receive a response from the housing provider regarding any information disputed by the prospective tenant;</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>The prospective tenant's right to a refund for any unused application fee; and</text>
+    </para>
+    <para placeholder="Repealed">
+      <num>(10)</num>
+      <text>Not Founded.</text>
     </para>
   </para>
   <para>
     <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>A housing provider may require a prospective tenant to pay an application fee. Such an application fee will be no more than $50.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Beginning on January 1, 2024, the application fee specified in paragraph (1) of this subsection may be adjusted annually by the housing provider, or his or her agent, commensurate with an increase in the Consumer Price Index for All Urban Consumers published by the United States Bureau of Labor Statistics.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>If a housing provider fails to conduct a screening of a prospective applicant for any reason, the housing provider shall refund any application fee paid by the prospective tenant within a reasonable time, not to exceed 14 days.</text>
+  </para>
+  <para>
+    <num>(d)</num>
     <text>For the purposes of tenant screening, a housing provider shall not make an inquiry about, require the prospective tenant to disclose or reveal, or base an adverse action on:</text>
     <para>
       <num>(1)</num>
@@ -41,36 +81,55 @@
       <text>Any allegation of a breach of lease by the prospective tenant if the alleged breach:</text>
       <para>
         <num>(A)</num>
-        <text>Stemmed from an incident that the prospective tenant demonstrates would constitute a defense to an action for possession under section 501(c-1) or federal law pertaining to domestic violence, dating violence, sexual assault, or stalking; or</text>
+        <text>Stemmed from an incident that the prospective tenant demonstrates may constitute a defense to an action for possession under <cite path="§42-3505.01|(c-1)">§ 42-3505.01(c-1)</cite> or a federal law pertaining to domestic violence, dating violence, sexual assault, or stalking, including records of civil or criminal protection orders sought or obtained by the prospective tenant or of criminal matters in which the prospective tenant is a witness;</text>
       </para>
       <para>
         <num>(B)</num>
+        <text>Stemmed from an incident in which the prospective tenant was a victim of a crime in the unit subject to the lease;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Is related to the prospective tenant or household member's disability; or</text>
+      </para>
+      <para>
+        <num>(D)</num>
         <text>Took place 3 or more years ago.</text>
       </para>
     </para>
   </para>
   <para>
-    <num>(c)</num>
-    <text>A housing provider shall not base an adverse action solely on a prospective tenant's credit score, although information within a credit or consumer report directly relevant to fitness as a tenant can be relied upon by a housing provider.</text>
+    <num>(e)</num>
+    <para>
+      <num>(1)</num>
+      <text>A housing provider shall not base an adverse action solely on a prospective tenant's credit score or lack thereof, although information within a credit or consumer report directly relevant to fitness as a tenant can be relied upon by a housing provider.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>It shall not be considered a violation of this section if a housing provider receives a credit or consumer report containing information that may not be used as the basis of an adverse action pursuant to subsection (d) of this section; provided, that the housing provider did not specifically request or inquire about this information and can demonstrate that he or she did not base an adverse action on such information.</text>
+    </para>
   </para>
   <para>
-    <num>(d)</num>
-    <text>If a housing provider takes an adverse action, he or she shall provide a written notice of the adverse action to the prospective tenant that shall include:</text>
+    <num>(f)</num>
+    <text>If a housing provider takes an adverse action, he or she shall provide a written notice of the adverse action to the prospective tenant no later than the response date provided to the prospective tenant pursuant to subsection (a)(7) of this section that includes:</text>
     <para>
       <num>(1)</num>
       <text>The specific grounds for the adverse action;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>A copy or summary of any information obtained from a third-party that formed a basis for the adverse action; and</text>
+      <text>A copy or summary, free of charge, of any information obtained from a third party that formed a basis for the adverse action;</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>A statement informing the prospective tenant of his or her right to dispute the accuracy of any information upon which the housing provider relied in making his or her determination.</text>
+      <text>A statement informing the prospective tenant of his or her right to dispute the accuracy of and permissibility of the housing provider's use of any information upon which the housing provider relied in making his or her adverse action determination; and</text>
+    </para>
+    <para placeholder="Repealed">
+      <num>(4)</num>
+      <text>Not Founded.</text>
     </para>
   </para>
   <para>
-    <num>(e)</num>
+    <num>(g)</num>
     <para>
       <num>(1)</num>
       <text>After receipt of a notice of an adverse action, a prospective tenant may provide to the housing provider any evidence that information relied upon by the housing provider is:</text>
@@ -80,24 +139,47 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>Based upon prohibited criteria under subsection (b) or subsection (c) of this section.</text>
+        <text>Based upon prohibited criteria under subsection (d) of this section.</text>
       </para>
     </para>
     <para>
       <num>(2)</num>
-      <text>The housing provider shall provide a written response, which may be by mail, electronic mail, or in person, to the prospective tenant with respect to any information provided under this subsection within 30 business days after receipt of the information from the prospective tenant.</text>
+      <text>The housing provider shall provide a written response, which may be by mail, electronic mail, or in person, to the prospective tenant with respect to any information provided under this subsection within 10 days after receipt of the information from the prospective tenant.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>Nothing in this subsection shall be construed to prohibit the housing provider from leasing a housing rental unit to other prospective tenants.</text>
+      <text>Nothing in this subsection shall be construed to prohibit a housing provider from considering debts owed to a housing authority, any other criteria established in federal law, or from leasing a housing rental unit to other prospective tenants.</text>
+    </para>
+  </para>
+  <para placeholder="Repealed">
+    <num>(h)</num>
+    <text>Not Founded.</text>
+  </para>
+  <para>
+    <num>(i)</num>
+    <para>
+      <num>(1)</num>
+      <text>A prospective tenant may bring a civil action in Superior Court against a housing provider who violates this section within one year after the alleged violation; except, that prospective tenant may not pursue a civil action against a housing provider if he or she has filed a complaint with the Office of Human Rights pursuant to subsection (h) of this section.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>When a prospective tenant prevails in a civil action brought pursuant to this subsection, he or she shall be entitled to the following relief:</text>
+      <para>
+        <num>(A)</num>
+        <text>Reasonable attorney's fees and costs;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Incidental damages; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Equitable relief as may be appropriate.</text>
+      </para>
     </para>
   </para>
   <para>
-    <num>(f)</num>
-    <text>Any housing provider who knowingly violates any provision of this section, or any rule issued to implement this section, shall be subject to a civil penalty for each violation not to exceed $1,000.</text>
-  </para>
-  <para>
-    <num>(g)</num>
+    <num>(j)</num>
     <text>For the purposes of this section, the term:</text>
     <para>
       <num>(1)</num>
@@ -118,18 +200,21 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 6-10" type="History" path="§510">July 17, 1985, D.C. Law 6-10, § 510</annotation>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-497" path="§2|(c)" codified:display="Note" app="2022-02-18" eff="2020-11-10">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-497" path="§2|(c)">§ 2(c) of Fairness in Renting Emergency Amendment Act of 2020 (D.C. Act 23-497, Nov. 10, 2020, 67 DCR 13949)</cite>.</annotation>
-    <annotation app="2022-02-18" doc="D.C. Act 23-497" eff="2020-11-10" path="§2|(c)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-3" path="§2|(c)" codified:display="Note" app="2022-02-18" eff="2021-01-25">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-3" path="§2|(c)">§ 2(c) of Fairness in Renting Congressional Review Emergency Amendment Act of 2021 (D.C. Act 24-3, Jan. 25, 2021, 68 DCR 001529)</cite>.</annotation>
-    <annotation app="2022-02-18" doc="D.C. Act 24-3" eff="2021-01-25" path="§2|(c)" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-255" path="§2|(c)" codified:display="Note" app="2022-02-18" eff="2021-03-16">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 23-255" path="§2|(c)">§ 2(c) of Fairness in Renting Temporary Amendment Act of 2021 (D.C. Law 23-255, Mar. 16, 2021, 67 DCR 13959)</cite>.</annotation>
-    <annotation app="2022-02-18" doc="D.C. Law 23-255" eff="2021-03-16" path="§2|(c)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-186" path="§2|(b)" codified:display="Note" app="2022-02-18" eff="2021-10-25">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-186" path="§2|(b)">§ 2(b) of Fairness in Renting Emergency Amendment Act of 2021 (D.C. Act 24-186, Oct. 25, 2021, 68 DCR 011333)</cite>.</annotation>
-    <annotation app="2022-02-18" doc="D.C. Act 24-186" eff="2021-10-25" path="§2|(b)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-307" path="§2|(b)" codified:display="Note" app="2022-02-18" eff="2022-01-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-307" path="§2|(b)">§ 2(b) of Fairness in Renting Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-307, Jan. 24, 2022, 69 DCR 000635)</cite>.</annotation>
-    <annotation app="2022-02-18" doc="D.C. Act 24-307" eff="2022-01-24" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2022-02-18" doc="D.C. Law 24-62" eff="2022-02-18" path="§2" type="History" display="false"/>
-    <annotation app="2022-02-18" doc="D.C. Law 24-62" eff="2022-02-18" path="§2|(b)" prefix="as added" type="History"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-62" path="§2" codified:display="Note" app="2022-02-18" eff="2022-02-18">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-62" path="§2">§ 2 of Fairness in Renting Temporary Amendment Act of 2021 (D.C. Law 24-62, Feb. 18, 2022, 68 DCR 013220)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-497" path="§2|(c)" codified:display="Note" app="2022-05-18" eff="2020-11-10">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-497" path="§2|(c)">§ 2(c) of Fairness in Renting Emergency Amendment Act of 2020 (D.C. Act 23-497, Nov. 10, 2020, 67 DCR 13949)</cite>.</annotation>
+    <annotation app="2022-05-18" doc="D.C. Act 23-497" eff="2020-11-10" path="§2|(c)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-3" path="§2|(c)" codified:display="Note" app="2022-05-18" eff="2021-01-25">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-3" path="§2|(c)">§ 2(c) of Fairness in Renting Congressional Review Emergency Amendment Act of 2021 (D.C. Act 24-3, Jan. 25, 2021, 68 DCR 001529)</cite>.</annotation>
+    <annotation app="2022-05-18" doc="D.C. Act 24-3" eff="2021-01-25" path="§2|(c)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-255" path="§2|(c)" codified:display="Note" app="2022-05-18" eff="2021-03-16">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 23-255" path="§2|(c)">§ 2(c) of Fairness in Renting Temporary Amendment Act of 2021 (D.C. Law 23-255, Mar. 16, 2021, 67 DCR 13959)</cite>.</annotation>
+    <annotation app="2022-05-18" doc="D.C. Law 23-255" eff="2021-03-16" path="§2|(c)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-186" path="§2|(b)" codified:display="Note" app="2022-05-18" eff="2021-10-25">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-186" path="§2|(b)">§ 2(b) of Fairness in Renting Emergency Amendment Act of 2021 (D.C. Act 24-186, Oct. 25, 2021, 68 DCR 011333)</cite>.</annotation>
+    <annotation app="2022-05-18" doc="D.C. Act 24-186" eff="2021-10-25" path="§2|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-307" path="§2|(b)" codified:display="Note" app="2022-05-18" eff="2022-01-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-307" path="§2|(b)">§ 2(b) of Fairness in Renting Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-307, Jan. 24, 2022, 69 DCR 000635)</cite>.</annotation>
+    <annotation app="2022-05-18" doc="D.C. Act 24-307" eff="2022-01-24" path="§2|(b)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-62" path="§2" codified:display="Note" app="2022-05-18" eff="2022-02-18">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-62" path="§2">§ 2 of Fairness in Renting Temporary Amendment Act of 2021 (D.C. Law 24-62, Feb. 18, 2022, 68 DCR 013220)</cite>.</annotation>
+    <annotation app="2022-05-18" doc="D.C. Law 24-62" eff="2022-02-18" path="§2" type="History" display="false"/>
+    <annotation app="2022-05-18" doc="D.C. Law 24-115" eff="2022-05-18" path="§7|(a)" type="History"/>
+    <annotation app="2022-05-18" doc="D.C. Law 24-115" eff="2022-05-18" path="§3|(b)" prefix="as added" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-115" path="§3|(b)" codified:display="Note" app="2022-05-18" eff="2022-05-18">Applicability of <cite doc="D.C. Law 24-115" path="">D.C. Law 24-115</cite>: <cite doc="D.C. Law 24-115" path="§7">§ 7 of D.C. Law 24-115</cite> provided that the creation of subsection (a)(10), (f)(4), and (h) of this section by <cite doc="D.C. Law 24-115" path="§3|(b)">§ 3(b) of D.C. Law 24-115</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2022-05-18" doc="D.C. Law 24-115" eff="2022-05-18" path="§3|(b)" type="History"/>
   </annotations>
 </section>
