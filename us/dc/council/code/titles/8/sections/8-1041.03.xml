@@ -1,12 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-1041.03</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on August 3, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§8-1041.03(Perm)">Permanent Version</cite>.*
-      </text>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on October 6, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§8-1041.03(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Registration.</heading>
   <para>
     <num>(a)</num>
@@ -22,7 +16,7 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>By December 31, 2022, October 1, 2023, and annually thereafter, a manufacturer or its partnership or representative organization as provided in subsection (c) of this section shall submit an application for registration with the Mayor that shall include:</text>
+    <text>By December 31, 2022, October 1, 2023, and October 1 annually thereafter, a manufacturer or its partnership or representative organization as provided in subsection (c) of this section shall submit an application for registration with the Mayor that shall include:</text>
     <para>
       <num>(1)</num>
       <text>The name, address, and contact information of the person responsible for ensuring compliance with <cite path="8|10B">this chapter</cite>;</text>
@@ -52,7 +46,7 @@
       </para>
       <para>
         <num>(D-i)</num>
-        <text>The total weight of covered electronic equipment recycled and the total weight of covered electronic equipment reused through the manufacturer's electronics recycling program in the previous calendar year;</text>
+        <text>The total weight of covered electronic equipment recycled, and the total weight of covered electronic equipment reused, through the manufacturer's electronics recycling program in the previous calendar year;</text>
       </para>
       <para>
         <num>(E)</num>
@@ -81,7 +75,7 @@
     </para>
     <para>
       <num>(8)</num>
-      <text>A signed statement certifying that vendors who recycle or reuse covered electronic equipment collected under the manufacturer's waste management program have e-Stewards certification.</text>
+      <text>A signed statement certifying that vendors who recycle or reuse covered electronic equipment collected under the manufacturer's waste management program have e-Stewards certification or R2 certification.</text>
     </para>
     <para>
       <num>(9)</num>
@@ -95,7 +89,31 @@
         <text>A report on public outreach and awareness activities that includes:</text>
         <para>
           <num>(i)</num>
-          <text>A description of the applicant's public outreach and awareness activities in the previous year, including a description of the general outreach and awareness activities undertaken, the outreach undertaken for specific collection sites and events, the numbers of individuals, small nonprofits, and small businesses that brought waste to each collection site or event, the weight of covered electronic equipment collected at each site or event, the results of surveys about how individuals, small nonprofits, and small businesses learned of each site or event, and factors that may have positively or negatively affected collection participation;</text>
+          <text>A description of the applicant's public outreach and awareness activities in the previous year, including:</text>
+          <para>
+            <num>(I)</num>
+            <text>A description of the general outreach and awareness activities undertaken;</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>The outreach undertaken for specific collection sites and events;</text>
+          </para>
+          <para>
+            <num>(III)</num>
+            <text>The numbers of individuals, small nonprofits, and small businesses that brought waste to each collection site or event;</text>
+          </para>
+          <para>
+            <num>(IV)</num>
+            <text>The weight of covered electronic equipment collected at each site or event;</text>
+          </para>
+          <para>
+            <num>(V)</num>
+            <text>The results of surveys about how individuals, small nonprofits, and small businesses learned of each site or event; and</text>
+          </para>
+          <para>
+            <num>(VI)</num>
+            <text>Factors that may have positively or negatively affected collection participation;</text>
+          </para>
         </para>
         <para>
           <num>(ii)</num>
@@ -103,7 +121,23 @@
         </para>
         <para>
           <num>(iii)</num>
-          <text>A description of future outreach and awareness activities that will be undertaken to maximize the amount of covered electronic equipment collected, which shall include, at a minimum, unless waived by the Mayor in writing, content on the representative organization's website, advertisements in local online and print newspapers, including those serving underserved populations, on at least a quarterly basis, social media posts before each event and targeted advertisements at the beginning of each quarter, quarterly mailers to residents, small nonprofits, and small businesses in the vicinity of each collection event, public service announcements or other radio and television ads, and signage at each event clearly showing the purpose of the event;</text>
+          <text>A description of future outreach and awareness activities that will be undertaken to maximize the amount of covered electronic equipment collected, which shall include:</text>
+          <para>
+            <num>(I)</num>
+            <text>Content on the representative organization's website;</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>Advertisements in local online and print newspapers, including those serving underserved populations, on at least a quarterly basis;</text>
+          </para>
+          <para>
+            <num>(III)</num>
+            <text>Social media posts before each event and targeted advertisements at the beginning of each quarter; mailers to residents, small nonprofits, and small businesses near collection events; and</text>
+          </para>
+          <para>
+            <num>(IV)</num>
+            <text>Signage at each event clearly showing the purpose of the event, unless the representative organization demonstrates that another outreach method will ensure that covered entities, including underserved populations, are aware of the availability and location of collection sites and events;</text>
+          </para>
         </para>
       </para>
       <para>
@@ -183,19 +217,20 @@
     <annotation app="2022-10-17" doc="D.C. Act 24-559" eff="2022-10-17" path="§2|(g)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-675" path="§3|(a)" codified:display="Note" app="2022-11-22" eff="2022-11-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-675" path="§3|(a)">§ 3(a) of CRIAC Assistance Fund Emergency Amendment Act of 2022 (D.C. Act 24-675, Nov. 22, 2022, 0 DCR 0)</cite>.</annotation>
     <annotation app="2022-11-22" doc="D.C. Act 24-675" eff="2022-11-22" path="§3|(a)" type="History" display="false"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-223" eff="2022-12-21" path="§2|(g)" type="History" display="false"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-223" eff="2022-12-21" path="§2|(g)|(1)|(B)|(i)" type="History"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-223" eff="2022-12-21" path="§2|(g)|(1)|(B)|(ii)" type="History"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-223" eff="2022-12-21" path="§2|(g)|(1)|(B)|(iii)" type="History"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-223" eff="2022-12-21" path="§2|(g)|(1)|(C)" type="History"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-223" eff="2022-12-21" path="§2|(g)|(2)|(A)" type="History"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-223" eff="2022-12-21" path="§2|(g)|(2)|(B)" type="History"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-223" eff="2022-12-21" path="§2|(g)|(3)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-223" path="§2|(g)" codified:display="Note" app="2022-12-21" eff="2022-12-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-223" path="§2|(g)">§ 2(g) of Battery and Electronic Stewardship Temporary Amendment Act of 2022 (D.C. Law 24-223, Dec. 21, 2022, 69 DCR 13973)</cite>.</annotation>
-    <annotation app="2023-02-23" doc="D.C. Law 24-278" eff="2023-02-23" path="§3|(a)" type="History" display="false"/>
-    <annotation app="2023-02-23" doc="D.C. Law 24-278" eff="2023-02-23" path="§3|(a)" type="History"/>
+    <annotation app="2022-12-21" doc="D.C. Law 24-223" eff="2022-12-21" path="§2|(g)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-278" path="§3|(a)" codified:display="Note" app="2023-02-23" eff="2023-02-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-278" path="§3|(a)">§ 3(a) of CRIAC Assistance Fund Temporary Amendment Act of 2022 (D.C. Law 24-278, Feb. 23, 2023, 69 DCR 15129)</cite>.</annotation>
+    <annotation app="2023-02-23" doc="D.C. Law 24-278" eff="2023-02-23" path="§3|(a)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-278" path="§4|(a)" codified:display="Note" app="2023-02-23" eff="2023-02-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-278" path="§4|(a)">§ 4(a) of CRIAC Assistance Fund Temporary Amendment Act of 2022 (D.C. Law 24-278, Feb. 23, 2023, 69 DCR 15129)</cite>.</annotation>
     <annotation app="2023-02-23" doc="D.C. Law 24-278" eff="2023-02-23" path="§4|(a)" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-320" eff="2023-03-10" path="§2|(g)|(1)|(A)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-320" eff="2023-03-10" path="§2|(g)|(1)|(B)|(i)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-320" eff="2023-03-10" path="§2|(g)|(1)|(B)|(ii)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-320" eff="2023-03-10" path="§2|(g)|(1)|(B)|(iii)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-320" eff="2023-03-10" path="§2|(g)|(1)|(C)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-320" eff="2023-03-10" path="§2|(g)|(1)|(D)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-320" eff="2023-03-10" path="§2|(g)|(2)|(A)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-320" eff="2023-03-10" path="§2|(g)|(2)|(B)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-320" eff="2023-03-10" path="§2|(g)|(3)" type="History"/>
   </annotations>
 </section>
