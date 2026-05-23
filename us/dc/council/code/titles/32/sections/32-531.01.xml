@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-531.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 16, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§32-531.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
   <para>
@@ -97,7 +100,15 @@
     </para>
     <para>
       <num>(5)</num>
-      <text>“Paid leave” means accrued increments of compensated leave provided by an employer for use by an employee during an absence from employment for any of the reasons specified in <cite path="§32-531.02|(b)">§ 32-531.02(b)</cite>.</text>
+      <text>"Paid leave" means:</text>
+      <para>
+        <num>(A)</num>
+        <text>Accrued increments of compensated leave provided by an employer for use by an employee during an absence from employment for any of the reasons specified in <cite path="§32-531.02|(b)">§ 32-531.02(b)</cite>; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Compensated leave required to be provided by an employer to an employee pursuant to <cite path="§32-531.02a">§ 32-531.02a</cite> or <cite path="§32-531.02b">§ 32-531.02b</cite>.</text>
+      </para>
     </para>
     <para>
       <num>(6)</num>
@@ -165,5 +176,8 @@
     <annotation type="Emergency Legislation">For temporary (90 days) repeal of <cite doc="D.C. Law 20-157">D.C. Law 20-157</cite>, § 7, see § 4 of the Wage Theft Prevention Correction and Clarification Congressional Review Emergency Amendment Act of 2016 (D.C. Act 21-293, Jan. 27, 2016,  63 DCR 1215).</annotation>
     <annotation app="2017-04-07" doc="D.C. Law 21-264" eff="2017-04-07" path="" type="History" display="false"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-275" eff="2021-04-27" path="§6" type="History"/>
+    <annotation app="2021-11-18" doc="D.C. Act 24-209" eff="2021-11-18" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2021-11-18" doc="D.C. Act 24-209" eff="2021-11-18" path="§2|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-209" path="§2|(a)" codified:display="Note" app="2021-11-18" eff="2021-11-18">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-209" path="§2|(a)">§ 2(a) of COVID Vaccination Leave Emergency Amendment Act of 2021 (D.C. Act 24-209, Nov. 18, 2021, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

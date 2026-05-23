@@ -47,7 +47,7 @@
       <para codify:path="(a)">
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "during a period of time for which the Mayor has declared a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01), an affected employee shall be eligible" and inserting the phrase "an affected employee shall be eligible" in its place.</text>
-        <codify:find-replace codified:doc="D.C. Code" codified:path="§51-181|(a)">
+        <codify:find-replace codified:doc="D.C. Code" codified:path="§51-181">
           <find>during a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, an affected employee shall be eligible</find>
           <replace>an affected employee shall be eligible</replace>
         </codify:find-replace>
@@ -115,10 +115,6 @@
       <para codify:path="(a)">
         <num>(1)</num>
         <text>Amendatory subsection (a) is amended by striking the phrase "During the COVID-19 public health emergency," and inserting the phrase "From March 11, 2020, until November 5, 2021," in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-502.01|(a)">
-          <find>During the COVID-19 public health emergency,</find>
-          <replace>From March 11, 2020, until November 5, 2021,</replace>
-        </codify:find-replace>
       </para>
       <para codify:path="(b)">
         <num>(2)</num>
@@ -126,28 +122,17 @@
         <para codify:path="(1)">
           <num>(A)</num>
           <text>Amendatory paragraph (1) is amended by striking the phrase "during the COVID-19 public health emergency" and inserting the phrase "from March 11, 2020, until November 5, 2021" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-502.01|(b)|(1)">
-            <find>during the COVID-19 public health emergency</find>
-            <replace>from March 11, 2020, until November 5, 2021</replace>
-          </codify:find-replace>
         </para>
         <para codify:path="(2)">
           <num>(B)</num>
           <text>Amendatory paragraph (2) is repealed.</text>
-          <codify:repeal codified:doc="D.C. Code" codified:path="§32-502.01|(b)|(2)"/>
         </para>
       </para>
       <para codify:path="(i)">
         <num>(3)</num>
         <text>Amendatory subsection (i) is repealed.</text>
-        <codify:repeal codified:doc="D.C. Code" codified:path="§32-502.01|(i)"/>
       </para>
-      <codify:temporary doc="D.C. Code" path="§32-502.01" codified:doc="D.C. Code" codified:path="§32-502.01" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§32-502.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-502.01">
-        <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on June 9, 2022. To view the text of the temporary legislation that created this section, click this link: <cite doc="D.C. Law 24-9">Temporary Version</cite>.*
-      </text>
-      </codify:insert>
+      <codify:temporary-new-sec doc="D.C. Code" path="§32-502.01" interim-path="§32-502" perm-eff="2021-11-18" codified:doc="D.C. Code" codified:path="§32-502.01" codified:display="Note"/>
     </para>
     <para>
       <num>(d)</num>
@@ -286,7 +271,7 @@
             <find>Repealed</find>
             <replace>Expired</replace>
           </codify:find-replace>
-          <codify:insert doc="D.C. Code" path="§32-502.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-502.01">
+          <codify:insert doc="D.C. Code" path="§34-2407.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§34-2407.01">
             <text>
       *NOTE: This section includes amendments by temporary legislation that will expire on June 9, 2022, as an amendment to temperary legistaion that will expire on February 4, 2022. To view the text of the temporary legislation that created this section, click this link: <cite doc="D.C. Law 24-9">Temporary Version</cite>.*
       </text>
