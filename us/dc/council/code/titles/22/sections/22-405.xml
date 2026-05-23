@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>22-405</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§22-405(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Assault on member of police force, campus or university special police, or fire department.</heading>
   <para>
     <num>(a)</num>
-    <text>For the purposes of this section, the term “law enforcement officer” means any officer or member of any police force operating and authorized to act in the District of Columbia, including any reserve officer or designated civilian employee of the Metropolitan Police Department, any licensed special police officer, any officer or member of any fire department operating in the District of Columbia, any officer or employee of any penal or correctional institution of the District of Columbia, any officer or employee of the government of the District of Columbia charged with the supervision of juveniles being confined pursuant to law in any facility of the District of Columbia regardless of whether such institution or facility is located within the District, any investigator or code inspector employed by the government of the District of Columbia, or any officer or employee of the Department of Youth Rehabilitation Services, Court Services and Offender Supervision Agency, the Social Services Division of the Superior Court, or Pretrial Services Agency charged with intake, assessment, or community supervision.</text>
+    <text>For the purposes of this section, the term “law enforcement officer” means any officer or member of any police force operating and authorized to act in the District of Columbia, including any reserve officer or designated civilian employee of the Metropolitan Police Department, any licensed special police officer, any officer or member of any fire department operating in the District of Columbia, any emergency medical technician, paramedic, intermediate paramedic, or other member of any emergency medical services department operating in the District of Columbia, any officer or employee of any penal or correctional institution of the District of Columbia, any officer or employee of the government of the District of Columbia charged with the supervision of juveniles being confined pursuant to law in any facility of the District of Columbia regardless of whether such institution or facility is located within the District, any investigator or code inspector employed by the government of the District of Columbia, or any officer or employee of the Department of Youth Rehabilitation Services, Court Services and Offender Supervision Agency, the Social Services Division of the Superior Court, or Pretrial Services Agency charged with intake, assessment, or community supervision.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -12,7 +15,14 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>A person who violates subsection (b) of this section and causes significant bodily injury to the law enforcement officer, or commits a violent act that creates a grave risk of causing significant bodily injury to the officer, shall be guilty of a felony and, upon conviction, shall be imprisoned not more than 10 years or fined not more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or both.</text>
+    <para>
+      <num>(1)</num>
+      <text>A person who violates subsection (b) of this section and causes significant bodily injury to the law enforcement officer, or commits a violent act that creates a grave risk of causing significant bodily injury to the officer, shall be guilty of a felony and, upon conviction, shall be imprisoned not more than 10 years or fined not more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or both.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>For the purposes of this subsection, the term "significant bodily injury" shall have the same meaning as provided in <cite path="§22-404|(a)|(3)">§ 22-404(a)(3)</cite>.</text>
+    </para>
   </para>
   <para>
     <num>(d)</num>
@@ -49,5 +59,10 @@
     <annotation type="Cross References">Offenses committed against any private correctional officer or other employee of the private operator, inmates confined to CTF, see <cite path="§24-261.03">§ 24-261.03</cite>.</annotation>
     <annotation type="Cross References">Minimum sentence for violation of section, see <cite path="§24-403">§ 24-403</cite>.</annotation>
     <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§205" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§15" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§15|(a)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§15|(b)|(1)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§15|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§15" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§15">§ 15 of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

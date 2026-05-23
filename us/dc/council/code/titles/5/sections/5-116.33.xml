@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>5-116.33</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§5-116.33(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Body-Worn Camera Program; reporting requirements; access.</heading>
   <para>
     <num>(a)</num>
@@ -132,16 +135,16 @@
     <num>(e)</num>
     <para>
       <num>(1)</num>
-      <text>Metropolitan Police Department officers shall not review their body-worn camera recordings or body-worn camera recordings that have been shared with them to assist in initial report writing.</text>
+      <text>For any incident involving an officer-involved death or serious use of force, officers shall not review any body-worn camera recordings to assist in initial report writing.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Officers shall indicate, when writing any subsequent reports, whether the officer viewed body-worn camera footage prior to writing the subsequent report and specify what body-worn camera footage the officer viewed.</text>
+      <text>For an incident other than those described in paragraph (1) of this subsection, officers shall indicate, when writing any initial or subsequent reports, whether the officer viewed body-worn camera footage prior to writing the report and specify what body-worn camera footage the officer viewed.</text>
     </para>
   </para>
   <para>
     <num>(f)</num>
-    <text>When releasing body-worn camera recordings, the likenesses of any local, county, state, or federal government employees acting in their professional capacities, other than those acting undercover, shall not be redacted or otherwise obscured.</text>
+    <text>When releasing body-worn camera recordings, the likenesses of any local, county, state, or federal government law enforcement officers acting in their professional capacities, other than those acting undercover, shall not be redacted or otherwise obscured.</text>
   </para>
   <para>
     <num>(g)</num>
@@ -155,11 +158,15 @@
       <text>"Next of kin" means the priority for next of kin as provided in Metropolitan Police Department General Order 401.08, or its successor directives.</text>
     </para>
     <para>
+      <num>(2A)</num>
+      <text>"Serious bodily injury" means extreme physical pain, illness, or impairment of physical condition including physical injury that involves a substantial risk of death, protracted and obvious disfigurement, protracted loss or impairment of the function of a bodily member or organ, or protracted loss of consciousness.</text>
+    </para>
+    <para>
       <num>(3)</num>
       <text>"Serious use of force" means any:</text>
       <para>
         <num>(A)</num>
-        <text>Firearm discharges by a Metropolitan Police Department officer, with the exception of range and training incidents;</text>
+        <text>Firearm discharges by a Metropolitan Police Department officer, with the exception of a negligent discharge that does not otherwise put members of the public at risk of injury or death, or a range or training incident;</text>
       </para>
       <para>
         <num>(B)</num>
@@ -174,7 +181,7 @@
         </para>
         <para>
           <num>(ii)</num>
-          <text>Resulting in a loss of consciousness, or that create a substantial risk of death, serious disfigurement, disability or impairment of the functioning of any body part or organ;</text>
+          <text>Resulting in a protracted loss of consciousness, or that create a substantial risk of death, serious disfigurement, disability or impairment of the functioning of any body part or organ;</text>
         </para>
         <para>
           <num>(iii)</num>
@@ -209,7 +216,7 @@
     <annotation app="2021-07-29" doc="D.C. Act 24-128" eff="2021-07-29" path="§103" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-23" path="§103" codified:display="Note" app="2021-09-03" eff="2021-09-03">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-23" path="§103">§ 103 of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2021 (D.C. Law 24-23, Sept. 3, 2021, 68 DCR 005837)</cite>.</annotation>
     <annotation app="2021-09-03" doc="D.C. Law 24-23" eff="2021-09-03" path="§103" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-370" path="§103" codified:display="Note" app="2022-04-07" eff="2022-04-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-370" path="§103">§ 103 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2022 (D.C. Act 24-370, Apr. 7, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-370" path="§103" codified:display="Note" app="2022-04-07" eff="2022-04-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-370" path="§103">§ 103 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2022 (D.C. Act 24-370, Apr. 7, 2022, 69 DCR 3370)</cite>.</annotation>
     <annotation app="2022-04-07" doc="D.C. Act 24-370" eff="2022-04-07" path="§103" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-454" path="§103" codified:display="Note" app="2022-06-28" eff="2022-06-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-454" path="§103">§ 103 of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-454, June 28, 2022, 69 DCR 007767)</cite>.</annotation>
     <annotation app="2022-06-28" doc="D.C. Act 24-454" eff="2022-06-28" path="§103" type="History" display="false"/>
@@ -222,5 +229,12 @@
     <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§103|(b)|(2)" type="History"/>
     <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§103|(c)" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§8002|(e)|(1)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§8" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§8|(a)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§8|(b)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§8|(c)|(1)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§8|(c)|(2)|(A)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§8|(c)|(2)|(B)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§8" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§8">§ 8 of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

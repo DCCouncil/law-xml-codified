@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>5-353.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§5-353.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading proof="needed">Use of Force Review Board; membership.</heading>
   <para>
     <num>(a)</num>
@@ -31,7 +34,7 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>Two civilian members appointed by the Council with the following qualifications and no current or prior affiliation with law enforcement, including being employed by a law enforcement agency or law enforcement union:</text>
+      <text>Two civilian members appointed by the Council with the following qualifications and no current affiliation with law enforcement, including being employed by a law enforcement agency or law enforcement union:</text>
       <para>
         <num>(A)</num>
         <text>One member with subject matter expertise in criminal justice policy; and</text>
@@ -46,6 +49,10 @@
       <text>The Executive Director of the Office of Police Complaints, or their designee.</text>
     </para>
   </para>
+  <para>
+    <num>(c)</num>
+    <text>Notwithstanding any other provision of law, the Metropolitan Police Department shall publish the findings of fact and merits determination for all Use of Force Review Board investigations on its website.</text>
+  </para>
   <annotations>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-65" path="§2" codified:display="Note" app="2023-04-21" eff="2023-03-27">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-65" path="§2">§ 2 of Use of Force Review Board Emergency Act of 2023 (D.C. Act 25-65, Mar. 27, 2023, 70 DCR 3842)</cite>.</annotation>
     <annotation app="2023-04-21" doc="D.C. Act 25-65" eff="2023-03-27" path="§2" type="History" display="false"/>
@@ -53,5 +60,9 @@
     <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§106" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-16" path="§2" codified:display="Note" app="2023-06-14" eff="2023-06-14">For temporary (225 days) creation of, see <cite doc="D.C. Law 25-16" path="§2">§ 2 of Use of Force Review Board Temporary Act of 2023 (D.C. Law 25-16, June 14, 2023, 70 DCR 6333)</cite>.</annotation>
     <annotation app="2023-06-14" doc="D.C. Law 25-16" eff="2023-06-14" path="§2" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§10|(a)" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§10|(a)|(1)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§10|(a)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§10|(a)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§10|(a)">§ 10(a) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

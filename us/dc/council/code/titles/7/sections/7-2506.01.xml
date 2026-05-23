@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-2506.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-2506.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Persons permitted to possess ammunition.</heading>
   <para>
     <num>(a)</num>
@@ -28,7 +31,11 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>No person in the District shall possess, sell, or transfer any large capacity ammunition feeding device regardless of whether the device is attached to a firearm. For the purposes of this subsection, the term “large capacity ammunition feeding device” means a magazine, belt, drum, feed strip, or similar device that has a capacity of, or that can be readily restored or converted to accept, more than 10 rounds of ammunition. The term “large capacity ammunition feeding device” shall not include an attached tubular device designed to accept, and capable of operating only with, .22 caliber rimfire ammunition.</text>
+    <text>No person in the District shall knowingly possess, sell, or transfer any ammunition feeding device that is, in fact, a large capacity ammunition feeding device regardless of whether the device is attached to a firearm.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>For the purposes of this section, the term "large capacity ammunition feeding device" means a magazine, belt, drum, feed strip, or similar device that has a capacity of, or that can be readily restored or converted to accept, more than 10 rounds of ammunition. The term "large capacity ammunition feeding device" does not include an attached tubular device designed to accept, and capable of operating only with, .22 caliber rimfire ammunition.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 1-85" type="History" path="§601">Sept. 24, 1976, D.C. Law 1-85, title VI, § 601, 23 DCR 2464</annotation>
@@ -49,5 +56,9 @@
     <annotation type="Prior Codifications">1973 Ed., § 6-1861.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 6-2361.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§7-2507.06">§ 7-2507.06</cite> and <cite path="§7-2508.01">§ 7-2508.01</cite>.</annotation>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(b)" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(b)|(1)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§11|(b)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§11|(b)">§ 11(b) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

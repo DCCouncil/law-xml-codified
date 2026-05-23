@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>16-2316</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§16-2316(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Conduct of hearings; evidence.</heading>
   <para>
     <num>(a)</num>
@@ -53,15 +56,15 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>Except as provided in paragraph (4) of this subsection, only persons necessary to the proceedings shall be admitted, but the Division may, pursuant to rule of the Superior Court of the District of Columbia, admit such other persons (including members of the press) as have a proper interest in the case or the work of the court on condition that they refrain from divulging information identifying the child or members of the child’s family involved in the proceedings.</text>
+      <text>Except as provided in paragraph (4) of this subsection, only persons necessary to the proceedings shall be admitted, but the Division may, pursuant to rule of the Superior Court of the District of Columbia, after providing the Attorney General and respondent's counsel in a delinquency or PINS matter or the Attorney General and the guardian ad litem in a neglect matter with notice and the opportunity to be heard regarding the admission of non-necessary persons,, admit such other persons (including members of the press) as have a proper interest in the case or the work of the court on condition that they refrain from divulging information identifying the child or members of the child’s family involved in the proceedings.</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>In cases involving delinquency proceedings, the victims and eyewitnesses and the immediate family members and custodians of the victims and eyewitnesses shall have a right to attend transfer, factfinding, disposition, and post-disposition hearings, subject to the rule on witnesses. Immediate family members and custodians of the victims and eyewitnesses shall have a right to be present during the victims’ or eyewitnesses’ testimony.</text>
+      <text>In cases involving delinquency proceedings, the victims and eyewitnesses and the immediate family members and custodians of the victims and eyewitnesses shall have a right to attend any transfer, plea, factfinding, disposition, or post-disposition hearing, subject to the rule on witnesses. Immediate family members and custodians of the victims and eyewitnesses shall have a right to be present during the victims’ or eyewitnesses’ testimony.</text>
     </para>
     <para>
       <num>(5)</num>
-      <text>Any person who by virtue of this subsection attends a transfer, factfinding, disposition, or post-disposition hearing shall be bound by the confidentiality requirements of sections 16-2331, 16-2332, and 16-2333, and shall be informed by the Division of these confidentiality requirements and the penalties for their violation as set out in section 16-2336.</text>
+      <text>Any person who by virtue of this subsection attends a transfer, plea, factfinding, disposition, or post-disposition hearing shall be bound by the confidentiality requirements of sections 16-2331, 16-2332, and 16-2333, and shall be informed by the Division of these confidentiality requirements and the penalties for their violation as set out in section 16-2336.</text>
     </para>
   </para>
   <para>
@@ -84,5 +87,10 @@
     <annotation type="Prior Codifications">1973 Ed., § 16-2316.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 16-2316.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§16-2301">§ 16-2301</cite> and <cite path="§16-2310">§ 16-2310</cite>.</annotation>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§13|(d)" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§13|(d)|(1)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§13|(d)|(2)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§13|(d)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§13|(d)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§13|(d)">§ 13(d) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-2510.14</num>
   <text>
-      *NOTE: This section was added by temporary legislation that will expire on August 29, 2024.*
+      *NOTE: This section was added by emergency legislation that will expire on June 9, 2024.*
       </text>
   <heading proof="needed">Public awareness initiatives.</heading>
   <para>
@@ -17,18 +17,27 @@
       <text>The Office of the Attorney General shall develop and implement a public awareness campaign to inform residents, professionals, and District government employees about extreme risk protection orders, including the petition process.</text>
     </para>
   </para>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-2510.10" expire="2024-03-11" codified:display="Note">For temporary (90 days) creation of § 7-2510.14, see <cite doc="D.C. Act 25-410" path="§11|(k)|includes|1014">§ 1014 of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 0 DCR 0)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-2510.14" applicability="2024-03-11" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-2510.14">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-410" path="§11|(k)|includes|1014">§ 1014 of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 0 DCR 0)</cite>.</codify:annotation>
+  <codify:insert doc="D.C. Code" path="§7-2510.14" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2510.14">
+    <text>
+      *NOTE: This section was added by emergency legislation that will expire on June 9, 2024.*
+      </text>
+  </codify:insert>
   <annotations>
     <annotation type="History" doc="D.C. Law 1-85" path="§1014" display="false">Sept. 24, 1976, D.C. Law 1-85, § 1014</annotation>
     <annotation type="History" doc="D.C. Law 1-85" path="§1014">Sept. 24, 1976, D.C. Law 1-85, § 1014</annotation>
     <annotation app="2019-05-10" doc="D.C. Law 22-314" eff="2019-05-10" path="" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-175" path="§10|(b)" codified:display="Note" app="2024-01-17" eff="2023-07-20">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-175" path="§10|(b)">§ 10(b) of Prioritizing Public Safety Emergency Amendment Act of 2023 (D.C. Act 25-175, July 20, 2023, 70 DCR 10358)</cite>.</annotation>
-    <annotation app="2024-01-17" doc="D.C. Act 25-175" eff="2023-07-20" path="§10|(b)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-257" path="§9|(b)" codified:display="Note" app="2024-01-17" eff="2023-10-16">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-257" path="§9|(b)">§ 9(b) of Prioritizing Public Safety Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-257, Oct. 16, 2023, 70 DCR 13849)</cite>.</annotation>
-    <annotation app="2024-01-17" doc="D.C. Act 25-257" eff="2023-10-16" path="§9|(b)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-339" path="§10|(b)" codified:display="Note" app="2024-01-17" eff="2023-12-21">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-339" path="§10|(b)">§ 10(b) of Prioritizing Public Safety Second Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-339, Dec. 21, 2023, 70 DCR 16594)</cite>.</annotation>
-    <annotation app="2024-01-17" doc="D.C. Act 25-339" eff="2023-12-21" path="§10|(b)" type="History" display="false"/>
-    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§10|(b)" type="History" display="false"/>
-    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§10|(b)" prefix="as added" type="History"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-101" path="§10|(b)" codified:display="Note" app="2024-01-17" eff="2024-01-17">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 25-101" path="§10|(b)">§ 10(b) of Prioritizing Public Safety Temporary Amendment Act of 2023 (D.C. Law 25-101, Jan. 17, 2024, 70 DCR 13762)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-175" path="§10|(b)" codified:display="Note" app="2024-03-11" eff="2023-07-20">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-175" path="§10|(b)">§ 10(b) of Prioritizing Public Safety Emergency Amendment Act of 2023 (D.C. Act 25-175, July 20, 2023, 70 DCR 10358)</cite>.</annotation>
+    <annotation app="2024-03-11" doc="D.C. Act 25-175" eff="2023-07-20" path="§10|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-257" path="§9|(b)" codified:display="Note" app="2024-03-11" eff="2023-10-16">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-257" path="§9|(b)">§ 9(b) of Prioritizing Public Safety Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-257, Oct. 16, 2023, 70 DCR 13849)</cite>.</annotation>
+    <annotation app="2024-03-11" doc="D.C. Act 25-257" eff="2023-10-16" path="§9|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-339" path="§10|(b)" codified:display="Note" app="2024-03-11" eff="2023-12-21">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-339" path="§10|(b)">§ 10(b) of Prioritizing Public Safety Second Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-339, Dec. 21, 2023, 70 DCR 16594)</cite>.</annotation>
+    <annotation app="2024-03-11" doc="D.C. Act 25-339" eff="2023-12-21" path="§10|(b)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-101" path="§10|(b)" codified:display="Note" app="2024-03-11" eff="2024-01-17">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 25-101" path="§10|(b)">§ 10(b) of Prioritizing Public Safety Temporary Amendment Act of 2023 (D.C. Law 25-101, Jan. 17, 2024, 70 DCR 13762)</cite>.</annotation>
+    <annotation app="2024-03-11" doc="D.C. Law 25-101" eff="2024-01-17" path="§10|(b)" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(k)" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(k)" prefix="as added" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§11|(k)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-410" path="§11|(k)|includes|1014">§ 1014 of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

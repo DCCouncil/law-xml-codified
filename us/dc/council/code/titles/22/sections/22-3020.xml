@@ -1,13 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>22-3020</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§22-3020(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Aggravating circumstances.</heading>
   <para>
     <num>(a)</num>
     <text>Any person who is found guilty of an offense under this subchapter may receive a penalty up to 1 1/2 times the maximum penalty prescribed for the particular offense, and may receive a sentence of more than 30 years up to, and including life imprisonment without possibility of release for first degree sexual abuse or first degree child sexual abuse, if any of the following aggravating circumstances exists:</text>
     <para>
       <num>(1)</num>
-      <text>The victim was under the age of 12 years at the time of the offense;</text>
+      <text>The victim was under the age of 13 years at the time of the offense;</text>
     </para>
     <para>
       <num>(2)</num>
@@ -49,5 +52,8 @@
     <annotation type="Prior Codifications">1981 Ed., § 22-4120.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§22-3002">§ 22-3002</cite>, <cite path="§22-3008">§ 22-3008</cite>, <cite path="§22-4502">§ 22-4502</cite>, <cite path="§24-112">§ 24-112</cite>, and <cite path="§24-403.01">§ 24-403.01</cite>.</annotation>
     <annotation type="Cross References">Sexually violent offense defined, sex offender registration, see <cite path="§22-4101">§ 22-4101</cite>.</annotation>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§16|(d)" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§16|(d)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§16|(d)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§16|(d)">§ 16(d) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

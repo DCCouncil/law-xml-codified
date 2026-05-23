@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-571.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-571.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Office of Victim Services and Justice Grants transparency.</heading>
   <para>
     <num>(a)</num>
@@ -114,10 +117,33 @@
       <text>Anticipated grant funds budgeted for all other agency grantmaking priorities.</text>
     </para>
   </para>
+  <para>
+    <num>(c)</num>
+    <text>No later than 60 days after March 13, 2024, and annually thereafter, OVSJG shall publish information regarding the work of the Victim Services Division, including:</text>
+    <para>
+      <num>(1)</num>
+      <text>The number of victims engaged each month;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The number of victims who accepted service each month;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The services recommended to the victims each month; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>A summary of collected feedback from victims and their families on their experiences with victim services and coordination efforts.</text>
+    </para>
+  </para>
   <annotations>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§3022" codified:display="Note" app="2022-09-21" eff="2022-07-13">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-470" path="§3022">§ 3022 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
     <annotation app="2022-09-21" doc="D.C. Act 24-470" eff="2022-07-13" path="§3022" type="History" display="false"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="III" type="History" display="false"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3022" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§6" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§6" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§6" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§6">§ 6 of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

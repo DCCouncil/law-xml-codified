@@ -128,7 +128,7 @@
       <text>Section 3 (D.C. Official Code § 35-252) is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace codified:doc="D.C. Code" codified:path="§35-252"/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§35-252|(a)"/>
           <num codify:value="35-252">3</num>
           <heading>Failure to pay fare or to present valid transfer; entry by rear door prohibited.</heading>
           <text>Except in emergency circumstances, no person shall knowingly:</text>

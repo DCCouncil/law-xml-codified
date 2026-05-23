@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>22-4503</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§22-4503(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Unlawful possession of firearm.</heading>
   <para>
     <num>(a)</num>
@@ -41,12 +44,20 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>Requires the person to relinquish possession of any firearms;</text>
+        <text>Requires the person to relinquish possession of any firearms;; or</text>
       </para>
     </para>
     <para>
       <num>(6)</num>
-      <text>Has been convicted within the past 5 years of an intrafamily offense, as defined in D.C. Official Code <cite path="§16-1001|(8)">§ 16-1001(8)</cite>, punishable as a misdemeanor, or any similar provision in the law of another jurisdiction.</text>
+      <text>Has been convicted within the past 5 years of:</text>
+      <para>
+        <num>(A)</num>
+        <text>An intrafamily offense, as that term is defined in <cite path="§16-1001|(8)">§ 16-1001(8)</cite>, or any similar provision in the law of another jurisdiction; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Stalking or attempted stalking, pursuant to <cite path="22|31A">Chapter 31A of this title</cite>, or any similar provision in the law of another jurisdiction.</text>
+      </para>
     </para>
   </para>
   <para>
@@ -67,6 +78,21 @@
   <para>
     <num>(c)</num>
     <text>A person who violates subsection (a)(2) through (a)(6) of this section shall be sentenced to not less than 2 years nor more than 10 years, fined not more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or both.</text>
+  </para>
+  <para>
+    <num>(c-1)</num>
+    <para>
+      <num>(1)</num>
+      <text>It shall be unlawful for any person knowingly to possess or receive any firearm which has had the importer's or manufacturer's serial number removed, obliterated, or altered.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>It shall be unlawful for any person to receive, possess, conceal, store, barter, sell, or dispose of any stolen firearm or stolen ammunition, or pledge or accept as security for a loan any stolen firearm or stolen ammunition, knowing or having reasonable cause to believe  that the firearm or ammunition was stolen.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c-2)</num>
+    <text>A person who violates subsection (c-1) of this section shall upon conviction be fined no more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or incarcerated no less than 2 years nor more than 5 years, or both.</text>
   </para>
   <para>
     <num>(d)</num>
@@ -127,10 +153,17 @@
     <annotation type="Cross References">Forfeiture of vehicles and vessels for weapons offenses, see <cite path="§7-2507.06a">§ 7-2507.06a</cite>.</annotation>
     <annotation type="Cross References">Firearms control, eligibility for registration certificates, see <cite path="§7-2502.03">§ 7-2502.03</cite>.</annotation>
     <annotation type="History" doc="Stat. 72-1-ch465" path="§3c" display="false">July 8, 1932, 47 Stat. 651, ch. 465, § 3c</annotation>
+    <annotation type="History" doc="Stat. 72-1-ch465" path="§3d" display="false">July 8, 1932, 47 Stat. 651, ch. 465, § 3d</annotation>
     <annotation app="2023-04-21" doc="D.C. Law 24-347" eff="2023-04-21" path="§3|(a)" type="History"/>
     <annotation app="2023-07-20" doc="D.C. Act 25-175" eff="2023-07-20" path="§6|(b)" type="History" display="false"/>
     <annotation app="2023-10-16" doc="D.C. Act 25-257" eff="2023-10-16" path="§5|(b)" type="History" display="false"/>
     <annotation app="2023-12-21" doc="D.C. Act 25-339" eff="2023-12-21" path="§6|(b)" type="History" display="false"/>
     <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§6|(b)" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§24|(b)" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§24|(b)|(1)|(A)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§24|(b)|(1)|(B)" type="History"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§24|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§24|(b)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§24|(b)">§ 24(b) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§24|(d)" type="History" display="false"/>
   </annotations>
 </section>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <num>7-2510.16</num>
+  <text>
+      *NOTE: This section was added by emergency legislation that will expire on June 9, 2024.*
+      </text>
+  <heading proof="needed">Firearm tracing data and accountability report.</heading>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>By February 1 of each year, the Mayor shall submit to the Council and post on the Mayor's website a report that includes the following information, using data from the preceding calendar year:</text>
+    <para>
+      <num>(1)</num>
+      <text>The total number of firearms recovered in the District;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The location where each firearm was recovered, disaggregated by police district;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The total number of ghost guns recovered in the District.;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>To the extent possible, the number of firearms recovered, disaggregated by, if available, manufacturer, firearm model, state or country of origin, and the last known point of sale, transfer, theft, or loss of such firearm; and</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>To the extent possible, an analysis of purchase patterns with the available information from the firearms recovered.</text>
+    </para>
+  </para>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-2510.10" expire="2024-03-11" codified:display="Note">For temporary (90 days) creation of § 7-2510.16, see <cite doc="D.C. Act 25-410" path="§11|(k)|includes|1016">§ 1016 of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 0 DCR 0)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-2510.16" applicability="2024-03-11" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-2510.16">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-410" path="§11|(k)|includes|1016">§ 1016 of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 0 DCR 0)</cite>.</codify:annotation>
+  <codify:insert doc="D.C. Code" path="§7-2510.16" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2510.16">
+    <text>
+      *NOTE: This section was added by emergency legislation that will expire on June 9, 2024.*
+      </text>
+  </codify:insert>
+  <annotations>
+    <annotation type="History" doc="D.C. Law 1-85" path="§1016" display="false">Sept. 24, 1976, D.C. Law 1-85, § 1016</annotation>
+    <annotation type="History" doc="D.C. Law 1-85" path="§1016">Sept. 24, 1976, D.C. Law 1-85, § 1016</annotation>
+    <annotation app="2019-05-10" doc="D.C. Law 22-314" eff="2019-05-10" path="" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(k)" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(k)" prefix="as added" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§11|(k)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-410" path="§11|(k)|includes|1016">§ 1016 of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 0 DCR 0)</cite>.</annotation>
+  </annotations>
+</section>
