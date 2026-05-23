@@ -30,7 +30,6 @@
       <text>Section 2331is amended by adding a new paragraph (1A) to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:insert doc="D.C. Code" path="§2-218.31" after="(1)" codified:doc="D.C. Code" codified:path="§2-218.31|(1A)"/>
           <num>(1A)</num>
           <para>
             <num>(A)</num>
@@ -56,18 +55,12 @@
       </include>
       <aftertext>.</aftertext>
       <codify:temporary doc="D.C. Code" path="§2-218.31" codified:doc="D.C. Code" codified:path="§2-218.31" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§2-218.31" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-218.31">
-        <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on May 5, 2022. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§2-218.31(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(b)</num>
       <text>A new section 2331a is added to read as follow</text>
       <include>
         <section>
-          <codify:insert doc="D.C. Code" path="2|2|IX-A|D|1" after="§2-218.31" num-value="2-218.31a" history-prefix="as added" codified:doc="D.C. Code" codified:path="§2-218.31a"/>
           <num>2331a</num>
           <heading codify:value="Grace period for compliance with § 2-218.31(1A).">Grace period for compliance with section 2331(1A).</heading>
           <para>
@@ -82,12 +75,7 @@
       </include>
       <aftertext>.</aftertext>
       <annotation doc="D.C. Law 16-33" type="History" path="§2331a">Oct. 20, 2005, D.C. Law 16-33, § 2331a</annotation>
-      <codify:temporary-new-sec doc="D.C. Code" path="§2-218.31a" interim-path="§2-218.31" perm-eff="2021-09-22" codified:doc="D.C. Code" codified:path="§2-218.31a" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§2-218.31a" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-218.31a">
-        <text>
-      *NOTE: This section was created by temporary legislation that will expire on May 5, 2022.*
-      </text>
-      </codify:insert>
+      <codify:temporary-new-sec doc="D.C. Code" path="§2-218.31a" interim-path="§2-218.31" perm-eff="2022-04-25" codified:doc="D.C. Code" codified:path="§2-218.31a" codified:display="Note"/>
     </para>
   </section>
   <section>
