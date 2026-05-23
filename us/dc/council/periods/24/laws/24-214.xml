@@ -241,7 +241,7 @@
       <text>New sections 2b and 2c are added to read as follows:</text>
       <include>
         <section>
-          <codify:insert path="9|4|III-A" after="§9-425.01a" num-value="9-425.01b" codified:doc="D.C. Code" codified:path="§9-425.01b"/>
+          <codify:insert path="9|4|III-A" after="§9-425.01a" num-value="9-425.01b" history-prefix="as added" codified:doc="D.C. Code" codified:path="§9-425.01b"/>
           <num>2b</num>
           <heading>Tactical safety project and bicycle lane conversions.</heading>
           <para>
@@ -332,10 +332,11 @@
               <text>"Tactical safety project" means a streetscape project, such as curb extensions, barriers, medians, pedestrian islands, vehicle lane closures, and bus stop islands, or other infrastructure, constructed with temporary or semi-durable materials such as flex posts.</text>
             </para>
           </para>
+          <annotation doc="D.C. Law 18-227" type="History" path="§2b">Sept. 24, 2010, D.C. Law 18-227, § 2b</annotation>
           <codify:not-funded-anno doc="D.C. Code" path="§9-425.01b" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§9-425.01b" codified:display="Note"/>
         </section>
         <section>
-          <codify:insert path="9|4|III-A" after="§9-425.01b" num-value="9-425.01c" codified:doc="D.C. Code" codified:path="§9-425.01c"/>
+          <codify:insert path="9|4|III-A" after="§9-425.01b" num-value="9-425.01c" history-prefix="as added" codified:doc="D.C. Code" codified:path="§9-425.01c"/>
           <num>2c</num>
           <heading>Continuous sidewalks, raised crosswalks, and raised intersections.</heading>
           <para>
@@ -374,6 +375,7 @@
               <text>Where DDOT does not plan to install continuous sidewalks, raised crosswalks, and raised intersections at locations deemed standard pursuant to the design standards established pursuant subsection (a) of this section, DDOT shall explain in writing on the project's website why a continuous sidewalk, raised crosswalk, or raised intersection was inappropriate or not feasible, and shall provide details on alternative measures taken to improve pedestrian safety at each location.</text>
             </para>
           </para>
+          <annotation doc="D.C. Law 18-227" type="History" path="§2c">Sept. 24, 2010, D.C. Law 18-227, § 2c</annotation>
           <codify:not-funded-anno doc="D.C. Code" path="§9-425.01c" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§9-425.01c" codified:display="Note"/>
         </section>
       </include>
