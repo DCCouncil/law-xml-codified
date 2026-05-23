@@ -1,10 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <prefix>§</prefix>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>16-1503</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on October 7, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§16-1503(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Judgment and execution for possession.</heading>
   <text>When, upon a trial in a proceeding pursuant to this chapter, it appears that the plaintiff is entitled to the possession of the premises, judgment and execution for the possession shall be awarded in his favor, with costs; and if the plaintiff becomes nonsuit or fails to prove his right to the possession, the defendant shall have judgment and execution for his costs.</text>
   <annotations>
@@ -13,8 +9,7 @@
     <annotation type="Prior Codifications">1981 Ed., § 16-1503.</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-231" path="§3|(a)|(2)" codified:display="Note" app="2021-12-13" eff="2021-12-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-231" path="§3|(a)|(2)">§ 3(a)(2) of Tenant Safe Harbor Emergency Amendment Act of 2021 (D.C. Act 24-231, Dec. 13, 2021, 68 DCR 013238)</cite>.</annotation>
     <annotation app="2021-12-13" doc="D.C. Act 24-231" eff="2021-12-13" path="§3|(a)|(2)" type="History" display="false"/>
-    <annotation app="2022-02-24" doc="D.C. Law 24-75" eff="2022-02-24" path="§3|(a)|(2)" type="History" display="false"/>
-    <annotation app="2022-02-24" doc="D.C. Law 24-75" eff="2022-02-24" path="§3|(a)|(2)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-75" path="§3|(a)|(2)" codified:display="Note" app="2022-02-24" eff="2022-02-24">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-75" path="§3|(a)|(2)">§ 3(a)(2) of Tenant Safe Harbor Temporary Amendment Act of 2021 (D.C. Law 24-75, Feb. 24, 2022, 69 DCR 000190)</cite>.</annotation>
+    <annotation app="2022-02-24" doc="D.C. Law 24-75" eff="2022-02-24" path="§3|(a)|(2)" type="History" display="false"/>
   </annotations>
 </section>
