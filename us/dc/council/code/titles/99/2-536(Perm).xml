@@ -1,12 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <num>2-536</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 11, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§2-536(Perm)">Permanent Version</cite>.*
-      </text>
-  <text>
-      *NOTE: Section 1043 of D.C. Act 24-470 provides that the amendments made to this section by section 1042(b) of D.C. Act 24-470 shall apply as of December 7, 2004.*
-      </text>
+  <num>2-536(Perm)</num>
   <heading>Information which must be made public.</heading>
   <para>
     <num>(a)</num>
@@ -68,17 +62,6 @@
     <num>(c)</num>
     <text>For the purposes of this section “absentee real property owners” means owners of real property located in the District that do not reside at the real property.</text>
   </para>
-  <para>
-    <num>(d)</num>
-    <para>
-      <num>(1)</num>
-      <text>Notwithstanding any other provision of law, no document or information described in subsection (a)(6A) of this section that was created on or after December 7, 2004, shall be exempt from disclosure pursuant to section 204(a)(4) and (e).</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>In addition to making such document or information public information pursuant to subsection (a) of this section, a public body shall provide any document or information described in subsection (a)(6A) of this section that was created on or after December 7, 2004, to a person who has requested to inspect or copy it pursuant to section 202, regardless of the date on which such request may have been made.</text>
-    </para>
-  </para>
   <annotations>
     <annotation doc="Pub. L. 90-614" type="History" path="§206">Oct. 21, 1968, Pub. L. 90-614, title II, § 206</annotation>
     <annotation doc="D.C. Law 1-96" type="History">as added Mar. 29, 1977, D.C. Law 1-96, § 2, 23 DCR 3744</annotation>
@@ -107,8 +90,5 @@
     <annotation type="Prior Codifications">1973 Ed., § 1-1526.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-1526.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§1-610.64">§ 1-610.64</cite> and <cite path="§8-151.08">§ 8-151.08</cite>.</annotation>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§1042|(b)" type="History" display="false"/>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§1042|(b)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§1042|(b)" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§1042|(b)">§ 1042(b) of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

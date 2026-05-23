@@ -1,12 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <num>4-404.01</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 11, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-404.01(Perm)">Permanent Version</cite>.*
-      </text>
-  <text>
-      *NOTE: Section 4075 of D.C. Act 24-470 provides that the amendments made to this section by section 4073(c) of D.C. Act 24-470 shall apply as of July 13, 2022.*
-      </text>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <num>4-404.01(Perm)</num>
   <heading>Supplemental payments by the Mayor.</heading>
   <para>
     <num>(a)</num>
@@ -25,23 +19,23 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>Children receiving protective care services;</text>
+      <text>Children receiving protective care services; and</text>
     </para>
     <para>
       <num>(5)</num>
-      <text>Children in foster care placement; and</text>
+      <text>Children in foster care placement when the foster care provider is working, if only one foster care provider is in the home, when both foster care providers are working, if 2 foster care providers are in the home, and child care services are in the best interest of the child.</text>
     </para>
     <para>
       <num>(6)</num>
-      <text>Children of a teen parent under 21 years of age who is either in foster care or a ward of the District and is either working or enrolled in a verified job training or education program.</text>
+      <text>Children of a teen parent under 21 years of age who is either in foster care or a ward of the District and is either working or enrolled in a verified job training or education program;</text>
     </para>
-    <para placeholder="Repealed">
+    <para>
       <num>(7)</num>
-      <text>Repealed.</text>
+      <text>Children in foster care placement when the foster care provider is not working but receives some form of verifiable income, such as social security or disability, and the child care services are in the best interest of the child; and</text>
     </para>
-    <para placeholder="Repealed">
+    <para>
       <num>(8)</num>
-      <text>Repealed.</text>
+      <text>Children in foster care placement when the foster care provider is not working but enrolled in a verified job training or education program, and the child care services are in the best interest of the child.</text>
     </para>
   </para>
   <para>
@@ -55,6 +49,7 @@
   <annotations>
     <annotation doc="D.C. Law 3-16" type="History" path="§5a">Sept. 19, 1979, D.C. Law 3-16, § 5a</annotation>
     <annotation doc="D.C. Law 12-216" type="History">as added Apr. 13, 1999, D.C. Law 12-216, § 2(d), 46 DCR 281</annotation>
+    <annotation doc="D.C. Law 21-160" path="§4052" type="History">Oct. 8, 2016, D.C. Law 21-160, § 4052, 63 DCR 107754</annotation>
     <annotation type="Editor's Notes">Mayor authorized to issue rules: Section 3 of <cite doc="D.C. Law 12-216">D.C. Law 12-216</cite> authorized the Mayor to issue rules to implement the provisions of this section, pursuant to Title 1 of the District of Columbia Administrative Procedures Act,  D.C. Code <cite path="§2-501">§ 2-501</cite> et seq.</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 2 of the Foster Care Extended Eligibility Congressional Review Emergency Amendment Act of 2016 (D.C. Act 21-303, Feb. 18, 2016,  63 DCR 2173).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of section, see § 2 of the Foster Care Extended Eligibility Emergency Amendment Act of 2015 (D.C. Act 21-199, Nov. 23, 2015,  62 DCR 15270).</annotation>
@@ -64,14 +59,5 @@
     <annotation type="Temporary Legislation">For temporary (225 day) addition of section, see § 2(d) of Day Care Policy Temporary Amendment Act of 1998 (<cite doc="D.C. Law 12-72">D.C. Law 12-72</cite>, March 20, 1998, law notification  45 DCR 2107).</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 3-304.1.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§4-409">§ 4-409</cite>.</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4052|(a)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4052|(b)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4052|(c)" type="History"/>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§4073|(c)" type="History" display="false"/>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§4073|(c)|(1)" type="History"/>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§4073|(c)|(2)" type="History"/>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§4073|(c)|(3)" type="History"/>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§4073|(c)|(4)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§4073|(c)" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§4073|(c)">§ 4073(c) of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

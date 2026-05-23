@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>2-281.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 11, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§2-281.02(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: Section 2034 of D.C. Act 24-470 provides that the amendments made to this section by section 2033 of D.C. Act 24-470 shall apply as of June 1, 2022.*
+      </text>
   <heading>Establishment of the Equity Impact Fund.</heading>
   <para codify:path="(a)">
     <num>(a)</num>
@@ -14,7 +20,11 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>The Deputy Mayor for Planning and Economic Development shall provide, upon selection of the Fund Manager, the District's initial grant to the Fund Manager for deposit into the Fund ("District's initial investment").</text>
+      <text>he Deputy Mayor for Planning and Economic Development ("Deputy Mayor") shall provide, upon selection of the Fund Manager, the District's initial grant to the Fund Manager for deposit into the Fund ("District's initial investment").</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Notwithstanding <cite path="§1-328.13">§ 1-328.13</cite>, the Deputy Mayor may make subsequent grants to the Fund Manager for deposit into the Fund.</text>
     </para>
   </para>
   <para codify:path="(b)">
@@ -41,5 +51,9 @@
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-11" path="§2|(b)" codified:display="Note" app="2021-07-28" eff="2021-07-28">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-11" path="§2|(b)">§ 2(b) of Equitable Impact Assistance for Local Businesses Temporary Amendment Act of 2021 (D.C. Law 24-11, July 28, 2021, 68 DCR 005829)</cite>.</annotation>
     <annotation app="2021-07-28" doc="D.C. Law 24-11" eff="2021-07-28" path="§2|(b)" type="History" display="false"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2202|(b)" type="History"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§2033" type="History" display="false"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§2033|(a)" type="History"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§2033|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§2033" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§2033">§ 2033 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

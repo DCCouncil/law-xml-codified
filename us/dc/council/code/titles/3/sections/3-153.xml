@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>3-153</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 11, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§3-153(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: Section 3065 of D.C. Act 24-470 provides that the amendments made to this section by section 3063(c) of D.C. Act 24-470 shall apply as of July 13, 2022.*
+      </text>
   <heading>Code Revision Advisory Group.</heading>
   <para>
     <num>(a)</num>
@@ -10,15 +16,15 @@
       <text>The voting members of the Advisory Group shall consist of the following:</text>
       <para>
         <num>(A)</num>
-        <text>The United States Attorney for the District of Columbia or his or her designee;</text>
+        <text>The United States Attorney for the District of Columbia or the United States Attorney's designee;</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>The Director of the Public Defender Service for the District of Columbia or his or her designee;</text>
+        <text>The Director of the Public Defender Service for the District of Columbia or the Director's designee;</text>
       </para>
       <para>
         <num>(C)</num>
-        <text>The Attorney General for the District of Columbia or his or her designee; and</text>
+        <text>The Attorney General for the District of Columbia or the Attorney General's designee; and</text>
       </para>
       <para>
         <num>(D)</num>
@@ -30,11 +36,11 @@
       <text>The non-voting members of the Commission shall consist of the following:</text>
       <para>
         <num>(A)</num>
-        <text>The Chairperson of the Council committee with jurisdiction over the Commission or his or her designee; and</text>
+        <text>The Chairperson of the Council committee with jurisdiction over the Commission or the Chairperson's designee; and</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>The Deputy Mayor for Public Safety and Justice or his or her designee.</text>
+        <text>The Deputy Mayor for Public Safety and Justice or the Deputy Mayor's designee.</text>
       </para>
     </para>
   </para>
@@ -58,6 +64,10 @@
     <num>(f)</num>
     <text>The Commission shall compile and make publicly available a record of all written comments received from Advisory Group members under subsection (c) of this section.</text>
   </para>
+  <para>
+    <num>(g)</num>
+    <text>The Advisory Group shall expire as of March 31, 2021; provided, that nothing shall prohibit the Executive Director from soliciting the assistance of former members of the Advisory Group, or their respective agencies, in fulfilling its ongoing mission.</text>
+  </para>
   <annotations>
     <annotation type="Expiration of Law">
             Section 3127 of D.C. Law 21-160 provided that this section shall expire on October 1, 2018.
@@ -68,5 +78,13 @@
            </annotation>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3002|(b)" type="History" display="false"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§3002|(c)" type="History"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3063|(c)" type="History" display="false"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3063|(c)|(1)|(A)|(i)" type="History"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3063|(c)|(1)|(A)|(ii)" type="History"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3063|(c)|(1)|(A)|(iii)" type="History"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3063|(c)|(1)|(B)|(i)" type="History"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3063|(c)|(1)|(B)|(ii)" type="History"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3063|(c)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§3063|(c)" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§3063|(c)">§ 3063(c) of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
