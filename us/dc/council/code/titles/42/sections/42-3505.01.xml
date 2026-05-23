@@ -443,11 +443,15 @@
     <text>Notwithstanding any other provision of this section, no housing provider shall evict a tenant:</text>
     <para>
       <num>(1)</num>
-      <text>On any day when the National Weather Service predicts at 8:00 a.m. that the temperature at the National Airport weather station will fall below 32 degrees Fahrenheit or 0 degrees Celsius; or</text>
+      <text>On any day when the National Weather Service predicts at 8:00 a.m. that the temperature at the National Airport weather station will fall below 32 degrees Fahrenheit or 0 degrees Celsius;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>When precipitation is falling at the location of the rental unit.</text>
+      <text>When precipitation is falling at the location of the rental unit; or</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>On any day when the National Weather Service predicts at 8:00 a.m. the temperature at the National Airport weather station will rise above 95 degrees Fahrenheit or 35 degrees Celsius.</text>
     </para>
   </para>
   <para>
@@ -736,5 +740,8 @@
     <annotation app="2025-12-31" doc="D.C. Law 26-80" eff="2025-12-31" path="§101|(b)|(1)" type="History"/>
     <annotation app="2025-12-31" doc="D.C. Law 26-80" eff="2025-12-31" path="§101|(b)|(2)" type="History"/>
     <annotation app="2025-12-31" doc="D.C. Law 26-80" eff="2025-12-31" path="§101|(c)" type="History"/>
+    <annotation app="2026-04-16" doc="D.C. Law 26-108" eff="2026-04-16" path="§2|(a)" type="History"/>
+    <annotation app="2026-04-16" doc="D.C. Law 26-108" eff="2026-04-16" path="§2|(b)" type="History"/>
+    <annotation app="2026-04-16" doc="D.C. Law 26-108" eff="2026-04-16" path="§2|(c)" type="History"/>
   </annotations>
 </section>
