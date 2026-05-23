@@ -45,6 +45,9 @@
       <text>Section 3022(c)(6) (D.C. Official Code § 1-301.191(c)(6)) is repealed.</text>
       <codify:repeal codified:doc="D.C. Code" codified:path="§1-301.191|(c)|(6)"/>
       <codify:not-funded-anno doc="D.C. Code" path="§1-301.191" applicability-path="§45" action="repeal of subsection (c)(6) of" display-template="" codified:doc="D.C. Code" codified:path="§1-301.191" codified:display="Note"/>
+      <codify:annotation doc="D.C. Code" path="§1-301.191" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§1-301.191">
+        The District's Chief Financial Officer stated in a letter to the Council's Budget Director, dated October 17, 2024, that the amendment of this section by D.C. Law 25-175 has been funded. Therefore that amendment has been implemented.
+      </codify:annotation>
     </para>
     <para codify:path="§1-301.192">
       <num>(b)</num>
@@ -181,6 +184,9 @@
       </include>
       <aftertext>.</aftertext>
       <codify:not-funded-anno doc="D.C. Code" path="§1-301.192" applicability-path="§45" action="creation of subsection (c) of" display-template="" codified:doc="D.C. Code" codified:path="§1-301.192" codified:display="Note"/>
+      <codify:annotation doc="D.C. Code" path="§1-301.192" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§1-301.192">
+        The District's Chief Financial Officer stated in a letter to the Council's Budget Director, dated October 17, 2024, that the amendment of this section by D.C. Law 25-175 has been funded. Therefore that amendment has been implemented.
+      </codify:annotation>
     </para>
     <para>
       <num>[(b-1)]</num>
@@ -3402,6 +3408,9 @@
         <aftertext>.</aftertext>
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§22-4234" applicability-path="§45" action="amendment of" display-template="" codified:doc="D.C. Code" codified:path="§22-4234" codified:display="Note"/>
+      <codify:annotation doc="D.C. Code" path="§22-4234" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§22-4234">
+        The District's Chief Financial Officer stated in a letter to the Council's Budget Director, dated October 17, 2024, that the amendments to this section by D.C. Law 25-175, except for the creation of subsection (b-11), have been funded. Therefore those amendment have been implemented.
+      </codify:annotation>
     </para>
     <para>
       <num>(c)</num>
@@ -5197,6 +5206,9 @@
         </include>
         <aftertext>.</aftertext>
         <codify:not-funded-anno doc="D.C. Code" path="§16-802" applicability-path="§45" action="amendment of" display-template="" codified:doc="D.C. Code" codified:path="§16-802" codified:display="Note"/>
+        <codify:annotation doc="D.C. Code" path="§16-802" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§16-802">
+        The District's Chief Financial Officer stated in a letter to the Council's Budget Director, dated October 17, 2024, that the amendment of this section by D.C. Law 25-175 has been funded. Therefore that amendment has been implemented.
+      </codify:annotation>
       </para>
       <para codify:path="§16-805|(c)">
         <num>(2)</num>
@@ -5206,6 +5218,9 @@
           <text>Paragraph (2) is amended to read as follows:</text>
           <aftertext>.</aftertext>
         </para>
+        <codify:annotation doc="D.C. Code" path="§16-805" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§16-805">
+        The District's Chief Financial Officer stated in a letter to the Council's Budget Director, dated October 17, 2024, that the amendment of this section by D.C. Law 25-175 has been funded. Therefore that amendment has been implemented.
+      </codify:annotation>
         <codify:not-funded-anno doc="D.C. Code" path="§16-805" applicability-path="§45" action="amendment of" display-template="" codified:doc="D.C. Code" codified:path="§16-805" codified:display="Note"/>
       </para>
     </para>
@@ -5302,12 +5317,15 @@
       <para>
         <num>(1)</num>
         <text>Sections 2, 5, 9, 14, 16, 28(b) and (c), 30(f), (g), (h), and (k), 32, 33, amendatory section 7 in section 37, 40, 41, and 44 shall apply upon the date of inclusion of their fiscal effect in an approved budget and financial plan.</text>
-        <codify:applicability doc="D.C. Law 25-175" path="§2|(a)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-301.191|(c)|(6)"/>
         <codify:applicability doc="D.C. Law 25-175" path="§2|[(b-1)]" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-301.193"/>
         <codify:applicability doc="D.C. Law 25-175" path="§5" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-534"/>
         <codify:applicability doc="D.C. Law 25-175" path="§9" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-581.01"/>
         <codify:applicability doc="D.C. Law 25-175" path="§14" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1104|(d-2)|(3)"/>
-        <codify:applicability doc="D.C. Law 25-175" path="§28|(b)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§22-4234|(a)|(9)"/>
+        <codify:repeal doc="D.C. Code" path="§22-4234|(b-11)" history="false" display-template="" codified:doc="D.C. Code" codified:path="§22-4234|(b-11)"/>
+        <codify:find-replace doc="D.C. Code" path="§22-4234|(b-11)" count="1" history="false" display="Not Funded" codified:doc="D.C. Code" codified:path="§22-4234|(b-11)">
+          <find>Repealed</find>
+          <replace>Not Funded</replace>
+        </codify:find-replace>
         <codify:applicability doc="D.C. Law 25-175" path="§32" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§24-211.09"/>
         <codify:applicability doc="D.C. Law 25-175" path="§33" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§24-906.03"/>
         <codify:repeal doc="D.C. Code" path="§48-1006" history="false" display-template="" codified:doc="D.C. Code" codified:path="§48-1006"/>
