@@ -1,10 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>28-3814</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on May 25, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§28-3814(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Debt collection.</heading>
   <para>
     <num>(a)</num>
-    <text>This section applies to conduct and practices in connection with the collection of obligations arising from any consumer debt (other than a loan directly secured on real estate or a direct motor vehicle installment loan covered by <cite path="28|36">Chapter 36 of this title</cite>).</text>
+    <para>
+      <num>(1)</num>
+      <text>This section applies to conduct and practices in connection with the collection of obligations arising from any consumer debt (other than a loan directly secured on real estate or a direct motor vehicle installment loan covered by <cite path="28|36">Chapter 36 of this title</cite>).</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>This section shall apply to public utilities as of May 2, 2023.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
@@ -40,6 +50,10 @@
     <para>
       <num>(8)</num>
       <text>"Public health emergency" means a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, or a state of emergency pursuant to <cite path="§28-4102">§ 28-4102</cite>.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>"Public utility" shall have the same meaning as set forth in <cite path="§34-214">§ 34-214</cite>.</text>
     </para>
   </para>
   <para>
@@ -164,7 +178,7 @@
     </para>
     <para>
       <num>(5)</num>
-      <text>visiting or threatening to visit the household of a consumer at any time for the purpose of collecting a debt, other than for the purpose of serving process in a lawsuit; and</text>
+      <text>visiting or threatening to visit the household of a consumer at any time for the purpose of collecting a debt, other than for the purpose of serving process in a lawsuit or for the purpose of a public utility contacting a utility customer pursuant to 15 DCMR § 312; and</text>
     </para>
     <para>
       <num>(6)</num>
@@ -195,10 +209,14 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>in connection with a matter related to a deceased consumer's estate; or</text>
+        <text>in connection with a matter related to a deceased consumer's estate;</text>
       </para>
       <para>
         <num>(C)</num>
+        <text>in connection with a public utility posting a notice pursuant to 15 DCMR § 312 or 15 DCMR § 314; or</text>
+      </para>
+      <para>
+        <num>(D)</num>
         <text>at the express and unsolicited request of the relative or family member;</text>
       </para>
     </para>
@@ -435,7 +453,7 @@
     <num>(n)</num>
     <para>
       <num>(1)</num>
-      <text>A debt collector who enters into a payment schedule or an agreement on terms to resolve consumer debt shall send a written copy of the payment schedule or settlement agreement to the consumer within 7 days.</text>
+      <text>A debt collector who enters into a payment schedule or an agreement on terms to resolve consumer debt shall send a written copy of the payment schedule or settlement agreement to the consumer within 7 days; except, that the requirement to send a written copy of the payment schedule or settlement agreement to the consumer shall not apply to a deferred payment agreement entered into between a public utility and a utility customer pursuant to 15 DCMR § 306.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -793,5 +811,12 @@
     <annotation app="2022-08-27" doc="D.C. Law 24-154" eff="2022-08-27" path="§3" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-182" path="§2" codified:display="Note" app="2022-09-21" eff="2022-09-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-182" path="§2">§ 2 of Protecting Consumers from Unjust Debt Collection Practices Temporary Amendment Act of 2022 (D.C. Law 24-182, Sept. 21, 2022, 69 DCR 009380)</cite>.</annotation>
     <annotation app="2022-09-21" doc="D.C. Law 24-182" eff="2022-09-21" path="§2" type="History" display="false"/>
+    <annotation app="2023-02-24" doc="D.C. Act 25-32" eff="2023-02-24" path="§2" type="History" display="false"/>
+    <annotation app="2023-02-24" doc="D.C. Act 25-32" eff="2023-02-24" path="§2|(a)" type="History"/>
+    <annotation app="2023-02-24" doc="D.C. Act 25-32" eff="2023-02-24" path="§2|(b)" type="History"/>
+    <annotation app="2023-02-24" doc="D.C. Act 25-32" eff="2023-02-24" path="§2|(c)" type="History"/>
+    <annotation app="2023-02-24" doc="D.C. Act 25-32" eff="2023-02-24" path="§2|(d)" type="History"/>
+    <annotation app="2023-02-24" doc="D.C. Act 25-32" eff="2023-02-24" path="§2|(e)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-32" path="§2" codified:display="Note" app="2023-02-24" eff="2023-02-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-32" path="§2">§ 2 of Protecting Consumers from Unjust Debt Collection Practices Technical Clarification Emergency Amendment Act of 2023 (D.C. Act 25-32, Feb. 24, 2023, 70 DCR 2969)</cite>.</annotation>
   </annotations>
 </section>

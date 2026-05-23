@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>31-2703</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 22, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§31-2703(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Making of rates.</heading>
   <para>
     <num>(a)</num>
@@ -30,7 +33,58 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>Every final rate or premium charge proposed to be used by any motor vehicle insurer shall be filed with the Commissioner and shall be adequate, not excessive, and not unfairly discriminatory. A motor vehicle insurance rate may be held by the Commissioner to be excessive if the rate is unreasonably high for the insurance provided and is not actuarially justified based on the commonly accepted actuarial principles. In determining whether rates comply with standards under this subsection, due consideration shall be given for past and prospective loss experience within and outside the District, a reasonable margin for underwriting profit and contingencies, dividends, savings, or unabsorbed premium deposits allowed or returned by insurers to their policyholders or members or subscribers, past and prospective expenses, both countrywide and in the District, and investment income earned or realized by insurers both from their unearned premiums and from their loss reserve funds. If the Commissioner finds after a hearing that a rate is not in compliance with this subsection, he shall order that its use be discontinued for any policy issued or renewed after a date specified in the order and the order may prospectively provide for premium adjustment of any policy then in force.</text>
+      <para>
+        <num>(A)</num>
+        <para>
+          <num>(i)</num>
+          <text>Each final rate or premium charge proposed to be used by any motor vehicle or homeowner insurer shall be filed with the Commissioner and shall be adequate, not excessive, and not unfairly discriminatory. Before a motor vehicle or homeowner rate or premium charge filing shall become effective, the Commissioner shall have the authority to determine within 90 days after the filing date that a rate or premium charge is excessive if the rate or premium charge is unreasonably high for the insurance provided and is not actuarially justified based on commonly accepted actuarial principles.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>In determining whether a rate complies with the standards set forth in sub-subparagraph (i) of this subparagraph, due consideration shall be given to past and prospective loss experience within and outside the District, a reasonable margin for underwriting profit and contingencies, dividends, savings, or unabsorbed premium deposits allowed or returned by insurers to their policyholders or members or subscribers, past and prospective expenses, both nationwide and in the District, and investment income earned or realized by insurers both from their unearned premiums and from their loss reserve funds.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <para>
+          <num>(i)</num>
+          <text>If the Commissioner does not make a determination on a proposed rate or premium charge within the 90-day review period, the rate or premium charge shall be deemed approved.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>If the Commissioner determines, within the 90-day review period, that a motor vehicle or homeowner rate or premium charge may be excessive or unfairly discriminatory, the Commissioner shall provide the insurer with notice of the determination, the reasons for the determination, and an opportunity for a hearing.</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>An insurer must request a hearing within 15 days after the notice is provided to the insurer by the Commissioner.</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <para>
+            <num>(I)</num>
+            <text>The Commissioner shall hold a hearing within 60 days after a written request is timely received from the insurer, and the Commissioner shall issue a final order within 30 days after the close of the hearing record.</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>The cost of the hearing shall be borne by the insurer requesting the rate increase.</text>
+          </para>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>If the Commissioner finds after a hearing that a rate or premium charge is not in compliance with this paragraph, the Commissioner shall order that its use be discontinued for any policy issued or renewed after a date specified in the order and the order may prospectively provide for a rate premium charge adjustment of any policy then in force.</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <para>
+          <num>(i)</num>
+          <text>Beginning on September 1, 2023, if a final rate or premium charge to be implemented by an insurer will increase the existing rate or premium charge of a policyholder by 10% or more, the insurer shall provide the policyholder written notice of the percentage and amount of the increase as it pertains to the individual policyholder at least 60 days, and not more than 90 days, before the increase will be applied to the policyholder's insurance policy.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>If the insurer is unable to provide written notice at least 60 days before the end of the current term of the policyholder's policy, then the insurer must wait until the end of the subsequent term of the policyholder's policy to implement the rate or premium increase.</text>
+        </para>
+      </para>
     </para>
   </para>
   <para>
@@ -105,5 +159,8 @@
     <annotation type="Prior Codifications">1981 Ed., § 35-1703.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§31-2704">§ 31-2704</cite>.</annotation>
     <annotation app="2020-10-20" doc="D.C. Law 23-135" eff="2020-10-20" path="" type="History" display="false"/>
+    <annotation app="2023-03-24" doc="D.C. Act 25-58" eff="2023-03-24" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2023-03-24" doc="D.C. Act 25-58" eff="2023-03-24" path="§2|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-58" path="§2|(a)" codified:display="Note" app="2023-03-24" eff="2023-03-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-58" path="§2|(a)">§ 2(a) of Motor Vehicle and Homeowner Insurance Prior Approval Rate Filing Emergency Amendment Act of 2023 (D.C. Act 25-58, Mar. 24, 2023, 70 DCR 3813)</cite>.</annotation>
   </annotations>
 </section>
