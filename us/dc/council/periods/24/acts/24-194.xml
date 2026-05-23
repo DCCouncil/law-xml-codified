@@ -25,17 +25,12 @@
     <para codify:path="(b-2)">
       <num>(a)</num>
       <text>Subsection (b-2) is amended by striking the phrase "and every 2 years thereafter, the CJCC" and inserting the phrase "the CJCC" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§22-4234|(b-2)">
-        <find>and every 2 years thereafter, the CJCC</find>
-        <replace>the CJCC</replace>
-      </codify:find-replace>
     </para>
     <para codify:path="(b-3)">
       <num>(b)</num>
       <text>Subsection (b-3) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace codified:doc="D.C. Code" codified:path="§22-4234|(b-3)"/>
           <num>(b-3)</num>
           <para>
             <num>(1)</num>
@@ -54,11 +49,6 @@
       <aftertext>.</aftertext>
     </para>
     <codify:emergency doc="D.C. Code" path="§22-4234" codified:doc="D.C. Code" codified:path="§22-4234" codified:display="Note"/>
-    <codify:insert doc="D.C. Code" path="§22-4234" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§22-4234">
-      <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on January 30, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§22-4234(Perm)">Permanent Version</cite>.*
-      </text>
-    </codify:insert>
   </section>
   <section>
     <num>3</num>

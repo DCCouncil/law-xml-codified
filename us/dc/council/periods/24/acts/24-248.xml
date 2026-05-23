@@ -9,7 +9,7 @@
     <effective>2021-12-22</effective>
     <citations>
       <citation type="act" url="https://lims.dccouncil.us/downloads/LIMS/48349/Signed_Act/B24-0532-Signed_Act.pdf">D.C. Act 24-248</citation>
-      <citation type="register">0 DCR 0</citation>
+      <citation type="register">68 DCR 014058</citation>
     </citations>
     <history url="https://lims.dccouncil.us/Legislation/B24-0532">
       <vote date="2021-12-07" reading="Final"/>
@@ -24,7 +24,6 @@
     <text>Section 25-113(a)(6) of the District of Columbia Official Code is amended to read as follows:</text>
     <include lvl="1">
       <para>
-        <codify:replace doc="D.C. Code" path="§25-113|(a)|(6)" codified:doc="D.C. Code" codified:path="§25-113|(a)|(6)"/>
         <num>(6)</num>
         <para>
           <num>(A)</num>
@@ -105,11 +104,6 @@
     </include>
     <aftertext>.</aftertext>
     <codify:emergency doc="D.C. Code" path="§25-113" codified:doc="D.C. Code" codified:path="§25-113" codified:display="Note"/>
-    <codify:insert doc="D.C. Code" path="§25-113" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§25-113">
-      <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on March 22, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§25-113(Perm)">Permanent Version</cite>.*
-      </text>
-    </codify:insert>
   </section>
   <section>
     <num>3</num>

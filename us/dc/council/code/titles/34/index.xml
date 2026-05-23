@@ -52,19 +52,6 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
-    <num>3A</num>
-    <heading>General provisions after October 12, 2021.</heading>
-    <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="§3|(k)" type="History" display="false"/>
-    <xi:include href="./sections/34-131.xml"/>
-    <xi:include href="./sections/34-132.xml"/>
-    <xi:include href="./sections/34-133.xml"/>
-    <xi:include href="./sections/34-134.xml"/>
-    <xi:include href="./sections/34-135.xml"/>
-    <xi:include href="./sections/34-136.xml"/>
-    <xi:include href="./sections/34-137.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
     <num>4</num>
     <heading>General Provisions.</heading>
     <xi:include href="./sections/34-401.xml"/>
@@ -228,14 +215,6 @@
     <xi:include href="./sections/34-1129.xml"/>
     <xi:include href="./sections/34-1130.xml"/>
     <xi:include href="./sections/34-1131.xml"/>
-  </container>
-  <subheading>Subtitle IA. Utility Payment Plans During a Public Health Emergency.<annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="III" type="History" display="false"/></subheading>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>11A</num>
-    <heading>Utility Payment Plans During a Public Health Emergency.</heading>
-    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="III" type="History" display="false"/>
-    <xi:include href="./sections/34-1151.xml"/>
   </container>
   <subheading>Subtitle II. Cable Television.</subheading>
   <container>
@@ -443,13 +422,6 @@
         <xi:include href="./sections/34-1264.06.xml"/>
       </container>
     </container>
-    <container>
-      <prefix>Subchapter</prefix>
-      <num>III</num>
-      <heading>Cable Service During a Public Health Emergency.</heading>
-      <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§307|(b)" type="History" display="false"/>
-      <xi:include href="./sections/34-1271.01.xml"/>
-    </container>
   </container>
   <subheading>Subtitle III. Electricity.</subheading>
   <container>
@@ -587,7 +559,6 @@
     <xi:include href="./sections/34-1505.xml"/>
     <xi:include href="./sections/34-1506.xml"/>
     <xi:include href="./sections/34-1506.01.xml"/>
-    <xi:include href="./sections/34-1506.02.xml"/>
     <xi:include href="./sections/34-1507.xml"/>
     <xi:include href="./sections/34-1508.xml"/>
     <xi:include href="./sections/34-1509.xml"/>
@@ -662,7 +633,6 @@
     <xi:include href="./sections/34-1671.05.xml"/>
     <xi:include href="./sections/34-1671.06.xml"/>
     <xi:include href="./sections/34-1671.06a.xml"/>
-    <xi:include href="./sections/34-1671.06b.xml"/>
     <xi:include href="./sections/34-1671.07.xml"/>
     <xi:include href="./sections/34-1671.08.xml"/>
     <xi:include href="./sections/34-1671.09.xml"/>
@@ -758,7 +728,6 @@
     <heading>Telecommunications Competition.</heading>
     <xi:include href="./sections/34-2001.xml"/>
     <xi:include href="./sections/34-2002.xml"/>
-    <xi:include href="./sections/34-2002.01.xml"/>
     <xi:include href="./sections/34-2003.xml"/>
     <xi:include href="./sections/34-2003.01.xml"/>
     <xi:include href="./sections/34-2004.xml"/>

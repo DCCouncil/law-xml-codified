@@ -3,9 +3,9 @@
   <heading>Code of the District of Columbia</heading>
   <meta>
     <effective>0001-01-01</effective>
-    <recency through="2022-01-13">
+    <recency through="2022-01-26">
       <law doc="D.C. Law 24-50">Law {{ doc.num }} effective {{ doc.effective | date }}</law>
-      <emergency doc="D.C. Act 24-277">Act {{ doc.num }} effective {{ doc.effective | date }}</emergency>
+      <emergency doc="D.C. Act 24-313">Act {{ doc.num }} effective {{ doc.effective | date }}</emergency>
       <federal doc="Pub. L. 116-283">Public Law {{ doc.num }} approved {{ doc.effective | date }}</federal>
     </recency>
   </meta>
@@ -74,7 +74,11 @@
   <annotation app="2017-05-05" doc="Pub. L. 115-31" eff="2017-05-05" path="§907|(d)" type="History"/>
   <annotation app="2021-04-27" doc="D.C. Law 23-275" eff="2021-04-27" path="§3|(k)" type="History"/>
   <annotation app="2021-10-27" doc="D.C. Law 24-40" eff="2021-10-27" path="§2|(i)" type="History"/>
-  <annotation app="2021-11-01" doc="D.C. Act 24-192" eff="2021-11-01" path="§2|(c)" type="History"/>
+  <para>
+    <num>(6)</num>
+    <text>The public posting requirements of paragraph (2)(A) of this section shall not apply during the period from March 11, 2020, through December 31, 2022.</text>
+    <annotation app="2022-01-24" doc="D.C. Act 24-306" eff="2022-01-24" path="§5|(b)" type="History"/>
+  </para>
   <annotation app="2022-02-18" doc="D.C. Act 24-196" eff="2021-10-01" path="§2" type="History" estimate="true" display="false"/>
   <annotation app="2022-02-18" doc="D.C. Act 24-196" eff="2021-10-01" path="§3" type="History" estimate="true" display="false"/>
   <annotation app="2022-02-18" doc="D.C. Act 24-196" eff="2021-10-01" path="§4" type="History" estimate="true" display="false"/>
