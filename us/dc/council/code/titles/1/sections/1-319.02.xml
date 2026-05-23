@@ -1,11 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-319.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 9, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-319.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Promulgation of regulations.</heading>
-  <text>The Mayor is directed to promulgate regulations governing the use of volunteers by agencies, departments, commissions, and instrumentalities of the District of Columbia: Provided, that the District of Columbia Board of Education and the Council of the District of Columbia may promulgate regulations governing their respective use of volunteers.</text>
+  <text>The Mayor is directed to promulgate regulations governing the use of volunteers by agencies, departments, commissions, and instrumentalities of the District of Columbia: Provided, that the District of Columbia Board of Education, Attorney General for the District of Columbia, and the Council of the District of Columbia may promulgate regulations governing their respective use of volunteers.</text>
   <annotations>
     <annotation doc="D.C. Law 2-12" type="History" path="§3">June 28, 1977, D.C. Law 2-12, § 3, 24 DCR 1442</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 1-215b.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-305.</annotation>
+    <annotation app="2025-08-11" doc="D.C. Act 26-138" eff="2025-08-11" path="§2" type="History" display="false"/>
+    <annotation app="2025-08-11" doc="D.C. Act 26-138" eff="2025-08-11" path="§2" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-138" path="§2" codified:display="Note" app="2025-08-11" eff="2025-08-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-138" path="§2">§ 2 of Volunteer Services Clarification Emergency Amendment Act of 2025 (D.C. Act 26-138, Aug. 11, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
