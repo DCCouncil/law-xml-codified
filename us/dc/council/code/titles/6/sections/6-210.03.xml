@@ -28,7 +28,8 @@
     <num>(d)</num>
     <text>The Authority shall seek and consider the input of the City-Wide Resident Advisory Board when a policy or program change affects residents.</text>
   </para>
-  <codify:emergency doc="D.C. Code" path="§6-210.03" codified:doc="D.C. Code" codified:path="§6-210.03" codified:display="Note"/>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§6-210" expire="2022-12-22" codified:display="Note">For temporary (90 days) creation of § 6-210.03, see <cite doc="D.C. Act 24-702" path="§2|(c)|includes|11c">§ 11c of District of Columba Housing Authority Stabilization and Reform Emergency Amendment Act of 2022 (D.C. Act 24-702, Dec. 22, 2022, 0 DCR 0)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§6-210.03" applicability="2022-12-22" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§6-210.03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-702" path="§2|(c)|includes|11c">§ 11c of District of Columba Housing Authority Stabilization and Reform Emergency Amendment Act of 2022 (D.C. Act 24-702, Dec. 22, 2022, 0 DCR 0)</cite>.</codify:annotation>
   <codify:insert doc="D.C. Code" path="§6-210.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-210.03">
     <text>
       *NOTE: This section was created by emergency legislation that will expire on March 22, 2023.*
@@ -37,6 +38,6 @@
   <annotations>
     <annotation app="2022-12-22" doc="D.C. Act 24-702" eff="2022-12-22" path="§2|(c)" type="History" display="false"/>
     <annotation app="2022-12-22" doc="D.C. Act 24-702" eff="2022-12-22" path="§2|(c)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-702" path="§2|(c)" codified:display="Note" app="2022-12-22" eff="2022-12-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-702" path="§2|(c)|includes|11c">§ 11c of District of Columba Housing Authority Stabilization and Reform Emergency Amendment Act of 2022 (D.C. Act 24-702, Dec. 22, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-702" path="§2|(c)" codified:display="Note" app="2022-12-22" eff="2022-12-22">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-702" path="§2|(c)|includes|11c">§ 11c of District of Columba Housing Authority Stabilization and Reform Emergency Amendment Act of 2022 (D.C. Act 24-702, Dec. 22, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

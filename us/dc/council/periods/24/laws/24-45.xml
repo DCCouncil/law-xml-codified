@@ -7045,7 +7045,7 @@
           <text>Paragraph (3)(B) is amended to read as follows:</text>
           <include lvl="2">
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§38-2831|(b)|(3)|(B)"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§38-2831"/>
               <num>(B)</num>
               <text>Any funding associated with at-risk students and with the at-risk high school over-age supplement that has been retained by the Chancellor;</text>
             </para>
@@ -7055,7 +7055,7 @@
         <para codify:path="(4)">
           <num>(b)</num>
           <text>Paragraph (4) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2831|(b)|(4)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2831">
             <find>; and</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -7065,7 +7065,7 @@
           <text>Paragraph (5) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§38-2831|(b)|(5)"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§38-2831"/>
               <num>(5)</num>
               <text>For each school's individual budget, a separate budget line item for funding allocated to the following, as coded in the District's current official financial system of record:</text>
               <para>
@@ -7093,7 +7093,7 @@
           <text>A new paragraph (6) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§38-2831|(b)|(6)"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§38-2831"/>
               <num>(6)</num>
               <text>The projected enrollment, by school, for the following:</text>
               <para>
@@ -7121,7 +7121,7 @@
           <text>A new subsection (h) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert path="§38-2831" after="(g)" codified:doc="D.C. Code" codified:path="§38-2831|(h)"/>
+              <codify:insert path="§38-2831" after="(g)" codified:doc="D.C. Code" codified:path="§38-2831"/>
               <num>(h)</num>
               <text>For the purposes of this section, the following terms shall have the same meaning as provided in <code-cite doc="D.C. Code" path="§28-2901">section 102 of the Uniform Per Student Funding Formula for Public Schools and Public Charter Schools Act of 1998, effective March 26, 1999 (D.C. Law 12-207; D.C. Official Code § 38-2901)</code-cite>:</text>
               <para>

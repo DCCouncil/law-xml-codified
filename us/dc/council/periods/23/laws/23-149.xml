@@ -5622,7 +5622,7 @@
               <text>Paragraph (1) is amended to read as follows:</text>
               <include lvl="1">
                 <para>
-                  <codify:replace codified:doc="D.C. Code" codified:path="§38-2831|(b)|(1)"/>
+                  <codify:replace codified:doc="D.C. Code" codified:path="§38-2831"/>
                   <num>(1)</num>
                   <text>All funds budgeted for each school, including a summary statement or table of the local-funds budget for each school, by revenue source for activities and service levels, and by revenue source for comptroller source group by activities and service levels;</text>
                 </para>
@@ -5631,7 +5631,7 @@
             <para codify:path="(2)">
               <num>(B)</num>
               <text>Paragraph (2) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2831|(b)|(2)">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2831">
                 <find>; and</find>
                 <replace>;</replace>
               </codify:find-replace>
@@ -5639,7 +5639,7 @@
             <para codify:path="(3)|(B)">
               <num>(C)</num>
               <text>Paragraph (3)(B) is amended by striking the period and inserting a semicolon in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2831|(b)|(3)|(B)">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2831">
                 <find>.</find>
                 <replace>;</replace>
               </codify:find-replace>
@@ -5649,12 +5649,12 @@
               <text>New paragraphs (4) and (5) are added to read as follows:</text>
               <include lvl="1">
                 <para>
-                  <codify:insert codified:doc="D.C. Code" codified:path="§38-2831|(b)|(4)"/>
+                  <codify:insert codified:doc="D.C. Code" codified:path="§38-2831"/>
                   <num>(4)</num>
                   <text>The methodology used to determine each school's local funding; and</text>
                 </para>
                 <para>
-                  <codify:insert codified:doc="D.C. Code" codified:path="§38-2831|(b)|(5)"/>
+                  <codify:insert codified:doc="D.C. Code" codified:path="§38-2831"/>
                   <num>(5)</num>
                   <text>For each school's individual budget, a separate budget line item for funding allocated to at-risk students, as defined in <code-cite doc="D.C. Code" path="§38-2901|(2A)">section 102(2A) of the Uniform Per Student Funding Formula for Public Schools and Public Charter Schools Act of 1998, effective March 26, 1999 (D.C. Law 12-207; D.C. Official Code § 38-2901(2A))</code-cite>, as coded in the District's current official financial system of record.</text>
                 </para>
@@ -5667,7 +5667,7 @@
             <text>A new subsection (g) is added to read as follows:</text>
             <include>
               <para>
-                <codify:insert codified:doc="D.C. Code" codified:path="§38-2831|(g)"/>
+                <codify:insert codified:doc="D.C. Code" codified:path="§38-2831"/>
                 <num>(g)</num>
                 <text>By December 1, 2023, and annually thereafter, the Mayor shall transmit a report of the previous school year's actual expenditures, for each school, to the Office of the State Superintendent of Education. The report shall conform to the common financial reporting standards established by the Department of Education pursuant to <code-cite doc="D.C. Code" path="§38-191|(b)|(10)">section 202(b)(10) of the Department of Education Establishment Act of 2007, effective June 12, 2007 (D.C. Law 17-9; D.C. Official Code § 38-191(b)(10))</code-cite>.</text>
               </para>
