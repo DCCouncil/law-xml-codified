@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <num>14-310</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on August 22, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§14-310(Perm)">Permanent Version</cite>.*
-      </text>
+  <num>14-310(Perm)</num>
   <heading>Domestic violence counselors.</heading>
   <para>
     <num>(a)</num>
@@ -95,11 +92,11 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>A perpetrator or alleged perpetrator with whom a victim under 18 years of age has a significant relationship, as that term is defined in <cite path="§22-3001|(10)">§ 22-3001(10)</cite>; or</text>
+        <text>A perpetrator or alleged perpetrator with whom the victim has a significant relationship, as that term is defined in <cite path="§22-3001|(10)">§ 22-3001(10)</cite>; or</text>
       </para>
       <para>
         <num>(C)</num>
-        <text>A perpetrator or alleged perpetrator who is more than 4 years older than a victim who is under 18 years of age.</text>
+        <text>A perpetrator or alleged perpetrator who is more than 4 years older than the victim.</text>
       </para>
     </para>
   </para>
@@ -121,13 +118,8 @@
   <annotations>
     <annotation doc="D.C. Law 16-204" type="History">Mar. 2, 2007, D.C. Law 16-204, § 3(c), 53 DCR 9059</annotation>
     <annotation doc="D.C. Law 17-368" type="History">Mar. 25, 2009, D.C. Law 17-368, § 4(d), 56 DCR 1338</annotation>
+    <annotation doc="D.C. Law 24-341" path="§107|(b)|(1)" type="History">Apr. 6, 2023, D.C. Law 24-341, § 107(b)(1), 69 DCR 14698</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-368">D.C. Law 17-368</cite>, in subsec. (a)(4), substituted “<cite path="§16-1001|(8)">§ 16-1001(8)</cite>” for “<cite path="§16-1001|(5)">§ 16-1001(5)</cite>”.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§4-551">§ 4-551</cite>, <cite path="§4-1321.02">§ 4-1321.02</cite>, <cite path="§14-307">§ 14-307</cite>, <cite path="§32-131.04">§ 32-131.04</cite>, and <cite path="§42-3505.07">§ 42-3505.07</cite>.</annotation>
-    <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="§107|(b)|(1)" type="History"/>
-    <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="§107|(b)|(2)" type="History"/>
-    <annotation app="2023-05-24" doc="D.C. Act 25-115" eff="2023-05-24" path="§4|(a)" type="History" display="false"/>
-    <annotation app="2023-05-24" doc="D.C. Act 25-115" eff="2023-05-24" path="§4|(a)|(1)" type="History"/>
-    <annotation app="2023-05-24" doc="D.C. Act 25-115" eff="2023-05-24" path="§4|(a)|(2)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-115" path="§4|(a)" codified:display="Note" app="2023-05-24" eff="2023-05-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-115" path="§4|(a)">§ 4(a) of Comprehensive Policing and Justice Reform Technical Emergency Amendment Act of 2023 (D.C. Act 25-115, May 24, 2023, 70 DCR 7944)</cite>.</annotation>
   </annotations>
 </section>

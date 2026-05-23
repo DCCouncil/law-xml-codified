@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>28-3814</num>
   <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on May 25, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§28-3814(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by temporary legislation that will expire on January 5, 2024. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§28-3814(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Debt collection.</heading>
   <para>
@@ -178,7 +178,11 @@
     </para>
     <para>
       <num>(5)</num>
-      <text>visiting or threatening to visit the household of a consumer at any time for the purpose of collecting a debt, other than for the purpose of serving process in a lawsuit or for the purpose of a public utility contacting a utility customer pursuant to 15 DCMR § 312; and</text>
+      <text>visiting or threatening to visit the household of a consumer at any time for the purpose of collecting a debt, other than for the purpose of serving process in a lawsuit; and</text>
+      <para>
+        <num>(5)</num>
+        <text>visiting or threatening to visit the household of a consumer at any time for the purpose of collecting a debt, other than for the purpose of serving process in a lawsuit or for the purpose of a public utility contacting a utility customer pursuant to 15 DCMR § 312; and</text>
+      </para>
     </para>
     <para>
       <num>(6)</num>
@@ -811,12 +815,14 @@
     <annotation app="2022-08-27" doc="D.C. Law 24-154" eff="2022-08-27" path="§3" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-182" path="§2" codified:display="Note" app="2022-09-21" eff="2022-09-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-182" path="§2">§ 2 of Protecting Consumers from Unjust Debt Collection Practices Temporary Amendment Act of 2022 (D.C. Law 24-182, Sept. 21, 2022, 69 DCR 009380)</cite>.</annotation>
     <annotation app="2022-09-21" doc="D.C. Law 24-182" eff="2022-09-21" path="§2" type="History" display="false"/>
-    <annotation app="2023-02-24" doc="D.C. Act 25-32" eff="2023-02-24" path="§2" type="History" display="false"/>
-    <annotation app="2023-02-24" doc="D.C. Act 25-32" eff="2023-02-24" path="§2|(a)" type="History"/>
-    <annotation app="2023-02-24" doc="D.C. Act 25-32" eff="2023-02-24" path="§2|(b)" type="History"/>
-    <annotation app="2023-02-24" doc="D.C. Act 25-32" eff="2023-02-24" path="§2|(c)" type="History"/>
-    <annotation app="2023-02-24" doc="D.C. Act 25-32" eff="2023-02-24" path="§2|(d)" type="History"/>
-    <annotation app="2023-02-24" doc="D.C. Act 25-32" eff="2023-02-24" path="§2|(e)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-32" path="§2" codified:display="Note" app="2023-02-24" eff="2023-02-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-32" path="§2">§ 2 of Protecting Consumers from Unjust Debt Collection Practices Technical Clarification Emergency Amendment Act of 2023 (D.C. Act 25-32, Feb. 24, 2023, 70 DCR 2969)</cite>.</annotation>
+    <annotation app="2023-02-24" doc="D.C. Act 25-32" eff="2023-02-24" path="§2" type="History" display="false"/>
+    <annotation app="2023-05-25" doc="D.C. Law 25-5" eff="2023-05-25" path="§2" type="History" display="false"/>
+    <annotation app="2023-05-25" doc="D.C. Law 25-5" eff="2023-05-25" path="§2|(a)" type="History"/>
+    <annotation app="2023-05-25" doc="D.C. Law 25-5" eff="2023-05-25" path="§2|(b)" type="History"/>
+    <annotation app="2023-05-25" doc="D.C. Law 25-5" eff="2023-05-25" path="§2|(c)" type="History"/>
+    <annotation app="2023-05-25" doc="D.C. Law 25-5" eff="2023-05-25" path="§2|(d)" type="History"/>
+    <annotation app="2023-05-25" doc="D.C. Law 25-5" eff="2023-05-25" path="§2|(e)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-5" path="§2" codified:display="Note" app="2023-05-25" eff="2023-05-25">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-5" path="§2">§ 2 of Protecting Consumers from Unjust Debt Collection Practices Technical Clarification Temporary Amendment Act of 2023 (D.C. Law 25-5, May 25, 2023, 70 DCR 3836)</cite>.</annotation>
   </annotations>
 </section>
