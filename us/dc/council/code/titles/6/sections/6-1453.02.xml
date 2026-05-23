@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>6-1453.02</num>
   <text>
-      *NOTE: This section was created by emergency legislation that will expire on February 22, 2026.*
+      *NOTE: This section was created by emergency legislation that will expire on September 25, 2026.*
       </text>
   <heading proof="needed">Report on barriers to net zero energy ready affordable housing development.</heading>
   <para>
@@ -27,20 +27,22 @@
   <para>
     <num>(d)</num>
     <text>This section shall expire upon the effective date of final regulations promulgated pursuant to <cite path="§6-1453.01|(b)|(1)">§ 6-1453.01(b)(1)</cite>.</text>
-  </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§6-1453.01" expire="2025-11-24" codified:display="Note">For temporary (90 days) creation of § 6-1453.02, see <cite doc="D.C. Act 26-207" path="§3|includes|2a">§ 2a of Green Housing Coordination Emergency Amendment Act of 2025 (D.C. Act 26-207, Nov. 24, 2025, 72 DCR 13506)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§6-1453.02" applicability="2025-11-24" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§6-1453.02">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-207" path="§3|includes|2a">§ 2a of Green Housing Coordination Emergency Amendment Act of 2025 (D.C. Act 26-207, Nov. 24, 2025, 72 DCR 13506)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§6-1453.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-1453.02">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on February 22, 2026.*
+    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§6-1453.01" expire="2026-02-12" codified:display="Note">For temporary (90 days) creation of § 6-1453.02, see <cite doc="D.C. Law 26-90" path="§3|includes|2a|(d)">§ 2a(d) of Green Housing Coordination Temporary Amendment Act of 2025 (D.C. Law 26-90, Feb. 12, 2026, 73 DCR 3)</cite>.</codify:annotation>
+    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§6-1453.02" applicability="2026-02-12" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§6-1453.02">For temporary (90 days) creation of this section, see <cite doc="D.C. Law 26-90" path="§3|includes|2a|(d)">§ 2a(d) of Green Housing Coordination Temporary Amendment Act of 2025 (D.C. Law 26-90, Feb. 12, 2026, 73 DCR 3)</cite>.</codify:annotation>
+    <codify:insert doc="D.C. Code" path="§6-1453.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-1453.02">
+      <text>
+      *NOTE: This section was created by emergency legislation that will expire on September 25, 2026.*
       </text>
-  </codify:insert>
+    </codify:insert>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 24-177" type="History" path="§2a" display="false">Mar. 16, 1989, D.C. Law 24-177, § 2a</annotation>
     <annotation doc="D.C. Law 24-177" type="History" path="§2a">Mar. 16, 1989, D.C. Law 24-177, § 2a</annotation>
     <annotation app="2022-09-21" doc="D.C. Law 24-177" eff="2022-09-21" path="" type="History" display="false"/>
-    <annotation app="2025-11-24" doc="D.C. Act 26-207" eff="2025-11-24" path="§3" type="History" display="false"/>
-    <annotation app="2025-11-24" doc="D.C. Act 26-207" eff="2025-11-24" path="§3" prefix="as added" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-207" path="§3" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-207" path="§3|includes|2a">§ 2a of Green Housing Coordination Emergency Amendment Act of 2025 (D.C. Act 26-207, Nov. 24, 2025, 72 DCR 13506)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-207" path="§3" codified:display="Note" app="2026-02-12" eff="2025-11-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-207" path="§3|includes|2a">§ 2a of Green Housing Coordination Emergency Amendment Act of 2025 (D.C. Act 26-207, Nov. 24, 2025, 72 DCR 13506)</cite>.</annotation>
+    <annotation app="2026-02-12" doc="D.C. Act 26-207" eff="2025-11-24" path="§3" type="History" display="false"/>
+    <annotation app="2026-02-12" doc="D.C. Law 26-90" eff="2026-02-12" path="§3" type="History" display="false"/>
+    <annotation app="2026-02-12" doc="D.C. Law 26-90" eff="2026-02-12" path="§3" prefix="as added" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Law 26-90" path="§3" codified:display="Note" app="2026-02-12" eff="2026-02-12">For temporary (90 days) creation of this section, see <cite doc="D.C. Law 26-90" path="§3|includes|2a|(d)">§ 2a(d) of Green Housing Coordination Temporary Amendment Act of 2025 (D.C. Law 26-90, Feb. 12, 2026, 73 DCR 3)</cite>.</annotation>
   </annotations>
 </section>
