@@ -224,8 +224,8 @@
     <para>
       <num>(a)</num>
       <text>Amendatory section 5f(b) in section 2(b) shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:repeal path="§31-3834.06|(b)" display-template="" history="false" codified:doc="D.C. Code" codified:path="§31-3834.06|(b)"/>
-      <codify:find-replace path="§31-3834.06|(b)" count="1" display-template="" history="false" codified:doc="D.C. Code" codified:path="§31-3834.06|(b)">
+      <codify:repeal path="§31-3834.06|(b)" display-template="" history="false"/>
+      <codify:find-replace path="§31-3834.06|(b)" count="1" display-template="" history="false">
         <find>Repealed.</find>
         <replace>Not funded.</replace>
       </codify:find-replace>

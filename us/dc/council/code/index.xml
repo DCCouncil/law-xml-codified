@@ -3,9 +3,9 @@
   <heading>Code of the District of Columbia</heading>
   <meta>
     <effective>0001-01-01</effective>
-    <recency through="2024-10-02">
+    <recency through="2024-10-08">
       <law doc="D.C. Law 25-218">Law {{ doc.num }} effective {{ doc.effective | date }}</law>
-      <emergency doc="D.C. Act 25-551">Act {{ doc.num }} effective {{ doc.effective | date }}</emergency>
+      <emergency doc="D.C. Act 25-571">Act {{ doc.num }} effective {{ doc.effective | date }}</emergency>
       <federal doc="Pub. L. 115-334">Public Law {{ doc.num }} approved {{ doc.effective | date }}</federal>
     </recency>
   </meta>

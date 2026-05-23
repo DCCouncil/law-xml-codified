@@ -1224,10 +1224,9 @@
       <container>
         <prefix>Part</prefix>
         <num>A</num>
-        <heading>Office of Motion Picture and Television Development. [Repealed]</heading>
+        <heading>Office of Motion Picture and Television Development.</heading>
         <xi:include href="./sections/2-1204.01.xml"/>
         <xi:include href="./sections/2-1204.02.xml"/>
-        <annotation app="2024-07-19" doc="D.C. Law 25-190" eff="2024-07-19" path="§10|(a)" type="History" display="false"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -2601,8 +2600,10 @@
   <container>
     <prefix>Chapter</prefix>
     <num>16A</num>
+    <reason>Not Funded</reason>
     <heading>Criminal History Reports.</heading>
-    <annotation app="2023-03-10" doc="D.C. Law 24-284" eff="2023-03-10" path="" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-284" eff="2023-03-10" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-284" eff="2023-03-10" path="" type="History" display="false"/>
     <xi:include href="./sections/2-1651.xml"/>
     <xi:include href="./sections/2-1652.xml"/>
     <xi:include href="./sections/2-1653.xml"/>
