@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>6-202</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on March 19, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§6-202(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Establishment of District of Columbia Housing Authority; purposes of Authority; Fund.</heading>
   <para>
     <num>(a)</num>
@@ -16,7 +19,7 @@
       <num>(1)</num>
       <para>
         <num>(A)</num>
-        <text>Beginning on December 1, 2022, and monthly thereafter, the Authority shall submit a report to the Mayor, Attorney General, and each Councilmember that details:</text>
+        <text>The Authority shall submit a quarterly report to the Mayor, Attorney General, and each Councilmember that details:</text>
         <para>
           <num>(i)</num>
           <text>The amount of operating reserves, expressed in dollars and in months of expenses, for the public housing program, Housing Choice Voucher Program, and the Authority's operations overall;</text>
@@ -27,7 +30,7 @@
         </para>
         <para>
           <num>(iii)</num>
-          <text>The average length of time that public housing units have been vacant in the prior year, by repair status; and</text>
+          <text>The average length of time that public housing units have been vacant, by repair status; and</text>
         </para>
         <para>
           <num>(iv)</num>
@@ -194,5 +197,9 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§7086" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§7086">§ 7086 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
     <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7086" type="History" display="false"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7086" type="History"/>
+    <annotation app="2025-12-19" doc="D.C. Act 26-239" eff="2025-12-19" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2025-12-19" doc="D.C. Act 26-239" eff="2025-12-19" path="§2|(b)|(2)" type="History"/>
+    <annotation app="2025-12-19" doc="D.C. Act 26-239" eff="2025-12-19" path="§2|(b)|(1)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-239" path="§2|(b)" codified:display="Note" app="2025-12-19" eff="2025-12-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-239" path="§2|(b)">§ 2(b) of Housing Authority Resident Empowerment Congressional Review Emergency Amendment Act of 2025 (D.C. Act 26-239, Dec. 19, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-2372</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on March 19, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-2372(Perm)">Past Permanent Version</cite>.*
+      </text>
   <heading proof="needed">Public Life and Activity Zones Program.</heading>
   <para>
     <num>(a)</num>
@@ -27,6 +30,10 @@
     <para>
       <num>(3)</num>
       <text>Before publishing the report identifying the designated corridors, the Program shall solicit feedback from residents, business owners, Advisory Neighborhood Commissions, Business Improvement Districts, Community Improvement Districts, Main Streets, and other entities within or abutting the designated corridor to personal vehicle traffic.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>One of the roadways selected pursuant to this subsection shall include the 2000-2400 blocks of 18th Street, NW, in Ward 1.</text>
     </para>
   </para>
   <para>
@@ -85,6 +92,10 @@
       <text>The number of parking spaces eliminated by the proposal to close personal vehicle travel within the designated corridor and its anticipated impact on businesses within the designated corridor;</text>
     </para>
     <para>
+      <num>(7A)</num>
+      <text>Recommendations on the designation and design of curbside space for use as streateries, parklets, or other public space activations;</text>
+    </para>
+    <para>
       <num>(8)</num>
       <text>The feasibility of permanently closing the designated corridor to personal vehicles; and</text>
     </para>
@@ -137,5 +148,9 @@
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§6112|(b)|(2)" type="History"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§6112|(c)" type="History"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§6112|(d)" type="History"/>
+    <annotation app="2025-12-19" doc="D.C. Act 26-233" eff="2025-12-19" path="§3" type="History" display="false"/>
+    <annotation app="2025-12-19" doc="D.C. Act 26-233" eff="2025-12-19" path="§3|(a)" type="History"/>
+    <annotation app="2025-12-19" doc="D.C. Act 26-233" eff="2025-12-19" path="§3|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-233" path="§3" codified:display="Note" app="2025-12-19" eff="2025-12-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-233" path="§3">§ 3 of Streatery Program Emergency Amendment Act of 2025 (D.C. Act 26-233, Dec. 19, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

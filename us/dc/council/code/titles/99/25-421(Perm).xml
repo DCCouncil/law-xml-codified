@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <num>25-421</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on March 19, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§25-421(Perm)">Past Permanent Version</cite>.*
-      </text>
+  <num>25-421(Perm)</num>
   <heading>Notice by Board.</heading>
+  <text>
+  *NOTE: This codification is <u><b>not</b></u> the most current, due to recent law changes. To see the current law (including emergency and temporary legislation, if relevant) click this link: <cite path="§25-421">Current Version</cite>*
+  </text>
   <para>
     <num>(a)</num>
     <text>Upon the receipt of an application for the issuance or renewal, for a substantial change in operation as determined by the Board under <cite path="§25-404">§ 25-404</cite>, for the transfer of a retailer license to a new location, or for a unilateral petition to amend or terminate a settlement agreement, the Board shall give notice, in accordance with subsection (e) of this section, of the application to the following parties:</text>
@@ -26,12 +26,8 @@
     </para>
     <para>
       <num>(5)</num>
-      <text>A citizens association meeting the requirements of <cite path="§25-601|(a)|(3)">[§ 25-601(a)(3)]</cite>; provided, that the citizens association has, at least 30 days before the Board’s receipt of the application, registered with ABCA by providing a copy of its charter, and an e-mail or other electronic address in a form consistent with ABCA’s procedures.</text>
+      <text>A citizens association meeting the requirements of [<cite path="§25-601|(a)|(3)">§ 25-601(a)(3)</cite>]; provided, that the citizens association has, at least 30 days before the Board's receipt of the application, registered with ABCA by providing a copy of its charter, and an e-mail or other electronic address in a form consistent with ABCA's procedures.</text>
     </para>
-  </para>
-  <para>
-    <num>(a-1)</num>
-    <text>For the purposes of subsection (a) of this section, an application for a streatery, sidewalk café, or summer garden endorsement or license shall be considered to be a substantial change in operation and subject to the notice requirements of this section.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -108,6 +104,9 @@
     <annotation doc="D.C. Law 13-298" type="History">May 3, 2001, D.C. Law 13-298, § 101, 48 DCR 2959</annotation>
     <annotation doc="D.C. Law 15-187" type="History">Sept. 30, 2004, D.C. Law 15-187, §§ 101(s), 201(e), 51 DCR 6525</annotation>
     <annotation doc="D.C. Law 19-310" type="History">May 1, 2013, D.C. Law 19-310, § 2(o), 60 DCR 3410</annotation>
+    <annotation doc="D.C. Law 22-165" type="History" path="§2|(d)|(4)">Oct. 30, 2018, D.C. Law 22-165, §2(d)(4), 65 DCR 9366</annotation>
+    <annotation doc="D.C. Law 24-127" type="History" path="§2|(d)|(4)">June 30, 2022, D.C. Law 24-127, §2(d)(4), 69 DCR 5071</annotation>
+    <annotation doc="D.C. Law 24-332" type="History" path="§5">Mar. 22, 2023, D.C. Law 24-332, §5, 70 DCR 1582</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 2(o) of the Omnibus Alcoholic Beverage Regulation Congressional Review Emergency Act of 2013 (D.C. Act 20-52, April 22, 2013,  60 DCR 6372, 20 DCSTAT 1388).</annotation>
     <annotation type="Emergency Legislation">For temporary addition of (a)(5), see § 2(o) of the Omnibus Alcoholic Beverage Regulation Emergency Amendment Act of 2012 (D.C. Act 19-597, January 14, 2013,  60 DCR 1001).</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-310">D.C. Law 19-310</cite> added (a)(5); and made a related change.</annotation>
@@ -115,30 +114,5 @@
     <annotation type="Prior Codifications">1973 Ed., § 25-115.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 25-421.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§25-353">§ 25-353</cite>, <cite path="§25-423">§ 25-423</cite>, and <cite path="§25-446">§ 25-446</cite>.</annotation>
-    <annotation app="2018-10-30" doc="D.C. Law 22-165" eff="2018-10-30" path="§2|(d)|(4)|(A)" type="History"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-165" eff="2018-10-30" path="§2|(d)|(4)|(B)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-326" path="§204|(b)|(3)" codified:display="Note" app="2020-05-27" eff="2020-05-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-326" path="§204|(b)|(3)">§ 204(b)(3) of Coronavirus Support Emergency Amendment Act of 2020 (D.C. Act 23-326, May 27, 2020, 67 DCR 7045)</cite>.</annotation>
-    <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="§204|(b)|(3)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-328" path="§204|(b)|(3)" codified:display="Note" app="2020-06-08" eff="2020-06-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-328" path="§204|(b)|(3)">§ 204(b)(3) of Coronavirus Support Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-328, June 8, 2020, 67 DCR 7598)</cite>.</annotation>
-    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="§204|(b)|(3)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§204|(b)|(3)" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§204|(b)|(3)">§ 204(b)(3) of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
-    <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§204|(b)|(3)" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§204|(b)|(3)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§204|(b)|(3)">§ 204(b)(3) of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§204|(b)|(3)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§204|(b)|(3)" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-30" path="§204|(b)|(3)">§ 204(b)(3) of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
-    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§204|(b)|(3)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-96" path="§204|(b)|(3)" codified:display="Note" app="2021-06-07" eff="2021-06-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-96" path="§204|(b)|(3)">§ 204(b)(3) of Coronavirus Support Congressional Review Emergency Amendment Act of 2021 (D.C. Act 24-96, June 7, 2021, 68 DCR 006025)</cite>.</annotation>
-    <annotation app="2021-06-07" doc="D.C. Act 24-96" eff="2021-06-07" path="§204|(b)|(3)" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-9" path="§204|(b)|(3)" codified:display="Note" app="2021-06-24" eff="2021-06-24">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-9" path="§204|(b)|(3)">§ 204(b)(3) of Coronavirus Support Temporary Amendment Act of 2021 (D.C. Law 24-9, June 24, 2021, 68 DCR 004824)</cite>.</annotation>
-    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§204|(b)|(3)" type="History" display="false"/>
-    <annotation app="2022-06-30" doc="D.C. Law 24-127" eff="2022-06-30" path="§2|(d)|(4)|(A)" type="History"/>
-    <annotation app="2022-06-30" doc="D.C. Law 24-127" eff="2022-06-30" path="§2|(d)|(4)|(B)" type="History"/>
-    <annotation app="2022-06-30" doc="D.C. Law 24-127" eff="2022-06-30" path="§2|(d)|(4)|(C)" type="History"/>
-    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(a)" type="History"/>
-    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(b)" type="History"/>
-    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(c)" type="History"/>
-    <annotation app="2025-12-19" doc="D.C. Act 26-220" eff="2025-12-19" path="§2|(d)" type="History" display="false"/>
-    <annotation app="2025-12-19" doc="D.C. Act 26-220" eff="2025-12-19" path="§2|(d)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-220" path="§2|(d)" codified:display="Note" app="2025-12-19" eff="2025-12-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-220" path="§2|(d)">§ 2(d) of Streatery Program Endorsements and Protest Process Emergency Amendment Act of 2025 (D.C. Act 26-220, Dec. 19, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

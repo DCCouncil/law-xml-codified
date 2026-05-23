@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>9-632</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on March 30, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§9-632(Perm)">Past Permanent Version</cite>.*
+      </text>
   <heading proof="needed">Block party application and requirements.</heading>
   <para>
     <num>(a)</num>
@@ -42,6 +45,10 @@
     </para>
   </para>
   <para>
+    <num>(b-1)</num>
+    <text>A District resident may submit a block party application requesting that a street on which they reside be closed for the purpose of holding a porchfest.</text>
+  </para>
+  <para>
     <num>(c)</num>
     <para>
       <num>(1)</num>
@@ -72,5 +79,8 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§7195|(a)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§7195|(a)">§ 7195(a) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
     <annotation doc="D.C. Law 26-55" path="§7195|(a)" type="Applicability" history="false" app="2025-12-06" eff="2025-12-06">Section 7195 of <cite doc="D.C. Law 26-55" path="§7195">D.C. Law 26-55</cite> amended Section 7 of <cite doc="D.C. Law 25-312" path="§7">D.C. Law 25-312</cite>, thus removing the applicability limitation. Therefore the amendments to this section by <cite doc="D.C. Law 25-312" path="§4|(b)">§4(b) of D.C. Law 25-312</cite> have been implemented.</annotation>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7195|(a)" type="History" display="false"/>
+    <annotation app="2025-12-30" doc="D.C. Act 26-236" eff="2025-12-30" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2025-12-30" doc="D.C. Act 26-236" eff="2025-12-30" path="§2|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-236" path="§2|(b)" codified:display="Note" app="2025-12-30" eff="2025-12-30">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-236" path="§2|(b)">§ 2(b) of Porchfest Permitting Emergency Amendment Act of 2025 (D.C. Act 26-236, Dec. 30, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
