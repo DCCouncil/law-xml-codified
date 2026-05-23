@@ -1,14 +1,99 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-1071.01</num>
   <heading proof="needed">Definitions.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>For the purposes of this title, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>"Casual basis" means occurring at irregular, uncertain, or incidental times and differing in nature from the type of paid work in which the worker is customarily engaged.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Domestic services" means the following work when performed in or around a private residence:</text>
+      <para>
+        <num>(A)</num>
+        <text>Child care, except work performed by the employee of a child development facility, as defined in section 2(3) of the Child Development Facilities Regulation Act of 1997, effective April 13, 1999 (D.C. Law 12-215, D.C. Official Code § 7-2031(3));</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Aiding an elderly person or a person with a disability in activities of daily living;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Organizing, managing, or cleaning the home or its contents, including laundering clothes and washing dishes;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Cooking, preparing, or serving food; or</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Services such as gardening, driving, or shopping when they are incidental to the services described in subparagraphs (A) through (D) of this paragraph.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Domestic services agency" means a hiring entity that employs 2 or more domestic workers and dispatches them to the private residences of customers.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"Domestic worker" means an individual who performs domestic services for compensation in or around the private residence of another, but does not include:</text>
+      <para>
+        <num>(A)</num>
+        <text>An individual who is a family member of the hiring entity for whom the individual performs domestic services;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>An individual who primarily performs household repairs or construction, such as plumbing, masonry, painting, renovating, or similar construction work;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>An individual whose primary responsibilities are caring for, boarding, or walking dogs, cats, or other household pets; or</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>An individual employed or engaged on a casual basis.</text>
+      </para>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"Engage" means to pay an independent contractor a fee for services.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>"Hiring entity" means an individual, partnership, association, corporation, business trust, or other entity, person, or group that employs or seeks to employ or engages or seeks to engage an individual to perform domestic services in the District for 5 or more hours in a calendar month. The term "hiring entity" does not include the customer of a domestic services agency or an agency, branch, or instrumentality of a state, the District, or the United States government.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>"Live-in domestic worker" means a domestic worker whose employer provides the domestic worker with lodging in the residence where the domestic work is performed.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>"Referral agency" means an individual, partnership, association, corporation, business trust, or any entity, person, or group, other than a hiring entity, that, as a primary function of its business, connects prospective or current hiring entities and domestic workers to facilitate domestic services.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>"Services contract" means a written agreement between one or more hiring entities and one or more domestic workers.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>"Shared services" means domestic services that a single domestic worker performs, often simultaneously for the mutual benefit of 2 or more hiring entities on a regular schedule, such as when 2 families employ a single caregiver to provide shared childcare for the families' children during the traditional work week.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>"Wage Payment Act" means An Act To provide for the payment and collection of wages in the District of Columbia, approved August 3, 1956 (70 Stat. 976; D.C. Official Code § 32-1301 <em>et seq.</em>).</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§32-1071.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§32-1071.01">Applicability of <cite doc="D.C. Law 24-305" path="">D.C. Law 24-305</cite>: <cite doc="D.C. Law 24-305" path="§401">§ 401 of D.C. Law 24-305</cite> provided that the creation of this section by <cite doc="D.C. Law 24-305" path="§101">§ 101 of D.C. Law 24-305</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2023-03-10" doc="D.C. Law 24-305" eff="2023-03-10" path="" type="History" display="false"/>
     <annotation app="2023-03-10" doc="D.C. Law 24-305" eff="2023-03-10" path="§401|(a)|(1)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-305" eff="2023-03-10" path="§101" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-305" path="§101" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-305" path="">D.C. Law 24-305</cite>: <cite doc="D.C. Law 24-305" path="§401">§ 401 of D.C. Law 24-305</cite> provided that the creation of this section by <cite doc="D.C. Law 24-305" path="§101">§ 101 of D.C. Law 24-305</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-03-10" doc="D.C. Law 24-305" eff="2023-03-10" path="§101" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-305" path="§101" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-305" path="">D.C. Law 24-305</cite>: <cite doc="D.C. Law 24-305" path="§401">§ 401 of D.C. Law 24-305</cite> provided that the creation of this section by <cite doc="D.C. Law 24-305" path="§101">§ 101 of D.C. Law 24-305</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7090|(a)" type="History" display="false"/>
+    <annotation doc="D.C. Law 25-50" path="§7090|(a)" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7090">Section 7090(a) of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-305" path="§401">section 401 of D.C. Law 24-305</cite> changing the applicability provision impacting this section to January 1, 2023.  Therefore the creation of this section by Law 24-305 has been implemented.
+        </annotation>
   </annotations>
 </section>

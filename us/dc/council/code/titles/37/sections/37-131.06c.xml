@@ -1,13 +1,99 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>37-131.06c</num>
   <heading proof="needed">Food vending cart service and storage requirements.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>Food vending carts may be serviced and stored in the following locations:</text>
+    <para>
+      <num>(1)</num>
+      <text>A vending depot that meets the requirements of section 574 of Title 24 of the District of Columbia Municipal Regulations (24 DCMR § 574);</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A shared kitchen or support facility;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>An existing, brick-and-mortar food establishment with a fixed location, such as a delicatessen, bakery, or restaurant;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>A community center;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>A cottage food business if the vending cart belongs to the cottage food business; or</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>A microenterprise home kitchen business if the vending cart belongs to the microenterprise home kitchen business.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>A shared kitchen or support facility, existing food establishment with a fixed location, or a community center may be permitted to support the servicing and storage of food vending carts; provided, that:</text>
+    <para>
+      <num>(1)</num>
+      <text>The food vending cart will be stored in a space and manner that protects the cart from contamination;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>There is adequate space for the proper storage of inventory, such as food, supplies, and utensils, used by the vendor;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>There is adequate space for the cleaning of any food vending carts serviced and stored at the facility;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The vendor has access to on-site food preparation and food handling areas, if needed; and</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The facility will provide access to hot and cold water, potable water, electrical outlets, and receptacles or systems for the proper disposal of trash and food waste.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>A microenterprise home kitchen business may be permitted to support the service and storage of up to two food vending carts; provided, that:</text>
+    <para>
+      <num>(1)</num>
+      <text>The food vending cart will be stored in a space and manner that protects the cart from contamination;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The storage area is designated and clearly identified upon approval and shall not be relocated without approval by the Department of Health;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The microenterprise home kitchen business is capable of supporting the proper preparation and storage of the food being sold from the food vending cart.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>An alternative service and storage facility, such as a private garage, may be permitted to support the service and storage of up to 4 food vending carts; provided, that:</text>
+    <para>
+      <num>(1)</num>
+      <text>The vendors sell only prepackaged food or non-potentially hazardous uncut fruits and vegetables;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The facility provides the vendor with access to on-site potable water;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The service and storage areas are free of pests such as rats; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Food items are not prepared or stored in the facility.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§37-131.06c" codified:display="Note" codified:doc="D.C. Code" codified:path="§37-131.06c">Applicability of <cite doc="D.C. Law 25-21" path="">D.C. Law 25-21</cite>: <cite doc="D.C. Law 25-21" path="§5">§ 5 of D.C. Law 25-21</cite> provided that the creation of this section by <cite doc="D.C. Law 25-21" path="§3|(c)">§ 3(c) of D.C. Law 25-21</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 18-71" type="History" path="§7c">Oct. 22, 2009, D.C. Law 18-71, § 7c</annotation>
-    <annotation app="2023-07-01" doc="D.C. Law 25-21" eff="2023-07-01" path="§5|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-21" eff="2023-07-01" path="§3|(c)" prefix="as added" type="History"/>
+    <annotation app="2023-07-01" doc="D.C. Law 25-21" eff="2023-07-01" path="§3|(c)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 25-21" path="§3|(c)" codified:display="Note" app="2023-07-01" eff="2023-07-01">Applicability of <cite doc="D.C. Law 25-21" path="">D.C. Law 25-21</cite>: <cite doc="D.C. Law 25-21" path="§5">§ 5 of D.C. Law 25-21</cite> provided that the creation of this section by <cite doc="D.C. Law 25-21" path="§3|(c)">§ 3(c) of D.C. Law 25-21</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-07-01" doc="D.C. Law 25-21" eff="2023-07-01" path="§3|(c)" type="History"/>
   </annotations>

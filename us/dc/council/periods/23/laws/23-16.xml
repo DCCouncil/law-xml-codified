@@ -3100,7 +3100,7 @@
           <para>
             <num>(1)</num>
             <text>Section 47-2002(d) is amended by striking the phrase "shall be dedicated to the Commission on the Arts and Humanities, established by the Commission on the Arts and Humanities Act, effective January 29, 1998 (D.C. Law 12-42; D.C. Official Code § 39-201 <em>et seq.</em>) to support the functions, purposes, and costs of the Commission" and inserting the phrase "shall be dedicated to the Arts and Humanities Fund, established by § 39-205.01" in its place.</text>
-            <codify:find-replace path="§47-2002|(d)" count="1" codified:doc="D.C. Code" codified:path="§47-2002|(d)">
+            <codify:find-replace path="§47-2002|(d)" count="1" codified:doc="D.C. Code" codified:path="§47-2002|(d)|(1)">
               <find>shall be dedicated to the Commission on the Arts and Humanities established by <code-cite doc="D.C. Code" path="39|2">the Commission on the Arts and Humanities Act, effective January 29, 1998 (D.C. Law 12-42; D.C. Official Code § 39-201, <em>et seq.</em>,</code-cite> to support the functions, purposes, and costs of the Commission</find>
               <replace>shall be dedicated to the Arts and Humanities Fund, established by <cite doc="D.C. Code" path="§39-205.01">§ 39-205.01</cite></replace>
             </codify:find-replace>
@@ -3108,7 +3108,7 @@
           <para>
             <num>(2)</num>
             <text>Section 47-2202(b) is amended by striking the phrase "shall be dedicated to the Commission on the Arts and Humanities, established by the Commission on the Arts and Humanities Act, effective January 29, 1998 (D.C. Law 12-42; D.C. Official Code § 39-201 <em>et seq.</em>) to support the functions, purposes, and costs of the Commission" and inserting the phrase "shall be dedicated to the Arts and Humanities Fund, established by § 39-205.01" in its place.</text>
-            <codify:find-replace path="§47-2202|(b)" count="1" codified:doc="D.C. Code" codified:path="§47-2202|(b)">
+            <codify:find-replace path="§47-2202|(b)" count="1" codified:doc="D.C. Code" codified:path="§47-2202|(b)|(1)">
               <find>shall be dedicated to the Commission on the Arts and Humanities, established by <code-cite doc="D.C. Code" path="39|2">the Commission on the Arts and Humanities Act, effective January 29, 1998 (D.C. Law 12-42; D.C. Official Code § 39-201, <em>et seq</em>.)</code-cite> to support the functions, purposes, and costs of the Commission</find>
               <replace>shall be dedicated to the Arts and Humanities Fund, established by <cite doc="D.C. Code" path="§39-205.01">§ 39-205.01</cite></replace>
             </codify:find-replace>
@@ -8181,7 +8181,7 @@
           <para>
             <num>(1)</num>
             <text>Section 315(c)(2) (D.C. Official Code § 36-621.15(c)(2)) is repealed.</text>
-            <codify:repeal path="§36-621.15|(c)|(2)" codified:doc="D.C. Code" codified:path="§36-621.15|(c)|(2)"/>
+            <codify:repeal path="§36-621.15|(c)|(2)" codified:doc="D.C. Code" codified:path="§36-621.15|(c)"/>
           </para>
           <para>
             <num>(2)</num>

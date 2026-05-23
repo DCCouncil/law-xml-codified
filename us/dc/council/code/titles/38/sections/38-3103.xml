@@ -1,13 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
   <reason>Not Funded</reason>
   <num>38-3103</num>
   <heading proof="needed">Safe Blocks Program.</heading>
   <text>Not Funded.</text>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§38-3103" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-3103">Applicability of <cite doc="D.C. Law 24-285" path="">D.C. Law 24-285</cite>: <cite doc="D.C. Law 24-285" path="§4">§ 4 of D.C. Law 24-285</cite> provided that the creation of this section by <cite doc="D.C. Law 24-285" path="§2|(b)">§ 2(b) of D.C. Law 24-285</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 24-285" eff="2023-03-10" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-285" eff="2023-03-10" path="§2|(b)" type="History"/>
+    <annotation doc="D.C. Law 13-111" type="History" path="§2b">May 23, 2000, D.C. Law 13-111, § 2b</annotation>
+    <annotation app="2023-03-10" doc="D.C. Law 24-285" eff="2023-03-10" path="§2|(b)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-285" path="§2|(b)" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-285" path="">D.C. Law 24-285</cite>: <cite doc="D.C. Law 24-285" path="§4">§ 4 of D.C. Law 24-285</cite> provided that the creation of this section by <cite doc="D.C. Law 24-285" path="§2|(b)">§ 2(b) of D.C. Law 24-285</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-03-10" doc="D.C. Law 24-285" eff="2023-03-10" path="§2|(b)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6123|(a)" type="History" display="false"/>
+    <annotation doc="D.C. Law 25-50" path="§6123|(a)" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§6123">Section 6123 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-285" path="§4">section 4 of D.C. Law 24-285</cite> retaining the applicability provision impacting this section.  Therefore the creation of this section by section 2(b) of Law 24-285 has not been implemented.
+        </annotation>
   </annotations>
 </section>

@@ -1,18 +1,71 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-791.03</num>
   <heading proof="needed">Eligibility requirements for participating schools and training programs.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>A school or training program applying to participate in the Program shall be licensed to operate and in good standing in the District or another state.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Eligible schools and training programs shall be competitively reviewed and selected by the Mayor for participation in the Program based on:</text>
+    <para>
+      <num>(1)</num>
+      <text>The number of years the school or training program has successfully provided education or training in the healthcare sector and in high-need healthcare careers;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The quality of the education or training provided by the school or training program;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The school or training program's commitment to train individuals for high-need healthcare careers; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Such other relevant factors as the Mayor may establish by rule.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>Preferential consideration for participation in the Program shall be given to eligible schools and training programs located in the District.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>Each school or training program selected to participate in the Program shall enter into a contract with the District agreeing to:</text>
+    <para>
+      <num>(1)</num>
+      <text>Educate or train Program participants;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Assist Program participants in the required examinations;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Pay the examination fees necessary for the Program participant's licensure, registration, or certification in a high-need healthcare career;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Assist Program participants in submitting applications for their licensure, registration, or certification in a high-need healthcare career; and</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Submit such reports and information regarding the school or training program's Program participation as may be required by the Mayor.</text>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>The contract required by subsection (d) of this section may provide the District with specific remedies for a school or training program's breach of the contract, and the District shall have the general right to enforce the contract in law or equity.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§7-791.03" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-791.03">Applicability of <cite doc="D.C. Law 24-313" path="">D.C. Law 24-313</cite>: <cite doc="D.C. Law 24-313" path="§301">§ 301 of D.C. Law 24-313</cite> provided that the creation of this section by <cite doc="D.C. Law 24-313" path="§103">§ 103 of D.C. Law 24-313</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-468" path="§103" codified:display="Note" app="2023-03-10" eff="2022-07-06">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-468" path="§103">§ 103 of High Need Healthcare Career Scholarship and Health Professional Loan Repayment Program Emergency Amendment Act of 2022 (D.C. Act 24-468, July 6, 2022, 69 DCR 008390)</cite>.</annotation>
     <annotation app="2023-03-10" doc="D.C. Act 24-468" eff="2022-07-06" path="§103" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-184" path="§103" codified:display="Note" app="2023-03-10" eff="2022-09-21">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-184" path="§103">§ 103 of High Need Healthcare Career Scholarship and Health Professional Loan Repayment Program Temporary Amendment Act of 2022 (D.C. Law 24-184, Sept. 21, 2022, 0 DCR 0)</cite>.</annotation>
     <annotation app="2023-03-10" doc="D.C. Law 24-184" eff="2022-09-21" path="§103" type="History" display="false"/>
     <annotation app="2023-03-10" doc="D.C. Law 24-313" eff="2023-03-10" path="" type="History" display="false"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-313" eff="2023-03-10" path="§301|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-313" eff="2023-03-10" path="§103" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-313" path="§103" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-313" path="">D.C. Law 24-313</cite>: <cite doc="D.C. Law 24-313" path="§301">§ 301 of D.C. Law 24-313</cite> provided that the creation of this section by <cite doc="D.C. Law 24-313" path="§103">§ 103 of D.C. Law 24-313</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-03-10" doc="D.C. Law 24-313" eff="2023-03-10" path="§103" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-313" path="§103" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-313" path="">D.C. Law 24-313</cite>: <cite doc="D.C. Law 24-313" path="§301">§ 301 of D.C. Law 24-313</cite> provided that the creation of this section by <cite doc="D.C. Law 24-313" path="§103">§ 103 of D.C. Law 24-313</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

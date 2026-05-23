@@ -1,13 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>37-131.08d</num>
   <heading proof="needed">Columbia Heights-Mount Pleasant public asset and vendor support study.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>The Mayor shall commission a study to:</text>
+    <para>
+      <num>(1)</num>
+      <text>Identify potential spaces for the storage and servicing of sidewalk vending carts within or near the Columbia Heights-Mount Pleasant Sidewalk Vending Zone, including any cost estimates for acquiring the space and making necessary improvements;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Identify potential locations for the siting of public restroom facilities within or near the Columbia Heights-Mount Pleasant Sidewalk Vending Zone, including cost estimates of any work that would be required to construct a public restroom facility;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Make <u>r</u>ecommendations for capital improvements at areas within the Columbia Heights-Mount Pleasant Sidewalk Vending Zone to better accommodate vending activity and pedestrian access; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Identify potential locations for an indoor vending market within or near the Columbia Heights-Mount Pleasant Sidewalk Vending Zone, including cost estimates for acquiring the land if necessary.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The Mayor shall submit the study required pursuant to paragraph (1) no later than one year after [insert applicability date].</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§37-131.08d" codified:display="Note" codified:doc="D.C. Code" codified:path="§37-131.08d">Applicability of <cite doc="D.C. Law 25-21" path="">D.C. Law 25-21</cite>: <cite doc="D.C. Law 25-21" path="§5">§ 5 of D.C. Law 25-21</cite> provided that the creation of this section by <cite doc="D.C. Law 25-21" path="§3|(f)">§ 3(f) of D.C. Law 25-21</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 18-71" type="History" path="§9d">Oct. 22, 2009, D.C. Law 18-71, § 9d</annotation>
-    <annotation app="2023-07-01" doc="D.C. Law 25-21" eff="2023-07-01" path="§5|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-21" eff="2023-07-01" path="§3|(f)" prefix="as added" type="History"/>
+    <annotation app="2023-07-01" doc="D.C. Law 25-21" eff="2023-07-01" path="§3|(f)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 25-21" path="§3|(f)" codified:display="Note" app="2023-07-01" eff="2023-07-01">Applicability of <cite doc="D.C. Law 25-21" path="">D.C. Law 25-21</cite>: <cite doc="D.C. Law 25-21" path="§5">§ 5 of D.C. Law 25-21</cite> provided that the creation of this section by <cite doc="D.C. Law 25-21" path="§3|(f)">§ 3(f) of D.C. Law 25-21</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-07-01" doc="D.C. Law 25-21" eff="2023-07-01" path="§3|(f)" type="History"/>
   </annotations>

@@ -1,9 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code" placeholder="Repealed">
-  <reason>Repealed</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-2531.01</num>
-  <heading>Performance Parking Program Fund.</heading>
-  <text>Repealed.</text>
+  <heading proof="needed">Performance Parking Program Fund.</heading>
+  <para>
+    <num>(a)</num>
+    <text>There is established as a nonlapsing fund the Performance Parking Program Fund ("Fund"), which shall be administered by the Director of the District Department of Transportation in accordance with subsections (b) and (c) of this section.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>All parking-meter revenue collected within the Greater U Street Performance Parking Zone established by section 8a that exceeds baseline revenue from metered spaces within the zone as of October 1, 2023, as determined by the Director of the Department of Transportation, shall be deposited in the Fund.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>Money in the Fund shall be used for the following purposes:</text>
+    <para>
+      <num>(1)</num>
+      <text>Up to 60% shall be used to repay the cost of procurement and maintenance of new meters and related signage for the pilot program in the Greater U Street Performance Parking Zone;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Once the cost of meter procurement is paid in full for the Greater U Street Performance Parking Zone, up to 5% shall be used to pay for meter maintenance and related signage in that zone; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The remaining balance shall be used solely for the following purposes within and immediately adjacent to the Greater U Street Performance Parking Zone:</text>
+      <para>
+        <num>(A)</num>
+        <text>Place management initiatives;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Public space maintenance;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Public safety initiatives;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Transportation safety and public space improvements; and,</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Support for businesses."</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <para>
+      <num>(1)</num>
+      <text>The money deposited into the Fund but not expended in a fiscal year shall not revert to the unassigned fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 17-279" type="History" path="§2a">Nov. 25, 2008, D.C. Law 17-279, § 2a</annotation>
     <annotation doc="D.C. Law 19-21" type="History">as added Sept. 14, 2011, D.C. Law 19-21, § 6083(b), 58 DCR 6226</annotation>
@@ -21,5 +74,6 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§6013|(a)" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-458" path="§6013|(a)">§ 6013(a) of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
     <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§6013|(a)" type="History" display="false"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§6013|(a)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6112|(a)" type="History"/>
   </annotations>
 </section>

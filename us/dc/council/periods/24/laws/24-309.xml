@@ -424,8 +424,8 @@
     <para>
       <num>(a)</num>
       <text>Amendatory section 312 within section 2(b) shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:repeal doc="D.C. Code" path="§4-1303.12" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-1303.12"/>
-      <codify:find-replace doc="D.C. Code" path="§4-1303.12" history="false" display-template="" count="2" codified:doc="D.C. Code" codified:path="§4-1303.12">
+      <codify:repeal doc="D.C. Code" path="§4-1303.12" history="false" display-template=""/>
+      <codify:find-replace doc="D.C. Code" path="§4-1303.12" history="false" display-template="" count="2">
         <find>Repealed</find>
         <replace>Not Funded</replace>
       </codify:find-replace>

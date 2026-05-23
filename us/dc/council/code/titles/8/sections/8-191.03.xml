@@ -1,14 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-191.03</num>
   <heading proof="needed">District Waterways Advisory Plan.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>Within one year of the initial appointment of District Waterways Advisory Commission voting members, the Commission shall develop and adopt a District Waterways Advisory Plan ("Advisory Plan") to create a strategic vision for the Anacostia and Potomac Rivers, the Washington Channel, and adjacent property.  The Advisory Plan shall include recommendations for:</text>
+    <para>
+      <num>(1)</num>
+      <text>The orderly, safe, and efficient use of the Anacostia and Potomac Rivers and the Washington Channel for boating and recreation;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Public and private uses of property and infrastructure adjacent to the Anacostia and Potomac Rivers and the Washington Channel;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Interagency and regional coordination on issues relevant to the Anacostia and Potomac Rivers, the Washington Channel, and adjacent property;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Environmental conservation and management of the Anacostia and Potomac Rivers, the Washington Channel, and adjacent property;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Strategies for coordinated economic growth on and adjacent to the Anacostia and Potomac Rivers and the Washington Channel;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Assessments of safety and security risks and needs on and adjacent to the Anacostia and Potomac Rivers and the Washington Channel;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Identification of transportation gaps on and adjacent to the Anacostia and Potomac Rivers and the Washington Channel; and</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>Opportunities to increase local control of the Anacostia and Potomac Rivers, the Washington Channel, and adjacent property.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>The Advisory Plan shall be developed with public input and input from <em>ex officio</em> members of the Commission.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>At least 60 days prior to adoption of an Advisory Plan, the Commission shall publish a draft of the Advisory Plan for a specified public comment period that shall be not fewer than 30 days.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The Commission shall hold at least 2 public meetings, one for residents east of the Anacostia River and one for residents west of the Anacostia River, to solicit public testimony and written comments on the draft Advisory Plan.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>After conclusion of the public comment period, the voting members of the Commission shall adopt the Advisory Plan after revisions, if any.  Thereupon, the Advisory Plan shall be submitted to the Office of Waterways Management for publication.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>The Advisory Plan shall be updated at least once every 2 years, following the same process required for the initial Advisory Plan pursuant to subsection (b) of this section.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§8-191.03" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-191.03">Applicability of <cite doc="D.C. Law 24-336" path="">D.C. Law 24-336</cite>: <cite doc="D.C. Law 24-336" path="§6">§ 6 of D.C. Law 24-336</cite> provided that the creation of this section by <cite doc="D.C. Law 24-336" path="§4">§ 4 of D.C. Law 24-336</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 24-336" eff="2023-03-22" path="§6|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-336" eff="2023-03-22" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-336" eff="2023-03-22" path="§4" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-336" path="§4" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-336" path="">D.C. Law 24-336</cite>: <cite doc="D.C. Law 24-336" path="§6">§ 6 of D.C. Law 24-336</cite> provided that the creation of this section by <cite doc="D.C. Law 24-336" path="§4">§ 4 of D.C. Law 24-336</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-03-22" doc="D.C. Law 24-336" eff="2023-03-22" path="" type="History" display="false"/>
     <annotation app="2023-03-22" doc="D.C. Law 24-336" eff="2023-03-22" path="§4" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-336" path="§4" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-336" path="">D.C. Law 24-336</cite>: <cite doc="D.C. Law 24-336" path="§6">§ 6 of D.C. Law 24-336</cite> provided that the creation of this section by <cite doc="D.C. Law 24-336" path="§4">§ 4 of D.C. Law 24-336</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

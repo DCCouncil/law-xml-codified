@@ -1,10 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-2002.07</num>
-  <heading>Revenue from tax on gross receipts from sale of or charges for service of parking or storing vehicles of trailers dedicated to WMATA operating subsidy.</heading>
-  <text>All of the revenue derived from the collection of the tax imposed upon all vendors by <cite path="§47-2002|(1)" proof="true">§ 47-2002(1)</cite> on the gross receipts from the sale of or charges for the service of parking or storing vehicles or trailers, except the service of parking or storing of motor vehicles or trailers on a parking lot owned or operated by the Washington Metropolitan Area Transit Authority (“WMATA”) and located adjacent to a WMATA passenger stop or station, shall be dedicated annually to paying the District’s annual operating subsidies to WMATA.</text>
+  <heading>Revenue from tax on gross receipts from sale of or charges for service of parking or storing vehicles or trailers dedicated to WMATA operating subsidy.</heading>
+  <para>
+    <num>(a)</num>
+    <text>For fiscal years beginning after September 30, 2017, and ending before October 1, 2023, all of the revenue derived from the collection of the tax imposed upon all vendors by <cite path="§47-2002|(1)" proof="true"><cite path="§47-2002|(a)|(1)">§ 47-2002(a)(1</cite>)</cite> on the gross receipts from the sale of or charges for the service of parking or storing vehicles or trailers, except the service of parking or storing of motor vehicles or trailers on a parking lot owned or operated by the Washington Metropolitan Area Transit Authority (“WMATA”) and located adjacent to a WMATA passenger stop or station, shall be dedicated annually to paying the District’s annual operating subsidies to WMATA.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>For fiscal years beginning after September 30, 2023, and ending before October 1, 2027, from the revenue described in subsection (a) of this section there shall be dedicated annually to paying the District's annual operating subsidies to WMATA the lesser of:</text>
+    <para>
+      <num>(1)</num>
+      <text>All of such revenue; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>An amount equal to 102% of the amount dedicated pursuant to this subsection from such revenue in the prior fiscal year to paying the District's annual operating subsidies to WMATA.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>For fiscal years beginning after September 30, 2027, all of the revenue described in subsection (a) of this section shall be dedicated annually to paying the District's annual operating subsidies to WMATA.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 18-370" type="History">Apr. 8, 2011, D.C. Law 18-370, § 625(b)(2), 58 DCR 1008</annotation>
     <annotation type="Editor's Notes">Section 629 of <cite doc="D.C. Law 18-370">D.C. Law 18-370</cite> provided: “Sec. 629. Applicability. This subtitle shall apply as of October 1, 2011; except, that sections 622 and 623(a)(2) shall apply as of the effective date of this act.”</annotation>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7025|(b)|(1)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7025|(b)|(2)|(A)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7025|(b)|(2)|(B)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7025|(b)|(3)" type="History"/>
   </annotations>
 </section>

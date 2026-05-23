@@ -649,7 +649,7 @@
         <para>
           <num>(2)</num>
           <text>The newly designated subsection (a) is amended by striking the phrase "Every person" and inserting the phrase "Except as provided in subsection (b) of this section, every person" in its place.</text>
-          <codify:find-replace path="(a)" count="1" codified:doc="D.C. Code" codified:path="§2-1402.51">
+          <codify:find-replace path="(a)" count="1" codified:doc="D.C. Code" codified:path="§2-1402.51|(a)">
             <find>Every person</find>
             <replace>Except as provided in subsection (b) of this section, every person</replace>
           </codify:find-replace>

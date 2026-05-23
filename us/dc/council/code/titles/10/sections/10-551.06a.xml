@@ -1,14 +1,54 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-551.06a</num>
   <heading proof="needed">Net zero energy construction and maintenance program.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>At least biennially, the Department shall host free training sessions for relevant Department employees, representatives of certified business enterprises in the industry, and interested outside parties on the:</text>
+    <para>
+      <num>(1)</num>
+      <text>Principles of energy efficient construction applicable to net zero energy District buildings;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Distinctive operational and maintenance needs of highly energy efficient buildings;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Types of renewable energy generation systems used in District government buildings; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Distinctive operational and maintenance needs of renewable energy generation systems.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>No later than November 30 of each even-numbered year, the Department shall submit to the Council a report on certified business enterprise and resident employee participation in the Department's net zero energy and energy retrofitting projects, including, for the prior 2 fiscal years:</text>
+    <para>
+      <num>(1)</num>
+      <text>A list of Department-managed net zero energy and energy retrofitting projects ongoing or completed during the prior 2 fiscal years whose cost to the District has exceeded or is planned to exceed $250,000;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>For each such project, the total estimated cost of such projects and the portion of that cost completed by, or estimated to be completed by, certified business enterprises;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>For each such project, the total or estimated total labor hours dedicated to such projects and the portion or estimated portion of those labor hours completed by District residents; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Copies of any approved certified business enterprise program waivers that the Department obtained for such projects.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 19-21" type="History" path="§1027a">Sept. 14, 2011, D.C. Law 19-21, § 1027a</annotation>
-    <annotation app="notfunded" doc="D.C. Law 24-306" eff="2023-03-10" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-306" eff="2023-03-10" path="§3|(d)" prefix="as added" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-306" eff="2023-03-10" path="§3|(d)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-306" path="§3|(d)" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-306" path="">D.C. Law 24-306</cite>: <cite doc="D.C. Law 24-306" path="§4">§ 4 of D.C. Law 24-306</cite> provided that the creation of this section by <cite doc="D.C. Law 24-306" path="§3|(d)">§ 3(d) of D.C. Law 24-306</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-03-10" doc="D.C. Law 24-306" eff="2023-03-10" path="§3|(d)" type="History"/>
+    <annotation doc="D.C. Law 25-50" path="§7091" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7091">Section 7091 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 24-306" path="§4">section 4 of D.C. Law 24-306</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 3(d) of Law 24-306 has been implemented.
+        </annotation>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7091" type="History" display="false"/>
   </annotations>
 </section>

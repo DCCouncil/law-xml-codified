@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>10-551.02</num>
   <heading>Organization.</heading>
-  <text>There are established 6 primary organizational functions in the Department as follows:</text>
+  <text>There are established 7 primary organizational functions in the Department as follows:</text>
   <para>
     <num>(1)</num>
     <text>Agency Management, which shall include the staff and organizational units needed to carry out the overall plan and direction for the Department, including coordination and management for information technology, resource allocation, human resources, procurement, fixed-cost forecasting for District facilities, and the administrative functions of the Department;</text>
@@ -80,16 +80,32 @@
     </para>
     <para>
       <num>(F)</num>
-      <text>Such other services necessary or desirable to improve the effectiveness of the Department and advance the purposes of this chapter; and</text>
+      <text>Such other services necessary or desirable to improve the effectiveness of the Department and advance the purposes of this chapter;</text>
     </para>
   </para>
   <para>
     <num>(6)</num>
-    <text>Protective Services Division, which shall coordinate, manage, and provide security services for District government facilities through the use of special police officers and security officers, as defined in <cite path="§47-2839.01">§ 47-2839.01</cite>, civilian employees, or contractors.</text>
+    <text>Protective Services Division, which shall coordinate, manage, and provide security services for District government facilities through the use of special police officers and security officers, as defined in <cite path="§47-2839.01">§ 47-2839.01</cite>, civilian employees, or contractors; and</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(7)</num>
-    <text>Not Funded.</text>
+    <text>Sustainability and Energy, which shall implement and oversee energy and sustainability efforts at District-owned properties including:</text>
+    <para>
+      <num>(A)</num>
+      <text>Achieving compliance with building energy efficiency and net-zero-energy standards, as that term is defined in section 2(a)(3) of the Clean Energy DC Building Code Amendment Act of 2022, effective September 21, 2022 (D.C. Law 24-177; D.C. Official Code § 6-1453.01(a)(3)) [availble October 1,], as required under District law;</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Ensuring that District-owned properties comply with sustainable waste management requirements under <cite path="§8-1031.04a">§ 8-1031.04a</cite>, and developing and implementing waste diversion programs, including source reduction, recycling, reuse, composting, and other Zero Waste programs and services;</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Overseeing the environmental programs office established by <cite path="§38-825.01">§ 38-825.01</cite>; and</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>Providing direct guidance and support to other agency divisions and District agencies on adhering with legislative and regulatory energy and sustainability mandates and achieving other energy and sustainability goals.</text>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 19-21" type="History" path="§1023">Sept. 14, 2011, D.C. Law 19-21, § 1023, 58 DCR 6226</annotation>
@@ -102,12 +118,14 @@
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 1003 of Fiscal Year 2012 Budget Support Emergency Act of 2011 (D.C. Act 19-93, June 29, 2011,  58 DCR 5599).</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> rewrote (6).</annotation>
     <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> substituted “this subtitle” for “this act” [translated as “this chapter”] in (5)(F).</annotation>
-    <annotation app="notfunded" doc="D.C. Law 24-306" eff="2023-03-10" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-306" eff="2023-03-10" path="§3|(a)|(1)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-306" eff="2023-03-10" path="§3|(a)|(2)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-306" eff="2023-03-10" path="§3|(a)|(3)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-306" eff="2023-03-10" path="§3|(a)|(4)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-306" eff="2023-03-10" path="§3|(a)|(1)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-306" eff="2023-03-10" path="§3|(a)|(2)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-306" eff="2023-03-10" path="§3|(a)|(3)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-306" eff="2023-03-10" path="§3|(a)|(4)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-306" path="§3|(a)" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-306" path="">D.C. Law 24-306</cite>: <cite doc="D.C. Law 24-306" path="§4">§ 4 of D.C. Law 24-306</cite> provided that the change made to this section by <cite doc="D.C. Law 24-306" path="§3|(a)">§ 3(a) of D.C. Law 24-306</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-03-10" doc="D.C. Law 24-306" eff="2023-03-10" path="§3|(a)" type="History"/>
+    <annotation doc="D.C. Law 25-50" path="§7091" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7091">Section 7091 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 24-306" path="§4">section 4 of D.C. Law 24-306</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 3(a) of Law 24-306 has been implemented.
+        </annotation>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7091" type="History" display="false"/>
   </annotations>
 </section>

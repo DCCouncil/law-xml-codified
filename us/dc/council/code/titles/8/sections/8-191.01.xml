@@ -1,14 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-191.01</num>
   <heading proof="needed">Establishment; purpose and duties.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>There is established, within the Department of Energy and the Environment an Office of District Waterways Management ("Office"). The purpose of the Office is to plan, promote and facilitate stakeholder cooperation for the diverse uses of and access to the Anacostia and Potomac Rivers, the Washington Channel, and adjacent property.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The Office shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Publish the Waterways Advisory Plan adopted pursuant to <cite path="§8-191.03">§ 8-191.03</cite>;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Facilitate communication between the District, Maryland, Virginia, the federal government, businesses, community organizations, and the public on issues relevant to the Anacostia and Potomac Rivers and the Washington Channel, including economic activity, public safety and security, environment, recreation, and transportation; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Advise the Mayor and the Council on issues related to the Anacostia and Potomac Rivers, the Washington Channel, and adjacent property, including public improvements, maintenance, operations, programming, budgeting, resiliency, planning, and public safety and security.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§8-191.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-191.01">Applicability of <cite doc="D.C. Law 24-336" path="">D.C. Law 24-336</cite>: <cite doc="D.C. Law 24-336" path="§6">§ 6 of D.C. Law 24-336</cite> provided that the creation of this section by <cite doc="D.C. Law 24-336" path="§2">§ 2 of D.C. Law 24-336</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 24-336" eff="2023-03-22" path="§6|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-336" eff="2023-03-22" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-336" eff="2023-03-22" path="§2" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-336" path="§2" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-336" path="">D.C. Law 24-336</cite>: <cite doc="D.C. Law 24-336" path="§6">§ 6 of D.C. Law 24-336</cite> provided that the creation of this section by <cite doc="D.C. Law 24-336" path="§2">§ 2 of D.C. Law 24-336</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-03-22" doc="D.C. Law 24-336" eff="2023-03-22" path="" type="History" display="false"/>
     <annotation app="2023-03-22" doc="D.C. Law 24-336" eff="2023-03-22" path="§2" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-336" path="§2" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-336" path="">D.C. Law 24-336</cite>: <cite doc="D.C. Law 24-336" path="§6">§ 6 of D.C. Law 24-336</cite> provided that the creation of this section by <cite doc="D.C. Law 24-336" path="§2">§ 2 of D.C. Law 24-336</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>
