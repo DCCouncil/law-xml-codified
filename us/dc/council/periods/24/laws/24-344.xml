@@ -1498,7 +1498,7 @@
       <para>
         <num>(1)</num>
         <text>Paragraph (1)(B) is amended by striking the phrase "confined women" and inserting the phrase "confined persons" in its place.</text>
-        <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§24-276.04|(1)">
+        <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§24-276.04|(a)|(1)">
           <find>confined women</find>
           <replace>confined persons</replace>
         </codify:find-replace>
@@ -1506,7 +1506,7 @@
       <para>
         <num>(2)</num>
         <text>Paragraph (2) is amended by striking the phrase "All women" and inserting the phrase "All persons" in its place.</text>
-        <codify:find-replace path="(2)" count="1" codified:doc="D.C. Code" codified:path="§24-276.04|(2)">
+        <codify:find-replace path="(2)" count="1" codified:doc="D.C. Code" codified:path="§24-276.04|(a)|(2)">
           <find>All women</find>
           <replace>All persons</replace>
         </codify:find-replace>
