@@ -1,62 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
+  <reason>Not Funded</reason>
   <num>50-921.83</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on March 8, 2023.*
-      </text>
-  <heading>Revised revenue allocation for bus service.</heading>
-  <para>
-    <num>(a)</num>
-    <para>
-      <num>(1)</num>
-      <text>The fiscal impact of the general sales tax dedication to the Fare-Free Bus Service Fund, established pursuant to <cite path="§50-921.81">§ 50-921.81</cite>, and the general sales tax dedication to the Bus Service Enhancement Fund, established pursuant to <cite path="§50-921.82">§ 50-921.82</cite>, shall be offset, in that order, by local fiscal year recurring revenues included in the Chief Financial Officer's December 2022 revenue estimate and, if necessary, the February 2023 revenue estimate, that exceed the local fund revenue incorporated in the Fiscal Year 2023 approved budget and financial plan.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>If the excess revenue included in the December 2022 revenue estimate is not sufficient to fully offset the dedication to the Fare-Free Bus Service Fund and the Bus Service Enhancement Fund, the excess revenue shall be set aside first to the Fare-Free Bus Service Fund until that is fully funded.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>In the December 2022 revenue estimate, the Chief Financial Officer shall certify:</text>
-    <para>
-      <num>(1)</num>
-      <text>Whether and by what amount local fiscal year revenues included in the revenue estimate exceed the annual revenue estimate for Fiscal Year 2023 through Fiscal Year 2026, as incorporated in the approved budget and financial plan for Fiscal Year 2023;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Whether such excess revenues are in an amount sufficient to offset the general sales tax dedication identified in subsection (a) of this section; and if not, what amount has been set aside;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>That all such excess revenues have been set aside to ensure the general sales tax dedication identified in subsection (a) of this section is fully offset.</text>
-    </para>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>In the February 2023 revenue estimate, the Chief Financial Officer shall certify:</text>
-    <para>
-      <num>(1)</num>
-      <text>Whether and by what amount local fiscal year revenues included in the revenue estimate exceed the annual revenue estimate for Fiscal Year 2023 through Fiscal Year 2026, as incorporated in the approved budget and financial plan for Fiscal Year 2023;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Whether such excess revenues, together with the excess revenues identified pursuant to this subsection in the December 2022 revenue estimate, are in an amount sufficient to offset the general sales tax dedication identified in subsection (a) of this section; and</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>That all such excess revenues, together with the excess revenues identified pursuant to this subsection in the December 2022 revenue estimate, have been set aside to ensure the general sales tax dedication identified in subsection (a) of this section is fully offset.</text>
-    </para>
-  </para>
-  <codify:emergency doc="D.C. Code" path="§50-921.83" codified:doc="D.C. Code" codified:path="§50-921.83" codified:display="Note"/>
-  <codify:insert doc="D.C. Code" path="§50-921.83" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-921.83">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on March 8, 2023.*
-      </text>
-  </codify:insert>
+  <heading proof="needed">Transit subsidy payments.</heading>
+  <text>Not Funded.</text>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§50-921.83" codified:display="Note" codified:doc="D.C. Code" codified:path="§50-921.83">Applicability of <cite doc="D.C. Law 24-335" path="">D.C. Law 24-335</cite>: <cite doc="D.C. Law 24-335" path="§4">§ 4 of D.C. Law 24-335</cite> provided that the creation of this section by <cite doc="D.C. Law 24-335" path="§2|(b)">§ 2(b) of D.C. Law 24-335</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="2022-12-08" doc="D.C. Act 24-699" eff="2022-12-08" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2022-12-08" doc="D.C. Act 24-699" eff="2022-12-08" path="§2|(b)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-699" path="§2|(b)" codified:display="Note" app="2022-12-08" eff="2022-12-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-699" path="§2|(b)|includes|11bb">§ 11bb of Fare-Free Bus Funding Emergency Amendment Act of 2022 (D.C. Act 24-699, Dec. 8, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation doc="D.C. Law 14-137" type="History" path="§11v">May 21, 2002, D.C. Law 14-137, § 11v</annotation>
+    <annotation doc="D.C. Law 14-137" type="History" path="§11bb" display="false">May 21, 2002, D.C. Law 14-137, § 11bb</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-699" path="§2|(b)" codified:display="Note" app="2023-03-22" eff="2022-12-08">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-699" path="§2|(b)|includes|11bb">§ 11bb of Fare-Free Bus Funding Emergency Amendment Act of 2022 (D.C. Act 24-699, Dec. 8, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2023-03-22" doc="D.C. Act 24-699" eff="2022-12-08" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-335" eff="2023-03-22" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-335" eff="2023-03-22" path="§2|(b)" prefix="as added" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-335" path="§2|(b)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-335" path="">D.C. Law 24-335</cite>: <cite doc="D.C. Law 24-335" path="§4">§ 4 of D.C. Law 24-335</cite> provided that the creation of this section by <cite doc="D.C. Law 24-335" path="§2|(b)">§ 2(b) of D.C. Law 24-335</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-03-22" doc="D.C. Law 24-335" eff="2023-03-22" path="§2|(b)" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-335" eff="2023-03-22" path="§4|(a)" type="History"/>
   </annotations>
 </section>

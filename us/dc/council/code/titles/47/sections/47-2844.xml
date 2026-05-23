@@ -213,6 +213,10 @@
         </para>
       </para>
     </para>
+    <para placeholder="Not Funded">
+      <num>(1B)</num>
+      <text>Not Funded.</text>
+    </para>
     <para>
       <num>(2)</num>
       <para>
@@ -354,5 +358,13 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" codified:display="Note" app="2019-09-04" eff="2019-09-04" path="§7168">For temporary (90 days) repeal of applicability provision of D.C. Law 22-288, see <cite doc="D.C. Act 23-112" path="§7168">§ 7168 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
     <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7168" type="History" display="false"/>
     <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="§501|(bb)|(5)" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§9|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-332" eff="2023-03-22" path="§7|(d)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-332" path="§7|(d)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-332" path="">D.C. Law 24-332</cite>: <cite doc="D.C. Law 24-332" path="§9">§ 9 of D.C. Law 24-332</cite> provided that the change made to this section by <cite doc="D.C. Law 24-332" path="§7|(d)">§ 7(d) of D.C. Law 24-332</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§7|(d)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(b)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the repeal of this section by <cite doc="D.C. Law 24-333" path="§5|(b)">§ 5(b) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§9|(a)" type="History" display="false"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(b)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(b)" type="History"/>
   </annotations>
 </section>

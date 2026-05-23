@@ -6454,7 +6454,7 @@
           <para>
             <num>(3)</num>
             <text>Paragraph (3)(B) is amended by striking the phrase "with the Department" and inserting the phrase "with ABRA" in its place.</text>
-            <codify:find-replace path="(3)|(B)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.01|(3)|(B)">
+            <codify:find-replace path="(3)|(B)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.01|(3)">
               <find>with the Department</find>
               <replace>with ABRA</replace>
             </codify:find-replace>
@@ -6503,7 +6503,7 @@
           <para>
             <num>(1)</num>
             <text>Subsection (c)(1)(B) is amended by striking the phrase "with the Mayor" and inserting the phrase "with ABRA" in its place.</text>
-            <codify:find-replace path="(c)|(1)|(B)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.02|(c)|(1)|(B)">
+            <codify:find-replace path="(c)|(1)|(B)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.02|(c)">
               <find>with the Mayor</find>
               <replace>with ABRA</replace>
             </codify:find-replace>
@@ -6520,7 +6520,7 @@
         <para>
           <num>(c)</num>
           <text>Section 5(b)(2) (D.C. Official Code § 7-1671.04(b)(2)) is amended by striking the phrase "by the Mayor" and inserting the phrase "by ABRA" in its place.</text>
-          <codify:find-replace path="§7-1671.04|(b)|(2)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.04|(b)|(2)">
+          <codify:find-replace path="§7-1671.04|(b)|(2)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.04">
             <find>by the Mayor</find>
             <replace>by ABRA</replace>
           </codify:find-replace>
@@ -6539,7 +6539,7 @@
           <para>
             <num>(2)</num>
             <text>Paragraph (1)(A) is amended by striking the phrase "with the Department" and inserting the phrase "with ABRA" in its place.</text>
-            <codify:find-replace path="(1)|(A)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(1)|(A)">
+            <codify:find-replace path="(1)|(A)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
               <find>with the Department</find>
               <replace>with ABRA</replace>
             </codify:find-replace>
@@ -6550,7 +6550,7 @@
             <para>
               <num>(A)</num>
               <text>Subparagraph (iv) is amended by striking the phrase "by the Department" and inserting the phrase "by the ABC Board" in its place.</text>
-              <codify:find-replace path="(iv)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(4)|(A)|(iv)">
+              <codify:find-replace path="(iv)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
                 <find>by the Department</find>
                 <replace>by the ABC Board</replace>
               </codify:find-replace>
@@ -6558,7 +6558,7 @@
             <para>
               <num>(B)</num>
               <text>Subparagraph (v) is amended by striking the phrase "by the Mayor" and inserting the phrase "by ABRA" in its place.</text>
-              <codify:find-replace path="(v)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(4)|(A)|(v)">
+              <codify:find-replace path="(v)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
                 <find>by the Mayor</find>
                 <replace>by ABRA</replace>
               </codify:find-replace>
@@ -6570,7 +6570,7 @@
             <para>
               <num>(A)</num>
               <text>The lead-in language is amended by striking the phrase "by the Department" and inserting the phrase "by the ABC Board" in its place.</text>
-              <codify:find-replace path="text" count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(5A)">
+              <codify:find-replace path="text" count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
                 <find>by the Department</find>
                 <replace>by the ABC Board</replace>
               </codify:find-replace>
@@ -6578,7 +6578,7 @@
             <para>
               <num>(B)</num>
               <text>Subparagraph (C) is amended by striking the phrase "by the Department" and inserting the phrase "by the ABC Board" in its place.</text>
-              <codify:find-replace path="(C)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(5A)|(C)">
+              <codify:find-replace path="(C)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
                 <find>by the Department</find>
                 <replace>by the ABC Board</replace>
               </codify:find-replace>
@@ -6587,7 +6587,7 @@
           <para>
             <num>(5)</num>
             <text>Paragraph (5B)(D) is amended by striking the phrase "that the Department" and inserting the phrase "that ABRA" in its place.</text>
-            <codify:find-replace path="(5B)|(D)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(5B)|(D)">
+            <codify:find-replace path="(5B)|(D)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
               <find>that the Department</find>
               <replace>that ABRA</replace>
             </codify:find-replace>
@@ -6595,7 +6595,7 @@
           <para>
             <num>(6)</num>
             <text>Paragraph (7) is amended by striking the phrase "if the Mayor determines" and inserting the phrase "if the ABC Board determines" in its place.</text>
-            <codify:find-replace path="(7)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(7)">
+            <codify:find-replace path="(7)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
               <find>if the Mayor determines</find>
               <replace>if the ABC Board determines</replace>
             </codify:find-replace>
@@ -6603,7 +6603,7 @@
           <para codify:path="(10)|(A)">
             <num>(7)</num>
             <text>Paragraph (10)(A) is amended by striking the phrase "apply to the Mayor" and inserting the phrase "apply to the ABC Board" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(10)|(A)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
               <find>apply to the Mayor</find>
               <replace>apply to the ABC Board</replace>
             </codify:find-replace>
@@ -6611,7 +6611,7 @@
           <para>
             <num>(8)</num>
             <text>Paragraph (14) is amended by striking the phrase "notify the Department" and inserting the phrase "notify ABRA" in its place.</text>
-            <codify:find-replace path="(14)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.05|(14)">
+            <codify:find-replace path="(14)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">
               <find>notify the Department</find>
               <replace>notify ABRA</replace>
             </codify:find-replace>
@@ -6626,7 +6626,7 @@
             <para>
               <num>(A)</num>
               <text>Paragraph (1) is amended by striking the phrase "with the Mayor" and inserting the phrase "with ABRA" in its place.</text>
-              <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.06|(d)|(1)">
+              <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.06">
                 <find>with the Mayor</find>
                 <replace>with ABRA</replace>
               </codify:find-replace>
@@ -6634,7 +6634,7 @@
             <para>
               <num>(B)</num>
               <text>Paragraph (3)(A) is amended by striking the phrase "determined by rulemaking" and inserting the phrase "determined by the Mayor by rules issued in accordance with section 14" in its place.</text>
-              <codify:find-replace path="(3)|(A)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.06|(d)|(3)|(A)">
+              <codify:find-replace path="(3)|(A)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.06">
                 <find>determined by rulemaking</find>
                 <replace>determined by the Mayor by rules issued in accordance with <code-cite doc="D.C. Code" path="§7-1671.13">section 14</code-cite></replace>
               </codify:find-replace>
@@ -6642,7 +6642,7 @@
             <para>
               <num>(C)</num>
               <text>Paragraph (4) is amended by striking the phrase "The Mayor" and inserting the phrase "The ABC Board" in its place.</text>
-              <codify:find-replace path="(4)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.06|(d)|(4)">
+              <codify:find-replace path="(4)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.06">
                 <find>The Mayor</find>
                 <replace>The ABC Board</replace>
               </codify:find-replace>
@@ -6652,7 +6652,7 @@
               <text>Paragraph (5) is amended to read as follows:</text>
               <include lvl="1">
                 <para>
-                  <codify:replace path="(5)" codified:doc="D.C. Code" codified:path="§7-1671.06|(d)|(5)"/>
+                  <codify:replace path="(5)" codified:doc="D.C. Code" codified:path="§7-1671.06"/>
                   <num>(5)</num>
                   <para>
                     <num>(A)</num>
@@ -6726,7 +6726,7 @@
           <para>
             <num>(2)</num>
             <text>Subsection (e)(3) is amended by striking the phrase "that the Mayor may allow" and inserting the phrase "that the ABC Board may allow" in its place.</text>
-            <codify:find-replace path="(e)|(3)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.06|(e)|(3)">
+            <codify:find-replace path="(e)|(3)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.06">
               <find>that the Mayor may allow</find>
               <replace>that the ABC Board may allow</replace>
             </codify:find-replace>
@@ -6734,7 +6734,7 @@
           <para>
             <num>(3)</num>
             <text>Subsection (g-2) is amended by striking the phrase "the Mayor" and inserting the phrase "the ABC Board" in its place.</text>
-            <codify:find-replace path="(g-2)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.06|(g-2)">
+            <codify:find-replace path="(g-2)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.06">
               <find>the Mayor</find>
               <replace>the ABC Board</replace>
             </codify:find-replace>
@@ -6742,7 +6742,7 @@
           <para>
             <num>(4)</num>
             <text>Subsection (g-3) is amended by striking the phrase "the Mayor" and inserting the phrase "the ABC Board" in its place.</text>
-            <codify:find-replace path="(g-3)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.06|(g-3)">
+            <codify:find-replace path="(g-3)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.06">
               <find>the Mayor</find>
               <replace>the ABC Board</replace>
             </codify:find-replace>
@@ -6750,7 +6750,7 @@
           <para>
             <num>(5)</num>
             <text>Subsection (j) is amended by striking the phrase "the Mayor" and inserting the phrase "the ABC Board" in its place.</text>
-            <codify:find-replace path="(j)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.06|(j)">
+            <codify:find-replace path="(j)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.06">
               <find>the Mayor</find>
               <replace>the ABC Board</replace>
             </codify:find-replace>
