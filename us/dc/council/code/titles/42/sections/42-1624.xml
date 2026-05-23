@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-1624</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on August 27, 2024.*
-      </text>
   <heading proof="needed">Requirements and limitations of amendment.</heading>
   <para>
     <num>(a)</num>
     <text>An amendment under <cite path="42|16A">this chapter</cite> must identify the owner, the real property affected, and the document containing the unlawful restriction. The amendment must include a conspicuous statement in substantially the following form:</text>
     <include>
-      <text>This amendment removes from this deed or other document affecting title to real property an unlawful restriction as defined under the Uniform Unlawful Restrictions in Land Records Emergency Act of 2024. This amendment does not affect the validity or enforceability of a restriction that is not an unlawful restriction.</text>
+      <text>This amendment removes from this deed or other document affecting title to real property an unlawful restriction as defined under the Uniform Unlawful Restrictions in Land Records Amendment Act of 2024. This amendment does not affect the validity or enforceability of a restriction that is not an unlawful restriction.</text>
     </include>
     <aftertext>.</aftertext>
   </para>
@@ -25,17 +22,10 @@
     <num>(d)</num>
     <text>The amendment or a future conveyance of the affected real property is not a republication of a restriction that otherwise would expire by passage of time under other law of the District.</text>
   </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§42-1604" expire="2024-05-29" codified:display="Note">For temporary (90 days) creation of § 42-1624, see <cite doc="D.C. Act 25-476" path="§105">§ 105 of Unlawful Restrictions in Land Records Emergency Amendment Act of 2024 (D.C. Act 25-476, May 29, 2024, 71 DCR 6682)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§42-1624" applicability="2024-05-29" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-1624">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-476" path="§105">§ 105 of Unlawful Restrictions in Land Records Emergency Amendment Act of 2024 (D.C. Act 25-476, May 29, 2024, 71 DCR 6682)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§42-1624" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-1624">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on August 27, 2024.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation app="2024-05-29" doc="D.C. Act 25-476" eff="2024-05-29" path="I" type="History" display="false"/>
-    <annotation app="2024-05-29" doc="D.C. Act 25-476" eff="2024-05-29" path="§105" type="History" display="false"/>
-    <annotation app="2024-05-29" doc="D.C. Act 25-476" eff="2024-05-29" path="§105" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-476" path="§105" codified:display="Note" app="2024-05-29" eff="2024-05-29">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-476" path="§105">§ 105 of Unlawful Restrictions in Land Records Emergency Amendment Act of 2024 (D.C. Act 25-476, May 29, 2024, 71 DCR 6682)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-476" path="§105" codified:display="Note" app="2024-08-14" eff="2024-05-29">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-476" path="§105">§ 105 of Unlawful Restrictions in Land Records Emergency Amendment Act of 2024 (D.C. Act 25-476, May 29, 2024, 71 DCR 6682)</cite>.</annotation>
+    <annotation app="2024-08-14" doc="D.C. Act 25-476" eff="2024-05-29" path="§105" type="History" display="false"/>
+    <annotation app="2024-08-14" doc="D.C. Law 25-201" eff="2024-08-14" path="I" type="History" display="false"/>
+    <annotation app="2024-08-14" doc="D.C. Law 25-201" eff="2024-08-14" path="§105" type="History"/>
   </annotations>
 </section>

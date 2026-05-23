@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>23-1322</num>
-  <text placeholder="Not Funded">
+  <text>
       *NOTE: The amendments to this section by section 30(f) of D.C. Law 25-175 shall expire 225 days after June 8, 2024 [January 19, 2025].*
-      <text>Not Funded.</text></text>
+      </text>
   <heading>Detention prior to trial.</heading>
   <para>
     <num>(a)</num>
@@ -58,7 +58,7 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>There shall be a rebuttable presumption that no condition or combination of conditions of release will reasonably assure the safety of any other person and the community if the judicial officer finds by probable cause that the person:</text>
+    <text>Subject to rebuttal by the person, it shall be presumed that no condition or combination of conditions of release will reasonably assure the safety of any other person and the community if the judicial officer finds that there is probable cause to believe that the person:</text>
     <para>
       <num>(1)</num>
       <text>Committed a dangerous crime or a crime of violence, as these crimes are defined in <cite path="§23-1331">§ 23-1331</cite>, while armed with or having readily available a pistol, firearm, imitation firearm, or other deadly or dangerous weapon;</text>
@@ -69,31 +69,31 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>Committed a dangerous crime or a crime of violence, as these terms are defined in <cite path="§23-1331">§ 23-1331</cite>, and has previously been convicted of a dangerous crime or a crime of violence which was committed while on release pending trial for a local, state, or federal offense;</text>
+      <text>Committed a dangerous crime , as that term is defined in <cite path="§23-1331">§ 23-1331</cite>, and has previously been convicted of a dangerous crime or a crime of violence which was committed while on release pending trial for a local, state, or federal offense;</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>Committed a dangerous crime or a crime of violence while on release pending trial for a local, state, or federal offense;</text>
+      <text>Committed a dangerous crime while on release pending trial for a local, state, or federal offense;</text>
     </para>
     <para>
       <num>(5)</num>
-      <text>Committed 2 or more dangerous crimes or crimes of violence in separate incidents that are joined in the case before the judicial officer;</text>
+      <text>Committed 2 or more dangerous crimes in separate incidents that are joined in the case before the judicial officer;</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(6)</num>
-      <text>Committed a robbery in which the victim sustained a physical injury;</text>
+      <text>[Repealed].</text>
     </para>
     <para>
       <num>(7)</num>
-      <text>Violated <cite path="§22-4504|(a)">§ 22-4504(a)</cite> (carrying a pistol without a license), <cite path="§22-4504|(a-1)">§ 22-4504(a-1)</cite> (carrying a rifle or shotgun), <cite path="§22-4504|(b)">§ 22-4504(b)</cite> (possession of a firearm during the commission of a crime of violence or dangerous crime), or <cite path="§22-4503">§ 22-4503</cite> (unlawful possession of a firearm); or</text>
+      <text>Violated <cite path="§22-4504|(a)">§ 22-4504(a)</cite> (carrying a pistol without a license), <cite path="§22-4504|(a-1)">§ 22-4504(a-1)</cite> (carrying a rifle or shotgun), <cite path="§22-4504|(b)">§ 22-4504(b)</cite> (possession of a firearm during the commission of a crime of violence or dangerous crime), or <cite path="§22-4503">§ 22-4503</cite> (unlawful possession of a firearm);</text>
     </para>
     <para>
       <num>(8)</num>
-      <text>Violated [<cite path="7|25|VIII">subchapter VIII of Chapter 25 of Title 7</cite>, <cite path="§7-2508.01">§ 7-2508.01</cite> et seq.], while on probation, parole, or supervised release for committing a dangerous crime or a crime of violence, as these crimes are defined in <cite path="§23-1331">§ 23-1331</cite>, and while armed with or having readily available a firearm, imitation firearm, or other deadly or dangerous weapon as described in <cite path="§22-4502|(a)">§ 22-4502(a)</cite>.</text>
+      <text>Violated [<cite path="7|25|VIII">subchapter VIII of Chapter 25 of Title 7</cite>, <cite path="§7-2508.01">§ 7-2508.01</cite> et seq.], while on probation, parole, or supervised release for committing a dangerous crime or a crime of violence, as these crimes are defined in <cite path="§23-1331">§ 23-1331</cite>, and while armed with or having readily available a firearm, imitation firearm, or other deadly or dangerous weapon as described in <cite path="§22-4502|(a)">§ 22-4502(a)</cite>; or</text>
     </para>
-    <para placeholder="Not Funded">
+    <para>
       <num>(9)</num>
-      <text>Not Funded.</text>
+      <text>Committed a crime of violence, as that term is defined in <cite path="§23-1331|(4)">§ 23-1331(4)</cite>.</text>
     </para>
   </para>
   <para>
@@ -160,7 +160,7 @@
     <text>In a release order issued under <cite path="§23-1321|(b)">§ 23-1321(b)</cite> or (c), the judicial officer shall:</text>
     <para>
       <num>(1)</num>
-      <text>Include a written statement that sets forth all the conditions to which the release is subject, in a manner sufficiently clear and specific to serve as a guide for the person’s conduct; and</text>
+      <text>Include a written statement that sets forth all the conditions to which the release is subject, in a manner sufficiently clear and specific to serve as a guide for the person’s conduct;</text>
     </para>
     <para>
       <num>(2)</num>
@@ -175,12 +175,12 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>The provisions of <cite path="§22-722">§ 22-722</cite>, relating to threats, force, or intimidation of witnesses, jurors, and officers of the court, obstruction of criminal investigations and retaliating against a witness, victim, or an informant.</text>
+        <text>The provisions of <cite path="§22-722">§ 22-722</cite>, relating to threats, force, or intimidation of witnesses, jurors, and officers of the court, obstruction of criminal investigations and retaliating against a witness, victim, or an informant; and</text>
       </para>
     </para>
-    <para placeholder="Not Funded">
+    <para>
       <num>(3)</num>
-      <text>Not Funded.</text>
+      <text>Beginning on September 1, 2024, where there is a rebuttable presumption of detention pursuant to either subsection (c) of this section or <cite path="§23-1325|(a)">§ 23-1325(a)</cite>, the judicial officer shall include a written statement of the reasons for the release, setting forth the evidence that supported the rebuttal of the presumption.</text>
     </para>
   </para>
   <para>
@@ -207,7 +207,7 @@
     <num>(h)</num>
     <para>
       <num>(1)</num>
-      <text>The case of the person detained pursuant to subsection (b) of this section shall be placed on an expedited calendar and, consistent with the sound administration of justice, the person shall be indicted before the expiration of 90 days, and shall have trial of the case commence before the expiration of 100 days. However, the time within which the person shall be indicted or shall have the trial of the case commence may be extended for one or more additional periods not to exceed 20 days each on the basis of a petition submitted by the attorney for the government and approved by the judicial officer. The additional period or periods of detention may be granted only on the basis of good cause shown, including due diligence and materiality, and shall be granted only for the additional time required to prepare for the expedited indictment and trial of the person. Good cause may include, but is not limited to, the unavailability of an essential witness, the necessity for forensic analysis of evidence, the ability to conduct a joint trial with a co-defendant or co-defendants, severance of co-defendants which permits only one trial to commence within the time period, complex or major investigations, complex or difficult legal issues, scheduling conflicts which arise shortly before the scheduled trial date, the inability to proceed to trial because of action taken by or at the behest of the defendant, an agreement between the government and the defense to dispose of the case by a guilty plea on or after the scheduled trial date, or the breakdown of a plea on or immediately before the trial date, and allowing reasonable time to prepare for an expedited trial after the circumstance giving rise to a tolling or extension of the 100-day period no longer exists. If the time within which the person must be indicted or the trial must commence is tolled or extended, an indictment must be returned at least 10 days before the new trial date.</text>
+      <text>The case of the person detained pursuant to subsection (b) of this section shall be placed on an expedited calendar and, consistent with the sound administration of justice, the person shall be indicted before the expiration of 90 days, and shall have trial of the case commence before the expiration of 100 days. However, the time within which the person shall be indicted or shall have the trial of the case commence may be extended for one or more additional periods not to exceed 45 days each on the basis of a petition submitted by the attorney for the government and approved by the judicial officer. The additional period or periods of detention may be granted only on the basis of good cause shown, including due diligence and materiality, and shall be granted only for the additional time required to prepare for the expedited indictment and trial of the person. Good cause may include, but is not limited to, the unavailability of an essential witness, the necessity for forensic analysis of evidence, the ability to conduct a joint trial with a co-defendant or co-defendants, severance of co-defendants which permits only one trial to commence within the time period, complex or major investigations, complex or difficult legal issues, scheduling conflicts which arise shortly before the scheduled trial date, the inability to proceed to trial because of action taken by or at the behest of the defendant, an agreement between the government and the defense to dispose of the case by a guilty plea on or after the scheduled trial date, or the breakdown of a plea on or immediately before the trial date, and allowing reasonable time to prepare for an expedited trial after the circumstance giving rise to a tolling or extension of the 100-day period no longer exists. If the time within which the person must be indicted or the trial must commence is tolled or extended, an indictment must be returned at least 10 days before the new trial date.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -303,15 +303,6 @@
     <annotation type="Emergency Legislation">For temporary amendment of section, see § 602 of the Omnibus Criminal Justice Reform Emergency Amendment Act of 1994 (D.C. Act 10-255, June 22, 1994,  41 DCR 4286).</annotation>
     <annotation type="Temporary Legislation">Section 4(b) of <cite doc="D.C. Law 14-115">D.C. Law 14-115</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
     <annotation type="Temporary Legislation"><cite doc="D.C. Law 14-115">D.C. Law 14-115</cite>, in subsec. (a)(1)(C), substituted “Probation, parole, or supervised release,” for “Probation, or parole”; and, in subsec. (e)(3)(B), inserted “on supervised release,” following “parole,”.</annotation>
-    <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-320">D.C. Law 19-320</cite> substituted “or <cite path="§22-4503">§ 22-4503</cite> (unlawful possession of a firearm)” for “<cite path="§22-4503">§ 22-4503</cite> (unlawful possession of a firearm) or [<cite path="§22-2511">§ 22-2511</cite>] (presence in a motor vehicle containing a firearm)” in (c)(7).</annotation>
-    <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> made a technical correction to <cite doc="D.C. Law 18-88">D.C. Law 18-88</cite> which did not affect this section as codified.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-88">D.C. Law 18-88</cite>, in subsec. (c), substituted “probable cause” for “a substantial probability” in the lead-in language, deleted “or” from the end of par. (6), rewrote par. (7), and added par. (8). Prior to amendment, par. (7) of subsec. (c) read as follows: “(7) Committed CPWL, carrying a pistol without a license.”</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-308">D.C. Law 16-308</cite>, in subsec. (c), substituted “imitation firearm, or other deadly or dangerous weapon;” for “or imitation firearm;” in par. (1), deleted “; or” from the end of par. (3), substituted a semicolon for a period at the end of par. (4), and added pars. (5), (6), and (7).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-134">D.C. Law 14-134</cite>, in subsec. (a)(1)(C), substituted “Probation, parole, or supervised release” for “Probation or parole”; and in subsec. (e)(3)(B), inserted “on supervised release,” following “parole,”.</annotation>
-    <annotation type="Effect of Amendments">“(2) Include the days detained pending a detention hearing and the days in confinement on temporary detention under subsection (a) of this section whether or not continuous with full pretrial detention. The defendant shall be treated in accordance with <cite path="§23-1321|(a)">§ 23-1321(a)</cite> unless the trial is in progress, has been delayed by the timely filing of motions excluding motions for continuance, or has been delayed at the request of the defendant.”</annotation>
-    <annotation type="Effect of Amendments">“(1) Begin on the date defendant is first detained after arrest; and</annotation>
-    <annotation type="Effect of Amendments">“(h) The case of the person detained pursuant to subsection (b) of this section shall be placed on an expedited calendar and, consistent with the sound administration of justice, the person shall be indicted before the expiration of 90 days, and shall have trial of the case commence before the expiration of 100 days. However, the person may be detained for an additional period not to exceed 20 days from the date of the expiration of the 100-day period on the basis of a petition submitted by the attorney for the government and approved by the judicial officer. The additional period of detention may be granted only on the basis of good cause shown and shall be granted only for the additional time required to prepare for the expedited trial of the person. For the purposes of determining the maximum period of detention under this section, the period shall not exceed 120 days. The period shall:</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-310">D.C. Law 13-310</cite>, in subsec. (a), inserted “or misdemeanor” following “felony” in par. (1)(A), and inserted “or, when a hearing under <cite path="§23-1329|(b)">§ 23-1329(b)</cite> is requested, is likely to violate a condition of release” in par. (2); in subsec. (f)(2)(B), substituted “immediate arrest or” for “the immediate”; and rewrote subsec. (h) which had read:</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 23-1322.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 23-1322.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§23-1321">§ 23-1321</cite>, <cite path="§23-1323">§ 23-1323</cite>, <cite path="§23-1324">§ 23-1324</cite>, and <cite path="§23-1329">§ 23-1329</cite>.</annotation>
@@ -333,22 +324,24 @@
     <annotation app="2023-12-21" doc="D.C. Act 25-339" eff="2023-12-21" path="§7|(c)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-101" path="§7|(c)" codified:display="Note" app="2024-01-17" eff="2024-01-17">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-101" path="§7|(c)">§ 7(c) of Prioritizing Public Safety Temporary Amendment Act of 2023 (D.C. Law 25-101, Jan. 17, 2024, 70 DCR 13762)</cite>.</annotation>
     <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§7|(c)" type="History" display="false"/>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(B)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(C)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(D)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(E)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(F)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(G)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(H)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(A)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(2)|(A)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(2)|(B)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(2)|(C)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(3)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)" type="History" display="false"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(B)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(C)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(D)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(E)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(F)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(G)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(A)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(1)|(H)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(2)|(A)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(2)|(B)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(2)|(C)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)|(3)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 25-175" path="§30|(f)" codified:display="Note" app="2024-06-08" eff="2024-06-08">Applicability of <cite doc="D.C. Law 25-175" path="">D.C. Law 25-175</cite>: <cite doc="D.C. Law 25-175" path="§45">§ 45 of D.C. Law 25-175</cite> provided that the amendment of this section by <cite doc="D.C. Law 25-175" path="§30|(f)">§ 30(f) of D.C. Law 25-175</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(f)" type="History"/>
+    <annotation doc="D.C. Law 25-175" path="§30|(f)" type="Applicability" history="false" app="2024-06-08" eff="2024-06-08">
+        The District's Chief Financial Officer stated in a letter to the Council's Budget Director, dated August 4, 2024, that the amendment of this section by D.C. Law 25-175 has been funded. Therefore that amendment has been implemented.
+      </annotation>
     <annotation doc="D.C. Law 25-175" path="§30|(k)" type="Expiration of Law" history="false" app="2024-06-08" eff="2024-06-08"><cite doc="D.C. Law 25-175" path="§30|(k)"> Section 30(k) of D.C. Law 25-175</cite> provided that the amendments made to this section by § 30(f) of D.C. Law 25-175 shall expire 225 days after June 8, 2024.
       </annotation>
     <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(k)" type="History" display="false"/>
