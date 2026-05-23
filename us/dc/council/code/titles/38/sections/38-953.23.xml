@@ -2,12 +2,12 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-953.23</num>
   <text>
-      *NOTE: This section was created by emergency legislation that will expire on October 25, 2022.*
+      *NOTE: This section was created by emergency legislation that will expire on January 30, 2023.*
       </text>
   <heading>Outreach efforts.</heading>
   <para>
     <num>(a)</num>
-    <text>Beginning on the first Friday after the effective date of this act through September 30, 2022, DC Health shall report to the Council on a weekly basis, and on a biweekly basis from October 1, 2022, through November 30, 2022:</text>
+    <text>Beginning on the first Friday after the effective date of the Back-to-School Safely Emergency Act of 2022, effective July 27, 2022 (D.C. Act 24-544; 69 DCR 9979), through September 30, 2022, DC Health shall report to the Council on a weekly basis, and on a biweekly basis from October 1, 2022, through November 30, 2022:</text>
     <para>
       <num>(1)</num>
       <text>The dates, times, and addresses of where mobile health providers and COVID-19 centers will be available to the public for pediatric immunizations during the next 7 calendar days; and</text>
@@ -37,16 +37,19 @@
       <text>Other means as determined by DC Health.</text>
     </para>
   </para>
-  <codify:emergency doc="D.C. Code" path="§38-953.23" codified:doc="D.C. Code" codified:path="§38-953.23" codified:display="Note"/>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§38-952.01" expire="2022-11-01" codified:display="Note">For temporary (90 days) creation of § 38-953.23, see <cite doc="D.C. Act 24-598" path="§203">§ 203 of Back-to-School Safely Emergency Act of 2022 (D.C. Act 24-598, Nov. 1, 2022, 0 DCR 0)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§38-953.23" applicability="2022-11-01" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-953.23">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-598" path="§203">§ 203 of Back-to-School Safely Emergency Act of 2022 (D.C. Act 24-598, Nov. 1, 2022, 0 DCR 0)</cite>.</codify:annotation>
   <codify:insert doc="D.C. Code" path="§38-953.23" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-953.23">
     <text>
-      *NOTE: This section was created by emergency legislation that will expire on October 25, 2022.*
+      *NOTE: This section was created by emergency legislation that will expire on January 30, 2023.*
       </text>
   </codify:insert>
   <annotations>
-    <annotation app="2022-07-27" doc="D.C. Act 24-544" eff="2022-07-27" path="" type="History" display="false"/>
-    <annotation app="2022-07-27" doc="D.C. Act 24-544" eff="2022-07-27" path="§203" type="History" display="false"/>
-    <annotation app="2022-07-27" doc="D.C. Act 24-544" eff="2022-07-27" path="§203" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-544" path="§203" codified:display="Note" app="2022-07-27" eff="2022-07-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-544" path="§203">§ 203 of Back-to-School Safely Emergency Act of 2022 (D.C. Act 24-544, July 27, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-544" path="§203" codified:display="Note" app="2022-11-01" eff="2022-07-27">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-544" path="§203">§ 203 of Back-to-School Safely Emergency Act of 2022 (D.C. Act 24-544, July 27, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2022-11-01" doc="D.C. Act 24-544" eff="2022-07-27" path="§203" type="History" display="false"/>
+    <annotation app="2022-11-01" doc="D.C. Act 24-598" eff="2022-11-01" path="" type="History" display="false"/>
+    <annotation app="2022-11-01" doc="D.C. Act 24-598" eff="2022-11-01" path="§203" type="History" display="false"/>
+    <annotation app="2022-11-01" doc="D.C. Act 24-598" eff="2022-11-01" path="§203" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-598" path="§203" codified:display="Note" app="2022-11-01" eff="2022-11-01">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-598" path="§203">§ 203 of Back-to-School Safely Emergency Act of 2022 (D.C. Act 24-598, Nov. 1, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

@@ -30,7 +30,6 @@
       <text>The table of contents is amended by adding a new subchapter designation to read as follows:</text>
       <include>
         <container>
-          <codify:insert doc="D.C. Code" path="28|38" codified:doc="D.C. Code" codified:path="28|38|IV"/>
           <prefix>Subchapter</prefix>
           <num>IV</num>
           <heading>Public Health Emergency Credit Alert.</heading>
@@ -49,7 +48,6 @@
       <text>A new section 28-3871 is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert doc="D.C. Code" path="28|38|IV" codified:doc="D.C. Code" codified:path="§28-3871"/>
           <prefix>§</prefix>
           <num>28-3871</num>
           <heading>COVID-19 Emergency credit alert.</heading>
@@ -125,12 +123,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:temporary-new-sec doc="D.C. Code" path="§28-3871" interim-path="§28-3864" perm-eff="2022-04-08" codified:doc="D.C. Code" codified:path="§28-3871" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§28-3871" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§28-3871">
-        <text>
-      *NOTE: This section was created by temporary legislation that will expire on November 19, 2022.*
-      </text>
-      </codify:insert>
+      <codify:temporary-new-sec doc="D.C. Code" path="§28-3871" interim-path="§28-3864" perm-eff="2022-10-31" codified:doc="D.C. Code" codified:path="§28-3871" codified:display="Note"/>
     </para>
   </section>
   <section>
