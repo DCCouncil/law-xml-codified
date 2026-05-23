@@ -2512,7 +2512,7 @@
             <para>
               <codify:replace codified:doc="D.C. Code" codified:path="§42-3502.05|(a-1)"/>
               <num>(a-1)</num>
-              <text>If a housing provider comes into possession of a housing accommodation as a result of a transfer pursuant to <code-cite doc="D.C. Code" path="§42-3404.02|(c)|(2)">section 402(c)(2) of the Rental Housing Conversion and Sale Act of 1980, effective September 10, 1980 (D.C. Law 3-86; D.C. Official Code § 42-3404.02(c)(2))</code-cite>, then the housing provider shall be eligible for the exemption provided by subsection (a)(3) of this section only if the housing provider was eligible for the exemption at the time of the transfer.</text>
+              <text>If a housing provider comes into possession of a housing accommodation as a result of a transfer pursuant to <code-cite doc="D.C. Code" path="§42-3404.02|(c)" codify:value="42-3404.02(c)(2)">section 402(c)(2) of the Rental Housing Conversion and Sale Act of 1980, effective September 10, 1980 (D.C. Law 3-86; D.C. Official Code § 42-3404.02(c)(2))</code-cite>, then the housing provider shall be eligible for the exemption provided by subsection (a)(3) of this section only if the housing provider was eligible for the exemption at the time of the transfer.</text>
             </para>
           </include>
           <aftertext>.</aftertext>
