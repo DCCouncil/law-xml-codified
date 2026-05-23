@@ -47,15 +47,15 @@
     <text>“License” and “permit” means any license or permit issued by the District government, except that the terms “license” and “permit” shall not include:</text>
     <para>
       <num>(A)</num>
-      <text>Any license or permit required pursuant <cite path="§6-1401">§ 6-1401</cite> et seq.; or</text>
+      <text>Any license or permit required pursuant <cite path="§6-1401">§ 6-1401</cite> et seq.;</text>
     </para>
     <para>
       <num>(B)</num>
-      <text>Any license or permit determined by the Mayor to be necessary to secure, remove, or otherwise remedy an unsafe and hazardous condition that presents an immediate threat to public health or safety.</text>
+      <text>Any license or permit determined by the Mayor to be necessary to secure, remove, or otherwise remedy an unsafe and hazardous condition that presents an immediate threat to public health or safety; or</text>
     </para>
-    <para placeholder="Not Funded">
+    <para>
       <num>(C)</num>
-      <text>Not Funded.</text>
+      <text>Beginning on October 1, 2023, any operator's permit or identification card issued pursuant to §§ <cite path="§50-1401.01">50-1401.01</cite> through <cite path="§50-1405.01">50-1405.01</cite>.</text>
     </para>
   </para>
   <para>
@@ -80,10 +80,15 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-183">D.C. Law 13-183</cite> added at the end of par. (1) “or the District of Columbia Water and Sewer Authority”, and added par. (5).</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 47-2861.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§25-301">§ 25-301</cite>.</annotation>
-    <annotation app="notfunded" doc="D.C. Law 24-174" eff="2022-09-21" path="§3|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-174" eff="2022-09-21" path="§2|(b)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-174" eff="2022-09-21" path="§2|(c)" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-174" path="§2|(c)" codified:display="Note" app="2022-09-21" eff="2022-09-21">Applicability of <cite doc="D.C. Law 24-174" path="">D.C. Law 24-174</cite>: <cite doc="D.C. Law 24-174" path="§3">§ 3 of D.C. Law 24-174</cite> provided that the change made to this section by <cite doc="D.C. Law 24-174" path="§2|(c)">§ 2(c) of D.C. Law 24-174</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2022-09-21" doc="D.C. Law 24-174" eff="2022-09-21" path="§2|(a)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-174" eff="2022-09-21" path="§2|(b)" type="History"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-174" eff="2022-09-21" path="§2|(c)" type="History"/>
+    <annotation doc="D.C. Law 24-174" path="§2|(c)" type="Applicability" history="false" app="2022-09-21" eff="2022-09-21">
+        Applicability of D.C. Law 24-174: § 3 of D.C. Law 24-174 provided that the change made to this section by § 2(c) of D.C. Law 24-174 is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.
+      </annotation>
+    <annotation app="2022-09-21" doc="D.C. Law 24-174" eff="2022-09-21" path="§2|(c)" type="History" display="false"/>
+    <annotation doc="D.C. Law 24-174" path="§2|(c)" type="Applicability" history="false" app="2022-09-21" eff="2022-09-21">
+       According to the Office of the Budget Director, D.C. Law 24-174 is currently funded. Therefore, the amendment to this section made by D.C. Law 24-174 has been implemented. 
+     </annotation>
   </annotations>
 </section>
