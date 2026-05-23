@@ -1,17 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>38-602</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 23, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§38-602(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Examination requirements; certificates of health, testing for lead poisoning and dental health.</heading>
   <para>
     <num>(a)</num>
-    <para>
-      <num>(1)</num>
-      <text>Except as provided in <cite path="§38-603">§ 38-603</cite>, each student attending prekindergarten through grade 12 in a public, public charter, private, or independent school in the District of Columbia shall furnish the school annually with a certificate of health completed and signed by a physician or advanced practice nurse who has examined the student during the 12-month period immediately preceding the 1st day of the school year or the date of the student’s enrollment in the school, whichever occurs later. The examination shall cover all items required by the certificate of health form for the student’s particular age group.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>If a minor student is utilizing a religious exemption for vaccinations or is opting out of receiving the Human Papillomavirus vaccine, but the minor student is receiving vaccinations under section 600.9 of Title 22-B of the District of Columbia Municipal Regulations (22-B DCMR § 600.9), the health care provider shall leave blank part 3 of the immunization record, and submit the immunization record directly to the minor student's school.  The school shall keep the immunization record received from the health care provider confidential; except, that the school may share the record with the Department of Health or the school-based health center.</text>
-    </para>
+    <text>Except as provided in <cite path="§38-603">§ 38-603</cite>, each student attending prekindergarten through grade 12 in a public, public charter, private, or independent school in the District of Columbia shall furnish the school annually with a certificate of health completed and signed by a physician or advanced practice nurse who has examined the student during the 12-month period immediately preceding the 1st day of the school year or the date of the student's enrollment in the school, whichever occurs later. The examination shall cover all items required by the certificate of health form for the student's particular age group.</text>
   </para>
   <para>
     <num>(a-1)</num>
@@ -57,5 +53,8 @@
     <annotation type="Prior Codifications">1981 Ed., § 31-2402.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-193" eff="2021-03-16" path="§3|(a)" type="History"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-193" eff="2021-03-16" path="§3|(b)" type="History"/>
+    <annotation app="2022-07-25" doc="D.C. Act 24-511" eff="2022-07-25" path="§3|(b)" type="History" display="false"/>
+    <annotation app="2022-07-25" doc="D.C. Act 24-511" eff="2022-07-25" path="§3|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-511" path="§3|(b)" codified:display="Note" app="2022-07-25" eff="2022-07-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-511" path="§3|(b)">§ 3(b) of Consent for Vaccinations of Minors Emergency Amendment Act of 2022 (D.C. Act 24-511, July 25, 2022, 69 DCR 009377)</cite>.</annotation>
   </annotations>
 </section>
