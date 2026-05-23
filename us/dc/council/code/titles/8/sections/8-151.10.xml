@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-151.10</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 20, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§8-151.10(Perm)">Past Permanent Version</cite>.*
+      </text>
   <heading>Rulemaking.</heading>
   <para>
     <num>(a)</num>
-    <text>Except as provided in subsections (c) and (d) of this section, the Mayor shall promulgate rules and regulations to implement the provisions of this chapter, including the establishment of:</text>
+    <text>Except as provided in subsections (c) and (d) of this section, the Mayor may promulgate rules and regulations to implement the provisions of this chapter, including the establishment of:</text>
     <para>
       <num>(1)</num>
       <text>Fines;</text>
@@ -30,9 +33,9 @@
       <text>Enforcement, inspections, and hearing procedures.</text>
     </para>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(b)</num>
-    <text>Proposed rules and regulations promulated [promulgated] pursuant to subsection (a) of this section shall be submitted to the Council for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, in whole or in part, by resolution within this 45-day period, the proposed rules shall be deemed to be disapproved.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -90,5 +93,9 @@
     <annotation doc="D.C. Law 24-45" path="§7213" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7213">Section 7213 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 24-16" path="§6">section 6 of D.C. Law 24-16</cite> that impacted this section.  Therefore the amendment of this section by Law 24-16 has been implemented.
         </annotation>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7213" type="History" display="false"/>
+    <annotation app="2024-11-22" doc="D.C. Act 25-629" eff="2024-11-22" path="§2" type="History" display="false"/>
+    <annotation app="2024-11-22" doc="D.C. Act 25-629" eff="2024-11-22" path="§2|(a)" type="History"/>
+    <annotation app="2024-11-22" doc="D.C. Act 25-629" eff="2024-11-22" path="§2|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-629" path="§2" codified:display="Note" app="2024-11-22" eff="2024-11-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-629" path="§2">§ 2 of Department of Energy and Environment Rulemaking Clarification Emergency Amendment Act of 2024 (D.C. Act 25-629, Nov. 22, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>34-1501</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 20, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§34-1501(Perm)">Past Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <para>
@@ -291,7 +294,7 @@
   </para>
   <para>
     <num>(27A)</num>
-    <text>“Subscriber organization” means any for-profit or nonprofit entity permitted by District of Columbia law that owns or operates one or more community renewable energy facilities for the benefit of the subscribers.</text>
+    <text>“Subscriber organization” means any for-profit or nonprofit entity permitted by District of Columbia law, or government entity, that owns or operates one or more community renewable energy facilities for the benefit of the subscribers.</text>
   </para>
   <para>
     <num>(27B)</num>
@@ -328,5 +331,8 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-113">D.C. Law 15-113</cite> added par. (29).</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§34-1551">§ 34-1551</cite> and <cite path="§34-1561">§ 34-1561</cite>.</annotation>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6082" type="History"/>
+    <annotation app="2024-11-22" doc="D.C. Act 25-636" eff="2024-11-22" path="§2" type="History" display="false"/>
+    <annotation app="2024-11-22" doc="D.C. Act 25-636" eff="2024-11-22" path="§2" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-636" path="§2" codified:display="Note" app="2024-11-22" eff="2024-11-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-636" path="§2">§ 2 of Department of Energy and Environment Definitions Clarification Emergency Amendment Act of 2024 (D.C. Act 25-636, Nov. 22, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
