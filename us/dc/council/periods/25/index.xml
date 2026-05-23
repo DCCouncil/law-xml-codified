@@ -17,6 +17,8 @@
   </collection>
   <collection name="emergency">
     <heading>Emergency Acts</heading>
+    <xi:include href="./acts/25-172.xml"/>
+    <xi:include href="./acts/25-170.xml"/>
     <xi:include href="./acts/25-168.xml"/>
     <xi:include href="./acts/25-167.xml"/>
     <xi:include href="./acts/25-166.xml"/>
@@ -28,7 +30,6 @@
     <xi:include href="./acts/25-150.xml"/>
     <xi:include href="./acts/25-138.xml"/>
     <xi:include href="./acts/25-137.xml"/>
-    <xi:include href="./acts/25-134.xml"/>
     <xi:include href="./acts/25-130.xml"/>
     <xi:include href="./acts/25-129.xml"/>
     <xi:include href="./acts/25-115.xml"/>
@@ -92,5 +93,7 @@
   </collection>
   <collection name="budget">
     <heading>Budget Legislation</heading>
+    <xi:include href="./acts/25-162.xml"/>
+    <xi:include href="./acts/25-134.xml"/>
   </collection>
 </collection>

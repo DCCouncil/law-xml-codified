@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-410.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 12, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§4-410.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Payments to child development facilities.</heading>
   <para>
     <num>(a)</num>
@@ -15,7 +18,7 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>Beginning in Fiscal Year 2024, child development facilities that enter into a contract or agreement with the Department to receive monies from the Early Childhood Educatory Pay Equity Fund shall use such monies to pay, at minimum, the salaries for assistant and lead teachers listed in Tables 1 and 2:</text>
+    <text>Beginning in Fiscal Year 2024, child development facilities that enter into a contract or agreement with the Department to receive monies from the Early Childhood Educator Pay Equity Fund shall use such monies to pay, at minimum, the salaries for assistant and lead teachers listed in Tables 1 and 2:</text>
     <text>
       <table>
         <tbody>
@@ -28,15 +31,15 @@
           </tr>
           <tr>
             <td>Less than a CDA</td>
-            <td>$39,250/year ($19/hour)</td>
+            <td>$43,865/year</td>
           </tr>
           <tr>
             <td>CDA</td>
-            <td>$45,488/year ($21.85/hour)</td>
+            <td>$51,006/year</td>
           </tr>
           <tr>
             <td>Associate's</td>
-            <td>$48,216/year ($23.18/hour)</td>
+            <td>$54,262/year</td>
           </tr>
         </tbody>
       </table>
@@ -53,15 +56,15 @@
           </tr>
           <tr>
             <td>CDA or 48 credit hours with greater than or equal to 15 credit hours in ECE</td>
-            <td>$48,216 ($23.18/hour)</td>
+            <td>$54,262/year</td>
           </tr>
           <tr>
             <td>Associate's in ECE or Associate's with greater than or equal to 24 credit hours in ECE</td>
-            <td>$56,725 ($27.27/hour)</td>
+            <td>$63,838/year</td>
           </tr>
           <tr>
             <td>Bachelor's in ECE or Bachelor's with greater than or equal to 24 credit hours in ECE</td>
-            <td>$66,735 ($32.08/hour)</td>
+            <td>$75,103/year</td>
           </tr>
         </tbody>
       </table>
@@ -143,5 +146,11 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§4073|(e)" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§4073|(e)">§ 4073(e) of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
     <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§4073|(e)" type="History" display="false"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4073|(e)" type="History"/>
+    <annotation app="2023-07-14" doc="D.C. Act 25-172" eff="2023-07-14" path="§4142" type="History" display="false"/>
+    <annotation app="2023-07-14" doc="D.C. Act 25-172" eff="2023-07-14" path="§4142" type="History"/>
+    <annotation doc="D.C. Act 25-172" path="§4142" type="Applicability" history="false" app="2023-07-14" eff="2023-07-14">
+          Section 4143 of D.C. Act 25-172 provided that the amendments to this section by § 4142 of D.C. Act 25-172 shall apply as of July 14, 2023.
+        </annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-172" path="§4142" codified:display="Note" app="2023-07-14" eff="2023-07-14">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-172" path="§4142">§ 4142 of Fiscal Year 2024 Budget Support Emergency Act of 2023 (D.C. Act 25-172, July 14, 2023, 70 DCR 2957)</cite>.</annotation>
   </annotations>
 </section>

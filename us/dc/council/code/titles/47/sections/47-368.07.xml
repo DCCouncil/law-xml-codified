@@ -2,6 +2,9 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>§</prefix>
   <num>47-368.07</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 12, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-368.07(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Workforce Investments account.</heading>
   <para>
     <num>(a)</num>
@@ -16,7 +19,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>Payments to public charter schools authorized by <cite doc="D.C. Law 22-124" path="§204">section 204 of <cite doc="D.C. Law 22-124" path="§204">D.C. Law 22-124</cite></cite>; and</text>
+      <text>Payments to public charter schools authorized to be paid from the Account by other District law; and</text>
     </para>
     <para>
       <num>(3)</num>
@@ -39,6 +42,11 @@
       </annotation>
     <annotation app="2018-07-03" doc="D.C. Law 22-124" eff="2018-07-03" path="§301" type="History" display="false"/>
     <annotation app="2018-07-03" doc="D.C. Law 22-124" eff="2018-07-03" path="§202|(b)" type="History"/>
-    <annotation app="2018-07-03" doc="D.C. Law 22-124" eff="2018-07-03" path="§202" type="History" display="false"/>
+    <annotation app="2023-07-14" doc="D.C. Act 25-172" eff="2023-07-14" path="§4063" type="History" display="false"/>
+    <annotation app="2023-07-14" doc="D.C. Act 25-172" eff="2023-07-14" path="§4063" type="History"/>
+    <annotation doc="D.C. Act 25-172" path="§4063" type="Applicability" history="false" app="2023-07-14" eff="2023-07-14">
+          Section 4064 of D.C. Act 25-172 provided that the amendments to this section by § 4063 of D.C. Act 25-172 shall apply as of July 1, 2023.
+        </annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-172" path="§4063" codified:display="Note" app="2023-07-14" eff="2023-07-14">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-172" path="§4063">§ 4063 of Fiscal Year 2024 Budget Support Emergency Act of 2023 (D.C. Act 25-172, July 14, 2023, 70 DCR 2957)</cite>.</annotation>
   </annotations>
 </section>
