@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-191.03</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 16, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§8-191.03(Perm)">Permanent Version</cite>.*
+      </text>
   <heading proof="needed">District Waterways Advisory Plan.</heading>
   <para>
     <num>(a)</num>
-    <text>Within one year of the initial appointment of District Waterways Advisory Commission voting members, the Commission shall develop and adopt a District Waterways Advisory Plan ("Advisory Plan") to create a strategic vision for the Anacostia and Potomac Rivers, the Washington Channel, and adjacent property.  The Advisory Plan shall include recommendations for:</text>
+    <text>Within 2 years of the initial appointment of District Waterways Advisory Commission voting members, the Commission shall develop a District Waterways Advisory Plan ("Advisory Plan") to create a strategic vision for the Anacostia and Potomac Rivers, the Washington Channel, and adjacent property.  The Advisory Plan shall include recommendations for:</text>
     <para>
       <num>(1)</num>
       <text>The orderly, safe, and efficient use of the Anacostia and Potomac Rivers and the Washington Channel for boating and recreation;</text>
@@ -46,7 +49,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>At least 60 days prior to adoption of an Advisory Plan, the Commission shall publish a draft of the Advisory Plan for a specified public comment period that shall be not fewer than 30 days.</text>
+      <text>The Commission shall publish a draft of the Advisory Plan for a specified public comment period that shall be not fewer than 30 days.</text>
     </para>
     <para>
       <num>(3)</num>
@@ -55,11 +58,11 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>After conclusion of the public comment period, the voting members of the Commission shall adopt the Advisory Plan after revisions, if any.  Thereupon, the Advisory Plan shall be submitted to the Office of Waterways Management for publication.</text>
+    <text>After conclusion of the public comment period, and within 60 days after completing revisions, if any, the voting members of the Commission shall adopt the Advisory Plan. Thereupon, the Advisory Plan shall be submitted to the Office of Waterways Management for publication.</text>
   </para>
   <para>
     <num>(d)</num>
-    <text>The Advisory Plan shall be updated at least once every 2 years, following the same process required for the initial Advisory Plan pursuant to subsection (b) of this section.</text>
+    <text>If considered necessary by the Commission, the Advisory Plan shall be updated at least once every 3 years, following the same process required for the initial Advisory Plan pursuant to subsections (b) and (c) of this section.</text>
   </para>
   <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§8-191.03" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-191.03">Applicability of <cite doc="D.C. Law 24-336" path="">D.C. Law 24-336</cite>: <cite doc="D.C. Law 24-336" path="§6">§ 6 of D.C. Law 24-336</cite> provided that the creation of this section by <cite doc="D.C. Law 24-336" path="§4">§ 4 of D.C. Law 24-336</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
@@ -69,5 +72,11 @@
     <annotation doc="D.C. Law 25-50" path="§7096" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7096">Section 7096 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 24-336" path="§6">section 6 of D.C. Law 24-336</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 4 of Law 24-336 has been implemented.
         </annotation>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7096" type="History" display="false"/>
+    <annotation app="2024-10-18" doc="D.C. Act 25-585" eff="2024-10-18" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2024-10-18" doc="D.C. Act 25-585" eff="2024-10-18" path="§2|(b)|(1)|(A)" type="History"/>
+    <annotation app="2024-10-18" doc="D.C. Act 25-585" eff="2024-10-18" path="§2|(b)|(1)|(B)" type="History"/>
+    <annotation app="2024-10-18" doc="D.C. Act 25-585" eff="2024-10-18" path="§2|(b)|(2)" type="History"/>
+    <annotation app="2024-10-18" doc="D.C. Act 25-585" eff="2024-10-18" path="§2|(b)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-585" path="§2|(b)" codified:display="Note" app="2024-10-18" eff="2024-10-18">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-585" path="§2|(b)">§ 2(b) of Office of District Waterways Management Establishment Emergency Amendment Act of 2024 (D.C. Act 25-585, Oct. 18, 2024, 71 DCR 12850)</cite>.</annotation>
   </annotations>
 </section>

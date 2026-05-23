@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-191.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 16, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§8-191.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading proof="needed">Establishment of the District Waterways Advisory Commission; composition; duties.</heading>
   <para>
     <num>(a)</num>
@@ -13,7 +16,7 @@
       <text>The Commission shall be comprised of 14 voting members appointed as follows:</text>
       <para>
         <num>(A)</num>
-        <text>Seven members appointed by the Mayor, with the advice and consent of the Council, pursuant to <cite path="§1-523.01|(e)">§ 1-523.01(e)</cite>, one of whom shall be designated as Chairperson.  Each appointee shall have experience in at least one of the following areas:</text>
+        <text>Seven members appointed by the Mayor, with the advice and consent of the Council, pursuant to <cite path="§1-523.01|(f)">§ 1-523.01(f)</cite>, one of whom shall be designated as Chairperson.  Each appointee shall have experience in at least one of the following areas:</text>
         <para>
           <num>(i)</num>
           <text>Public safety;</text>
@@ -102,11 +105,15 @@
     </para>
     <para>
       <num>(9)</num>
-      <text>The Public Service Commission; and</text>
+      <text>The Public Service Commission;</text>
     </para>
     <para>
       <num>(10)</num>
-      <text>The Department of Housing and Community Development.</text>
+      <text>The Department of Housing and Community Development; and</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>The Department of Parks and Recreation.</text>
     </para>
   </para>
   <para>
@@ -139,7 +146,7 @@
   </para>
   <para>
     <num>(f)</num>
-    <text>The Commission shall meet at least once every month until the first Advisory Plan developed pursuant to <cite path="§8-191.03">§ 8-191.03</cite> is published and at least quarterly thereafter.</text>
+    <text>The Commission shall meet at least once every 2 months until the first Advisory Plan developed pursuant to <cite path="§8-191.03">§ 8-191.03</cite> is published and at least quarterly thereafter.</text>
   </para>
   <para>
     <num>(g)</num>
@@ -157,5 +164,12 @@
     <annotation doc="D.C. Law 25-50" path="§7096" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7096">Section 7096 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 24-336" path="§6">section 6 of D.C. Law 24-336</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 3 of Law 24-336 has been implemented.
         </annotation>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7096" type="History" display="false"/>
+    <annotation app="2024-10-18" doc="D.C. Act 25-585" eff="2024-10-18" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2024-10-18" doc="D.C. Act 25-585" eff="2024-10-18" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2024-10-18" doc="D.C. Act 25-585" eff="2024-10-18" path="§2|(a)|(2)|(A)" type="History"/>
+    <annotation app="2024-10-18" doc="D.C. Act 25-585" eff="2024-10-18" path="§2|(a)|(2)|(B)" type="History"/>
+    <annotation app="2024-10-18" doc="D.C. Act 25-585" eff="2024-10-18" path="§2|(a)|(2)|(C)" type="History"/>
+    <annotation app="2024-10-18" doc="D.C. Act 25-585" eff="2024-10-18" path="§2|(a)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-585" path="§2|(a)" codified:display="Note" app="2024-10-18" eff="2024-10-18">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-585" path="§2|(a)">§ 2(a) of Office of District Waterways Management Establishment Emergency Amendment Act of 2024 (D.C. Act 25-585, Oct. 18, 2024, 71 DCR 12850)</cite>.</annotation>
   </annotations>
 </section>

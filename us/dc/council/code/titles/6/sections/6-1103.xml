@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>6-1103</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on April 11, 2024. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§6-1103(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Historic Preservation Review Board.</heading>
   <para>
     <num>(a)</num>
@@ -25,7 +22,7 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>Upon expiration of his or her term of office, a member shall continue to serve until his or her successor is appointed; provided, that pursuant to <cite path="§1-523.01|(c)">§ 1-523.01(c)</cite>, no member shall continue to serve in a hold-over capacity for longer than 225 days after the expiration of the term to which he or she was appointed.</text>
+      <text>Upon expiration of his or her term of office, a member shall continue to serve until his or her successor is appointed; provided, that pursuant to <cite path="§1-523.01|(c)">§ 1-523.01(c)</cite>, no member shall continue to serve in a hold-over capacity for longer than 180 days after the expiration of the term to which he or she was appointed.</text>
     </para>
   </para>
   <para>
@@ -89,8 +86,7 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§2222" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-112" path="§2222">§ 2222 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
     <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§2222" type="History" display="false"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2222" type="History"/>
-    <annotation app="2024-01-12" doc="D.C. Act 25-370" eff="2024-01-12" path="§3" type="History" display="false"/>
-    <annotation app="2024-01-12" doc="D.C. Act 25-370" eff="2024-01-12" path="§3" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-370" path="§3" codified:display="Note" app="2024-01-12" eff="2024-01-12">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-370" path="§3">§ 3 of Historic Preservation Review Board Succession Emergency Amendment Act of 2024 (D.C. Act 25-370, Jan. 12, 2024, 71 DCR 1021)</cite>.</annotation>
+    <annotation app="2024-01-12" doc="D.C. Act 25-370" eff="2024-01-12" path="§3" type="History" display="false"/>
   </annotations>
 </section>
