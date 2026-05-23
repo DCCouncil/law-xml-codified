@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-309.03</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on February 12, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-309.03(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Single-member districts.</heading>
   <para>
     <num>(a)</num>
@@ -11,7 +8,7 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>The Council shall, by act after public hearing by the Council’s Committee of the Whole, make such adjustments in the boundaries of the Advisory Neighborhood Commission single-member districts and the Advisory Neighborhood Commission areas as are necessary as a result of population shifts and changes. Such adjustments shall be made in a timely manner following the receipt of alternative plans from the ward task forces on Advisory Neighborhood Commissions, established by <cite path="§1-1041.01">§ 1-1041.01</cite>. Any adjustments made by the Council less than 154 days prior to a regularly scheduled election shall not be effective for that election.</text>
+    <text>The Council shall, by act after public hearing by the Council’s Committee of the Whole, make such adjustments in the boundaries of the Advisory Neighborhood Commission single-member districts and the Advisory Neighborhood Commission areas as are necessary as a result of population shifts and changes. Such adjustments shall be made in a timely manner following the receipt of alternative plans from the ward task forces on Advisory Neighborhood Commissions, established by <cite path="§1-1041.01">§ 1-1041.01</cite>. Any adjustments made less than 180 days prior to a regularly scheduled election shall not be effective for that election.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 1-21" type="History" path="§4">Oct. 10, 1975, D.C. Law 1-21, § 4, 22 DCR 2066</annotation>
@@ -40,8 +37,7 @@
     <annotation app="2022-03-28" doc="D.C. Act 24-347" eff="2022-03-28" path="§3|(a)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-451" path="§3|(a)" codified:display="Note" app="2022-06-28" eff="2022-06-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-451" path="§3|(a)">§ 3(a) of Advisory Neighborhood Commission Redistricting Deadline Extension Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-451, June 28, 2022, 69 DCR 007760)</cite>.</annotation>
     <annotation app="2022-06-28" doc="D.C. Act 24-451" eff="2022-06-28" path="§3|(a)" type="History" display="false"/>
-    <annotation app="2022-06-30" doc="D.C. Law 24-130" eff="2022-06-30" path="§3|(a)" type="History" display="false"/>
-    <annotation app="2022-06-30" doc="D.C. Law 24-130" eff="2022-06-30" path="§3|(a)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-130" path="§3|(a)" codified:display="Note" app="2022-06-30" eff="2022-06-30">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-130" path="§3|(a)">§ 3(a) of Advisory Neighborhood Commission Redistricting Deadline Extension Temporary Amendment Act of 2022 (D.C. Law 24-130, June 30, 2022, 69 DCR 004404)</cite>.</annotation>
+    <annotation app="2022-06-30" doc="D.C. Law 24-130" eff="2022-06-30" path="§3|(a)" type="History" display="false"/>
   </annotations>
 </section>
