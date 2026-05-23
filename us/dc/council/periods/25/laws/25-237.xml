@@ -25,10 +25,10 @@
   <section>
     <num>2</num>
     <text>Chapter 20 of Title 47 of the District of Columbia Official Code is amended as follows:</text>
-    <para codify:path="§47-2001">
+    <para codify:path="§47-2001|(n)|(1)|(M)">
       <num>(a)</num>
       <text>Section 47-2001(n)(1)(M) is amended as follows:</text>
-      <para codify:path="(n)|(1)|(M)">
+      <para>
         <num>(1)</num>
         <text>Strike the phrase "and landscaping." and insert the phrase "and landscaping; except, that the sale of or charge for landscape architecture services shall be exempt pursuant § 47-2005(41)." in its place.</text>
         <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2001|(n)|(1)|(M)">
@@ -41,14 +41,14 @@
         <text>Sub-subparagraph (ii) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§47-2001"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§47-2001|(n)|(1)|(M)|(ii)"/>
             <num>(ii)</num>
             <text>For the purposes of this paragraph, the term "landscaping" means any activity of arranging or modifying areas of land and natural scenery for an improved or aesthetic effect; the addition, removal, or arrangement of natural forms, features, and plantings; or the addition, removal, or modification or retaining walls, ponds, sprinklers systems, or other landscape construction services.</text>
           </para>
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:not-funded-anno doc="D.C. Law 25-237" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§47-2001|(n)|(1)|(M)" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Law 25-237" applicability-path="§3|(a)" display-template="" codified:doc="D.C. Code" codified:path="§47-2001|(n)|(1)|(M)|(ii)" codified:display="Note"/>
     </para>
     <para codify:path="§47-2005">
       <num>(b)</num>
@@ -61,7 +61,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:not-funded-anno doc="D.C. Law 25-237" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§47-2001|(n)|(1)|(M)" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Law 25-237" applicability-path="§3|(a)" display-template="" codified:doc="D.C. Code" codified:path="§47-2001|(n)|(1)|(M)|(ii)" codified:display="Note"/>
     </para>
   </section>
   <section>
@@ -70,6 +70,8 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
+      <codify:applicability doc="D.C. Law 25-237" path="§2|(a)" date="not funded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-2001|(n)|(1)|(M)|(ii)"/>
+      <codify:applicability doc="D.C. Law 25-237" path="§2|(b)" date="not funded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-2005"/>
     </para>
     <para>
       <num>(b)</num>
@@ -86,8 +88,6 @@
         <text>The date of publication of the notice of the certification shall not affect the applicability of this act.</text>
       </para>
     </para>
-    <codify:applicability doc="D.C. Law 25-237" path="§2|(a)" date="not funded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-2001|(n)|(1)|(M)"/>
-    <codify:applicability doc="D.C. Law 25-237" path="§2|(b)" date="not funded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-2005"/>
   </section>
   <section>
     <num>4</num>
