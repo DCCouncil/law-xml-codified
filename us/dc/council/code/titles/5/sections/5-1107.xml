@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>5-1107</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on August 22, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§5-1107(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Authority of the Office and processing of complaint.</heading>
   <para>
     <num>(a)</num>
@@ -90,13 +93,36 @@
       <text>Refer the subject police officer or officers to complete appropriate policy training by the MPD or the HAPD.</text>
     </para>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(g-1)</num>
-    <text>Not Funded.</text>
+    <para>
+      <num>(1)</num>
+      <text>If the Executive Director discovers evidence of abuse or misuse of police powers that was not alleged by the complainant in the complaint, the Executive Director may:</text>
+      <para>
+        <num>(A)</num>
+        <text>Initiate the Executive Director's own complaint against the subject police officer; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Take any of the actions described in subsection (g)(2) through (6) of this section.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The authority granted pursuant to paragraph (1) of this subsection shall include circumstances in which the subject police officer failed to:</text>
+      <para>
+        <num>(A)</num>
+        <text>Intervene in or subsequently report any use of force incident in which the subject police officer observed another law enforcement officer, including an MPD officer, utilizing excessive force or engaging in any type of misconduct, pursuant to MPD General Order 901.07, its successor directive, or a similar local or federal directive; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Immediately report to their supervisor any violations of the rules and regulations of the MPD committed by any other MPD officer, and each instance of their use of force or a use of force committed by another MPD officer, pursuant to MPD General Order 201.26, or any successor directive.</text>
+      </para>
+    </para>
   </para>
   <para>
     <num>(h)</num>
-    <text>The Executive Director shall notify in writing the complainant and the subject police officer or officers of the action taken under subsection (g) of this section. If the complaint is dismissed, the notice shall be accompanied by a brief statement of the reasons for the dismissal, and the Executive Director shall notify the complainant that the complaint may be brought to the attention of the Police Chief who may direct that the complaint be investigated and that appropriate action be taken.</text>
+    <text>The Executive Director shall notify in writing the complainant and the subject police officer or officers of the action taken under subsection (g) or (g-1) of this section. If the complaint is dismissed, the notice shall be accompanied by a brief statement of the reasons for the dismissal, and the Executive Director shall notify the complainant that the complaint may be brought to the attention of the Police Chief who may direct that the complaint be investigated and that appropriate action be taken.</text>
   </para>
   <para>
     <num>(h-1)</num>
@@ -203,5 +229,9 @@
     <annotation app="notfunded" doc="D.C. Law 24-345" eff="2023-04-21" path="§105|(f)|(13)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-345" path="§105|(f)" codified:display="Note" app="2023-04-21" eff="2023-04-21">Applicability of <cite doc="D.C. Law 24-345" path="">D.C. Law 24-345</cite>: <cite doc="D.C. Law 24-345" path="§301">§ 301 of D.C. Law 24-345</cite> provided that the change made to this section by <cite doc="D.C. Law 24-345" path="§105|(f)">§ 105(f) of D.C. Law 24-345</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§105|(f)" type="History"/>
+    <annotation app="2023-05-24" doc="D.C. Act 25-115" eff="2023-05-24" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2023-05-24" doc="D.C. Act 25-115" eff="2023-05-24" path="§2|(c)|(1)" type="History"/>
+    <annotation app="2023-05-24" doc="D.C. Act 25-115" eff="2023-05-24" path="§2|(c)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-115" path="§2|(c)" codified:display="Note" app="2023-05-24" eff="2023-05-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-115" path="§2|(c)">§ 2(c) of Comprehensive Policing and Justice Reform Technical Emergency Amendment Act of 2023 (D.C. Act 25-115, May 24, 2023,  DCR )</cite>.</annotation>
   </annotations>
 </section>
