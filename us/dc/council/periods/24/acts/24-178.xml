@@ -90,14 +90,16 @@
         <para>
           <num>(A)</num>
           <text>Existing paragraphs (1-A) and (1-B) are redesignated, respectively, paragraphs (1A) and (1B).</text>
-          <codify:find-replace position="first" codified:doc="D.C. Code" codified:path="§42-3505.01a|(b)">
-            <find>[(1A)]</find>
-            <replace>(1A)</replace>
-          </codify:find-replace>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3505.01a|(b)">
-            <find>[(1B)]</find>
-            <replace>(1B)</replace>
-          </codify:find-replace>
+          <para>
+            <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§42-3505.01a|(b)|(1A)"/>
+            <num>(1A)</num>
+            <text>Expired.</text>
+          </para>
+          <para>
+            <codify:insert after="(1A)" codified:doc="D.C. Code" codified:path="§42-3505.01a|(b)|(1B)"/>
+            <num>(1B)</num>
+            <text>Expired.</text>
+          </para>
         </para>
         <para>
           <num>(B)</num>

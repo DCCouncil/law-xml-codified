@@ -28,7 +28,6 @@
     <text>Section 7(c-1) of the District of Columbia Public Emergency Act of 1980, effective March 5, 1981 (D.C. Law 3-149; D.C. Official Code § 7-2306(c-1)), is amended to read as follows:</text>
     <include>
       <para>
-        <codify:insert doc="D.C. Code" path="§7-2306" after="(c)" codified:doc="D.C. Code" codified:path="§7-2306|(c-1)"/>
         <num>(c-1)</num>
         <text>Notwithstanding subsections (b) and (c) of this section, the Council authorizes the Mayor to extend the 15-day March 11, 2020, emergency executive order (Mayor's Order 2020-045) issued in response to the novel 2019 coronavirus (SARS CoV-2) until October 8, 2021.  After the extension authorized by this subsection, the Mayor may extend the emergency order for additional 15-day periods pursuant to subsection (b) or (c) of this section.</text>
       </para>
@@ -45,25 +44,12 @@
       <para codify:path="(a)">
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "during a period of time for which the Mayor has declared a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01), an affected employee shall be eligible" and inserting the phrase "an affected employee shall be eligible" in its place.</text>
-        <codify:find-replace codified:doc="D.C. Code" codified:path="§51-181|(a)">
-          <find>during a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, an affected employee shall be eligible</find>
-          <replace>an affected employee shall be eligible</replace>
-        </codify:find-replace>
       </para>
       <para codify:path="(g)">
         <num>(2)</num>
         <text>Subsection (g) is amended by striking the phrase "during a period of time for which the Mayor has declared a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01), the requirements of" and inserting the phrase "the requirements of" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§51-181|(g)">
-          <find>during a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, the requirements of</find>
-          <replace>the requirements of</replace>
-        </codify:find-replace>
       </para>
       <codify:emergency doc="D.C. Code" path="§51-181" codified:doc="D.C. Code" codified:path="§51-181" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§51-181" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§51-181">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of the temporary legislation that created this section, click this link: <cite doc="D.C. Law 24-9">Temporary Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(b)</num>
@@ -71,44 +57,17 @@
       <para codify:path="§51-101|(2)|(A-i)">
         <num>(1)</num>
         <text>Amendatory section 1(2)(A-i) of the District of Columbia Unemployment Compensation Act, effective August 28, 1935 (49 Stat. 946; D.C. Official Code § 51-101(2)(A-i)), in subsection (a) is amended by striking the phrase "During a period of time for which the Mayor has declared a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01), and in conformity" and inserting the phrase "In conformity" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§51-101|(2)|(A-i)">
-          <find>During a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, and in conformity</find>
-          <replace>In conformity</replace>
-        </codify:find-replace>
         <codify:emergency doc="D.C. Code" path="§51-101" codified:doc="D.C. Code" codified:path="§51-101" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§51-101" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§51-101">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§51-101(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
       <para codify:path="§51-108|(b)">
         <num>(2)</num>
         <text>Amendatory section 8(b) of the District of Columbia Unemployment Compensation Act, effective August 28, 1935 (49 Stat. 946; D.C. Official Code § 51-108(b)), in subsection (c) is amended by striking the phrase "During a period of time for which the Mayor has declared a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7- 2304.01), and subject to" and inserting the phrase "Subject to" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§51-108|(b)">
-          <find>During a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7- 2304.01)</code-cite>, and subject to</find>
-          <replace>Subject to</replace>
-        </codify:find-replace>
         <codify:emergency doc="D.C. Code" path="§51-108" codified:doc="D.C. Code" codified:path="§51-108" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§51-108" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§51-108">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§51-108(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
       <para codify:path="§51-109|(b)">
         <num>(3)</num>
         <text>Amendatory section 9(b) of the District of Columbia Unemployment Compensation Act, effective August 28, 1935 (49 Stat. 946; D.C. Official Code § 51-109(b)), in subsection (d) is amended by striking the phrase "During a period of time for which the Mayor has declared a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7- 2304.01), the Director" and inserting the phrase "The Director" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§51-109|(b)">
-          <find>During a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, the Director</find>
-          <replace>The Director</replace>
-        </codify:find-replace>
         <codify:emergency doc="D.C. Code" path="§51-109" codified:doc="D.C. Code" codified:path="§51-109" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§51-109" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§51-109">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§51-109(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
     </para>
     <para codify:path="§32-502.01">
@@ -117,10 +76,6 @@
       <para codify:path="(a)">
         <num>(1)</num>
         <text>Amendatory subsection (a) is amended by striking the phrase "During the COVID-19 public health emergency," and inserting the phrase "From March 11, 2020, until November 5, 2021," in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-502.01|(a)">
-          <find>During the COVID-19 public health emergency,</find>
-          <replace>From March 11, 2020, until November 5, 2021,</replace>
-        </codify:find-replace>
       </para>
       <para codify:path="(b)">
         <num>(2)</num>
@@ -128,10 +83,6 @@
         <para codify:path="(1)">
           <num>(A)</num>
           <text>Amendatory paragraph (1) is amended by striking the phrase "during the COVID-19 public health emergency" and inserting the phrase "from March 11, 2020, until November 5, 2021" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-502.01|(b)|(1)">
-            <find>during the COVID-19 public health emergency</find>
-            <replace>from March 11, 2020, until November 5, 2021</replace>
-          </codify:find-replace>
         </para>
         <para codify:path="(2)">
           <num>(B)</num>
@@ -142,74 +93,35 @@
       <para codify:path="(i)">
         <num>(3)</num>
         <text>Amendatory subsection (i) is repealed.</text>
-        <codify:repeal codified:doc="D.C. Code" codified:path="§32-502.01|(i)"/>
       </para>
       <codify:emergency doc="D.C. Code" path="§32-502.01" codified:doc="D.C. Code" codified:path="§32-502.01" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§32-502.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-502.01">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of the temporary legislation that created this section, click this link: <cite doc="D.C. Law 24-9">Temporary Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(d)</num>
       <text>Amendatory section 3a(e)(2) of the Accrued Sick and Safe Leave Act of 2008, effective June 24, 2021 (D.C. Law 24-9; D.C. Official Code § 32-531.02a(e)(2)), in section 105(a)(2) is amended to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:replace path="§32-531.02a|(e)|(2)" codified:doc="D.C. Code" codified:path="§32-531.02a|(e)|(2)"/>
           <num>(2)</num>
           <text>"COVID-19 emergency" means the period of time from March 11, 2020, through November 5, 2021.</text>
         </para>
       </include>
       <aftertext>.</aftertext>
       <codify:emergency doc="D.C. Code" path="§32-531.02a" codified:doc="D.C. Code" codified:path="§32-531.02a" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§32-531.02a" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-531.02a">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of the temporary legislation, click this link: <cite doc="D.C. Law 24-9" path="§406">Temporary Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para codify:path="§2-218.16|(a)|(1)">
       <num>(e)</num>
       <text>Amendatory section 2316(a)(1) of the Small and Certified Business Enterprise Development and Assistance Act of 2005, effective June 24, 2021 (D.C. Law 24-9; D.C. Official Code § 2-218.16(a)(1)), in section 201(b) is amended by striking the phrase "Upon the Mayor's declaration of a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01), the Mayor may" and inserting the phrase "Through November 5, 2021, the Mayor may" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-218.16|(a)|(1)">
-        <find>Upon the Mayor's declaration of a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, the Mayor may</find>
-        <replace>Through November 5, 2021, the Mayor may</replace>
-      </codify:find-replace>
       <codify:emergency doc="D.C. Code" path="§2-218.16" codified:doc="D.C. Code" codified:path="§2-218.16" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§2-218.16" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-218.16">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of the temporary legislation that created this section, click this link: <cite doc="D.C. Law 24-9">Temporary Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para codify:path="§2-218.49|(a-1)">
       <num>(f)</num>
       <text>Amendatory section 2349(a-1) of the Small and Certified Business Enterprise Development and Assistance Act of 2005, effective October 20, 2005 (D.C. Law 16-33; D.C. Official Code § 2-218.49(a-1)), in section 202 is amended by striking the phrase "During a period of time for which the Mayor has declared a public health emergency ("PHE") pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)" and inserting the phrase "Through November 5, 2021" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-218.49|(a-1)">
-        <find>During a period of time for which the Mayor has declared a public health emergency ("PHE") pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite></find>
-        <replace>Through November 5, 2021</replace>
-      </codify:find-replace>
       <codify:emergency doc="D.C. Code" path="§2-218.49" codified:doc="D.C. Code" codified:path="§2-218.49" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§2-218.49" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-218.49">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§2-218.49(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(g)</num>
       <text>Section 203(a) is amended by striking the phrase "of the COVID-19 emergency" and inserting the phrase "from March 11, 2020, until November 5, 2021" in its place.</text>
-      <codify:find-replace path="§2-218.91|(a)" count="1" codified:doc="D.C. Code" codified:path="§2-218.91|(a)">
-        <find>of the COVID-19 emergency</find>
-        <replace>from March 11, 2020, until November 5, 2021</replace>
-      </codify:find-replace>
       <codify:emergency doc="D.C. Code" path="§2-218.91" codified:doc="D.C. Code" codified:path="§2-218.91" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§2-218.91" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-218.91">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§2-218.91(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(h)</num>
@@ -217,55 +129,22 @@
       <para>
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "a period of time for which the Mayor has declared a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01) ("public health emergency")" and inserting the phrase "the period of time from March 11, 2020, until November 5, 2021" in its place.</text>
-        <codify:find-replace path="§48-651|(a)" count="1" codified:doc="D.C. Code" codified:path="§48-651|(a)">
-          <find>a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite> ("public health emergency")</find>
-          <replace>the period of time from March 11, 2020, until November 5, 2021</replace>
-        </codify:find-replace>
       </para>
       <para>
         <num>(2)</num>
         <text>The lead-in language of subsection (b) is amended by striking the phrase "during a public health emergency, it shall be" and inserting the phrase "it shall be" in its place.</text>
-        <codify:find-replace path="§48-651|(b)" count="1" codified:doc="D.C. Code" codified:path="§48-651|(b)">
-          <find>during a public health emergency, it shall be</find>
-          <replace>it shall be</replace>
-        </codify:find-replace>
       </para>
       <codify:emergency doc="D.C. Code" path="§48-651" codified:doc="D.C. Code" codified:path="§48-651" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§48-651" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§48-651">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of the temporary legislation that created this section, click this link: <cite doc="D.C. Law 24-9">Temporary Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(i)</num>
       <text>Amendatory section 4a of the District of Columbia Funeral Services Regulatory Act of 1984, effective June 24, 2021 (D.C. Law 24-9; D.C. Official Code § 3-403.01), in section 302(a) is amended by striking the phrase "a period of time for which the Mayor has declared a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)" and inserting the phrase "the period of time from March 11, 2020 until November 5, 2021" in its place.</text>
-      <codify:find-replace path="§3-403.01" count="1" codified:doc="D.C. Code" codified:path="§3-403.01">
-        <find>a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite></find>
-        <replace>the period of time from March 11, 2020 until November 5, 2021</replace>
-      </codify:find-replace>
       <codify:emergency doc="D.C. Code" path="§3-403.01" codified:doc="D.C. Code" codified:path="§3-403.01" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§3-403.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§3-403.01">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of the temporary legislation that created this section, click this link: <cite doc="D.C. Law 24-9">Temporary Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para codify:path="§28-3814">
       <num>(j)</num>
       <text>Section 303 is repealed.</text>
-      <codify:repeal path="(b)|[(1A)]" codified:doc="D.C. Code" codified:path="§28-3814|(b)"/>
-      <codify:repeal path="(b)|(1B)" codified:doc="D.C. Code" codified:path="§28-3814|(b)"/>
-      <codify:repeal path="(b)|(4)" codified:doc="D.C. Code" codified:path="§28-3814|(b)"/>
-      <codify:repeal path="(l)" codified:doc="D.C. Code" codified:path="§28-3814|(l)"/>
-      <codify:repeal path="(m)" codified:doc="D.C. Code" codified:path="§28-3814|(m)"/>
-      <codify:repeal path="(n)" codified:doc="D.C. Code" codified:path="§28-3814|(n)"/>
       <codify:emergency doc="D.C. Code" path="§28-3814" codified:doc="D.C. Code" codified:path="§28-3814" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§28-3814" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§28-3814">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§28-3814(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(k)</num>
@@ -282,78 +161,6 @@
           <codify:marginalia display="Not codified"/>
         </para>
         <para>
-          <codify:insert doc="D.C. Code" path="34" after="3" history="false" codified:doc="D.C. Code" codified:path="34|3A">
-            <container>
-              <prefix>Chapter</prefix>
-              <num>3A</num>
-              <heading>General provisions after October 12, 2021.</heading>
-            </container>
-          </codify:insert>
-          <codify:insert doc="D.C. Code" path="34|3A" codified:doc="D.C. Code" codified:path="§34-131">
-            <section>
-              <num>34-131</num>
-              <heading>General provisions after October 12, 2021.</heading>
-              <para>
-                <num>(a)</num>
-                <text>After October 12, 2021, and except as otherwise prohibited by <cite doc="D.C. Code" path="§34-1271.01">§§ 34-1271.01</cite> and <cite doc="D.C. Code" path="§34-2002.01">34-2002.01</cite>, a company shall not disconnect, suspend, or degrade service, for non-payment of a bill, any fees for service or equipment, or any other charges, if:</text>
-                <para>
-                  <num>(1)</num>
-                  <text>The company has failed to engage the customer as required under <code-cite doc="D.C. Code" path="§34-132">subsection (k) of this section</code-cite>;</text>
-                </para>
-                <para>
-                  <num>(2</num>
-                  <text>The customer owes less than $600;</text>
-                </para>
-                <para>
-                  <num>(3)</num>
-                  <text>The customer has entered into a payment plan with the company and either is meeting the terms of the payment plan or is less than 2 months behind the terms of the payment plan;</text>
-                </para>
-                <para>
-                  <num>(4)</num>
-                  <text>Prior to October 12, 2021, the customer has requested to enter into a payment plan with the company and fewer than 45 days have elapsed following the customer's initial request; or</text>
-                </para>
-                <para>
-                  <num>(5)</num>
-                  <text>The Mayor has certified or the customer has provided documentary evidence that the customer qualifies for utility disconnection relief and not more than 90 days have elapsed since October 12, 2021.</text>
-                </para>
-              </para>
-              <para>
-                <num>(b)</num>
-                <text>For purposes of <span codify:value="subsection(a)(5) of this section">paragraph (1)(E) of this subsection</span>, the Mayor shall certify that an individual is qualified for utility disconnection relief if the individual:</text>
-                <para>
-                  <num>(1)</num>
-                  <text>Has an application pending approval or under appeal, for any form of financial assistance from the Stronger Together by Assisting You ("STAY DC") Program or other utility-assistance program;</text>
-                </para>
-                <para>
-                  <num>(2)</num>
-                  <text>Within the prior 6 months, received or was approved for a benefit under the Low-Income Home Energy Assistance Program ("LIHEAP"), Utility Discount Program ("UDP"), DC Water Emergency Relief Program ("CAP"), or STAY DC Program;</text>
-                </para>
-                <para>
-                  <num>(3)</num>
-                  <text>Is receiving a benefit under the Supplemental Nutrition Assistance Program ("SNAP") or Temporary Assistance for Needy Families ("TANF") program; or</text>
-                </para>
-                <para>
-                  <num>(4)</num>
-                  <text>Is 21 years of age or older and receiving a benefit under Medicaid or the DC Healthcare Alliance.</text>
-                </para>
-              </para>
-              <para>
-                <num>(c)</num>
-                <para>
-                  <num>(1)</num>
-                  <text>By September 13, 2021, the Mayor shall provide notice to each individual certified as qualified for utility disconnection relief pursuant to [paragraph (2) of this subsection].</text>
-                </para>
-                <para>
-                  <num>(2)</num>
-                  <text>By September 27, 2021, and every 4 weeks thereafter until January 1, 2022, the Mayor shall provide companies and the Office of the People's Counsel ("OPC") with a list of each individual certified as qualified for utility disconnection relief, including the individual's home address. Such list shall be property of the District and shall only be used to determine that an individual on the list is qualified for relief from utility disconnection and to communicate that to affected households and companies as needed.</text>
-                </para>
-              </para>
-              <para>
-                <num>(d)</num>
-                <text>By August 9, 2021, the Mayor shall, pursuant to <code-cite doc="D.C. Code" path="2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq</em>.)</code-cite>, promulgate emergency rules to implement this subsection, including guidance on the District's and the companies' responsibilities under this subsection.</text>
-              </para>
-            </section>
-          </codify:insert>
           <num>(j)</num>
           <para>
             <num>(1)</num>
@@ -416,55 +223,6 @@
           </para>
         </para>
         <para>
-          <codify:insert doc="D.C. Code" path="34|3A" codified:doc="D.C. Code" codified:path="§34-132">
-            <section>
-              <num>34-132</num>
-              <heading>Notice to customers.</heading>
-              <para>
-                <num>(a)</num>
-                <text>A company shall provide notice, as described in <span codify:value="subsection (d) of this section">paragraph (4) of this subsection</span>, to a customer regarding the customer's account at least 60 days in advance of disconnecting, suspending, or degrading service, inclusive of disconnection procedures in section 311 of Title 15 of the District of Columbia Municipal Regulations (15 DCMR § 311).</text>
-              </para>
-              <para>
-                <num>(b)</num>
-                <para>
-                  <num>(1)</num>
-                  <text>On or before October 12, 2021, a company shall provide notice as described in <span codify:value="subsection (d) of this section">paragraph (4) of this subsection</span> to customers with a bill past due. Notice under <span codify:value="this paragraph">this subparagraph</span> shall be mailed to the customer in hard copy and the phrase "PAST DUE" shall be clearly printed on the bill or envelope.</text>
-                </para>
-                <para>
-                  <num>(2)</num>
-                  <text>Notice under <span codify:value="this subsection">this paragraph</span> shall take the form of a flyer included in monthly customer bills or prominent language on the bill and be included in both hard-copy and electronic-form bills.</text>
-                </para>
-              </para>
-              <para>
-                <num>(c)</num>
-                <text>A past due or disconnection notice sent to a customer by a company shall include notice as described in <span codify:value="subsection (d) of this section">paragraph (4) of this subsection</span>.</text>
-              </para>
-              <para>
-                <num>(d)</num>
-                <text>Notice under <span codify:value="[this section]">this paragraph</span> shall be issued in at least English and Spanish. The notice shall include information on:</text>
-                <para>
-                  <num>(1)</num>
-                  <text>The availability of payment assistance programs;</text>
-                </para>
-                <para>
-                  <num>(2)</num>
-                  <text>Information on eligibility for payment assistance programs and the process to apply to each payment assistance program;</text>
-                </para>
-                <para>
-                  <num>(3)</num>
-                  <text>The right of customers to remain eligible for relief from disconnection, suspension, or degradation of service; provided, that they are eligible for relief under <code-cite doc="D.C. Code" path="§34-131|(a)|(5)">subsection (j)(1)(E) of this section</code-cite>; and</text>
-                </para>
-                <para>
-                  <num>(4)</num>
-                  <text>A customer's right to contact OPC for assistance with negotiating a payment plan on the customer's behalf.</text>
-                </para>
-              </para>
-              <para>
-                <num>(e)</num>
-                <text>The Public Service Commission and Board of Directors of the District of Columbia Water and Sewer Authority ("DC Water Board of Directors") may issue regulations regarding customer engagement criteria and customer notice requirements consistent with <code-cite doc="D.C. Code" path="§34-131">this subsection</code-cite>.</text>
-              </para>
-            </section>
-          </codify:insert>
           <num>(k)</num>
           <para>
             <num>(1)</num>
@@ -511,27 +269,6 @@
           </para>
         </para>
         <para>
-          <codify:insert doc="D.C. Code" path="34|3A" codified:doc="D.C. Code" codified:path="§34-133">
-            <section>
-              <num>34-133</num>
-              <heading>Restration of service.</heading>
-              <para>
-                <num>(a)</num>
-                <text>For a period of 90 days beginning on October 12, 2021, a company shall restore service to a customer when the customer makes a payment to the company of at least $10; provided, that the customer enters into a payment plan pursuant to <code-cite doc="D.C. Code" path="§34-1151">section 308 of the Coronavirus Support Emergency Amendment Act of 2021, effective March 17, 2021 (D.C. Act 24-30; 68 DCR 3101), section 308 of the Coronavirus Support Congressional Review Emergency Amendment Act of 2021, effective June 7, 2021 (D.C. Act 24-96; 68 DCR 6025), or section 308 of the Coronavirus Support Temporary Amendment Act of 2021, effective June 24, 2021 (D.C. Law 24-9; 68 DCR 4824)</code-cite>, or makes a showing that the utility was disconnected improperly pursuant to this act<span codify:value=" (D.C. Law 2)"/>. Amounts paid by a customer pursuant to <span codify:value="this subsection">this paragraph</span> shall be applied in full to reduce the amounts owed by the customer to the company.</text>
-              </para>
-              <para>
-                <num>(b)</num>
-                <para>
-                  <num>(1)</num>
-                  <text>When a customer whose service has been disconnected, suspended, or degraded for nonpayment is certified by the Mayor or documented by the customer to be eligible for utility disconnection relief under <code-cite doc="D.C. Code" path="§34-131|(a)|(5)">subsection (j)(1)(E) of this section</code-cite>, a company shall reconnect the customer without charge.</text>
-                </para>
-                <para>
-                  <num>(2)</num>
-                  <text>A company shall reconnect a customer under subparagraph (A) of this paragraph within 24 hours of receiving notice that the customer is qualified for utility disconnection relief under <code-cite doc="D.C. Code" path="§34-131|(a)|(5)">subsection (j)(1)(E) of this section</code-cite>.</text>
-                </para>
-              </para>
-            </section>
-          </codify:insert>
           <num>(l)</num>
           <para>
             <num>(1)</num>
@@ -550,20 +287,6 @@
           </para>
         </para>
         <para>
-          <codify:insert doc="D.C. Code" path="34|3A" codified:doc="D.C. Code" codified:path="§34-134">
-            <section>
-              <num>34-134</num>
-              <heading>Monthly reports.</heading>
-              <para>
-                <num>(a)</num>
-                <text>Beginning on November 1, 2021, and ending on February 1, 2022, each utility company that is regulated by the Public Service Commission of the District of Columbia shall report monthly to the Public Service Commission of the District of Columbia and to OPC the number of customers, by zip code, that have entered into payment plans, that have had service suspended or disconnected for non-payment, or that are in arrears.</text>
-              </para>
-              <para>
-                <num>(b)</num>
-                <text>Beginning  on November 1, 2021, and ending on February 1, 2022, the District of Columbia Water and Sewer Authority ("DC Water") shall report monthly to the DC Water Board of Directors and to OPC the number of customers, by zip code and customer class, that have entered  payment plans, that have had service suspended or disconnected for non-payment, or that are in arrears.</text>
-              </para>
-            </section>
-          </codify:insert>
           <num>(m)</num>
           <para>
             <num>(1)</num>
@@ -575,43 +298,14 @@
           </para>
         </para>
         <para>
-          <codify:insert doc="D.C. Code" path="34|3A" codified:doc="D.C. Code" codified:path="§34-135">
-            <section>
-              <num>34-135</num>
-              <heading>Continuation of basic telecommunications service.</heading>
-              <text>A telecommunications service provider, as that term is defined by <code-cite doc="D.C. Code" path="34|20">the Telecommunications Competition Act of 1996, effective September 9, 1996 (D.C. Law 11-154; D.C. Official Code § 34-2002.01 <em>et. seq</em>.)</code-cite>, shall not disconnect, suspend, or degrade basic telecommunications service to a customer that is participating in the federal Lifeline program for non-payment of a bill, any fees for service or equipment, or other charges, or for noncompliance with a deferred payment agreement.</text>
-            </section>
-          </codify:insert>
           <num>(n)</num>
           <text>A telecommunications service provider, as that term is defined by the Telecommunications Competition Act of 1996, effective September 9, 1996 (D.C. Law 11-154; D.C. Official Code § 34-2002.01 <em>et. seq</em>.), shall not disconnect, suspend, or degrade basic telecommunications service to a customer that is participating in the federal Lifeline program for non-payment of a bill, any fees for service or equipment, or other charges, or for noncompliance with a deferred payment agreement.</text>
         </para>
         <para>
-          <codify:insert doc="D.C. Code" path="34|3A" codified:doc="D.C. Code" codified:path="§34-136">
-            <section>
-              <num>34-136</num>
-              <heading>Existing moratorium under § 34-1506.01</heading>
-              <text>Nothing in this act (Law 24-9) shall be read to supersede the existing moratorium on disconnections under <code-cite doc="D.C. Code" path="§34-1506.01">section 106a of the Retail Electric Competition and Consumer Protection Act of 1999, effective March 9, 2016 (D.C. Law 21-82; D.C. Official Code § 34-1506.01)</code-cite>.</text>
-            </section>
-          </codify:insert>
           <num>(o)</num>
           <text>Nothing in this act shall be read to supersede the existing moratorium on disconnections under section 106a of the Retail Electric Competition and Consumer Protection Act of 1999, effective March 9, 2016 (D.C. Law 21-82; D.C. Official Code § 34-1506.01).</text>
         </para>
         <para>
-          <codify:insert doc="D.C. Code" path="34|3A" codified:doc="D.C. Code" codified:path="§34-137">
-            <section>
-              <num>34-137</num>
-              <heading>Definitions.</heading>
-              <text>For the purposes of <code-cite doc="D.C. Code" path="34|3A">this section</code-cite>, the term:</text>
-              <para>
-                <num>(1)</num>
-                <text>"Payment assistance programs" shall mean LIHEAP, UDP, CAP, or STAY DC.</text>
-              </para>
-              <para>
-                <num>(2)</num>
-                <text>"Company" or "companies" shall mean an electric company, gas company, DC Water, or incumbent local exchange carrier.</text>
-              </para>
-            </section>
-          </codify:insert>
           <num>(p)</num>
           <text>For the purposes of this section, the term:</text>
           <para>
@@ -625,49 +319,8 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:not-funded-anno doc="D.C. Code" path="§34-131" applicability-path="§7" action="creation of subsections (b) and (c) of this section" display-template="" codified:doc="D.C. Code" codified:path="§34-131" codified:display="Note"/>
-      <codify:emergency doc="D.C. Code" path="§34-131" action="creation of this section" codified:doc="D.C. Code" codified:path="§34-131" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§34-131" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§34-131">
-        <text>
-      *NOTE: This section was added by emergency legislation that will expire on October 22, 2021.*
-      </text>
-      </codify:insert>
-      <codify:emergency doc="D.C. Code" path="§34-132" action="creation of this section" codified:doc="D.C. Code" codified:path="§34-132" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§34-132" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§34-132">
-        <text>
-      *NOTE: This section was added by emergency legislation that will expire on October 22, 2021.*
-      </text>
-      </codify:insert>
-      <codify:emergency doc="D.C. Code" path="§34-133" action="creation of this section" codified:doc="D.C. Code" codified:path="§34-133" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§34-133" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§34-133">
-        <text>
-      *NOTE: This section was added by emergency legislation that will expire on October 22, 2021.*
-      </text>
-      </codify:insert>
-      <codify:emergency doc="D.C. Code" path="§34-134" action="creation of this section" codified:doc="D.C. Code" codified:path="§34-134" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§34-134" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§34-134">
-        <text>
-      *NOTE: This section was added by emergency legislation that will expire on October 22, 2021.*
-      </text>
-      </codify:insert>
-      <codify:emergency doc="D.C. Code" path="§34-135" action="creation of this section" codified:doc="D.C. Code" codified:path="§34-135" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§34-135" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§34-135">
-        <text>
-      *NOTE: This section was added by emergency legislation that will expire on October 22, 2021.*
-      </text>
-      </codify:insert>
-      <codify:emergency doc="D.C. Code" path="§34-136" action="creation of this section" codified:doc="D.C. Code" codified:path="§34-136" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§34-136" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§34-136">
-        <text>
-      *NOTE: This section was added by emergency legislation that will expire on October 22, 2021.*
-      </text>
-      </codify:insert>
-      <codify:emergency doc="D.C. Code" path="§34-137" action="creation of this section" codified:doc="D.C. Code" codified:path="§34-137" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§34-137" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§34-137">
-        <text>
-      *NOTE: This section was added by emergency legislation that will expire on October 22, 2021.*
-      </text>
-      </codify:insert>
+      <codify:not-funded-anno doc="D.C. Code" path="§34-306" applicability-path="§7" action="creation of subsections (b) and (c) of § 34-131" display-template="" codified:doc="D.C. Code" codified:path="§34-306" codified:display="Note"/>
+      <codify:emergency doc="D.C. Code" path="§34-306" action="creation of Chapter 3A of this title" codified:doc="D.C. Code" codified:path="§34-306" codified:display="Note"/>
     </para>
     <para codify:path="§34-1151">
       <num>(l)</num>
@@ -678,14 +331,12 @@
         <para>
           <num>(A)</num>
           <text>The existing text is redesignated as paragraph (1).</text>
-          <codify:redesignate-para num-value="(1)" codified:doc="D.C. Code" codified:path="§34-1151|(c)"/>
         </para>
         <para>
           <num>(B)</num>
           <text>A new paragraph (2) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§34-1151|(c)|(2)"/>
               <num>(2)</num>
               <para>
                 <num>(A)</num>
@@ -714,130 +365,61 @@
       <para codify:path="(i)|(6)">
         <num>(2)</num>
         <text>Subsection (i)(6) is amended by striking the phrase "a period of time for which the Mayor has declared a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)" and inserting the phrase "the period of time from March 11, 2020, until November 5, 2021" in its place</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§34-1151|(i)|(6)">
-          <find>a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite></find>
-          <replace>the period of time from March 11, 2020, until November 5, 2021</replace>
-        </codify:find-replace>
       </para>
       <codify:emergency doc="D.C. Code" path="§34-1151" codified:doc="D.C. Code" codified:path="§34-1151" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§34-1151" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§34-1151">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of the temporary legislation that created this section, click this link: <cite doc="D.C. Law 24-9">Temporary Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(m)</num>
       <text>Amendatory section 112a(f)(1A) of the Sustainable Solid Waste Management Amendment Act of 2014, effective February 26, 2015 (D.C. Law 20-154; D.C. Official Code § 8-1031.12a(f)(1A)), in section 309 is amended by striking the phrase "a period of time for which the Mayor has declared a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)" and inserting the phrase "the period of time from March 11, 2020, until November 5, 2021" in its place.</text>
-      <codify:find-replace path="§8-1031.12a|(f)|(1A)" count="1" codified:doc="D.C. Code" codified:path="§8-1031.12a|(f)|(1A)">
-        <find>a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite></find>
-        <replace>the period of time from March 11, 2020, until November 5, 2021</replace>
-      </codify:find-replace>
       <codify:emergency doc="D.C. Code" path="§8-1031.12a" codified:doc="D.C. Code" codified:path="§8-1031.12a" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§8-1031.12a" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.12a">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§8-1031.12a(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(n)</num>
       <text>Amendatory section 5a(a) of the Department of Insurance and Securities Regulation Establishment Act of 1996, effective June 24, 2021 (D.C. Law 24-9; D.C. Official Code § 31-104.01), in section 310 in amended by striking the phrase "For the duration of a public health emergency declared by the Mayor pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01) ("public health emergency"), and to address the circumstances giving rise to that emergency" and inserting the phrase "From March 11, 2020 until November 5, 2021" in its place.</text>
-      <codify:find-replace path="§31-104.01" count="1" codified:doc="D.C. Code" codified:path="§31-104.01">
-        <find>For the duration of a public health emergency declared by the Mayor pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01</code-cite>) ("public health emergency"), and to address the circumstances giving rise to that emergency</find>
-        <replace>From March 11, 2020 until November 5, 2021</replace>
-      </codify:find-replace>
       <codify:emergency doc="D.C. Code" path="§31-104.01" codified:doc="D.C. Code" codified:path="§31-104.01" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§31-104.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§31-104.01">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of the temporary legislation that created this section, click this link: <cite doc="D.C. Law 24-9">Temporary Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(o)</num>
       <text>Amendatory section 6(b)(10) of An Act To provide for the abatement of nuisances in the District of Columbia by the Commissioners of said District, and for other purposes, effective April 27, 2001 (D.C. Law 13-281; D.C. Official Code § 42-3131.06(b)(10)), in section 311(c) is amended to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:replace path="§42-3131.06|(b)|(10)" codified:doc="D.C. Code" codified:path="§42-3131.06|(b)|(10)"/>
           <num>(10)</num>
           <text>A commercial property that houses a business that closed between March 11, 2020, and November 5, 2021.</text>
         </para>
       </include>
       <codify:emergency doc="D.C. Code" path="§42-3131.06" codified:doc="D.C. Code" codified:path="§42-3131.06" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§42-3131.06" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-3131.06">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§42-3131.06(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(p)</num>
       <text>The lead-in language of section 312 is amended by striking the phrase "provision of law during, or within 45 days after the end of, a period time for which the Mayor has declared a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)" and inserting the phrase "provision of law, during the period from March 11, 2020, until November 5, 2021" in its place.</text>
-      <codify:find-replace path="§7-2335" count="1" codified:doc="D.C. Code" codified:path="§7-2335">
-        <find>provision of law during, or within 45 days after the end of, a period time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite></find>
-        <replace>provision of law, during the period from March 11, 2020, until November 5, 2021</replace>
-      </codify:find-replace>
       <codify:emergency doc="D.C. Code" path="§7-2335" codified:doc="D.C. Code" codified:path="§7-2335" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§7-2335" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2335">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of the temporary legislation that created this section, click this link: <cite doc="D.C. Law 24-9">Temporary Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(q)</num>
       <text>Section 401(a) is amended by striking the phrase "during a period of time for which the Mayor has declared a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01) ("Public Emergency Act"), and for 60 days thereafter" and inserting the phrase "during the period of time from March 11, 2020, until November 5, 2021" in its place.</text>
-      <codify:find-replace path="§42-3191.01" count="1" codified:doc="D.C. Code" codified:path="§42-3191.01">
-        <find>during a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01) ("Public Emergency Act")</code-cite>, and for 60 days thereafter</find>
-        <replace>during the period of time from March 11, 2020, until November 5, 2021</replace>
-      </codify:find-replace>
       <codify:emergency doc="D.C. Code" path="§42-3191.01" codified:doc="D.C. Code" codified:path="§42-3191.01" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§42-3191.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-3191.01">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of the temporary legislation that created this section, click this link: <cite doc="D.C. Law 24-9">Temporary Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(r)</num>
       <text>Section 402 is amended by adding a new subsection (f-1) to read as follows:</text>
       <include>
         <para>
-          <codify:insert path="§42-3192.01" after="(f)" codified:doc="D.C. Code" codified:path="§42-3192.01|(f-1)"/>
           <num>(f-1)</num>
           <text>Tenant payment plans may not contain any waiver of the tenant's rights under the tenant's lease or District of Columbia law. A tenant entering into a tenant payment plan retains the right to contest the amount of rent due unless this is agreed to in writing by both parties.</text>
         </para>
       </include>
       <aftertext>.</aftertext>
       <codify:emergency doc="D.C. Code" path="§42-3192.01" codified:doc="D.C. Code" codified:path="§42-3192.01" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§42-3192.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-3192.01">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of the temporary legislation that created this section, click this link: <cite doc="D.C. Law 24-9">Temporary Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(s)</num>
       <text>Section 403 is repealed.</text>
-      <codify:repeal path="§42-3193.01" codified:doc="D.C. Code" codified:path="§42-3193.01"/>
       <codify:emergency doc="D.C. Code" path="§42-3193.01" codified:doc="D.C. Code" codified:path="§42-3193.01" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§42-3193.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-3193.01">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of the temporary legislation, click this link: <cite doc="D.C. Law 24-9" path="§403">Temporary Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(t)</num>
       <text>Section 404 is repealed.</text>
-      <codify:repeal path="§16-1501|[(c)]" codified:doc="D.C. Code" codified:path="§16-1501"/>
       <codify:emergency doc="D.C. Code" path="§16-1501" codified:doc="D.C. Code" codified:path="§16-1501" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§16-1501" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§16-1501">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§16-1501(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(u)</num>
@@ -845,27 +427,12 @@
       <para>
         <num>(1)</num>
         <text>Paragraph (3) is repealed.</text>
-        <codify:repeal path="§42-3502.11|(b)" codified:doc="D.C. Code" codified:path="§42-3502.11|(b)"/>
         <codify:emergency doc="D.C. Code" path="§42-3502.11" codified:doc="D.C. Code" codified:path="§42-3502.11" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§42-3502.11" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-3502.11">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of the temporary legislation, click this link: <cite doc="D.C. Law 24-9" path="§405">Temporary Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
       <para>
         <num>(2)</num>
         <text>Amendatory section 904(c) of the Rental Housing Act of 1985, effective July 17, 1985 (D.C. Law 6-10; D.C. Official Code § 42-3509.04(c)), in paragraph (7) is amended by striking the phrase "during a period for which a public health emergency has been declared pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01) ("Public Emergency Act")" and inserting the phrase "prior to December 31, 2021" in its place.</text>
-        <codify:find-replace path="§42-3509.04|(c)" count="1" codified:doc="D.C. Code" codified:path="§42-3509.04|(c)">
-          <find>during a period for which a public health emergency has been declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite> ("Public Emergency Act")</find>
-          <replace>prior to December 31, 2021</replace>
-        </codify:find-replace>
         <codify:emergency doc="D.C. Code" path="§42-3509.04" codified:doc="D.C. Code" codified:path="§42-3509.04" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§42-3509.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-3509.04">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§42-3509.04(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
     </para>
     <para>
@@ -874,25 +441,12 @@
       <para>
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "during a period for which a public health emergency has been declared pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01), and for 30 days thereafter" and inserting the phrase "prior to December 31, 2021" in its place.</text>
-        <codify:find-replace path="§42-3194.01|(a)" count="1" codified:doc="D.C. Code" codified:path="§42-3194.01|(a)">
-          <find>during a period for which a public health emergency has been declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, and for 30 days thereafter</find>
-          <replace>prior to December 31, 2021</replace>
-        </codify:find-replace>
       </para>
       <para>
         <num>(2)</num>
         <text>Subsection (b)(1) is amended by striking the phrase "during a period for which a public health emergency has been declared pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-1875 2304.01), and for 30 days thereafter" and inserting the phrase "prior to December 31, 2021" in its place.</text>
-        <codify:find-replace path="§42-3194.01|(b)|(1)" count="1" codified:doc="D.C. Code" codified:path="§42-3194.01|(b)|(1)">
-          <find>during a period for which a public health emergency has been declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-1875 2304.01)</code-cite>, and for 30 days thereafter</find>
-          <replace>prior to December 31, 2021</replace>
-        </codify:find-replace>
       </para>
       <codify:emergency doc="D.C. Code" path="§42-3194.01" codified:doc="D.C. Code" codified:path="§42-3194.01" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§42-3194.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-3194.01">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of the temporary legislation, click this link: <cite doc="D.C. Law 24-9" path="§406">Temporary Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(w)</num>
@@ -902,16 +456,7 @@
     <para>
       <num>(x)</num>
       <text>Amendatory section 208(g-2)(1) of the District of Columbia Health Occupations Revision Act of 1985, effective March 25, 1986 (D.C. Law 6-99; D.C. Official Code § 3-1202.08(g-2)(1)), in section 501 is amended by striking the phrase "during a period of time for which the Mayor has declared a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)". and inserting the phrase "during the period from March 11, 2020, until November 5, 2021" in its place.</text>
-      <codify:find-replace path="§3-1202.08|(g-2)|(1)" count="1" codified:doc="D.C. Code" codified:path="§3-1202.08|(g-2)|(1)">
-        <find>during a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite></find>
-        <replace>during the period from March 11, 2020, until November 5, 2021</replace>
-      </codify:find-replace>
       <codify:emergency doc="D.C. Code" path="§3-1202.08" codified:doc="D.C. Code" codified:path="§3-1202.08" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§3-1202.08" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§3-1202.08">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§3-1202.08(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(y)</num>
@@ -923,84 +468,36 @@
           <para>
             <num>(2)</num>
             <text>Paragraph (2) is amended by striking the phrase "District of Columbia government;" and inserting the phrase "District of Columbia government; provided further, that, with respect to the public health emergency declared in the Mayor's order dated March 11, 2020, and any extensions thereof, the additional authority provided pursuant to this paragraph for entering into contracts and incurring obligations shall expire on November 5, 2021;" in its place.</text>
-            <codify:find-replace path="§7-2304|(b)|(2)" count="1" codified:doc="D.C. Code" codified:path="§7-2304|(b)|(2)">
-              <find>District of Columbia government; provided further, that a summary of each emergency procurement entered into during a period for which a public health emergency is declared shall be provided to the Council no later than 7 days after the contract is awarded.  The summary shall include:</find>
-              <replace>"District of Columbia government; provided further, that, with respect to the public health emergency declared in the Mayor's order dated March 11, 2020, and any extensions thereof, the additional authority provided pursuant to this paragraph for entering into contracts and incurring obligations shall expire on November 5, 2021;</replace>
-            </codify:find-replace>
           </para>
         </include>
         <aftertext>.</aftertext>
         <codify:emergency doc="D.C. Code" path="§7-2304" codified:doc="D.C. Code" codified:path="§7-2304" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§7-2304" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2304">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§7-2304(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
       <para>
         <num>(2)</num>
         <text>Amendatory section 5b(a) of the District of Columbia Public Emergency Act of 1980, effective June 24, 2021 (D.C. Law 24-9; D.C. Official Code § 7-2304.02(a)), in subsection (c) is amended by striking the phrase "Upon the Mayor's declaration of a public health emergency pursuant to section 5a, and for a period not exceeding 90 days after the end of the public health emergency, the Mayor may, notwithstanding the Grant Administration Act of 2013, effective December 24, 2013 (D.C. Law 20-61; D.C. Official Code § 1-328.11 <em>et seq.</em>), and in the Mayor's sole discretion, issue a grant or loan to a program, organization, business, or entity to assist the District in responding to the public health emergency, including a grant or loan for the purpose of" and inserting the phrase "Notwithstanding the Grant Administration Act of 2013, effective December 24, 2013 (D.C. Law 20-61; D.C. Official Code § 1-328.11 <em>et seq.</em>), from March 11, 2020 until November 5, 2021, the Mayor may issue a grant or loan to a program, organization, business, or entity, including a grant or loan for the purpose of" in its place.</text>
-        <codify:find-replace path="§7-2304.02|(a)" count="1" codified:doc="D.C. Code" codified:path="§7-2304.02|(a)">
-          <find>Upon the Mayor's declaration of a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a</code-cite>, and for a period not exceeding 90 days after the end of the public health emergency, the Mayor may, notwithstanding <code-cite doc="D.C. Code" path="1|3|XII-A|B">the Grant Administration Act of 2013, effective December 24, 2013 (D.C. Law 20-61; D.C. Official Code § 1-328.11 et seq.)</code-cite>, and in the Mayor's sole discretion, issue a grant or loan to a program, organization, buisness, or entity to assist the District in responding to the public health emergency, including a grant or loan for the purpose of</find>
-          <replace>Notwithstanding the Grant Administration Act of 2013, effective December 24, 2013 (D.C. Law 20-61; D.C. Official Code § 1-328.11 <em>et seq.</em>), from March 11, 2020 until November 5, 2021, the Mayor may issue a grant or loan to a program, organization, business, or entity, including a grant or loan for the purpose of</replace>
-        </codify:find-replace>
         <codify:emergency doc="D.C. Code" path="§7-2304.02" codified:doc="D.C. Code" codified:path="§7-2304.02" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§7-2304.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2304.02">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of the temporary legislation, click this link: <cite doc="D.C. Law 24-9" path="§507|(c)">Temporary Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
     </para>
     <para>
       <num>(z)</num>
       <text>Section 508(b) is amended by striking the phrase "60 days after the end of a public health emergency declared by the Mayor pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)," and inserting the phrase "November 5, 2021" in its place.</text>
-      <codify:find-replace path="§4-131" count="1" codified:doc="D.C. Code" codified:path="§4-131">
-        <find>until 60 days after the end of a public health emergency declared by the Mayor pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>,</find>
-        <replace>November 5, 2021</replace>
-      </codify:find-replace>
       <codify:emergency doc="D.C. Code" path="§4-131" codified:doc="D.C. Code" codified:path="§4-131" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§4-131" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-131">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of the temporary legislation, click this link: <cite doc="D.C. Law 24-9" path="§508|(b)">Temporary Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(aa)</num>
       <text>Section 509 is repealed.</text>
-      <codify:repeal path="§44-504|(h-1)|(1)|(B)|(iii)" codified:doc="D.C. Code" codified:path="§44-504|(h-1)|(1)|(B)|(iii)"/>
       <codify:emergency doc="D.C. Code" path="§44-504" codified:doc="D.C. Code" codified:path="§44-504" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§44-504" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§44-504">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§44-504(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(bb)</num>
       <text>Section 512 is repealed.</text>
-      <codify:repeal path="§7-691" codified:doc="D.C. Code" codified:path="§7-691"/>
       <codify:emergency doc="D.C. Code" path="§7-691" codified:doc="D.C. Code" codified:path="§7-691" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§7-691" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-691">
-        <text>
-      *NOTE: This section was created by temporary legislation that will expire on February 4, 2022, and repealed by emergency legislation that will expire on October 22, 2021. To view the text of the temporary legislation, click this link: <cite doc="D.C. Law 24-9" path="§512">Temporary Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(cc)</num>
       <text>The lead-in language in amendatory section 316a of the Human Rights Act of 1977, effective June 24, 2021 (D.C. Law 24-9; D.C. Official Code § 2-1403.16a), in section 702 is amended by striking the phrase "a period of time for which the Mayor has declared a public health emergency ("PHE") pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01), in a civil action initiated by the Attorney General for the District of Columbia ("Attorney General") for violations of this act, or a civil action arising in connection with the PHE" and inserting the phrase "the period of time from March 11, 2020, until November 5, 2021, for violations of this act, or a civil action arising in connection with the public health emergency declared by the Mayor on March 11, 2020 (Mayor's Order 2020-046)" in its place.</text>
-      <codify:find-replace path="§2-1403.16a" count="1" codified:doc="D.C. Code" codified:path="§2-1403.16a">
-        <find>During a period of time for which the Mayor has declared a public health emergency ("PHE") pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, in a civil action initiated by the Attorney General for the District of Columbia ("Attorney General") for violations of <code-cite doc="D.C. Code" path="2|14|A">this act</code-cite>, or a civil action arising in connection with the PHE</find>
-        <replace>During the period of time from March 11, 2020, until November 5, 2021, for violations of <code-cite doc="D.C. Code" path="2|14|A">this act</code-cite>, or a civil action arising in connection with the public health emergency declared by the Mayor on March 11, 2020 (Mayor's Order 2020-046)</replace>
-      </codify:find-replace>
       <codify:emergency doc="D.C. Code" path="§2-1403.16a" codified:doc="D.C. Code" codified:path="§2-1403.16a" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§2-1403.16a" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1403.16a">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of the temporary legislation, click this link: <cite doc="D.C. Law 24-9" path="§406">Temporary Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(dd)</num>
@@ -1008,30 +505,12 @@
       <para>
         <num>(1)</num>
         <text>Amendatory section 6(b) of the Revised Uniform Law on Notarial Acts Act of 2018, effective December 4, 2018 (D.C. Law 22-189; D.C. Official Code § 1-1231.05(b)), in subsection (b) is amended by striking the phrase "during a period of time for which the Mayor has declared a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)" and inserting the phrase "during the period of time from March 11, 2020, until November 5, 2021" in its place.</text>
-        <codify:find-replace path="§1-1231.05|(b)" count="1" codified:doc="D.C. Code" codified:path="§1-1231.05|(b)">
-          <find>during a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite></find>
-          <replace>during the period of time from March 11, 2020, until November 5, 2021</replace>
-        </codify:find-replace>
         <codify:emergency doc="D.C. Code" path="§1-1231.05" codified:doc="D.C. Code" codified:path="§1-1231.05" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§1-1231.05" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-1231.05">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§1-1231.05(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
       <para>
         <num>(2)</num>
         <text>Amendatory section 10(d) of the Revised Uniform Law on Notarial Acts Act of 2018, effective December 4, 2018 (D.C. Law 22-189; D.C. Official Code § 1-1231.09(d)), in subsection (c) is amended by striking the phrase "during a period of time for which the Mayor has declared a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)" and inserting the phrase "during the period of time from March 11, 2020, until November 5, 2021" in its place.</text>
-        <codify:find-replace path="§1-1231.09|(d)" count="1" codified:doc="D.C. Code" codified:path="§1-1231.09|(d)">
-          <find>during a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite></find>
-          <replace>during the period of time from March 11, 2020, until November 5, 2021</replace>
-        </codify:find-replace>
         <codify:emergency doc="D.C. Code" path="§1-1231.09" codified:doc="D.C. Code" codified:path="§1-1231.09" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§1-1231.09" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-1231.09">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§1-1231.09(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
     </para>
     <para>
@@ -1040,44 +519,17 @@
       <para>
         <num>(1)</num>
         <text>Amendatory section 405(a)(4) of the Open Meetings Act, effective March 31, 2011 (D.C. Law 18-350; D.C. Official Code § 2-575(a)(4)) in subsection (a)(3) is amended by striking the phrase "a period for which a public health emergency has been declared pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)" and inserting the phrase  "the period of time from March 11, 2020, until November 5, 2021" in its place.</text>
-        <codify:find-replace path="§2-575|(a)|(4)" count="1" codified:doc="D.C. Code" codified:path="§2-575|(a)|(4)">
-          <find>a period for which a public health emergency has been declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite></find>
-          <replace>the period of time from March 11, 2020, until November 5, 2021</replace>
-        </codify:find-replace>
         <codify:emergency doc="D.C. Code" path="§2-575" codified:doc="D.C. Code" codified:path="§2-575" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§2-575" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-575">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§2-575(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
       <para>
         <num>(2)</num>
         <text>Amendatory section 406(6) of the Open Meetings Act, effective March 31, 2011 (D.C. Law 18-350; D.C. Official Code § 2-576(6)), in subsection (b) is amended by striking the phrase "a period for which a public health emergency has been declared pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)" and inserting the phrase "the period from March 11, 2020, through November 5, 2021" in its place.</text>
-        <codify:find-replace path="§2-576|(6)" count="1" codified:doc="D.C. Code" codified:path="§2-576|(6)">
-          <find>a period for which a public health emergency has been declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite></find>
-          <replace>the period from March 11, 2020, through November 5, 2021</replace>
-        </codify:find-replace>
         <codify:emergency doc="D.C. Code" path="§2-576" codified:doc="D.C. Code" codified:path="§2-576" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§2-576" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-576">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§2-576(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
       <para>
         <num>(3)</num>
         <text>Subsection (c) is amended by striking the phrase "a period for which a public health emergency has been declared pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)," and inserting the phrase "the period from March 11, 2020, until November 5, 2021" in its place.</text>
-        <codify:find-replace path="§2-577|(a)|(1)" count="1" codified:doc="D.C. Code" codified:path="§2-577|(a)|(1)">
-          <find>a period for which a public health emergency has been declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite></find>
-          <replace>the period from March 11, 2020, until November 5, 2021</replace>
-        </codify:find-replace>
         <codify:emergency doc="D.C. Code" path="§2-577" codified:doc="D.C. Code" codified:path="§2-577" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§2-577" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-577">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§2-577(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
     </para>
     <para>
@@ -1094,16 +546,7 @@
           <num>(B)</num>
           <text>Subparagraph (B) is amended by striking the phrase "during a period of time for which the Mayor has declared a public health emergency pursuant to § 7-2304.01" and inserting the phrase "during the period from March 11, 2020, until November 5, 2021" in its place.</text>
         </para>
-        <codify:find-replace path="§16-4803" count="2" codified:doc="D.C. Code" codified:path="§16-4803">
-          <find>during a period of time for which the Mayor has declared a public health emergency pursuant to <cite doc="D.C. Code" path="§7-2304.01">§ 7-2304.01</cite></find>
-          <replace>during the period from March 11, 2020, until November 5, 2021</replace>
-        </codify:find-replace>
         <codify:emergency doc="D.C. Code" path="§16-4803" codified:doc="D.C. Code" codified:path="§16-4803" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§16-4803" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§16-4803">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§16-4803(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
       <para>
         <num>(2)</num>
@@ -1111,44 +554,17 @@
         <para>
           <num>(A)</num>
           <text>Amendatory section 21-2043(c-1) of the District of Columbia Official Code in paragraph (2) is amended by striking the phrase "during a period of time for which the Mayor has declared a public health emergency pursuant to § 7-2304.01" and inserting the phrase "during the period from March 11, 2020, until November 5, 2021" in its place.</text>
-          <codify:find-replace path="§21-2043|(c-1)" count="1" codified:doc="D.C. Code" codified:path="§21-2043|(c-1)">
-            <find>during a period of time for which the Mayor has declared a public health emergency pursuant to <cite doc="D.C. Code" path="§7-2304.01">§ 7-2304.01</cite></find>
-            <replace>during the period from March 11, 2020, until November 5, 2021</replace>
-          </codify:find-replace>
           <codify:emergency doc="D.C. Code" path="§21-2043" codified:doc="D.C. Code" codified:path="§21-2043" codified:display="Note"/>
-          <codify:insert doc="D.C. Code" path="§21-2043" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§21-2043">
-            <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§21-2043(Perm)">Permanent Version</cite>.*
-      </text>
-          </codify:insert>
         </para>
         <para>
           <num>(B)</num>
           <text>Paragraph (4) is amended by striking the phrase "during a period of time for which the Mayor has declared a public health emergency pursuant to § 7-2304.01" and inserting the phrase "during the period from March 11, 2020, until November 5, 2021" in its place.</text>
-          <codify:find-replace path="§21-2205|(c)" count="1" codified:doc="D.C. Code" codified:path="§21-2205|(c)">
-            <find>during a period of time for which the Mayor has declared a public health emergency pursuant to <cite doc="D.C. Code" path="§7-2304.01">§ 7-2304.01</cite></find>
-            <replace>during the period from March 11, 2020, until November 5, 2021</replace>
-          </codify:find-replace>
           <codify:emergency doc="D.C. Code" path="§21-2205" codified:doc="D.C. Code" codified:path="§21-2205" codified:display="Note"/>
-          <codify:insert doc="D.C. Code" path="§21-2205" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§21-2205">
-            <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§21-2205(Perm)">Permanent Version</cite>.*
-      </text>
-          </codify:insert>
         </para>
         <para>
           <num>(C)</num>
           <text>Paragraph (5) is amended by striking the phrase "during a period of time for which the Mayor has declared a public health emergency pursuant to § 7-2304.01" and inserting the phrase "during the period from March 11, 2020, until November 5, 2021" in its place.</text>
-          <codify:find-replace path="§21-2210|(c)" count="1" codified:doc="D.C. Code" codified:path="§21-2210|(c)">
-            <find>during a period of time for which the Mayor has declared a public health emergency pursuant to <cite doc="D.C. Code" path="§7-2304.01">§ 7-2304.01</cite></find>
-            <replace>during the period from March 11, 2020, until November 5, 2021</replace>
-          </codify:find-replace>
           <codify:emergency doc="D.C. Code" path="§21-2210" codified:doc="D.C. Code" codified:path="§21-2210" codified:display="Note"/>
-          <codify:insert doc="D.C. Code" path="§21-2210" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§21-2210">
-            <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§21-2210(Perm)">Permanent Version</cite>.*
-      </text>
-          </codify:insert>
         </para>
       </para>
     </para>
@@ -1158,30 +574,12 @@
       <para>
         <num>(1)</num>
         <text>Subsection (b) is amended by striking the phrase "during a period of time for which the Mayor has declared a public health emergency pursuant to § 7-2304.01" and inserting the phrase "during the period from March 11, 2020, until November 5, 2021" in its place.</text>
-        <codify:find-replace path="§18-103|(2)" count="1" codified:doc="D.C. Code" codified:path="§18-103|(2)">
-          <find>during a period of time for which the Mayor has declared a public health emergency pursuant to <cite doc="D.C. Code" path="§7-2304.01">§ 7-2304.01</cite></find>
-          <replace>during the period from March 11, 2020, until November 5, 2021</replace>
-        </codify:find-replace>
         <codify:emergency doc="D.C. Code" path="§18-103" codified:doc="D.C. Code" codified:path="§18-103" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§18-103" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§18-103">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§18-103(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
       <para>
         <num>(2)</num>
         <text>Amendatory section 18-113(f) of the District of Columbia Official Code in subsection (c) is amended by striking the phrase "during a period of time for which the Mayor has declared a public health emergency pursuant to § 7-2304.01" and inserting the phrase "during the period from March 11, 2020, until November 5, 2021" in its place.</text>
-        <codify:find-replace path="§18-113|(f)" count="1" codified:doc="D.C. Code" codified:path="§18-113|(f)">
-          <find>during a period of time for which the Mayor has declared a public health emergency pursuant to <cite doc="D.C. Code" path="§7-2304.01">§ 7-2304.01</cite></find>
-          <replace>during the period from March 11, 2020, until November 5, 2021</replace>
-        </codify:find-replace>
         <codify:emergency doc="D.C. Code" path="§18-113" codified:doc="D.C. Code" codified:path="§18-113" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§18-113" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§18-113">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of the temporary legislation, click this link: <cite doc="D.C. Law 24-9" path="§811|(c)">Temporary Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
     </para>
     <para>
@@ -1193,17 +591,12 @@
         <para>
           <num>(A)</num>
           <text>Paragraph (1) is amended by striking the phrase "during a period of time for which the Mayor has declared a public health emergency pursuant to § 7-2304.01" and inserting the phrase "from March 11, 2020, until November 5, 2021" in its place.</text>
-          <codify:find-replace path="§7-622|(a)|(4)" count="1" codified:doc="D.C. Code" codified:path="§7-622|(a)|(4)">
-            <find>during a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite></find>
-            <replace>from March 11, 2020, until November 5, 2021</replace>
-          </codify:find-replace>
         </para>
         <para>
           <num>(B)</num>
           <text>Amendatory section 3(d) of the Natural Death Act of 1981, effective February 25, 1982 (D.C. Law 4-69; D.C. Official Code § 7-622(d)), in paragraph (2) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace path="§7-622|(d)" codified:doc="D.C. Code" codified:path="§7-622|(d)"/>
               <num>(d)</num>
               <text>Any signature required by <code-cite doc="D.C. Code" path="7|6|II">this act</code-cite> may be an electronic signature.</text>
             </para>
@@ -1211,25 +604,11 @@
           <aftertext>.</aftertext>
         </para>
         <codify:emergency doc="D.C. Code" path="§7-622" codified:doc="D.C. Code" codified:path="§7-622" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§7-622" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-622">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§7-622(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
       <para>
         <num>(2)</num>
         <text>Subsection (c) is amended by striking the phrase "during a period of time for which the Mayor has declared a public health emergency pursuant to § 7-2304.01" and inserting the phrase "from March 11, 2020, until November 5, 2021" in its place.</text>
-        <codify:find-replace path="§7-624|(a)|(3)" count="1" codified:doc="D.C. Code" codified:path="§7-624|(a)|(3)">
-          <find>during a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite></find>
-          <replace>from March 11, 2020, until November 5, 2021</replace>
-        </codify:find-replace>
         <codify:emergency doc="D.C. Code" path="§7-624" codified:doc="D.C. Code" codified:path="§7-624" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§7-624" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-624">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§7-624(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
     </para>
     <para>
@@ -1243,16 +622,7 @@
       <para>
         <num>(1)</num>
         <text>Amendatory section 13(q) of the Advisory Neighborhood Commissions Act of 1975, effective March 26, 1976 (D.C. Law 1-58; D.C. Official Code § 1-309.10(q)), in subsection (c) is amended by striking the phrase "a period of time for which a public health emergency has been declared by the Mayor pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)" and inserting the phrase "the period of time from March 11, 2020, until November 5, 2021" in its place.</text>
-        <codify:find-replace path="§1-309.10|(q)" count="1" codified:doc="D.C. Code" codified:path="§1-309.10|(q)">
-          <find>a period of time for which a public health emergency has been declared by the Mayor pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite></find>
-          <replace>the period of time from March 11, 2020, until November 5, 2021</replace>
-        </codify:find-replace>
         <codify:emergency doc="D.C. Code" path="§1-309.10" codified:doc="D.C. Code" codified:path="§1-309.10" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§1-309.10" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-309.10">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§1-309.10(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
       <para codify:path="§1-309.11|(b)">
         <num>(2)</num>
@@ -1264,7 +634,6 @@
             <para>
               <num>(1A)</num>
               <text>Paragraph (1A) is repealed.</text>
-              <codify:repeal path="(1A)" codified:doc="D.C. Code" codified:path="§1-309.11|(b)|(1A)"/>
             </para>
           </include>
           <aftertext>.</aftertext>
@@ -1278,7 +647,6 @@
               <text>A new paragraph (1B) is added to read as follows:</text>
             </para>
             <para>
-              <codify:replace path="(1B)" codified:doc="D.C. Code" codified:path="§1-309.11|(b)|(1B)"/>
               <num>(1B)</num>
               <text>Notwithstanding any other provision of law, an Advisory Neighborhood Commissioner may call a meeting and remotely participate in that meeting and vote on matters before the Commission without being physically present through a teleconference or through digital means identified by the Commission for this purpose. Members physically or remotely present shall be counted for determination of a quorum.</text>
             </para>
@@ -1286,23 +654,10 @@
           <aftertext>.</aftertext>
         </para>
         <codify:emergency doc="D.C. Code" path="§1-309.11" codified:doc="D.C. Code" codified:path="§1-309.11" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§1-309.11" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-309.11">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§1-309.11(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
     </para>
   </section>
-  <codify:insert doc="D.C. Code" path="42" after="34" history="false" codified:doc="D.C. Code" codified:path="42|34A">
-    <container>
-      <prefix>Chapter</prefix>
-      <num>34A</num>
-      <heading>STAY DC Improvements.</heading>
-    </container>
-  </codify:insert>
   <section>
-    <codify:insert doc="D.C. Code" path="42|34A" num-value="34-3411.01" codified:doc="D.C. Code" codified:path="§34-3411.01"/>
     <num>4</num>
     <heading>STAY DC Improvements.</heading>
     <para>
@@ -1356,12 +711,7 @@
         <text>DC Healthcare Alliance.</text>
       </para>
     </para>
-    <codify:emergency doc="D.C. Code" path="§34-3411.01" action="creation of this section" codified:doc="D.C. Code" codified:path="§34-3411.01" codified:display="Note"/>
-    <codify:insert doc="D.C. Code" path="§34-3411.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§34-3411.01">
-      <text>
-      *NOTE: This section was created by emergency legislation that will expire on October 22, 2021.*
-      </text>
-    </codify:insert>
+    <codify:emergency doc="D.C. Code" path="§42-3405.13" action="creation of Chapter 34A of this title" codified:doc="D.C. Code" codified:path="§42-3405.13" codified:display="Note"/>
   </section>
   <section codify:doc="D.C. Code">
     <num>5</num>
@@ -1374,7 +724,6 @@
         <text>Section 16-1501 is amended to read as follows:</text>
         <include>
           <section>
-            <codify:replace doc="D.C. Code" path="§16-1501" codified:doc="D.C. Code" codified:path="§16-1501"/>
             <prefix>§</prefix>
             <num>16-1501</num>
             <heading>Definition; summons.</heading>
@@ -1504,18 +853,12 @@
         </include>
         <aftertext>.</aftertext>
         <codify:emergency doc="D.C. Code" path="§16-1501" codified:doc="D.C. Code" codified:path="§16-1501" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§16-1501" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§16-1501">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§16-1501(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
       <para>
         <num>(2)</num>
         <text>Section 16-1502 is amended to read as follows:</text>
         <include>
           <section>
-            <codify:replace doc="D.C. Code" path="§16-1502" codified:doc="D.C. Code" codified:path="§16-1502"/>
             <prefix>§</prefix>
             <num>16-1502</num>
             <heading>Service of summons.</heading>
@@ -1531,11 +874,6 @@
         </include>
         <aftertext>.</aftertext>
         <codify:emergency doc="D.C. Code" path="§16-1502" codified:doc="D.C. Code" codified:path="§16-1502" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§16-1502" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§16-1502">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§16-1502(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
     </para>
     <para>
@@ -1550,22 +888,16 @@
           <para>
             <num>(i)</num>
             <text>The existing text is designated as paragraph (1).</text>
-            <codify:redesignate-para num-value="(1)" codified:doc="D.C. Code" codified:path="§42-3505.01|(a)"/>
           </para>
           <para>
             <num>(ii)</num>
             <text>Paragraph (1) is amended by striking the phrase "written notice to vacate" and inserting the phrase "written notice" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3505.01|(a)">
-              <find>written notice to vacate</find>
-              <replace>written notice</replace>
-            </codify:find-replace>
           </para>
           <para>
             <num>(iii)</num>
             <text>A new paragraph (2) is added to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:insert codified:doc="D.C. Code" codified:path="§42-3505.01|(a)|(2)"/>
                 <num>(2)</num>
                 <text>If a notice is served by posting a copy on the premises, a photograph of the posted notice must be submitted to the court. The photograph must have a readable timestamp that indicates the date and time of when the summons was posted.</text>
               </para>
@@ -1577,7 +909,6 @@
             <text>A new paragraph (3) is added to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:insert codified:doc="D.C. Code" codified:path="§42-3505.01|(a)|(3)"/>
                 <num>(3)</num>
                 <text>If the landlord knows the tenant speaks a primary language other than English or Spanish that is covered under <code-cite doc="D.C. Code" path="§2-1933">section 4 of the Language Access Act of 2004, effective June 19, 2004 (D.C. Law 15-167; D.C. Official Code § 2-1933)</code-cite>, the landlord must provide the notice in that language.</text>
               </para>
@@ -1602,7 +933,6 @@
           <text>Subsection (b) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace path="(b)" codified:doc="D.C. Code" codified:path="§42-3505.01|(b)"/>
               <num>(b)</num>
               <text>A housing provider may recover possession of a rental unit when the tenant is violating an obligation of tenancy, other than nonpayment of rent, and fails to correct the violation within 30 days after receiving notice from the housing provider.</text>
             </para>
@@ -1614,7 +944,6 @@
           <text>A new subsection (b-1) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§42-3505.01|(b-1)"/>
               <num>(b-1)</num>
               <para>
                 <num>(1)</num>
@@ -1704,7 +1033,6 @@
             <text>A new paragraph (3) is added to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:replace path="(3)" codified:doc="D.C. Code" codified:path="§42-3505.01|(k)|(3)"/>
                 <num>(3)</num>
                 <text>During a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective March 5, 1981 (D.C. Law 3-149; D.C. Official Code § 7-2304.01)</code-cite>, except for evictions arising from those complaints filed pursuant to the exceptions in <code-cite doc="D.C. Code" path="§16-1501|(c)|(1)">D.C. Official Code § 16-1501(c)(1)</code-cite>; provided, that:</text>
                 <para>
@@ -1725,7 +1053,6 @@
           <text>Subsection (q) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(p)" codified:doc="D.C. Code" codified:path="§42-3505.01|(q)"/>
               <num>(q)</num>
               <para>
                 <num>(1)</num>
@@ -1751,7 +1078,6 @@
           <text>A new subsection (q-1) is added to read as follows:</text>
           <include>
             <para>
-              <codify:replace path="(q-1)" codified:doc="D.C. Code" codified:path="§42-3505.01|(q-1)"/>
               <num>(q-1)</num>
               <para>
                 <num>(1)</num>
@@ -1797,7 +1123,6 @@
           <text>A new subsection (s) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§42-3505.01|(s)"/>
               <num>(s)</num>
               <text>Unless a purchaser of real property has obtained the deed to the property, the purchaser shall not evict a tenant.</text>
             </para>
@@ -1805,11 +1130,6 @@
           <aftertext>.</aftertext>
         </para>
         <codify:emergency doc="D.C. Code" path="§42-3505.01" codified:doc="D.C. Code" codified:path="§42-3505.01" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§42-3505.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-3505.01">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§42-3505.01(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
       <para codify:path="§42-3505.01a|(b)">
         <num>(2)</num>
@@ -1817,17 +1137,12 @@
         <para codify:path="(1)">
           <num>(A)</num>
           <text>The lead-in language of paragraph (1) is amended by striking the phrase "date of eviction not fewer than 21 days before the date of eviction" and inserting the phrase "date of eviction" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3505.01a|(b)|(1)">
-            <find>date of eviction not fewer than 21 days before the date of eviction</find>
-            <replace>date of eviction</replace>
-          </codify:find-replace>
         </para>
         <para>
           <num>(B)</num>
           <text>A new paragraph (1-A) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§42-3505.01a|(b)|(1A)"/>
               <num codify:value="[(1A)]">(1-A)</num>
               <text>For a rescheduled eviction authorized prior to March 11, 2020, a housing provider shall deliver to the tenant the notice required in paragraph (1) of this subsection not fewer than 30 days prior to the new date.</text>
             </para>
@@ -1838,7 +1153,6 @@
           <text>A new paragraph (1-B) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="[(1A)]" codified:doc="D.C. Code" codified:path="§42-3505.01a|(b)|(1B)"/>
               <num codify:value="[(1B)]">(1-B)</num>
               <text>For evictions other than those covered in paragraph (1-A) <span codify:value="[(1A)]"/> of this subsection, a housing provider shall deliver to the tenant the notice required in paragraph (1) of this subsection not fewer than 21 days prior to the new date.</text>
             </para>
@@ -1846,11 +1160,6 @@
           <aftertext>.</aftertext>
         </para>
         <codify:emergency doc="D.C. Code" path="§42-3505.01a" codified:doc="D.C. Code" codified:path="§42-3505.01a" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§42-3505.01a" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-3505.01a">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§42-3505.01a(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
     </para>
   </section>
@@ -1872,16 +1181,6 @@
     <para>
       <num>(a)</num>
       <text>Amendatory section 307(j)(2) and (3) of the Coronavirus Support Temporary Amendment Act of 2021, effective June 24, 2021 (D.C. Law 24-9; 68 DCR 4824), in section 3(k) shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:repeal doc="D.C. Code" path="§34-131|(b)" codified:doc="D.C. Code" codified:path="§34-131|(b)"/>
-      <codify:find-replace doc="D.C. Code" path="§34-131" count="1" codified:doc="D.C. Code" codified:path="§34-131">
-        <find>Repealed</find>
-        <replace>Not funded</replace>
-      </codify:find-replace>
-      <codify:repeal doc="D.C. Code" path="§34-131|(c)" codified:doc="D.C. Code" codified:path="§34-131|(c)"/>
-      <codify:find-replace doc="D.C. Code" path="§34-131" count="1" codified:doc="D.C. Code" codified:path="§34-131">
-        <find>Repealed</find>
-        <replace>Not funded</replace>
-      </codify:find-replace>
     </para>
     <para>
       <num>(b)</num>
