@@ -1,51 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>2-1401.06</num>
   <heading>Government noninterference in reproductive health decisions.</heading>
-  <para>
-    <num>(a)</num>
-    <text>The District shall recognize the right of every individual to choose or refuse contraception or sterilization.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>The District shall recognize the right of every individual who becomes pregnant to decide whether to carry a pregnancy to term, to give birth, or to have an abortion.</text>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>The District shall not:</text>
-    <para>
-      <num>(1)</num>
-      <text>Deny, interfere with, or restrict, in the regulation or provision of benefits, facilities, services, or information, the right of an individual, including an individual under District control or supervision, to:</text>
-      <para>
-        <num>(A)</num>
-        <text>Choose or refuse contraception or sterilization; or</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Choose or refuse to carry a pregnancy to term, to give birth, or to have an abortion;</text>
-      </para>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Interfere with or restrict in the regulation or provision of benefits, facilities, services, or information, the decision of a health care practitioner acting within the scope of the health care practitioner's license to participate in a consenting individual's prenatal care, labor, delivery, or abortion; or</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Penalize an individual for:</text>
-      <para>
-        <num>(A)</num>
-        <text>Seeking, inducing, or attempting to induce, the individual's own abortion; or</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Any act or omission during the individual's pregnancy based on the potential or actual impact on the individual's health or pregnancy.</text>
-      </para>
-    </para>
-  </para>
-  <para>
-    <num>(d)</num>
-    <text>For the purposes of this section, the term "health care practitioner" means an individual, groups of individuals, partnership, or corporation, including a health care facility, that is licensed, certified, or otherwise authorized by law to provide professional health care services in the District to an individual.</text>
-  </para>
+  <text>Repealed.</text>
   <annotations>
     <annotation doc="D.C. Law 2-38" type="History" path="§105">Dec. 13, 1977, D.C. Law 2-38, title I, § 105a [106]</annotation>
     <annotation app="2020-05-06" doc="D.C. Law 23-90" eff="2020-05-06" path="§2|(a)|(3)" prefix="as added" type="History"/>
@@ -55,5 +13,6 @@
         </annotation>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7077" type="History" display="false"/>
     <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§140" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-254" eff="2023-02-23" path="§201|(b)" type="History"/>
   </annotations>
 </section>
