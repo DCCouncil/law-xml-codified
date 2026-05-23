@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>37-131.08c</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on [EXPIRATION DATE]. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§37-131.08c(Perm)">Permanent Version</cite>.*
+      </text>
   <heading proof="needed">Street vending amnesty program.</heading>
   <para>
     <num>(a)</num>
@@ -20,27 +23,22 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>A person may participate in the amnesty program by filing an application for amnesty with the Mayor that includes:</text>
     <para>
       <num>(1)</num>
-      <text>A basic business license application;</text>
+      <text>A person may participate in the amnesty program by filing an application for amnesty with the Mayor.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>A vending site permit application for a sidewalk vending location;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>A copy of each unpaid citation received by the applicant, and the amount owed by the applicant for each citation; and</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>Documentation verifying the amount of delinquent minimum sales tax, interest, and penalties owed to the Office of Tax and Revenue.</text>
+      <text>The Mayor shall establish by rule the requirements for applying for and being approved to participate in the amnesty program.</text>
     </para>
   </para>
   <para>
     <num>(d)</num>
     <text>While the amnesty program is accepting applications, the Mayor shall publicize the terms and conditions of the amnesty program.</text>
+  </para>
+  <para>
+    <num>(d-1)</num>
+    <text>At the request of the Mayor, the Chief Financial Officer shall send a notice by electronic means to all mobile vendors and sidewalk vendors registered with the Office of Tax and Revenue advising the vendors of the existence of the amnesty program.</text>
   </para>
   <para>
     <num>(e)</num>
@@ -55,5 +53,9 @@
     <annotation doc="D.C. Law 25-50" path="§7098" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7098">Section 7098 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 25-21" path="§5">section 5 of D.C. Law 25-21</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 3(f) of Law 25-21 has been implemented.
         </annotation>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7098" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2042|(c)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2042|(c)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2042|(c)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2042|(c)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2042|(c)">§ 2042(c) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

@@ -550,6 +550,14 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>III-B</num>
+      <heading>Farmers Markets.</heading>
+      <annotation app="2025-08-23" doc="D.C. Law 26-27" eff="2025-08-23" path="" type="History" display="false"/>
+      <xi:include href="./sections/7-742.21.xml"/>
+      <xi:include href="./sections/7-742.22.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Health Occupation Advisory Committees.</heading>
       <xi:include href="./sections/7-743.01.xml"/>
