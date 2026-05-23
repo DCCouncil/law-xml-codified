@@ -159,6 +159,10 @@
           <num>(v)</num>
           <text>To the extent necessary, to provide a reasonable accommodation to the victim.</text>
         </para>
+        <para placeholder="Not Funded">
+          <num>(vi)</num>
+          <text>Not Funded.</text>
+        </para>
       </para>
       <para>
         <num>(C)</num>
@@ -379,5 +383,11 @@
     <annotation app="notfunded" doc="D.C. Law 24-190" eff="2022-10-22" path="§201" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-190" path="§201" codified:display="Note" app="2022-10-22" eff="2022-10-22">Applicability of <cite doc="D.C. Law 24-190" path="">D.C. Law 24-190</cite>: <cite doc="D.C. Law 24-190" path="§401|(a)|(2)">§ 401(a)(2) of D.C. Law 24-190</cite> provided that the change made to this section by <cite doc="D.C. Law 24-190" path="§201">§ 201 of D.C. Law 24-190</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2022-10-22" doc="D.C. Law 24-190" eff="2022-10-22" path="§201" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-305" eff="2023-03-10" path="§401|(a)|(1)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-305" eff="2023-03-10" path="§201|(b)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-305" eff="2023-03-10" path="§201|(b)|(2)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-305" eff="2023-03-10" path="§201|(b)|(3)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-305" path="§201|(b)" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-305" path="">D.C. Law 24-305</cite>: <cite doc="D.C. Law 24-305" path="§401">§ 401 of D.C. Law 24-305</cite> provided that the change made to this section by <cite doc="D.C. Law 24-305" path="§201|(b)">§ 201(b) of D.C. Law 24-305</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-03-10" doc="D.C. Law 24-305" eff="2023-03-10" path="§201|(b)" type="History"/>
   </annotations>
 </section>

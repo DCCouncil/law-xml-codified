@@ -553,6 +553,18 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>10B</num>
+    <heading>Domestic Worker Contracts.</heading>
+    <annotation app="2023-03-10" doc="D.C. Law 24-305" eff="2023-03-10" path="" type="History" display="false"/>
+    <xi:include href="./sections/32-1071.01.xml"/>
+    <xi:include href="./sections/32-1071.02.xml"/>
+    <xi:include href="./sections/32-1071.03.xml"/>
+    <xi:include href="./sections/32-1071.04.xml"/>
+    <xi:include href="./sections/32-1071.05.xml"/>
+    <xi:include href="./sections/32-1071.06.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>11</num>
     <heading>Occupational Safety and Health.</heading>
     <xi:include href="./sections/32-1101.xml"/>

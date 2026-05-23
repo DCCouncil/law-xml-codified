@@ -238,6 +238,9 @@
         <xi:include href="./sections/7-503.08.xml"/>
         <xi:include href="./sections/7-503.09.xml"/>
         <xi:include href="./sections/7-503.10.xml"/>
+        <xi:include href="./sections/7-503.19.xml"/>
+        <xi:include href="./sections/7-503.20.xml"/>
+        <xi:include href="./sections/7-503.21.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -662,6 +665,7 @@
     <xi:include href="./sections/7-771.09.xml"/>
     <xi:include href="./sections/7-771.10.xml"/>
     <xi:include href="./sections/7-771.10a.xml"/>
+    <xi:include href="./sections/7-771.10b.xml"/>
     <xi:include href="./sections/7-771.11.xml"/>
   </container>
   <container>
@@ -1673,6 +1677,7 @@
         <xi:include href="./sections/7-2203.xml"/>
         <xi:include href="./sections/7-2204.xml"/>
         <xi:include href="./sections/7-2205.xml"/>
+        <xi:include href="./sections/7-2205.01.xml"/>
         <xi:include href="./sections/7-2206.xml"/>
         <xi:include href="./sections/7-2207.xml"/>
         <xi:include href="./sections/7-2208.xml"/>

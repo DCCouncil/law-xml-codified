@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Title</prefix>
+  <num>27A</num>
+  <heading>Private Contractors and Subcontractors.</heading>
+  <annotation app="2013-11-05" doc="D.C. Law 20-34" eff="2013-11-05" path="" type="History" display="false"/>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1</num>
+    <heading>Private Contractors and Subcontractors Prompt Payment.</heading>
+    <annotation app="2013-11-05" doc="D.C. Law 20-34" eff="2013-11-05" path="" type="History" display="false"/>
+    <xi:include href="./sections/27A-101.xml"/>
+    <xi:include href="./sections/27A-102.xml"/>
+    <xi:include href="./sections/27A-103.xml"/>
+    <xi:include href="./sections/27A-104.xml"/>
+    <xi:include href="./sections/27A-105.xml"/>
+    <xi:include href="./sections/27A-106.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2</num>
+    <heading>Contractor Indemnity.</heading>
+    <annotation app="2023-03-10" doc="D.C. Law 24-293" eff="2023-03-10" path="" type="History" display="false"/>
+    <xi:include href="./sections/27A-201.xml"/>
+    <xi:include href="./sections/27A-202.xml"/>
+  </container>
+</container>
