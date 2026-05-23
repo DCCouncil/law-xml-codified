@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <num>42-3502.24</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on September 27, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§42-3502.24(Perm)">Permanent Version</cite>.*
-      </text>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <num>42-3502.24(Perm)</num>
   <heading>Elderly tenants and tenants with disabilities.</heading>
   <para>
     <num>(a)</num>
@@ -19,22 +16,6 @@
     <para>
       <num>(3)</num>
       <text>Five percent of the rent charged.</text>
-    </para>
-  </para>
-  <para>
-    <num>(a-1)</num>
-    <text>Notwithstanding <cite path="§42-3502.08|(h)">§ 42-3502.08(h)</cite> or subsection (a) of this section, an adjustment that takes effect from July 1, 2023 through June 30, 2025, in the amount of rent charged while a unit is occupied by an elderly tenant or tenant with a disability, without regard to income, shall not exceed the rent charged for the unit, plus the least of:</text>
-    <para>
-      <num>(1)</num>
-      <text>The adjustment of general applicability;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The most recent annual cost-of-living adjustment of benefits for social security recipients established pursuant to section 415(i) of the Social Security Act (42 U.S.C. § 415(i)); or</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>4% of the rent charged.</text>
     </para>
   </para>
   <para>
@@ -241,16 +222,8 @@
     <num>(j)</num>
     <text>The Mayor may determine the term of eligibility and recertification requirements for the exemptions provided by this section.</text>
   </para>
-  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§42-3502.24" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-3502.24">Applicability of <cite doc="D.C. Law 21-239" path="">D.C. Law 21-239</cite>: <cite doc="D.C. Law 21-239" path="§4">§ 4 of D.C. Law 21-239</cite> provided that the creation of subsection (b) of this section by <cite doc="D.C. Law 21-239" path="§3|(g)">§ 3(g) of D.C. Law 21-239</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation doc="D.C. Law 6-10" type="History" path="§224">July 17, 1985, D.C. Law 6-10, § 224</annotation>
-    <annotation app="2017-04-07" doc="D.C. Law 21-239" eff="2017-04-07" path="§3|(g)" prefix="as added" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 21-239" path="§3|(g)" codified:display="Note" app="2017-04-07" eff="2017-04-07">Applicability of <cite doc="D.C. Law 21-239" path="">D.C. Law 21-239</cite>: <cite doc="D.C. Law 21-239" path="§4">§ 4 of D.C. Law 21-239</cite> provided that the creation of subsection (b) of this section by <cite doc="D.C. Law 21-239" path="§3|(g)">§ 3(g) of D.C. Law 21-239</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2017-04-07" doc="D.C. Law 21-239" eff="2017-04-07" path="§3|(g)" type="History"/>
-    <annotation doc="D.C. Law 22-168" path="§7017" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§7017">Section 7017 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 21-239" path="§4">section 4 of D.C. Law 21-239</cite>. Therefore the creation of this section by <cite doc="D.C. Law 21-239">D.C. Law 21-239</cite> has been implemented.</annotation>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7017" type="History" display="false"/>
-    <annotation app="2023-06-29" doc="D.C. Act 25-151" eff="2023-06-29" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2023-06-29" doc="D.C. Act 25-151" eff="2023-06-29" path="§2|(b)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-151" path="§2|(b)" codified:display="Note" app="2023-06-29" eff="2023-06-29">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-151" path="§2|(b)">§ 2(b) of Rent Stabilized Housing Inflation Protection Emergency Amendment Act of 2023 (D.C. Act 25-151, June 29, 2023, 00 DCR 0000)</cite>.</annotation>
+    <annotation doc="D.C. Law 6-10" type="History" path="§208">July 17, 1985, D.C. Law 6-10, § 208, 32 DCR 3089</annotation>
+    <annotation doc="D.C. Law 21-239" type="History">as added Apr. 7, 2017, D.C. Law 21-239, § 3(g), 64 DCR 1588</annotation>
   </annotations>
 </section>
