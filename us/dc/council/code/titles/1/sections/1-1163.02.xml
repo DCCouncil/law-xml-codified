@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <num>1-1163.02</num>
+  <heading>Campaign Finance Board established; duties; enforcement of subchapter.</heading>
+  <para>
+    <num>(a)</num>
+    <text>There is established the Campaign Finance Board, whose purpose shall be to:</text>
+    <para>
+      <num>(1)</num>
+      <text>Appoint a Director of Campaign Finance, who shall:</text>
+      <para>
+        <num>(A)</num>
+        <text>Serve at the pleasure of the Campaign Finance Board; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Be compensated at the maximum rate for Grade 16 of the District Schedule, pursuant to <cite path="1|6|XI">subchapter XI of Chapter 6 of this title</cite>;</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Annually review the performance of the Director of Campaign Finance;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Administer and enforce the District's campaign finance laws;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Refer alleged violations for prosecution as provided in <cite path="1|11A|III">this subchapter</cite>; and</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Issue rules related to the District's campaign finance laws.</text>
+    </para>
+    <codify:find-replace path="heading" count="1" codified:doc="D.C. Code" codified:path="§1-1163.02">
+      <find>title</find>
+      <replace>subchapter</replace>
+    </codify:find-replace>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>Where the Campaign Finance Board, following the presentation by the Director of Campaign Finance of evidence constituting an apparent violation of <cite path="1|11A|III">this subchapter</cite>, makes a finding of an apparent violation of <cite path="1|11A|III">this subchapter</cite>, it shall refer the case for prosecution as provided for in <cite path="§1-1163.35">§ 1-1163.35</cite>, and shall make public the fact of such referral and the basis for the finding.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Campaign Finance Board, through its General Counsel:</text>
+      <para>
+        <num>(A)</num>
+        <text>Shall initiate, maintain, defend, or appeal any civil action (in the name of the Campaign Finance Board) relating to the enforcement of the provisions of <cite path="1|11A|III">this subchapter</cite>; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>May petition the courts of the District of Columbia for declaratory or injunctive relief concerning any action covered by the provisions of <cite path="1|11A|III">this subchapter</cite>.</text>
+      </para>
+    </para>
+  </para>
+  <annotations>
+    <annotation doc="D.C. Law 19-124" type="History" path="§302">Apr. 27, 2012, D.C. Law 19-124, § 302, 59 DCR 1862</annotation>
+    <annotation doc="D.C. Law 20-79" type="History">Feb. 22, 2014, D.C. Law 20-79, § 2(d), 61 DCR 153</annotation>
+    <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-79">D.C. Law 20-79</cite> substituted “for prosecution as provided for in <cite path="§1-1163.35">§ 1-1163.35</cite>” for “to the United States Attorney for the District of Columbia for prosecution” in (c).</annotation>
+    <annotation type="Section References">This section is referenced in <cite path="§1-604.06">§ 1-604.06</cite>, <cite path="§1-1161.01">§ 1-1161.01</cite>, and <cite path="§1-1163.03">§ 1-1163.03</cite>.</annotation>
+    <annotation doc="D.C. Law 21-160" path="§7009" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7009">Section 7009 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 20-79" path="§3">§ 3 of D.C. Law 20-79</cite>. Therefore the changes made to this section by D.C. Law 20-79 have been given effect.
+        </annotation>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7009" type="History" display="false"/>
+    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§6|(f)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 22-250" path="§6|(f)" codified:display="Note" app="2019-03-13" eff="2019-03-13">Applicability of <cite doc="D.C. Law 22-250" path="">D.C. Law 22-250</cite>: <cite doc="D.C. Law 22-250" path="§10">§ 10 of D.C. Law 22-250</cite> provided that the change made to this section by <cite doc="D.C. Law 22-250" path="§6|(f)">§ 6(f) of D.C. Law 22-250</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§10|(a)" type="History" display="false"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§1043|(a)" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§1104" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7183" type="History" display="false"/>
+    <annotation doc="D.C. Act 24-159" path="§7183" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7183">Section 7183 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 22-250" path="§10|(a)">section 10(a) of D.C. Law 22-250</cite> removing the applicability provision impacting this section.  Therefore, the amendment of this section by Law 22-250 has been implemented.
+            </annotation>
+  </annotations>
+</section>
