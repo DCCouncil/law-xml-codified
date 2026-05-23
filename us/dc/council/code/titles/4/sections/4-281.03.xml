@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-281.03</num>
   <text>
-      *NOTE: This section was created by emergency legislation that will expire on August 21, 2022.*
+      *NOTE: This section was created by emergency legislation that will expire on October 25, 2022.*
       </text>
   <heading>Eligibility, enrollment, and program requirements.</heading>
   <para>
@@ -45,19 +45,22 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>Participants must exit other housing-assistance programs upon enrollment in the program. A program participant shall cease to be eligible to participate in the program if, during the program participant's enrollment, any member of the program participant's household becomes enrolled in another District- or federal government-funded rental assistance program.</text>
+      <text>Program participants must exit other housing-assistance programs upon enrollment in the program. A program participant shall cease to be eligible to participate in the program if, during the program participant's enrollment, any member of the program participant's household becomes enrolled in another District- or federal government-funded rental assistance program.</text>
     </para>
   </para>
-  <codify:emergency doc="D.C. Code" path="§4-281.03" codified:doc="D.C. Code" codified:path="§4-281.03" codified:display="Note"/>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-271.01" expire="2022-07-27" codified:display="Note">For temporary (90 days) creation of § 4-281.03, see <cite doc="D.C. Act 24-521" path="§4">§ 4 of Career Mobility Action Plan Program Establishment Congressional Review Emergency Act of 2022 (D.C. Act 24-521, July 27, 2022, 69 DCR 009895)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-281.03" applicability="2022-07-27" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-281.03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-521" path="§4">§ 4 of Career Mobility Action Plan Program Establishment Congressional Review Emergency Act of 2022 (D.C. Act 24-521, July 27, 2022, 69 DCR 009895)</cite>.</codify:annotation>
   <codify:insert doc="D.C. Code" path="§4-281.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-281.03">
     <text>
-      *NOTE: This section was created by emergency legislation that will expire on August 21, 2022.*
+      *NOTE: This section was created by emergency legislation that will expire on October 25, 2022.*
       </text>
   </codify:insert>
   <annotations>
-    <annotation app="2022-05-23" doc="D.C. Act 24-433" eff="2022-05-23" path="" type="History" display="false"/>
-    <annotation app="2022-05-23" doc="D.C. Act 24-433" eff="2022-05-23" path="§4" type="History" display="false"/>
-    <annotation app="2022-05-23" doc="D.C. Act 24-433" eff="2022-05-23" path="§4" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-433" path="§4" codified:display="Note" app="2022-05-23" eff="2022-05-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-433" path="§4">§ 4 of Career Mobility Action Plan Program Establishment Emergency Act of 2022 (D.C. Act 24-433, May 23, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-433" path="§4" codified:display="Note" app="2022-07-27" eff="2022-05-23">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-433" path="§4">§ 4 of Career Mobility Action Plan Program Establishment Emergency Act of 2022 (D.C. Act 24-433, May 23, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2022-07-27" doc="D.C. Act 24-433" eff="2022-05-23" path="§4" type="History" display="false"/>
+    <annotation app="2022-07-27" doc="D.C. Act 24-521" eff="2022-07-27" path="" type="History" display="false"/>
+    <annotation app="2022-07-27" doc="D.C. Act 24-521" eff="2022-07-27" path="§4" type="History" display="false"/>
+    <annotation app="2022-07-27" doc="D.C. Act 24-521" eff="2022-07-27" path="§4" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-521" path="§4" codified:display="Note" app="2022-07-27" eff="2022-07-27">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-521" path="§4">§ 4 of Career Mobility Action Plan Program Establishment Congressional Review Emergency Act of 2022 (D.C. Act 24-521, July 27, 2022, 69 DCR 009895)</cite>.</annotation>
   </annotations>
 </section>

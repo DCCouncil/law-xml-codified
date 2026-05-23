@@ -2,12 +2,12 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-281.05</num>
   <text>
-      *NOTE: This section was created by emergency legislation that will expire on August 21, 2022.*
+      *NOTE: This section was created by emergency legislation that will expire on October 25, 2022.*
       </text>
   <heading>Hearings.</heading>
   <para>
     <num>(a)</num>
-    <text>A program participant or their representative may request a hearing to appeal a decision by the Department to:</text>
+    <text>A program participant or the program participant's representative may request a hearing to appeal a decision by the Department to:</text>
     <para>
       <num>(1)</num>
       <text>Terminate the program participant from the program after less than 5 years of participation; or</text>
@@ -30,12 +30,20 @@
     <text>A request for a hearing shall be made by the following deadlines:</text>
     <para>
       <num>(1)</num>
-      <text>If the notice was sent by postal mail, within 30 days after the postmark date of the notice;(2) If the notice was sent by email, within 30 days after the date of the email; or(3) If the notice was sent by both postal mail and email, by the earlier deadline set forth in paragraphs (1) and (2) of this subsection.</text>
+      <text>If the notice was sent by postal mail, within 30 days after the postmark date of the notice;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>If the notice was sent by email, within 30 days after the date of the email; or</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>If the notice was sent by both postal mail and email, by the earlier deadline set forth in paragraphs (1) and (2) of this subsection.</text>
     </para>
   </para>
   <para>
     <num>(e)</num>
-    <text>A hearing shall be held after an administrative review if the administrative review does not lead to the withdrawal of the hearing request.</text>
+    <text>A hearing shall be held after the administrative review if the administrative review does not lead to the withdrawal of the hearing request.</text>
   </para>
   <para>
     <num>(f)</num>
@@ -43,18 +51,28 @@
   </para>
   <para>
     <num>(g)</num>
-    <text>Notwithstanding <cite path="§4-210.11|(b)">§ 4-210.11(b)</cite>, the findings of the hearing officer shall be considered the final decision of the Mayor's agent.</text>
+    <para>
+      <num>(1)</num>
+      <text>If a program participant prevails in a hearing, the Mayor shall authorize corrected payments and services if applicable retroactively to the date the incorrect action was taken.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Notwithstanding <cite path="§4-210.11|(b)">§ 4-210.11(b)</cite>, the findings of the hearing officer shall be considered the final decision of the Mayor's agent.</text>
+    </para>
   </para>
-  <codify:emergency doc="D.C. Code" path="§4-281.05" codified:doc="D.C. Code" codified:path="§4-281.05" codified:display="Note"/>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-271.01" expire="2022-07-27" codified:display="Note">For temporary (90 days) creation of § 4-281.05, see <cite doc="D.C. Act 24-521" path="§6">§ 6 of Career Mobility Action Plan Program Establishment Congressional Review Emergency Act of 2022 (D.C. Act 24-521, July 27, 2022, 69 DCR 009895)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-281.05" applicability="2022-07-27" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-281.05">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-521" path="§6">§ 6 of Career Mobility Action Plan Program Establishment Congressional Review Emergency Act of 2022 (D.C. Act 24-521, July 27, 2022, 69 DCR 009895)</cite>.</codify:annotation>
   <codify:insert doc="D.C. Code" path="§4-281.05" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-281.05">
     <text>
-      *NOTE: This section was created by emergency legislation that will expire on August 21, 2022.*
+      *NOTE: This section was created by emergency legislation that will expire on October 25, 2022.*
       </text>
   </codify:insert>
   <annotations>
-    <annotation app="2022-05-23" doc="D.C. Act 24-433" eff="2022-05-23" path="" type="History" display="false"/>
-    <annotation app="2022-05-23" doc="D.C. Act 24-433" eff="2022-05-23" path="§6" type="History" display="false"/>
-    <annotation app="2022-05-23" doc="D.C. Act 24-433" eff="2022-05-23" path="§6" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-433" path="§6" codified:display="Note" app="2022-05-23" eff="2022-05-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-433" path="§6">§ 6 of Career Mobility Action Plan Program Establishment Emergency Act of 2022 (D.C. Act 24-433, May 23, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-433" path="§6" codified:display="Note" app="2022-07-27" eff="2022-05-23">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-433" path="§6">§ 6 of Career Mobility Action Plan Program Establishment Emergency Act of 2022 (D.C. Act 24-433, May 23, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2022-07-27" doc="D.C. Act 24-433" eff="2022-05-23" path="§6" type="History" display="false"/>
+    <annotation app="2022-07-27" doc="D.C. Act 24-521" eff="2022-07-27" path="" type="History" display="false"/>
+    <annotation app="2022-07-27" doc="D.C. Act 24-521" eff="2022-07-27" path="§6" type="History" display="false"/>
+    <annotation app="2022-07-27" doc="D.C. Act 24-521" eff="2022-07-27" path="§6" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-521" path="§6" codified:display="Note" app="2022-07-27" eff="2022-07-27">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-521" path="§6">§ 6 of Career Mobility Action Plan Program Establishment Congressional Review Emergency Act of 2022 (D.C. Act 24-521, July 27, 2022, 69 DCR 009895)</cite>.</annotation>
   </annotations>
 </section>
