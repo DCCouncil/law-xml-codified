@@ -1,8 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <codify:marginalia display="Applicable January 1, 2024"/>
   <num>1-611.10</num>
-  <heading>Compensation — Members of the Board of Education.</heading>
-  <text>Notwithstanding any other provisions of law, each member of the District of Columbia Board of Education shall receive a salary of not more than $15,000 annually; except the President of the Board of Education shall receive not more than $16,000 annually. These sums shall not increase unless by an act of the Council.</text>
+  <heading proof="needed">Compensation — Members of the State Board of Education.</heading>
+  <para>
+    <num>(a)</num>
+    <text>Notwithstanding any other provision of law, each member of the State Board of Education ("SBOE") shall, in 2024, receive an annual salary of $20,000; except, the President of the SBOE shall, in 2024, receive an annual salary of $21,000. In each subsequent year, the annual salary of each member and the President of the SBOE shall be increased by a percentage equal to the percentage by which the Consumer Price Index for All Urban Consumers for the Washington-Arlington-Alexandria, DC-MD-VA-WV Metropolitan Statistical Area (or such successor metropolitan statistical area that includes the District) increased in the prior calendar year.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The salaries of the members and President of the SBOE shall not be subject to step increases or any other increase not provided for by this section.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 2-139" type="History" path="§1110">Mar. 3, 1979, D.C. Law 2-139, § 1110, 25 DCR 5740</annotation>
     <annotation doc="D.C. Law 6-175" type="History">Feb. 24, 1987, D.C. Law 6-175, § 3(b), 33 DCR 7232</annotation>
@@ -19,6 +27,7 @@
           Section 4043 of D.C. Act 25-172 provided that the amendments made to this section by § 4042 of D.C. Act 25-172 shall apply as of January 1, 2024.
         </annotation>
     <annotation app="2023-07-14" doc="D.C. Act 25-172" eff="2023-07-14" path="§4042" type="History" display="false"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§4042" type="History"/>
     <annotation doc="D.C. Law 25-50" path="§4042" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06">
           Section 4043 of D.C. Law 25-50 provided that the amendments made to this section by § 4042 of D.C. Law 25-50 shall apply as of January 1, 2024.
         </annotation>

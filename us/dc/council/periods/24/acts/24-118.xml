@@ -71,7 +71,9 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:emergency-new-sec doc="D.C. Code" path="§2-218.31a" interim-path="§2-218.31" perm-eff="2023-05-25" codified:doc="D.C. Code" codified:path="§2-218.31a" codified:display="Note"/>
+      <codify:annotation doc="D.C. Code" path="§2-218.31" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§2-218.31">
+        For temporary (90 days) Grace period for compliance with § 2-218.31(1A), see <cite doc="D.C. Act 24-118">D.C. Act 24-118</cite>.
+      </codify:annotation>
     </para>
   </section>
   <section>
