@@ -404,7 +404,7 @@
     <prefix>Chapter</prefix>
     <num>3B</num>
     <heading>Use of Deadly Force.</heading>
-    <annotation app="2022-08-12" doc="D.C. Law 24-149" eff="2022-08-12" path="I" type="History" display="false"/>
+    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="I" type="History" display="false"/>
     <xi:include href="./sections/5-351.01.xml"/>
   </container>
   <container>
@@ -418,7 +418,7 @@
     <prefix>Chapter</prefix>
     <num>3C</num>
     <heading>Limitation on military weaponry.</heading>
-    <annotation app="2022-08-12" doc="D.C. Law 24-149" eff="2022-08-12" path="I" type="History" display="false"/>
+    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="I" type="History" display="false"/>
     <xi:include href="./sections/5-361.01.xml"/>
   </container>
   <container>
@@ -579,18 +579,11 @@
   <container>
     <prefix>Chapter</prefix>
     <num>5A</num>
-    <heading>MPD Overtime Spending Accountability.</heading>
-    <annotation app="2022-12-21" doc="D.C. Law 24-220" eff="2022-12-21" path="" type="History" display="false"/>
-    <xi:include href="./sections/5-581.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>5B</num>
     <reason>Not Funded</reason>
     <heading>MPD Overtime Reimbursement Fund.</heading>
     <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§9|(a)" type="History" display="false"/>
     <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§8" type="History" display="false"/>
-    <xi:include href="./sections/5-583.xml"/>
+    <xi:include href="./sections/5-581.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
