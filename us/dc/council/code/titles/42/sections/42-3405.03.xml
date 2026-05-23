@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-3405.03</num>
-  <heading>Civil cause of action.</heading>
-  <text>An aggrieved owner, tenant, or tenant organization may seek enforcement of any right or provision under this chapter through a civil action in law or equity, and, upon prevailing, may seek an award of costs and reasonable attorney fees. In an equitable action, the public policy of this chapter favors the waiver of bond requirements to the extent permissible under law or court rule.</text>
+  <heading proof="needed">Civil cause of action.</heading>
+  <para>
+    <num>(a)</num>
+    <text>An aggrieved owner, tenant, or tenant organization may seek enforcement of any right or provision under <cite path="42|34">this chapter</cite> through a civil action in law or equity, and, upon prevailing, may seek an award of costs and reasonable attorney fees. In an equitable action, the public policy of <cite path="42|34">this chapter</cite> favors the waiver of bond requirements to the extent permissible under law or court rule.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Any person suffering a loss due to violations of <cite path="§42-3404.16">§ 42-3404.16</cite> shall be entitled to recover, in addition to the amount of actual damages, double the amount of any interest collected in violation of <cite path="42|34">this chapter</cite>, plus any reasonable attorneys' fees incurred in the collection of that amount.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 3-86" type="History" path="§503">Sept. 10, 1980, D.C. Law 3-86, § 503, 27 DCR 2975</annotation>
     <annotation type="Editor's Notes">Reenactment of Law 3-86: See Historical and Statutory Notes following <cite path="§42-3401.01">§ 42-3401.01</cite>.</annotation>
@@ -12,5 +19,6 @@
       For exempt from the Tenant Opportunity to Purchase Act of 1980 for the real property described as Lot 818 in Square 240, located at 1338 R Street, N.W., and known as Anna Cooper House, see <cite doc="D.C. Law 22-149" path="§2">the Anna Cooper House TOPA Exemption Act of 2018 effective July 17, 2018 (D.C. Law 22-149)</cite>.
     </annotation>
     <annotation app="2018-07-17" doc="D.C. Law 22-149" eff="2018-07-17" path="§2" type="History" display="false"/>
+    <annotation app="2025-12-31" doc="D.C. Law 26-80" eff="2025-12-31" path="§301|(o)" type="History"/>
   </annotations>
 </section>

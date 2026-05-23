@@ -30,7 +30,7 @@
       <para codify:path="(M)">
         <num>(1)</num>
         <text>Subparagraph (M) is amended by striking the word "and".</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3404.02|(c)|(2)|(M)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3404.02|(c)">
           <find>and</find>
           <replace/>
         </codify:find-replace>
@@ -38,7 +38,7 @@
       <para codify:path="(N)">
         <num>(2)</num>
         <text>Subparagraph (N) is amended by striking the period and inserting a semicolon in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3404.02|(c)|(2)|(N)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3404.02|(c)">
           <find>.</find>
           <replace>;</replace>
         </codify:find-replace>
@@ -48,7 +48,7 @@
         <text>New subparagraphs (O), (P), and (Q) are added to read as follows:</text>
         <include lvl="2">
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§42-3404.02|(c)|(2)|(O)"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§42-3404.02|(c)"/>
             <num>(O)</num>
             <text>A transfer of interest in an entity that owns a housing accommodation or a transfer of title to a housing accommodation, if each of the following conditions is satisfied:</text>
             <para>
@@ -77,12 +77,12 @@
             </para>
           </para>
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§42-3404.02|(c)|(2)|(P)"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§42-3404.02|(c)"/>
             <num>(P)</num>
             <text>The transfer of interests in a partnership or limited liability company that owns an accommodation as its sole or principal asset; provided, that the sole purpose of the transfer is to allow for the exit of one or more limited partners or investor members who have made capital contributions and received tax benefits pursuant to section 42 of the IRC or a comparable federal or District program with occupancy, rent and income requirements at least as restrictive as under section 42 of the IRC.</text>
           </para>
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§42-3404.02|(c)|(2)|(Q)"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§42-3404.02|(c)"/>
             <num>(Q)</num>
             <text>A transfer of interest in an entity that owns a housing accommodation or a transfer of title to a housing accommodation, the sole purpose of which is to qualify for and enter into a new credit period, as defined in section 42 of the IRC, for purposes of the rehabilitation of the housing accommodation; provided that, before and after the transfer, the owner of the housing accommodation is controlled, directly or indirectly, by the same person or entity;</text>
           </para>
@@ -99,7 +99,7 @@
           <para>
             <num>(3)</num>
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§42-3404.02|(d)|(3)|(A)"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§42-3404.02|(d)"/>
               <num>(A)</num>
               <text>The Notice of Transfer shall be substantially in the form prescribed by the Mayor and shall provide at a minimum:</text>
               <para>

@@ -1,17 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>6-203.01</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on March 19, 2026.*
-      </text>
   <heading proof="needed">Board of Commissioners.</heading>
   <para>
     <num>(a)</num>
-    <text>The Authority shall be governed by a Board of Commissioners ("Board"), which shall consist of 9 members and shall govern in accordance with this section and <cite path="§6-211">§ 6-211</cite>.</text>
+    <text>The Authority shall be governed by a Board of Commissioners ("Board"), which shall consist of 9 members and govern in accordance with this section and <cite path="§6-211">§ 6-211</cite>.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>Residents of Housing Properties shall elect 2 Commissioners in accordance with <cite path="§6-211|(k)">§ 6-211(k)</cite>. The Authority shall conduct elections for one such Commissioner to take office no later than December 31, 2025, and every 3 years thereafter, and for the second elected Commissioner to take office no later than December 31, 2026, and every 3 years thereafter.</text>
+    <text>Residents of Housing Properties shall elect 2 Commissioners in accordance with <cite path="§6-211|(k)">§ 6-211(k)</cite>. The Authority shall conduct elections for one such Commissioner to take office no later than December 31, 2025, and every 3 years thereafter, and for the other elected Commissioner to take office no later than December 31, 2026, and every 3 years thereafter.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -25,7 +22,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>One member who has professional experience in homeless services system planning and coordination;</text>
+        <text>One member who has professional experience in homeless services system planning and coordinating;</text>
       </para>
     </para>
     <para>
@@ -61,20 +58,13 @@
     <num>(d)</num>
     <text>No person shall be elected, appointed, or reappointed to the Board if the person has served 9 years or longer, either in consecutive or non-consecutive terms, as a member of the Board in any form in which the Board existed since the establishment of the Authority pursuant to <cite path="6|2|I">this subchapter</cite>.</text>
   </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§6-203" expire="2025-12-19" codified:display="Note">For temporary (90 days) creation of § 6-203.01, see <cite doc="D.C. Act 26-239" path="§2|(c)|includes|4a">§ 4a of Housing Authority Resident Empowerment Congressional Review Emergency Amendment Act of 2025 (D.C. Act 26-239, Dec. 19, 2025, 0 DCR 0)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§6-203.01" applicability="2025-12-19" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§6-203.01">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-239" path="§2|(c)|includes|4a">§ 4a of Housing Authority Resident Empowerment Congressional Review Emergency Amendment Act of 2025 (D.C. Act 26-239, Dec. 19, 2025, 0 DCR 0)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§6-203.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-203.01">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on March 19, 2026.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation doc="D.C. Law 13-105" type="History" path="§4a" display="false">May 9, 2000, D.C. Law 13-105, § 4a</annotation>
     <annotation doc="D.C. Law 13-105" type="History" path="§4a">May 9, 2000, D.C. Law 13-105, § 4a</annotation>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-145" path="§2|(c)" codified:display="Note" app="2025-12-19" eff="2025-09-04">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-145" path="§2|(c)">§ 2(c) of Housing Authority Resident Empowerment Emergency Amendment Act of 2025 (D.C. Act 26-145, Sept. 4, 2025, 72 DCR 9614)</cite>.</annotation>
-    <annotation app="2025-12-19" doc="D.C. Act 26-145" eff="2025-09-04" path="§2|(c)" type="History" display="false"/>
-    <annotation app="2025-12-19" doc="D.C. Act 26-239" eff="2025-12-19" path="§2|(c)" type="History" display="false"/>
-    <annotation app="2025-12-19" doc="D.C. Act 26-239" eff="2025-12-19" path="§2|(c)" prefix="as added" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-239" path="§2|(c)" codified:display="Note" app="2025-12-19" eff="2025-12-19">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-239" path="§2|(c)|includes|4a">§ 4a of Housing Authority Resident Empowerment Congressional Review Emergency Amendment Act of 2025 (D.C. Act 26-239, Dec. 19, 2025, 0 DCR 0)</cite>.</annotation>
+    <annotation doc="D.C. Law 13-105" type="History" path="§4a" display="false">May 9, 2000, D.C. Law 13-105, § 4a</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-145" path="§2|(c)" codified:display="Note" app="2025-12-31" eff="2025-09-04">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-145" path="§2|(c)">§ 2(c) of Housing Authority Resident Empowerment Emergency Amendment Act of 2025 (D.C. Act 26-145, Sept. 4, 2025, 72 DCR 9614)</cite>.</annotation>
+    <annotation app="2025-12-31" doc="D.C. Act 26-145" eff="2025-09-04" path="§2|(c)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-239" path="§2|(c)" codified:display="Note" app="2025-12-31" eff="2025-12-19">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-239" path="§2|(c)|includes|4a">§ 4a of Housing Authority Resident Empowerment Congressional Review Emergency Amendment Act of 2025 (D.C. Act 26-239, Dec. 19, 2025, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2025-12-31" doc="D.C. Act 26-239" eff="2025-12-19" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2025-12-31" doc="D.C. Law 26-80" eff="2025-12-31" path="§601|(c)" prefix="as added" type="History"/>
   </annotations>
 </section>

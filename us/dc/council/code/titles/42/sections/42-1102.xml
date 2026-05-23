@@ -59,6 +59,10 @@
     <num>(14)</num>
     <text>Deeds to property transferred to a cooperative housing association in accordance with <cite path="§47-3503|(a)|(2)">§ 47-3503(a)(2)</cite>;</text>
   </para>
+  <para placeholder="Not Funded">
+    <num>(14A)</num>
+    <text>Not Funded.</text>
+  </para>
   <para>
     <num>(15)</num>
     <text>Construction loan deeds of trust or mortgages or permanent loan deeds of trust or mortgages in accordance with <cite path="§47-3503|(a)|(3)">§ 47-3503(a)(3)</cite>;</text>
@@ -394,5 +398,9 @@
     <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="§17|(a)|(1)" type="History"/>
     <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="§17|(a)|(2)" type="History"/>
     <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="§17|(a)|(3)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 26-80" path="§302" codified:display="Note" app="2025-12-31" eff="2025-12-31">Applicability of <cite doc="D.C. Law 26-80" path="">D.C. Law 26-80</cite>: <cite doc="D.C. Law 26-80" path="§701|(a)">§ 701(a) of D.C. Law 26-80</cite> provided that the amendment to this section by <cite doc="D.C. Law 26-80" path="§302">§ 302 of D.C. Law 26-80</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2025-12-31" doc="D.C. Law 26-80" eff="2025-12-31" path="§302" type="History"/>
+    <annotation app="2025-12-31" doc="D.C. Law 26-80" eff="2025-12-31" path="§701|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 26-80" eff="2025-12-31" path="§302" type="History"/>
   </annotations>
 </section>

@@ -1438,11 +1438,18 @@
       <num>IV</num>
       <heading>Opportunity to Purchase.</heading>
       <xi:include href="./sections/42-3404.01.xml"/>
+      <xi:include href="./sections/42-3404.01a.xml"/>
       <xi:include href="./sections/42-3404.02.xml"/>
       <xi:include href="./sections/42-3404.02a.xml"/>
+      <xi:include href="./sections/42-3404.02b.xml"/>
+      <xi:include href="./sections/42-3404.02c.xml"/>
+      <xi:include href="./sections/42-3404.02d.xml"/>
       <xi:include href="./sections/42-3404.03.xml"/>
+      <xi:include href="./sections/42-3404.03a.xml"/>
+      <xi:include href="./sections/42-3404.03b.xml"/>
       <xi:include href="./sections/42-3404.04.xml"/>
       <xi:include href="./sections/42-3404.05.xml"/>
+      <xi:include href="./sections/42-3404.05a.xml"/>
       <xi:include href="./sections/42-3404.06.xml"/>
       <xi:include href="./sections/42-3404.07.xml"/>
       <xi:include href="./sections/42-3404.08.xml"/>
@@ -1452,6 +1459,8 @@
       <xi:include href="./sections/42-3404.12.xml"/>
       <xi:include href="./sections/42-3404.13.xml"/>
       <xi:include href="./sections/42-3404.14.xml"/>
+      <xi:include href="./sections/42-3404.15.xml"/>
+      <xi:include href="./sections/42-3404.16.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
