@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>24-211.02</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on September 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§24-211.02(Perm)">Past Permanent Version</cite>.*
+      </text>
   <heading>Powers; promulgation of rules.</heading>
   <para>
     <num>(a)</num>
@@ -78,11 +81,15 @@
     </para>
     <para>
       <num>(10)</num>
-      <text>By October 1, 2021, work with the Office of the Attorney General, the Office of the United States Attorney for the District of Columbia, and the Office of Victim Services and Justice Grants to engage representatives of advocacy and legal services organizations for crime survivors' rights in the District to explore potential enhancements to the process for inmate release notifications to crime survivors[; and]</text>
+      <text>By October 1, 2021, work with the Office of the Attorney General, the Office of the United States Attorney for the District of Columbia, and the Office of Victim Services and Justice Grants to engage representatives of advocacy and legal services organizations for crime survivors' rights in the District to explore potential enhancements to the process for inmate release notifications to crime survivors;</text>
     </para>
     <para>
-      <num>[(11)]</num>
-      <text>Employ personnel whose sole responsibility shall be the civic engagement and enfranchisement of eligible individuals incarcerated in the Department of Corrections' care or custody, including those responsibilities in <cite path="§24-211.08">§ 24-211.08</cite> and designing and implementing a plan to facilitate voting for each election in the Central Detention Facility and Correctional Treatment Facility.</text>
+      <num>(11)</num>
+      <text>Employ personnel whose sole responsibility shall be the civic engagement and enfranchisement of eligible individuals incarcerated in the Department of Corrections' care or custody, including those responsibilities in <cite path="§24-211.08">§ 24-211.08</cite> and designing and implementing a plan to facilitate voting for each election in the Central Detention Facility and Correctional Treatment Facility; and</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>During school years 2024-2025 and 2025-2026, provide a free appropriate public education ("FAPE") under the Individuals with Disabilities Education Act, approved April 13, 1970 (84 Stat. 175; 20 U.S.C. § 1400 et seq.) ("IDEA"), and District law, to individuals with disabilities who are in its custody and detained in its secure facilities from the age of 18 through the end of the individual's eligibility for FAPE under the IDEA and District law.</text>
     </para>
   </para>
   <annotations>
@@ -223,5 +230,16 @@
       Applicability of D.C. Act 26-154: <cite doc="D.C. Act 26-154" path="§3">§ 3 of D.C. Act 26-154</cite> amends § 2 within § 10(a) of D.C. Law 24-344 which is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.
     </annotation>
     <annotation app="2025-10-03" doc="D.C. Act 26-154" eff="2025-10-03" path="§3" type="History" display="false"/>
+    <annotation app="2026-01-29" doc="D.C. Law 26-82" eff="2026-01-29" path="§2" type="History" display="false"/>
+    <annotation app="2026-01-29" doc="D.C. Law 26-82" eff="2026-01-29" path="§2|(a)" type="History"/>
+    <annotation app="2026-01-29" doc="D.C. Law 26-82" eff="2026-01-29" path="§2|(b)" type="History"/>
+    <annotation app="2026-01-29" doc="D.C. Law 26-82" eff="2026-01-29" path="§2|(c)" type="History"/>
+    <annotation app="2026-01-29" doc="D.C. Law 26-82" eff="2026-01-29" path="§2|(d)" type="History"/>
+    <annotation app="2026-01-29" doc="D.C. Law 26-82" eff="2026-01-29" path="§2|(e)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-82" path="§2" codified:display="Note" app="2026-01-29" eff="2026-01-29">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-82" path="§2">§ 2 of Special Education for Young Adults in the Custody of the Department of Corrections Second Temporary Amendment Act of 2025 (D.C. Law 26-82, Jan. 29, 2026, 72 DCR 13866)</cite>.</annotation>
+    <annotation doc="D.C. Law 26-82" path="§3" type="Applicability" history="false" app="2026-01-29" eff="2026-01-29">
+      Applicability of D.C. Law 26-82: <cite doc="D.C. Law 26-82" path="§3">§ 3 of D.C. Law 26-82</cite> amends § 2 within <cite doc="D.C. Law 24-344" path="§10|(a)">§ 10(a) of D.C. Law 24-344</cite> which is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.
+    </annotation>
+    <annotation app="2026-01-29" doc="D.C. Law 26-82" eff="2026-01-29" path="§3" type="History" display="false"/>
   </annotations>
 </section>

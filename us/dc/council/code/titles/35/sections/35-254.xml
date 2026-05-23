@@ -1,12 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>35-254</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on September 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§35-254(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Penalties.</heading>
   <para>
     <num>(a)</num>
     <para>
       <num>(1)</num>
-      <text>Except as provided in subsection (b)(1) and (1A) of this section, a violation of <cite path="§35-251|(b)">§ 35-251(b)</cite> or <cite path="§35-252|(a)">§ 35-252(a)</cite> shall be punishable by a civil fine of not more than $50.</text>
+      <text>Except as provided in subsection (b)(1) and (1A) and (1A) of this section, a violation of <cite path="§35-251|(b)">§ 35-251(b)</cite> or <cite path="§35-252|(a)">§ 35-252(a)</cite> shall be punishable by a civil fine of not more than $50.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -81,5 +84,9 @@
     <annotation app="2025-10-28" doc="D.C. Law 26-52" eff="2025-10-28" path="§6|(a)|(1)" type="History"/>
     <annotation app="2025-10-28" doc="D.C. Law 26-52" eff="2025-10-28" path="§6|(a)|(2)" type="History"/>
     <annotation app="2025-10-28" doc="D.C. Law 26-52" eff="2025-10-28" path="§6|(b)" type="History"/>
+    <annotation app="2026-01-29" doc="D.C. Law 26-81" eff="2026-01-29" path="§5" type="History" display="false"/>
+    <annotation app="2026-01-29" doc="D.C. Law 26-81" eff="2026-01-29" path="§5|(a)" type="History"/>
+    <annotation app="2026-01-29" doc="D.C. Law 26-81" eff="2026-01-29" path="§5|(b)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-81" path="§5" codified:display="Note" app="2026-01-29" eff="2026-01-29">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-81" path="§5">§ 5 of Peace DC Omnibus Temporary Amendment Act of 2025 (D.C. Law 26-81, Jan. 29, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
