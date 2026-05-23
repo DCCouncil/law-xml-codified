@@ -27,7 +27,7 @@
     <text>Section 2032 of the Deputy Mayor for Planning and Economic Development Limited Grant-Making Authority Act of 2012, effective September 20, 2012 (D.C. Law 19-168; D.C. Official Code § 1-328.04) is amended by adding a new subsection (j) to read as follows:</text>
     <include>
       <para>
-        <codify:insert doc="D.C. Code" after="(i)" path="§1-328.04" codified:doc="D.C. Code" codified:path="§1-328.04|(j)"/>
+        <codify:insert doc="D.C. Code" after="(i)" path="§1-328.04" num-value="[(j-1)]" codified:doc="D.C. Code" codified:path="§1-328.04|[(j-1)]"/>
         <num>(j)</num>
         <para>
           <num>(1)</num>
