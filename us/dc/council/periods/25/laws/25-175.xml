@@ -183,7 +183,7 @@
       <codify:not-funded-anno doc="D.C. Code" path="§1-301.192" applicability-path="§45" action="creation of subsection (c) of" display-template="" codified:doc="D.C. Code" codified:path="§1-301.192" codified:display="Note"/>
     </para>
     <para>
-      <num>(b)</num>
+      <num>[(b-1)]</num>
       <text>A new section 3024 is added to read as follows:</text>
       <include>
         <section>
@@ -5221,7 +5221,7 @@
           <text>Paragraph (1)(A) is amended to read as follows:</text>
           <include lvl="2">
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§16-805|(c)"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§16-805|(c)|(1)|(A)"/>
               <num>(A)</num>
               <text>For which the case was terminated by the prosecutor or otherwise reached a final disposition and did not result in a conviction or acquittal pursuant to <cite doc="D.C. Code" path="§24-501">§ 24-501</cite> prior to <span codify:value="[March 10, 2023]">the effective date of the Second Chance Amendment Act of 2022, effective March 10, 2023 (D.C. Law 24-284; 70 DCR 913)</span>, shall be sealed by October 1, 2027, or within 90 days after termination of the case by the prosecutor or final disposition, whichever is later; and</text>
             </para>
@@ -5233,7 +5233,7 @@
           <text>Paragraph (2) is amended to read as follows:</text>
           <include lvl="1">
             <para codify:path="(2)">
-              <codify:replace codified:doc="D.C. Code" codified:path="§16-805|(c)"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§16-805|(c)|(2)"/>
               <num>(2)</num>
               <text>Related to citations, arrests, charges, and convictions sealed pursuant to subsection (a)(2) of this section shall be sealed by October 1, 2027, or within 90 days after the expiration of the waiting period, whichever is later.</text>
             </para>
@@ -5251,7 +5251,7 @@
           <num>301</num>
           <heading proof="needed">Applicability.</heading>
           <text>This act shall apply as of October 1, 2024.</text>
-          <codify:repeal doc="D.C. Law 24-284" path="§301" codified:doc="D.C. Code" codified:path="2|16A"/>
+          <codify:repeal doc="D.C. Law 24-284" path="§301"/>
           <codify:annotation doc="D.C. Code" path="§16-801" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§16-801"><cite doc="D.C.Law 25-175" path="§40|(b)">Section 40(b) of D.C. Law 25-175</cite> amended <cite doc="D.C. Law 24-284" path="§301">section 301 of D.C. Law 24-284</cite> changing the applicability provision impacting this section to October 1, 2024.  Therefore the amendment of this section by section 101(b) of Law 24-284 will be implemented on October 1, 2024.</codify:annotation>
           <codify:annotation doc="D.C. Code" path="§16-802" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§16-802"><cite doc="D.C.Law 25-175" path="§40|(b)">Section 40(b) of D.C. Law 25-175</cite> amended <cite doc="D.C. Law 24-284" path="§301">section 301 of D.C. Law 24-284</cite> changing the applicability provision impacting this section to October 1, 2024.  Therefore the amendment of this section by section 101(b) of Law 24-284 will be implemented on October 1, 2024.</codify:annotation>
           <codify:annotation doc="D.C. Code" path="§16-803" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§16-803"><cite doc="D.C.Law 25-175" path="§40|(b)">Section 40(b) of D.C. Law 25-175</cite> amended <cite doc="D.C. Law 24-284" path="§301">section 301 of D.C. Law 24-284</cite> changing the applicability provision impacting this section to October 1, 2024.  Therefore the amendment of this section by section 101(b) of Law 24-284 will be implemented on October 1, 2024.</codify:annotation>
@@ -5337,11 +5337,11 @@
       <para>
         <num>(1)</num>
         <text>Sections 2, 5, 9, 14, 16, 28(b) and (c), 30(f), (g), (h), and (k), 32, 33, amendatory section 7 in section 37, 40, 41, and 44 shall apply upon the date of inclusion of their fiscal effect in an approved budget and financial plan.</text>
-        <codify:applicability doc="D.C. Law 25-175" path="§2" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-301.191|(c)|(6)"/>
+        <codify:applicability doc="D.C. Law 25-175" path="§2|(a)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-301.191|(c)|(6)"/>
+        <codify:applicability doc="D.C. Law 25-175" path="§2|[(b-1)]" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-301.193"/>
         <codify:applicability doc="D.C. Law 25-175" path="§5" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-534"/>
         <codify:applicability doc="D.C. Law 25-175" path="§9" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-581.01"/>
         <codify:applicability doc="D.C. Law 25-175" path="§14" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1104|(d-2)|(3)"/>
-        <codify:applicability doc="D.C. Law 25-175" path="§16" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2831|(a)"/>
         <codify:applicability doc="D.C. Law 25-175" path="§28|(b)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§22-4234|(a)|(9)"/>
         <codify:applicability doc="D.C. Law 25-175" path="§28|(c)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§22-4237"/>
         <codify:applicability doc="D.C. Law 25-175" path="§32" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§24-211.09"/>
@@ -5351,8 +5351,6 @@
           <find>Repealed</find>
           <replace>Not Funded</replace>
         </codify:find-replace>
-        <codify:applicability doc="D.C. Law 25-175" path="§40|(a)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§16-802|(b)"/>
-        <codify:applicability doc="D.C. Law 25-175" path="§40|(b)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="2|16A"/>
         <codify:applicability doc="D.C. Law 25-175" path="§44" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§22-4271"/>
       </para>
       <para>

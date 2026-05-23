@@ -2601,12 +2601,8 @@
   <container>
     <prefix>Chapter</prefix>
     <num>16A</num>
-    <reason>Not Funded</reason>
     <heading>Criminal History Reports.</heading>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§40|(b)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-284" eff="2023-03-10" path="§301|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-284" eff="2023-03-10" path="" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-284" eff="2023-03-10" path="" type="History" display="false"/>
     <xi:include href="./sections/2-1651.xml"/>
     <xi:include href="./sections/2-1652.xml"/>
     <xi:include href="./sections/2-1653.xml"/>
@@ -2614,6 +2610,9 @@
     <annotation doc="D.C. Law 25-50" path="§7088|(a)" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7088">Section 7088 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-284" path="§301">section 301 of D.C. Law 24-284</cite> changing the applicability provision impacting this section to January 1, 2026.  Therefore the creation of this section by Law 24-284 will be implemented on January 1, 2026.
         </annotation>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7088|(a)" type="History" display="false"/>
+    <annotation doc="D.C. Law 25-175" path="§40|(b)" type="Applicability" history="false" app="2024-06-08" eff="2024-06-08"><cite doc="D.C.Law 25-175" path="§40|(b)">Section 40(b) of D.C. Law 25-175</cite> amended <cite doc="D.C. Law 24-284" path="§301">section 301 of D.C. Law 24-284</cite> changing the applicability provision impacting this section to October 1, 2024.  Therefore the creation of this section by Law 24-284 will be implemented on October 1, 2024.
+        </annotation>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§40|(b)" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

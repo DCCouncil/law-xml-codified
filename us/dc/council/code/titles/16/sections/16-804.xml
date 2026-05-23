@@ -1,53 +1,145 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>16-804</num>
-  <heading>Motion to seal.</heading>
+  <heading proof="needed">Effect of expungement of criminal records.</heading>
   <para>
     <num>(a)</num>
-    <text>A motion to seal filed with the Court pursuant to this chapter shall state grounds upon which eligibility for sealing is based and facts in support of the person’s claim. It shall be accompanied by a statement of points and authorities in support of the motion, and any appropriate exhibits, affidavits, and supporting documents.</text>
+    <text>The effect of expungement shall be to restore a person, in the contemplation of the law, to the status they occupied before being cited, arrested, charged, or convicted.</text>
   </para>
   <para>
     <num>(b)</num>
+    <text>No person as to whom criminal record expungement relief has been granted shall be held thereafter under any provision of law to be guilty of perjury or otherwise giving a false statement by reason of failure to acknowledge or disclose that citation, arrest, charge, prosecution, disposition, or conviction, in response to any inquiry made of them for any purpose.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>If the Court orders that a criminal record be expunged:</text>
     <para>
       <num>(1)</num>
-      <text>A motion pursuant to <cite path="§16-803|(a)">§ 16-803(a)</cite>, (b), or (c) shall state all of the movant’s arrests and convictions and shall:</text>
+      <text>The Clerk and each prosecutor and law enforcement, corrections, pretrial, and community supervision agency shall:</text>
       <para>
         <num>(A)</num>
-        <text>Seek relief with respect to all the arrests and any conviction eligible for relief; and</text>
+        <text>Eliminate from all publicly available physical and computerized records any references that identify the person as having been cited, arrested, prosecuted, or convicted;</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>For any arrest or conviction as to which the waiting period in <cite path="§16-803|(a)">§ 16-803(a)</cite>, (b), or (c) has not elapsed, waive in writing the right to seek sealing of the records pertaining to that arrest or conviction.</text>
+        <text>Be entitled to retain records relating to the person's citation, arrest, prosecution, and conviction in a nonpublic, restricted access file; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Reply in response to public inquiries concerning the existence of the records that no records are available;</text>
       </para>
     </para>
     <para>
       <num>(2)</num>
-      <text>If the Court determines that the motion does not comply with the requirements of paragraph (1) of this subsection, then the movant shall have 30 days after being notified by the Court of the noncompliance to amend his or her original motion to include all of the movant’s District of Columbia Code and Municipal Regulation arrests and convictions and either seek relief with respect to all the eligible arrests and convictions or waive in writing the right to seek sealing of the records pertaining to any arrests or convictions for which relief is not sought. If the movant fails to amend his original motion within 30 days, then the motion shall be dismissed without prejudice.</text>
+      <text>Each prosecutor and law enforcement, corrections, pretrial, and community supervision agency shall file a certification with the Court within 90 days after an order to expunge is issued that, to the best of its knowledge and belief, all references that identify the person as having been cited, arrested, prosecuted, or convicted have been expunged;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The Clerk shall:</text>
+      <para>
+        <num>(A)</num>
+        <text>Retain a nonpublic record, appropriately and securely indexed to protect its confidentiality, containing records retrieved pursuant to this section and the certifications filed pursuant to paragraph (2) of this subsection; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Make reasonable efforts to provide a copy of the order to expunge and the certifications filed pursuant to paragraph (2) of this subsection to the person who was cited, arrested, charged, or convicted, or their counsel:</text>
+        <para>
+          <num>(i)</num>
+          <text>When the Court issues the order;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>When the certifications are filed pursuant to paragraph (2) of this subsection; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>At any time, upon proper identification, without a showing of need;</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>In a case involving co-defendants in which the Court orders the person's criminal records be expunged, the Court shall order, to the extent practicable:</text>
+      <para>
+        <num>(A)</num>
+        <text>That only those records, or portions thereof, relating solely to the person be redacted;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>That the person's name be redacted from records that are not expunged; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The redaction of references to the person that appear in a transcript of court proceedings involving co-defendants; and</text>
+      </para>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The Court shall not be required to order the redaction of the person's name from any published opinion of the trial or appellate courts that refers to the person.</text>
     </para>
   </para>
   <para>
-    <num>(c)</num>
-    <text>A copy of the motion and any amended motion shall be served upon the prosecutor.</text>
-  </para>
-  <para>
     <num>(d)</num>
-    <text>The prosecutor shall not be required to respond to the motion unless ordered to do so by the Court pursuant to <cite path="§16-805|(b)">§ 16-805(b)</cite>.</text>
+    <para>
+      <num>(1)</num>
+      <text>Records retained in a nonpublic file pursuant to this section shall only be available to:</text>
+      <para>
+        <num>(A)</num>
+        <text>The person who was cited, arrested, charged, or convicted, or their counsel;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A prosecutor, defense attorney, law enforcement, corrections, pretrial, or community supervision agency, for the purpose of:</text>
+        <para>
+          <num>(i)</num>
+          <text>Investigating, prosecuting, or defending another criminal case;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Complying with disclosure obligations in another criminal case; or</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Determining the person's suitability for diversion, release, sentencing reduction, or record sealing in another case; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Other persons or entities for the purpose of:</text>
+        <para>
+          <num>(i)</num>
+          <text>Use in civil litigation related to the citation, charge, arrest, or conviction; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Upon order of the Court for good cause shown, such as for anonymized records for academic or journalistic purposes.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A request for access to or to disclose expunged records may be made ex parte and may be granted by the Court for good cause shown.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>If the Court permits a requestor to access or disclose expunged records, the Court and the requestor shall take all reasonable measures to ensure that the records are secure and that the contents are not identifiably disclosed, published, or redistributed, such as by issuing a protective order or electronically limiting access to verified viewers.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>A person, upon making inquiry of the Court concerning the existence of criminal records involving an individual, shall be entitled to rely, for any purpose under the law, upon the clerk's response that no records are available with respect to any issue about that person's knowledge of the individual's record.</text>
+    </para>
   </para>
-  <para>
-    <num>(e)</num>
-    <text>If the movant files a motion to seal an arrest that is not in the Court database or an arrest and related court proceedings that are not in a publicly available database, the motion to seal and responsive pleadings shall not be available publicly. If the Court grants such a motion, it shall order that the motion and responsive pleadings be sealed to the same extent and in the same manner as the records pertaining to the arrest and related court proceedings. If the Court denies such a motion, the Court, the United States Attorney’s Office, the Office of the Attorney General for the District of Columbia, and the law enforcement agency that arrested the movant shall be entitled to retain any and all records relating to the motion in a non-public file.</text>
-  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§16-804" codified:display="Note" codified:doc="D.C. Code" codified:path="§16-804">Applicability of <cite doc="D.C. Law 24-284" path="">D.C. Law 24-284</cite>: <cite doc="D.C. Law 24-284" path="§301">§ 301 of D.C. Law 24-284</cite> provided that the change made to this section by <cite doc="D.C. Law 24-284" path="§101|(b)">§ 101(b) of D.C. Law 24-284</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 16-307" type="History">May 5, 2007, D.C. Law 16-307, § 2(b), 54 DCR 868</annotation>
     <annotation doc="D.C. Law 19-319" type="History">June 15, 2013, D.C. Law 19-319, § 4(d), 60 DCR 2333</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-319">D.C. Law 19-319</cite> rewrote (b) and (c); and added (e).</annotation>
-    <annotation type="Applicability" doc="D.C. Law 24-284" path="§101|(b)" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-284" path="">D.C. Law 24-284</cite>: <cite doc="D.C. Law 24-284" path="§301">§ 301 of D.C. Law 24-284</cite> provided that the change made to this section by <cite doc="D.C. Law 24-284" path="§101|(b)">§ 101(b) of D.C. Law 24-284</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="notfunded" doc="D.C. Law 24-284" eff="2023-03-10" path="§301|(a)" type="History" display="false"/>
     <annotation app="2023-03-10" doc="D.C. Law 24-284" eff="2023-03-10" path="§101|(b)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-284" eff="2023-03-10" path="§101|(b)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-284" path="§101|(b)" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-284" path="">D.C. Law 24-284</cite>: <cite doc="D.C. Law 24-284" path="§301">§ 301 of D.C. Law 24-284</cite> provided that the change made to this section by <cite doc="D.C. Law 24-284" path="§101|(b)">§ 101(b) of D.C. Law 24-284</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation doc="D.C. Law 25-50" path="§7088|(a)" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7088">Section 7088 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-284" path="§301">section 301 of D.C. Law 24-284</cite> changing the applicability provision impacting this section to January 1, 2026.  Therefore the amendment of this section by section 101(b) of Law 24-284 will be implemented on January 1, 2026.</annotation>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7088|(a)" type="History" display="false"/>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§40|(b)" type="History" display="false"/>
+    <annotation doc="D.C. Law 25-175" path="§40|(b)" type="Applicability" history="false" app="2024-06-08" eff="2024-06-08"><cite doc="D.C.Law 25-175" path="§40|(b)">Section 40(b) of D.C. Law 25-175</cite> amended <cite doc="D.C. Law 24-284" path="§301">section 301 of D.C. Law 24-284</cite> changing the applicability provision impacting this section to October 1, 2024.  Therefore the amendment of this section by section 101(b) of Law 24-284 will be implemented on October 1, 2024.</annotation>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§40|(b)" type="History" display="false"/>
   </annotations>
 </section>
