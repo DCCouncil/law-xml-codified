@@ -2317,6 +2317,7 @@
         <xi:include href="./sections/47-2887.14.xml"/>
         <xi:include href="./sections/47-2887.15.xml"/>
         <xi:include href="./sections/47-2887.16.xml"/>
+        <xi:include href="./sections/[47-2887.16a].xml"/>
         <xi:include href="./sections/47-2887.17.xml"/>
         <xi:include href="./sections/47-2887.18.xml"/>
       </container>
@@ -2332,6 +2333,20 @@
         <xi:include href="./sections/47-2888.06.xml"/>
         <xi:include href="./sections/47-2888.07.xml"/>
         <xi:include href="./sections/47-2888.08.xml"/>
+      </container>
+      <container>
+        <prefix>Part</prefix>
+        <num>G</num>
+        <heading>College Athlete Name, Image, or Likeness Registration.</heading>
+        <annotation app="2023-02-23" doc="D.C. Law 24-245" eff="2023-02-23" path="§222|(b)" type="History" display="false"/>
+        <xi:include href="./sections/47-2889.01.xml"/>
+        <xi:include href="./sections/47-2889.02.xml"/>
+        <xi:include href="./sections/47-2889.03.xml"/>
+        <xi:include href="./sections/47-2889.04.xml"/>
+        <xi:include href="./sections/47-2889.05.xml"/>
+        <xi:include href="./sections/47-2889.06.xml"/>
+        <xi:include href="./sections/47-2889.07.xml"/>
+        <xi:include href="./sections/47-2889.08.xml"/>
       </container>
     </container>
   </container>

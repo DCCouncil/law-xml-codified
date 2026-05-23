@@ -1,25 +1,54 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>47-2887.04</num>
-  <heading>Registration as athlete agent; form; requirements.</heading>
+  <heading proof="needed">Registration as athlete agent; application; requirements; reciprocal registration.</heading>
   <para>
     <num>(a)</num>
-    <text>An applicant for registration shall submit an application for registration to the Mayor in a form prescribed by the Mayor. An application filed under this section is a public record. The application must be in the name of an individual and, except as otherwise provided in subsection (b) of this section, signed or otherwise authenticated by the applicant under penalty of perjury and state or contain:</text>
+    <text>An applicant for registration as an athlete agent shall submit an application for registration to the Mayor in a form prescribed by the Mayor.  The applicant must be an individual, and the application shall be signed by the applicant under penalty of perjury.  The application must contain at least the following:</text>
     <para>
       <num>(1)</num>
-      <text>The name of the applicant and the address of the applicant’s principal place of business;</text>
+      <text>The applicant's:</text>
+      <para>
+        <num>(A)</num>
+        <text>Legal name and other names used;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Date and place of birth;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Contact information, including:</text>
+        <para>
+          <num>(i)</num>
+          <text>Address for the applicant's principal place of business;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Work and mobile telephone numbers;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Any means the applicant uses to communicate electronically, including a facsimile number, electronic-mail address, and personal and business or employer websites;</text>
+        </para>
+      </para>
     </para>
     <para>
       <num>(2)</num>
-      <text>The name of the applicant’s business or employer, if applicable;</text>
+      <text>The name of the applicant's business or employer, if applicable, including for each business or employer, its mailing address, telephone number, organizational form, and the nature of the business;</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>Any business or occupation engaged in by the applicant for the 5 years next preceding the date of submission of the application;</text>
+      <text>Each social-media account with which the applicant or the applicant's business or employer is affiliated;</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>A description of the applicant’s:</text>
+      <text>Each business or occupation in which the applicant engaged within the 5 years before the date of the application, including self-employment and employment by others, and any professional or occupational license, registration, or certification held by the applicant during that time;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>A description of the applicant's:</text>
       <para>
         <num>(A)</num>
         <text>Formal training as an athlete agent;</text>
@@ -30,64 +59,136 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>Educational background relating to the applicant’s activities as an athlete agent;</text>
+        <text>Educational background relating to the applicant's activities as an athlete agent;</text>
       </para>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>The names and addresses of 3 individuals not related to the applicant who are willing to serve as references;</text>
     </para>
     <para>
       <num>(6)</num>
-      <text>The name, sport, and last known team for each individual for whom the applicant acted as an athlete agent during the 5 years next preceding the date of submission of the application;</text>
+      <text>The name of each student-athlete for whom the applicant acted as an athlete agent within 5 years before the date of the application or, if the individual is a minor, the name of the parent or guardian of the minor, together with the student-athlete's sport and last-known team;</text>
     </para>
     <para>
       <num>(7)</num>
-      <text>The names and addresses of all persons who are:</text>
+      <text>The name and address of each person that:</text>
       <para>
         <num>(A)</num>
-        <text>With respect to the athlete agent’s business if it is not a corporation, the partners, members, officers, managers, associates, or profit-sharers of the business; and</text>
+        <text>Is a partner, member, officer, manager, associate, or profit sharer or directly or indirectly holds an equity interest of 5% or greater of the athlete agent's business if it is not a corporation; and</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>With respect to a corporation employing the athlete agent, the officers, directors, and any shareholder of the corporation having an interest of 5% or greater;</text>
+        <text>Is an officer or director of a corporation employing the athlete agent or a shareholder having an interest of 5% percent or greater in the corporation;</text>
       </para>
     </para>
     <para>
       <num>(8)</num>
-      <text>Whether the applicant or any person named pursuant to paragraph (7) of this subsection has been convicted of an offense that is directly related to the occupation for which the registration is sought, pursuant to a determination made under <cite path="§47-2853.17|(c-1)|(2)">§ 47-2853.17(c-1)(2)</cite>;</text>
+      <text>A description of the status of any application by the applicant, or any person named under paragraph (7) of this subsection, for a State or federal business, professional, or occupational license, other than as an athlete-agent, including any denial, refusal to renew, suspension, withdrawal, or termination of the license and any reprimand or censure related to the license;</text>
     </para>
     <para>
       <num>(9)</num>
-      <text>Whether there has been any administrative or judicial determination that the applicant or any person named pursuant to paragraph (7) of this subsection has made a false, misleading, deceptive, or fraudulent representation;</text>
+      <text>Whether the applicant, or any person named under paragraph (7) of this subsection, has pleaded guilty or no contest to, has been convicted of, or has charges pending for, a crime that would involve moral turpitude or be a felony if committed in the District and, if so, identification of:</text>
+      <para>
+        <num>(A)</num>
+        <text>The crime;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The law-enforcement agency involved; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>If applicable, the date of the conviction and the fine or penalty imposed;</text>
+      </para>
     </para>
     <para>
       <num>(10)</num>
-      <text>Any instance in which the conduct of the applicant or any person named pursuant to paragraph (7) of this subsection resulted in the imposition of a sanction, suspension, or declaration of ineligibility to participate in an interscholastic or intercollegiate athletic event on a student-athlete or educational institution;</text>
+      <text>Whether, within 15 years before the date of application, the applicant, or any person named under paragraph (7) of this subsection, has been a defendant or respondent in a civil proceeding, including a proceeding seeking an adjudication of legal incompetence and, if so, the date and a full explanation of each proceeding;</text>
     </para>
     <para>
       <num>(11)</num>
-      <text>Any sanction, suspension, or disciplinary action taken against the applicant or any person named pursuant to paragraph (7) of this subsection arising out of occupational or professional conduct; and</text>
+      <text>Whether the applicant, or any person named under paragraph (7) of this subsection, has an unsatisfied judgment or a judgment of continuing effect, including alimony or a domestic order in the nature of child support, which is not current at the date of the application;</text>
     </para>
     <para>
       <num>(12)</num>
-      <text>Whether there has been any denial of an application for, suspension or revocation of, or refusal to renew, the registration or licensure of the applicant or any person named pursuant to paragraph (7) of this subsection as an athlete agent in any State.</text>
+      <text>Whether, within 10 years before the date of application, the applicant, or any person named under paragraph (7) of this subsection, was adjudicated bankrupt or was an owner of a business that was adjudicated bankrupt;</text>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>Whether there has been any administrative or judicial determination that the applicant, or any person named under paragraph (7) of this subsection, made a false, misleading, deceptive, or fraudulent representation;</text>
+    </para>
+    <para>
+      <num>(14)</num>
+      <text>Each instance in which conduct of the applicant, or any person named under paragraph (7) of this subsection, resulted in the imposition of a sanction, suspension, or declaration of ineligibility to participate in an interscholastic, intercollegiate, or professional athletic event on a student-athlete or a sanction on an educational institution;</text>
+    </para>
+    <para>
+      <num>(15)</num>
+      <text>Each sanction, suspension, or disciplinary action taken against the applicant, or any person named under paragraph (7) of this subsection, arising out of occupational or professional conduct;</text>
+    </para>
+    <para>
+      <num>(16)</num>
+      <text>Whether there has been a denial of an application for, suspension or revocation of, refusal to renew, or abandonment of, the registration of the applicant, or any person named under paragraph (7) of this subsection, as an athlete agent in any State;</text>
+    </para>
+    <para>
+      <num>(17)</num>
+      <text>Each State in which the applicant currently is registered as an athlete agent or has applied to be registered as an athlete agent;</text>
+    </para>
+    <para>
+      <num>(18)</num>
+      <text>If the applicant is certified or registered by a professional league or players association:</text>
+      <para>
+        <num>(A)</num>
+        <text>The name of the league or association;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The date of certification or registration, and the date of expiration of the certification or registration, if any; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>If applicable, the date of any denial of an application for, suspension or revocation of, refusal to renew, withdrawal of, or termination of, the certification or registration or any reprimand or censure related to the certification or registration; and</text>
+      </para>
+    </para>
+    <para>
+      <num>(19)</num>
+      <text>Any additional information required by the Mayor.</text>
     </para>
   </para>
   <para>
     <num>(b)</num>
-    <text>An individual who has submitted an application for, and holds a certificate of, registration or licensure as an athlete agent in another State, may submit a copy of the application and certificate in lieu of submitting an application in the form prescribed pursuant to subsection (a) of this section. The Mayor shall accept the application and the certificate from the other State as an application for registration in the District of Columbia if the application to the other State:</text>
+    <text>Instead of proceeding under subsection (a) of this section, an individual registered as an athlete agent in another State may apply for registration as an athlete agent in the District by submitting to the Mayor:</text>
     <para>
       <num>(1)</num>
-      <text>Was submitted in the other State within 6 months next preceding the submission of the application in the District of Columbia and the applicant certifies that the information contained in the application is current;</text>
+      <text>A copy of the application for registration in the other State;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Contains information substantially similar to or more comprehensive than that required in an application submitted in the District of Columbia; and</text>
+      <text>A statement that identifies any material change in the information on the application or verifies there is no material change in the information, signed under penalty of perjury; and</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>Was signed by the applicant under penalty of perjury.</text>
+      <text>A copy of the certificate of registration from the other State.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>Except as provided in <cite path="§47-2887.05|(b)">§ 47-2887.05(b)</cite>, the Mayor shall issue a certificate of registration to an individual who applies for registration under subsection (b) of this section if the Mayor determines:</text>
+    <para>
+      <num>(1)</num>
+      <text>The application and registration requirements of the other State are substantially similar to or more restrictive than <cite path="47|28|IV|E">this part</cite>; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The applicant's registration in another State has not been revoked or suspended and no action involving the individual's conduct as an athlete agent is pending against the individual or the individual's registration in any other State.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>For purposes of implementing subsection (c) of this section, the Mayor shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Cooperate with national organizations concerned with athlete agent issues and agencies in other States that register athlete agents to develop a common registration form and determine which States have laws that are substantially similar to or more restrictive than <cite path="47|28|IV|E">this part</cite>; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Exchange information, including information related to actions taken against registered athlete agents or their registrations, with the national organizations and State agencies identified in paragraph (1) of this subsection.</text>
     </para>
   </para>
   <annotations>
@@ -95,5 +196,7 @@
     <annotation type="Editor's Notes">Uniform Law: This section is based upon § 5 of the Uniform Athlete Agents Act.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§47-2887.05">§ 47-2887.05</cite>.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-205" eff="2021-03-16" path="§4|(l)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-245" eff="2023-02-23" path="§102|(a)|(1)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-245" eff="2023-02-23" path="§102|(c)" type="History"/>
   </annotations>
 </section>

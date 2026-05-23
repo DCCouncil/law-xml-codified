@@ -403,12 +403,14 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>VII</num>
+      <reason>Repealed</reason>
       <heading>Durable Power of Attorney.</heading>
       <xi:include href="./sections/21-2081.xml"/>
       <xi:include href="./sections/21-2082.xml"/>
       <xi:include href="./sections/21-2083.xml"/>
       <xi:include href="./sections/21-2084.xml"/>
       <xi:include href="./sections/21-2085.xml"/>
+      <annotation app="2023-02-23" doc="D.C. Law 24-236" eff="2023-02-23" path="§2|(b)|(2)" type="History"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -427,6 +429,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>21</num>
+    <reason>Repealed</reason>
     <heading>Uniform General Power of Attorney.</heading>
     <xi:include href="./sections/21-2101.xml"/>
     <xi:include href="./sections/21-2102.xml"/>
@@ -446,6 +449,7 @@
     <xi:include href="./sections/21-2116.xml"/>
     <xi:include href="./sections/21-2117.xml"/>
     <xi:include href="./sections/21-2118.xml"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-236" eff="2023-02-23" path="§2|(c)" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -598,5 +602,81 @@
     <xi:include href="./sections/21-2516.xml"/>
     <xi:include href="./sections/21-2517.xml"/>
     <xi:include href="./sections/21-2518.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>26</num>
+    <heading>Uniform Power of Attorney Act.</heading>
+    <annotation app="2023-02-23" doc="D.C. Law 24-236" eff="2023-02-23" path="§2|(d)" type="History" display="false"/>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>I</num>
+      <heading>General Provisions.</heading>
+      <annotation app="2023-02-23" doc="D.C. Law 24-236" eff="2023-02-23" path="§2|(d)" type="History" display="false"/>
+      <xi:include href="./sections/21-2601.01.xml"/>
+      <xi:include href="./sections/21-2601.02.xml"/>
+      <xi:include href="./sections/21-2601.03.xml"/>
+      <xi:include href="./sections/21-2601.04.xml"/>
+      <xi:include href="./sections/21-2601.05.xml"/>
+      <xi:include href="./sections/21-2601.06.xml"/>
+      <xi:include href="./sections/21-2601.07.xml"/>
+      <xi:include href="./sections/21-2601.08.xml"/>
+      <xi:include href="./sections/21-2601.09.xml"/>
+      <xi:include href="./sections/21-2601.10.xml"/>
+      <xi:include href="./sections/21-2601.11.xml"/>
+      <xi:include href="./sections/21-2601.12.xml"/>
+      <xi:include href="./sections/21-2601.13.xml"/>
+      <xi:include href="./sections/21-2601.14.xml"/>
+      <xi:include href="./sections/21-2601.15.xml"/>
+      <xi:include href="./sections/21-2601.16.xml"/>
+      <xi:include href="./sections/21-2601.17.xml"/>
+      <xi:include href="./sections/21-2601.18.xml"/>
+      <xi:include href="./sections/21-2601.19.xml"/>
+      <xi:include href="./sections/21-2601.20.xml"/>
+      <xi:include href="./sections/21-2601.21.xml"/>
+      <xi:include href="./sections/21-2601.22.xml"/>
+      <xi:include href="./sections/21-2601.23.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>II</num>
+      <heading>Authority.</heading>
+      <annotation app="2023-02-23" doc="D.C. Law 24-236" eff="2023-02-23" path="§2|(d)" type="History" display="false"/>
+      <xi:include href="./sections/21-2602.01.xml"/>
+      <xi:include href="./sections/21-2602.02.xml"/>
+      <xi:include href="./sections/21-2602.03.xml"/>
+      <xi:include href="./sections/21-2602.04.xml"/>
+      <xi:include href="./sections/21-2602.05.xml"/>
+      <xi:include href="./sections/21-2602.06.xml"/>
+      <xi:include href="./sections/21-2602.07.xml"/>
+      <xi:include href="./sections/21-2602.08.xml"/>
+      <xi:include href="./sections/21-2602.09.xml"/>
+      <xi:include href="./sections/21-2602.10.xml"/>
+      <xi:include href="./sections/21-2602.11.xml"/>
+      <xi:include href="./sections/21-2602.12.xml"/>
+      <xi:include href="./sections/21-2602.13.xml"/>
+      <xi:include href="./sections/21-2602.14.xml"/>
+      <xi:include href="./sections/21-2602.15.xml"/>
+      <xi:include href="./sections/21-2602.16.xml"/>
+      <xi:include href="./sections/21-2602.17.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>III</num>
+      <heading>Statutory Forms.</heading>
+      <annotation app="2023-02-23" doc="D.C. Law 24-236" eff="2023-02-23" path="§2|(d)" type="History" display="false"/>
+      <xi:include href="./sections/21-2603.01.xml"/>
+      <xi:include href="./sections/21-2603.02.xml"/>
+      <xi:include href="./sections/21-2603.03.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>IV</num>
+      <heading>Miscellaneous Provisions.</heading>
+      <annotation app="2023-02-23" doc="D.C. Law 24-236" eff="2023-02-23" path="§2|(d)" type="History" display="false"/>
+      <xi:include href="./sections/21-2604.01.xml"/>
+      <xi:include href="./sections/21-2604.02.xml"/>
+      <xi:include href="./sections/21-2604.03.xml"/>
+    </container>
   </container>
 </container>

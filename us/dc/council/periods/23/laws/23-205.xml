@@ -786,7 +786,7 @@
     <para>
       <num>(l)</num>
       <text>Section 47-2887.04(a)(8) is amended by striking the phrase "of a crime that, if committed in the District of Columbia, would be a crime involving moral turpitude or a felony, and identify the crime" and inserting the phrase "of an offense that is directly related to the occupation for which the registration is sought, pursuant to a determination made under § 47-2853.17(c-1)(2)" in its place.</text>
-      <codify:find-replace path="§47-2887.04|(a)|(8)" count="1" codified:doc="D.C. Code" codified:path="§47-2887.04|(a)|(8)">
+      <codify:find-replace path="§47-2887.04|(a)|(8)" count="1" codified:doc="D.C. Code" codified:path="§47-2887.04">
         <find>of a crime that, if committed in the District of Columbia, would be a crime involving moral turpitude or a felony, and identify the crime</find>
         <replace>of an offense that is directly related to the occupation for which the registration is sought, pursuant to a determination made under <cite doc="D.C. Code" path="§47-2853.17|(c-1)|(2)">§ 47-2853.17(c-1)(2)</cite></replace>
       </codify:find-replace>

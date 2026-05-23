@@ -1,29 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>47-2887.15</num>
-  <heading>Civil remedies.</heading>
+  <heading proof="needed">Civil remedies.</heading>
   <para>
     <num>(a)</num>
-    <text>An educational institution has a right of action against an athlete agent or a former student-athlete for damages caused by a violation of this part. In an action under this section, the court may award to the prevailing party costs and reasonable attorney’s fees.</text>
+    <text>An educational institution or student-athlete may bring an action for damages against an athlete agent if the institution or student-athlete is adversely affected by an act or omission of the athlete agent in violation of <cite path="47|28|IV|E">this part</cite>. An educational institution or student-athlete is adversely affected by an act or omission of the agent only if, because of the act or omission, the institution or an individual who was a student-athlete at the time of the act or omission and enrolled in the institution:</text>
+    <para>
+      <num>(1)</num>
+      <text>Is suspended or disqualified from participation in an interscholastic or intercollegiate sports event by or under the rules of a State or national federation or association that promotes or regulates interscholastic or intercollegiate sports; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Suffers financial damage.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
-    <text>Damages of an educational institution under subsection (a) of this section include losses and expenses incurred because, as a result of the conduct of an athlete agent or former student-athlete, the educational institution was injured by a violation of this part or was penalized, disqualified, or suspended from participation in athletics by a national association for the promotion and regulation of athletics, by an athletic conference, or by reasonable self-imposed disciplinary action taken to mitigate sanctions likely to be imposed by such an organization.</text>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>A right of action under this section does not accrue until the educational institution discovers or by the exercise of reasonable diligence would have discovered the violation by the athlete agent or former student-athlete.</text>
-  </para>
-  <para>
-    <num>(d)</num>
-    <text>Any liability of the athlete agent or the former student-athlete under this section is several and not joint.</text>
-  </para>
-  <para>
-    <num>(e)</num>
-    <text>This part does not restrict rights, remedies, or defenses of any person under law or equity.</text>
+    <text>A plaintiff that prevails in an action under this section may recover actual damages, costs, and reasonable attorney's fees.  An athlete agent found liable under this section forfeits any right of payment for anything of benefit or value provided to the student-athlete and shall refund any consideration paid to the agent by or on behalf of the student-athlete.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 14-107" type="History">Apr. 13, 2002, D.C. Law 14-107, § 3, 49 DCR 1193)</annotation>
     <annotation type="Editor's Notes">Uniform Law: This section is based upon § 16 of the Uniform Athlete Agents Act.</annotation>
+    <annotation app="2023-02-23" doc="D.C. Law 24-245" eff="2023-02-23" path="§102|(j)" type="History"/>
   </annotations>
 </section>
