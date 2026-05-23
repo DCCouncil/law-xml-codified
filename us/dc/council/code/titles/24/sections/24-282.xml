@@ -1,34 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>24-282</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§24-282(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Establishment of Resident Welfare Fund; audit; report.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established a nonlapsing fund to be known as the Resident Welfare Fund and to be used for the purposes set forth in <cite path="§24-283">§ 24-283</cite>.</text>
+    <text>There is established as a special fund the Resident Welfare Fund ("Fund"), which shall be administered by the Director of the Department of Corrections in accordance with <cite path="§24-283">§ 24-283</cite>.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>The Fund shall consist of:</text>
-    <para>
-      <num>(1)</num>
-      <text>An initial appropriation in fiscal year 2007; and</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Monies derived from the sale of goods through the commissary at correctional facilities.</text>
-    </para>
+    <text>Monies derived from the sale of goods through the commissary at correctional facilities shall be deposited in the Fund.</text>
   </para>
   <para>
     <num>(c)</num>
-    <text>Except as provided in <cite path="§24-283|(2)">§ 24-283(2)</cite>, funds deposited into the Fund shall not be transferred or revert to the fund balance of the General Fund of the District of Columbia at the end of any fiscal year or at any other time, but shall be continually available for the uses and purposes set forth in <cite path="§24-283">§ 24-283</cite>, subject to authorization by Congress.</text>
+    <text>Any money remaining available in the Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(d)</num>
-    <text>The Fund shall comply with all financial and procurement statutes, rules, regulations, standards, and systems promulgated by the District of Columbia government.</text>
+    <text>Repealed.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(e)</num>
-    <text>The Fund shall be subject to annual audits scheduled by the Office of the Chief Financial Officer, which shall be submitted to the Council no later than February 1 of each year. The scope of the audit shall include an examination of the Department’s use of Fund profits, including stocking the commissaries, low-bond releases, providing resident clothing upon release, and funding transportation costs for residents after release. The audit reports shall be submitted to the Council and the Mayor.</text>
+    <text>Repealed.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 16-192" type="History" path="§3003">Mar. 2, 2007, D.C. Law 16-192, § 3003, 53 DCR 6899</annotation>
@@ -39,5 +34,9 @@
     <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§21|(c)|(2)" type="History"/>
     <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§21|(c)|(3)|(A)" type="History"/>
     <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§21|(c)|(3)|(B)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7122|(a)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7122|(a)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7122|(a)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7122|(a)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7122|(a)">§ 7122(a) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

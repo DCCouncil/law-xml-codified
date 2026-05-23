@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-1002</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 24, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-1002(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Real property — Exemptions.</heading>
   <text>Only the following real property shall be exempt from taxation in the District of Columbia:</text>
   <para>
@@ -345,11 +348,15 @@
   </para>
   <para>
     <num>(34)</num>
-    <text>The real property (and any improvements thereon) described as Lot 47 in Square 455 so long as the Land Disposition Agreement—Ground Lease, by and among the District of Columbia Redevelopment Land Agency, the District of Columbia, and DC Arena, L.P., dated as of December 29, 1995, and recorded with the Recorder of Deeds on January 5, 1996, as instrument number 9600001285, as may be amended from time to time, remains in effect; and</text>
+    <text>The real property (and any improvements thereon) described as Lot 47 in Square 455 so long as the Land Disposition Agreement—Ground Lease, by and among the District of Columbia Redevelopment Land Agency, the District of Columbia, and DC Arena, L.P., dated as of December 29, 1995, and recorded with the Recorder of Deeds on January 5, 1996, as instrument number 9600001285, as may be amended from time to time, remains in effect;</text>
   </para>
   <para>
     <num>(35)</num>
-    <text>The real property (and any improvements thereon) described as Lot 47 in Square 455 and Lot 884 in Square 454 (and any adjacent air space leased pursuant to <cite doc="D.C. Law 25-319" path="§4|(a)">[section 4(a) of the Downtown Arena Revitalization Act of 2024]</cite>, so long as the lease for such real property approved by <cite doc="D.C. Law 25-319" path="§2|(a)|(2)">[section 2(a)(2) of the Downtown Arena Revitalization Act of 2024]</cite>, as may be amended from time to time, remains in effect.</text>
+    <text>The real property (and any improvements thereon) described as Lot 47 in Square 455 and Lot 884 in Square 454 (and any adjacent air space leased pursuant to <cite doc="D.C. Law 25-319" path="§4|(a)">[section 4(a) of the Downtown Arena Revitalization Act of 2024]</cite>, so long as the lease for such real property approved by <cite doc="D.C. Law 25-319" path="§2|(a)|(2)">[section 2(a)(2) of the Downtown Arena Revitalization Act of 2024]</cite>, as may be amended from time to time, remains in effect; and</text>
+  </para>
+  <para>
+    <num>(36)</num>
+    <text>"Each parcel (and the improvements thereon) on the RFK Campus, as defined by <cite path="§47-2002.08|(a)|(1)">§ 47-2002.08(a)(1)</cite>, on which the stadium, as defined by <cite path="§47-2002.08|(a)|(2)">§ 47-2002.08(a)(2)</cite>, and standalone parking facilities that serve the stadium are constructed or to be constructed, so long as the leases authorized by section 4(c)(1) of the Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 between the District and Pro-Football LLC or an affiliate of Pro-Football LLC for the stadium and standalone parking facilities remain in effect.</text>
   </para>
   <annotations>
     <text type="Editor's Notes">Section 7253 of <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> provided that the amendment by § 7252 of the act shall apply with respect to renewal contracts entered into before, on, or after July 14, 2014.</text>
@@ -505,5 +512,10 @@
     <annotation app="2025-03-28" doc="D.C. Law 25-319" eff="2025-03-28" path="§5|(a)|(1)" type="History"/>
     <annotation app="2025-03-28" doc="D.C. Law 25-319" eff="2025-03-28" path="§5|(a)|(2)" type="History"/>
     <annotation app="2025-03-28" doc="D.C. Law 25-319" eff="2025-03-28" path="§5|(a)|(3)" type="History"/>
+    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§17|(b)|(1)" type="History" display="false"/>
+    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§17|(b)|(1)|(A)" type="History"/>
+    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§17|(b)|(1)|(B)" type="History"/>
+    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§17|(b)|(1)|(C)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-150" path="§17|(b)|(1)" codified:display="Note" app="2025-09-25" eff="2025-09-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-150" path="§17|(b)|(1)">§ 17(b)(1) of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

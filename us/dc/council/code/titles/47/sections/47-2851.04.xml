@@ -2,6 +2,9 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>§</prefix>
   <num>47-2851.04</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 21, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-2851.04(Perm)">Permanent Version</cite>.*
+      </text>
   <heading proof="needed">License application and fees.</heading>
   <para>
     <num>(a)</num>
@@ -12,7 +15,11 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>$99 for a 2-year license.</text>
+      <text>$99 for a 2-year license; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>$198 for a 4-year license.</text>
     </para>
   </para>
   <para>
@@ -20,11 +27,15 @@
     <text>For the renewal of:</text>
     <para>
       <num>(1)</num>
-      <text>An initial 6-month license, a person shall pay a license fee of $49 for a second 6-month license; provided, that only one $49 renewal of a 6-month license shall be permitted; thereafter, the person shall pay a renewal license fee according to paragraph (2) of this subsection; and</text>
+      <text>An initial 6-month license, a person shall pay a license fee of $49 for a second 6-month license; provided, that only one $49 renewal of a 6-month license shall be permitted; thereafter, the person shall pay a renewal license fee according to paragraph (2) of this subsection;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>A 2-year license, a person shall pay a license fee of $99.</text>
+      <text>A 2-year license, a person shall pay a license fee of $99; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>A 4-year license, a person shall pay a license fee of $198.</text>
     </para>
   </para>
   <para>
@@ -113,5 +124,12 @@
     <annotation doc="D.C. Law 25-217" path="§7286" type="Applicability" history="false" display-template="" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> amended <cite doc="D.C. Law 24-333" path="§9">section 9 of D.C. Law 24-333</cite> making the amendment of this section by section 5(c)(10) of D.C. Law 24-333 applicable as of October 1, 2025.
         </annotation>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7286" type="History" display="false"/>
+    <annotation app="2025-10-23" doc="D.C. Act 26-165" eff="2025-10-23" path="§3|(b)" type="History" display="false"/>
+    <annotation app="2025-10-23" doc="D.C. Act 26-165" eff="2025-10-23" path="§3|(b)|(1)|(A)" type="History"/>
+    <annotation app="2025-10-23" doc="D.C. Act 26-165" eff="2025-10-23" path="§3|(b)|(1)|(B)" type="History"/>
+    <annotation app="2025-10-23" doc="D.C. Act 26-165" eff="2025-10-23" path="§3|(b)|(2)|(A)" type="History"/>
+    <annotation app="2025-10-23" doc="D.C. Act 26-165" eff="2025-10-23" path="§3|(b)|(2)|(B)" type="History"/>
+    <annotation app="2025-10-23" doc="D.C. Act 26-165" eff="2025-10-23" path="§3|(b)|(2)|(C)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-165" path="§3|(b)" codified:display="Note" app="2025-10-23" eff="2025-10-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-165" path="§3|(b)">§ 3(b) of Revised Business Licensing Reform Emergency Amendment Act of 2025 (D.C. Act 26-165, Oct. 23, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

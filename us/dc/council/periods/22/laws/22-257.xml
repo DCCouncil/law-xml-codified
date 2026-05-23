@@ -523,7 +523,7 @@
         <para codify:path="(a)|(1)">
           <num>(1)</num>
           <text>Subsection (a)(1) is amended by striking the phrase "natural gas and electric companies" and inserting the phrase "natural gas, electric companies, and a person who delivers heating oil or fuel oil to an end-user in the District" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1774.10|(a)|(1)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1774.10|(a)">
             <find>natural gas and electric companies</find>
             <replace>natural gas, electric companies, and a person who delivers heating oil or fuel oil to an end-user in the District</replace>
           </codify:find-replace>

@@ -192,7 +192,7 @@
         <para codify:path="(4)|(A)">
           <num>(C)</num>
           <text>Paragraph (4)(A) is amended by striking the phrase "his or her choice" and inserting the phrase "the voter's choice" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.05|(b)|(4)|(A)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.05|(b)|(4)">
             <find>his or her choice</find>
             <replace>the voter's choice</replace>
           </codify:find-replace>

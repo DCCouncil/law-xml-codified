@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>29-102.12</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§29-102.12(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Fees.</heading>
   <para>
     <num>(a)</num>
@@ -20,7 +23,7 @@
   </para>
   <para>
     <num>(e)</num>
-    <text>The Mayor may implement fee forgiveness programs by rulemaking to encourage entities to come into compliance with the entity filing requirements of <cite path="29|1|II">this subchapter</cite>.</text>
+    <text>The Mayor may implement fee and penalty waiver and forgiveness programs by rulemaking to encourage entities to come into compliance with the entity filing requirements of <cite path="29|1|II">this subchapter</cite>.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 18-378" type="History">July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720</annotation>
@@ -40,5 +43,8 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§6024" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§6024">§ 6024 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
     <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§6024" type="History" display="false"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6024" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2162" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2162" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2162" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2162">§ 2162 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

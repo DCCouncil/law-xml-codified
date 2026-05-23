@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>2-1225.21</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§2-1225.21(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Economic Development Special Account.</heading>
   <para>
     <num>(a)</num>
@@ -22,6 +25,10 @@
       <para>
         <num>(C)</num>
         <text>All fees, revenues, and other income from real property or other assets formerly under the authority of the National Capital Revitalization Corporation (“NCRC”) or the Anacostia Waterfront Corporation (“AWC”), or any of their subsidiaries, which include the RLA Revitalization Corporation, Southwest Waterfront Development Corporation, Southwest Waterfront Holdings Corporation, and Economic Development Finance Corporation;</text>
+      </para>
+      <para>
+        <num>(C-i)</num>
+        <text>Beginning October 1, 2025, the tax revenue received pursuant to <cite path="§47-2002.03a|(a)|(2)">§ 47-2002.03a(a)(2)</cite>, less amounts deposited in the General Fund pursuant to <cite path="§47-2002.03a|(c)|(2)">§ 47-2002.03a(c)(2)</cite>;</text>
       </para>
       <para>
         <num>(D)</num>
@@ -76,6 +83,38 @@
   <para>
     <num>(d-2)</num>
     <text>Monies credited to the Account may be used to provide grants authorized by <cite path="§1-328.04|(j)">§ 1-328.04(j)</cite> and <cite path="§1-328.04|(k)">(k)</cite>.</text>
+  </para>
+  <para>
+    <num>(d-3)</num>
+    <text>In Fiscal Year 2026, of the amounts credited to the Account pursuant to subsection (b)(1)(C-i) of this section:</text>
+    <para>
+      <num>(1)</num>
+      <text>$2,451,000 shall be used to provide grants authorized by <cite path="§1-328.04|(jj)|(3)">§ 1-328.04(jj)(3)</cite>;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>$5,140,000 shall be used to provide a grant to the Washington DC Economic Partnership to support retail and business attraction efforts;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>$750,000 shall be used for services to generate business attraction leads, to market the District to businesses with the goal of enticing businesses to relocate into the District, and to develop business incentives;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>$1,125,000 shall be used to support businesses in the Gallery Place and Chinatown neighborhoods while the Capital One Arena redevelopment project is under construction;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>$750,000 shall be used to support retail, reduce commercial vacancies, and generate foot traffic across the District by supporting street level and storefront activations to fill amenity gaps; and</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>$250,000 shall be used to rejuvenate and preserve the cultural identity of Chinatown.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d-4)</num>
+    <text>In Fiscal Year 2027, of the amounts credited to the Account pursuant to subsection (b)(1)(C-i) of this section, $6,140,000 shall be used to provide a grant to the Washington DC Economic Partnership to support retail and business attraction efforts.</text>
   </para>
   <para>
     <num>(e)</num>
@@ -161,5 +200,9 @@
     <annotation app="2023-04-24" doc="D.C. Act 25-71" eff="2023-04-24" path="§3" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-32" path="§3" codified:display="Note" app="2023-07-20" eff="2023-07-20">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-32" path="§3">§ 3 of African American Civil War Museum and Ben's Chili Bowl Limited Grant-Making Authority Temporary Amendment Act of 2023 (D.C. Law 25-32, July 20, 2023, 70 DCR 7931)</cite>.</annotation>
     <annotation app="2023-07-20" doc="D.C. Law 25-32" eff="2023-07-20" path="§3" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2083" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2083|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2083|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2083" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2083">§ 2083 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

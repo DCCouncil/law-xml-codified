@@ -2,16 +2,19 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>§</prefix>
   <num>47-2202.03</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-2202.03(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Additional tax on gross receipts for transient lodgings or accommodations.</heading>
   <para>
     <num>(a)</num>
     <para>
       <num>(1)</num>
-      <text>Except as provided in paragraph (2) of this subsection, a tax, separate from, and in addition to, the taxes imposed pursuant to <cite path="§47-2202">§§ 47-2202</cite> and <cite path="§47-2202.01">47-2202.01</cite> is imposed at the rate of 0.3% on the use, storage, or consumption of any room or rooms, lodgings, or accommodations furnished to a transient by any hotel, inn, tourist camp, tourist cabin, or any other place in which rooms, lodgings, or accommodations are regularly furnished to transients.</text>
+      <text>A tax, separate from, and in addition to, the taxes imposed pursuant to <cite path="§47-2202">§§ 47-2202</cite> and <cite path="§47-2202.01">47-2202.01</cite> is imposed at the rate of 0.3% on the use, storage, or consumption of any room or rooms, lodgings, or accommodations furnished to a transient by any hotel, inn, tourist camp, tourist cabin, or any other place in which rooms, lodgings, or accommodations are regularly furnished to transients.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>For the period of time beginning on April 1, 2023, through March 31, 2027, the tax imposed by paragraph (1) of this subsection shall be at the rate of 1.3%.</text>
+      <text>A tax, separate from and in addition to the taxes imposed pursuant to § 47-2202(a)(2)(A), § 47-2202.02, and paragraph (1) of this subsection, is imposed on all vendors at the rate of 1.0% of the gross receipts from the sale of or charges on or after April 1, 2023, and on or before September 30, 2027, for any room or rooms, lodgings, or accommodations furnished to a transient by any hotel, inn, tourist camp, tourist cabin, or any other place in which rooms, lodgings, or accommodations are regularly furnished to transients.</text>
     </para>
   </para>
   <para>
@@ -24,11 +27,18 @@
   </para>
   <para>
     <num>(d)</num>
-    <text>The tax revenue receipted pursuant to this section shall be dedicated to the Washington Convention and Sports Authority, for transfer to Destination DC for the purposes of marketing and promoting the District of Columbia as a destination.  Any tax revenue dedicated pursuant to this subsection shall be in addition to the funds dedicated to Destination DC pursuant to <cite path="§10-1202.08a">§ 10-1202.08a</cite>.</text>
+    <para>
+      <num>(1)</num>
+      <text>Except as provided in paragraph (2) of this subsection, the tax revenue received pursuant to this section shall be dedicated to the Washington Convention and Sports Authority, for transfer to Destination DC for the purposes of marketing and promoting the District of Columbia as a destination.  Any tax revenue dedicated pursuant to this subsection shall be in addition to the funds dedicated to Destination DC pursuant to <cite path="§10-1202.08a">§ 10-1202.08a</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Beginning October 1, 2025, the tax revenue received pursuant to subsection (a)(2) of this section shall be deposited in local funds;</text>
+    </para>
   </para>
   <para>
     <num>(e)</num>
-    <text>For the expenditure of any tax revenue received pursuant to subsection (a)(2) of this section, Destination DC shall:</text>
+    <text>For the expenditure of any tax revenue received by Destination DC pursuant to this section, Destination DC shall:</text>
     <para>
       <num>(1)</num>
       <text>Comply with the requirements <cite path="§2-218.46">§ 2-218.46</cite>;</text>
@@ -63,5 +73,13 @@
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2092|(b)|(1)|(A)" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2092|(b)|(1)|(C)" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2092|(b)|(2)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7022|(b)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7022|(b)|(1)|(A)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7022|(b)|(1)|(B)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7022|(b)|(2)|(B)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7022|(b)|(2)|(C)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7022|(b)|(2)|(A)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7022|(b)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7022|(b)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7022|(b)">§ 7022(b) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

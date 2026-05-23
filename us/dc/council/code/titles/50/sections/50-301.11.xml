@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-301.11</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-301.11(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Annual report; budget and oversight.</heading>
   <para placeholder="Repealed">
     <num>(a)</num>
@@ -14,9 +17,9 @@
     <num>(b-1)</num>
     <text>Repealed.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(c)</num>
-    <text>The DFHV shall provide an annual report to the Council during its annual performance and budget oversight hearings.  The report shall include information and statistics relating to licensing, enforcement, training courses relating to public vehicles-for-hire, the status of taxicab equipment, estimated industry revenues, and passenger carriage, and shall outline briefly the activities and goals of the agency.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(d)</num>
@@ -45,5 +48,8 @@
     <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(m)|(3)" type="History"/>
     <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(m)|(4)" type="History"/>
     <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(m)|(5)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6063|(a)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6063|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§6063|(a)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§6063|(a)">§ 6063(a) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

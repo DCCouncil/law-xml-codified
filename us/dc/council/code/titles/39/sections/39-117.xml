@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>39-117</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§39-117(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>DCPL Revenue-Generating Activities Fund.</heading>
   <para>
     <num>(a)</num>
@@ -19,16 +22,27 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>Payment of any non-personnel costs related to the library services mission of the District of Columbia Public Library; and</text>
+      <text>Payment of any non-personnel costs related to the library services mission of the District of Columbia Public Library;</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>To support the operations of the District of Columbia Public Library, including programming and facilities improvements, and to purchase food, snacks, and non-alcoholic beverages for the general public, District of Columbia Public Library program participants, and District government employees.</text>
+      <text>To support the operations of the District of Columbia Public Library, including programming and facilities improvements, and to purchase food, snacks, and non-alcoholic beverages for the general public, District of Columbia Public Library program participants, and District government employees; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Payment of the costs of temporary and when-actually-employed employees whose work is intended to generate revenue from the activities described in <cite path="§39-105|(a)|(14)">§§39-105(a)(14)</cite>, <cite path="§39-105|(a)|(16)">(16)</cite>, and <cite path="§39-105|(17)|(A)|(ii)">(17)(A)(ii)</cite> and <cite path="§39-105|(17)|(A)|(iii)">(iii)</cite> and <cite path="§39-107">39-107</cite>.</text>
     </para>
   </para>
   <para>
     <num>(d)</num>
-    <text>The money deposited into the Fund but not expended in a fiscal year shall not revert to the unassigned fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+    <para>
+      <num>(1)</num>
+      <text>The money deposited into the Fund but not expended in a fiscal year shall not revert to the unassigned fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+    </para>
   </para>
   <annotations>
     <annotation type="History" doc="Stat. 54-1-ch315" path="§15">June 3, 1896, 29 Stat. 244, ch. 315, § 17</annotation>
@@ -49,5 +63,11 @@
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§4072|(d)|(3)|(B)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§4072|(d)|(3)|(C)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§4072|(d)|(4)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4012|(c)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4012|(c)|(1)|(A)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4012|(c)|(1)|(B)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4012|(c)|(1)|(C)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4012|(c)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§4012|(c)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§4012|(c)">§ 4012(c) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

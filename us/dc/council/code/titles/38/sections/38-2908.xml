@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>38-2908</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§38-2908(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Facilities allowance for Public Charter Schools.</heading>
   <para>
     <num>(a)</num>
-    <text>Except as provided in subsections (b), (b-1), and (b-2) of this section, the fiscal year facility allowance for Public Charter Schools shall be determined as follows: DCPS approved capital budget shall be divided by the previous school year (“SY”) DCPS total pupil count, as defined in <cite path="§38-2906">§ 38-2906</cite>, to determine the DCPS per pupil facility cost.</text>
+    <text>Except as otherwise provided in this section, the fiscal year facility allowance for Public Charter Schools shall be determined as follows: DCPS approved capital budget shall be divided by the previous school year (“SY”) DCPS total pupil count, as defined in <cite path="§38-2906">§ 38-2906</cite>, to determine the DCPS per pupil facility cost.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -59,7 +62,26 @@
   </para>
   <para>
     <num>(b-3)</num>
-    <text>Beginning with Fiscal Year 2024, and for each subsequent fiscal year, the per pupil facility allowance for Public Charter Schools shall be 3.1% greater than the previous fiscal year's per pupil facility allowance. The per pupil facility allowance shall be multiplied by the number of students estimated to attend each Public Charter School to determine the actual facility allowance payments to be received by each Public Charter School.</text>
+    <text>In Fiscal Year 2024, Fiscal Year 2025, and Fiscal Year 2026, the per pupil facility allowance for Public Charter Schools shall be 3.1% greater than the previous fiscal year's per pupil facility allowance. The per pupil facility allowance shall be multiplied by the number of students estimated to attend each Public Charter School to determine the actual facility allowance payments to be received by each Public Charter School.</text>
+  </para>
+  <para>
+    <num>(b-4)</num>
+    <para>
+      <num>(1)</num>
+      <text>For Fiscal Year 2027 and Fiscal Year 2028, the per-pupil facility allowance for Public Charter Schools shall be $3,850 per pupil for non-residential facilities and $10,396 per pupil for residential facilities.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>For Fiscal Year 2029, the per-pupil facility allowance for public charter schools shall be $4,219 per pupil for non-residential facilities and $11,393 per pupil for residential facilities.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Beginning with Fiscal Year 2030, and for each subsequent fiscal year, the per-pupil facility allowance for public charter schools shall be 3.1% greater than the previous fiscal year's per-pupil facility allowance.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The facility allowance set forth in paragraphs (1), (2) and (3) of this subsection shall be multiplied by the number of students estimated to be attending each Public Charter School to determine the actual facility allowance payments to be received by each Public Charter School.</text>
+    </para>
   </para>
   <para>
     <num>(c)</num>
@@ -157,5 +179,10 @@
     <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§4002|(g)" type="History" display="false"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4002|(g)|(1)" type="History"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4002|(g)|(2)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4082" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4082|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4082|(b)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4082|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§4082" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§4082">§ 4082 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

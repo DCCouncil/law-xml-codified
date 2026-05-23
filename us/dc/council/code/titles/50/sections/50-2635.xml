@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-2635</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-2635(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Contractor daytime parking permit.</heading>
   <para>
     <num>(a)</num>
@@ -40,7 +43,7 @@
   </para>
   <para>
     <num>(g)</num>
-    <text>Fees collected from the issuance of CDP permits shall be used to administer the program and shall be paid into the DDOT Enterprise Fund for Transportation Initiatives, established under <cite path="§50-921.13">§ 50-921.13</cite>.</text>
+    <text>Fees collected from the issuance of CDP permits shall be used to administer the program and shall be paid into the Transportation Initiatives Fund, established under <cite path="§50-921.13">§ 50-921.13</cite>.</text>
   </para>
   <para>
     <num>(h)</num>
@@ -52,5 +55,8 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 19-254" type="History" path="§2">Apr. 20, 2013, D.C. Law 19-254, § 2, 60 DCR 984</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7090|(b)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7090|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7090|(b)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7090|(b)">§ 7090(b) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

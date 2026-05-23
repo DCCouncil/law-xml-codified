@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>20-323</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 21, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§20-323(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Notice of request for formal probate; form.</heading>
   <para>
     <num>(a)</num>
-    <text><strong>When given. –</strong> A person filing a petition for formal probate shall promptly give notice to all known interested persons. In addition, the petitioner shall publish a notice once a week for 2 successive weeks in a legal periodical of general circulation in the District or in any other publication the Court may provide by Rule.</text>
+    <text><strong>When given. –</strong> A person filing a petition for formal probate shall promptly give notice to all known interested persons. In addition, the petitioner shall publish a notice once a week for 2 successive weeks in a legal periodical or newspaper of general circulation in the District or in any other publication the Court may provide by Rule.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -17,5 +20,8 @@
     <annotation type="Section References">This section is referenced in <cite path="§20-311">§ 20-311</cite> and <cite path="§20-321">§ 20-321</cite>.</annotation>
     <annotation app="2025-03-21" doc="D.C. Law 25-302" eff="2025-03-21" path="§4|(j)|(1)" type="History"/>
     <annotation app="2025-03-21" doc="D.C. Law 25-302" eff="2025-03-21" path="§4|(j)|(2)" type="History"/>
+    <annotation app="2025-10-23" doc="D.C. Act 26-174" eff="2025-10-23" path="§3|(a)" type="History" display="false"/>
+    <annotation app="2025-10-23" doc="D.C. Act 26-174" eff="2025-10-23" path="§3|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-174" path="§3|(a)" codified:display="Note" app="2025-10-23" eff="2025-10-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-174" path="§3|(a)">§ 3(a) of Prearrest Diversion Task Force Recommendations Emergency Amendment Act of 2025 (D.C. Act 26-174, Oct. 23, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

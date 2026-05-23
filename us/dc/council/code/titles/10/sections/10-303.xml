@@ -1,10 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>10-303</num>
-  <heading>Creation of Fund; accounting and investment.</heading>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§10-303(Perm)">Permanent Version</cite>.*
+      </text>
+  <heading>Parks and Recreation Fund.</heading>
   <para>
     <num>(a)</num>
-    <text>The Mayor shall establish for accounting and financial reporting purposes a Recreation Enterprise Fund (“Fund”) in accordance with generally accepted accounting principles.</text>
+    <text>There is established as a special fund the Parks and Recreation Fund ("Fund"), which shall be administered by the Mayor in accordance with subsection (b) of this section.</text>
+  </para>
+  <para>
+    <num>(a-1)</num>
+    <text>The following revenue shall be deposited in the Fund:</text>
+    <para>
+      <num>(1)</num>
+      <text>Payments of fees imposed for the use of parks, recreation centers, and other facilities of the Department of Parks and Recreation;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Payments pursuant to concession contracts of the Department of Parks and Recreation;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Payments for concessions operated by the Department of Parks and Recreation;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Payments to the Department of Parks and Recreation for services provided by the Department to outside entities;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Payments by developers seeking relief from zoning laws by way of the planned unit development process considered part of the required community benefits package of the proposed planned unit development; and</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Fees collected pursuant to <cite path="§50-1501.02f|(b)|(1)">§ 50-1501.02f(b)(1)</cite>.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
@@ -19,18 +50,11 @@
   </para>
   <para>
     <num>(c)</num>
-    <para>
-      <num>(1)</num>
-      <text>Once each year, the Department shall publish in the District of Columbia Register a specific accounting of how monies in the Fund have been spent and an accounting as to the amount remaining in the Fund. The accounting shall include the name of the donor or an anonymous contribution, the amount of the contribution, a description of the property donated and the name of the program or recreation center upon which the funds have been expended.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The money deposited into the Fund, and interest earned, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
-    </para>
+    <text>Any money remaining available in the Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(d)</num>
-    <text>Proceeds of the Fund may be invested in a prudent and reasonable manner consistent with applicable District government policies and procedures.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(e)</num>
@@ -47,9 +71,9 @@
       <text>All proceeds received from advertisements and sponsorships shall be deposited into the Fund pursuant to this section.</text>
     </para>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(f)</num>
-    <text>All fees collected pursuant to <cite path="§50-1501.02g|(b)|(1)">§ 50-1501.02g(b)(1)</cite> shall be deposited into the Fund.</text>
+    <text>Repealed.</text>
   </para>
   <annotations>
     <text type="Short Title">Section 5101 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that Subtitle I of Title V of the act may be cited as the “Department of Parks and Recreation O-Type Amendment Act of 2013”.</text>
@@ -83,5 +107,13 @@
     <annotation type="Prior Codifications">1981 Ed., § 8-303.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§10-306">§ 10-306</cite>.</annotation>
     <annotation app="2018-11-27" doc="D.C. Law 22-185" eff="2018-11-27" path="§4" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7115|(a)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7115|(a)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7115|(a)|(2)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7115|(a)|(3)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7115|(a)|(4)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7115|(a)|(5)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7115|(a)|(6)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7115|(a)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7115|(a)">§ 7115(a) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

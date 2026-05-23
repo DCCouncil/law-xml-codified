@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-2201.02</num>
   <heading>Definitions.</heading>
-  <text>For the purposes of this chapter, the term:</text>
+  <text>For the purposes of this chapter, and all rules issued thereunder, the term:</text>
   <para>
     <num>(1)</num>
     <text>“Alcohol” means a liquid, gas, or solid, containing ethanol from whatever source or by whatever processes produced, whether or not intended for human consumption.</text>
@@ -211,9 +211,9 @@
     <num>(14E)</num>
     <text>"Shared fleet device" means an electric mobility device, bicycle, or electrically-powered motorized bicycle that is available for short-term rental and is permitted for use in public space.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(15)</num>
-    <text>“This chapter” includes all lawful regulations issued thereunder by the Council of the District of Columbia and all lawful rules issued thereunder by the Mayor of the District of Columbia or his designated agent.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(16)</num>
@@ -313,8 +313,7 @@
     <annotation app="2022-12-21" doc="D.C. Law 24-214" eff="2022-12-21" path="§2|(a)|(1)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 25-161" path="§4|(a)" codified:display="Note" app="2024-04-20" eff="2024-04-20">Applicability of <cite doc="D.C. Law 25-161" path="">D.C. Law 25-161</cite>: <cite doc="D.C. Law 25-161" path="§8">§ 8 of D.C. Law 25-161</cite> provided that the change made to this section by <cite doc="D.C. Law 25-161" path="§4|(a)">§ 4(a) of D.C. Law 25-161</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§4|(a)" type="History"/>
-    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§8|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-161" eff="2024-04-20" path="§4|(a)|(3)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 25-161" eff="2024-04-20" path="§4|(a)|(1)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§4|(a)|(3)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§4|(a)|(1)" type="History"/>
   </annotations>
 </section>

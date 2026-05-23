@@ -1,29 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>4-681.05</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-681.05(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Enrollment in the CTF Program; denial.</heading>
-  <para>
-    <num>(a)</num>
-    <para>
-      <num>(1)</num>
-      <text>Enrollment in the CTF Program shall be automatic, pursuant to the requirements of <cite path="§4-681.03">§ 4-681.03</cite>. Beginning within 60 days after October 1, 2021, the Chief Financial Officer shall obtain from the agencies the information required by paragraph (2) of this subsection and issue rules pursuant to <cite path="4|6D">this chapter</cite>.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The information obtained shall include the full name, social security number, place of birth, annual income, and residential address of the child's parent and the birth date of the child.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <para>
-      <num>(1)</num>
-      <text>Following receipt of the information provided pursuant to subsection (a) of this section, verification by the Department of Human Services or the Department of Health Care Finance pursuant to <cite path="§4-681.03|(b)">§ 4-681.03(b)</cite> that the child's household is an applicable family household, and, upon finding that the child is an eligible child, as defined in <cite path="§4-681.01|(8)">§ 4-681.01(8)</cite>, the Chief Financial Officer shall enroll the eligible child in the CTF Program and within 30 days of the enrollment make the required deposit into the Fund.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The Chief Financial Officer shall send written notification to the parent informing the parent of the child's enrollment in the CTF Program.</text>
-    </para>
-  </para>
+  <text>Repealed.</text>
   <annotations>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-196" path="§6" codified:display="Note" app="2022-02-18" eff="2021-10-01">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-196" path="§6">§ 6 of Child Wealth Building Emergency Act of 2021 (D.C. Act 24-196, Oct. 1, 2021, 68 DCR 011607)</cite>.</annotation>
     <annotation app="2022-02-18" doc="D.C. Act 24-196" eff="2021-10-01" path="§6" type="History" display="false"/>
@@ -37,5 +20,8 @@
     <annotation app="2022-12-21" doc="D.C. Law 24-224" eff="2022-12-21" path="§2|(d)" type="History" display="false"/>
     <annotation app="2023-03-10" doc="D.C. Law 24-323" eff="2023-03-10" path="§2|(d)|(1)" type="History"/>
     <annotation app="2023-03-10" doc="D.C. Law 24-323" eff="2023-03-10" path="§2|(d)|(2)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7012" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7012" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7012" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7012">§ 7012 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

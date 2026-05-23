@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-1401.01</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on November 1, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§50-1401.01(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Fee; examination; age requirements; lost permits; provisions for armed forces personnel; contents; operation without permit prohibited; restrictions for minors.</heading>
   <para>
     <num>(a)</num>
     <para>
       <num>(1)</num>
-      <text>The Mayor is authorized to issue a new or renewed motor vehicle operator’s permit, valid for a period not to exceed 8 years, or another time period established by the Mayor through rulemaking, to any individual 17 years of age or older, subject to the following conditions and any other conditions the Mayor may prescribe to protect the public:</text>
+      <text>The Mayor is authorized to issue a new or renewed motor vehicle operator’s permit, valid for a period not to exceed 8 years plus any time period prior to the expiration date of a previous license not to exceed 2 months, to any individual 17 years of age or older, subject to the following conditions and any other conditions the Mayor may prescribe to protect the public:</text>
       <para>
         <num>(A)</num>
         <text>The applicant shall pay an application fee of $30, which may be increased by the Mayor to compensate the District for processing and evaluating the application and issuing the permit. Alternatively, the Mayor is authorized to prorate existing fees to correspond to the duration of the license issued.</text>
@@ -591,9 +588,8 @@
     <annotation app="2022-02-24" doc="D.C. Law 24-72" eff="2022-02-24" path="§2" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-676" path="§3" codified:display="Note" app="2024-12-24" eff="2024-12-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-676" path="§3">§ 3 of Driver License and Identification Card Renewal Emergency Amendment Act of 2024 (D.C. Act 25-676, Dec. 24, 2024, 72 DCR 19)</cite>.</annotation>
     <annotation app="2024-12-24" doc="D.C. Act 25-676" eff="2024-12-24" path="§3" type="History" display="false"/>
-    <annotation app="2025-03-21" doc="D.C. Law 25-316" eff="2025-03-21" path="§3" type="History" display="false"/>
-    <annotation app="2025-03-21" doc="D.C. Law 25-316" eff="2025-03-21" path="§3" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-316" path="§3" codified:display="Note" app="2025-03-21" eff="2025-03-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-316" path="§3">§ 3 of Driver License and Identification Card Renewal Temporary Amendment Act of 2024 (D.C. Law 25-316, Mar. 21, 2025, 72 DCR 834)</cite>.</annotation>
+    <annotation app="2025-03-21" doc="D.C. Law 25-316" eff="2025-03-21" path="§3" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-36" path="§3" codified:display="Note" app="2025-03-21" eff="2025-03-21">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-36" path="§3">§ 3 of Driver License and Identification Card Renewal Congressional Review Emergency Amendment Act of 2025 (D.C. Act 26-36, Mar. 21, 2025, 72 DCR 3343)</cite>.</annotation>
     <annotation app="2025-03-21" doc="D.C. Act 26-36" eff="2025-03-21" path="§3" type="History" display="false"/>
   </annotations>

@@ -6555,24 +6555,8 @@
             <para>
               <num>(a)</num>
               <text>Sections 102(g)(3), (4), and (5), 104, 106(b)(2), 107(b), 109(d), 110(a)(2) and (3), new amendatory sections 11b(a)(2) - (5), 11b(b), and 11c of the Day Care Policy Act of 1979, effective October 30, 2018 (D.C. Law 22-179; D.C. Official Code §§ 4-410.02 and 4-410.03), within section 201(d), and sections 201(e) and 202(b), shall apply upon the date of inclusion of their fiscal effect in an approved budget and financial plan.</text>
-              <codify:repeal doc="D.C. Code" path="§4-651.02|(g)|(3)" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-651.02|(g)|(3)"/>
-              <codify:find-replace doc="D.C. Code" path="§4-651.02|(g)|(3)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-651.02|(g)|(3)">
-                <find>Repealed</find>
-                <replace>Not Funded</replace>
-              </codify:find-replace>
               <codify:annotation doc="D.C. Code" path="§4-651.02" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§4-651.02"><cite doc="D.C. Law 23-16" path="§5142|(c)">Section 5142(c) of D.C. Law 23-16</cite> amended <cite doc="D.C. Law 22-179" path="§301|(a)">section 301(a) of D.C. Law 23-16</cite> removing the applicability provision impacting subsection (g)(2) of this section.  Therefore, the addition of subsction (g)(2) of this section by section 102 of Law 22-179 has been implemented.
               </codify:annotation>
-              <codify:repeal doc="D.C. Code" path="§4-651.02|(g)|(4)" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-651.02|(g)|(4)"/>
-              <codify:find-replace doc="D.C. Code" path="§4-651.02|(g)|(4)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-651.02|(g)|(4)">
-                <find>Repealed</find>
-                <replace>Not Funded</replace>
-              </codify:find-replace>
-              <codify:repeal doc="D.C. Code" path="§4-651.02|(g)|(5)" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-651.02|(g)|(5)"/>
-              <codify:find-replace doc="D.C. Code" path="§4-651.02|(g)|(5)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-651.02|(g)|(5)">
-                <find>Repealed</find>
-                <replace>Not Funded</replace>
-              </codify:find-replace>
-              <codify:applicability doc="D.C. Law 22-179" path="§104" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-651.04"/>
               <codify:repeal doc="D.C. Code" path="§4-651.06|(b)|(2)" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-651.06|(b)|(2)"/>
               <codify:find-replace doc="D.C. Code" path="§4-651.06|(b)|(2)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-651.06|(b)|(2)">
                 <find>Repealed</find>
@@ -7094,7 +7078,7 @@
         <para codify:path="(ii)">
           <num>(a)</num>
           <text>Sub-subparagraph (ii) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1774.10|(c)|(12)|(A)|(ii)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1774.10|(c)|(12)|(A)">
             <find>; and</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -7102,7 +7086,7 @@
         <para codify:path="(iii)">
           <num>(b)</num>
           <text>Sub-subparagraph (iii) is amended by striking the period and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1774.10|(c)|(12)|(A)|(iii)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1774.10|(c)|(12)|(A)">
             <find>.</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -7112,12 +7096,12 @@
           <text>New sub-subparagraphs (iv) and (v) are added to read as follows:</text>
           <include lvl="3">
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§8-1774.10|(c)|(12)|(A)|(iv)"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§8-1774.10|(c)|(12)|(A)"/>
               <num>(iv)</num>
               <text>Support the implementation of the transportation emission reduction initiative required by <code-cite doc="D.C. Code" path="§50-2201.03|(j)|(1A)">section 6(j)(1A) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1121; D.C. Official Code § 50-2201.03(j)(1A))</code-cite>, including by covering the costs incurred by other District agencies to implement the initiative; and</text>
             </para>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§8-1774.10|(c)|(12)|(A)|(v)"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§8-1774.10|(c)|(12)|(A)"/>
               <num>(v)</num>
               <text>Support the implementation of the energy retrofit program required by <code-cite doc="D.C. Code" path="§8-1772.22">section 303(1) of the CleanEnergy DC Omnibus Amendment Act of 2018, effective March 22, 2019 (D.C. Law 22-257; D.C. Official Code § 8-1772.22)</code-cite>, including by covering the costs incurred by other District agencies to implement the program.</text>
             </para>

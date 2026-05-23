@@ -1,8 +1,80 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>36-601.24</num>
-  <heading>Rules and regulations governing conduct of bingo and raffles.</heading>
-  <text>The Chief Financial Officer shall adopt rules and regulations governing the conduct of bingo and raffles to insure the integrity of the conduct of bingo and raffles, to protect the economic welfare and interests in fair and honest play of bingo and raffles participants. Such rules and regulations shall include, but not be limited to: Specific application requirements and the form thereof; the terms, conditions, and rules for bingo and raffles; amount of or value of prizes; the premises to be utilized and the terms of such use; the occasions on and frequency with which bingo and raffles may be conducted; and the definition and use of gross receipts from the conduct of bingo and raffles.  The Office shall have the authority to impose a fine of not more than $1,000 for any violation of such rules and regulations. The Office also shall have the authority to suspend the license of any person, firm, partnership, association, organization, or corporation for a period not to exceed 60 days for violation of such rules and regulations. All fines imposed pursuant to this section shall be paid over to the Office which shall place any such fines in the Fund. Any person, firm, partnership, association, organization, or corporation fined or suspended pursuant to this section shall have a right to a hearing before the Chief Financial Officer, or designee, and, in the event of its affirmation of such fine or suspension, the right to appeal such fine or suspension to the Superior Court of the District of Columbia.</text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§36-601.24(Perm)">Permanent Version</cite>.*
+      </text>
+  <heading proof="needed">Rules governing conduct of bingo and raffles.</heading>
+  <para>
+    <num>(a)</num>
+    <text>The Chief Financial Officer shall adopt rules governing the conduct of bingo and raffles to ensure the integrity of the conduct of bingo and raffles, and to protect the economic welfare and interests in fair and honest play of bingo and raffles participants. The rules shall include:</text>
+    <para>
+      <num>(1)</num>
+      <text>Specific application requirements, application fees, and the form thereof;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The specific models, types, and technological configurations of any devices or applications used to assist in the play of bingo or raffles that may be lawfully operated;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The terms, conditions, and rules for bingo and raffles;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Amount of or value of prizes;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The premises that may be used to conduct bingo or raffles and the terms of such use;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The occasions on and frequency with which bingo and raffles may be conducted;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>The definition and use of gross receipts from the conduct of bingo and raffles; and</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>A prohibition on any machine, device, or terminal that:</text>
+      <para>
+        <num>(A)</num>
+        <text>Enables a person to play a bingo game against a machine or computerized system rather than against other human players collocated onsite at a licensed establishment; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Allows a person to participate in a commercial bingo game from a location other than the licensed establishment where the numbers are called by a live caller.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>For any violation of rules adopted pursuant to subsection (a) of this section, the Office may:</text>
+    <para>
+      <num>(1)</num>
+      <text>Impose a fine of not more than $50,000; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Suspend or revoke the license, issued under <cite path="36|6|I">this subchapter</cite>, of any person, firm, partnership, association, organization, or corporation.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>All fines imposed pursuant to this section shall be deposited in the Lottery, Gaming, and Gambling Fund established by <cite path="§36-601.12">§ 36-601.12</cite>.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>Any person, firm, partnership, association, organization, or corporation fined or suspended pursuant to this section shall have a right to a hearing before the Chief Financial Officer, or the Chief Financial Officer's designee, and, in the event of the affirmation of such fine or suspension, the right to appeal such fine or suspension to the Superior Court of the District of Columbia.</text>
+  </para>
+  <codify:emergency doc="D.C. Code" path="§36-601.24" codified:doc="D.C. Code" codified:path="§36-601.24" codified:display="Note"/>
+  <codify:insert doc="D.C. Code" path="§36-601.24" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§36-601.24">
+    <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§36-601.24(Perm)">Permanent Version</cite>.*
+      </text>
+  </codify:insert>
   <annotations>
     <annotation doc="D.C. Law 3-172" type="History" path="§4">Mar. 10, 1981, D.C. Law 3-172, § 4, 27 DCR 4736</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 2-2524.</annotation>
@@ -15,5 +87,8 @@
     <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(a)" type="History" display="false"/>
     <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(b)" type="History"/>
     <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§6|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2073|(e)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2073|(e)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2073|(e)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2073|(e)|includes|2-2524">§ 2-2524 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-1703.01</num>
-  <heading>ATJ; funding and administration.</heading>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-1703.01(Perm)">Permanent Version</cite>.*
+      </text>
+  <heading>ATJ Initiative; funding and administration.</heading>
   <para>
     <num>(a)</num>
-    <text>The Office of Victim Services and Justice Grants shall award a grant each fiscal year from the budget of the Initiative to the Bar Foundation for the purpose of the Bar Foundation providing support to nonprofit organizations that deliver civil legal services to low-income and under-served District residents, or support to their nonprofit organization partners, including funds for a shared legal interpreter bank. Payment of the award shall be submitted by October 15th of each fiscal year in the amount specified in an act of the Council. The grant shall equal the budget for ATJ, shall be nonlapsing, and interest earned by the Bar Foundation on grant funds shall remain available for use by the Bar Foundation for the purposes of the Initiative, without fiscal year limitation, subject to authorization in an approved budget and financial plan.</text>
+    <text>The Office of Victim Services and Justice Grants shall award a grant each fiscal year to the Bar Foundation for the purpose of funding the Initiative, as defined in <cite path="§4-1702.01|(a)">§ 4-1702.01(a)</cite>. Payment of the award shall be submitted by October 15th of each fiscal year in the amount specified in an act of the Council. The grant shall equal the budget for the Initiative, shall be nonlapsing, and interest earned by the Bar Foundation on grant funds shall remain available for use by the Bar Foundation for the purposes of the Initiative, without fiscal year limitation, subject to authorization in an approved budget and financial plan.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -39,5 +42,10 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§3042|(a)" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§3042|(a)">§ 3042(a) of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
     <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3042|(a)" type="History" display="false"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3042|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3072|(d)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3072|(d)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3072|(d)|(2)|(A)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3072|(d)|(2)|(B)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§3072|(d)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§3072|(d)">§ 3072(d) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

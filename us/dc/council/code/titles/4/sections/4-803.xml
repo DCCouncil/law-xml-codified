@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-803</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-803(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Additional civil penalties; appeals; testimony inadmissible.</heading>
   <para>
     <num>(a)</num>
@@ -39,7 +42,7 @@
   </para>
   <para>
     <num>(e)</num>
-    <text>Civil money penalties and assessments imposed under this section may be recovered in a civil action in the name of the District of Columbia by the Corporation Counsel. Amounts recovered under this section shall be paid to the District of Columbia Treasurer and allocated, first, to reimburse the Medicaid program and, then, to the General Fund of the District of Columbia. The amount of the penalty or assessment, when finally determined, may be deducted from any sum then or later owing by the District of Columbia to the person against whom the penalty or assessment has been charged.</text>
+    <text>Civil money penalties and assessments imposed under this section may be recovered in a civil action in the name of the District of Columbia by the Attorney General. The amount of the penalty or assessment, when finally determined, may be deducted from any sum then or later owing by the District of Columbia to the person against whom the penalty or assessment has been charged.</text>
   </para>
   <para>
     <num>(f)</num>
@@ -53,11 +56,42 @@
     <num>(h)</num>
     <text>Testimony in any civil proceeding pursuant to this chapter and the fruits of that testimony shall be inadmissible as evidence in a criminal trial except in a prosecution for perjury or false statement.</text>
   </para>
+  <para>
+    <num>(i)</num>
+    <para>
+      <num>(1)</num>
+      <text>There is established as a special fund the Medicaid Provider Fraud Reimbursement Fund ("Fund"), which shall be administered by the Mayor in accordance with paragraph (3) of this subsection.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Amounts recovered under this section shall be deposited in the Fund.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Money in the Fund shall be used to reimburse the Medicaid program when the payment from Medicaid funds that is being reimbursed:</text>
+      <para>
+        <num>(A)</num>
+        <text>Was based on an instance of Medicaid provider fraud; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Should be or should have been paid by a third-party insurer.</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Any money remaining available in the Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 5-193" type="History" path="§4">Mar. 16, 1985, D.C. Law 5-193, § 4, 32 DCR 1010</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 3-703.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§4-804">§ 4-804</cite>.</annotation>
     <annotation type="Cross References">Perjury, see <cite path="§22-2402">§ 22-2402</cite>.</annotation>
     <annotation type="Cross References">False statements, see <cite path="§22-2405">§ 22-2405</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7109" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7109|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7109|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7109" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7109">§ 7109 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

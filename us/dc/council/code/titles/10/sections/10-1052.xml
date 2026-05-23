@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-1052</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§10-1052(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Establishment of working group and public restroom facility pilot.</heading>
   <para>
     <num>(a)</num>
@@ -183,19 +186,19 @@
   </para>
   <para placeholder="Repealed">
     <num>(d)</num>
-    <text>Not Funded.</text>
+    <text>Repealed.</text>
   </para>
   <para placeholder="Repealed">
     <num>(e)</num>
-    <text>Not Funded.</text>
+    <text>Repealed.</text>
   </para>
   <para placeholder="Repealed">
     <num>(f)</num>
-    <text>Not Funded.</text>
+    <text>Repealed.</text>
   </para>
   <para placeholder="Repealed">
     <num>(g)</num>
-    <text>Not Funded.</text>
+    <text>Repealed.</text>
   </para>
   <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§10-1052" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-1052">Applicability of <cite doc="D.C. Law 22-280" path="">D.C. Law 22-280</cite>: <cite doc="D.C. Law 22-280" path="§5">§ 5 of D.C. Law 22-280</cite> provided that the creation of this section by <cite doc="D.C. Law 22-280" path="§3">§ 3 of D.C. Law 22-280</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
@@ -214,5 +217,8 @@
     <annotation doc="D.C. Law 25-50" path="§6102|(c)" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06">
                   Section 6102(c) of D.C. Law 25-50 provided that subsections (d), (e) and (f) of this section are subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the creation of those subsections have not been implemented.
                 </annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6092|(b)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6092|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§6092|(b)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§6092|(b)">§ 6092(b) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

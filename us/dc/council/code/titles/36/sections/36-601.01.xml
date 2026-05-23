@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>36-601.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§36-601.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Creation [of the District of Columbia Lottery and Gaming Control Board]; established as an office within the Office of the Chief Financial Officer; transfer of powers; definitions.</heading>
   <para>
     <num>(a)</num>
@@ -15,6 +18,18 @@
     <text>For the purposes of <cite path="36|6">this chapter</cite> and <cite path="22|17|I">subchapter I of Chapter 17 of Title 22</cite>, the term:</text>
     <para>
       <num>(1)</num>
+      <text>"ABCA" means the Alcoholic Beverage and Cannabis Administration.</text>
+    </para>
+    <para>
+      <num>(1A)</num>
+      <text>"Bingo" means a form of gambling in which the winning chances are determined by a random drawing of a subset of numbered objects among a total set of 75 objects, consecutively numbered from 1 to 75, and the bingo cards held by the players, which cards are sold, rented, or used only at the time of the gambling activity.</text>
+    </para>
+    <para>
+      <num>(1B)</num>
+      <text>"Bingo card" means a card, including paper formats, electronic representations, and image formats, that contains 5 rows of 5 spaces each, each space imprinted with a number between 1 and 75 inclusive, except the central space which is marked "FREE".</text>
+    </para>
+    <para>
+      <num>(1C)</num>
       <text>"Board" means the District of Columbia Lottery and Gaming Control Board established by this section.</text>
     </para>
     <para>
@@ -28,6 +43,22 @@
     <para>
       <num>(4)</num>
       <text>"Certified business enterprise" or "CBE" shall have the same meaning as provided in <cite path="§2-218.02|(1D)">§ 2-218.02(1D)</cite>.</text>
+    </para>
+    <para>
+      <num>(4A)</num>
+      <text>"Commercial bingo" means bingo for which any type of consideration is paid or collected in order to play, and each number is drawn and verbally announced by an individual physically present in the same physical location as the game's participants, who compete against each other in a common bingo game, but does not include:</text>
+      <para>
+        <num>(A)</num>
+        <text>Bingo sponsored, conducted, or held by an entity in accordance with <cite path="§36-601.23|(b)">§ 36-601.23(b)</cite>, <cite path="§36-601.23|(c)">(c)</cite>, or <cite path="§36-601.23|(d)">(d)</cite>.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Bingo played on or with the assistance of a gambling device, as that term is defined by section 1(a) of An Act To prohibit transportation of gambling devices in interstate and foreign commerce, approved January 2, 1951 (64 Stat. 1134; 15 U.S.C. 1171(a)); or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Bingo played over the internet or in an online environment or on any machine or mechanical device that would qualify as or constitute a facsimile of class II gaming, as that term is defined in section 4(7) of the Indian Gaming Regulatory Act, approved October 17, 1988 (102 Stat. 2467; 25 U.S.C. § 2703(7)).</text>
+      </para>
     </para>
     <para>
       <num>(5)</num>
@@ -66,6 +97,10 @@
       <text>"Joint venture" shall have the same meaning as provided in <cite path="§2-218.02|(11)">§ 2-218.02(11)</cite>.</text>
     </para>
     <para>
+      <num>(10A)</num>
+      <text>"Licensed Establishment" means a business licensed by ABCA that holds an on-premises retailer's license, class C/R, D/R, C/T, D/T, C/H, D/H, C/X, D/X, C/RB, D/RB, C/N, or D/N.</text>
+    </para>
+    <para>
       <num>(11)</num>
       <text>"Majority interest" means:</text>
       <para>
@@ -88,6 +123,10 @@
     <para>
       <num>(13)</num>
       <text>"Operator" means an individual, group of individuals, or entity that holds a sports wagering operator license issued by the District.</text>
+    </para>
+    <para>
+      <num>(13A)</num>
+      <text>"Raffle" means a lottery, other than a lottery operated by the District pursuant to <cite path="36|6|I">this subchapter</cite>, in which a prize is won by at least one of multiple persons buying chances.</text>
     </para>
     <para>
       <num>(14)</num>
@@ -190,5 +229,11 @@
     <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7172|(a)" type="History" display="false"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7172|(a)|(1)" type="History"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7172|(a)|(2)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2073|(a)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2073|(a)|(2)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2073|(a)|(3)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2073|(a)|(4)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2073|(a)|(5)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2073|(a)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2073|(a)">§ 2073(a) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>38-821.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§38-821.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <para>
@@ -81,6 +84,10 @@
   <para>
     <num>(2)</num>
     <text>“Healthy Youth and Schools Commission” or “Commission” means the body established by <cite path="§38-827.01">§ 38-827.01</cite>.</text>
+  </para>
+  <para>
+    <num>(2A)</num>
+    <text>"LEA" means local education agency, which is the District of Columbia Public Schools system or an individual or a group of public charter schools operating under a single charter.</text>
   </para>
   <para>
     <num>(3)</num>
@@ -276,5 +283,8 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§4012|(a)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§4012|(a)">§ 4012(a) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
     <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4012|(a)" type="History" display="false"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4012|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4052|(b)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4052|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§4052|(b)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§4052|(b)">§ 4052(b) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

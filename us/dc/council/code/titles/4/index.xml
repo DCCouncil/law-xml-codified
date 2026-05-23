@@ -429,7 +429,6 @@
       <xi:include href="./sections/4-261.02.xml"/>
       <xi:include href="./sections/4-261.03.xml"/>
       <xi:include href="./sections/4-261.04.xml"/>
-      <xi:include href="./sections/4-261.05.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -847,6 +846,7 @@
         <xi:include href="./sections/4-754.35.xml"/>
         <xi:include href="./sections/4-754.36.xml"/>
         <xi:include href="./sections/4-754.36a.xml"/>
+        <xi:include href="./sections/4-754.36a-1.xml"/>
         <xi:include href="./sections/4-754.36b.xml"/>
         <xi:include href="./sections/4-754.37.xml"/>
         <xi:include href="./sections/4-754.38.xml"/>
@@ -1260,6 +1260,19 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>15A</num>
+    <heading>Background Check Fingerprinting Authority and Rap Back Program.</heading>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="III" type="History" display="false"/>
+    <xi:include href="./sections/4-1551.01.xml"/>
+    <xi:include href="./sections/4-1551.02.xml"/>
+    <xi:include href="./sections/4-1551.03.xml"/>
+    <xi:include href="./sections/4-1551.04.xml"/>
+    <xi:include href="./sections/4-1551.05.xml"/>
+    <xi:include href="./sections/4-1551.06.xml"/>
+    <xi:include href="./sections/4-1551.07.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>16</num>
     <heading>Access to Justice Initiative. [Repealed].</heading>
     <xi:include href="./sections/4-1601.xml"/>
@@ -1342,5 +1355,12 @@
     <xi:include href="./sections/4-2004.xml"/>
     <xi:include href="./sections/4-2005.xml"/>
     <xi:include href="./sections/4-2006.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>21</num>
+    <heading>Community Legal Education and Resources Grant Program.</heading>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="I|G" type="History" display="false"/>
+    <xi:include href="./sections/4-2101.xml"/>
   </container>
 </container>

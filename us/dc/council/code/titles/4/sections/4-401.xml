@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-401</num>
   <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on October 18, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§4-401(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-401(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Definitions.</heading>
   <para>
@@ -70,7 +70,7 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>The term “Department” means the the Office of the State Superintendent of Education.</text>
+      <text>The term “Department” means the Office of the State Superintendent of Education.</text>
     </para>
     <para>
       <num>(4A)</num>
@@ -82,7 +82,7 @@
     </para>
     <para>
       <num>(4B)</num>
-      <text>The term "ECE" means early childhood education.</text>
+      <text>The term "ECE" means early childhood education or a related field, as identified by the Department's regulations governing the qualifications of child development facility lead teachers and assistant teachers.</text>
     </para>
     <para>
       <num>(4C)</num>
@@ -128,9 +128,9 @@
       <num>(5D)</num>
       <text>The term “TANF” means the Temporary Assistance for Needy Families as defined in <cite path="§4-201.01">§ 4-201.01</cite>.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(6)</num>
-      <text>The term “termination of employment” means loss of employment by a parent resulting from a reduction in force, or in the case of private employment, a layoff or reduction in personnel due to budgetary constraints of the employer.</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(7)</num>
@@ -224,9 +224,14 @@
     <annotation app="2024-10-31" doc="D.C. Act 25-619" eff="2024-10-31" path="§2|(a)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-1" path="§2|(a)" codified:display="Note" app="2025-01-29" eff="2025-01-29">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-1" path="§2|(a)">§ 2(a) of Early Childhood Educator Pay Scales Congressional Review Emergency Amendment Act of 2025 (D.C. Act 26-1, Jan. 29, 2025, 72 DCR 1126)</cite>.</annotation>
     <annotation app="2025-01-29" doc="D.C. Act 26-1" eff="2025-01-29" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2025-03-07" doc="D.C. Law 25-286" eff="2025-03-07" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2025-03-07" doc="D.C. Law 25-286" eff="2025-03-07" path="§2|(a)|(1)" type="History"/>
-    <annotation app="2025-03-07" doc="D.C. Law 25-286" eff="2025-03-07" path="§2|(a)|(2)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-286" path="§2|(a)" codified:display="Note" app="2025-03-07" eff="2025-03-07">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-286" path="§2|(a)">§ 2(a) of Early Childhood Educator Pay Scales Temporary Amendment Act of 2024 (D.C. Law 25-286, Mar. 7, 2025, 71 DCR 14472)</cite>.</annotation>
+    <annotation app="2025-03-07" doc="D.C. Law 25-286" eff="2025-03-07" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4033|(a)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4033|(a)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4033|(a)|(2)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4033|(a)|(3)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4033|(a)|(4)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4033|(a)|(5)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§4033|(a)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§4033|(a)">§ 4033(a) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

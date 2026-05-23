@@ -1,18 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-2071.02</num>
-  <heading>Establishment of Health Care Ombudsman Program.</heading>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-2071.02(Perm)">Permanent Version</cite>.*
+      </text>
+  <heading>Establishment of the Health Care and Public Benefits Ombudsman Program.</heading>
   <para>
     <num>(a)</num>
-    <text>The Department shall establish the Health Care Ombudsman Program by contracting with a qualified private, community-based, nonprofit corporation, organization, or consortia of organizations, with offices located in the District, to operate the program. If the Department is unable to contract with a qualified corporation, organization, or consortia of organizations that meets the requirements of subsection (c) of this section, the Department shall operate the Ombudsman Program.</text>
+    <text>DHCF shall establish the Health Care and Public Benefits Ombudsman Program by contracting with a qualified private, community-based, nonprofit corporation, organization, or consortia of organizations, with offices located in the District, to operate the program. If DHCF is unable to contract with a qualified corporation, organization, or consortia of organizations that meets the requirements of subsection (c) of this section, DHCF shall operate the Ombudsman Program.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>The Ombudsman Program shall be administered by the Health Care Ombudsman, who shall be appointed by the Director of the Department. The Health Care Ombudsman shall be an individual with management experience and substantive experience in the fields of health care, health benefits plans, or health care advocacy. Unless the Department is operating the program, the Health Care Ombudsman shall be an employee of the nonprofit corporation, organization, or consortia of organizations selected by the Department to operate the program.</text>
+    <para>
+      <num>(1)</num>
+      <text>The Ombudsman Program shall be administered by the Health Care and Public Benefits Ombudsman, who shall be appointed by the Deputy Mayor of Health and Human Services, and who shall be an individual with management experience and substantive experience in the fields of health care, health benefits plans, health care advocacy, or public benefits program and advocacy.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Unless DHCF is operating the program, the Health Care and Public Benefits Ombudsman shall be an employee of the nonprofit corporation, organization, or consortia of organizations selected by DHCF to operate the program.</text>
+    </para>
   </para>
   <para>
     <num>(c)</num>
-    <text>The Department shall establish selection criteria for the qualified, private, nonprofit corporation, organization, or consortia of organizations that will perform the functions of the Ombudsman Program. The criteria shall include:</text>
+    <text>DHCF shall establish selection criteria for the qualified, private, nonprofit corporation, organization, or consortia of organizations that will perform the functions of the Ombudsman Program. The criteria shall include:</text>
     <para>
       <num>(1)</num>
       <text>A public interest mission;</text>
@@ -44,7 +54,7 @@
   </para>
   <para>
     <num>(e)</num>
-    <text>The Department shall accord preference in the selection process to corporations or organizations that:</text>
+    <text>DHCF shall accord preference in the selection process to corporations or organizations that:</text>
     <para>
       <num>(1)</num>
       <text>Have a board of directors with significant representation from District consumers;</text>
@@ -66,5 +76,14 @@
     <annotation doc="D.C. Law 15-331" type="History" path="§3">Apr. 12, 2005, D.C. Law 15-331, § 3, 52 DCR 1981</annotation>
     <annotation doc="D.C. Law 16-191" type="History">Mar. 2, 2007, D.C. Law 16-191, § 35, 53 DCR 6794</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-191">D.C. Law 16-191</cite> validated previously made technical corrections in the subsection designations.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5212|(b)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5212|(b)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5212|(b)|(2)|(A)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5212|(b)|(2)|(B)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5212|(b)|(2)|(C)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5212|(b)|(3)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5212|(b)|(4)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5212|(b)|(5)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§5212|(b)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§5212|(b)">§ 5212(b) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

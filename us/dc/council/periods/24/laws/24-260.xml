@@ -47,7 +47,7 @@
       <text>New sections 47-4677 and 47-4678 are added to read as follows:</text>
       <include>
         <section>
-          <codify:insert path="47|46" codified:doc="D.C. Code" codified:path="§47-4678"/>
+          <codify:insert path="47|46"/>
           <prefix>§</prefix>
           <num>47-4678</num>
           <heading proof="needed">Whitman-Walker Health at St. Elizabeths tax rebate.</heading>
@@ -95,10 +95,10 @@
             <num>(f)</num>
             <text>The rebate provided pursuant to this section shall be in addition to, and not in lieu of, any other tax, financial, or development incentive, or tax credit, or any other type of incentive provided to Whitman-Walker Health under any District or federal program.</text>
           </para>
-          <codify:not-funded-anno doc="D.C. Code" path="§47-4678" applicability-path="§3" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§47-4678" codified:display="Note"/>
+          <codify:not-funded-anno doc="D.C. Code" path="§47-4678" applicability-path="§3" action="creation of" display-template=""/>
         </section>
         <section>
-          <codify:insert path="47|46" codified:doc="D.C. Code" codified:path="§47-4679"/>
+          <codify:insert path="47|46"/>
           <prefix>§</prefix>
           <num>47-4679</num>
           <heading proof="needed">Whitman-Walker Health System at St. Elizabeths tax rebate.</heading>
@@ -146,7 +146,7 @@
             <num>(f)</num>
             <text>The rebate provided pursuant to this section shall be in addition to, and not in lieu of, any other tax, financial, or development incentive, or tax credit, or any other type of incentive provided to Whitman-Walker Health System under any District or federal program.</text>
           </para>
-          <codify:not-funded-anno doc="D.C. Code" path="§47-4679" applicability-path="§3" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§47-4679" codified:display="Note"/>
+          <codify:not-funded-anno doc="D.C. Code" path="§47-4679" applicability-path="§3" action="creation of" display-template=""/>
         </section>
       </include>
       <aftertext>.</aftertext>
@@ -158,7 +158,7 @@
     <para>
       <num>(a)</num>
       <text>This Act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 24-260" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-4678"/>
+      <codify:applicability doc="D.C. Law 24-260" date="notfunded" history="false" display-template=""/>
     </para>
     <para>
       <num>(b)</num>

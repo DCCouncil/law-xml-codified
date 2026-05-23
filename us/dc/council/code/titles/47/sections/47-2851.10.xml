@@ -2,6 +2,12 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>§</prefix>
   <num>47-2851.10</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-2851.10(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 21, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-2851.10(Perm)">Permanent Version</cite>.*
+      </text>
   <heading proof="needed">Lapsed and reinstated licenses.</heading>
   <para>
     <num>(a)</num>
@@ -46,8 +52,12 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>A licensee whose license is lapsed for more than 6 months, but less than 9 months, may apply for renewal of the license, and the license shall be reinstated upon payment of a penalty of $350, plus other applicable fees and penalties provided by law, and the completion of any reinstatement requirements considered necessary by the Department.</text>
+        <text>A licensee whose license is lapsed for more than 6 month[s] may apply for renewal of the license, and the license shall be reinstated upon payment of a penalty of $350, plus other applicable fees and penalties provided by law, and the completion of any reinstatement requirements considered necessary by the Department.</text>
       </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>To encourage a licensee to come into compliance with the District's business licensing laws, the Department may, in accordance with rules issued by the Director, waive the late fee and penalty for reinstating a lapsed license or an expired license.</text>
     </para>
   </para>
   <para>
@@ -72,5 +82,11 @@
     <annotation doc="D.C. Law 25-217" path="§7286" type="Applicability" history="false" display-template="" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> amended <cite doc="D.C. Law 24-333" path="§9">section 9 of D.C. Law 24-333</cite> making the amendment of this section by section 5(c)(16) of D.C. Law 24-333 applicable as of October 1, 2025.
         </annotation>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7286" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2163|(b)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2163|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2163|(b)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2163|(b)">§ 2163(b) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-10-23" doc="D.C. Act 26-165" eff="2025-10-23" path="§3|(d)" type="History" display="false"/>
+    <annotation app="2025-10-23" doc="D.C. Act 26-165" eff="2025-10-23" path="§3|(d)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-165" path="§3|(d)" codified:display="Note" app="2025-10-23" eff="2025-10-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-165" path="§3|(d)">§ 3(d) of Revised Business Licensing Reform Emergency Amendment Act of 2025 (D.C. Act 26-165, Oct. 23, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

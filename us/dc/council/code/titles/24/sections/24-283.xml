@@ -1,15 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>24-283</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§24-283(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Uses of Resident Welfare Fund.</heading>
   <text>The Fund shall be used for the following purposes, in order of priority:</text>
   <para>
     <num>(1)</num>
-    <text>To stock the commissaries of District correctional facilities;</text>
+    <text>To stock the commissaries of District correctional facilitiesand</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(2)</num>
-    <text>To repay the initial appropriation used to finance the Fund; and</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(3)</num>
@@ -23,5 +26,9 @@
     <annotation type="Section References">This section is referenced in <cite path="§24-282">§ 24-282</cite>.</annotation>
     <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§21|(d)|(1)" type="History"/>
     <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§21|(d)|(2)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7122|(b)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7122|(b)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7122|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7122|(b)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7122|(b)">§ 7122(b) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

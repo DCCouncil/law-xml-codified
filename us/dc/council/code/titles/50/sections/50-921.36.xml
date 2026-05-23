@@ -1,32 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-921.36</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on October 18, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§50-921.36(Perm)">Permanent Version</cite>.*
-      </text>
-  <heading proof="needed">Coordination with WMATA regarding DC Circulator termination.</heading>
-  <para>
-    <num undesignated="true">(a)</num>
-    <text>The District Department of Transportation shall coordinate with WMATA to determine the feasibility of WMATA:</text>
-    <para>
-      <num>(1)</num>
-      <text>Assuming control and management of the DC Circulator, maintaining the DC Circulator workforce, and continuing DC Circulator service;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Providing alternative Metrobus routes or additional Metrobus service for riders impacted by planned termination of the DC Circulator; and</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Hiring former DC Circulator workers while preserving their rate of pay and seniority.</text>
-    </para>
-  </para>
-  <codify:temporary doc="D.C. Code" path="§50-921.36" codified:doc="D.C. Code" codified:path="§50-921.36" codified:display="Note"/>
-  <codify:insert doc="D.C. Code" path="§50-921.36" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-921.36">
-    <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on October 18, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§50-921.36(Perm)">Permanent Version</cite>.*
-      </text>
-  </codify:insert>
+  <heading>Consolidation with WMATA.</heading>
+  <text>The District Department of Transportation shall coordinate with WMATA to evaluate whether operations under this subchapter should be consolidated with existing services provided by WMATA, while maintaining the distinctive features of the DC Circulator service.</text>
   <annotations>
     <annotation doc="D.C. Law 14-137" type="History" path="§11f">May 21, 2002, D.C. Law 14-137, § 11f</annotation>
     <annotation doc="D.C. Law 16-225" type="History">as added Mar. 6, 2007, D.C. Law 16-225, § 3(e), 53 DCR 10232</annotation>
@@ -37,8 +13,7 @@
     <annotation app="2024-10-29" doc="D.C. Act 25-621" eff="2024-10-29" path="§3|(b)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-679" path="§3|(b)" codified:display="Note" app="2025-01-03" eff="2025-01-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-679" path="§3|(b)|includes|11f">§ 11f of DC Circulator Transition Congressional Review Emergency Amendment Act of 2024 (D.C. Act 25-679, Jan. 3, 2025, 72 DCR 25)</cite>.</annotation>
     <annotation app="2025-01-03" doc="D.C. Act 25-679" eff="2025-01-03" path="§3|(b)" type="History" display="false"/>
-    <annotation app="2025-03-07" doc="D.C. Law 25-284" eff="2025-03-07" path="§3|(b)" type="History" display="false"/>
-    <annotation app="2025-03-07" doc="D.C. Law 25-284" eff="2025-03-07" path="§3|(b)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-284" path="§3|(b)" codified:display="Note" app="2025-03-07" eff="2025-03-07">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-284" path="§3|(b)|includes|11f">§ 11f of DC Circulator Transition Temporary Amendment Act of 2024 (D.C. Law 25-284, Mar. 7, 2025, 71 DCR 14126)</cite>.</annotation>
+    <annotation app="2025-03-07" doc="D.C. Law 25-284" eff="2025-03-07" path="§3|(b)" type="History" display="false"/>
   </annotations>
 </section>

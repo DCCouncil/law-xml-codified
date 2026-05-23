@@ -292,6 +292,7 @@
     <xi:include href="./sections/10-551.07f.xml"/>
     <xi:include href="./sections/10-551.07g.xml"/>
     <xi:include href="./sections/10-551.07h.xml"/>
+    <xi:include href="./sections/10-551.07i.xml"/>
     <xi:include href="./sections/10-551.08.xml"/>
     <xi:include href="./sections/10-551.09.xml"/>
     <xi:include href="./sections/10-551.10.xml"/>
@@ -501,6 +502,8 @@
     <xi:include href="./sections/10-1052.xml"/>
     <xi:include href="./sections/10-1053.xml"/>
     <xi:include href="./sections/10-1053.01.xml"/>
+    <xi:include href="./sections/10-1053.02.xml"/>
+    <xi:include href="./sections/10-1053.03.xml"/>
     <xi:include href="./sections/10-1054.xml"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" path="§7166" codified:display="Note" app="2019-07-22" eff="2019-07-22">For temporary (90 days) repeal of applicability provision of D.C. Law 22-280, see <cite doc="D.C. Act 23-91" path="§7166">§ 7166 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
     <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7166" type="History" display="false"/>
@@ -922,6 +925,39 @@
       <xi:include href="./sections/10-1604.12.xml"/>
       <xi:include href="./sections/10-1604.13.xml"/>
       <xi:include href="./sections/10-1604.14.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>V</num>
+      <heading>Robert F. Kennedy Campus Redevelopment.</heading>
+      <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="II" type="History" display="false"/>
+      <container>
+        <prefix>Part</prefix>
+        <num>A</num>
+        <heading>General.</heading>
+        <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="" type="History" display="false"/>
+        <xi:include href="./sections/10-1605.01.xml"/>
+        <xi:include href="./sections/10-1605.02.xml"/>
+        <xi:include href="./sections/10-1605.03.xml"/>
+        <xi:include href="./sections/10-1605.04.xml"/>
+        <xi:include href="./sections/10-1605.05.xml"/>
+        <xi:include href="./sections/10-1605.06.xml"/>
+        <xi:include href="./sections/10-1605.07.xml"/>
+        <xi:include href="./sections/10-1605.08.xml"/>
+        <xi:include href="./sections/10-1605.09.xml"/>
+        <xi:include href="./sections/10-1605.10.xml"/>
+        <xi:include href="./sections/10-1605.11.xml"/>
+        <xi:include href="./sections/10-1605.12.xml"/>
+        <xi:include href="./sections/10-1605.13.xml"/>
+        <xi:include href="./sections/10-1605.14.xml"/>
+      </container>
+      <container>
+        <prefix>Part</prefix>
+        <num>B</num>
+        <heading>RFK Campus Infrastructure Fund.</heading>
+        <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="II" type="History" display="false"/>
+        <xi:include href="./sections/10-1605.31.xml"/>
+      </container>
     </container>
   </container>
   <container>

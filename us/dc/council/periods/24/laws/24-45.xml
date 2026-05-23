@@ -5858,7 +5858,7 @@
         <para codify:path="§4-1702.01|(a)">
           <num>(a)</num>
           <text>Section 201(a) (D.C. Official Code § 4-1702.01(a)) is amended by striking the phrase "District residents and providing" and inserting the phase "District residents, or support to their nonprofit organization partners; and providing" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-1702.01|(a)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-1702.01|(a)|(1)">
             <find>District residents and providing</find>
             <replace>District residents, or support to their nonprofit organization partners; and providing</replace>
           </codify:find-replace>
@@ -11219,12 +11219,12 @@
             <text>Paragraphs (2) and (3) are amended to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:replace path="(2)" codified:doc="D.C. Code" codified:path="§1-307.03|(b)|(2)"/>
+                <codify:replace path="(2)" codified:doc="D.C. Code" codified:path="§1-307.03|(b)"/>
                 <num>(2)</num>
                 <text>Upon the Mayor's determination of a resident's eligibility for the program, the Mayor shall enroll the resident in the program and assign the enrollee to a health maintenance organization with a current contract with the District to provide health care services for program enrollees.</text>
               </para>
               <para>
-                <codify:replace path="(3)" codified:doc="D.C. Code" codified:path="§1-307.03|(b)|(3)"/>
+                <codify:replace path="(3)" codified:doc="D.C. Code" codified:path="§1-307.03|(b)"/>
                 <num>(3)</num>
                 <text>For a period of time of at least 30 days after the Mayor's assignment of an enrollee under paragraph (2) of this subsection, the enrollee may choose to enroll in a different health maintenance organization with a current contract with the District to provide health care services for program enrollees.</text>
               </para>
@@ -13065,7 +13065,7 @@
         <para codify:path="(a)|(1)">
           <num>(a)</num>
           <text>Subsection (a)(1) is amended by striking the phrase "Fiscal Agent." and inserting the phrase "Fiscal Agent. In addition, money transferred from the Green Building Fund, pursuant to section 8(c)(1) of the Green Building Act of 2006, effective March 8, 2007 (D.C. Law 16-234; D.C. Official Code § 6-1451.07(c)(1)), shall be deposited into the SETF; provided, that any such money shall be used solely for the purpose described in subsection (c)(18) of this section." in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1774.10|(a)|(1)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1774.10|(a)">
             <find>Fiscal Agent.</find>
             <replace>Fiscal Agent. In addition, money transferred from the Green Building Fund, pursuant to <code-cite doc="D.C. Code" path="§6-1451.07|(c)|(1)">section 8(c)(1) of the Green Building Act of 2006, effective March 8, 2007 (D.C. Law 16-234; D.C. Official Code § 6-1451.07(c)(1))</code-cite>, shall be deposited into the SETF; provided, that any such money shall be used solely for the purpose described in subsection (c)(18) of this section.</replace>
           </codify:find-replace>
@@ -17348,7 +17348,7 @@
         <text>The D.C. Healthcare Alliance Reform Amendment Act of 2019, effective September 11, 2019 (D.C. Law 23-16; 66 DCR 8621), is repealed.</text>
         <codify:annotation doc="D.C. Code" path="§7-1407" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-1407"><cite doc="D.C. Law 24-45" path="§7174">D.C. Act 24-15, § 7174</cite> repealed, for 90 days, the amendment to this section made by <cite doc="D.C. Law 23-16" path="§5102">D.C. Law 23-16</cite>, thus temporarily restoring the language created by <cite doc="D.C. Law 22-35" path="§2">D.C. Law 22-35</cite>.
       </codify:annotation>
-        <codify:find-replace path="§7-1407|(a)" count="1" codified:doc="D.C. Code" codified:path="§7-1407|(a)">
+        <codify:find-replace path="§7-1407|(a)" count="1" codified:doc="D.C. Code" codified:path="§7-1407">
           <find>The Mayor</find>
           <replace>The Mayor</replace>
         </codify:find-replace>
@@ -17590,7 +17590,6 @@
       <section>
         <num>7190</num>
         <text>Section 4 of the Postpartum Coverage Expansion Amendment Act of 2020, effective October 20, 2020 (D.C. Law 23-132; 67 DCR 9887), is repealed.</text>
-        <codify:repeal doc="D.C. Law 23-132" path="§4"/>
         <codify:annotation doc="D.C. Code" path="§31-3861" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§31-3861"><cite doc="D.C. Law 24-45" path="§7190">Section 7190 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-132" path="§4">section 4 of D.C. Law 23-132</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by Law 23-132 has been implemented.
         </codify:annotation>
         <codify:annotation doc="D.C. Code" path="§31-3862.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§31-3862.01"><cite doc="D.C. Law 24-45" path="§7190">Section 7190 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-132" path="§4">section 4 of D.C. Law 23-132</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-132 has been implemented.

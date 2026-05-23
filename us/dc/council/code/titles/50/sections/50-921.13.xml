@@ -1,14 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-921.13</num>
-  <heading>The District Department of Transportation Enterprise Fund for Transportation Initiatives.</heading>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-921.13(Perm)">Permanent Version</cite>.*
+      </text>
+  <heading>Transportation Initiatives Fund.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established as a nonlapsing fund the District Department of Transportation Enterprise Fund for Transportation Initiatives (“Fund”), which shall be administered by the Director of the District Department of Transportation and which shall be used by the District Department of Transportation to pay for goods, services, property, capital improvements, or for any other permitted purpose as authorized by §§ <cite path="§50-921.02|(f)">50-921.02(f)</cite> and <cite path="§50-921.04">50-921.04</cite> and to pay into the Highway Trust Fund.</text>
+    <text>There is established as a special fund the Transportation Initiatives Fund ("Fund"), which shall be administered by the Director of the Department of Transportation in accordance with subsection (b-1) of this section.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>All revenue from the following shall be deposited into the Fund, beginning October 1, 2011:</text>
+    <text>All revenue from the following shall be deposited into the Fund:</text>
     <para>
       <num>(1)</num>
       <text>Fines from the enforcement of truck safety and size, weight, and noise regulations;</text>
@@ -38,16 +41,16 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>Commercial permit parking fees;</text>
+        <text>Commercial permit parking fees; and</text>
       </para>
       <para>
         <num>(C)</num>
-        <text>Other related citations and fines;</text>
+        <text>Other related citations and fines; and</text>
       </para>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(7)</num>
-      <text>Any other revenues, including grants or gifts, as may from time-to-time be dedicated to the Fund; and</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(8)</num>
@@ -55,8 +58,12 @@
     </para>
   </para>
   <para>
+    <num>(b-1)</num>
+    <text>Money in the Fund shall be used to pay for goods, services, property, capital improvements, or for any other permitted purpose as authorized by §§ <cite path="§50-921.02|(f)">50-921.02(f)</cite> and <cite path="§50-921.04">50-921.04</cite> and to pay into the Highway Trust Fund.</text>
+  </para>
+  <para>
     <num>(c)</num>
-    <text>All funds deposited into the Fund, and any interest earned on those funds, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time, but shall be continually available for the uses and purposes set forth in subsection (a) of this section without regard to fiscal year limitation, subject to authorization by Congress.</text>
+    <text>Any money remaining available in the Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 14-137" type="History" path="§9e">May 21, 2002, D.C. Law 14-137, § 9e</annotation>
@@ -82,5 +89,15 @@
     <annotation type="Effect of Amendments">“(a) There is established as a nonlapsing fund the District Department of Transportation Enterprise Fund for Transportation Initiatives (’Fund’), which shall be administered by the Director of the District Department of Transportation and used to fund the cost of capital projects of the District Department of Transportation proposed by the Mayor and approved by act of the Council.</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite>, rewrote the section, which formerly read:</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§50-921.04">§ 50-921.04</cite> and <cite path="§50-2635">§ 50-2635</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7090|(a)|(3)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7090|(a)|(3)|(A)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7090|(a)|(3)|(B)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7090|(a)|(3)|(C)|(ii)|(I)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7090|(a)|(3)|(C)|(ii)|(II)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7090|(a)|(3)|(C)|(iii)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7090|(a)|(3)|(C)|(i)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7090|(a)|(3)|(D)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7090|(a)|(3)|(E)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7090|(a)|(3)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7090|(a)|(3)">§ 7090(a)(3) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-325.391</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-325.391(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Subrogation Fund.</heading>
   <para>
     <num>(a)</num>
@@ -15,23 +18,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>Revenue arising from subrogation claims brought by or on behalf of the Chief Risk Officer, including revenue arising from subrogation claims referred by the Chief Risk Officer to the Office of the Attorney General for prosecution; provided, that before deposit of such revenue into the Fund in fiscal years 2018 through 2021, the following sums arising from subrogation claims in fiscal years 2018 through 2021 shall be deposited first into the General Fund of the District of Columbia:</text>
-      <para>
-        <num>(A)</num>
-        <text>$310,000 in Fiscal Year 2018;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>$315,000 in Fiscal Year 2019;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>$322,000 in Fiscal Year 2020; and</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>$328,000 in Fiscal Year 2021.</text>
-      </para>
+      <text>Revenue arising from subrogation claims brought by or on behalf of the Chief Risk Officer, including revenue arising from subrogation claims referred by the Chief Risk Officer to the Office of the Attorney General for prosecution.</text>
     </para>
   </para>
   <para>
@@ -52,14 +39,7 @@
   </para>
   <para>
     <num>(d)</num>
-    <para>
-      <num>(1)</num>
-      <text>The money deposited into the Fund shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
-    </para>
+    <text>Any money remaining available in the Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
   </para>
   <para>
     <num>(e)</num>
@@ -80,5 +60,9 @@
   <annotations>
     <annotation app="2018-07-03" doc="D.C. Law 22-122" eff="2018-07-03" path="" type="History" display="false"/>
     <annotation app="2018-07-03" doc="D.C. Law 22-122" eff="2018-07-03" path="§2" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7127" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7127|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7127|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7127" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7127">§ 7127 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

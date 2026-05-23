@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>37-131.07</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§37-131.07(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Fees and funding.</heading>
   <para>
     <num>(a)</num>
@@ -37,26 +40,26 @@
     <num>(a-1)</num>
     <para>
       <num>(1)</num>
-      <text>The Mayor shall not charge a non-government organization operating a farmer's market a fee related to temporary parking restrictions caused by the farmer's market's occupancy of public space, such as a fee described in 18 DCMR § 2407.20; provided, that the farmer's market participates in the Women, Infants and Children Farmers Market Nutrition Program ("FMNP") and the Supplemental Nutrition Assistance Program ("SNAP").</text>
+      <text>The Mayor shall not charge a non-government organization operating a farmers market a fee related to temporary parking restrictions caused by the farmers market's occupancy of public space, such as a fee described in 18 DCMR § 2407.20; provided, that the farmers market participates in the Women, Infants and Children Farmers Market Nutrition Program ("FMNP") and the Supplemental Nutrition Assistance Program ("SNAP").</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The Mayor may charge a farmer's market operated by a District or federal government agency, regardless of participation in FMNP and SNAP, a fee related to temporary parking restrictions caused by the farmer's market's occupancy of public space, such as a fee described in 18 DCMR § 2407.20.</text>
+      <text>The Mayor may charge a farmers market operated by a District or federal government agency, regardless of participation in FMNP and SNAP, a fee related to temporary parking restrictions caused by the farmers market's occupancy of public space, such as a fee described in 18 DCMR § 2407.20.</text>
     </para>
-    <para placeholder="Not Funded">
+    <para>
       <num>(2A)</num>
-      <text>Not Funded.</text>
+      <text>Notwithstanding any other provision of this section, the Mayor shall waive all licensing, permitting, or temporary parking restriction fees for a farmers market, farm stand, or mobile market located, or applying to locate, in a low food access area.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>For the purposes of this subsection, the term "farmer's market" means a food venue composed of vendors where at least 75% of the vendors are selling agricultural produce.</text>
+      <text>For the purposes of this subsection, the term "low food access area" shall have the same definition as in <cite path="§7-742.21|(7)">§ 7-742.21(7)</cite>.</text>
     </para>
   </para>
   <para>
     <num>(b)</num>
     <para>
       <num>(1)</num>
-      <text>There is established as a nonlapsing fund the Vending Regulation Fund, which shall be used solely for the purposes set forth in paragraph (4) of this subsection.</text>
+      <text>There is established as a special fund the Vending Regulation Fund ("Fund"), which shall be administered by the Department of Licensing and Consumer Protection in accordance with paragraph (4) of this subsection.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -82,13 +85,17 @@
         <text>Interest on funds deposited in the Fund.</text>
       </para>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(3)</num>
-      <text>All funds deposited into the Fund shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time, but shall be continually available for the uses and purposes set forth in paragraph (4) of this subsection, subject to authorization by Congress.</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(4)</num>
       <text>Funds in the Fund may be used to pay the costs of administering this chapter, including costs associated with the application for, and issuance and renewal of, a basic business license as set forth in paragraph (2)(A) of this subsection, and the administration and enforcement of any rules issued under this chapter.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Any money remaining available in the Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
     </para>
   </para>
   <annotations>
@@ -105,8 +112,12 @@
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7098" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 26-27" path="§3" codified:display="Note" app="2025-08-23" eff="2025-08-23">Applicability of <cite doc="D.C. Law 26-27" path="">D.C. Law 26-27</cite>: <cite doc="D.C. Law 26-27" path="§5">§ 5 of D.C. Law 26-27</cite> provided that the amendment to this section by <cite doc="D.C. Law 26-27" path="§3">§ 3 of D.C. Law 26-27</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-08-23" doc="D.C. Law 26-27" eff="2025-08-23" path="§3" type="History"/>
-    <annotation app="2025-08-23" doc="D.C. Law 26-27" eff="2025-08-23" path="§5|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 26-27" eff="2025-08-23" path="§3|(e)|(2)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 26-27" eff="2025-08-23" path="§3|(e)|(1)" type="History"/>
+    <annotation app="2025-08-23" doc="D.C. Law 26-27" eff="2025-08-23" path="§3|(e)|(2)" type="History"/>
+    <annotation app="2025-08-23" doc="D.C. Law 26-27" eff="2025-08-23" path="§3|(e)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7131|(c)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7131|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7131|(b)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7131|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7131|(c)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7131|(c)">§ 7131(c) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

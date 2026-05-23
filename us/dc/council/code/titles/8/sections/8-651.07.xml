@@ -1,10 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-651.07</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§8-651.07(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Tree Fund.</heading>
   <para>
     <num>(a)</num>
-    <text>There shall be established a fund designated as the Tree Fund, which shall be a sub-fund of the Local Road Construction and Maintenance Fund and separate from the General Fund of the District of Columbia. Monies deposited into the Tree Fund shall not revert to the General Fund of the District of Columbia at the end of any fiscal year or at any other time, but shall be continually available for the uses and purposes set forth in subsection (b) of this section pursuant to an act of Congress. Donations, fees and penalties collected pursuant to this chapter or any rules established to implement this chapter shall be deposited into the Tree Fund. All receipts shall be deposited as soon as practicable. The Director shall maintain the fund in coordination with the Chief Financial Officer of the District of Columbia.</text>
+    <text>There is established as a special fund the Tree Fund ("Fund"), which shall be administered by the Director in accordance with subsection (b) of this section.</text>
+  </para>
+  <para>
+    <num>(a-1)</num>
+    <text>Fees and penalties collected pursuant to <cite path="8|6B">this chapter</cite> or any rules established to implement <cite path="8|6B">this chapter</cite> shall be deposited into the Fund.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -41,13 +48,17 @@
     <num>(b-1)</num>
     <text>The Mayor shall ensure that trees planted pursuant to this section are checked for survival at appropriate intervals to evaluate canopy replacement and inform future planting decisions.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(c)</num>
-    <text>The Chief Financial Officer shall submit to the Mayor and to the Council an annual statement of all receipts and disbursements for the Fund.</text>
+    <text>Repealed.</text>
   </para>
   <para>
+    <num>(c-1)</num>
+    <text>Any money remaining available in the Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
+  </para>
+  <para placeholder="Repealed">
     <num>(d)</num>
-    <text>Private voluntary donations to the Fund shall be tax deductible for purposes of District income and franchise taxes.</text>
+    <text>Repealed.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 14-309" type="History" path="§107">June 12, 2003, D.C. Law 14-309, § 107, 50 DCR 888</annotation>
@@ -66,5 +77,12 @@
     <annotation doc="D.C. Law 21-160" path="§7012" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7012">Section 7012 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 21-133" path="§4|(b)">§ 4(b) of D.C. Law 21-133</cite>. Therefore the changes made to this section by D.C. Law 21-133 have been given effect.
         </annotation>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7012" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7129" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7129|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7129|(b)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7129|(c)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7129|(d)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7129|(e)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7129" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7129">§ 7129 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

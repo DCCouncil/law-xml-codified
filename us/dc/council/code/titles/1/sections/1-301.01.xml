@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-301.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 24, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-301.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Additional powers of Mayor, Council, and Director of the Office of Contracting and Procurement.</heading>
   <para>
     <num>(a)</num>
@@ -37,8 +40,15 @@
   </para>
   <para>
     <num>(c)</num>
-    <heading>Leasing powers. —</heading>
-    <text>The Mayor of the District of Columbia is authorized and empowered within his discretion to rent any building or land belonging to the District of Columbia or under the jurisdiction of the Mayor, or any available space therein, whenever such building or land, or space therein, is not then required for the purpose for which it was acquired, and to rent any used personal property belonging to the District of Columbia which is not then needed for the purpose for which it was acquired: Provided, that nothing contained in this subsection shall have the effect of changing in any manner Public Law No. 732, 74th Congress, entitled “An Act to authorize the operation of stands in federal buildings by blind persons, to enlarge the economic opportunities of the blind, and for other purposes”, approved June 20, 1936 (20 U.S.C. §§ <cite path="§107-107" proof="true">107-107</cite>f).</text>
+    <para>
+      <num>(1)</num>
+      <heading>Leasing powers. —</heading>
+      <text>The Mayor of the District of Columbia is authorized and empowered within his discretion to rent any building or land belonging to the District of Columbia or under the jurisdiction of the Mayor, or any available space therein, whenever such building or land, or space therein, is not then required for the purpose for which it was acquired, and to rent any used personal property belonging to the District of Columbia which is not then needed for the purpose for which it was acquired: Provided, that nothing contained in this subsection shall have the effect of changing in any manner Public Law No. 732, 74th Congress, entitled “An Act to authorize the operation of stands in federal buildings by blind persons, to enlarge the economic opportunities of the blind, and for other purposes”, approved June 20, 1936 (20 U.S.C. §§ <cite path="§107-107" proof="true">107-107</cite>f).</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Mayor may not exercise his or her authority under this subsection with respect to the parcels of land that are the subject of the Transfer of Jurisdiction Plat recorded in the Surveyor's Office of the District of Columbia on February 5, 2025, on page 13 of subdivision book 223, together with any public streets within or adjacent to such parcels that may be closed from time to time; except, that the Mayor may lease such parcels, on the condition that the preconditions for the issuance of bonds and the expenditure of bond proceeds set forth in section 6 of the Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025, passed on emergency basis on September 17, 2025 (Enrolled version of Bill 26-352), have been met.</text>
+    </para>
   </para>
   <para>
     <num>(d)</num>
@@ -215,5 +225,9 @@
     <annotation type="Cross References">Bonding of home improvement businesses, bond requirements, see <cite path="§47-2883.01">§ 47-2883.01</cite> et seq.</annotation>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3002|(a)" type="History"/>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3002|(b)" type="History"/>
+    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§21|(b)" type="History" display="false"/>
+    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§21|(b)|(2)" type="History"/>
+    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§21|(b)|(1)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-150" path="§21|(b)" codified:display="Note" app="2025-09-25" eff="2025-09-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-150" path="§21|(b)">§ 21(b) of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

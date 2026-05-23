@@ -81,6 +81,7 @@
       <xi:include href="./sections/38-192.xml"/>
       <xi:include href="./sections/38-192.01.xml"/>
       <xi:include href="./sections/38-192.02.xml"/>
+      <xi:include href="./sections/38-192.03.xml"/>
       <xi:include href="./sections/38-193.xml"/>
       <xi:include href="./sections/38-194.xml"/>
       <xi:include href="./sections/38-195.xml"/>
@@ -269,7 +270,6 @@
     <xi:include href="./sections/38-283.xml"/>
     <xi:include href="./sections/38-284.xml"/>
     <xi:include href="./sections/38-285.xml"/>
-    <xi:include href="./sections/38-286.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -601,7 +601,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
-      <heading>Definitions; Establishment of Healthy Schools Fund.</heading>
+      <heading>Definitions; Healthy Schools Initiatives.<annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4052|(a)" type="History"/></heading>
       <xi:include href="./sections/38-821.01.xml"/>
       <xi:include href="./sections/38-821.02.xml"/>
     </container>
@@ -1246,6 +1246,7 @@
       <heading>Public Charter School Teacher Compensation.</heading>
       <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="IV" type="History" display="false"/>
       <xi:include href="./sections/38-1834.01.xml"/>
+      <xi:include href="./sections/38-1834.02.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1770,6 +1771,7 @@
     <xi:include href="./sections/38-2615.xml"/>
     <xi:include href="./sections/38-2616.xml"/>
     <xi:include href="./sections/38-2617.xml"/>
+    <xi:include href="./sections/38-2618.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

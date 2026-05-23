@@ -1,16 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-2071.03</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-2071.03(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Program evaluation.</heading>
   <para>
     <num>(a)</num>
-    <text>The Department shall develop criteria to be used in evaluating the performance of the Ombudsman Program.</text>
+    <text>DHCF shall develop criteria to be used in evaluating the performance of the Ombudsman Program.</text>
   </para>
   <para>
     <num>(b)</num>
     <para>
       <num>(1)</num>
-      <text>The Department shall obtain, biannually, an independent evaluation of the Ombudsman Program through an academic group or other independent, private-sector organization or the Office of the Inspector General. The evaluation shall take into account:</text>
+      <text>DHCF shall obtain, biannually, an independent evaluation of the Ombudsman Program through an academic group or other independent, private-sector organization or the Office of the Inspector General. The evaluation shall take into account:</text>
       <para>
         <num>(A)</num>
         <text>The number of consumer problems handled;</text>
@@ -34,7 +37,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>The Department shall decide whether to renew contracts based on the evaluation.</text>
+      <text>DHCF shall decide whether to renew contracts based on the evaluation.</text>
     </para>
     <para>
       <num>(3)</num>
@@ -48,5 +51,10 @@
   <annotations>
     <annotation doc="D.C. Law 15-331" type="History" path="§4">Apr. 12, 2005, D.C. Law 15-331, § 4, 52 DCR 1981</annotation>
     <annotation app="2023-03-10" doc="D.C. Law 24-311" eff="2023-03-10" path="§9" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5212|(c)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5212|(c)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5212|(c)|(2)|(A)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5212|(c)|(2)|(B)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§5212|(c)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§5212|(c)">§ 5212(c) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

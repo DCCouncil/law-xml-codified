@@ -1,17 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-1051</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§10-1051(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of <cite path="10|10B">this chapter</cite>, the term:</text>
   <para>
     <num undesignated="true">(a)</num>
-    <para>
+    <para placeholder="Repealed">
       <num>(1)</num>
-      <text>"BID" shall have the same meaning as provided in <cite path="§2-1215.02|(7)">§ 2-1215.02(7)</cite>.</text>
+      <text>Repealed.</text>
     </para>
     <para>
+      <num>(1A)</num>
+      <text>"Director" means the Director of the Department of Public Works.</text>
+    </para>
+    <para placeholder="Repealed">
       <num>(2)</num>
-      <text>"Participant" means a place of public accommodation located within the BID selected by the Mayor under <cite path="§10-1053">§ 10-1053</cite> that is participating in the Community Restroom Incentive Pilot Program.</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(3)</num>
@@ -36,5 +43,10 @@
         </annotation>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7166" type="History" display="false"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6102|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6092|(a)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6092|(a)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6092|(a)|(2)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6092|(a)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§6092|(a)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§6092|(a)">§ 6092(a) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

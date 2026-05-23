@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-2071.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-2071.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <para>
@@ -24,16 +27,28 @@
     <text>“Consumer” means:</text>
     <para>
       <num>(A)</num>
-      <text>An uninsured resident of the District, including residents enrolled in the HealthCare Alliance; or</text>
+      <text>An uninsured resident of the District, including residents enrolled in the HealthCare Alliance;</text>
     </para>
     <para>
       <num>(B)</num>
-      <text>An individual covered by a health benefits plan in the District.</text>
+      <text>An individual covered by a health benefits plan in the District; or</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>An individual applying for, or receiving public benefits, in the District.</text>
     </para>
   </para>
   <para>
     <num>(3)</num>
     <text>“Department” means the Department of Health.</text>
+  </para>
+  <para>
+    <num>(3A)</num>
+    <text>"DHCF" means the Department of Health Care Finance.</text>
+  </para>
+  <para>
+    <num>(3B)</num>
+    <text>"DHS" means the Department of Human Services.</text>
   </para>
   <para>
     <num>(4)</num>
@@ -45,17 +60,38 @@
   </para>
   <para>
     <num>(6)</num>
-    <text>“Health Care Ombudsman” or “Ombudsman” means the individual responsible for running the Health Care Ombudsman Program.</text>
+    <text>“Health Care and Public Benefits Ombudsman” or “Ombudsman” means the individual responsible for running the Health Care and Public Benefits Ombudsman Program.</text>
   </para>
   <para>
     <num>(7)</num>
-    <text>“Health Care Ombudsman Program” or “Ombudsman Program” means the program established by the District to counsel and assist uninsured District residents and individuals insured by health benefits plans in the District regarding matters pertaining to their health care coverage.</text>
+    <text>"Health Care and Public Benefits Ombudsman Program" or "Ombudsman Program" means the program established by the District to counsel and assist:</text>
+    <para>
+      <num>(A)</num>
+      <text>Uninsured District residents and individuals insured by health benefits plans in the District regarding matters pertaining to their health care coverage; and</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Individuals applying for or receiving public benefits in the District regarding matters pertaining to their public benefits coverage including those adversely impacted by a public benefits determination.</text>
+    </para>
   </para>
   <para>
     <num>(8)</num>
     <text>“Health care services” means items or services provided under the supervision of a physician or other person trained or licensed to render health care necessary for the prevention, care, diagnosis, or treatment of human disease, pain, injury, deformity, or other physical or mental condition, including the following: pre-admission, outpatient, inpatient, and post-discharge care; home care; physician’s care; nursing care; medical care provided by interns or residents in training; other paramedical care; ambulance service and care; bed and board; drugs; supplies; appliances; equipment; laboratory services; any form of diagnostic imaging or therapeutic radiological services; and services mandated under <cite path="31|31">Chapter 31 of Title 31</cite>.</text>
   </para>
+  <para>
+    <num>(9)</num>
+    <text>"Public benefits" means a program administered by the Economic Security Administration of DHS, including the Supplemental Nutrition Assistance Program ("SNAP") and Temporary Assistance for Needy Families ("TANF") program.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 15-331" type="History" path="§2">Apr. 12, 2005, D.C. Law 15-331, § 2, 52 DCR 1981</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5212|(a)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5212|(a)|(1)|(A)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5212|(a)|(1)|(B)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5212|(a)|(1)|(C)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5212|(a)|(2)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5212|(a)|(3)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5212|(a)|(4)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5212|(a)|(5)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§5212|(a)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§5212|(a)">§ 5212(a) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

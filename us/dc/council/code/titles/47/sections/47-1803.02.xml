@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-1803.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-1803.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Gross income — Items included and excluded; “adjusted gross income” defined.</heading>
   <para>
     <num>(a)</num>
@@ -298,9 +301,9 @@
         <num>(PP)</num>
         <text>Delayed unemployment compensation payments made pursuant to <cite path="§51-107.01">[§ 51-107.01]</cite>.</text>
       </para>
-      <para>
+      <para placeholder="Repealed">
         <num>(QQ)</num>
-        <text>The amount received by an individual pursuant to <cite path="§4-681.05">[§ 4-681.05]</cite>.</text>
+        <text>[Repealed].</text>
       </para>
       <para>
         <num>(RR)</num>
@@ -587,5 +590,8 @@
     <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7212|(b)" type="History" display="false"/>
     <annotation app="2024-07-19" doc="D.C. Law 25-189" eff="2024-07-19" path="§5" type="History"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7212|(b)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7014" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7014" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7014" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7014">§ 7014 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

@@ -1,16 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-1405.02</num>
   <heading proof="needed">Safe driving course; waiver of fines for completion of course.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>The Department of Motor Vehicles ("DMV") shall develop and administer a safe driving curriculum composed of different courses related to safe driving practices, parking, and traffic regulations.</text>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(b)</num>
+    <text>Not Funded.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 4-97" type="History" path="§9a "/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§8|(a)" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 25-161" path="§2" codified:display="Note" app="2024-04-20" eff="2024-04-20">Applicability of <cite doc="D.C. Law 25-161" path="">D.C. Law 25-161</cite>: <cite doc="D.C. Law 25-161" path="§8">§ 8 of D.C. Law 25-161</cite> provided that the creation of this section by <cite doc="D.C. Law 25-161" path="§2">§ 2 of D.C. Law 25-161</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§2" type="History"/>
-    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§8|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-161" eff="2024-04-20" path="§2" prefix="as added" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§2" prefix="as added" type="History"/>
     <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="§302|(c)|(1)" type="History"/>
     <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="§302|(c)|(2)" type="History"/>
+    <annotation doc="D.C. Act 26-146" path="§7186" type="Applicability" history="false" app="2025-09-03" eff="2025-09-03">Section 7186 of <cite doc="D.C. Act 26-146" path="§7186">D.C. Act 26-146</cite> amended Section 8 of <cite doc="D.C. Law 25-161" path="§8">D.C. Law 25-161</cite>, impacting the applicability limitation of this section. Therefore the creation of subsection (b) of this section by <cite doc="D.C. Law 25-161" path="§2">Section 2</cite> of D.C. Law 25-161 has not been implemented.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7186" type="History" display="false"/>
   </annotations>
 </section>

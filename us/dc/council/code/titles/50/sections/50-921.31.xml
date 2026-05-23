@@ -1,15 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-921.31</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-921.31(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
   <para>
     <num>(1)</num>
     <text>“DC Circulator” means a local transit facility passenger bus service operated by the District of Columbia government that provides a network of fixed-route bus service solely within the District of Columbia.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(2)</num>
-    <text>“DC Circulator Fund” means the fund established by <cite path="§50-921.33">§ 50-921.33</cite>.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(3)</num>
@@ -29,5 +32,8 @@
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 3(e) of District Department of Transportation DC Circulator Congressional Review Emergency Amendment Act of 2007 (D.C. Act 17-3, January 16, 2007,  54 DCR 1439).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 3(b) of District Department of Transportation DC Circulator Emergency Amendment Act of 2006 (D.C. Act 16-321, March 23, 2006,  53 DCR 2557).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) addition, see § 3(b) of District Department of Transportation DC Circulator Temporary Amendment Act of 2006 (<cite doc="D.C. Law 16-134">D.C. Law 16-134</cite>, June 16, 2006, law notification  53 DCR 5762).</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7085|(a)|(2)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7085|(a)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7085|(a)|(2)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7085|(a)|(2)">§ 7085(a)(2) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

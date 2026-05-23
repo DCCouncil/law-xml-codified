@@ -1,18 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-204.09</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-204.09(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Interim Disability Assistance Fund.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established as a nonlapsing, revolving fund the Interim Disability Assistance Fund (“Fund”) which shall be separate from the General Fund and into which shall be deposited funds to be used solely for the purpose of implementing the Interim Disability Assistance program established by <cite path="§4-204.07">§ 4-204.07</cite>.</text>
+    <text>There is established as a special fund the Interim Disability Assistance Fund ("Fund"), which shall be administered by the Mayor in accordance with subsection (a-2) of this section.</text>
+  </para>
+  <para>
+    <num>(a-1)</num>
+    <text>The amounts described in <cite path="§4-204.07|(e-1)">§ 4-204.07(e-1)</cite> shall be deposited in the Fund.</text>
+  </para>
+  <para>
+    <num>(a-2)</num>
+    <text>Money in the Fund shall be used solely for the purpose of implementing the Interim Disability Assistance program established by <cite path="§4-204.07">§ 4-204.07</cite>.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>All funds shall be deposited into the Fund without regard to fiscal year limitation pursuant to an act of Congress. All funds deposited into the Fund shall not revert to the General Fund at the end of any fiscal year or at any other time, but shall be continually available for the purpose of funding the Interim Disability Act program, subject to authorization by Congress in an appropriations act.</text>
+    <para>
+      <num>(1)</num>
+      <text>The money deposited into the Fund but not expended in a fiscal year shall not revert to the unassigned fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 4-101" type="History" path="§409">Apr. 6, 1982, D.C. Law 4-101, § 409</annotation>
     <annotation doc="D.C. Law 14-190" type="History">as added Oct. 1, 2002, D.C. Law 14-190, § 1902(b), 49 DCR 6968</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§4-204.07">§ 4-204.07</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7106" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7106|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7106|(b)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7106|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7106" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7106">§ 7106 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

@@ -4,19 +4,31 @@
   <heading>Duties of the Department.</heading>
   <para>
     <num>(a)</num>
-    <text>The Department shall be responsible for approving block party applications. No fee shall be charged for the application.</text>
+    <text>The Department shall be responsible for approving block party, expedited block party, and block party preauthorization applications. No fee shall be charged for the application.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>Upon receiving a completed application, the Department shall submit a copy to the Metropolitan Police Department, the Fire and Emergency Medical Services Department, the Homeland Security and Emergency Management Agency, and the Washington Metropolitan Area Transit Authority for comments.</text>
+    <text>Upon receiving a completed block party application or block party preauthorization application, the Department shall submit a copy to the Metropolitan Police Department, the Fire and Emergency Medical Services Department, the Homeland Security and Emergency Management Agency, and the Washington Metropolitan Area Transit Authority for comments.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(b-1)</num>
-    <text>Not Funded.</text>
+    <text>The Department shall approve or deny, and notify the applicant of its determination, for:</text>
+    <para>
+      <num>(1)</num>
+      <text>An expedited block party application within 3 business days after receipt of the application;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A block party application within 10 business days after receipt of the application; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>A block party preauthorization application within 20 business days after receipt of the application.</text>
+    </para>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(b-2)</num>
-    <text>Not Funded.</text>
+    <text>When notifying an applicant of its approval of a block party preauthorization application, the Department may place additional reasonable restrictions and conditions on permits for expedited block parties, including restrictions or on the dates and times that the street is eligible for closure or conditions on the manner of closure.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -26,9 +38,10 @@
     <annotation doc="D.C. Law 19-190" type="History" path="§4">Oct. 23, 2012, D.C. Law 19-190, § 4, 59 DCR 10163</annotation>
     <annotation type="Applicability" doc="D.C. Law 25-312" path="§4|(d)" codified:display="Note" app="2025-03-21" eff="2025-03-21">Applicability of <cite doc="D.C. Law 25-312" path="">D.C. Law 25-312</cite>: <cite doc="D.C. Law 25-312" path="§7">§ 7 of D.C. Law 25-312</cite> provided that the amendment to this section by <cite doc="D.C. Law 25-312" path="§4|(d)">§ 4(d) of D.C. Law 25-312</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-03-21" doc="D.C. Law 25-312" eff="2025-03-21" path="§4|(d)" type="History"/>
-    <annotation app="2025-03-21" doc="D.C. Law 25-312" eff="2025-03-21" path="§7|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-312" eff="2025-03-21" path="§4|(d)|(1)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 25-312" eff="2025-03-21" path="§4|(d)|(2)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 25-312" eff="2025-03-21" path="§4|(d)|(3)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-312" eff="2025-03-21" path="§4|(d)|(1)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-312" eff="2025-03-21" path="§4|(d)|(2)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-312" eff="2025-03-21" path="§4|(d)|(3)" type="History"/>
+    <annotation doc="D.C. Act 26-146" path="§7195|(a)" type="Applicability" history="false" app="2025-09-03" eff="2025-09-03">Section 7195 of <cite doc="D.C. Act 26-146" path="§7195">D.C. Act 26-146</cite> amended Section 7 of <cite doc="D.C. Law 25-312" path="§7">D.C. Law 25-312</cite>, thus removing the applicability limitation. Therefore the amendments to this section by <cite doc="D.C. Law 25-312" path="§4|(d)">§4(d) of D.C. Law 25-312</cite> have been implemented.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7195|(a)" type="History" display="false"/>
   </annotations>
 </section>

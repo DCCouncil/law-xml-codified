@@ -1,17 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-1102</num>
-  <heading>Motor Vehicle Biennial Inspection Fund.</heading>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-1102(Perm)">Permanent Version</cite>.*
+      </text>
+  <heading>Motor Vehicle Inspection Fund.</heading>
   <para>
     <num>(a)</num>
-    <para>
-      <num>(1)</num>
-      <text>There is hereby established the District of Columbia Motor Vehicle Biennial Inspection Fund (“the Fund”). The Fund shall be a revolving fund and not be a part of nor lapse into the General Fund of the District or any other fund of the District.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The Fund shall be classified as a governmental fund and shall be accounted for in accordance with <cite path="47|3|V">subchapter V of Chapter 3 of Title 47</cite>, and any other applicable law.</text>
-    </para>
+    <text>There is established as a special fund the Motor Vehicle Inspection Fund ("Fund"), which shall be administered by the Mayor in accordance with subsection (b) of this section.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -29,9 +25,13 @@
     <num>(c)</num>
     <text>The inspection fee levied and collected pursuant to <cite path="§50-1101">§ 50-1101</cite>, shall be established in an amount sufficient to cover the costs of implementation, operation, and periodic upgrading of the District of Columbia’s vehicle emissions and safety inspection programs, and shall be deposited into the Fund. The Mayor may, from time to time, adopt rules that adjust the inspection fee as necessary to compensate the District for the cost of implementing, overseeing, operating, and upgrading the vehicle emissions and safety inspection programs, and such adjustments shall be made in accordance with an evaluation of the annual audited accounting required by subsection (d) of this section.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(d)</num>
-    <text>Obligations and expenditures of amounts from the Fund shall be based on an annual appropriation approved by Congress following the submission of a budgetary request by the Mayor. As part of the Mayor’s annual budgetary request, the Mayor shall submit an audited accounting of the use of the Fund during the previous fiscal year.</text>
+    <text>Repealed.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>Any money remaining available in the Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
   </para>
   <annotations>
     <annotation type="History" doc="Stat. 75-3-ch31" path="§2">Feb. 18, 1938, 52 Stat. 78, ch. 31, § 2</annotation>
@@ -40,5 +40,11 @@
     <annotation type="Prior Codifications">1973 Ed., § 40-202.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 40-202.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§50-1106">§ 50-1106</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7091|(a)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7091|(a)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7091|(a)|(2)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7091|(a)|(3)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7091|(a)|(4)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7091|(a)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7091|(a)">§ 7091(a) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-392.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-392.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Process for submission and approval of financial plan and annual District budget.</heading>
   <para>
     <num>(a)</num>
@@ -510,6 +513,25 @@
     </para>
   </para>
   <para>
+    <num>(j-6)</num>
+    <para>
+      <num>(1)</num>
+      <text>Beginning December 30, 2024, and on a quarterly basis thereafter, the Chief Financial Officer shall submit a report to the Council that includes a statement on the balance and activities of:</text>
+      <para>
+        <num>(A)</num>
+        <text>The Fiscal Stabilization Reserve Account, established by subsection (j-1) of this section; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The Cash Flow Reserve Account, established by subsection (j-2) of this section.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>This reporting may be included in the quarterly report required by <cite path="§1-204.50a|(d)">§ 1-204.50a(d)</cite>.</text>
+    </para>
+  </para>
+  <para>
     <num>(k)</num>
     <heading>Positive fund balance. —</heading>
     <text>[Repealed].</text>
@@ -673,5 +695,8 @@
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7233|(b)|(2)" type="History"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7233|(b)|(3)" type="History"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7233|(b)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7242|(a)|(5)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7242|(a)|(5)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7242|(a)|(5)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7242|(a)|(5)">§ 7242(a)(5) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

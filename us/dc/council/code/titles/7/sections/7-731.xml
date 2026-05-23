@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-731</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-731(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-731(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Exclusive agency powers.</heading>
   <para>
     <num>(a)</num>
@@ -13,9 +19,29 @@
       <num>(2)</num>
       <text>Regulate occupational and professional conduct and standards for health care and social service professionals, including investigating, licensing, and enforcing applicable laws and regulations;</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(3)</num>
-      <text>Regulate actions that affect the physical environment and ensure compliance with applicable federal and District laws and rules that govern the uses and practices that affect the physical environment, including air resources management, water resources management, stormwater management, soil resources management, hazardous waste, pesticides, lead poison program implementation, asbestos program management, underground storage tank regulation, aquatic and wildlife resources management, medical waste management, low-level radioactive waste control, and toxic chemical control;</text>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(3A)</num>
+      <text>Regulate medical waste;</text>
+    </para>
+    <para>
+      <num>(3B)</num>
+      <text>Regulate low-level radioactive waste;</text>
+    </para>
+    <para>
+      <num>(3C)</num>
+      <text>Regulate the following environmental health hazards in residential settings:</text>
+      <para>
+        <num>(A)</num>
+        <text>Indoor air, including smoke, noxious odors, and fumes; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Pests, including rats, mice, and insects;</text>
+      </para>
     </para>
     <para>
       <num>(4)</num>
@@ -78,8 +104,12 @@
     </para>
   </para>
   <para>
+    <num>(a-2)</num>
+    <text>The Department of Health shall implement a lead-poisoning prevention program to reduce lead exposure in children, pursuant to <cite path="7|8D">Chapter 8D of this title</cite>.</text>
+  </para>
+  <para>
     <num>(b)</num>
-    <text>For the purpose of this section, the term “regulate” shall include all licensing, certification, investigation, inspection, permitting, registration, and enforcement functions, including the issuance of civil infractions, except that the Department of Consumer and Regulatory Affairs shall continue to issue licenses for businesses engaged in functions as set forth in subsection (a)(3), (a)(5), (a)(10), (a)(11), and (a)(12) of this section.</text>
+    <text>For the purpose of this section, the term “regulate” shall include all licensing, certification, investigation, inspection, permitting, registration, and enforcement functions, including the issuance of civil infractions, except that the Department of Licensing and Consumer Protection shall continue to issue licenses for businesses engaged in functions as set forth in subsection (a)(3), (a)(5), (a)(10), (a)(11), and (a)(12) of this section.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -125,5 +155,13 @@
     <annotation doc="D.C. Law 24-45" path="§7209" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7209">Section 7209 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-274" path="§1501">section 1501 of D.C. Law 23-274</cite> that impacted this section.  Therefore the amendment of this section by Law 23-274 has been implemented.
         </annotation>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7209" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5022" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7101|(a)|(1)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5022|(a)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5022|(a)|(2)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5022|(b)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7101|(a)|(1)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§5022" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§5022">§ 5022 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7101|(a)|(1)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7101|(a)|(1)">§ 7101(a)(1) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

@@ -147,7 +147,7 @@
     <para>
       <num>(b)</num>
       <text>Paragraph (24)(F) is amended by striking the period and inserting a semicolon in its place.</text>
-      <codify:find-replace path="(24)|(F)" find="agencies; advanced" replace="agencies;" count="1" codified:doc="D.C. Code" codified:path="§38-2602|(b)|(24)|(F)"/>
+      <codify:find-replace path="(24)|(F)" find="agencies; advanced" replace="agencies;" count="1" codified:doc="D.C. Code" codified:path="§38-2602|(b)|(24)"/>
     </para>
     <para>
       <num>(c)</num>

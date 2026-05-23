@@ -2048,6 +2048,16 @@
       <xi:include href="./sections/2-1227.06.xml"/>
       <xi:include href="./sections/2-1227.07.xml"/>
     </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>XVI</num>
+      <heading>Interactive Wayfinding Kiosks.</heading>
+      <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="II" type="History" display="false"/>
+      <xi:include href="./sections/2-1228.01.xml"/>
+      <xi:include href="./sections/2-1228.02.xml"/>
+      <xi:include href="./sections/2-1228.03.xml"/>
+      <xi:include href="./sections/2-1228.04.xml"/>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -2375,6 +2385,7 @@
         <xi:include href="./sections/2-1515.04.xml"/>
         <xi:include href="./sections/2-1515.04a.xml"/>
         <xi:include href="./sections/2-1515.04b.xml"/>
+        <xi:include href="./sections/2-1515.04c.xml"/>
         <xi:include href="./sections/2-1515.05.xml"/>
         <xi:include href="./sections/2-1515.05a.xml"/>
         <xi:include href="./sections/2-1515.06.xml"/>
@@ -2485,8 +2496,6 @@
       <heading>Juvenile Curfew.</heading>
       <xi:include href="./sections/2-1541.xml"/>
       <xi:include href="./sections/2-1542.xml"/>
-      <xi:include href="./sections/2-1542.01.xml"/>
-      <xi:include href="./sections/2-1542.02.xml"/>
       <xi:include href="./sections/2-1543.xml"/>
     </container>
     <container>

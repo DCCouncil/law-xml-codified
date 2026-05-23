@@ -1,15 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-361</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-361(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
   <para>
     <num>(1)</num>
-    <text>“Agency” means the highest organizational unit of the District of Columbia government at which budgeting data is aggregated.</text>
+    <text>“Agency” means the highest organizational unit of the District of Columbia government at which budgeting data is aggregated, as detailed by the Agency field in the financial system.</text>
   </para>
   <para>
     <num>(2)</num>
-    <text>“Agency funding source” means the designated resource or fund to which expenditures shall be charged.</text>
+    <text>“Agency funding source” means the designated resource or fund to which expenditures shall be charged, as detailed by the Fund field in the financial system.</text>
   </para>
   <para>
     <num>(3)</num>
@@ -20,7 +23,7 @@
     <text>“Budget category” means:</text>
     <para>
       <num>(A)</num>
-      <text>For the operating budget: agencies, programs, agency funding sources, object categories, and object classes, as shown in the budget; and</text>
+      <text>For the operating budget: agencies, cost centers, programs, agency funding sources, object categories, object classes, and projects (including interagency projects), as shown in the budget; and</text>
     </para>
     <para>
       <num>(B)</num>
@@ -36,6 +39,14 @@
     <text>“Capital project” shall have the same meaning as provided in [<cite path="§1-201.03|(8)">§  1-201.03(8)</cite>].</text>
   </para>
   <para>
+    <num>(6A)</num>
+    <text>"Cost Center" means the highest level of organizational unit responsible for managing funds assigned to one or more Programs as detailed by the Cost Center field, without parent levels, in the financial system.</text>
+  </para>
+  <para>
+    <num>(6B)</num>
+    <text>"Financial system" means the District Integrated Financial System.</text>
+  </para>
+  <para>
     <num>(7)</num>
     <text>“Highway Trust Fund” means the District of Columbia Highway Trust Fund, established by [<cite path="§9-111.01">§ 9-111.01</cite>], and the Federal Highway Trust Fund, established pursuant to Title 23 of the United States Code.</text>
   </para>
@@ -49,11 +60,11 @@
   </para>
   <para>
     <num>(9)</num>
-    <text>“Object category” means the 2 major types of expenditures, which are personal services and non-personal services.</text>
+    <text>“Object category” means the 2 major types of expenditures, which are personal services and non-personal services, as detailed by the Account Category field in the financial system.</text>
   </para>
   <para>
     <num>(10)</num>
-    <text>“Object class” means the subdivision of specific types of expenditures in the operating budget, such as fringe benefits and supplies.</text>
+    <text>“Object class” means the subdivision of specific types of expenditures in the operating budget, such as fringe benefits and supplies, as detailed by the Account field in the financial system.</text>
   </para>
   <para>
     <num>(11)</num>
@@ -65,11 +76,11 @@
   </para>
   <para>
     <num>(13)</num>
-    <text>“Program” means the highest level of budgeting and expenditure control within an agency that is designated for a specific purpose in the operating budget, which may consist of multiple actions necessary to achieve the stated purpose and goals.</text>
+    <text>“Program” means the highest level of budgeting and expenditure control within an agency that is designated for a specific purpose in the operating budget, which may consist of multiple actions necessary to achieve the stated purpose and goals, without parent levels, in the financial system.</text>
   </para>
   <para>
     <num>(14)</num>
-    <text>“Reprogramming” means a budget modification of $500,000 or more for purposes other than those originally authorized that results in an offsetting reallocation of budget authority from one budget category to another budget category; provided, that with respect to a capital reprogramming, the term “reprogramming” means a cumulative adjustment to a project’s capital budget during a fiscal year of $500,000 or more; provided further, that for an interagency project, the term "reprogramming" means a budget modification of $500,000 or more for purposes other than those originally authorized that results in an offsetting reallocation of budget authority from one program to another program.</text>
+    <text>“Reprogramming” means a budget modification of $500,000 or more for purposes other than those originally authorized that results in an offsetting reallocation of budget authority from one budget category to another budget category; provided, that with respect to a capital reprogramming, the term “reprogramming” means a cumulative adjustment to a project’s capital budget during a fiscal year of $500,000 or more; provided further, that for an interagency project, the term "reprogramming" means a budget modification of $500,000 or more for purposes other than those originally authorized that results in an offsetting reallocation of budget authority from one program to another program; provided further, that for purposes of <cite path="§47-362|(b)">§ 47-362(b)</cite>, the term "reprogramming" shall include budget modifications of any amount that otherwise meet the requirements of this paragraph.</text>
   </para>
   <para>
     <num>(15)</num>
@@ -121,5 +132,15 @@
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7002|(b)|(1)" type="History"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7002|(b)|(2)" type="History"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7002|(b)|(3)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7242|(a)|(2)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7242|(a)|(2)|(A)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7242|(a)|(2)|(B)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7242|(a)|(2)|(C)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7242|(a)|(2)|(D)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7242|(a)|(2)|(E)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7242|(a)|(2)|(F)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7242|(a)|(2)|(G)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7242|(a)|(2)|(H)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7242|(a)|(2)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7242|(a)|(2)">§ 7242(a)(2) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

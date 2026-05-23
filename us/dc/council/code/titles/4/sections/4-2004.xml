@@ -1,22 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-2004</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-2004(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Eligibility for payment.</heading>
   <para>
     <num>(a)</num>
-    <text>It shall not be a violation of this act for a direct care service provider to pay a direct care professional less than 117.6% of the District minimum wage pursuant to <cite path="§32-1003">§ 32-1003</cite>, or 117.6% of the District living wage pursuant to <cite path="2|2|X-A">subchapter X-A of Chapter 2 of Title 2</cite> if the direct care service provider creates a tiered compensation schedule that:</text>
+    <text>It shall not be a violation of <cite path="4|20">this chapter</cite> for a direct care service provider to pay a direct care professional less than the amount set forth in <cite path="§4-2002">§ 4-2002</cite> if the direct care service provider creates a tiered compensation schedule that:</text>
     <para>
       <num>(1)</num>
       <text>Considers a direct care professional's qualified experience in the field and their demonstrated competency; and</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Ensures that, on average, all direct care professionals were paid a wage that is equal to at least the greater of either 117.6% of the District minimum wage pursuant to <cite path="§32-1003">§ 32-1003</cite> or 117.6% of the District living wage pursuant to <cite path="2|2|X-A">subchapter X-A of Chapter 2 of Title 2</cite>.</text>
+      <text>Ensures that, on average, all direct care professionals were paid a wage equal to the amount set forth in <cite path="§4-2002">§ 4-2002</cite>.</text>
     </para>
   </para>
   <para>
     <num>(b)</num>
-    <text>During Fiscal Year 2026 and each fiscal year thereafter, a direct care service provider reimbursed by the District at a rate established pursuant to this act shall demonstrate to the Mayor that it paid its direct care professionals a wage that, on average, is equal to at least the greater of either 117.6% of the District minimum wage pursuant to <cite path="§32-1003">§ 32-1003</cite> or 117.6% of the District living wage pursuant to <cite path="2|2|X-A">subchapter X-A of Chapter 2 of Title 2</cite> in the service provider's operating budget cycle, inclusive of overtime wages and bonuses, to remain eligible for payment for the current year.</text>
+    <text>During Fiscal Year 2026, a direct care service provider reimbursed by the District at a rate established pursuant to this act shall demonstrate to the Mayor that it paid its direct care professionals a wage that, on average, is equal to at least the amount set forth in <cite path="§4-2002|(c)">§ 4-2002(c)</cite> in the service provider's operating budget cycle, inclusive of overtime wages and bonuses, to remain eligible for payment for the current year.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -42,5 +45,10 @@
     <annotation app="2024-12-12" doc="D.C. Law 25-232" eff="2024-12-12" path="§5|(a)" type="History" display="false"/>
     <annotation app="pending" doc="D.C. Law 25-232" eff="2024-12-12" path="§4|(b)|(1)" type="History"/>
     <annotation app="pending" doc="D.C. Law 25-232" eff="2024-12-12" path="§4|(b)|(2)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5092|(c)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5092|(c)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5092|(c)|(2)|(A)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5092|(c)|(2)|(B)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§5092|(c)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§5092|(c)">§ 5092(c) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

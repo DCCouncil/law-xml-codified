@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-1501.03</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-1501.03(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-1501.03(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Fees classified and use of proceeds designated.</heading>
   <para>
     <num>(a)</num>
@@ -96,7 +102,7 @@
               </tr>
               <tr>
                 <td>Class I (3,499 pounds or less)</td>
-                <td>$72</td>
+                <td>$70</td>
               </tr>
               <tr>
                 <td>Class II (3,500 — 4,999 pounds)</td>
@@ -104,19 +110,19 @@
               </tr>
               <tr>
                 <td>Class III (5,000 — 5,999 pounds)</td>
-                <td>$250</td>
+                <td>$300</td>
               </tr>
               <tr>
-                <td>Class IV (6,000 or greater)</td>
-                <td>$500</td>
+                <td>Class IV (6,000 pounds or greater)</td>
+                <td>$550 (plus $75 per each additional 1,000 pounds over 10,000 pounds)</td>
               </tr>
               <tr>
                 <td>Class V  (A new electric vehicle, other than a motorcycle and motorized bicycle, less than 5,000 pounds.) (This provision shall only apply to the first 2 years of the vehicle's registration, after which the vehicle shall be treated as Class I or Class II, whichever is applicable.)</td>
-                <td>$36</td>
+                <td>$40</td>
               </tr>
               <tr>
                 <td>Class VI (vehicles 3,500 pounds or greater that have been issued a disability license tag by the Department of Motor Vehicles pursuant to 18 DCMR § 2704, if the vehicle weight above 3,499 pounds is due to the accommodation of a disability)</td>
-                <td>$72</td>
+                <td>$70</td>
               </tr>
             </tbody>
           </table>
@@ -149,23 +155,27 @@
               </tr>
               <tr>
                 <td>Class I (3,499 pounds or less)</td>
-                <td>$125</td>
+                <td>$115</td>
               </tr>
               <tr>
-                <td>Class II (3,500 — 4,499 pounds)</td>
-                <td>$175</td>
+                <td>Class II (3,500 — 4,999 pounds)</td>
+                <td>$225</td>
               </tr>
               <tr>
-                <td>Class III (5,000 — 6,999 pounds)</td>
-                <td>$250</td>
+                <td>Class III (5,000 — 5,999 pounds)</td>
+                <td>$325</td>
               </tr>
               <tr>
-                <td>Class IV (7,000 — 9,999</td>
-                <td>$500</td>
+                <td>Class IV (6,000 — 6,999 pounds)</td>
+                <td>$450</td>
               </tr>
               <tr>
-                <td>Class V (10,000 pounds or greater)</td>
-                <td>$700 plus $50 per each additional 1,000 pounds over 10,000 pounds</td>
+                <td>Class V (7,000 — 7,999 pounds)</td>
+                <td>$700</td>
+              </tr>
+              <tr>
+                <td>Class VI (8,000 pounds or greater)</td>
+                <td>$800 (plus $100 per each additional 1,000 pounds over 8,000 pounds)</td>
               </tr>
             </tbody>
           </table>
@@ -187,28 +197,28 @@
               <td colspan="2">Weight Class Registration Fee</td>
             </tr>
             <tr>
-              <td>Class I (1,499 pounds or less)</td>
-              <td>$50</td>
+              <td>Class I (3,499 pounds or less)</td>
+              <td>$85</td>
             </tr>
             <tr>
-              <td>Class II (1,500 — 3,499 pounds)</td>
-              <td>$150</td>
+              <td>Class II (3,500 — 4,999 pounds)</td>
+              <td>$175</td>
             </tr>
             <tr>
-              <td>Class III (3,500 — 4,999 pounds)</td>
+              <td>Class III (5,000 — 5,999 pounds)</td>
               <td>$275</td>
             </tr>
             <tr>
-              <td>Class IV (5,000 — 6,999 pounds)</td>
-              <td>$500</td>
+              <td>Class IV (6,000 — 6,999 pounds)</td>
+              <td>$400</td>
             </tr>
             <tr>
-              <td>Class V (7,000 — 9,999 pounds)</td>
-              <td>$700</td>
+              <td>Class V (7,000 — 7,999 pounds)</td>
+              <td>$650</td>
             </tr>
             <tr>
-              <td>Class VI (10,000 pounds or greater)</td>
-              <td>$850 plus $75 per each additional 1,000 pounds over 10,000 pounds</td>
+              <td>Class VI (8,000 pounds or greater)</td>
+              <td>$750 (plus $75 per each additional 1,000 pounds over 8,000 pounds)</td>
             </tr>
           </tbody>
         </table>
@@ -286,7 +296,7 @@
     </para>
     <para>
       <num>(9)</num>
-      <text>The fees collected for parks and recreation identification tags under <cite path="§50-1501.02g">§ 50-1501.02g</cite> shall be deposited into the Recreation Enterprise Fund, established by <cite path="§10-303">§ 10-303</cite>;</text>
+      <text>The fees collected for parks and recreation identification tags under <cite path="§50-1501.02g">§ 50-1501.02g</cite> shall be deposited into the Parks and Recreation Fund, established by <cite path="§10-303">§ 10-303</cite>;</text>
     </para>
     <para>
       <num>(10)</num>
@@ -461,5 +471,13 @@
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6032|(b)" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6032|(a)" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6032|(c)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6014|(b)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7115|(b)|(2)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6014|(b)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6014|(b)|(2)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6014|(b)|(3)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7115|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§6014|(b)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§6014|(b)">§ 6014(b) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7115|(b)|(2)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7115|(b)|(2)">§ 7115(b)(2) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

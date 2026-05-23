@@ -1,36 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>3-1466</num>
   <heading proof="needed">Meetings; quorum; sunset.</heading>
-  <para>
-    <num>(a)</num>
-    <text>The first meeting of the Commission shall occur no later than June 1, 2025.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>At least 3 meetings shall be devoted to the issue of eligibility for reparations.</text>
-  </para>
-  <para>
-    <num>(c)</num>
-    <para>
-      <num>(1)</num>
-      <text>The Commission shall consider holding a certain number of meetings during publicly accessible times, such as during weekends and in evenings.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Members shall remain in partnership throughout the life of the Commission with an organized coalition comprised of impacted African Americans and cross-sector leaders who have a demonstrated interest in reparations in the District of Columbia and who are based in the District of Columbia metropolitan area.</text>
-    </para>
-  </para>
-  <para>
-    <num>(d)</num>
-    <text>Five members of the Commission shall constitute a quorum.</text>
-  </para>
-  <para>
-    <num>(e)</num>
-    <text>The Commission shall sunset after December 31, 2027, or after the report required by <cite path="§3-1463|(a)|(1)">§ 3-1463(a)(1)</cite> has been submitted; except, that nothing shall prohibit the Council from soliciting the assistance of former members of the Commission or the Executive Director during its review of the Commission's report or following the sunset. Following the sunset, the Commission members or Executive Director shall be entitled to per diem compensation and reimbursement of expenses for this assistance.</text>
-  </para>
+  <text>Not Funded.</text>
   <annotations>
     <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="" type="History" display="false"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="§401" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 25-264" eff="2025-03-07" path="§106" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 25-264" path="§106" codified:display="Note" app="2025-03-07" eff="2025-03-07">Applicability of <cite doc="D.C. Law 25-264" path="">D.C. Law 25-264</cite>: <cite doc="D.C. Law 25-264" path="§401">§ 401 of D.C. Law 25-264</cite> provided that the creation of this section by <cite doc="D.C. Law 25-264" path="§106">§ 106 of D.C. Law 25-264</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="§106" type="History"/>
   </annotations>
 </section>

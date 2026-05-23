@@ -1,12 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-3503</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-3503(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Exemptions for qualifying lower income homeownership households and cooperative housing associations.</heading>
   <para>
     <num>(a)</num>
     <para>
       <num>(1)</num>
-      <text>Deeds to property transferred to a qualifying lower income homeownership household shall be exempt from the deed recordation tax pursuant to <cite path="§42-1102">§ 42-1102</cite>, if it meets the requirements of <cite path="§47-3502">§ 47-3502</cite>.</text>
+      <text>A deed, including a lease or ground rent, conveying property or an interest in property to a qualifying lower income homeownership household shall be exempt from the deed recordation tax pursuant to §§ <cite path="§42-1102">42-1102</cite> or <cite path="§42-1103">42-1103</cite>, if the household meets the requirements of § <cite path="§47-3502">47-3502</cite>, and a deed conveying property to a community land trust, as defined by § <cite path="§47-803|(1)">47-803(1)</cite>, shall be exempt from the deed recordation tax pursuant to §§ <cite path="§42-1102">42-1102</cite> or <cite path="§42-1103">42-1103</cite>.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -14,7 +17,7 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>Recordation of a construction loan deed of trust or mortgage, as that term is defined in <cite path="§42-1101|(9)">§ 42-1101(9)</cite>, or a permanent loan deed of trust or mortgage, as that term is defined in <cite path="§42-1101|(10)">§ 42-1101(10)</cite>, shall be exempt from the deed recordation tax pursuant to <cite path="§42-1102">§ 42-1102</cite>, if the property securing the deed of trust or mortgage is owned by or is being simultaneously transferred to a qualifying lower income homeownership household or a cooperative housing association qualified for the real property tax exemption pursuant to subsection (c) of this section or if a return under oath, certifying the association’s intent to qualify for the real property tax exemption pursuant to subsection (c) of this section, within 1 year, accompanies the deed at the time of its offer for recordation.</text>
+      <text>Recordation of a construction loan deed of trust or mortgage, as that term is defined in <cite path="§42-1101|(9)">§ 42-1101(9)</cite>, or a permanent loan deed of trust or mortgage, as that term is defined in <cite path="§42-1101|(10)">§ 42-1101(10)</cite>, shall be exempt from the deed recordation tax pursuant to <cite path="§42-1102">§ 42-1102</cite>, if the property securing the deed of trust or mortgage is owned or leased by or is being simultaneously transferred or leased to to a qualifying lower income homeownership household or a cooperative housing association qualified for the real property tax exemption pursuant to subsection (c) of this section or if a return under oath, certifying the association’s intent to qualify for the real property tax exemption pursuant to subsection (c) of this section, within 1 year, accompanies the deed at the time of its offer for recordation.</text>
     </para>
   </para>
   <para>
@@ -28,7 +31,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>The purchaser in fee simple or the persons acquiring qualified ownership interests under a shared equity financing agreement receive a credit against the purchase price of the property in an amount equal to the total tax which would have been due without regard to this section.</text>
+        <text>The household acquiring a fee simple interest, a leasehold interest under a land lease from a community land trust, as defined by <cite path="§47-803|(1)">§ 47-803(1)</cite>, or qualified ownership interests under a shared equity financing agreement, receives a credit against the purchase price of the property in an amount equal to the total tax which would have been due without regard to this section.</text>
       </para>
     </para>
     <para>
@@ -43,6 +46,10 @@
         <text>The purchaser receives a credit against the purchase price of the property in an amount equal to the total tax that would have been due without regard to this paragraph.</text>
       </para>
     </para>
+    <para>
+      <num>(3)</num>
+      <text>Transfers of property to a community land trust, as that term is defined in <cite path="§47-803|(1)">§ 47-803(1)</cite>, shall be exempt from the transfer tax pursuant to <cite path="§47-902">§ 47-902</cite>.</text>
+    </para>
   </para>
   <para>
     <num>(c)</num>
@@ -52,7 +59,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>Property transferred to a qualifying lower income homeownership household shall be exempt from real property tax pursuant to <cite path="§47-1002">§ 47-1002</cite>, if:</text>
+      <text>Property transferred, including a transfer by land lease, to a qualifying lower income homeownership household and property owned by a community land trust as defined by § 47-803(1) that is subject to a land lease to a qualifying lower income homeownership household shall be exempt from real property tax pursuant to <cite path="§47-1002">§ 47-1002</cite>, if:</text>
       <para>
         <num>(A)</num>
         <text>The household meets the requirements of <cite path="§47-3502">§ 47-3502</cite>; and</text>
@@ -69,10 +76,6 @@
     <para>
       <num>(4)</num>
       <text>The exemption provided by this subsection shall be in effect only until the end of the fifth tax year following the year in which the property was transferred to the household and only so long as the same household is an owner and occupant of the property or in the case of a cooperative housing association, only so long as at least 50% of the dwelling units contained therein are occupied by households which meet the income limitations and conditions of transfer described in <cite path="§47-3502">§ 47-3502</cite> and the credit against rent requirement described in paragraph (2)(B) of this subsection.</text>
-    </para>
-    <para placeholder="Not Funded">
-      <num>[(4A)]</num>
-      <text>Not Funded.</text>
     </para>
     <para>
       <num>(5)</num>
@@ -136,15 +139,6 @@
     <annotation type="Cross References">Deeds, recordation tax, exempt deeds, see <cite path="§42-1102">§ 42-1102</cite>.</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-636" path="§2|(b)" codified:display="Note" app="2022-11-03" eff="2022-11-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-636" path="§2|(b)">§ 2(b) of River East at Grandview Condominiums Property Tax Exemption Emergency Amendment Act of 2022 (D.C. Act 24-636, Nov. 3, 2022, 0 DCR 0)</cite>.</annotation>
     <annotation app="2022-11-03" doc="D.C. Act 24-636" eff="2022-11-03" path="§2|(b)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-244" eff="2023-02-23" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-244" eff="2023-02-23" path="§2|(b)|(1)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-244" eff="2023-02-23" path="§2|(b)|(2)|(A)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-244" eff="2023-02-23" path="§2|(b)|(2)|(B)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-244" eff="2023-02-23" path="§2|(b)|(3)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-244" eff="2023-02-23" path="§2|(b)|(4)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-244" eff="2023-02-23" path="§2|(b)|(5)" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-244" path="§2" codified:display="Note" app="2023-02-23" eff="2023-02-23">Applicability of <cite doc="D.C. Law 24-244" path="">D.C. Law 24-244</cite>: <cite doc="D.C. Law 24-244" path="§4">§ 4 of D.C. Law 24-244</cite> provided that the change made to this section by <cite doc="D.C. Law 24-244" path="§2">§ 2 of D.C. Law 24-244</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2023-02-23" doc="D.C. Law 24-244" eff="2023-02-23" path="§2" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-272" path="§2" codified:display="Note" app="2023-02-23" eff="2023-02-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-272" path="§2">§ 2 of River East at Grandview Condominiums Property Tax Exemption Temporary Amendment Act of 2022 (D.C. Law 24-272, Feb. 23, 2023, 69 DCR 14760)</cite>.</annotation>
     <annotation app="2023-02-23" doc="D.C. Law 24-272" eff="2023-02-23" path="§2" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-47" path="§2" codified:display="Note" app="2023-02-27" eff="2023-02-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-47" path="§2">§ 2 of River East at Grandview Condominiums Property Tax Exemption Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-47, Feb. 27, 2023, 70 DCR 3005)</cite>.</annotation>
@@ -153,5 +147,12 @@
     <annotation app="2023-10-11" doc="D.C. Act 25-236" eff="2023-10-11" path="§2|(b)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-95" path="§2|(b)" codified:display="Note" app="2023-12-20" eff="2023-12-20">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-95" path="§2|(b)">§ 2(b) of River East at Grandview Condominiums Assistance Tax Exemption Temporary Amendment Act of 2023 (D.C. Law 25-95, Dec. 20, 2023, 70 DCR 14508)</cite>.</annotation>
     <annotation app="2023-12-20" doc="D.C. Law 25-95" eff="2023-12-20" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2152|(c)|(2)|(C)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2152|(c)|(2)|(A)|(i)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2152|(c)|(2)|(A)|(ii)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2152|(c)|(2)|(B)|(i)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2152|(c)|(2)|(B)|(ii)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2152|(c)|(2)|(C)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2152|(c)|(2)|(C)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2152|(c)|(2)|(C)">§ 2152(c)(2)(C) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

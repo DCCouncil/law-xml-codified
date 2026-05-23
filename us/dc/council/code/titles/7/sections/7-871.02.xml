@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-871.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-871.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <para>
@@ -9,7 +12,7 @@
   </para>
   <para>
     <num>(2)</num>
-    <text>“Elevated blood lead level” means an excessive absorption of lead concentration in whole blood of 10 mg/dL (micrograms of lead per deciliter) or greater.</text>
+    <text>"Elevated blood lead level" shall have the same meaning as set forth in <cite path="§8-231.01|(13)">§ 8-231.01(13)</cite>.</text>
   </para>
   <para>
     <num>(3)</num>
@@ -21,7 +24,7 @@
   </para>
   <para>
     <num>(5)</num>
-    <text>“Lead-poisoned child” means a child with a confirmed blood lead level equal to or greater than 15 micrograms of lead per deciliter of blood, or such other lower threshold as the United States Centers for Disease Control and Prevention may establish.</text>
+    <text>"Lead-poisoned child" means a child with an elevated blood lead level.</text>
   </para>
   <para>
     <num>(6)</num>
@@ -30,5 +33,9 @@
   <annotations>
     <annotation doc="D.C. Law 14-190" type="History" path="§2002">Oct. 1, 2002, D.C. Law 14-190, § 2002, 49 DCR 6968</annotation>
     <annotation type="Prior Codifications">2001 Ed., § 7-1032.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5024|(a)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5024|(a)|(1)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5024|(a)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§5024|(a)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§5024|(a)">§ 5024(a) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>
