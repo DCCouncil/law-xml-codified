@@ -4610,7 +4610,7 @@
           <para codify:path="(4)">
             <num>(2)</num>
             <text>Paragraph (4) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-211|(a)|(4)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-211|(a)">
               <find>; and</find>
               <replace>;</replace>
             </codify:find-replace>
@@ -4618,7 +4618,7 @@
           <para codify:path="(5)">
             <num>(3)</num>
             <text>Paragraph (5) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-            <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§6-211|(a)|(5)">
+            <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§6-211|(a)">
               <find>.</find>
               <replace>; and</replace>
             </codify:find-replace>
@@ -4628,7 +4628,7 @@
             <text>A new paragraph (6) is added to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:insert codified:doc="D.C. Code" codified:path="§6-211|(a)|(6)"/>
+                <codify:insert codified:doc="D.C. Code" codified:path="§6-211|(a)"/>
                 <num>(6)</num>
                 <text>Two Commissioners, who shall not be employees of the Authority, one nominated by the Mayor, with the advice and consent of the Council by resolution, and one appointed by the Council, who shall be representatives with professional experience designing and developing public and private multi-family housing and who shall:</text>
                 <para>
@@ -4682,7 +4682,7 @@
           <para codify:path="(1)">
             <num>(2)</num>
             <text>Paragraph (1) is amended by striking the word "individual's" and inserting the word "Commissioner's" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-211|(b)|(1)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-211|(b)">
               <find>individual's</find>
               <replace>Commissioner's</replace>
             </codify:find-replace>
