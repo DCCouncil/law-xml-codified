@@ -173,9 +173,9 @@
             <para>
               <num>(2)</num>
               <text>Notice provided to a tenant shall contain the following or substantively similar language:</text>
-              <text>The total amount of rent owed is [list specific amount due]. A ledger showing the dates of rent charges and payments for the period of delinquency is attached. You have the right to remain in the rental unit if the total balance of unpaid rent is paid in full.</text>
-              <aftertext>[Name of housing provider] has the right to file a case in court seeking your eviction if you do not pay the balance of unpaid rent in full within 30 days of this notice.</aftertext>
-              <aftertext>You have the right to defend yourself in court. Only a court can order your eviction. For further help or to seek free legal services, contact the Office of the Tenant Advocate at 202-719-6560 or the Landlord Tenant Legal Assistance Network at 202-780-2575.</aftertext>
+              <text>"The total amount of rent owed is [list specific amount due]. A ledger showing the dates of rent charges and payments for the period of delinquency is attached. You have the right to remain in the rental unit if the total balance of unpaid rent is paid in full.</text>
+              <text>"[Name of housing provider] has the right to file a case in court seeking your eviction if you do not pay the balance of unpaid rent in full within 30 days of this notice.</text>
+              <text>"You have the right to defend yourself in court. Only a court can order your eviction. For further help or to seek free legal services, contact the Office of the Tenant Advocate at 202-719-6560 or the Landlord Tenant Legal Assistance Network at 202-780-2575."<span codify:value="."/></text>
             </para>
           </para>
         </include>
@@ -849,17 +849,17 @@
     <para>
       <num>(a)</num>
       <text>Amendatory section 510(a)(10), (f)(4), and (h) in section 3(b) shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:repeal doc="D.C. Code" path="§42-3505.10|(a)|(10)" codified:doc="D.C. Code" codified:path="§42-3505.10|(a)|(10)"/>
+      <codify:repeal doc="D.C. Code" path="§42-3505.10|(a)|(10)" history="false" codified:doc="D.C. Code" codified:path="§42-3505.10|(a)|(10)"/>
       <codify:find-replace doc="D.C. Code" path="§42-3505.10|(a)|(10)" count="1" codified:doc="D.C. Code" codified:path="§42-3505.10|(a)|(10)">
         <find>Repealed</find>
         <replace>Not Founded</replace>
       </codify:find-replace>
-      <codify:repeal doc="D.C. Code" path="§42-3505.10|(f)|(4)" codified:doc="D.C. Code" codified:path="§42-3505.10|(f)|(4)"/>
+      <codify:repeal doc="D.C. Code" path="§42-3505.10|(f)|(4)" history="false" codified:doc="D.C. Code" codified:path="§42-3505.10|(f)|(4)"/>
       <codify:find-replace doc="D.C. Code" path="§42-3505.10|(f)|(4)" count="1" codified:doc="D.C. Code" codified:path="§42-3505.10|(f)|(4)">
         <find>Repealed</find>
         <replace>Not Founded</replace>
       </codify:find-replace>
-      <codify:repeal doc="D.C. Code" path="§42-3505.10|(h)" codified:doc="D.C. Code" codified:path="§42-3505.10|(h)"/>
+      <codify:repeal doc="D.C. Code" path="§42-3505.10|(h)" history="false" codified:doc="D.C. Code" codified:path="§42-3505.10|(h)"/>
       <codify:find-replace doc="D.C. Code" path="§42-3505.10|(h)" count="1" codified:doc="D.C. Code" codified:path="§42-3505.10|(h)">
         <find>Repealed</find>
         <replace>Not Founded</replace>
