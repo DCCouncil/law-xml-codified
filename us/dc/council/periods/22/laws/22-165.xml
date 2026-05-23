@@ -54,7 +54,7 @@
           <text>A new paragraph (44A) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(44)" codified:doc="D.C. Code" codified:path="§25-101|(44A)"/>
+              <codify:insert after="(44)" codified:doc="D.C. Code" codified:path="§25-101|(44B)"/>
               <num>(44A)</num>
               <text>"Roll call hearing" means the proceeding specified in a placard posted at an applicant's premises at which the applicant and the protestant are introduced to each other and the grounds for objection to the license application are read to the public.</text>
             </para>
@@ -758,7 +758,7 @@
           <text>A new paragraph (2) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§25-205|(b)|(2)"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§25-205|(b)"/>
               <num>(2)</num>
               <para>
                 <num>(A)</num>
