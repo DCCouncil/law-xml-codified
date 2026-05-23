@@ -1,23 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>42-3131.19</num>
   <heading>Vacant and blighted vacant buildings belonging to foreign governments.</heading>
-  <para>
-    <num>(a)</num>
-    <text>The Department of Buildings shall publish and deliver semiannually to the Mayor, the Council, and the United States Department of State's Office of Foreign Missions ("OFM") a list identifying each building that:</text>
-    <para>
-      <num>(1)</num>
-      <text>Is authorized as exempt from real estate taxes by OFM on the basis of its use for diplomatic or consular purposes or for the official business of an international organization; and</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Has been determined to be a vacant building or blighted vacant building pursuant to <cite path="42|31A">this chapter</cite>.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>Nothing in <cite path="42|31A">this chapter</cite> shall be construed to impose any obligation on any foreign government or other entity relating to any building that has been authorized as exempt from real estate taxes by OFM on the basis of its use for diplomatic or consular purposes or for the official business of an international organization.</text>
-  </para>
+  <text>Repealed.</text>
   <annotations>
     <annotation type="History" doc="Stat. 59-1-ch1626" path="§18a">Apr. 14, 1906, 34 Stat. 115, ch. 1626, § 18a[19]</annotation>
     <annotation app="2019-03-22" doc="D.C. Law 22-254" eff="2019-03-22" path="§2|(c)" prefix="as added" type="History"/>
@@ -32,5 +18,6 @@
         </annotation>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7162" type="History" display="false"/>
     <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="§501|(x)|(3)" type="History"/>
+    <annotation app="2025-10-01" doc="D.C. Law 26-41" eff="2025-10-01" path="§202|(o)" type="History"/>
   </annotations>
 </section>

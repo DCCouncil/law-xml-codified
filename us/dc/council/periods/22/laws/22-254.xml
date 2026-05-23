@@ -31,7 +31,7 @@
       <text>Section 6(b)(2) (D.C. Official Code § 42-3131.06(b)(2)) is amended to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:replace codified:doc="D.C. Code" codified:path="§42-3131.06|(b)|(2)"/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§42-3131.06"/>
           <num>(2)</num>
           <text>Authorized as exempt from real estate taxes by the United States Department of State's Office of Foreign Missions on the basis of its use for diplomatic or consular purposes or for the official business of an international organization.</text>
         </para>
@@ -42,7 +42,7 @@
     <para codify:path="§42-3131.09|(a)">
       <num>(b)</num>
       <text>Section 9(a) (D.C. Official Code § 42-3131.09(a)) is amended by striking the phrase "instrumentalities or by a foreign government or its instrumentalities." and inserting the phrase "instrumentalities or has been authorized as exempt from real estate taxes by the United States Department of State's Office of Foreign Missions on the basis of its use for diplomatic or consular purposes or for the official business of an international organization." in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3131.09|(a)">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3131.09">
         <find>instrumentalities or by a foreign government or its instrumentalities.</find>
         <replace>instrumentalities or has been authorized as exempt from real estate taxes by the United States Department of State's Office of Foreign Missions on the basis of its use for diplomatic or consular purposes or for the official business of an international organization.</replace>
       </codify:find-replace>

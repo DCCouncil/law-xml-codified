@@ -594,6 +594,7 @@
       <xi:include href="./sections/47-811.02.xml"/>
       <xi:include href="./sections/47-811.03.xml"/>
       <xi:include href="./sections/47-811.04.xml"/>
+      <xi:include href="./sections/47-811.05.xml"/>
       <xi:include href="./sections/47-812.xml"/>
       <xi:include href="./sections/47-813.xml"/>
       <xi:include href="./sections/47-814.xml"/>
@@ -694,6 +695,10 @@
       <num>III</num>
       <heading>Miscellaneous.</heading>
       <xi:include href="./sections/47-861.xml"/>
+      <xi:include href="./sections/47-861.01.xml"/>
+      <xi:include href="./sections/47-861.02.xml"/>
+      <xi:include href="./sections/47-861.03.xml"/>
+      <xi:include href="./sections/47-861.04.xml"/>
       <xi:include href="./sections/47-862.xml"/>
       <xi:include href="./sections/47-863.xml"/>
       <xi:include href="./sections/47-864.xml"/>
@@ -1113,6 +1118,20 @@
       <xi:include href="./sections/47-1383.xml"/>
       <xi:include href="./sections/47-1384.xml"/>
       <xi:include href="./sections/47-1385.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>V</num>
+      <heading>Foreclosure by the Office of the Attorney General of Class 3 and 4 Properties.</heading>
+      <annotation app="2025-10-01" doc="D.C. Law 26-41" eff="2025-10-01" path="III" type="History" display="false"/>
+      <xi:include href="./sections/47-1390.xml"/>
+      <xi:include href="./sections/47-1391.xml"/>
+      <xi:include href="./sections/47-1392.xml"/>
+      <xi:include href="./sections/47-1393.xml"/>
+      <xi:include href="./sections/47-1394.xml"/>
+      <xi:include href="./sections/47-1395.xml"/>
+      <xi:include href="./sections/47-1396.xml"/>
+      <xi:include href="./sections/47-1397.xml"/>
     </container>
   </container>
   <container>
@@ -1541,6 +1560,16 @@
       <xi:include href="./sections/47-1818.06.xml"/>
       <xi:include href="./sections/47-1818.07.xml"/>
       <xi:include href="./sections/47-1818.08.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>XIX</num>
+      <heading>Vacant and Blighted Property Rehabilitation Credit.</heading>
+      <annotation app="2025-10-01" doc="D.C. Law 26-41" eff="2025-10-01" path="III" type="History" display="false"/>
+      <xi:include href="./sections/47-1819.01.xml"/>
+      <xi:include href="./sections/47-1819.02.xml"/>
+      <xi:include href="./sections/47-1819.03.xml"/>
+      <xi:include href="./sections/47-1819.04.xml"/>
     </container>
   </container>
   <container>

@@ -1,17 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-3131.16</num>
-  <heading>Transmission of list by Mayor.</heading>
+  <heading proof="needed">Transmission of list by Mayor.</heading>
   <para>
     <num>(a)</num>
-    <text>Semiannually, the Mayor shall transmit to the Office of Tax and Revenue a list of buildings:</text>
+    <text>No less than once a week, the Mayor shall transmit to the Office of Tax and Revenue a list of buildings:</text>
     <para>
       <num>(1)</num>
-      <text>Registered as vacant; provided, that for the purposes of this section and <cite path="§47-813|(d-1)|(5)|(A-i)|(i)|(I)|(aa)">§ 47-813(d-1)(5)(A-i)(i)(I)(aa)</cite>, buildings for which the registration has been revoked shall also be deemed registered; and</text>
+      <text>Registered or designated as vacant;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>For which a notice of final determination has been issued under §§ <cite path="§42-3131.05">42-3131.05</cite> through <cite path="§42-3131.16">42-3131.16</cite> and administrative appeals have been exhausted or expired.</text>
+      <text>Designated as blighted vacant; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>For which the time period to issue a notice of final determination under <cite path="§42-3131.15">§ 42-3131.15</cite> has expired or a notice of final determination has been issued under <cite path="§42-3131.15">§ 42-3131.15</cite> and administrative appeals have been exhausted or expired.</text>
     </para>
   </para>
   <para>
@@ -20,7 +24,11 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>Buildings shall remain on the list required by this section until a change in classification is approved pursuant to D.C. Official Code § 47-813(d-1)(5)(A-i)(ii).</text>
+    <text>Buildings shall remain on the list required by this section until a change in classification is approved.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>The Mayor and the Office of Tax and Revenue shall develop a procedure to reconcile any material differences between information retained by the Department of Buildings regarding buildings registered or designated as vacant or designated as blighted vacant, and buildings taxed as Class 3 or 4, on at least a monthly basis.</text>
   </para>
   <annotations>
     <annotation type="History" doc="Stat. 59-1-ch1626" path="§16">Apr. 14, 1906, 34 Stat. 115, ch. 1626, § 16</annotation>
@@ -37,5 +45,6 @@
     <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> substituted “§§ <cite path="§42-3131.05">42-3131.05</cite> through <cite path="§42-3131.16">42-3131.16</cite>” for “this subchapter” in (a)(2).</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§42-3131.06">§ 42-3131.06</cite>, <cite path="§47-813">§ 47-813</cite>, and <cite path="§47-4654">§ 47-4654</cite>.</annotation>
     <annotation app="2017-02-18" doc="D.C. Law 21-200" eff="2017-02-18" path="§2|(c)" type="History"/>
+    <annotation app="2025-10-01" doc="D.C. Law 26-41" eff="2025-10-01" path="§202|(l)" type="History"/>
   </annotations>
 </section>

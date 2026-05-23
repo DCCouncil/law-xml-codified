@@ -84,4 +84,13 @@
     <xi:include href="./sections/18-910.xml"/>
     <xi:include href="./sections/18-911.xml"/>
   </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>10</num>
+    <heading>Will Registry.</heading>
+    <annotation app="2025-10-01" doc="D.C. Law 26-41" eff="2025-10-01" path="I" type="History" display="false"/>
+    <xi:include href="./sections/18-1001.xml"/>
+    <xi:include href="./sections/18-1002.xml"/>
+    <xi:include href="./sections/18-1003.xml"/>
+  </container>
 </container>

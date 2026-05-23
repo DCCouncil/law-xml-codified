@@ -1,22 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-3131.18</num>
-  <heading>Publication of list by the Department of Buildings.</heading>
-  <text>The Department of Buildings shall maintain and publish at least semiannually a list of buildings that are registered as, or have been determined to be, vacant buildings or blighted vacant buildings, or which would have been but for an exemption provided pursuant to <cite path="§42-3131.06|(b)">§ 42-3131.06(b)</cite>, that specifies for each building, as applicable:</text>
+  <heading proof="needed">Publication of vacant and blighted vacant building information by the Department of Buildings.</heading>
   <para>
-    <num undesignated="true">(a)</num>
+    <num>(a)</num>
+    <text>The Department of Buildings shall maintain, on a publicly available website, a database or list of vacant buildings. The database or list shall, at a minimum, contain the following information:</text>
     <para>
       <num>(1)</num>
-      <text>Beginning on or after February 18, 2017, the date that the building was determined to be a vacant building or blighted vacant building or registered as a vacant building pursuant to <cite path="§42-3131.06">§ 42-3131.06</cite>; and</text>
+      <text>The address of the building, including the square, suffix, and lot number of the property on which the building is located;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The exemptions, if any, applied to a building pursuant to <cite path="§42-3131.06">§ 42-3131.06</cite>(b) or (c), and the dates during which each exemption applied.</text>
+      <text>The Advisory Neighborhood Commission and Ward in which the building is located;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The date on which the building was designated a vacant building or blighted vacant building or registered as a vacant building pursuant to <cite path="§42-3131.06">§ 42-3131.06</cite>;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The type of exemption the building has received, the date on which the building received an exemption, and the number of half tax years the building has been exempt, if applicable;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The number of months the building has been registered or designated as vacant or designated as blighted vacant;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The last date on which the property was inspected by the Department; and</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>The current tax classification of the property.</text>
     </para>
   </para>
   <annotations>
     <annotation type="History" doc="Stat. 59-1-ch1626" path="§18">Apr. 14, 1906, 34 Stat. 115, ch. 1626, § 18</annotation>
     <annotation app="2017-02-18" doc="D.C. Law 21-200" eff="2017-02-18" path="§2|(e)" prefix="as added" type="History"/>
     <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="§501|(x)|(2)" type="History"/>
+    <annotation app="2025-10-01" doc="D.C. Law 26-41" eff="2025-10-01" path="§202|(n)" type="History"/>
   </annotations>
 </section>

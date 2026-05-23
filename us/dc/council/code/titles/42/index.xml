@@ -566,6 +566,14 @@
     <xi:include href="./sections/42-1666.xml"/>
     <xi:include href="./sections/42-1667.xml"/>
   </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16C</num>
+    <heading>Tangled Title Disclosure.</heading>
+    <annotation app="2025-10-01" doc="D.C. Law 26-41" eff="2025-10-01" path="" type="History" display="false"/>
+    <xi:include href="./sections/42-1681.xml"/>
+    <xi:include href="./sections/42-1682.xml"/>
+  </container>
   <subheading>Subtitle II. Brokers and Realtors.</subheading>
   <container>
     <prefix>Chapter</prefix>
@@ -1177,6 +1185,14 @@
     <xi:include href="./sections/42-3001.xml"/>
     <xi:include href="./sections/42-3002.xml"/>
   </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>30A</num>
+    <heading>Single Family Home Rehabilitation Program.</heading>
+    <annotation app="2025-10-01" doc="D.C. Law 26-41" eff="2025-10-01" path="I" type="History" display="false"/>
+    <xi:include href="./sections/42-3021.xml"/>
+    <xi:include href="./sections/42-3022.xml"/>
+  </container>
   <subheading>Subtitle VI. Nuisance Property.</subheading>
   <container>
     <prefix>Chapter</prefix>
@@ -1219,7 +1235,9 @@
       <heading>Registration of Vacant Buildings.</heading>
       <xi:include href="./sections/42-3131.05.xml"/>
       <xi:include href="./sections/42-3131.05a.xml"/>
+      <xi:include href="./sections/42-3131.05b.xml"/>
       <xi:include href="./sections/42-3131.06.xml"/>
+      <xi:include href="./sections/42-3131.06a.xml"/>
       <xi:include href="./sections/42-3131.07.xml"/>
       <xi:include href="./sections/42-3131.08.xml"/>
       <xi:include href="./sections/42-3131.09.xml"/>
@@ -1233,6 +1251,8 @@
       <xi:include href="./sections/42-3131.17.xml"/>
       <xi:include href="./sections/42-3131.18.xml"/>
       <xi:include href="./sections/42-3131.19.xml"/>
+      <xi:include href="./sections/42-3131.20.xml"/>
+      <xi:include href="./sections/42-3131.21.xml"/>
     </container>
   </container>
   <container>

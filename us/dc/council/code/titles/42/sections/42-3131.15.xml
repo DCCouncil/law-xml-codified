@@ -1,21 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-3131.15</num>
-  <heading>Administrative review and appeal.</heading>
+  <heading proof="needed">Administrative review and appeal.</heading>
   <para>
     <num>(a)</num>
-    <text>Within 15 days after the designation of an owner’s building as a vacant building, the determination of delinquency of registration or fee payment, the denial or revocation of registration, or the designation of a vacant building as a blighted vacant building, the owner may petition the Mayor for reconsideration by filing the form prescribed by the Mayor. Within 30 days after receiving the petition, the Mayor shall issue a notice of final determination.</text>
+    <text>Within 15 days after the designation of an owner's building as a vacant building, the determination of delinquency of registration or fee payment, the denial or revocation of registration, or the designation of a vacant building as a blighted vacant building, the owner may petition the Mayor for reconsideration by filing the form prescribed by the Mayor.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>Within 45 days after the date of the notice of final determination under subsection (a) of this section, an owner may file an appeal with the Real Property Tax Appeals Commission for the District of Columbia on the form prescribed by the Mayor; provided, that the notice of final determination under subsection (a) of this section shall be a prerequisite to filing an appeal with the Real Property Tax Appeals Commission for the District of Columbia.</text>
+    <para>
+      <num>(1)</num>
+      <text>Within 60 days after receiving a petition pursuant to subsection (a) of this section, the Mayor shall issue a notice of final determination to the owner of the vacant building. The petition shall be deemed denied, and it shall have the same effect of the issuance of a notice of final determination, if the Mayor does not act upon the petition within 60 days.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Within 45 days after the date of the notice of final determination or within 45 days of the expiration of the time period set forth in paragraph (1) of this subsection, an owner may file an appeal with the Real Property Tax Appeals Commission for the District of Columbia ("Real Property Tax Appeals Commission") on the form prescribed by the Mayor; provided, that the issuance of a notice of final determination or the failure of the Mayor to issue a notice of final determination within 60 days shall be a prerequisite to filing an appeal with the Real Property Tax Appeals Commission. The Real Property Tax Appeals Commission may not extend the time to file an appeal.</text>
+    </para>
   </para>
   <para>
     <num>(c)</num>
-    <text>After receiving a notice of appeal from an owner as required under subsection (b) of this section, the Real Property Tax Appeals Commission for the District of Columbia shall provide by mail or electronic mail to the Advisory Neighborhood Commission in which the vacant building is located, at least 15 days before any scheduled hearing on the appeal, the following information related to the building at issue:</text>
+    <text>After receiving a notice of appeal from an owner as required under subsection (b)(2) of this section, the Real Property Tax Appeals Commission shall provide by mail or electronic mail to the Advisory Neighborhood Commission in which the vacant building is located, at least 15 days before any scheduled hearing on the appeal, the following information related to the building at issue:</text>
     <para>
       <num>(1)</num>
-      <text>The name of the owner of the building, and the building address, to include the square, suffix, and lot numbers;</text>
+      <text>The name of the owner of the building, and the address of the building, including square, suffix and lot numbers;</text>
     </para>
     <para>
       <num>(2)</num>
@@ -28,7 +35,7 @@
   </para>
   <para>
     <num>(d)</num>
-    <text>The District, through the Office of the Attorney General, may appeal a decision of the Real Property Tax Appeals Commission to the Superior Court of the District of Columbia within 2 months after receipt of the written decision.</text>
+    <text>The District, through the Office of the Attorney General, may appeal a decision of the Real Property Tax Appeals Commission to the Superior Court of the District of Columbia within 90 days after the receipt of a written decision.</text>
   </para>
   <annotations>
     <annotation type="History" doc="Stat. 59-1-ch1626" path="§15">Apr. 14, 1906, 34 Stat. 115, ch. 1626, § 15</annotation>
@@ -56,5 +63,6 @@
     <annotation doc="D.C. Law 24-167" path="§7132|(a)" type="Applicability" history="false" app="2022-09-21" eff="2022-09-21"><cite doc="D.C. Law 24-167" path="§7132">Section 7132 of D.C. Law 24-167</cite> amended <cite doc="D.C. Law 22-287">D.C. Law 22-287</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 4(e) of Law 22-287 has been implemented.
         </annotation>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7132|(a)" type="History" display="false"/>
+    <annotation app="2025-10-01" doc="D.C. Law 26-41" eff="2025-10-01" path="§202|(k)" type="History"/>
   </annotations>
 </section>

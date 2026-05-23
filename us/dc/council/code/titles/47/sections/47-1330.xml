@@ -7,6 +7,14 @@
     <num>(1)</num>
     <text>“Costs” means amounts paid or payable by the purchaser to the District in connection with the sale of a real property.</text>
   </para>
+  <para placeholder="Not Funded">
+    <num>(1A)</num>
+    <text>Not Funded.</text>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(1B)</num>
+    <text>Not Funded.</text>
+  </para>
   <para>
     <num>(2)</num>
     <text>“Tax” means unpaid real property tax and vault rent owing as of October 1, and unpaid business improvement district tax owing as of September 1, including penalties, interest, and costs, as calculated by the Mayor. The term “tax” includes an assessment or charge due at any time to the District and certified to the Mayor for collection under this chapter in the same manner as a real property tax, along with permitted penalties, interest, and costs, as calculated by the Mayor.</text>
@@ -26,6 +34,10 @@
   <para>
     <num>(4A)</num>
     <text>“Premises address” means the address, if any, for the square, suffix, and lot numbers, or parcel and lot numbers, of real property as reflected in the records in the Office of Tax and Revenue.</text>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(4B)</num>
+    <text>Not Funded.</text>
   </para>
   <para>
     <num>(5)</num>
@@ -63,5 +75,11 @@
     <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> rewrote (2); and added (2A) and (4A).</annotation>
     <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-141">D.C. Law 20-141</cite>, repealed before its effective date, would have rewritten (2); and added (2A) and (4A).</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§42-407">§ 42-407</cite>, <cite path="§42-3131.06">§ 42-3131.06</cite>, <cite path="§42-3141.09">§ 42-3141.09</cite>, <cite path="§47-1055">§ 47-1055</cite>, <cite path="§47-1064">§ 47-1064</cite>, and <cite path="§47-1336">§ 47-1336</cite>.</annotation>
+    <annotation type="Applicability" doc="D.C. Law 26-41" path="§303|(b)|(3)" codified:display="Note" app="2025-10-01" eff="2025-10-01">Applicability of <cite doc="D.C. Law 26-41" path="">D.C. Law 26-41</cite>: <cite doc="D.C. Law 26-41" path="§401|(a)">§ 401(a) of D.C. Law 26-41</cite> provided that the amendment to this section by <cite doc="D.C. Law 26-41" path="§303|(b)|(3)">§ 303(b)(3) of D.C. Law 26-41</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2025-10-01" doc="D.C. Law 26-41" eff="2025-10-01" path="§303|(b)|(3)" type="History"/>
+    <annotation app="2025-10-01" doc="D.C. Law 26-41" eff="2025-10-01" path="§401|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 26-41" eff="2025-10-01" path="§303|(b)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-41" eff="2025-10-01" path="§303|(b)|(3)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-41" eff="2025-10-01" path="§303|(b)|(2)" type="History"/>
   </annotations>
 </section>
