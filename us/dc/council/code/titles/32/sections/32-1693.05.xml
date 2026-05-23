@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-1693.05</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on March 8, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§32-1693.05(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Memoranda of Understanding.</heading>
   <para>
     <num>(a)</num>
-    <text>No later than November 1, 2021, and by November 1 annually thereafter, the WIC shall execute Memoranda of Understanding ("MOUs") with the University and the University of the District of Columbia Foundation, Inc. ("Foundation") for the purpose of implementing the Program at the University and authorizing the intradistrict transfer of funds in accordance with the terms of this subsection.</text>
+    <text>No later than November 1, 2021, and by November 1 annually thereafter, the WIC shall execute a Memorandum of Understanding ("MOU") with the University for the purpose of implementing the Program at the University and authorizing the intradistrict transfer of funds in accordance with the terms of this subsection.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -12,6 +15,22 @@
     <para>
       <num>(1)</num>
       <text>Tuition, required fees, equipment, supplies, tools, and memberships for Program participants who are full-time or part-time students at UDC and UDC-CC seeking to obtain an RN to BSN degree or an LPN to AASN degree; provided, that the BON has approved such degree paths by the date of execution of the MOU; provided further, that the parties may modify the MOU to incorporate funding for BON-approved degree paths following BON approval.</text>
+    </para>
+    <para>
+      <num>(1A)</num>
+      <text>Stipends for living expenses to program participants who are enrolled at UDC-CC or pursuing WDLL courses , which may include amounts for:</text>
+      <para>
+        <num>(A)</num>
+        <text>Fees associated with occupational licensing exams;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Reasonable transportation costs to and from classes; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Any other expenses considered appropriate by the WIC;</text>
+      </para>
     </para>
     <para>
       <num>(2)</num>
@@ -34,21 +53,9 @@
       <text>The salary and fringe benefits of faculty or staff who teach or support classes or training in nursing and related health fields in which program participants may enroll at the University.</text>
     </para>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(c)</num>
-    <text>The MOU with the Foundation shall, among other things, include funding from the WIC to provide Program participants enrolled in WDLL courses monthly stipends to defray living expenses in amounts to be determined by the parties, and may include amounts for the following:</text>
-    <para>
-      <num>(1)</num>
-      <text>Fees associated with occupational licensing exams;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Reasonable transportation costs to and from classes; and</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Any other expenses deemed appropriate by the WIC.</text>
-    </para>
+    <text>Repealed.</text>
   </para>
   <annotations>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§4116" codified:display="Note" app="2021-11-13" eff="2021-08-23">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-159" path="§4116">§ 4116 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
@@ -64,5 +71,10 @@
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4063|(b)|(1)" type="History"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4063|(b)|(2)" type="History"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4063|(b)|(3)" type="History"/>
+    <annotation app="2022-12-08" doc="D.C. Act 24-677" eff="2022-12-08" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2022-12-08" doc="D.C. Act 24-677" eff="2022-12-08" path="§2|(b)|(1)" type="History"/>
+    <annotation app="2022-12-08" doc="D.C. Act 24-677" eff="2022-12-08" path="§2|(b)|(2)" type="History"/>
+    <annotation app="2022-12-08" doc="D.C. Act 24-677" eff="2022-12-08" path="§2|(b)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-677" path="§2|(b)" codified:display="Note" app="2022-12-08" eff="2022-12-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-677" path="§2|(b)">§ 2(b) of DC Nursing Education Enhancement Program Emergency Amendment Act of 2022 (D.C. Act 24-677, Dec. 8, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
