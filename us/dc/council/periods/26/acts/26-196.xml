@@ -192,7 +192,6 @@
         <para codify:path="(3)">
           <num>(B)</num>
           <text>Paragraph (3) is repealed.</text>
-          <codify:repeal codified:doc="D.C. Code" codified:path="§4-410.02|(c)|(3)"/>
         </para>
       </para>
       <para codify:path="(d)|(1)">
@@ -455,12 +454,10 @@
   <section>
     <num>3</num>
     <text>The Early Childhood Pay Equity Fund Establishment Act of 2021, effective November 13, 2021 (D.C. Law 24-45; D.C. Official Code § 1-325.431), is repealed.</text>
-    <codify:repeal path="§1-325.431" codified:doc="D.C. Code" codified:path="§1-325.431"/>
   </section>
   <section>
     <num>4</num>
     <text>The Early Childhood Educator Equitable Compensation Task Force Act of 2021, effective November 13, 2021 (D.C. Law 24-45, D.C. Official Code § 38-2241 <em>et seq</em>.), is repealed.</text>
-    <codify:repeal path="38|22B" codified:doc="D.C. Code" codified:path="§38-2241"/>
     <codify:emergency doc="D.C. Code" path="§38-2241" codified:doc="D.C. Code" codified:path="§38-2241" codified:display="Note"/>
     <codify:emergency doc="D.C. Code" path="§38-2242" codified:doc="D.C. Code" codified:path="§38-2242" codified:display="Note"/>
   </section>
