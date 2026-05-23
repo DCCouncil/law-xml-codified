@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>6-202</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on October 6, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§6-202(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Establishment of District of Columbia Housing Authority; purposes of Authority; Fund.</heading>
   <para>
     <num>(a)</num>
@@ -17,36 +14,12 @@
     <num>(b-1)</num>
     <para>
       <num>(1)</num>
-      <text>No later than December 1, 2022, the Authority shall submit a report to the Mayor, Attorney General, and each Councilmember that details:</text>
-      <para>
-        <num>(A)</num>
-        <text>The sum of all repayment amounts HUD has requested;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>The sources of the funds the Authority intends to use in making the repayments referenced in subparagraph (A) of this paragraph;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>The total amount of security deposit interest owed to residents who have moved out of Housing Properties in the 3 years preceding December 1, 2022;</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>The total amount of overcharging and undercharging rent and housing assistance payments identified through HUD's required review of tenant files and the percentage of tenant files reviewed or corrected;</text>
-      </para>
-      <para>
-        <num>(E)</num>
-        <text>A date certain by which the Authority will deliver a protocol for assessing properties for rent reasonableness, as required by the HUD rules.</text>
-      </para>
-    </para>
-    <para>
-      <num>(2)</num>
       <para>
         <num>(A)</num>
         <text>Beginning on December 1, 2022, and monthly thereafter, the Authority shall submit a report to the Mayor, Attorney General, and each Councilmember that details:</text>
         <para>
           <num>(i)</num>
-          <text>The amount of operating reserves, expressed in dollars and in months of expenses, for the public housing program, Housing Choice Voucher program, and the Authority's operations overall;</text>
+          <text>The amount of operating reserves, expressed in dollars and in months of expenses, for the public housing program, Housing Choice Voucher Program, and the Authority's operations overall;</text>
         </para>
         <para>
           <num>(ii)</num>
@@ -63,12 +36,12 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>In lieu of the monthly reports required by subparagraph (A) of this paragraph ("reports"), the Authority may provide the Mayor, Attorney General, and each Councilmember with access to an online database through which the reports can be generated.</text>
+        <text>In lieu of a monthly report, the Authority may provide the Mayor, Attorney General, and each Councilmember with access to an online database through which the above reports can be generated.</text>
       </para>
     </para>
     <para>
-      <num>(3)</num>
-      <text>If HUD designates the Authority as a Standard Performer or High Performer in HUD's Public Housing Assessment System or if the Authority demonstrates that the lack of such a designation is solely due to the presence of HUD's Moving to Work agreement with the Authority, the requirements of paragraph (2) of this subsection shall be waived for 12 months from the date the designation was received from HUD or documented by the Authority.</text>
+      <num>(2)</num>
+      <text>If HUD designates the Authority as a Standard Performer or High Performer in HUD's Public Housing Assessment System or if the Authority demonstrates that the lack of such a designation is solely due to the presence of HUD's Moving to Work agreement with the Authority, the requirements of paragraph (1) of this subsection shall be waived for 12 months from the date such designation was received from HUD or documented by the Authority.</text>
     </para>
   </para>
   <para>
@@ -212,8 +185,8 @@
     <annotation app="2022-11-03" doc="D.C. Act 24-629" eff="2022-11-03" path="§2|(a)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-8" path="§2|(a)" codified:display="Note" app="2023-02-01" eff="2023-02-01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-8" path="§2|(a)">§ 2(a) of Housing Authority Accountability Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-8, Feb. 1, 2023, 00 DCR 00)</cite>.</annotation>
     <annotation app="2023-02-01" doc="D.C. Act 25-8" eff="2023-02-01" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2023-02-23" doc="D.C. Law 24-273" eff="2023-02-23" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2023-02-23" doc="D.C. Law 24-273" eff="2023-02-23" path="§2|(a)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-273" path="§2|(a)" codified:display="Note" app="2023-02-23" eff="2023-02-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-273" path="§2|(a)">§ 2(a) of Housing Authority Accountability Temporary Amendment Act of 2022 (D.C. Law 24-273, Feb. 23, 2023, 69 DCR 14762)</cite>.</annotation>
+    <annotation app="2023-02-23" doc="D.C. Law 24-273" eff="2023-02-23" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2132|(a)" type="History"/>
   </annotations>
 </section>

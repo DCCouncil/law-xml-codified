@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Act 25-173" codify:doc="D.C. Code">
+<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 25-49" codify:doc="D.C. Code">
+  <num type="law">25-49</num>
   <num type="act">25-173</num>
   <num type="bill">25-34</num>
   <heading type="short">Expanding Access to Fertility Treatment Amendment Act of 2023</heading>
   <heading type="long">To amend the Women's Health and Cancer Rights Federal Law Conformity Act of 2000 to require an individual or group health benefit plan to provide coverage for the diagnosis and treatment of infertility and standard fertility preservation services, and to require a health insurer offering health insurance coverage through Medicaid and the DC Healthcare Alliance program to cover the diagnosis and medication treatment of infertility.</heading>
   <meta>
     <introduced>2023-01-13</introduced>
-    <effective projected="true">2023-10-04</effective>
+    <effective>2023-09-06</effective>
     <citations>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/52068/Signed_Act/B25-0034-Signed_Act.pdf?Id=166812">D.C. Law 25-49</citation>
       <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/52068/Signed_Act/B25-0034-Signed_Act.pdf?Id=166812">D.C. Act 25-173</citation>
       <citation type="register">70 DCR 10351</citation>
     </citations>
@@ -30,7 +32,7 @@
       <para codify:path="(a)|(1)">
         <num>(1)</num>
         <text>Subsection (a)(1) is amended by striking the phrase "drugs, devices, products, and services under sections 5a, 5b, and 5c." and inserting the phrase "or fertility enhancing drugs, devices, products, and services under sections 5a, 5b, 5c, and 5f." in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(a)|(1)" codified:citation="§ 31-3834.04" codified:display="Amend">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(a)|(1)">
           <find>drugs, devices, products, and services under §§ <code-cite doc="D.C. Code" path="§31-3834.01" codify:value="31-3834.01">sections 5a</code-cite>, <code-cite doc="D.C. Code" path="§31-3834.02" codify:value="31-3834.02">5b</code-cite>, and <code-cite doc="D.C. Code" path="§31-3834.03" codify:value="31-3834.03">5c</code-cite></find>
           <replace>or fertility enhancing drugs, devices, products, and services under §§ <code-cite doc="D.C. Code" path="§31-3834.01" codify:value="31-3834.01">sections 5a</code-cite>, <code-cite doc="D.C. Code" path="§31-3834.02" codify:value="31-3834.02">5b</code-cite>, <code-cite doc="D.C. Code" path="§31-3834.03" codify:value="31-3834.03">5c</code-cite>, and <code-cite doc="D.C. Code" path="§31-3834.06" codify:value="31-3834.06">5f</code-cite></replace>
         </codify:find-replace>
@@ -41,7 +43,7 @@
         <para codify:path="text">
           <num>(A)</num>
           <text>The lead-in language is amended by striking the phrase ", or 5c" and inserting the phrase ", 5c, or 5f" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(c)" codified:citation="§ 31-3834.04" codified:display="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(c)">
             <find>, or <code-cite doc="D.C. Code" path="§31-3834.03">section 5c</code-cite></find>
             <replace>, <code-cite doc="D.C. Code" path="§31-3834.03">5c</code-cite>, or <code-cite doc="D.C. Code" path="§31-3834.06">5f</code-cite></replace>
           </codify:find-replace>
@@ -49,7 +51,7 @@
         <para codify:path="(1)">
           <num>(B)</num>
           <text>Paragraph (1) is amended by striking the phrase "contraceptive drugs" and inserting the phrase "contraceptive or fertility enhancing drugs" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(c)|(1)" codified:citation="§ 31-3834.04" codified:display="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(c)|(1)">
             <find>contraceptive drugs</find>
             <replace>contraceptive or fertility enhancing drugs</replace>
           </codify:find-replace>
@@ -57,7 +59,7 @@
         <para codify:path="(2)">
           <num>(C)</num>
           <text>Paragraph (2) is amended by striking the phrase "contraceptive drugs" and inserting the phrase "contraceptive or fertility enhancing drugs" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(c)|(2)" codified:citation="§ 31-3834.04" codified:display="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(c)|(2)">
             <find>contraceptive drugs</find>
             <replace>contraceptive or fertility enhancing drugs</replace>
           </codify:find-replace>
@@ -69,7 +71,7 @@
         <para codify:path="(1)">
           <num>(A)</num>
           <text>Paragraph (1) is amended by striking the phrase "contraceptive drugs" and inserting the phrase "contraceptive or fertility enhancing drugs" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(d)|(1)" codified:citation="§ 31-3834.04" codified:display="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(d)|(1)">
             <find>contraceptive drugs</find>
             <replace>contraceptive or fertility enhancing drugs</replace>
           </codify:find-replace>
@@ -77,7 +79,7 @@
         <para codify:path="(2)">
           <num>(B)</num>
           <text>Paragraph (2) is amended by striking the phrase "drugs, devices, products, or services required to be covered under sections 5a, 5b, or 5c."  and inserting the phrase "or fertility enhancing drugs, devices, products, or services required to be covered under sections 5a, 5b, 5c, or 5f." in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(d)|(2)" codified:citation="§ 31-3834.04" codified:display="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(d)|(2)">
             <find>drugs, devices, products, or services required to be covered under <code-cite doc="D.C. Code" path="§31-3834.01">section 5a</code-cite>, <code-cite doc="D.C. Code" path="§31-3834.02">section 5b</code-cite>, or <code-cite doc="D.C. Code" path="§31-3834.03">section 5c</code-cite></find>
             <replace>or fertility enhancing drugs, devices, products, or services required to be covered under <code-cite doc="D.C. Code" path="§31-3834.01">section 5a</code-cite>, <code-cite doc="D.C. Code" path="§31-3834.02">section 5b</code-cite>, <code-cite doc="D.C. Code" path="§31-3834.03">section 5c</code-cite>, or <code-cite doc="D.C. Code" path="§31-3834.06">5f</code-cite></replace>
           </codify:find-replace>
@@ -89,7 +91,7 @@
       <text>A new section 5f is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert path="31|38B" after="§31-3834.05" num-value="31-3834.06" history-prefix="as added" codified:doc="D.C. Code" codified:path="§31-3834.06" codified:citation="§ 31-3834.06" codified:display="New"/>
+          <codify:insert path="31|38B" after="§31-3834.05" num-value="31-3834.06" history-prefix="as added" codified:doc="D.C. Code" codified:path="§31-3834.06"/>
           <num>5f</num>
           <heading proof="needed">Coverage of fertility treatments.</heading>
           <para>
@@ -213,7 +215,7 @@
       </include>
       <aftertext>.</aftertext>
       <annotation doc="D.C. Law 13-254" type="History" path="§5f">Apr. 3, 2001, D.C. Law 13-254, § 5f</annotation>
-      <codify:not-funded-anno doc="D.C. Code" path="§31-3834.06" applicability-path="§3" action="creation of subsection (b) of" display-template="" codified:doc="D.C. Code" codified:path="§31-3834.06" codified:citation="§ 31-3834.06" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§31-3834.06" applicability-path="§3" action="creation of subsection (b) of" display-template="" codified:doc="D.C. Code" codified:path="§31-3834.06" codified:display="Note"/>
     </para>
   </section>
   <section>
@@ -222,8 +224,8 @@
     <para>
       <num>(a)</num>
       <text>Amendatory section 5f(b) in section 2(b) shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:repeal path="§31-3834.06|(b)" display-template="" history="false" codified:doc="D.C. Code" codified:path="§31-3834.06|(b)" codified:citation="§ 31-3834.06" codified:display="Amend"/>
-      <codify:find-replace path="§31-3834.06|(b)" count="1" display-template="" history="false" codified:doc="D.C. Code" codified:path="§31-3834.06|(b)" codified:citation="§ 31-3834.06" codified:display="Amend">
+      <codify:repeal path="§31-3834.06|(b)" display-template="" history="false" codified:doc="D.C. Code" codified:path="§31-3834.06|(b)"/>
+      <codify:find-replace path="§31-3834.06|(b)" count="1" display-template="" history="false" codified:doc="D.C. Code" codified:path="§31-3834.06|(b)">
         <find>Repealed.</find>
         <replace>Not funded.</replace>
       </codify:find-replace>

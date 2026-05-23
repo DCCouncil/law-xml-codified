@@ -1,14 +1,86 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-3211</num>
   <heading proof="needed">Definitions.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>For the purposes of <cite path="7|32|II">this subchapter</cite>, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>"Commission" means the Opioid Abatement Advisory Commission established by <cite path="§7-3212">§ 7-3212</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Evidence-based" means that an activity, practice, program, service, support, or strategy has undergone multiple randomized controlled trials and observational studies demonstrating that it helps individuals avoid the development and progression of opioid and other substance use disorders or drug-related harms, reduces the adverse consequences of opioid and other substance use, or manages, slows the progression of, or supports recovery from an opioid use disorder or co-occurring substance use or mental health disorder.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Evidence-informed" means an activity, practice, program, service, support, or strategy that incorporates the best available evidence, patient needs, values, and preferences, and practitioner expertise into the decision-making process.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"Fund" means the Opioid Abatement Fund established by <cite path="§7-3221">§ 7-3221</cite>.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"Harm reduction" means an activity, practice, program, service, support, or strategy that addresses both conditions that precede and occur as a result of substance use and attempts to reduce the adverse consequences of opioid and other substance use among persons who continue to use those substances.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>"Infrastructure" means the resources, such as personnel, buildings, or equipment, required for the District or another entity to provide evidence-based and evidence-informed harm reduction, prevention, recovery, and treatment activities, practices, programs, services, supports, and strategies to individuals with opioid use disorder and co-occurring substance use and mental health disorders.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>"Office" means the Office of Opioid Abatement established by <cite path="§7-3213">§ 7-3213</cite>.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>"Prevention" means primary, secondary, and tertiary efforts to help individuals avoid the development and progression of opioid use disorder and co-occurring substance use and mental health disorders and drug-related harms.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>"Recovery" means a process through which an individual develops a healthier life, which may include:</text>
+      <para>
+        <num>(A)</num>
+        <text>Improving the individual's quality of life, including the individual's physical and mental health;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The individual's consistent pursuit of abstinence from the substances or behaviors that have negatively impacted them, their family, and their community;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Relief of the individual's symptoms, including substance craving; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Improvement of the individual's relationships, social connectedness, and interpersonal skills.</text>
+      </para>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>"Treatment" means:</text>
+      <para>
+        <num>(A)</num>
+        <text>An evidence-based or evidence-informed activity, practice, program, service, support, or strategy to intervene upon, care for, manage, slow the progression of, or support recovery from opioid use disorder or co-occurring substance use or mental health disorders;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>That is individualized to address each individual's medical needs; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>That includes screening for and diagnosis of substance use disorders or co-occurring mental or physical health disorders, as well as pharmacological and non-pharmacological therapeutic interventions for opioid use disorder or co-occurring substance use or mental health disorders.</text>
+      </para>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§7-3211" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-3211">Applicability of <cite doc="D.C. Law 24-315" path="">D.C. Law 24-315</cite>: <cite doc="D.C. Law 24-315" path="§301">§ 301 of D.C. Law 24-315</cite> provided that the creation of this section by <cite doc="D.C. Law 24-315" path="§101">§ 101 of D.C. Law 24-315</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2023-03-10" doc="D.C. Law 24-315" eff="2023-03-10" path="I" type="History" display="false"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-315" eff="2023-03-10" path="§301|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-315" eff="2023-03-10" path="§101" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-315" path="§101" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-315" path="">D.C. Law 24-315</cite>: <cite doc="D.C. Law 24-315" path="§301">§ 301 of D.C. Law 24-315</cite> provided that the creation of this section by <cite doc="D.C. Law 24-315" path="§101">§ 101 of D.C. Law 24-315</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-03-10" doc="D.C. Law 24-315" eff="2023-03-10" path="§101" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-315" path="§101" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-315" path="">D.C. Law 24-315</cite>: <cite doc="D.C. Law 24-315" path="§301">§ 301 of D.C. Law 24-315</cite> provided that the creation of this section by <cite doc="D.C. Law 24-315" path="§101">§ 101 of D.C. Law 24-315</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 25-48" path="§8|(a)" type="Applicability" history="false" app="2023-08-29" eff="2023-08-29"><cite doc="D.C. Law 25-48" path="§8|(a)">Section 8(a) of D.C. Law 25-48</cite> repealed, on a temporary basis, <cite doc="D.C. Law 24-315" path="§301">section 301 of D.C. Law 24-315</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 101 of Law 24-315 has been implemented.
+        </annotation>
+    <annotation app="2023-08-29" doc="D.C. Law 25-48" eff="2023-08-29" path="§8|(a)" type="History" display="false"/>
   </annotations>
 </section>

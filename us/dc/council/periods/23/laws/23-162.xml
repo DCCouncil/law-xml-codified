@@ -27,7 +27,7 @@
     <para codify:path="(14)">
       <num>(a)</num>
       <text>Paragraph (14) is amended by striking the phrase "; or" and inserting a semicolon in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-1110.02|(b)|(14)">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-1110.02|(b)">
         <find>; or</find>
         <replace>;</replace>
       </codify:find-replace>
@@ -35,7 +35,7 @@
     <para codify:path="(15)">
       <num>(b)</num>
       <text>Paragraph (15) is amended by striking the period and inserting the phrase "; or" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-1110.02|(b)|(15)">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-1110.02|(b)">
         <find>.</find>
         <replace>; or</replace>
       </codify:find-replace>
@@ -45,7 +45,7 @@
       <text>A new paragraph (16) is added to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:insert codified:doc="D.C. Code" codified:path="§6-1110.02|(b)|(16)"/>
+          <codify:insert codified:doc="D.C. Code" codified:path="§6-1110.02|(b)"/>
           <num>(16)</num>
           <text>Bloomingdale Historic District.</text>
         </para>

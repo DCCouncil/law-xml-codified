@@ -36,7 +36,7 @@
     <para codify:path="(11)">
       <num>(b)</num>
       <text>Paragraph (11) is amended by striking the phrase "; or" and inserting a semicolon in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-1110.02|(b)|(11)">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-1110.02|(b)">
         <find>; or</find>
         <replace>;</replace>
       </codify:find-replace>
@@ -44,7 +44,7 @@
     <para codify:path="(12)">
       <num>(c)</num>
       <text>Paragraph (12) is amended by striking the period and inserting a semicolon in its place.</text>
-      <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§6-1110.02|(b)|(12)">
+      <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§6-1110.02|(b)">
         <find>.</find>
         <replace>;</replace>
       </codify:find-replace>
@@ -54,17 +54,17 @@
       <text>New paragraphs (13), (14), and (15) are added to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:insert after="(12)" codified:doc="D.C. Code" codified:path="§6-1110.02|(b)|(13)"/>
+          <codify:insert after="(12)" codified:doc="D.C. Code" codified:path="§6-1110.02|(b)"/>
           <num>(13)</num>
           <text>Emerald Street Historic District;</text>
         </para>
         <para>
-          <codify:insert after="(13)" codified:doc="D.C. Code" codified:path="§6-1110.02|(b)|(14)"/>
+          <codify:insert after="(13)" codified:doc="D.C. Code" codified:path="§6-1110.02|(b)"/>
           <num>(14)</num>
           <text>Kingman Park Historic District; or</text>
         </para>
         <para>
-          <codify:insert after="(14)" codified:doc="D.C. Code" codified:path="§6-1110.02|(b)|(15)"/>
+          <codify:insert after="(14)" codified:doc="D.C. Code" codified:path="§6-1110.02|(b)"/>
           <num>(15)</num>
           <text>Wardman Flats Historic Landmark.</text>
         </para>

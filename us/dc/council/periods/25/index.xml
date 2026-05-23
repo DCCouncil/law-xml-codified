@@ -5,6 +5,13 @@
     <heading>Permanent Laws</heading>
     <collection name="effective">
       <heading>Laws</heading>
+      <xi:include href="./laws/25-50.xml"/>
+      <xi:include href="./laws/25-49.xml"/>
+      <xi:include href="./laws/25-46.xml"/>
+      <xi:include href="./laws/25-36.xml"/>
+      <xi:include href="./laws/25-35.xml"/>
+      <xi:include href="./laws/25-34.xml"/>
+      <xi:include href="./laws/25-33.xml"/>
       <xi:include href="./laws/25-28.xml"/>
       <xi:include href="./laws/25-26.xml"/>
       <xi:include href="./laws/25-25.xml"/>
@@ -18,8 +25,6 @@
     </collection>
     <collection name="pending">
       <heading>Acts pending congressional review</heading>
-      <xi:include href="./acts/25-173.xml"/>
-      <xi:include href="./laws/25-81.xml"/>
     </collection>
   </collection>
   <collection name="emergency">
@@ -103,6 +108,8 @@
     <heading>Temporary Laws</heading>
     <collection name="effective">
       <heading>Laws</heading>
+      <xi:include href="./laws/25-51.xml"/>
+      <xi:include href="./laws/25-48.xml"/>
       <xi:include href="./laws/25-32.xml"/>
       <xi:include href="./laws/25-31.xml"/>
       <xi:include href="./laws/25-30.xml"/>

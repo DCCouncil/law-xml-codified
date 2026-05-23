@@ -1697,7 +1697,7 @@
       <section>
         <num>2112</num>
         <text>Section 6(c-1)(2)(A) of the Commission on the Arts and Humanities Act, effective October 21, 1975 (D.C. Law 1-22; D.C. Official Code § 39-205(c-1)(2)(A)), is amended by striking the phrase "Fiscal Years 2021 and 2022" and inserting the phrase "Fiscal Years 2021, 2022, and 2023" in its place.</text>
-        <codify:find-replace path="§39-205|(c-1)|(2)|(A)" count="1" codified:doc="D.C. Code" codified:path="§39-205|(c-1)|(2)|(A)">
+        <codify:find-replace path="§39-205|(c-1)|(2)|(A)" count="1" codified:doc="D.C. Code" codified:path="§39-205|(c-1)|(2)">
           <find>Fiscal Years 2021 and 2022</find>
           <replace>Fiscal Years 2021, 2022, and 2023</replace>
         </codify:find-replace>

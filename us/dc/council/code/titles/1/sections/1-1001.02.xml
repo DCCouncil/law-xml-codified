@@ -16,11 +16,11 @@
     </para>
     <para>
       <num>(B)</num>
-      <text>Is a citizen of the United States;</text>
+      <text>Is a citizen of the United States; except, that this subparagraph shall not apply in a local election;</text>
     </para>
     <para>
       <num>(C)</num>
-      <text>Has maintained a residence in the District for at least 30 days preceding the next election and does not claim voting residence or right to vote in any state or territory; and</text>
+      <text>Has maintained a residence in the District for at least 30 days preceding the next election and does not claim voting residence or right to vote in any state, territory, or country; and</text>
     </para>
     <para placeholder="Repealed">
       <num>(D)</num>
@@ -274,9 +274,37 @@
     <num>(33)</num>
     <text>The term "automatic voter registration agency" means an agency designated under <cite path="§1-1001.07|(c)|(1)">§ 1-1001.07(c)(1)</cite> to automatically register qualified electors to vote.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(34)</num>
-    <text>Not Funded.</text>
+    <text>The term "local election" means:</text>
+    <para>
+      <num>(A)</num>
+      <text>An election for:</text>
+      <para>
+        <num>(i)</num>
+        <text>Mayor;</text>
+      </para>
+      <para>
+        <num>(ii)</num>
+        <text>Chairman or member of the Council;</text>
+      </para>
+      <para>
+        <num>(iii)</num>
+        <text>Attorney General;</text>
+      </para>
+      <para>
+        <num>(iv)</num>
+        <text>Member of the State Board of Education; or</text>
+      </para>
+      <para>
+        <num>(v)</num>
+        <text>Advisory Neighborhood Commissioner; or</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>An initiative, referendum, recall, or charter amendment measure on a District ballot.</text>
+    </para>
   </para>
   <para>
     <num>(35)</num>
@@ -385,10 +413,9 @@
     <annotation app="2021-04-27" doc="D.C. Law 23-277" eff="2021-04-27" path="§2|(a)|(2)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-76" path="§201|(a)" codified:display="Note" app="2021-05-03" eff="2021-05-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-76" path="§201|(a)">§ 201(a) of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-76, May 3, 2021, 68 DCR 004935)</cite>.</annotation>
     <annotation app="2021-05-03" doc="D.C. Act 24-76" eff="2021-05-03" path="§201|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-242" eff="2023-02-23" path="§3|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-242" eff="2023-02-23" path="§2|(a)|(1)|(A)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-242" eff="2023-02-23" path="§2|(a)|(1)|(B)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-242" eff="2023-02-23" path="§2|(a)|(2)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-242" eff="2023-02-23" path="§2|(a)|(1)|(A)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-242" eff="2023-02-23" path="§2|(a)|(1)|(B)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-242" eff="2023-02-23" path="§2|(a)|(2)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-242" path="§2|(a)" codified:display="Note" app="2023-02-23" eff="2023-02-23">Applicability of <cite doc="D.C. Law 24-242" path="">D.C. Law 24-242</cite>: <cite doc="D.C. Law 24-242" path="§3">§ 3 of D.C. Law 24-242</cite> provided that the change made to this section by <cite doc="D.C. Law 24-242" path="§2|(a)">§ 2(a) of D.C. Law 24-242</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-02-23" doc="D.C. Law 24-242" eff="2023-02-23" path="§2|(a)" type="History"/>
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(b)|(1)" type="History"/>
@@ -398,5 +425,8 @@
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(b)|(5)" type="History"/>
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(b)|(6)" type="History"/>
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(b)|(7)" type="History"/>
+    <annotation doc="D.C. Law 25-50" path="§7084" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7084">Section 7084 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 24-242" path="§3">section 3 of D.C. Law 24-242</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 2(a) of Law 24-242 has been implemented.
+        </annotation>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7084" type="History" display="false"/>
   </annotations>
 </section>

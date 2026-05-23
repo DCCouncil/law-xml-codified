@@ -1,23 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>5-656</num>
-  <heading>Applicability.</heading>
+  <heading proof="needed">Applicability.</heading>
   <para>
     <num>(a)</num>
-    <text>Except as provided in subsections (b) and (c) of this section, this subtitle shall apply as of October 1, 2016.</text>
+    <text>Except as provided in subsections (b), (c), (d), and (e) of this section, <cite path="5|6A|II">this subchapter</cite> shall apply as of October 1, 2016.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text><cite path="§5-654">Section 5-654</cite> shall apply as of October 1, 2017.</text>
+    <text>Section <cite path="§5-654">5-654</cite> shall apply as of October 1, 2017.</text>
   </para>
   <para>
     <num>(c)</num>
-    <text><cite path="§5-652">Section 5-652</cite> shall apply as of October 1, 2018.</text>
+    <text>Section <cite path="§5-652">5-652</cite> shall apply as of October 1, 2018.</text>
   </para>
-  <codify:annotation doc="D.C. Code" path="§5-652" history="false" type="Applicability" codified:doc="D.C. Code" codified:path="§5-652"><cite doc="D.C. Law 22-33" path="§7007">Section 7007 of Law 22-33</cite> amended section 656 of D.C. Law 19-311, retaining the applicability restriction affecting this section, therefore the creation of this section by <cite doc="D.C. Law 19-311" path="§2">§ 2 of D.C. Law 19-311</cite> has not been implemented. 
-            </codify:annotation>
-  <codify:annotation doc="D.C. Code" path="§5-654" history="false" type="Applicability" codified:doc="D.C. Code" codified:path="§5-654"><cite doc="D.C. Law 22-33" path="§7007">Section 7007 of Law 22-33</cite> amended section 656 of D.C. Law 19-311, removing the applicability restriction affecting this section, therefore the creation of this section by <cite doc="D.C. Law 19-311" path="§2">§ 2 of D.C. Law 19-311</cite> has been implemented. 
-            </codify:annotation>
+  <para>
+    <num>(d)</num>
+    <text>Section <cite path="§5-653|(a)|(1)|(B)">5-653|(a)|(1)|(B)</cite> and <cite path="§5-653|(b)|(1)|(B)">(b)(1)(B)</cite> shall apply as of October 1, 2023.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>Section <cite path="§5-653|(a)|(1)|(C)">5-653|(a)|(1)|(C)</cite> and <cite path="§5-653|(b)|(1)|(C)">(b)(1)(C)</cite> shall apply as of October 1, 2027.</text>
+  </para>
   <annotations>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-311">D.C. Law 19-311</cite> added this section.</annotation>
     <annotation app="2004-09-30" doc="D.C. Law 15-194" eff="2004-09-30" path="VI" type="History" display="false"/>
@@ -35,5 +39,6 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§7013" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-458" path="§7013">§ 7013 of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
     <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§7013" type="History" display="false"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7013" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§3002|(b)" type="History"/>
   </annotations>
 </section>
