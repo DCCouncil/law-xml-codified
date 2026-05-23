@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-309.06</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on May 4, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-309.06(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Advisory Neighborhood Commissions — Election of members; term of office; vacancies; change in residency; resignation; removal.</heading>
   <para>
     <num>(a)</num>
@@ -67,7 +70,14 @@
       </para>
       <para>
         <num>(E)</num>
-        <text>If the Board transmits a list of qualified candidates containing more than one name, the affected Advisory Neighborhood Commission shall give notice at a public meeting that at the next regularly scheduled or special meeting there shall be an open vote of the qualified registered electors of the affected single-member district to elect a Commissioner. All registered qualified electors shall display their voter identification card or, alternatively, be listed as a voter in the affected single-member district on the voter registration list provided by the Board. The ballots shall be counted by at least 2 impartial vote counters. The results shall be read aloud by the Chairperson of the Advisory Neighborhood Commission, or alternatively, by such Commissioners as the Chairperson shall designate. In the event that the Chairperson is vacant, the results shall be read aloud by the Commissioner presiding over the meeting.</text>
+        <para>
+          <num>(i)</num>
+          <text>If the Board transmits a list of qualified candidates containing more than one name, the affected Advisory Neighborhood Commission shall give notice at a public meeting of a time and location, to be determined in consultation with the OANC, at which the qualified registered electors of the affected single-member district shall vote to elect a Commissioner. At the location selected, the affected Advisory Neighborhood Commission, in consultation with the OANC, shall make in-person voting available to qualified registered electors during at least a 4-hour time period. To vote, all qualified registered electors shall display their voter identification card or, alternatively, be listed as a voter in the affected single-member district on the Board's voter registration list. Ballot counting shall be facilitated by at least 2 representatives of the OANC, and the results shall be read aloud at the conclusion of the selected time period by the Chairperson of the Advisory Neighborhood Commission, by such Commissioner as the Chairperson shall designate, or in the event that the Office of the Chairperson is vacant or there are no Commissioners present, by the presiding Commissioner at the next regularly scheduled meeting of the Commission; and</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Notwithstanding sub-subparagraph (i) of this subparagraph, if the affected single-member district contains the Central Detention Facility and Correctional Treatment Facility, the affected Advisory Neighborhood Commission, in consultation with the OANC, shall make in-person voting available to qualified registered electors within the single-member district who are not in the care and custody of the Department of Corrections, and the Department of Corrections, in consultation with the affected Advisory Neighborhood Commission and the OANC, shall make voting available to qualified registered electors in its care and custody, including by distributing ballots to qualified registered electors listed as voters in the affected single-member district on the voter registration list provided by the Board, collecting the ballots, and transmitting the ballots to the Board for counting and transmission of the results to the OANC and the affected Advisory neighborhood Commission.</text>
+        </para>
       </para>
       <para>
         <num>(F)</num>
@@ -234,7 +244,10 @@
     <annotation app="2021-10-20" doc="D.C. Act 24-179" eff="2021-10-20" path="§2|(b)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-233" path="§2" codified:display="Note" app="2021-12-13" eff="2021-12-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-233" path="§2">§ 2 of Advisory Neighborhood Commission Pandemic Election Procedures Extension Clarification Emergency Amendment Act of 2021 (D.C. Act 24-233, Dec. 13, 2021, 68 DCR 013251)</cite>.</annotation>
     <annotation app="2021-12-13" doc="D.C. Act 24-233" eff="2021-12-13" path="§2" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-310" path="§2" codified:display="Note" app="2022-01-24" eff="2022-01-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-310" path="§2">§ 2 of Advisory Neighborhood Commission Pandemic Election Procedures Extension Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-310, Jan. 24, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-310" path="§2" codified:display="Note" app="2022-01-24" eff="2022-01-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-310" path="§2">§ 2 of Advisory Neighborhood Commission Pandemic Election Procedures Extension Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-310, Jan. 24, 2022, 69 DCR 000645)</cite>.</annotation>
     <annotation app="2022-01-24" doc="D.C. Act 24-310" eff="2022-01-24" path="§2" type="History" display="false"/>
+    <annotation app="2022-02-03" doc="D.C. Act 24-316" eff="2022-02-03" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2022-02-03" doc="D.C. Act 24-316" eff="2022-02-03" path="§2|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-316" path="§2|(b)" codified:display="Note" app="2022-02-03" eff="2022-02-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-316" path="§2|(b)">§ 2(b) of Advisory Neighborhood Commissions Pandemic Provisions Extension Emergency Amendment Act of 2022 (D.C. Act 24-316, Feb. 3, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

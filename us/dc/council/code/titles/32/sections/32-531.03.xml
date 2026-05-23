@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-531.03</num>
   <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on February 3, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§32-531.03(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on May 4, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§32-531.03(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Notification.</heading>
   <para>
@@ -11,7 +11,7 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>An employer may not require an employee who seeks to use paid leave pursuant to section 3a to:</text>
+    <text>An employer may not require an employee who seeks to use paid leave pursuant to § 32-531.02a [Expired] to:</text>
     <para>
       <num>(1)</num>
       <text>For any reason, provide more than 48 hours' notice of the need to use such leave;</text>
@@ -24,6 +24,10 @@
       <num>(3)</num>
       <text>Search for or identify another employee to perform the work hours or work of the employee using paid leave.</text>
     </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>An employer may not require an employee who seeks to use paid leave pursuant to <cite path="§[32-531.02a]">§ [32-531.02a]</cite> to search for or identify another employee to perform the work hours or work of the employee using the paid leave.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 17-152" type="History" path="§4">May 13, 2008, D.C. Law 17-152, § 4, 55 DCR 3452</annotation>
@@ -43,9 +47,11 @@
     <annotation app="2021-06-07" doc="D.C. Act 24-96" eff="2021-06-07" path="§105|(a)|(3)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-9" path="§105|(a)|(3)" codified:display="Note" app="2021-06-24" eff="2021-06-24">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-9" path="§105|(a)|(3)">§ 105(a)(3) of Coronavirus Support Temporary Amendment Act of 2021 (D.C. Law 24-9, June 24, 2021, 68 DCR 004824)</cite>.</annotation>
     <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§105|(a)|(3)" type="History" display="false"/>
-    <annotation app="2021-11-05" doc="D.C. Act 24-209" eff="2021-11-05" path="§2|(c)" type="History" display="false"/>
-    <annotation app="2021-11-05" doc="D.C. Act 24-209" eff="2021-11-05" path="§2|(c)|(1)" type="History"/>
-    <annotation app="2021-11-05" doc="D.C. Act 24-209" eff="2021-11-05" path="§2|(c)|(2)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-209" path="§2|(c)" codified:display="Note" app="2021-11-05" eff="2021-11-05">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-209" path="§2|(c)">§ 2(c) of COVID Vaccination Leave Emergency Amendment Act of 2021 (D.C. Act 24-209, Nov. 5, 2021, 68 DCR 012355)</cite>.</annotation>
+    <annotation app="2021-11-05" doc="D.C. Act 24-209" eff="2021-11-05" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2022-02-03" doc="D.C. Act 24-319" eff="2022-02-03" path="§2|[(c-1)]" type="History" display="false"/>
+    <annotation app="2022-02-03" doc="D.C. Act 24-319" eff="2022-02-03" path="§2|[(c-1)]|(1)" type="History"/>
+    <annotation app="2022-02-03" doc="D.C. Act 24-319" eff="2022-02-03" path="§2|[(c-1)]|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-319" path="§2|[(c-1)]" codified:display="Note" app="2022-02-03" eff="2022-02-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-319" path="§2|[(c-1)]">§ 2[(c-1)] of COVID Vaccination Leave Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-319, Feb. 3, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
