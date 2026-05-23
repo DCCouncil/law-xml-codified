@@ -319,8 +319,13 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:not-funded-anno doc="D.C. Code" path="§34-306" applicability-path="§7" action="creation of subsections (b) and (c) of § 34-131" display-template="" codified:doc="D.C. Code" codified:path="§34-306" codified:display="Note"/>
-      <codify:emergency doc="D.C. Code" path="§34-306" action="creation of Chapter 3A of this title" codified:doc="D.C. Code" codified:path="§34-306" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§34-131" interim-path="§34-306" perm-eff="2021-11-01" codified:doc="D.C. Code" codified:path="§34-131" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§34-132" interim-path="§34-306" perm-eff="2021-11-01" codified:doc="D.C. Code" codified:path="§34-132" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§34-133" interim-path="§34-306" perm-eff="2021-11-01" codified:doc="D.C. Code" codified:path="§34-133" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§34-134" interim-path="§34-306" perm-eff="2021-11-01" codified:doc="D.C. Code" codified:path="§34-134" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§34-135" interim-path="§34-306" perm-eff="2021-11-01" codified:doc="D.C. Code" codified:path="§34-135" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§34-136" interim-path="§34-306" perm-eff="2021-11-01" codified:doc="D.C. Code" codified:path="§34-136" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§34-137" interim-path="§34-306" perm-eff="2021-11-01" codified:doc="D.C. Code" codified:path="§34-137" codified:display="Note"/>
     </para>
     <para codify:path="§34-1151">
       <num>(l)</num>
@@ -711,7 +716,7 @@
         <text>DC Healthcare Alliance.</text>
       </para>
     </para>
-    <codify:emergency doc="D.C. Code" path="§42-3405.13" action="creation of Chapter 34A of this title" codified:doc="D.C. Code" codified:path="§42-3405.13" codified:display="Note"/>
+    <codify:emergency-new-sec doc="D.C. Code" path="§42-3411.01" interim-path="§42-101" perm-eff="2021-11-01" codified:doc="D.C. Code" codified:path="§42-3411.01" codified:display="Note"/>
   </section>
   <section codify:doc="D.C. Code">
     <num>5</num>
