@@ -7905,7 +7905,7 @@
             <para codify:path="text">
               <num>(A)</num>
               <text>The lead-in language is amended by striking the phrase "subsection (a-4)" and inserting the phrase "subsections (a-4) and (a-5)" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-1103|(a)|(1)">
+              <codify:find-replace count="1">
                 <find>subsection (a-4)</find>
                 <replace>subsections (a-4) and (a-5)</replace>
               </codify:find-replace>
@@ -7913,7 +7913,7 @@
             <para codify:path="(A)">
               <num>(B)</num>
               <text>Subparagraph (A) is amended by striking the phrase "subsection (a-4)" and inserting the phrase "subsections (a-4) and (a-5)" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-1103|(a)|(1)|(A)">
+              <codify:find-replace count="1">
                 <find>subsection (a-4)</find>
                 <replace>subsections (a-4) and (a-5)</replace>
               </codify:find-replace>
@@ -7922,7 +7922,7 @@
           <para codify:path="(2)">
             <num>(2)</num>
             <text>Paragraph (2) is amended by striking the phrase "shall be 2.2%." and inserting the phrase "shall be 2.2%; provided further, that, beginning October 1, 2019, at the time it is submitted for recordation, a deed that evidences a transfer of an economic interest in real property any part of which is classified as Class 2 Property under D.C. Official Code § 47-813 (except for a deed solely transferring an economic interest relating to a residential unit within a cooperative housing association), shall be taxed at the rate of 5.0% of the consideration allocable to the real property if the value of the consideration allocable to the real property is $2 million or more; provided further, that for the purposes of the foregoing provision, a deed shall be considered to evidence a transfer of an economic interest in Class 2 Property if any portion of the building or structure in which the interest in real property being transferred by the deed is located is classified as Class 2 Property, regardless of whether that portion is transferred in the deed, if, prior to the execution of the deed, the majority ownership of the economic interest being transferred by the deed and a portion of the building or structure that is classified as Class 2 Property was common (whether direct or indirect).".</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-1103|(a)|(2)">
+            <codify:find-replace count="1">
               <find>shall be 2.2%.</find>
               <replace>shall be 2.2%; provided further, that, beginning October 1, 2019, at the time it is submitted for recordation, a deed that evidences a transfer of an economic interest in real property any part of which is classified as Class 2 Property under <code-cite doc="D.C. Code" path="§47-813">D.C. Official Code § 47-813</code-cite> (except for a deed solely transferring an economic interest relating to a residential unit within a cooperative housing association), shall be taxed at the rate of 5.0% of the consideration allocable to the real property if the value of the consideration allocable to the real property is $2 million or more; provided further, that for the purposes of the foregoing provision, a deed shall be considered to evidence a transfer of an economic interest in Class 2 Property if any portion of the building or structure in which the interest in real property being transferred by the deed is located is classified as Class 2 Property, regardless of whether that portion is transferred in the deed, if, prior to the execution of the deed, the majority ownership of the economic interest being transferred by the deed and a portion of the building or structure that is classified as Class 2 Property was common (whether direct or indirect).</replace>
             </codify:find-replace>
@@ -7930,7 +7930,7 @@
           <para codify:path="(3)|(A)">
             <num>(3)</num>
             <text>Paragraph (3)(A) is amended by striking the phrase "subsection (a-4)" and inserting the phrase "subsections (a-4) and (a-5)" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-1103|(a)|(3)|(A)">
+            <codify:find-replace count="1">
               <find>subsection (a-4)</find>
               <replace>subsections (a-4) and (a-5)</replace>
             </codify:find-replace>
@@ -7939,7 +7939,7 @@
         <para codify:path="(a-4)">
           <num>(b)</num>
           <text>Subsection (a-4) is amended by striking the phrase "of this section.  Of the funds collected under this subsection, 15% shall be deposited in the Housing Production Trust Fund established by section 3 of the Housing Production Fund Act of 1988, effective March 18, 1989 (D.C. Law 7-202; D.C. Official Code § 42-2802), and the remainder shall be deposited in the General Fund of the District of Columbia" and inserting the phrase "of this section" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-1103|(a-4)">
+          <codify:find-replace count="1">
             <find>of this section. Of the funds collected under this subsection, 15% shall be deposited in the Housing Production Trust Fund established by <cite path="§42-2802">§ 42-2802</cite>, and the remainder shall be deposited in the General Fund of the District of Columbia.</find>
             <replace>of this section.</replace>
           </codify:find-replace>
@@ -7949,7 +7949,7 @@
           <text>A new subsection (a-5) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(a-4)" codified:doc="D.C. Code" codified:path="§42-1103|(a-5)"/>
+              <codify:insert after="(a-4)"/>
               <num>(a-5)</num>
               <para>
                 <num>(1)</num>
@@ -7997,7 +7997,7 @@
         <para codify:path="(e)|(1)">
           <num>(d)</num>
           <text>Subsection (e)(1) is amended by striking the phrase "(a) and (a-4)" and inserting the phrase "(a), (a-4), and (a-5)" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-1103|(e)|(1)">
+          <codify:find-replace count="1">
             <find>(a) and (a-4)</find>
             <replace>(a), (a-4), and (a-5)</replace>
           </codify:find-replace>
@@ -8007,7 +8007,7 @@
           <text>A new subsection (h) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§42-1103|(h)"/>
+              <codify:insert/>
               <num>(h)</num>
               <text>Of the funds collected under this section, 15% shall be deposited in the Housing Production Trust Fund established by <code-cite doc="D.C. Code" path="§42-2802">section 3 of the Housing Production Trust Fund Act of 1988, effective March 16, 1989 (D.C. Law 7-202; D.C. Official Code § 42-2802),</code-cite> and the remainder shall be deposited in the General Fund of the District of Columbia.</text>
             </para>
@@ -8021,7 +8021,7 @@
         <para codify:path="(a-4)">
           <num>(a)</num>
           <text>Subsection (a-4) is amended by striking the phrase "of this section.  Of the funds collected under this subsection, 15% shall be deposited in§ 42-2802 and the remainder shall be deposited in the General Fund of the District of Columbia" and inserting the phrase "of this section" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-903|(a-4)">
+          <codify:find-replace count="1">
             <find>of this section. Of the funds collected under this subsection, 15% shall be Deposited in <cite path="§42-2802">§ 42-2802</cite> and the remainder shall be deposited in the General Fund of the District of Columbia.</find>
             <replace>of this section.</replace>
           </codify:find-replace>
@@ -8031,7 +8031,7 @@
           <text>A new subsection (a-6) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(a-5)" codified:doc="D.C. Code" codified:path="§47-903|(a-6)"/>
+              <codify:insert after="(a-5)"/>
               <num>(a-6)</num>
               <para>
                 <num>(1)</num>
@@ -8058,7 +8058,7 @@
           <text>A new subsection (f) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§47-903|(f)"/>
+              <codify:insert/>
               <num>(f)</num>
               <text>Of the funds collected under this section, 15% shall be deposited in the Housing Production Trust Fund established by <cite doc="D.C. Code" path="§42-2802">§ 42-2802</cite> and the remainder shall be deposited in the General Fund of the District of Columbia.</text>
             </para>
@@ -8070,6 +8070,8 @@
         <num>7024</num>
         <heading>Sunset.</heading>
         <text>This subtitle shall expire on September 30, 2023.</text>
+        <codify:expire doc="D.C. Law 23-16" path="§7022" date="2023-09-30" history="false" codified:doc="D.C. Code" codified:path="§42-1103|(a)|(1)"/>
+        <codify:expire doc="D.C. Law 23-16" path="§7023" date="2023-09-30" history="false" codified:doc="D.C. Code" codified:path="§47-903|(a-4)"/>
         <codify:annotation doc="D.C. Code" path="§42-1103" type="Expiration of Law" history="false" codified:doc="D.C. Code" codified:path="§42-1103"><cite doc="D.C. Law 23-16" path="§7024">Section 7024 of D.C. Law 23-16</cite> provided that the changes to this section made by <cite doc="D.C. Law 23-16" path="§7022">section 7022 of D.C. Law 23-16</cite> shall expire on September 30, 2023.
         </codify:annotation>
         <codify:annotation doc="D.C. Code" path="§47-903" type="Expiration of Law" history="false" codified:doc="D.C. Code" codified:path="§47-903"><cite doc="D.C. Law 23-16" path="§7024">Section 7024 of D.C. Law 23-16</cite> provided that the changes to this section made by <cite doc="D.C. Law 23-16" path="§7023">section 7023 of D.C. Law 23-16</cite> shall expire on September 30, 2023.
