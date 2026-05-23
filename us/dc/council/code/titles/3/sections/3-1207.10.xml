@@ -1,37 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>3-1207.10</num>
-  <heading>Qualifications for licensure.</heading>
+  <heading proof="needed">Qualifications for licensure.</heading>
   <para>
     <num>(a)</num>
-    <text>The Board of Professional Counseling shall license as a professional counselor a person who, in addition to meeting the requirements of <cite path="3|12|V">subchapter V of this chapter</cite>, has satisfactorily completed the examination process, has completed 60 hours of postgraduate education in counseling or a related subject from an accredited college or university, and has completed 2 years of supervised counseling experience.</text>
+    <text>The Board of Professional Counseling shall license as a professional counselor a person who, in addition to meeting the requirements of Title V and any requirements the Mayor may establish by rule, has satisfactorily passed the national examination adopted by the Board, possesses a master's degree in counseling or a related subject from an accredited college or university consisting of at least 60 hours of postgraduate education, and has completed 2 years of supervised counseling experience.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>The Board of Professional Counseling shall license as a graduate professional counselor a person who, in addition to meeting the requirements of <cite path="3|12|V">subchapter V of this chapter</cite> [<cite path="§3-1205.01">§3-1205.01</cite> et seq.], has satisfactorily completed the examination process and has completed 48 hours of graduate education leading to a Master’s degree in counseling or a related subject from an accredited college or university.</text>
+    <text>The Board of Professional Counseling shall license as a graduate professional counselor a person who, in addition to meeting the requirements of Title V and any requirements the Mayor may establish by rule, has satisfactorily completed the national examination adopted by the Board and possesses a master's degree in counseling or a related subject from an accredited college or university, consisting of at least 48 hours of graduate education.</text>
   </para>
   <para>
     <num>(c)</num>
-    <text>The Board of Professional Counseling shall license, by endorsement, a professional counselor who, in addition to meeting the requirements of <cite path="3|12|V">subchapter V of this chapter</cite> [<cite path="§3-1205.01">§3-1205.01</cite> et seq.],, is currently licensed in another state and meets the American Association of State Counseling Boards Tier II requirements, which consist of:</text>
+    <text>The Board of Professional Counseling may license, by endorsement, a professional counselor who, in addition to meeting the requirements of Title V and any requirements the Mayor may establish by rule, is currently licensed in another state in good standing and has:</text>
     <para>
       <num>(1)</num>
-      <text>Completion of at least 60 hours of postgraduate education leading to a Master’s degree in counseling or a related field obtained from an institution of higher education that is regionally accredited by an accrediting body recognized by the U.S. Department of Education;</text>
+      <text>Engaged in independent professional counseling practice providing clinical counseling for at least 5 years pursuant to such license; or</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Supervision by another person, which shall consist of at least 2 years of post-Master’s counseling experience with a minimum of 4,000 hours;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Having 2,500 hours of direct client contact within the 4,000 hours;</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>A minimum of 100 hours of clinical supervision, post-Master’s, of which 50 hours may be in group supervision; and</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>Five years of post-licensure experience in clinical counseling at the independent level.</text>
+      <text>Held an independent professional counseling license for at least 3 years and possesses the National Certified Counseling credential issued by the National Board of Certified Counselors.</text>
     </para>
   </para>
   <annotations>
@@ -40,5 +28,6 @@
     <annotation doc="D.C. Law 18-13" type="History">July 7, 2009, D.C. Law 18-13, § 2(d), 56 DCR 3608</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-13">D.C. Law 18-13</cite> designated subsec. (a); and added subsecs. (b) and (c).</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 2-3307.10.</annotation>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(eee)" type="History"/>
   </annotations>
 </section>

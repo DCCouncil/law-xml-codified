@@ -87,9 +87,9 @@
         <para>
           <num>(A)</num>
           <text>Existing paragraph (1C) is redesignated as paragraph (1).</text>
-          <codify:find-replace path="(1C)|num" count="1" codified:doc="D.C. Code" codified:path="§3-1201.01|[(1E)]">
+          <codify:find-replace path="(1C)" count="1" codified:doc="D.C. Code" codified:path="§3-1201.01|(1E)">
             <find>(1C)</find>
-            <replace>[(1E)]</replace>
+            <replace>(1E)</replace>
           </codify:find-replace>
         </para>
         <para codify:path="(a)">
@@ -97,32 +97,32 @@
           <text>New paragraphs (1C), (1D), (1E), (1F), (1G), and (1H) are added to read as follows:</text>
           <include lvl="2">
             <para>
-              <codify:insert after="(1B)" num-value="[(1D)]" codified:doc="D.C. Code" codified:path="§3-1201.01|[(1D)]"/>
+              <codify:insert after="(1B)" num-value="[(1D)]" codified:doc="D.C. Code" codified:path="§3-1201.01|(1D)"/>
               <num>(1D)</num>
               <text>"Certified professional midwife" or "CPM" means a person licensed in the District under <code-cite doc="D.C. Code" path="3|12">this act</code-cite> to practice certified professional midwifery who holds a valid certification from the North American Registry of Midwives.</text>
             </para>
             <para>
-              <codify:insert after="(1B)" num-value="[(1C)]" codified:doc="D.C. Code" codified:path="§3-1201.01|[(1C)]"/>
+              <codify:insert after="(1B)" num-value="[(1C)]" codified:doc="D.C. Code" codified:path="§3-1201.01|(1C)"/>
               <num>(1C)</num>
               <text>"Certified nurse-midwife" means a qualified registered nurse who holds a valid certification from the American Midwifery Certification Board.</text>
             </para>
             <para>
-              <codify:insert after="(10)" num-value="[(10A)]" codified:doc="D.C. Code" codified:path="§3-1201.01|[(10A)]"/>
+              <codify:insert after="(10)" num-value="[(10A)]" codified:doc="D.C. Code" codified:path="§3-1201.01|(10A)"/>
               <num>(1E)</num>
               <text>"MBC" means a Midwifery Bridget certificate issued by the North American Registry of Midwives that documents completion of accredited continuing education for Certified Professional Midwives based upon identified areas to address education in emergency skills and other competencies set by the International Confederation of Midwives.</text>
             </para>
             <para>
-              <codify:insert after="[(10A)]" num-value="[(10B)]" codified:doc="D.C. Code" codified:path="§3-1201.01|[(10B)]"/>
+              <codify:insert after="[(10A)]" num-value="[(10B)]" codified:doc="D.C. Code" codified:path="§3-1201.01|(10B)"/>
               <num>(1F)</num>
               <text>"MEAC" means the Midwifery Education Accreditation Council, the U.S. Department of Education-recognized commission that provides accreditation for programs and institutions that meet the International Confederation of Midwives competencies and the North American Registry of Midwives skills and standards for midwifery practice.</text>
             </para>
             <para>
-              <codify:insert after="[(10B)]" num-value="[(10C)]" codified:doc="D.C. Code" codified:path="§3-1201.01|[(10C)]"/>
+              <codify:insert after="[(10B)]" num-value="[(10C)]" codified:doc="D.C. Code" codified:path="§3-1201.01|(10C)"/>
               <num>(1G)</num>
               <text>"National Association of Certified Professional Midwives" or "NACPM" means the national professional and standard setting association specific to Certified Professional Midwives.</text>
             </para>
             <para>
-              <codify:insert after="[(10C)]" num-value="[(10D)]" codified:doc="D.C. Code" codified:path="§3-1201.01|[(10D)]"/>
+              <codify:insert after="[(10C)]" num-value="[(10D)]" codified:doc="D.C. Code" codified:path="§3-1201.01|(10D)"/>
               <num>(1H)</num>
               <text>"Patient-client" means a person under the care of a midwife and such person's fetus or newborn.</text>
             </para>
@@ -740,7 +740,7 @@
     <num>5</num>
     <heading>Rules.</heading>
     <text>The Mayor, pursuant to the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>), shall issue rules to implement the provisions of this act.</text>
-    <codify:annotation doc="D.C. Law 23-97" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§3-1201.01|[(1C)]"><cite doc="D.C. Act" path="§5">Section 5 of D.C. Law 23-97</cite> provided that the Mayor, pursuant to <code-cite doc="D.C. Code" path="2|5">the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, shall issue rules to implement the provisions of D.C. Law 23-97.
+    <codify:annotation doc="D.C. Law 23-97" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§3-1201.01|(1C)"><cite doc="D.C. Act" path="§5">Section 5 of D.C. Law 23-97</cite> provided that the Mayor, pursuant to <code-cite doc="D.C. Code" path="2|5">the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, shall issue rules to implement the provisions of D.C. Law 23-97.
     </codify:annotation>
   </section>
   <section>

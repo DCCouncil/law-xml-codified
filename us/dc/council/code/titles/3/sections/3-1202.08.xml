@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>3-1202.08</num>
-  <heading>Board of Pharmacy and Advisory Committee on Clinical Laboratory Practitioners.</heading>
+  <heading>Board of Pharmacy.</heading>
   <para>
     <num>(a)</num>
     <text>There is established a Board of Pharmacy to consist of 7 members appointed by the Mayor.</text>
@@ -10,11 +10,11 @@
     <num>(b)</num>
     <para>
       <num>(1)</num>
-      <text>The Board shall regulate the practice of pharmacy, the practice of pharmaceutical detailing, the practice of pharmacy technicians, and the practice of clinical laboratory practitioners with guidelines approved by the Advisory Committee on Clinical Laboratory Practitioners.</text>
+      <text>The Board shall regulate the practice of pharmacy, the practice of pharmaceutical detailing, and the practice of pharmacy technicians.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(1A)</num>
-      <text>The Board shall administer the examination required for cytotechnologists, histologic technicians, histotechnologists, medical laboratory technicians, and medical technologists.</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -31,7 +31,7 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>Of the members of the Board, 5 shall be pharmacists licensed in the District and 2 shall be consumer members.</text>
+    <text>Of the members of the Board, 5 shall be pharmacists licensed in the District and 2 shall be consumer members; except, that from July 19. 2024, of the members of the Board, 5 shall be pharmacists licensed in the District, one shall be a pharmacy technician registered in the District, and one shall be a consumer member.</text>
   </para>
   <para>
     <num>(d)</num>
@@ -43,11 +43,11 @@
   </para>
   <para>
     <num>(f)</num>
-    <text>An individual licensed to practice pharmacy pursuant to this chapter may administer immunizations and vaccinations only if certified to do so by the Board and only pursuant to a written protocol and valid prescription or standing order of a physician.</text>
+    <text>An individual licensed to practice pharmacy pursuant to this chapter may administer immunizations and vaccinations only if certified to do so by the Board.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(g)</num>
-    <text>The Board and the Board of Medicine shall jointly develop and promulgate regulations to implement and regulate the administration of vaccinations and immunizations by pharmacists and to authorize pharmacists certified to administer vaccinations and immunizations to administer emergency anaphylactic reaction treatment pursuant to an approved physician-pharmacist protocol.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(g-1)</num>
@@ -139,37 +139,25 @@
       </para>
     </para>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(i)</num>
-    <text>There is established an Advisory Committee on Clinical Laboratory Practitioners, which shall consist of 5 members appointed by the Mayor.</text>
+    <text>Repealed.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(j)</num>
-    <text>The Advisory Committee on Clinical Laboratory Practitioners shall develop and submit to the Board guidelines for the licensure of cytotechnologists, histologic technicians, histotechnologists, medical laboratory technicians, medical technologists, and the registration of phlebotomists.</text>
+    <text>Repealed.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(k)</num>
-    <text>Of the members of the Advisory Committee on Clinical Laboratory Practitioners, one shall be a pathologist certified by the American Board of Pathology or the American Board of Osteopathic Pathology; one shall be a medical technologist and supervisor; one shall be a medical technologist who is not a supervisor; one shall be a medical laboratory technician; and one shall be a consumer member with no direct affiliation with clinical laboratory practitioners or another health profession. Of the members of the Advisory Committee on Clinical Laboratory Practitioners, one shall be a pathologist certified by the American Board of Pathology or the American Board of Osteopathic Pathology; one shall be a medical technologist and supervisor; one shall be a medical technologist who is not a supervisor; one shall be a medical laboratory technician; and one shall be a consumer member with no direct affiliation with clinical laboratory practitioners or another health profession.</text>
+    <text>Repealed.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(l)</num>
-    <text>The qualifications for the professional members of the Advisory Committee on Clinical Laboratory Practitioners shall be as follows:</text>
-    <para>
-      <num>(1)</num>
-      <text>The pathologist, for at least 3 years preceding appointment, shall have been actively engaged as a pathologist in rendering professional services in pathology or in the education and training of medical personnel in pathology.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The medical technologist, for at least 3 years preceding the appointment, shall have been actively engaged as a medical technologist in rendering professional services in medical technology or in the education and training of medical technologists.</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>The medical laboratory technician, for at least 3 years preceding the appointment, shall have been actively engaged as a medical laboratory technician in rendering professional services as a medical technician.</text>
-    </para>
+    <text>Repealed.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(m)</num>
-    <text>The initial appointees of the Advisory Committee on Clinical Laboratory Practitioners, with the exception of the pathologist and the consumer representative, shall become licensed in the profession in which they have been practicing immediately upon their appointment and qualification as members of the Advisory Committee on Clinical Laboratory Practitioners.</text>
+    <text>Repealed.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 6-99" type="History" path="§208">Mar. 25, 1986, D.C. Law 6-99, § 208, 33 DCR 729</annotation>
@@ -211,5 +199,11 @@
     <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§3|(x)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-39" path="§3|(x)" codified:display="Note" app="2021-10-27" eff="2021-10-27">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-39" path="§3|(x)">§ 3(x) of Public Emergency Extension and Eviction and Utility Moratorium Phasing Temporary Amendment Act of 2021 (D.C. Law 24-39, Oct. 27, 2021, 68 DCR 009487)</cite>.</annotation>
     <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="§3|(x)" type="History" display="false"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(k)|(1)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(k)|(2)|(A)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(k)|(2)|(B)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(k)|(3)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(k)|(4)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(k)|(5)" type="History"/>
   </annotations>
 </section>

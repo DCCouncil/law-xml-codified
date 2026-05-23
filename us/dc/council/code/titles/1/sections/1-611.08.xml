@@ -125,9 +125,9 @@
       <num>(6)</num>
       <text>Each member of an advisory panel appointed pursuant to <cite path="§39-204|(6)">§ 39-204(6)</cite> may receive compensation from the Commission in the form of a stipend of up to $250 for each day the panel convenes to review applications[;]</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(7)</num>
-      <text>Each member of the Concealed Pistol Licensing Review Board, except members who are District or federal government employees, shall be entitled to a stipend of $250 per week for their service on the board[; and]</text>
+      <text>Repealed.</text>
       <codify:find-replace path="(6)" count="1" codified:doc="D.C. Code" codified:path="§1-611.08|(c-2)|(6)">
         <find>; and</find>
         <replace>[;]</replace>
@@ -314,5 +314,12 @@
     <annotation app="2023-10-05" doc="D.C. Law 25-63" eff="2023-10-05" path="§5" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-231" path="§5" codified:display="Note" app="2023-10-11" eff="2023-10-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-231" path="§5">§ 5 of Office of Administrative Hearings Jurisdiction Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-231, Oct. 11, 2023, 70 DCR 13773)</cite>.</annotation>
     <annotation app="2023-10-11" doc="D.C. Act 25-231" eff="2023-10-11" path="§5" type="History" display="false"/>
+    <annotation app="2024-07-26" doc="D.C. Law 25-199" eff="2024-07-26" path="§5" type="History"/>
+    <annotation doc="D.C. Law 25-199" path="§6" type="Editor's Notes" history="false" app="2024-07-26" eff="2024-07-26"><cite doc="D.C. Law 25-199" path="§6">Section 6 of D.C. Law 25-199</cite> provided that the Mayor shall provide for the orderly transfer of all records of pending and adjudicated appeals of the Concealed Pistol Licensing Review Board to the Office of Administrative Hearings.
+    </annotation>
+    <annotation app="2024-07-26" doc="D.C. Law 25-199" eff="2024-07-26" path="§6" type="History" display="false"/>
+    <annotation doc="D.C. Law 25-199" path="§7" type="Editor's Notes" history="false" app="2024-07-26" eff="2024-07-26"><cite doc="D.C. Law 25-199" path="§7">Section 7 of D.C. Law 25-199</cite> provided that amends to section by D.C. Law 25-199 act shall apply as of October 1, 2023.
+    </annotation>
+    <annotation app="2024-07-26" doc="D.C. Law 25-199" eff="2024-07-26" path="§7" type="History" display="false"/>
   </annotations>
 </section>
