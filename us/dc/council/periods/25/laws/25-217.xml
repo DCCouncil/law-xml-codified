@@ -4207,7 +4207,7 @@
             <text>Paragraph (4) is amended to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:replace codified:doc="D.C. Code" codified:path="§1-325.431|(b)|(4)"/>
+                <codify:replace codified:doc="D.C. Code" codified:path="§1-325.431"/>
                 <num>(4)</num>
                 <text>In Fiscal Year 2025, and annually thereafter, $70,000,000 in local funds; and</text>
               </para>
@@ -4217,7 +4217,7 @@
           <para codify:path="(5)">
             <num>(2)</num>
             <text>Paragraph (5) is repealed.</text>
-            <codify:repeal codified:doc="D.C. Code" codified:path="§1-325.431|(b)|(5)"/>
+            <codify:repeal codified:doc="D.C. Code" codified:path="§1-325.431"/>
           </para>
         </para>
         <para codify:path="(c)">
@@ -4226,7 +4226,7 @@
           <para codify:path="(1)">
             <num>(1)</num>
             <text>Paragraph (1) is amended by striking the phrase "ECE salary scale established and updated pursuant to section 11b(b) of the Day Care Policy Act of 1979, effective October 30, 2018 (D.C. Law 22-179; D.C. Official Code § 4-410.02(b))" and inserting the phrase "Early Childhood Educator Pay Equity Program established pursuant to section 3(b) of the Day Care Policy Act of 1979, effective September 19, 1979 (D.C. Law 3-16; D.C. Official Code § 4-402(b))" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-325.431|(c)|(1)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-325.431">
               <find>ECE salary scale established and updated pursuant to <code-cite doc="D.C. Code" path="§4-410.02|(b)">section 11b(b) of the Day Care Policy Act of 1979, effective October 30, 2018 (D.C. Law 22-179; D.C. Official Code § 4-410.02(b))</code-cite></find>
               <replace>Early Childhood Educator Pay Equity Program established pursuant to <code-cite doc="D.C. Code" path="§4-402|(b)">section 3(b) of the Day Care Policy Act of 1979, effective September 19, 1979 (D.C. Law 3-16; D.C. Official Code § 4-402(b))</code-cite></replace>
             </codify:find-replace>
@@ -4234,14 +4234,14 @@
           <para codify:path="(1A)">
             <num>(2)</num>
             <text>Paragraph (1A) is repealed.</text>
-            <codify:repeal codified:doc="D.C. Code" codified:path="§1-325.431|(c)|(1A)"/>
+            <codify:repeal codified:doc="D.C. Code" codified:path="§1-325.431"/>
           </para>
           <para codify:path="(1B)">
             <num>(3)</num>
             <text>Paragraph (1B) is amended to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:replace codified:doc="D.C. Code" codified:path="§1-325.431|(c)|(1B)"/>
+                <codify:replace codified:doc="D.C. Code" codified:path="§1-325.431"/>
                 <num>(1B)</num>
                 <text>Subject to appropriations, reduce health insurance premiums paid by child development facilities, or employees of child development facilities eligible to receive the minimum salaries listed in <code-cite doc="D.C. Code" path="§4-410.02|(b)">section 11b(b) of the Day Care Policy Act of 1979, effective October 30, 2018 (D.C. Law 22-179; D.C. Official Code § 4-410.02(b))</code-cite>, pursuant to an agreement with the DC Health Benefit Exchange.</text>
               </para>
@@ -4253,7 +4253,7 @@
             <text>Paragraph (2) is amended to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:replace codified:doc="D.C. Code" codified:path="§1-325.431|(c)|(2)"/>
+                <codify:replace codified:doc="D.C. Code" codified:path="§1-325.431"/>
                 <num>(2)</num>
                 <para>
                   <num>(A)</num>
@@ -4283,7 +4283,7 @@
         <para codify:path="(d-1)">
           <num>(c)</num>
           <text>The lead-in language of subsection (d-1) is amended by striking the phrase "in Fiscal Years 2022 and 2023 from the early educator pay parity program established pursuant to subsection (c)(1A) of this section" and inserting the phrase "from the Fund" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-325.431|(d-1)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-325.431">
             <find>in Fiscal Years 2022 and 2023 from the early educator pay parity program established pursuant to subsection (c)(1A) of this section</find>
             <replace>from the Fund</replace>
           </codify:find-replace>
@@ -4293,7 +4293,7 @@
           <text>Subsection (e) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§1-325.431|(e)"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§1-325.431"/>
               <num>(e)</num>
               <text>For the purposes of this section, the term "child development facility" shall have the same meaning as provided in <code-cite doc="D.C. Code" path="§4-401|(2B)">section 2(2B) of the Day Care Policy Act of 1979, effective September 19, 1979 (D.C. Law 3-16; D.C. Official Code § 4-401(2B))</code-cite>.</text>
             </para>
@@ -4303,7 +4303,7 @@
         <para codify:path="(f)">
           <num>(e)</num>
           <text>Subsection (f) is repealed.</text>
-          <codify:repeal codified:doc="D.C. Code" codified:path="§1-325.431|(f)"/>
+          <codify:repeal codified:doc="D.C. Code" codified:path="§1-325.431"/>
         </para>
       </section>
       <section>
@@ -4678,12 +4678,12 @@
               <para>
                 <num>(ii)</num>
                 <text>Subparagraphs (A), (B), (C), (D), (E), and (F) are repealed.</text>
-                <codify:repeal path="(A)" codified:doc="D.C. Code" codified:path="§4-410.02|(c)|(1)|(A)"/>
-                <codify:repeal path="(B)" codified:doc="D.C. Code" codified:path="§4-410.02|(c)|(1)|(B)"/>
-                <codify:repeal path="(C)" codified:doc="D.C. Code" codified:path="§4-410.02|(c)|(1)|(C)"/>
-                <codify:repeal path="(D)" codified:doc="D.C. Code" codified:path="§4-410.02|(c)|(1)|(D)"/>
-                <codify:repeal path="(E)" codified:doc="D.C. Code" codified:path="§4-410.02|(c)|(1)|(E)"/>
-                <codify:repeal path="(F)" codified:doc="D.C. Code" codified:path="§4-410.02|(c)|(1)|(F)"/>
+                <codify:repeal path="(A)" codified:doc="D.C. Code" codified:path="§4-410.02|(c)|(1)"/>
+                <codify:repeal path="(B)" codified:doc="D.C. Code" codified:path="§4-410.02|(c)|(1)"/>
+                <codify:repeal path="(C)" codified:doc="D.C. Code" codified:path="§4-410.02|(c)|(1)"/>
+                <codify:repeal path="(D)" codified:doc="D.C. Code" codified:path="§4-410.02|(c)|(1)"/>
+                <codify:repeal path="(E)" codified:doc="D.C. Code" codified:path="§4-410.02|(c)|(1)"/>
+                <codify:repeal path="(F)" codified:doc="D.C. Code" codified:path="§4-410.02|(c)|(1)"/>
               </para>
             </para>
             <para codify:path="(2)">
@@ -4714,14 +4714,14 @@
           <para>
             <num>(1)</num>
             <text>The existing text is designated as paragraph (1).</text>
-            <codify:redesignate-para num-value="(1)" codified:doc="D.C. Code" codified:path="§38-2242|(a)"/>
+            <codify:redesignate-para num-value="(1)" codified:doc="D.C. Code" codified:path="§38-2242"/>
           </para>
           <para>
             <num>(2)</num>
             <text>A new paragraph (2) is added to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:insert num-value="(2)" codified:doc="D.C. Code" codified:path="§38-2242|(a)|(2)"/>
+                <codify:insert num-value="(2)" codified:doc="D.C. Code" codified:path="§38-2242"/>
                 <num>(2)</num>
                 <text>Following the submission of the report required pursuant to subsection (c)(3) of this section, the Task Force shall reconvene every 4th calendar year, or as deemed necessary by the Chairman.</text>
               </para>
@@ -4735,7 +4735,7 @@
           <para codify:path="(1)">
             <num>(1)</num>
             <text>Paragraph (1) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2242|(c)|(1)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2242">
               <find>; and</find>
               <replace>;</replace>
             </codify:find-replace>
@@ -4743,7 +4743,7 @@
           <para codify:path="(2)|(C)|(iii)">
             <num>(2)</num>
             <text>Paragraph (2)(C)(iii) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2242|(c)|(2)|(C)|(iii)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2242">
               <find>.</find>
               <replace>; and</replace>
             </codify:find-replace>
@@ -4753,7 +4753,7 @@
             <text>A new paragraph (3) is added to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:insert after="(2)" num-value="(3)" codified:doc="D.C. Code" codified:path="§38-2242|(c)|(3)"/>
+                <codify:insert after="(2)" num-value="(3)" codified:doc="D.C. Code" codified:path="§38-2242"/>
                 <num>(3)</num>
                 <text>Following the adoption of the Fiscal Year 2025 budget and financial plan, submit a report to the Mayor and Council by September 30, 2024, that:</text>
                 <para>
