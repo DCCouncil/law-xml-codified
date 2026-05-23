@@ -109,7 +109,7 @@
         <text>Unless the applicant indicates that the applicant does not want to register to vote or indicates the applicant is not a U.S. citizen:</text>
         <para>
           <num>(i)</num>
-          <text>Each DMV application for a DMV-issued driver's license (including any renewal application) or nondriver's identification card by a person who is not already registered to vote or preregistered to vote in the District shall automatically serve as an application to register to vote. However, any person who, at the time of the transaction with the DMV provides a document that demonstrates non-citizenship shall not be offered the opportunity to register to vote; and</text>
+          <text>Each DMV application for a DMV-issued driver's license (including any renewal application) or nondriver's identification card shall automatically serve as an application to register to vote. However, any person who, at the time of the transaction with the DMV provides a document that demonstrates non-citizenship shall not be offered the opportunity to register to vote; and</text>
         </para>
         <para>
           <num>(ii)</num>
@@ -208,34 +208,23 @@
         <num>(F)</num>
         <para>
           <num>(i)</num>
-          <text>If a registered or preregistered voter submits a change of name or address notice to the DMV, or supplies a name or address as part of a driver's license or nondriver's identification card application, renewal, or correction that differs from the voter's name or address in the voter roll, the DMV shall automatically and electronically transmit the information necessary to update the voter roll to the Board.</text>
+          <text>If a person submits a change of name or address notice to the DMV, such application shall be considered notification to the Board of the change of name or address. If the person who submits the notice is already registered or preregistered to vote or on the preapproved for registration list, and the information provided in the notice differs from the person's name, residence address, or mailing address on the voter roll or preapproved for registration list, the Board shall use the information provided in the notice to update the person's record pursuant to sub-subparagraph (iv) of this subparagraph.</text>
         </para>
         <para>
           <num>(ii)</num>
-          <text>Subject to compliance with applicable federal laws and regulations, if a registered or preregistered voter supplies a name or address as part of an application for a District medical assistance program (including any recertification), such as Medicaid, that differs from the voter's name or address in the voter roll, the Department of Health Care Finance shall automatically and electronically transmit the information necessary to update the voter roll to the Board.</text>
+          <text>If the Board determines that information transmitted by the DMV pursuant to subsection (c)(1)(D) of this section or  section 7b(a) or by the Department of Health Care Finance pursuant to section 7b(b), indicates that a person who is already registered or preregistered to vote or who is on the preapproved for registration list has supplied a name, residence address, or mailing address to the DMV or the Department of Health Care Finance that differs from the person's name, residence address, or mailing address on file with the Board, the Board shall use the information provided by the DMV or the Department of Health Care Finance to update the person's record pursuant to sub-subparagraph (iv) of this subparagraph.</text>
         </para>
         <para>
           <num>(iii)</num>
-          <para>
-            <num>(I)</num>
-            <text>If a registered or preregistered voter supplies a name or address as part of an agency transaction to another government agency, which the Board designates by rulemaking, and such name or address differs from the name or address in the voter roll, the agency shall automatically and electronically transmit the information necessary to update the voter roll to the Board.</text>
-          </para>
-          <para>
-            <num>(II)</num>
-            <text>The Board may designate a government agency pursuant to this sub-subparagraph without designating such agency as an automatic voter registration agency pursuant to paragraph (1)(A) of this subsection.</text>
-          </para>
-          <para>
-            <num>(III)</num>
-            <text>A government agency designated pursuant to this sub-subparagraph may include an agency of the federal government, subject to the agreement of such agency.</text>
-          </para>
+          <text>If the Board determines that information transmitted by a government agency designated pursuant to section 7b(c) or separately designated pursuant to subsection (c)(1)(A) of this section indicates that a person who is already registered or preregistered to vote or who is on the preapproved for registration list has supplied a name, residence address, or mailing address as part of a transaction with the agency that differs from the person's name, residence address, or mailing address on file with the Board, the Board shall use the information provided by the agency to update the person's record pursuant to sub-subparagraph (iv) of this subparagraph.</text>
         </para>
         <para>
           <num>(iv)</num>
-          <text>Upon receipt of the information described in sub-subparagraph (i), (ii), or (iii) of this subparagraph, the Board shall change the voter roll or preapproved for registration list to reflect the change of name or address and send to the voter's address of record, by forwardable mail, notice of the change and a return form and postage-paid, preaddressed envelope by which the voter may verify or correct the information.</text>
+          <text>Upon receipt of the information described in sub-subparagraph (i), (ii), or (iii) of this subparagraph, the Board shall update the voter roll or preapproved for registration list to reflect the change of name, residence address, or mailing address and send to the voter's address of record, by forwardable mail, notice of the change and a return form and postage-paid, preaddressed envelope by which the voter may verify or correct the information.</text>
         </para>
         <para>
           <num>(v)</num>
-          <text>If the voter returns the form described in sub-subparagraph (iv) of this subparagraph and indicates that the change to the voter roll was in error, the Board shall immediately correct the voter's previously updated information in the voter roll.</text>
+          <text>If the person returns the form described in sub-subparagraph (iv) of this subparagraph and indicates that the change to the voter roll or preapproved for registration list was in error, the Board shall immediately correct the person's previously updated information in the voter roll or preapproved for registration list.</text>
         </para>
       </para>
       <para>
@@ -265,9 +254,9 @@
           <text>The Board shall consider an application that the automatic voter registration agency accepted for the purposes of voter registration on or before the voter registration deadline as timely received.</text>
         </para>
       </para>
-      <para>
+      <para placeholder="Repealed">
         <num>(J)</num>
-        <text>The DMV and the Board shall prescribe a method by which the DMV, upon obtaining a person's full name, date of birth, DMV-issued identification number, last 4 digits of the person's social security number (if available), residence address, and mailing address if different from residence address, may use the information from the voter roll to determine whether the person is already registered to vote or preregistered to vote in the District, and, if so, whether the person is registered or preregistered at the address the person provided to the DMV.</text>
+        <text>Repealed.</text>
       </para>
       <para>
         <num>(K)</num>
@@ -275,7 +264,7 @@
       </para>
       <para>
         <num>(L)</num>
-        <text>Except as provided in this subsection, any citizenship information provided by an applicant for voter registration purposes shall not be otherwise retained, used, or shared by the automatic voter registration agency.</text>
+        <text>Except as provided in this subsection and <cite path="§1-1001.07b">§ 1-1001.07b</cite>, any citizenship information provided by an applicant for voter registration purposes shall not be otherwise retained, used, or shared by the automatic voter registration agency.</text>
       </para>
       <para>
         <num>(M)</num>
@@ -1062,5 +1051,11 @@
     <annotation doc="D.C. Law 25-50" path="§7087" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7087">Section 7087 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 24-265" path="§3">section 3 of D.C. Law 24-265</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 2(a) of Law 24-265 has been implemented.
         </annotation>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7087" type="History" display="false"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-278" eff="2025-03-07" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-278" eff="2025-03-07" path="§2|(a)|(2)|(A)" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-278" eff="2025-03-07" path="§2|(a)|(2)|(B)" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-278" eff="2025-03-07" path="§2|(a)|(2)|(C)" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-278" eff="2025-03-07" path="§2|(a)|(3)" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-278" eff="2025-03-07" path="§2|(a)|(4)" type="History"/>
   </annotations>
 </section>
