@@ -2,7 +2,10 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>23-1322</num>
   <text>
-      *NOTE: The amendments to this section by <cite doc="D.C. Law 25-175" path="§30|(k)">section 30(k) of D.C. Law 25-175</cite> shall expire on July 15, 2025.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 12, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§23-1322(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: The amendments to this section by <cite doc="D.C. Law 25-175" path="§30|(k)">section 30(k) of D.C. Law 25-175</cite> shall expire on December 31, 2026.*
       </text>
   <heading>Detention prior to trial.</heading>
   <para>
@@ -93,7 +96,7 @@
     </para>
     <para>
       <num>(9)</num>
-      <text>Committed a crime of violence, as that term is defined in <cite path="§23-1331|(4)">§ 23-1331(4)</cite>.</text>
+      <text>Committed a crime of violence, as that term is defined in § 23-1331(4); except, that robbery where the victim does not sustain a physical injury and burglary in the second degree shall not be subject to the rebuttable presumption of detention under this subsection.</text>
     </para>
   </para>
   <para>
@@ -345,8 +348,14 @@
     <annotation doc="D.C. Law 25-217" path="§7290|(b)" type="Expiration of Law" history="false" display-template="" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-217" path="§7290|(b)"> Section 7290(b) of D.C. Law 25-217</cite> provided that the amendments made to this section by § 30(f) of D.C. Law 25-175 shall expire 225 days after October 1, 2024.
       </annotation>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7290|(b)" type="History" display="false"/>
-    <annotation app="2025-06-17" doc="D.C. Law 26-14" eff="2025-06-17" path="§2|(b)" type="History" display="false"/>
     <annotation doc="D.C. Law 26-14" path="§2|(b)" type="Expiration of Law" history="false" app="2025-06-17" eff="2025-06-17"><cite doc="D.C. Law 26-14" path="§2|(b)"> Section 2(b) of D.C. Law 26-14</cite> provided that the amendments made to this section by § 30(f) of D.C. Law 25-175 shall expire on July 15, 2025.
+      </annotation>
+    <annotation app="2025-06-17" doc="D.C. Law 26-14" eff="2025-06-17" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2025-07-14" doc="D.C. Act 26-109" eff="2025-07-14" path="§7|(b)|(1)|(H)" type="History" display="false"/>
+    <annotation app="2025-07-14" doc="D.C. Act 26-109" eff="2025-07-14" path="§7|(b)|(2)" type="History" display="false"/>
+    <annotation app="2025-07-14" doc="D.C. Act 26-109" eff="2025-07-14" path="§7|(b)|(1)|(H)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-109" path="§7|(b)|(1)|(H)" codified:display="Note" app="2025-07-14" eff="2025-07-14">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-109" path="§7|(b)|(1)|(H)">§ 7(b)(1)(H) of Peace DC Omnibus Emergency Amendment Act of 2025 (D.C. Act 26-109, July 14, 2025, 72 DCR 8013)</cite>.</annotation>
+    <annotation doc="D.C. Act 26-109" path="§7|(b)|(2)" type="Expiration of Law" history="false" app="2025-07-14" eff="2025-07-14"><cite doc="D.C. Act 26-109" path="§7|(b)|(2)"> Section 7(b)(2) of D.C. Act 26-109</cite> provided that the amendments made to this section by § 30(f) of D.C. Law 25-175 shall expire on December 31, 2026.
       </annotation>
   </annotations>
 </section>

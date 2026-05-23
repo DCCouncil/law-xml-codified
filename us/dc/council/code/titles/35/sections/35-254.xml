@@ -1,18 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>35-254</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 12, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§35-254(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Penalties.</heading>
   <para>
     <num>(a)</num>
     <para>
       <num>(1)</num>
-      <text>Except as provided in subsection (b)(1) of this section, a violation of <cite path="§35-251|(b)">§ 35-251(b)</cite> or <cite path="§35-252|(a)">§ 35-252(a)</cite> shall be punishable by a civil fine of not more than $50.</text>
+      <text>Except as provided in subsection (b)(1) and (1A) of this section, a violation of <cite path="§35-251|(b)">§ 35-251(b)</cite> or <cite path="§35-252|(a)">§ 35-252(a)</cite> shall be punishable by a civil fine of not more than $50.</text>
     </para>
     <para>
       <num>(2)</num>
       <para>
         <num>(A)</num>
-        <text>Violations penalized under this subsection shall be adjudicated by the Office of Administrative Hearings in accordance with <cite path="48|12|II">subchapter II of Chapter 12 of Title 48</cite>; provided, that a person issued a notice of infraction shall not be assessed any additional penalties other than the civil fine for the violation, including the penalties described in §§ <cite path="§48-1212|(e)">48-1212(e)</cite> and <cite path="§48-1213|(d)">48-1213|(d)</cite>.</text>
+        <text>Violations penalized under this subsection shall be adjudicated by the Office of Administrative Hearings in accordance with <cite path="2|18|I">subchapter I of Chapter 18 of Title 2</cite>.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -74,5 +77,9 @@
     <annotation app="2024-06-07" doc="D.C. Act 25-490" eff="2024-06-07" path="§28|(b)" type="History" display="false"/>
     <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§35|(b)|(1)" type="History"/>
     <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§35|(b)|(2)" type="History"/>
+    <annotation app="2025-07-14" doc="D.C. Act 26-109" eff="2025-07-14" path="§5" type="History" display="false"/>
+    <annotation app="2025-07-14" doc="D.C. Act 26-109" eff="2025-07-14" path="§5|(a)" type="History"/>
+    <annotation app="2025-07-14" doc="D.C. Act 26-109" eff="2025-07-14" path="§5|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-109" path="§5" codified:display="Note" app="2025-07-14" eff="2025-07-14">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-109" path="§5">§ 5 of Peace DC Omnibus Emergency Amendment Act of 2025 (D.C. Act 26-109, July 14, 2025, 72 DCR 8013)</cite>.</annotation>
   </annotations>
 </section>
