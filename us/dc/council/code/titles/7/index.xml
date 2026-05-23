@@ -2043,6 +2043,13 @@
     <xi:include href="./sections/7-2551.01.xml"/>
     <xi:include href="./sections/7-2551.02.xml"/>
     <xi:include href="./sections/7-2551.03.xml"/>
+    <container>
+      <prefix>Unit</prefix>
+      <num>D</num>
+      <heading>Firearm tracing data and accountability report.</heading>
+      <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="" type="History" display="false"/>
+      <xi:include href="./sections/7-2561.01.xml"/>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
