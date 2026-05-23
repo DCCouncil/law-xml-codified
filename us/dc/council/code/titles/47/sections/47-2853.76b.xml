@@ -1,27 +1,79 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>47-2853.76b</num>
-  <heading>Regulation of body artists.</heading>
+  <heading proof="needed">Regulation of body artists and body art establishments.</heading>
   <para>
     <num>(a)</num>
-    <text>The Department of Licensing and Consumer Protection, through the Board of Barber and Cosmetology, shall regulate body artists to protect public health, safety, and welfare, and to ensure that persons engaged in the occupation have the specialized skills, education, and training required to perform the services offered by:</text>
+    <text>The Department of Health shall regulate:</text>
     <para>
       <num>(1)</num>
-      <text>Establishing and imposing occupational licensing, registration requirements, and associated fee schedules; and</text>
+      <text>Body artists to protect public health, safety, and welfare and to ensure that persons engaged in the occupation have the specialized skills, education, and training required to perform the services offered by establishing and imposing occupational licensing, registration requirements, and associated fee schedules; and</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Establishing rules within 180 days of [October 23, 2012].</text>
+      <text>Body art establishments to ensure that such establishments have adequate health, sanitization, sterilization and safety methods, procedures, equipment, and supplies by establishing minimum sterilization, sanitation, health, and safety standards for the operation of the establishments as may be necessary to prevent infection and contamination of equipment, supplies, or work surfaces with pathogenic organisms and by establishing and imposing operational licensing, registration requirements, and associated fee schedules.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>All body art establishments offering tattooing procedures shall conspicuously post a written disclosure that states the following:</text>
+      <text>"The United States Food and Drug Administration has not approved any pigment color additive for injectable use as tattoo ink. There may be a risk of carcinogenic decomposition associated with certain pigments when the pigments are subsequently exposed to concentrated ultra-violet light or laser irradiation.".</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>All body art establishments offering tattooing procedures shall maintain documentation on the premises containing the following information and shall disclose to customers upon request:</text>
+      <para>
+        <num>(A)</num>
+        <text>The components of the pigments used in the body art establishment;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The names, addresses, and telephone numbers of the suppliers and manufacturers of pigments used in the body art establishment for the past 3 years; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Identification of any recalled pigments used in the establishment for the past 3 years and the supplier and manufacturer of each pigment.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>All body art establishments shall maintain and use regularly calibrated autoclave equipment for the sterilization of any non-disposable body art equipment at a frequency to be established by the Department of Health.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Only single-use disposable sharps, pigments, gloves, and cleansing products shall be used in connection with body art procedures in body art establishments, in accordance with rules established by the Department of Health.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>A body art establishment that is in violation of this subsection shall be subject to license suspension or revocation and a maximum fine of $2,500.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <para>
+      <num>(1)</num>
+      <text>No person shall operate a body art establishment or perform body art procedures in a body art establishment unless that establishment has obtained a valid body art establishment license issued by the Mayor.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>No body art establishment shall employ or permit body artists to perform body art procedures in the body art establishment unless the body artist holds a valid body art license issued by the Mayor.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Any person violating paragraph (1) or (2) of this subsection shall, upon conviction, be deemed guilty of a misdemeanor and may be punished by a fine not exceeding $2,500, imprisonment for not more than 3 months, or both.</text>
     </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 19-193" type="History">Oct. 23, 2012, D.C. Law 19-193, § 3(g), 59 DCR 10388</annotation>
     <annotation type="Editor's Notes">This section was enacted as subsection (a), but has no subsection (b).</annotation>
     <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="§501|(bb)|(10)" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(d)|(3)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the change made to this section by <cite doc="D.C. Law 24-333" path="§5|(d)|(3)">§ 5(d)(3) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§9|(a)" type="History" display="false"/>
     <annotation app="2023-03-22" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(d)|(3)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(d)|(3)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(d)|(3)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the change made to this section by <cite doc="D.C. Law 24-333" path="§5|(d)|(3)">§ 5(d)(3) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 24-333" path="§5|(d)|(3)" type="Applicability" app="2023-03-22" eff="2023-03-22"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> provided that the amendments made to this section by <cite doc="D.C. Law 24-333" path="§5|(d)|(3)">Section 5(d)(3) of D.C. Law 24-333</cite> shall apply as of October 1, 2025.  Therefore those amendments have been implemented.
+         </annotation>
     <annotation doc="D.C. Law 25-217" path="§7286" type="Applicability" history="false" display-template="" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> amended <cite doc="D.C. Law 24-333" path="§9">section 9 of D.C. Law 24-333</cite> making the amendment of this section by section 5(d)(3) of D.C. Law 24-333 applicable as of October 1, 2025.
         </annotation>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7286" type="History" display="false"/>

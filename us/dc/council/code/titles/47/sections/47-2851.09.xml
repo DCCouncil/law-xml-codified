@@ -1,30 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>47-2851.09</num>
   <heading>License expiration date.</heading>
-  <para>
-    <num>(a)</num>
-    <para>
-      <num>(1)</num>
-      <text>The Center shall assign an expiration date for each basic business license. All renewable licenses endorsed on that basic business license shall expire on that date.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Notwithstanding any other provision of law, every license issued in accordance with this subchapter shall be valid for either 2 or 4 years from the date of issue, depending on which license term the applicant selects, unless earlier revoked or voluntarily relinquished, and licenses shall be issued on a staggered basis, using as the renewal date the date of incorporation if the business is incorporated, the date of organization if the business is unincorporated, or the birth date of the principal if the business is a sole proprietorship. Except as otherwise provided in <cite path="§47-2851.08">§ 47-2851.08</cite>, the fee charged for a 4-year license renewal shall be twice that of a 2-year license renewal.</text>
-    </para>
-    <para>
-      <num>(2A)</num>
-      <text>In addition to the 2-year and 4-year licenses authorized by paragraph (2) of this subsection, the Center also may issue licenses that are valid for 6 months from the date of issue, unless earlier revoked or voluntarily relinquished.</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Valid licenses that for any reason expire on a date other than a date determined in accordance with paragraph (2) of this subsection shall be extended automatically until the next anniversary of the date determined in accordance with paragraph (2) of this subsection.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>All renewable licenses endorsed on a basic business license shall be renewed by the Center under conditions originally imposed unless a regulatory agency advises the Center of conditions or denials to be imposed before the endorsement is renewed.</text>
-  </para>
+  <text>[Repealed].</text>
   <annotations>
     <annotation doc="D.C. Law 12-86" type="History">Apr. 29, 1998, D.C. Law 12-86, § 101(b), 45 DCR 1172</annotation>
     <annotation doc="D.C. Law 12-261" type="History">Apr. 20, 1999, D.C. Law 12-261, § 2002(b), 46 DCR 3142</annotation>
@@ -39,10 +18,10 @@
     <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§6012|(b)" type="History" display="false"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6012|(b)|(1)" type="History"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6012|(b)|(2)" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(c)|(15)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the repeal of this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(15)">§ 5(c)(15) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§9|(a)" type="History" display="false"/>
     <annotation app="2023-03-22" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(c)|(15)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(c)|(15)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(c)|(15)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the repeal of this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(15)">§ 5(c)(15) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 24-333" path="§5|(c)|(15)" type="Applicability" app="2023-03-22" eff="2023-03-22"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> provided that the amendments made to this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(15)">Section 5(c)(15) of D.C. Law 24-333</cite> shall apply as of October 1, 2025.  Therefore those amendments have been implemented.
+         </annotation>
     <annotation doc="D.C. Law 25-217" path="§7286" type="Applicability" history="false" display-template="" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> amended <cite doc="D.C. Law 24-333" path="§9">section 9 of D.C. Law 24-333</cite> making the repeal of this section by section 5(c)(15) of D.C. Law 24-333 applicable as of October 1, 2025.
         </annotation>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7286" type="History" display="false"/>

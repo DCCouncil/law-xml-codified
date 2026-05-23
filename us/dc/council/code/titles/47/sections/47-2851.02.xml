@@ -1,22 +1,66 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>47-2851.02</num>
-  <heading>License required.</heading>
+  <heading proof="needed">Basic business license required.</heading>
   <para>
     <num>(a)</num>
-    <text>A person which is required under law to obtain a license issued in the form of an endorsement to engage in a business in the District of Columbia shall not engage in such business in the District of Columbia without having first obtained a basic business license and any necessary endorsements in accordance with this subchapter.</text>
+    <text>A person doing business in the District of Columbia shall maintain a basic business license in accordance with <cite path="47|28|I-A">this subchapter</cite>.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>A license shall be required for each business location.</text>
+    <text>The Department shall issue or renew a basic business license to an applicant who complies with all applicable District and federal laws and regulations.</text>
   </para>
   <para>
     <num>(c)</num>
-    <text>A person issued a license under this subchapter shall not willfully allow any other person required to obtain a separate license to operate under his or her license.</text>
+    <text>A basic business license shall be required for each business location.</text>
   </para>
   <para>
     <num>(d)</num>
+    <text>Notwithstanding subsection (a) of this section and except as required under <cite path="47|28|I-A">subchapter I-A of this chapter</cite>, an individual employed by the holder of a basic business license is not required to maintain a basic business license to participate in the business of the license holder.</text>
+  </para>
+  <para>
+    <num>(e)</num>
     <text>Licenses granted under this subchapter may be assigned or transferred upon approval by the Department and payment of the applicable fee.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>The Department shall maintain and periodically update a roster of all businesses that have been issued a basic business license, indicating the license endorsements appended to each basic business license.</text>
+  </para>
+  <para>
+    <num>(g)</num>
+    <text>No person shall set up, operate, or conduct a business or device by or in which any person, animal, or living object shall act or be exposed as a target for a ball, projectile, missile, or thing thrown or projected for or in consideration of profit or gain, directly or indirectly.</text>
+  </para>
+  <para>
+    <num>(h)</num>
+    <para>
+      <num>(1)</num>
+      <text>This section shall not apply to activities conducted in connection with:</text>
+      <para>
+        <num>(A)</num>
+        <text>A bona fide regularly scheduled national annual convention of any national association of a professional beauty and grooming service from which the general public is excluded;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A business activity that has a gross annual revenue of $2,000 or less;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Entertainments, concerts, or performances of any kind where the proceeds are intended for church or charitable purposes, and where no rental is charged; or</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Cottage food products.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Upon request by the Department, a person applying for the exemption provided by paragraph(1)(B) of this subsection shall submit a letter self-certifying that the gross annual revenue of the business activity for which the exemption is sought does not exceed $2,000.</text>
+      <para>
+        <num>(i)</num>
+        <text>An applicant who makes a false statement in a self-certification letter under subsection (h)(2) of this section shall be guilty of a Class 1 civil infraction and subject to fines pursuant to section 3201 of Title 16 of the District of Columbia Municipal Regulations.</text>
+      </para>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 12-86" type="History">Apr. 29, 1998, D.C. Law 12-86, § 101(b), 45 DCR 1172</annotation>
@@ -25,10 +69,10 @@
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2(d) of Streamlining Regulation Emergency Act of 2003 (D.C. Act 15-145, August 11, 2003,  50 DCR 6896).</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-38">D.C. Law 15-38</cite> rewrote the section.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 47-2851.2.</annotation>
-    <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(c)|(3)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the change made to this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(3)">§ 5(c)(3) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§9|(a)" type="History" display="false"/>
     <annotation app="2023-03-22" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(c)|(3)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(c)|(3)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(c)|(3)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the change made to this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(3)">§ 5(c)(3) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 24-333" path="§5|(c)|(3)" type="Applicability" app="2023-03-22" eff="2023-03-22"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> provided that the amendments made to this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(3)">Section 5(c)(3) of D.C. Law 24-333</cite> shall apply as of October 1, 2025.  Therefore those amendments have been implemented.
+         </annotation>
     <annotation doc="D.C. Law 25-217" path="§7286" type="Applicability" history="false" display-template="" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> amended <cite doc="D.C. Law 24-333" path="§9">section 9 of D.C. Law 24-333</cite> making the amendment of this section by section 5(c)(3) of D.C. Law 24-333 applicable as of October 1, 2025.
         </annotation>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7286" type="History" display="false"/>

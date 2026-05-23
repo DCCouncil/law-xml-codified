@@ -1,16 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Applicable October 1, 2025</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>47-2851.24</num>
   <heading proof="needed">Penalties.</heading>
-  <text>Applicable October 1, 2025.</text>
+  <para>
+    <num>(a)</num>
+    <text>A person violating any of the provisions of <cite path="47|28|I-A">this subchapter</cite>, or of any provision as may be added from time to time by the Council, where no specific penalty is fixed, or the violation of any regulation made by the Council under the authority of <cite path="47|28">this chapter</cite>, shall be guilty of a misdemeanor and upon conviction be fined not more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite> or imprisoned for not more than 90 days.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>A person failing to file any information required by <cite path="47|28|I-A">this subchapter</cite>, or by any regulation of the Council made under the provisions <cite path="47|28|I-A">this subchapter</cite>, or who in filing any required information makes a false or misleading statement shall upon conviction be fined not more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite> or imprisoned for not more than 90 days.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>Civil fines, penalties, and fees may be imposed as alternative sanctions for any infraction of the provisions of <cite path="47|28|I-A">this subchapter</cite>, or any rules or regulations issued under the authority of <cite path="47|28">this chapter</cite>, pursuant to <cite path="2|18">Chapter 18 of Title 2</cite>.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>Adjudication of any infraction of <cite path="47|28|I-A">this subchapter</cite> shall be pursuant to <cite path="2|18">Chapter 18 of Title 2</cite>.</text>
+  </para>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§9|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(c)|(25)" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(c)|(25)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the creation of this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(25)">§ 5(c)(25) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-03-22" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(c)|(25)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7286" type="History" display="false"/>
+    <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(c)|(25)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the creation of this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(25)">§ 5(c)(25) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 24-333" path="§5|(c)|(25)" type="Applicability" app="2023-03-22" eff="2023-03-22"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> provided that the amendments made to this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(25)">Section 5(c)(25) of D.C. Law 24-333</cite> shall apply as of October 1, 2025.  Therefore those amendments have been implemented.
+         </annotation>
     <annotation doc="D.C. Law 25-217" path="§7286" type="Applicability" history="false" display-template="" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> amended <cite doc="D.C. Law 24-333" path="§9">section 9 of D.C. Law 24-333</cite> making the creation of this section by section 5(c)(25) of D.C. Law 24-333 applicable as of October 1, 2025.
         </annotation>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7286" type="History" display="false"/>
   </annotations>
 </section>

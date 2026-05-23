@@ -1,16 +1,74 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Applicable October 1, 2025</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>47-2851.22</num>
   <heading proof="needed">Cease and desist orders.</heading>
-  <text>Applicable October 1, 2025.</text>
+  <para>
+    <num>(a)</num>
+    <para>
+      <num>(1)</num>
+      <para>
+        <num>(A)</num>
+        <text>When a board, or the Mayor, after investigation but prior to a hearing, has cause to believe that a person is violating any provision of <cite path="47|28|I-A">this subchapter</cite> and the violation has caused or may cause immediate and irreparable harm to the public, the board or the Mayor may issue an order requiring the alleged violator to cease and desist immediately from the violation. "(B) An order issued under subparagraph (A) of this paragraph shall be served by certified mail or delivered in person.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>An order issued under subparagraph (A) of this paragraph shall be served by certified mail or delivered in person.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A copy of the cease and desist order shall be served on the holder of a certificate of occupancy for the premises and on the property owner of record if each of these persons or entities is separate and distinct from the licensee.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>The alleged violator may, within 15 days of the service of the order, submit a written request to the board to hold a hearing on the alleged violation.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Upon receipt of a timely request, the board shall conduct a hearing and render a decision pursuant to <cite path="§47-2853.22">§ 47-2853.22</cite>.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <para>
+      <num>(1)</num>
+      <text>The alleged violator may, within 10 days of the service of an order, submit a written request to the board for an expedited hearing on the alleged violation, in which case he or she shall waive his or her right to the 15-day notice required by subsection (b)(1) of this section.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Upon receipt of a timely request for an expedited hearing, the board shall conduct a hearing within 10 days of the date of receiving the request and shall deliver to the alleged violator at his or her last known address a written notice of the hearing by any means guaranteed to be received at least 5 days before the hearing date.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The board shall issue a decision within 30 days after an expedited hearing.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>If a request for a hearing is not made pursuant to subsections (b) and (c) of this section, the order of the board to cease and desist shall be final.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>If, after a hearing, the board determines that the alleged violator is not in violation of <cite path="47|28|I-A">this subchapter</cite>, the board shall vacate the order to cease and desist.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>If a person fails to comply with a lawful order of a board issued pursuant to this section, the board may petition the court to issue an order compelling compliance or take any other action authorized by <cite path="47|28|I-A">this subchapter</cite>.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§47-2851.22" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-2851.22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the creation of this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(25)">§ 5(c)(25) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <codify:annotation applicability="effective" doc="D.C. Code" path="§47-2851.22" type="Applicability" codified:doc="D.C. Code" codified:path="§47-2851.22"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> provided that the amendments made to this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(25)">Section 5(c)(25) of D.C. Law 24-333</cite> shall apply as of October 1, 2025.  Therefore those amendments have been implemented.
+         </codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§9|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(c)|(25)" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(c)|(25)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the creation of this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(25)">§ 5(c)(25) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-03-22" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(c)|(25)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7286" type="History" display="false"/>
+    <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(c)|(25)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the creation of this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(25)">§ 5(c)(25) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 24-333" path="§5|(c)|(25)" type="Applicability" app="2023-03-22" eff="2023-03-22"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> provided that the amendments made to this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(25)">Section 5(c)(25) of D.C. Law 24-333</cite> shall apply as of October 1, 2025.  Therefore those amendments have been implemented.
+         </annotation>
     <annotation doc="D.C. Law 25-217" path="§7286" type="Applicability" history="false" display-template="" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> amended <cite doc="D.C. Law 24-333" path="§9">section 9 of D.C. Law 24-333</cite> making the creation of this section by section 5(c)(25) of D.C. Law 24-333 applicable as of October 1, 2025.
         </annotation>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7286" type="History" display="false"/>
   </annotations>
 </section>

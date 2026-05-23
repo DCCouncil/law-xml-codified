@@ -7002,7 +7002,7 @@
               <text>Paragraph (1) is amended to read as follows:</text>
               <include lvl="1">
                 <para>
-                  <codify:replace codified:doc="D.C. Code" codified:path="§47-2851.08|(a)|(1)"/>
+                  <codify:replace codified:doc="D.C. Code" codified:path="§47-2851.08"/>
                   <num>(1)</num>
                   <text>Except as provided in paragraph (1A) of this subsection, the Center shall collect the following fees for the issuance and endorsement of an initial license:</text>
                   <para>
@@ -7026,7 +7026,7 @@
               <text>A new paragraph (1A) is added to read as follows:</text>
               <include lvl="1">
                 <para>
-                  <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§47-2851.08|(a)|(1A)"/>
+                  <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§47-2851.08"/>
                   <num>(1A)</num>
                   <text>No issuance or endorsement fee shall be charged by the Center for an initial General Business license and endorsement under 17 DCMR § 516.1(c) or an initial Employment Services license and endorsement under 17 DCMR § 513.1(a), (b), and (c).</text>
                 </para>
@@ -7042,7 +7042,7 @@
               <text>Paragraph (1) is amended to read as follows:</text>
               <include lvl="1">
                 <para>
-                  <codify:replace codified:doc="D.C. Code" codified:path="§47-2851.08|(b)|(1)"/>
+                  <codify:replace codified:doc="D.C. Code" codified:path="§47-2851.08"/>
                   <num>(1)</num>
                   <text>Except as provided in paragraph (1A) of this subsection, the Center shall collect the following fees for the issuance and endorsement of a renewal license:</text>
                   <para>
@@ -7066,7 +7066,7 @@
               <text>A new paragraph (1A) is added to read as follows:</text>
               <include lvl="1">
                 <para>
-                  <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§47-2851.08|(b)|(1A)"/>
+                  <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§47-2851.08"/>
                   <num>(1A)</num>
                   <text>No issuance or endorsement fee shall be charged by the Center for a General Business renewal license and endorsement under 17 DCMR § 516.1(c) or an Employment Services renewal license and endorsement under 17 DCMR § 513.1(a), (b), and (c).</text>
                 </para>
@@ -7081,7 +7081,7 @@
           <para codify:path="(2)">
             <num>(1)</num>
             <text>Paragraph (2) is amended by striking the phrase "The fee" and inserting the phrase "Except as otherwise provided in § 47-2851.08, the fee" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2851.09|(a)|(2)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2851.09">
               <find>The fee</find>
               <replace>Except as otherwise provided in <cite doc="D.C. Code" path="§47-2851.08">§ 47-2851.08</cite>, the fee</replace>
             </codify:find-replace>
@@ -7091,7 +7091,7 @@
             <text>A new paragraph (2A) is added to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§47-2851.09|(a)|(2A)"/>
+                <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§47-2851.09"/>
                 <num>(2A)</num>
                 <text>In addition to the 2-year and 4-year licenses authorized by paragraph (2) of this subsection, the Center also may issue licenses that are valid for 6 months from the date of issue, unless earlier revoked or voluntarily relinquished.</text>
               </para>

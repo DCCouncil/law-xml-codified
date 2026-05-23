@@ -1470,7 +1470,7 @@
         <para>
           <num>(1)</num>
           <text>Subsection (a) is amended by striking the word "Commission" and inserting the word "DFHV" in its place.</text>
-          <codify:find-replace path="(a)" find="Commission" replace="DFHV" count="1" codified:doc="D.C. Code" codified:path="§50-301.13|(a)"/>
+          <codify:find-replace path="(a)" find="Commission" replace="DFHV" count="1" codified:doc="D.C. Code" codified:path="§50-301.13"/>
         </para>
         <para codify:path="(b)">
           <num>(2)</num>
@@ -1478,28 +1478,28 @@
           <para>
             <num>(A)</num>
             <text>Strike the phrase "The Commission" and insert the phrase "The DFHV" in its place.</text>
-            <codify:find-replace find="The Commission" replace="The DFHV" count="1" codified:doc="D.C. Code" codified:path="§50-301.13|(b)"/>
+            <codify:find-replace find="The Commission" replace="The DFHV" count="1" codified:doc="D.C. Code" codified:path="§50-301.13"/>
           </para>
           <para>
             <num>(B)</num>
             <text>Strike the phrase "by the Commission" and insert the phrase "by the DFHV" in its place.</text>
-            <codify:find-replace find="by the Commission" replace="by the DFHV" count="1" codified:doc="D.C. Code" codified:path="§50-301.13|(b)"/>
+            <codify:find-replace find="by the Commission" replace="by the DFHV" count="1" codified:doc="D.C. Code" codified:path="§50-301.13"/>
           </para>
         </para>
         <para>
           <num>(3)</num>
           <text>Subsection (c) is amended by striking the word "Commission" and inserting the word "DFHV" in its place.</text>
-          <codify:find-replace path="(c)" find="Commission" replace="DFHV" count="1" codified:doc="D.C. Code" codified:path="§50-301.13|(c)"/>
+          <codify:find-replace path="(c)" find="Commission" replace="DFHV" count="1" codified:doc="D.C. Code" codified:path="§50-301.13"/>
         </para>
         <para>
           <num>(4)</num>
           <text>Subsection (d) is amended by striking the word "Commission" and inserting the word "DFHV" in its place.</text>
-          <codify:find-replace path="(d)" find="Commission" replace="DFHV" count="1" codified:doc="D.C. Code" codified:path="§50-301.13|(d)"/>
+          <codify:find-replace path="(d)" find="Commission" replace="DFHV" count="1" codified:doc="D.C. Code" codified:path="§50-301.13"/>
         </para>
         <para>
           <num>(5)</num>
           <text>Subsection (e) is amended by striking the word "Commission" and inserting the word "DFHV" in its place.</text>
-          <codify:find-replace path="(e)" find="Commission" replace="DFHV" count="1" codified:doc="D.C. Code" codified:path="§50-301.13|(e)"/>
+          <codify:find-replace path="(e)" find="Commission" replace="DFHV" count="1" codified:doc="D.C. Code" codified:path="§50-301.13"/>
         </para>
       </para>
       <para codify:path="§15">
@@ -1811,12 +1811,12 @@
         <para>
           <num>(1)</num>
           <text>Subsection (a)(1)(E) is amended by striking the phrase "District of Columbia Taxicab Commission" and inserting the phrase "Department of For-Hire Vehicles" in its place.</text>
-          <codify:find-replace path="(a)|(1)|(E)" find="District of Columbia Taxicab Commission" replace="Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829|(a)|(1)|(E)"/>
+          <codify:find-replace path="(a)|(1)|(E)" find="District of Columbia Taxicab Commission" replace="Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829"/>
         </para>
         <para>
           <num>(2)</num>
           <text>Subsection (d) is amended by striking the phrase "District of Columbia Taxicab Commission" both times it appears and inserting the phrase "Department of For-Hire Vehicles" in its place.</text>
-          <codify:find-replace path="(d)" find="District of Columbia Taxicab Commission" replace="Department of For-Hire Vehicles" count="2" codified:doc="D.C. Code" codified:path="§47-2829|(d)"/>
+          <codify:find-replace path="(d)" find="District of Columbia Taxicab Commission" replace="Department of For-Hire Vehicles" count="2" codified:doc="D.C. Code" codified:path="§47-2829"/>
         </para>
         <para codify:path="(e)">
           <num>(3)</num>
@@ -1827,12 +1827,12 @@
             <para>
               <num>(i)</num>
               <text>Strike the phrase "District of Columbia Taxicab Commission" and insert the phrase "Department of For-Hire Vehicles" in its place.</text>
-              <codify:find-replace find="District of Columbia Taxicab Commission" replace="Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829|(e)|(1)"/>
+              <codify:find-replace find="District of Columbia Taxicab Commission" replace="Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829"/>
             </para>
             <para>
               <num>(ii)</num>
               <text>Strike the phrase "The Commission may" and insert the phrase "The Department of For-Hire Vehicles may" in its place.</text>
-              <codify:find-replace find="The Commission may" replace="The Department of For-Hire Vehicles may" count="1" codified:doc="D.C. Code" codified:path="§47-2829|(e)|(1)"/>
+              <codify:find-replace find="The Commission may" replace="The Department of For-Hire Vehicles may" count="1" codified:doc="D.C. Code" codified:path="§47-2829"/>
             </para>
           </para>
           <para codify:path="(2)">
@@ -1844,18 +1844,18 @@
               <para>
                 <num>(I)</num>
                 <text>Strike the phrase "District of Columbia Taxicab Commission" and insert the phrase "Department of For-Hire Vehicles" in its place.</text>
-                <codify:find-replace find="District of Columbia Taxicab Commission" replace="Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829|(e)|(2)|(A)"/>
+                <codify:find-replace find="District of Columbia Taxicab Commission" replace="Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829"/>
               </para>
               <para>
                 <num>(II)</num>
                 <text>Strike the phrase "Office of Taxicabs" and insert the phrase "Office of Client Services of the Department of For-Hire Vehicles" in its place.</text>
-                <codify:find-replace find="Office of Taxicabs" replace="Office of Client Services of the Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829|(e)|(2)|(A)"/>
+                <codify:find-replace find="Office of Taxicabs" replace="Office of Client Services of the Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829"/>
               </para>
             </para>
             <para>
               <num>(ii)</num>
               <text>Subparagraph (C) is amended by striking the phrase "Office of Taxicabs, under the direction of the District of Columbia Taxicab Commission" and inserting the phrase "Office of Client Services of the Department of For-Hire Vehicles" in its place.</text>
-              <codify:find-replace path="(C)" find="Office of Taxicabs, under the direction of the District of Columbia Taxicab Commission" replace="Office of Client Services of the Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829|(e)|(2)|(C)"/>
+              <codify:find-replace path="(C)" find="Office of Taxicabs, under the direction of the District of Columbia Taxicab Commission" replace="Office of Client Services of the Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829"/>
             </para>
           </para>
         </para>
@@ -1865,28 +1865,28 @@
           <para>
             <num>(A)</num>
             <text>Strike the phrase "District of Columbia Taxicab Commission" and insert the phrase "Department of For-Hire Vehicles" in its place.</text>
-            <codify:find-replace find="District of Columbia Taxicab Commission" replace="Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829|(e-1)"/>
+            <codify:find-replace find="District of Columbia Taxicab Commission" replace="Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829"/>
           </para>
           <para>
             <num>(B)</num>
             <text>Strike the phrase "Office of Taxicabs" and insert the phrase "Office of Client Services of the Department of For-Hire Vehicles" in its place.</text>
-            <codify:find-replace find="Office of Taxicabs" replace="Office of Client Services of the Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829|(e-1)"/>
+            <codify:find-replace find="Office of Taxicabs" replace="Office of Client Services of the Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829"/>
           </para>
           <para>
             <num>(C)</num>
             <text>Strike the phrase "present to the Commission" and insert the phrase "present to the Department of For-Hire Vehicles" in its place.</text>
-            <codify:find-replace find="present to the Commission" replace="present to the Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829|(e-1)"/>
+            <codify:find-replace find="present to the Commission" replace="present to the Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829"/>
           </para>
         </para>
         <para>
           <num>(5)</num>
           <text technical="true">Subsection (e-2) is amended by striking the phrase "After March 25, 1987, the Office of Taxicabs under the discretion of the District of Columbia Taxicab Commission, and prior to March 25, 1987, the Department of Public Works" and inserting the phrase "The Department of For-Hire Vehicles" in its place.</text>
-          <codify:find-replace path="(e-2)" find="After March 25, 1987, the Office of Taxicabs under the direction of the District of Columbia Taxicab Commission, and prior to March 25, 1987, the Department of Public Works" replace="The Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829|(e-2)"/>
+          <codify:find-replace path="(e-2)" find="After March 25, 1987, the Office of Taxicabs under the direction of the District of Columbia Taxicab Commission, and prior to March 25, 1987, the Department of Public Works" replace="The Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829"/>
         </para>
         <para>
           <num>(6)</num>
           <text>Subsection (e-3) is amended by striking the phrase "District of Columbia Taxicab Commission" and inserting the phrase "Department of For-Hire Vehicles" in its place.</text>
-          <codify:find-replace path="(e-3)" find="District of Columbia Taxicab Commission" replace="Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829|(e-3)"/>
+          <codify:find-replace path="(e-3)" find="District of Columbia Taxicab Commission" replace="Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829"/>
         </para>
         <para codify:path="(e-4)">
           <num>(7)</num>
@@ -1894,18 +1894,18 @@
           <para>
             <num>(A)</num>
             <text technical="true">Strike the phrase "After March 25, 1987, the Office of Taxicabs under the discretion of the District of Columbia Taxicab Commission, and prior to March 25, 1987, the Department of Public Works" and insert the phrase "The Department of For-Hire Vehicles" in its place.</text>
-            <codify:find-replace find="After March 25, 1987, the Office of Taxicabs under the direction of the District of Columbia Taxicab Commission, and prior to March 25, 1987, the Department of Public Works" replace="The Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829|(e-4)"/>
+            <codify:find-replace find="After March 25, 1987, the Office of Taxicabs under the direction of the District of Columbia Taxicab Commission, and prior to March 25, 1987, the Department of Public Works" replace="The Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829"/>
           </para>
           <para>
             <num>(B)</num>
             <text>Strike the phrase "The District of Columbia Taxicab Commission" and insert the phrase "The Department of For-Hire Vehicles" in its place.</text>
-            <codify:find-replace find="The District of Columbia Taxicab Commission" replace="The Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829|(e-4)"/>
+            <codify:find-replace find="The District of Columbia Taxicab Commission" replace="The Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829"/>
           </para>
         </para>
         <para>
           <num>(8)</num>
           <text>Subsection (i) is amended by striking the phrase "the Office of Taxicabs" and inserting the phrase "the Office of Client Services of the Department of For-Hire Vehicles" in its place.</text>
-          <codify:find-replace path="(i)" find="the Office of Taxicabs" replace="the Office of Client Services of the Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829|(i)"/>
+          <codify:find-replace path="(i)" find="the Office of Taxicabs" replace="the Office of Client Services of the Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829"/>
         </para>
         <para codify:path="(j)">
           <num>(9)</num>
@@ -1916,18 +1916,18 @@
             <para>
               <num>(i)</num>
               <text>Strike the phrase "The District of Columbia Taxicab Commission" and insert the phrase "The Department of For-Hire Vehicles" in its place.</text>
-              <codify:find-replace find="The District of Columbia Taxicab Commission" replace="The Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829|(j)|(1)"/>
+              <codify:find-replace find="The District of Columbia Taxicab Commission" replace="The Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829"/>
             </para>
             <para>
               <num>(ii)</num>
               <text>Strike the phrase "the Commission shall" and insert the phrase "the Department of For-Hire Vehicles shall" in its place.</text>
-              <codify:find-replace find="the Commission shall" replace="the Department of For-Hire Vehicles shall" count="1" codified:doc="D.C. Code" codified:path="§47-2829|(j)|(1)"/>
+              <codify:find-replace find="the Commission shall" replace="the Department of For-Hire Vehicles shall" count="1" codified:doc="D.C. Code" codified:path="§47-2829"/>
             </para>
           </para>
           <para>
             <num>(B)</num>
             <text>Paragraph (3) is repealed.</text>
-            <codify:repeal path="(3)" codified:doc="D.C. Code" codified:path="§47-2829|(j)|(3)"/>
+            <codify:repeal path="(3)" codified:doc="D.C. Code" codified:path="§47-2829"/>
           </para>
           <para codify:path="(4)">
             <num>(C)</num>
@@ -1935,12 +1935,12 @@
             <para>
               <num>(i)</num>
               <text>Strike the phrase "The Commission shall" and insert the phrase "The Department of For-Hire Vehicles shall" in its place.</text>
-              <codify:find-replace find="The Commission shall" replace="The Department of For-Hire Vehicles shall" count="1" codified:doc="D.C. Code" codified:path="§47-2829|(j)|(4)"/>
+              <codify:find-replace find="The Commission shall" replace="The Department of For-Hire Vehicles shall" count="1" codified:doc="D.C. Code" codified:path="§47-2829"/>
             </para>
             <para>
               <num>(ii)</num>
               <text>Strike the phrase "granted by the Commission" and insert the phrase "granted by the Department of For-Hire Vehicles" in its place.</text>
-              <codify:find-replace find="granted by the Commission" replace="granted by the Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829|(j)|(4)"/>
+              <codify:find-replace find="granted by the Commission" replace="granted by the Department of For-Hire Vehicles" count="1" codified:doc="D.C. Code" codified:path="§47-2829"/>
             </para>
           </para>
           <para>
@@ -1948,7 +1948,7 @@
             <text>Paragraph (5) is amended to read as follows:</text>
             <include>
               <para>
-                <codify:replace path="(5)" codified:doc="D.C. Code" codified:path="§47-2829|(j)|(5)"/>
+                <codify:replace path="(5)" codified:doc="D.C. Code" codified:path="§47-2829"/>
                 <num>(5)</num>
                 <text>The Department of For-Hire Vehicles shall seek to actively license public vehicle-for hire drivers and vehicles.</text>
               </para>

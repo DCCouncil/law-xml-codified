@@ -224,7 +224,7 @@
       <text>Subsection (a) is amended by adding a new paragraph (11A) to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(11)" codified:doc="D.C. Code" codified:path="§47-2851.03|(a)|(11A)"/>
+          <codify:insert after="(11)" codified:doc="D.C. Code" codified:path="§47-2851.03"/>
           <num>(11A)</num>
           <text>Stun Gun;</text>
         </para>
@@ -236,7 +236,7 @@
       <text>A new subsection (e) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(d)" codified:doc="D.C. Code" codified:path="§47-2851.03|(e)"/>
+          <codify:insert after="(d)" codified:doc="D.C. Code" codified:path="§47-2851.03"/>
           <num>(e)</num>
           <text>A vendor who sells more than 5 stun guns in a 12-month period shall obtain a stun gun endorsement under subsection (a)(11A) of this section on its basic business license from the Department on a form provided by the Department.  No additional information shall be required for the issuance of a stun gun endorsement.</text>
         </para>

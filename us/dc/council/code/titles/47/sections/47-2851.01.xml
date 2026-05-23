@@ -1,86 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>47-2851.01</num>
-  <heading>Definitions.</heading>
-  <text>For the purposes of this subchapter, the term:</text>
+  <heading proof="needed">Definitions.</heading>
   <para>
-    <num>(1)</num>
-    <text>“Basic business license” means the single document designed for public display issued by the business license center that certifies District agency license approval and that incorporates the endorsements for individual licenses included in the basic business license system that the District requires for any person subject to this subchapter. The term “basic business license” shall include a master business license issued prior to the effective date of the Streamlining Regulation Emergency Act of 2003, passed on an emergency basis on July 8, 2003 (Enrolled version of Bill 15-317) [August 11, 2003].</text>
-  </para>
-  <para>
-    <num>(1A)</num>
-    <text>“Basic business license application” means a document incorporating pertinent data from existing applications for licenses covered under this subchapter.</text>
-  </para>
-  <para>
-    <num>(1B)</num>
+    <num undesignated="true">(a)</num>
+    <text>For the purposes of <cite path="47|28|I-A">[this subchapter]</cite>, the term:</text>
     <para>
-      <num>(A)</num>
-      <text>“Business” means any trade, profession, or activity which provides, or holds itself out to provide, goods or services to the general public or to any portion of the general public, for hire or compensation in the District of Columbia[.]</text>
+      <num>(1)</num>
+      <text>"Basic business license" means the single document designed for public display issued by the Department that certifies a business to operate from a location in the District of Columbia.</text>
     </para>
     <para>
-      <num>(B)</num>
-      <text>“Business” shall not include the following:</text>
-      <para>
-        <num>(i)</num>
-        <text>The activities of any political subdivision, or of any authority created and organized under and pursuant to law of the District;</text>
-      </para>
-      <para>
-        <num>(ii)</num>
-        <text>The activities of any compact entered into by the District with any state or political subdivision of a state; or</text>
-      </para>
-      <para>
-        <num>(iii)</num>
-        <text>Any employment for wages or salary.</text>
-      </para>
+      <num>(2)</num>
+      <text>"Beauty and grooming services" means personal services related to hairstyling, nail care, and cosmetics, including haircuts, color treatments, manicures, pedicures, chemical exfoliation, waxing, makeup application, electrolysis hair removal, and other similar services.</text>
     </para>
-  </para>
-  <para>
-    <num>(2)</num>
-    <text>“Business License Center” means the business registration and licensing center established by this subchapter and located in and under the administrative control of the Department of Licensing and Consumer Protection.</text>
-  </para>
-  <para>
-    <num>(3)</num>
-    <text>“Department” means the Department of Licensing and Consumer Protection.</text>
-  </para>
-  <para>
-    <num>(4)</num>
-    <text>“Director” means the Director of the Department of Licensing and Consumer Protection.</text>
-  </para>
-  <para>
-    <num>(5)</num>
-    <text>“License” means the whole or part of any agency permit, license, certificate, approval, registration, charter, or any form or permission required by law, including agency rule, to engage in any activity.</text>
-  </para>
-  <para>
-    <num>(5A)</num>
-    <text>“License information packet” means a collection of information about licensing requirements and application procedures custom-assembled for each request.</text>
-  </para>
-  <para>
-    <num>(6)</num>
-    <text>Repealed.</text>
-  </para>
-  <para>
-    <num>(7)</num>
-    <text>Repealed.</text>
-  </para>
-  <para>
-    <num>(8)</num>
-    <text>“Person” means any individual, sole proprietorship, partnership, association, cooperative, corporation, nonprofit organization, and any other organization required to obtain one or more licenses from the District or any of its agencies.</text>
-  </para>
-  <para>
-    <num>(9)</num>
-    <text>“Regulation” means any licensing or other governmental or statutory requirements pertaining to business or professional activities.</text>
-  </para>
-  <para>
-    <num>(10)</num>
-    <text>“Regulatory agency” means any District agency, board, commission, or division which regulates one or more professions, occupations, industries, businesses, or activities.</text>
-  </para>
-  <para>
-    <num>(11)</num>
-    <text>“Renewal application” means a document used to collect pertinent data for renewal of licenses covered under this subchapter.</text>
-  </para>
-  <para>
-    <num>(12)</num>
-    <text>“System” means the mechanism by which basic business licenses are issued and renewed, license and regulatory information is disseminated, and account data is exchanged by the agencies.</text>
+    <para>
+      <num>(3)</num>
+      <text>"Business" means a trade, profession, or activity that provides, or holds itself out to provide, goods or services to the general public or to a portion of the general public for hire or compensation in the District of Columbia. The term "business" does not include the activities of a government entity or employment for wages or salary.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"Business License Center" means the business registration and licensing center established by this subchapter and located in and under the administrative control of the Department of Licensing and Consumer Protection.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"Charitable services" means any service whose actual or purported purpose is benevolent, philanthropic, patriotic, educational (except religious education), scientific, environmental conservation, civic, or otherwise eleemosynary.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>"Contractor and construction services" means any services that involve the planning, acquiring, building, equipping, altering, repairing, improving, or demolishing of any structure or appurtenance.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>"Cottage food products" means any non-potentially hazardous food, as specified in regulations adopted by the Department of Health, that is sold to consumers, including through direct, retail, and online sales, within the District of Columbia in accordance with <cite path="§7-742.02">§ 7-742.02</cite> and regulations adopted by the Department of Health.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>"Department" means the Department of Licensing and Consumer Protection or any successor agency.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>"Director" means the Director of the Department of Licensing and Consumer Protection or any successor agency.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>"Entertainment services" means a performance, recreational activity, spectacle, show, or similar event or service, including events or services occurring at amusement parks, bowling alleys, skating rinks, and theaters.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>"Environmental services" means any service meant to store, transport, or distribute fuels or solvents, remediate pests or environmental contaminants, and store, transport, or collect solid waste.</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>"Food services" means any handling of food or food products regulated under title 25 of the District of Columbia Municipal Regulations ("DCMR").</text>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>"General sales and services" means any services that are not covered by other business license categories in <cite path="47|28|I-A">this subchapter</cite>.</text>
+    </para>
+    <para>
+      <num>(14)</num>
+      <text>"Health services" means the operation of a swimming pool regulated under title 25C of the DCMR or a pet shop regulated under title 25J of the DCMR.</text>
+    </para>
+    <para>
+      <num>(15)</num>
+      <text>"Housing and lodging services" means the provision of short-term or long-term housing or lodging for residents and visitors in the District, including one-family rentals, two-family rentals, apartments, short-term rentals, hotels, bed and breakfasts, and other similar services.</text>
+    </para>
+    <para>
+      <num>(16)</num>
+      <text>"License" means the whole or part of any agency permit, license, certificate, approval, registration, charter, or any form or permission required by law, including agency rule, to engage in any activity.</text>
+    </para>
+    <para>
+      <num>(17)</num>
+      <text>"Person" means an individual, sole proprietorship, partnership, association, cooperative, corporation, nonprofit organization, and any other organization required to obtain one or more licenses from the District or any of its agencies.</text>
+    </para>
+    <para>
+      <num>(18)</num>
+      <text>"Public safety services" means any service whose primary purpose is to protect the safety, health, or property of residents of the District, including furnishing security systems, alarms, and personnel.</text>
+    </para>
+    <para>
+      <num>(19)</num>
+      <text>"Regulation" means any licensing or other governmental or statutory requirement pertaining to business or professional activities.</text>
+    </para>
+    <para>
+      <num>(20)</num>
+      <text>"Regulatory agency" means any District agency, board, commission, or division that regulates one or more professions, occupations, industries, businesses, or activities.</text>
+    </para>
+    <para>
+      <num>(21)</num>
+      <text>"Vehicular services" means the repair, servicing, alteration, restoration, towing, painting, cleaning, finishing, or parking of automobiles, trucks, recreational vehicles, boats and other vehicles, boats and other vehicles as a primary use, which may include the incidental wholesale and retail sale of vehicle parts as an accessory use.</text>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 12-86" type="History">Apr. 29, 1998, D.C. Law 12-86, § 101(b), 45 DCR 1172</annotation>
@@ -98,10 +107,10 @@
     <annotation type="Prior Codifications">1981 Ed., § 47-2851.1.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§22-4510">§ 22-4510</cite>, <cite path="§37-131.02">§ 37-131.02</cite>, and <cite path="§47-2855.01">§ 47-2855.01</cite>.</annotation>
     <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="§501|(bb)|(6)" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(c)|(1)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the change made to this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(1)">§ 5(c)(1) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§9|(a)" type="History" display="false"/>
     <annotation app="2023-03-22" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(c)|(1)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(c)|(1)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(c)|(1)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the change made to this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(1)">§ 5(c)(1) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 24-333" path="§5|(c)|(1)" type="Applicability" app="2023-03-22" eff="2023-03-22"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> provided that the amendments made to this section by <cite doc="D.C. Law 24-333" path="§5|(c)|(1)">Section 5(c)(1) of D.C. Law 24-333</cite> shall apply as of October 1, 2025.  Therefore those amendments have been implemented.
+         </annotation>
     <annotation doc="D.C. Law 25-217" path="§7286" type="Applicability" history="false" display-template="" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> amended <cite doc="D.C. Law 24-333" path="§9">section 9 of D.C. Law 24-333</cite> making the amendment of this section by section 5(c)(1) of D.C. Law 24-333 applicable as of October 1, 2025.
         </annotation>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7286" type="History" display="false"/>

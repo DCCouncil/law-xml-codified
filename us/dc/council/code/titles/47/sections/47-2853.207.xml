@@ -1,17 +1,47 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Applicable October 1, 2025</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>47-2853.207</num>
   <heading proof="needed">Definitions.</heading>
-  <text>Applicable October 1, 2025.</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>For purposes of <cite path="47|28|I-B|Q-i">[this part]</cite>, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>"Campus police officer" means an individual appointed under <cite path="§5-129.02">§ 5-129.02</cite> and subject to the requirements of Chapter 12 of Title 6A of the District of Columbia Municipal Regulations.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Detective" or "detective agency" means and includes any person, firm, or corporation engaged in the business of, or advertising, or representing himself, or itself, as being engaged in the business of detecting, discovering, or revealing crime or criminals, or securing information for evidence relating thereto, or discovering or revealing the identity, whereabouts, character, or actions of any person or persons, thing or things.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Security agency" means a person who conducts a business that provides security services.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"Security officer" means an individual appointed under <cite path="§5-129.02">§ 5-129.02</cite> and shall have the same meaning as provided in section 2100 of Title 17 of the District of Columbia Municipal Regulations.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"Security services" means any activity that is performed for compensation by a security officer or special police officer to protect an individual or property.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>"Special police officer" means an individual appointed under <cite path="§5-129.02">§ 5-129.02</cite> and subject to the requirements of Chapter 11 of Title 6A of the District of Columbia Municipal Regulations.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§47-2853.207" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-2853.207">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the creation of this section by <cite doc="D.C. Law 24-333" path="§5|(d)|(4)">§ 5(d)(4) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <codify:annotation applicability="effective" doc="D.C. Code" path="§47-2853.207" type="Applicability" codified:doc="D.C. Code" codified:path="§47-2853.207"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> provided that the amendments made to this section by <cite doc="D.C. Law 24-333" path="§5|(d)|(4)">Section 5(d)(4) of D.C. Law 24-333</cite> shall apply as of October 1, 2025.  Therefore those amendments have been implemented.
+         </codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§9|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(a)|(64)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(d)|(4)" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(d)|(4)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the creation of this section by <cite doc="D.C. Law 24-333" path="§5|(d)|(4)">§ 5(d)(4) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-03-22" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(a)|(64)" type="History" display="false"/>
     <annotation app="2023-03-22" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(d)|(4)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7286" type="History" display="false"/>
+    <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(d)|(4)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the creation of this section by <cite doc="D.C. Law 24-333" path="§5|(d)|(4)">§ 5(d)(4) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 24-333" path="§5|(d)|(4)" type="Applicability" app="2023-03-22" eff="2023-03-22"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> provided that the amendments made to this section by <cite doc="D.C. Law 24-333" path="§5|(d)|(4)">Section 5(d)(4) of D.C. Law 24-333</cite> shall apply as of October 1, 2025.  Therefore those amendments have been implemented.
+         </annotation>
     <annotation doc="D.C. Law 25-217" path="§7286" type="Applicability" history="false" display-template="" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> amended <cite doc="D.C. Law 24-333" path="§9">section 9 of D.C. Law 24-333</cite> making the creation of this section by section 5(d)(4) of D.C. Law 24-333 applicable as of October 1, 2025.
         </annotation>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7286" type="History" display="false"/>
   </annotations>
 </section>

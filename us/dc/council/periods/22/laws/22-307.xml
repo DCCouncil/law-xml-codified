@@ -531,7 +531,7 @@
         <text>Section 47-2828 is amended by adding a new subsection (c-1) to read as follows:</text>
         <include>
           <para>
-            <codify:insert path="§47-2828" after="(c)" codified:doc="D.C. Code" codified:path="§47-2828|(c-1)"/>
+            <codify:insert path="§47-2828" after="(c)" codified:doc="D.C. Code" codified:path="§47-2828"/>
             <num>(c-1)</num>
             <para>
               <num>(1)</num>
@@ -552,7 +552,7 @@
         <para codify:path="(A)">
           <num>(1)</num>
           <text>Subparagraph (A) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2851.03|(a)|(6)|(A)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2851.03">
             <find>; and</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -562,12 +562,12 @@
           <text>New subparagraphs (C) and (D) are added to read as follows:</text>
           <include lvl="2">
             <para>
-              <codify:insert after="(B)" codified:doc="D.C. Code" codified:path="§47-2851.03|(a)|(6)|(C)"/>
+              <codify:insert after="(B)" codified:doc="D.C. Code" codified:path="§47-2851.03"/>
               <num>(C)</num>
               <text>Short-Term Rental; and</text>
             </para>
             <para>
-              <codify:insert after="(C)" codified:doc="D.C. Code" codified:path="§47-2851.03|(a)|(6)|(D)"/>
+              <codify:insert after="(C)" codified:doc="D.C. Code" codified:path="§47-2851.03"/>
               <num>(D)</num>
               <text>Short-Term Rental: Vacation Rental<span codify:value="[;]">.</span></text>
             </para>

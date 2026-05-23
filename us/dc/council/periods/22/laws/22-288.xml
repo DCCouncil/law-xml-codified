@@ -288,7 +288,7 @@
     <section>
       <num>202</num>
       <text>Section 47-2844(a-1)(1)(B) of the District of Columbia Official Code is amended by striking the phrase "possession, sale" and inserting the phrase "possession, other than for personal use, sale" in its place.</text>
-      <codify:find-replace path="§47-2844|(a-1)|(1)|(B)" count="1" codified:doc="D.C. Code" codified:path="§47-2844|(a-1)|(1)|(B)">
+      <codify:find-replace path="§47-2844|(a-1)|(1)|(B)" count="1" codified:doc="D.C. Code" codified:path="§47-2844">
         <find>possession, sale</find>
         <replace>possession, other than for personal use, sale</replace>
       </codify:find-replace>
