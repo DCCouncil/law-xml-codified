@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-773.03</num>
   <text>
-      *NOTE: This section was created by temporary legislation that will expire on May 1, 2025.*
+      *NOTE: This section was created by temporary legislation that will expire on December 12, 2025.*
       </text>
   <heading proof="needed">Relationship to other services.</heading>
   <text>Services and supports provided under <cite path="4|7C">this chapter</cite> shall not be considered Continuum of Care services under <cite path="4|7A">Chapter 7A of this title</cite>.</text>
@@ -10,7 +10,7 @@
   <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§4-773.03" applicability="2024-09-18" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-773.03">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 25-214" path="§103">§ 103 of Migrant Services and Supports Extension Temporary Amendment Act of 2024 (D.C. Law 25-214, Sept. 18, 2024, 71 DCR 9949)</cite>.</codify:annotation>
   <codify:insert doc="D.C. Code" path="§4-773.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-773.03">
     <text>
-      *NOTE: This section was created by temporary legislation that will expire on May 1, 2025.*
+      *NOTE: This section was created by temporary legislation that will expire on December 12, 2025.*
       </text>
   </codify:insert>
   <annotations>
@@ -33,5 +33,8 @@
     <annotation doc="D.C. Act 26-62" path="§3" type="Expiration of Law" history="false" display-template="" app="2025-04-24" eff="2025-04-24"><cite doc="D.C. Act 26-62" path="§3"> Section 3 of D.C. Act 26-62</cite> provided that the amendments made to this section by <cite doc="D.C. Law 25-214" path="§303|(b)">§ 303(b) of D.C. Law 25-214</cite> shall expire 450 days after September 18, 2024.
       </annotation>
     <annotation app="2025-04-24" doc="D.C. Act 26-62" eff="2025-04-24" path="§3" type="History" display="false"/>
+    <annotation doc="D.C. Law 26-18" path="§3" type="Expiration of Law" history="false" display-template="" app="2025-07-16" eff="2025-07-16"><cite doc="D.C. Law 26-18" path="§3"> Section 3 of D.C. Law 26-18</cite> provided that the amendments made to this section by <cite doc="D.C. Law 25-214" path="§303|(b)">§ 303(b) of D.C. Law 25-214</cite> shall expire 450 days after September 18, 2024.
+      </annotation>
+    <annotation app="2025-07-16" doc="D.C. Law 26-18" eff="2025-07-16" path="§3" type="History" display="false"/>
   </annotations>
 </section>
