@@ -7367,6 +7367,10 @@
           <num>(b)</num>
           <text>The existing text is designated as subsection (a).</text>
           <codify:redesignate-para num-value="(a)" codified:doc="D.C. Code" codified:path="§50-921.21"/>
+          <codify:find-replace path="(a)|(4)" count="1" codified:doc="D.C. Code" codified:path="§50-921.21|(a)|(4)">
+            <find>of this section</find>
+            <replace>of this section [subsection]</replace>
+          </codify:find-replace>
         </para>
         <para>
           <num>(c)</num>

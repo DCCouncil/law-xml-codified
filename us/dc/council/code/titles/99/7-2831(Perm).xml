@@ -1,13 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <num>7-2831</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 18, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§7-2831(Perm)">Permanent Version</cite>.*
-      </text>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <num>7-2831(Perm)</num>
   <heading>Private Security Camera System Incentive Program.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established a Private Security Camera System Incentive Program ("Program"), to be administered by the Mayor, to encourage the purchase and installation of a security camera system on the exterior of a building owned or leased by an individual, business, nonprofit, religious institution, or other entity as defined in <cite path="§29-101.02|(10)" doc="D.C. Law 21-125">§ 29-101.02(10)</cite>, and to require registration of the system with the Metropolitan Police Department.</text>
+    <text>There is established a Private Security Camera System Incentive Program ("Program"), to be administered by the Mayor, to encourage the purchase and installation of a security camera system on the exterior of a building owned or leased by an individual, business, nonprofit, religious institution, or other entity as defined in <cite path="§29-101.02|(10)">§ 29-101.02(10)</cite>, and to require registration of the system with the Metropolitan Police Department.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -40,20 +37,16 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>Up to $200 per camera installed on the exterior of a building owned or leased by a business, nonprofit, religious institution, or other entity as defined in <cite path="§29-101.02|(10)" doc="D.C. Law 21-125">§ 29-101.02(10)</cite> with a maximum rebate of up to $750 per system per address.</text>
+        <text>Up to $200 per camera installed on the exterior of a building owned or leased by a business, nonprofit, religious institution, or other entity as defined in <cite path="§29-101.02|(10)">§ 29-101.02(10)</cite> with a maximum rebate of up to $750 per system per address.</text>
       </para>
-    </para>
-    <para>
-      <num>([1])</num>
-      <text><b>[Conditioned upon rules issued pursuant to subsection (f)(5) of this section]</b> Upon approval of a rebate claim submitted pursuant to subsection (b) of this section, the Program shall provide a rebate; provided, that the amount of the rebate shall not be more than the purchase price of the system.</text>
     </para>
     <para>
       <num>(2)</num>
       <text>Rebates shall be contingent upon the availability of funds.</text>
     </para>
-    <para placeholder="Repealed">
+    <para>
       <num>(3)</num>
-      <text>Repealed.</text>
+      <text>No rebates shall be issued until the Mayor promulgates rules pursuant to subsection (f) of this section.</text>
     </para>
   </para>
   <para>
@@ -85,9 +78,9 @@
         <num>(B)</num>
         <text>Vouchers shall be contingent upon the availability of funds.</text>
       </para>
-      <para placeholder="Repealed">
+      <para>
         <num>(C)</num>
-        <text>Repealed.</text>
+        <text>No vouchers shall be issued until the Mayor promulgates rules pursuant to subsection (f) of this section.</text>
       </para>
     </para>
     <para>
@@ -108,15 +101,11 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>Identification of priority areas for Program eligibility; provided, that the priority areas include at least one area in each ward identified by crime levels and other public safety indicators in the corresponding police service area;</text>
+      <text>Identification of priority areas for Program eligibility; provided, that the priority areas include at least one area in each ward identified by crime levels and other public safety indicators in the corresponding police service area; and</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>Requirements and procedures for participating in the voucher option under subsection (d) of this section; and</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>The maximum amount of rebate that will be available under this section after the applicability date of subsection (a)([1]) of this section.</text>
+      <text>Requirements and procedures for participating in the voucher option under subsection (d) of this section.</text>
     </para>
   </para>
   <para>
@@ -164,28 +153,7 @@
     <text>For the purposes of this section, the term "security camera system" or "system" means one or more outdoor surveillance cameras with functioning digital video recording capability.</text>
   </para>
   <annotations>
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="II" type="History" display="false"/>
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="II|K" type="History" display="false"/>
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§214" type="History"/>
-    <annotation doc="D.C. Law 21-125" path="§214" type="Emergency Legislation" history="false" app="2016-06-30" eff="2016-06-30">
-          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 21-361" path="§2">§ 2 of Private Security Camera Incentive Program Congressional Review Emergency Act of 2016 (D.C. Act 21-361, Apr. 27, 2016, 63 DCR 6826)</cite>.        
-        </annotation>
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§214" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-434" path="§3032|(b)" codified:display="Note" app="2018-07-30" eff="2018-07-30">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-434" path="§3032|(b)">§ 3032(b) of Fiscal Year 2019 Budget Support Emergency Act of 2018 (D.C. Act 22-434, July 30, 2018, 65 DCR 8200)</cite>.</annotation>
-    <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§3032|(b)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§3032|(b)" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-458" path="§3032|(b)">§ 3032(b) of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
-    <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§3032|(b)" type="History" display="false"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3032|(b)" type="History"/>
-    <annotation app="2023-07-20" doc="D.C. Act 25-175" eff="2023-07-20" path="§2" type="History" display="false"/>
-    <annotation app="2023-07-20" doc="D.C. Act 25-175" eff="2023-07-20" path="§2|(a)|(1)" type="History"/>
-    <annotation app="2023-07-20" doc="D.C. Act 25-175" eff="2023-07-20" path="§2|(a)|(2)" type="History"/>
-    <annotation app="2023-07-20" doc="D.C. Act 25-175" eff="2023-07-20" path="§2|(b)" type="History"/>
-    <annotation app="2023-07-20" doc="D.C. Act 25-175" eff="2023-07-20" path="§2|(c)|(1)" type="History"/>
-    <annotation app="2023-07-20" doc="D.C. Act 25-175" eff="2023-07-20" path="§2|(c)|(2)" type="History"/>
-    <annotation app="2023-07-20" doc="D.C. Act 25-175" eff="2023-07-20" path="§2|(c)|(3)" type="History"/>
-    <annotation doc="D.C. Act 25-175" path="§2" type="Applicability" history="false" app="2023-07-20" eff="2023-07-20">
-          Section 13 of D.C. Act 25-175 provided that the amendments to this section by § 2 of D.C. Act 25-175 shall apply upon the effective date of the rules issued pursuant to § 7-2831(f)(5).
-    </annotation>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-175" path="§2" codified:display="Note" app="2023-07-20" eff="2023-07-20">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-175" path="§2">§ 2 of Prioritizing Public Safety Emergency Amendment Act of 2023 (D.C. Act 25-175, July 20, 2023, 00 DCR 0000)</cite>.</annotation>
+    <annotation doc="D.C. Law 21-125" type="History">June 30, 2016, D.C. Law 21-125, § 214, 63 DCR 4659</annotation>
+    <annotation doc="D.C. Law 22-168" type="History">Oct. 30, 2018, D.C. Law 22-168, § 3032(b), 65 DCR 9388</annotation>
   </annotations>
 </section>

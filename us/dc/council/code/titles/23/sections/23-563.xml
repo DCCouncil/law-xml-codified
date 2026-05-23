@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>23-563</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 18, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§23-563(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Territorial and other limits.</heading>
   <para>
     <num>(a)</num>
@@ -8,7 +11,29 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>A warrant or summons issued by the Superior Court of the District of Columbia for an offense punishable by imprisonment for not more than one year, or by a fine only, or by such imprisonment and a fine, may be served in any place in the District of Columbia but may not be executed more than one year after the date of issuance.</text>
+    <para>
+      <num>(1)</num>
+      <text>A warrant or summons issued by the Superior Court of the District of Columbia for an offense punishable by imprisonment for not more than one year, or by a fine only, or by such imprisonment and a fine:</text>
+      <para>
+        <num>(A)</num>
+        <para>
+          <num>(i)</num>
+          <text>May be served in any place in the District of Columbia; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>May be served at any place within the jurisdiction of the United States, if a judicial officer of the Superior Court of the District of Columbia finds that good cause exists for the warrant or summons to be served at any place within the jurisdiction of the United States; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>May not be executed more than one year after the date of issuance.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Good cause for the warrant or summons to be served at any place within the jurisdiction of the United States is presumed where the warrant or summons is for an intrafamily offense, as defined in <cite path="§16-1001|(8)">§ 16-1001(8)</cite>, or where the warrant or summons is for an offense under <cite path="22|30">Chapter 30 of Title 22</cite> of the District of Columbia Official Code.</text>
+    </para>
   </para>
   <para>
     <num>(c)</num>
@@ -28,5 +53,8 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-73">D.C. Law 14-73</cite>, in subsec. (a), inserted “a felony under  sections 16-1022 and  16-1024” after “summons for”.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 23-563.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 23-563.</annotation>
+    <annotation app="2023-07-20" doc="D.C. Act 25-175" eff="2023-07-20" path="§7|(a)" type="History" display="false"/>
+    <annotation app="2023-07-20" doc="D.C. Act 25-175" eff="2023-07-20" path="§7|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-175" path="§7|(a)" codified:display="Note" app="2023-07-20" eff="2023-07-20">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-175" path="§7|(a)">§ 7(a) of Prioritizing Public Safety Emergency Amendment Act of 2023 (D.C. Act 25-175, July 20, 2023, 00 DCR 0000)</cite>.</annotation>
   </annotations>
 </section>

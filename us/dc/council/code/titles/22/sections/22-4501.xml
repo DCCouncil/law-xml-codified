@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>22-4501</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 18, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§22-4501(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <para>
     <num undesignated="true">(a)</num>
@@ -46,6 +49,18 @@
       <text>“Machine gun” shall have the same meaning as provided in <cite path="§7-2501.01|(10)">§ 7-2501.01(10)</cite>.</text>
     </para>
     <para>
+      <num>(4A)</num>
+      <text>"Open to the general public" means a location:</text>
+      <para>
+        <num>(A)</num>
+        <text>To which the public is invited; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>For which no payment, membership, affiliation, appointment, or special permission is required for an adult to enter, other than proof of age or a security screening.</text>
+      </para>
+    </para>
+    <para>
       <num>(5)</num>
       <text>“Person” includes individual, firm, association, or corporation.</text>
     </para>
@@ -63,6 +78,10 @@
     </para>
     <para>
       <num>(7A)</num>
+      <text>"Public conveyance" means any government-operated air, land, or water vehicle used for the transportation of persons, including any airplane, train, bus, or boat.</text>
+    </para>
+    <para>
+      <num>(7B)</num>
       <text>“Registrant” means a person who has registered a firearm pursuant to Unit A of <cite path="7|25">Chapter 25 of Title 7</cite>.</text>
     </para>
     <para>
@@ -147,5 +166,10 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-25" path="§6|(a)" codified:display="Note" app="2021-02-26" eff="2021-02-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-25" path="§6|(a)">§ 6(a) of Omnibus Public Safety and Justice Emergency Amendment Act of 2021 (D.C. Act 24-25, Feb. 26, 2021, 68 DCR 002604)</cite>.</annotation>
     <annotation app="2021-02-26" doc="D.C. Act 24-25" eff="2021-02-26" path="§6|(a)" type="History" display="false"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§202|(a)" type="History"/>
+    <annotation app="2023-07-20" doc="D.C. Act 25-175" eff="2023-07-20" path="§6|(a)" type="History" display="false"/>
+    <annotation app="2023-07-20" doc="D.C. Act 25-175" eff="2023-07-20" path="§6|(a)|(1)" type="History"/>
+    <annotation app="2023-07-20" doc="D.C. Act 25-175" eff="2023-07-20" path="§6|(a)|(3)" type="History"/>
+    <annotation app="2023-07-20" doc="D.C. Act 25-175" eff="2023-07-20" path="§6|(a)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-175" path="§6|(a)" codified:display="Note" app="2023-07-20" eff="2023-07-20">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-175" path="§6|(a)">§ 6(a) of Prioritizing Public Safety Emergency Amendment Act of 2023 (D.C. Act 25-175, July 20, 2023, 00 DCR 0000)</cite>.</annotation>
   </annotations>
 </section>
