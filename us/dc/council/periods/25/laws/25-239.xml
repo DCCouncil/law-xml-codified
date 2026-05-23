@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Act 25-594">
+<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 25-239" codify:doc="D.C. Code">
+  <num type="law">25-239</num>
   <num type="act">25-594</num>
   <num type="bill">25-576</num>
   <heading type="short">Protecting Historic Homes Amendment Act of 2024</heading>
   <heading type="long">To amend the Historic Landmark and Historic District Protection Act of 1978 to provide that civil fines, penalties, or fees assessed by the Historic Preservation Office account for the severity of the violation, start at the amount set for a Class 1 violation and not be more $10,000 per violation, and to require that civil fines, penalties, or fees assessed for substantial demolition, alternation, or new construction account for the severity of the violation and start at $10,000 but not be more than $25,000 per violation; and to amend the Migratory Local Wildlife Protection Act of 2022 to make the requirements of the law applicable to permits submitted and issued after January 1, 2025.</heading>
   <meta>
     <introduced>2023-11-15</introduced>
-    <effective>2024-10-24</effective>
+    <effective>2024-12-17</effective>
     <citations>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/54297/Signed_Act/B25-0576-Signed_Act.pdf?Id=200338">D.C. Law 25-239</citation>
       <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/54297/Signed_Act/B25-0576-Signed_Act.pdf?Id=200338">D.C. Act 25-594</citation>
       <citation type="register">71 DCR 12982</citation>
     </citations>
@@ -20,15 +22,16 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Protecting Historic Homes Amendment Act of 2024".</text>
-  <section>
+  <section codify:path="§6-1110|(c)">
     <num>2</num>
     <text>Section 11(c) of the Historic Landmark and Historic District Protection Act of 1978, effective March 3, 1979 (D.C. Law 2-144; D.C. Official Code § 6-1110(c)), is amended to read as follows:</text>
     <include>
       <para>
+        <codify:replace codified:doc="D.C. Code" codified:path="§6-1110|(c)"/>
         <num>(c)</num>
         <para>
           <num>(1)</num>
-          <text>Civil fines, penalties, and fees may be imposed as alternative sanctions for any infraction of the provisions of this act, or any rules or regulations issued under the authority of this act, pursuant to titles I-III of the Department of Consumer and Regulatory Affairs Civil Infractions Act of 1985, effective October 5, 1985 (D.C. Law 6-42; D.C. Official Code § 2-1801.01 <em>et seq.</em>).</text>
+          <text>Civil fines, penalties, and fees may be imposed as alternative sanctions for any infraction of the provisions of this act, or any rules or regulations issued under the authority of <code-cite doc="D.C. Code" path="6|11|I">this act</code-cite>, pursuant to <code-cite doc="D.C. Code" path="2|18">titles I-III of the Department of Consumer and Regulatory Affairs Civil Infractions Act of 1985, effective October 5, 1985 (D.C. Law 6-42; D.C. Official Code § 2-1801.01 <em>et seq.</em>)</code-cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -61,13 +64,14 @@
     </include>
     <aftertext>.</aftertext>
   </section>
-  <section>
+  <section codify:path="§8-2241.02|(a)">
     <num>3</num>
     <text>Section 3(a)(1) of the Migratory Local Wildlife Protection Act of 2022, effective March 22, 2023 (D.C. Law 24-337; D.C. Code § 8-2241.02(a)(1)), is amended to read as follows:</text>
     <include>
       <para>
         <num>(a)</num>
         <para>
+          <codify:replace path="(1)" codified:doc="D.C. Code" codified:path="§8-2241.02|(a)|(1)"/>
           <num>(1)</num>
           <text>For buildings built or constructed pursuant to building permit applications submitted on or after January 1, 2025, including for new construction, or for alterations involving the replacement of all or substantially all exterior glazing on commercial buildings, multi-unit residential buildings, institutional facilities, or District-owned or operated buildings, each façade of the exterior wall envelope and any exterior fenestration shall be constructed with bird-friendly materials up to 100 feet above grade; except, that other materials may be used to the extent that they do not exceed an aggregate of 10 square feet within any 10 feet by 10 feet square area of exterior wall below 100 feet above grade.</text>
         </para>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-902</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on March 17, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-902(Perm)">Past Permanent Version</cite>.*
+      </text>
   <heading>Enumeration of transfers exempt from tax.</heading>
   <text>The following transfers shall be exempt from the tax imposed by this chapter:</text>
   <para>
@@ -189,6 +192,10 @@
       <text>The amount of all taxes, fees, and deposits exempted under this paragraph and <cite path="§42-1102|(36)">§ 42-1102(36)</cite>, shall not exceed, in the aggregate, $420,840.</text>
     </para>
   </para>
+  <para>
+    <num>(29)</num>
+    <text>Transfers with respect to the real property (and any improvements thereon) described as Lot 47 in Square 455 and Lot 884 in Square 454 (and any adjacent air space leased pursuant <cite doc="D.C. Act 25-653" path="§4|(a)">section 4(a) of the Downtown Sports Arena Revitalization Emergency Act of 2024, passed on emergency basis on December 3, 2024 (Enrolled version of Bill 25-1062)</cite>), to the extent such transfer is a transfer between the District and DC Arena L.P., or its designee, pursuant to the lease or purchase and sale agreement approved by <cite doc="D.C. Act 25-653" path="§2|(a)">section 2(a) of the Downtown Sports Arena Revitalization Emergency Act of 2024, passed on emergency basis on December 3, 2024 (Enrolled version of Bill 25-1062)</cite>, as may be amended from time to time, or a lease authorized by <cite doc="D.C. Act-25-653" path="§4|(a)">section 4(a) of the Downtown Sports Arena Revitalization Emergency Act of 2024, passed on emergency basis on December 3, 2024 (Enrolled version of Bill 25-1062)</cite>.</text>
+  </para>
   <annotations>
     <text type="Editor's Notes"><cite doc="D.C. Law 20-141">D.C. Law 20-141</cite> became effective on Dec. 4, 2014, but was repealed prior to its effective date by emergency D.C. Act 20-377, § 7114, eff. July 14, 2014, 61 DCR 7598, by emergency D.C. Act 20-449, § 7104, eff. October 10, 2014, 61 DCR 10915, by emergency D.C. Act 20-566, § 7104, eff. January 9, 2015, 62 DCR 884, and by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite>, § 7104, 61 DCR 9990.</text>
     <text type="Editor's Notes">Applicability of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite>: Section 7153(b) of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that § 7153(a) (which added <cite path="§47-902|(25)">§ 47-902(25)</cite>) shall apply as of September 20, 2012.</text>
@@ -323,5 +330,8 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-148" path="§5" codified:display="Note" app="2017-10-10" eff="2017-10-10">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-148" path="§5">§ 5 of Inclusionary Zoning Consistency Congressional Review Emergency Amendment Act of 2017 (D.C. Act 22-148, Oct. 10, 2017, 64 DCR 10447)</cite>.</annotation>
     <annotation app="2017-10-10" doc="D.C. Act 22-148" eff="2017-10-10" path="§5" type="History" display="false"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7173" type="History"/>
+    <annotation app="2024-12-17" doc="D.C. Act 25-653" eff="2024-12-17" path="§5|(c)" type="History" display="false"/>
+    <annotation app="2024-12-17" doc="D.C. Act 25-653" eff="2024-12-17" path="§5|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-653" path="§5|(c)" codified:display="Note" app="2024-12-17" eff="2024-12-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-653" path="§5|(c)">§ 5(c) of Downtown Arena Revitalization Emergency Act of 2024 (D.C. Act 25-653, Dec. 17, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

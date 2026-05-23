@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Act 25-598">
+<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 25-243" codify:doc="D.C. Code">
+  <num type="law">25-243</num>
   <num type="act">25-598</num>
   <num type="bill">25-654</num>
   <heading type="short">Protecting Adjacent and Adjoining Property Owners from Construction Damage Amendment Act of 2024</heading>
   <heading type="long">To amend the Construction Codes Approval and Amendments Act of 1986 to require a property owner, contractor, or person applying for specific permits for construction work to demonstrate that his or her insurance will insure adjacent property owners for loss or damage that arises out of the proposed construction work.</heading>
   <meta>
     <introduced>2024-01-04</introduced>
-    <effective>2024-10-24</effective>
+    <effective>2024-12-17</effective>
     <citations>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/54576/Signed_Act/B25-0654-Signed_Act.pdf?Id=200343">D.C. Law 25-243</citation>
       <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/54576/Signed_Act/B25-0654-Signed_Act.pdf?Id=200343">D.C. Act 25-598</citation>
       <citation type="register">71 DCR 12990</citation>
     </citations>
@@ -20,14 +22,15 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Protecting Adjacent and Adjoining Property Owners from Construction Damage Amendment Act of 2024".</text>
-  <section>
+  <section codify:path="§6-1405.01|(a)|(2A)">
     <num>2</num>
     <text>Sec. 6a(a)(2A) of the Construction Codes Approval and Amendments Act of 1986, effective April 20, 1999 (D.C. Law 12-261; D.C. Official Code § 6-1405.01(a)(2A)), is amended as follows:</text>
-    <para>
+    <para codify:path="(B)">
       <num>(a)</num>
       <text>Subparagraph (B) is amended to read as follows:</text>
       <include lvl="2">
         <para>
+          <codify:replace codified:doc="D.C. Code" codified:path="§6-1405.01|(a)|(2A)|(B)"/>
           <num>(B)</num>
           <text>The following permits shall require insurance pursuant to subparagraph (A) of this paragraph; provided, that the requirements shall only apply to permits issued 90 days after the adoption of emergency or final rules issued by the Mayor pursuant to subparagraph (E) of this paragraph:</text>
           <para>
@@ -66,24 +69,26 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <para>
+    <para codify:path="(D)|(i)">
       <num>(b)</num>
       <text>Subparagraph (D)(i) is amended to read as follows:</text>
       <include lvl="3">
         <para>
+          <codify:replace codified:doc="D.C. Code" codified:path="§6-1405.01|(a)|(2A)|(D)|(i)"/>
           <num>(i)</num>
           <text>"Adjacent property" means any privately held real property (all or a portion thereof) within 30 feet of a property line of the real property for which the permit is applied.</text>
         </para>
       </include>
       <aftertext>.</aftertext>
     </para>
-    <para>
+    <para codify:path="(E)">
       <num>(c)</num>
       <text>Subparagraph (E) is amended to read as follows:</text>
       <include lvl="2">
         <para>
+          <codify:replace codified:doc="D.C. Code" codified:path="§6-1405.01|(a)|(2A)|(E)"/>
           <num>(E)</num>
-          <text>The Mayor shall issue rules to implement this paragraph, pursuant to the authority provided in section 10.</text>
+          <text>The Mayor shall issue rules to implement this paragraph, pursuant to the authority provided in <code-cite doc="D.C. Code" path="§6-1409">section 10</code-cite>.</text>
         </para>
       </include>
       <aftertext>.</aftertext>

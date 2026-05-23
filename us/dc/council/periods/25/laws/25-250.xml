@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Act 25-608">
+<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 25-250" codify:doc="D.C. Code">
+  <num type="law">25-250</num>
   <num type="act">25-608</num>
   <num type="bill">25-748</num>
   <heading type="short">Joseph P. Yeldell Plaza Designation Act of 2024</heading>
   <heading type="long">To symbolically designate North Portal Drive, NW, between 16th Street, NW, and Tamarack Street, NW, as Joseph P. Yeldell Plaza.</heading>
   <meta>
     <introduced>2024-03-14</introduced>
-    <effective>2024-10-28</effective>
+    <effective>2024-12-17</effective>
     <citations>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/54985/Signed_Act/B25-0748-Signed_Act.pdf?Id=200404">D.C. Law 25-250</citation>
       <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/54985/Signed_Act/B25-0748-Signed_Act.pdf?Id=200404">D.C. Act 25-608</citation>
       <citation type="register">71 DCR 13493</citation>
     </citations>
@@ -23,6 +25,7 @@
   <section>
     <num>2</num>
     <text>Pursuant to sections 401, 403a, and 423 of the Street and Alley Closing and Acquisition Procedures Act of 1982, effective March 10, 1983 (D.C. Law 4-201; D.C. Official Code §§ 9-204.01, 9-204.03a, and 9-204.23), the Council symbolically designates North Portal Drive, NW, between 16th Street, NW, and Tamarack Street, NW, as "Joseph P. Yeldell Plaza".</text>
+    <codify:street-designation-anno action="the Council designates North Portal Drive, NW, between 16th Street, NW, and Tamarack Street, NW, as &quot;Joseph P. Yeldell Plaza" codified:doc="D.C. Code" codified:path="§9-204.01" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

@@ -1,19 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>10-1121.07</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on March 17, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§10-1121.07(Perm)">Past Permanent Version</cite>.*
+      </text>
   <heading>Airspace and structures erected thereon deemed real property for purpose of taxation, water and sewer charges; exemptions.</heading>
   <text>For the purposes of this subchapter, airspace and structures constructed or erected in airspace shall be deemed to be real property and shall be liable to assessment, taxation, and water and sewer service charges by the District from the beginning of the term or period of such lease. For the purposes of real property assessments and taxation, the value of airspace, other than any structure constructed or erected in airspace, shall be its fair market value. No tax or assessment shall be levied with respect to airspace or structures in airspace:</text>
   <para>
     <num>(1)</num>
-    <text>Occupied exclusively by the federal government or the District government; or</text>
+    <text>Occupied exclusively by the federal government or the District government;</text>
   </para>
   <para>
     <num>(2)</num>
-    <text>Occupied and used by 1 or more organizations which, under <cite path="§47-1002">§ 47-1002</cite>, are exempt from real property taxation.</text>
+    <text>Occupied and used by 1 or more organizations which, under <cite path="§47-1002">§ 47-1002</cite>, are exempt from real property taxation; or</text>
+  </para>
+  <para>
+    <num>(3)</num>
+    <text>Leased pursuant to <cite doc="D.C. Act 25-653" path="§4|(a)">section 4(a) of the Downtown Arena Revitalization Emergency Act of 2024, passed on emergency basis on December 3, 2024 (Enrolled version of Bill 25-1062)</cite>.</text>
   </para>
   <annotations>
     <annotation doc="Pub. L. 90-598" type="History" path="§8">Oct. 17, 1968, 82 Stat. 1167, Pub. L. 90-598, § 8</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 7-947.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 7-1037.</annotation>
+    <annotation app="2024-12-17" doc="D.C. Act 25-653" eff="2024-12-17" path="§4|(b)" type="History" display="false"/>
+    <annotation app="2024-12-17" doc="D.C. Act 25-653" eff="2024-12-17" path="§4|(b)|(1)" type="History"/>
+    <annotation app="2024-12-17" doc="D.C. Act 25-653" eff="2024-12-17" path="§4|(b)|(2)" type="History"/>
+    <annotation app="2024-12-17" doc="D.C. Act 25-653" eff="2024-12-17" path="§4|(b)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-653" path="§4|(b)" codified:display="Note" app="2024-12-17" eff="2024-12-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-653" path="§4|(b)">§ 4(b) of Downtown Arena Revitalization Emergency Act of 2024 (D.C. Act 25-653, Dec. 17, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
