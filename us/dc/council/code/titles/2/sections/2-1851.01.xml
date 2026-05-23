@@ -2,27 +2,10 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>2-1851.01</num>
   <text>
-      *NOTE: This section was created by temporary legislation that will expire on February 4, 2022.*
+      *NOTE: This section includes amendments to temporary legislation by temporary legislation that will expire on February 4, 2022. To view the text of the temporary legislation that created this section, click this link: <cite doc="D.C. Law 24-9">Temporary Version</cite>.*
       </text>
   <heading>Administrative hearings deadlines.</heading>
-  <para>
-    <num undesignated="true">(a)</num>
-    <text>Notwithstanding any provision of District law, but subject to applicable federal laws and regulations, during a period time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, the 90-day time period to request a hearing shall be tolled:</text>
-    <para>
-      <num>(1)</num>
-      <text>To review an adverse action by the Mayor concerning any new application for public assistance or any application or request for a change in the amount, kind or conditions of public assistance, or a decision by the Mayor to terminate, reduce, or change the amount, kind, or conditions of public assistance benefits or to take other action adverse to the recipient pursuant to <cite path="§4-210.09">§ 4-210.09</cite>; or</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>To appeal an adverse decision listed in <cite path="§4-754.41|(b)">§ 4-754.41(b)</cite>.</text>
-    </para>
-  </para>
-  <codify:temporary doc="D.C. Code" path="§2-1851.01" action="creation of this section" codified:doc="D.C. Code" codified:path="§2-1851.01" codified:display="Note"/>
-  <codify:insert doc="D.C. Code" path="§2-1851.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1851.01">
-    <text>
-      *NOTE: This section was created by temporary legislation that will expire on February 4, 2022.*
-      </text>
-  </codify:insert>
+  <text>Notwithstanding any provision of District law, but subject to applicable federal laws and regulations, the time period to request an administrative hearing for an appeal of a determination of benefits eligibility for unemployment compensation pursuant to <cite path="§51-111|(b)">§ 51-111(b)</cite> shall be tolled.</text>
   <annotations>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-326" path="§812" codified:display="Note" app="2021-06-24" eff="2020-05-27">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-326" path="§812">§ 812 of Coronavirus Support Emergency Amendment Act of 2020 (D.C. Act 23-326, May 27, 2020, 67 DCR 7045)</cite>.</annotation>
     <annotation app="2021-06-24" doc="D.C. Act 23-326" eff="2020-05-27" path="§812" type="History" display="false"/>
@@ -36,5 +19,12 @@
     <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§812" type="History" display="false"/>
     <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§812" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-9" path="§812" codified:display="Note" app="2021-06-24" eff="2021-06-24">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-9" path="§812">§ 812 of Coronavirus Support Temporary Amendment Act of 2021 (D.C. Law 24-9, June 24, 2021, 68 DCR 004824)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-167" path="§2" codified:display="Note" app="2021-07-25" eff="2021-07-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-167" path="§2">§ 2 of Office of Administrative Hearings Unemployment Appeals Extension Emergency Amendment Act of 2021 (D.C. Act 24-167, July 25, 2021, 68 DCR 009485)</cite>.</annotation>
+    <annotation app="2021-07-25" doc="D.C. Act 24-167" eff="2021-07-25" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-193" path="§2" codified:display="Note" app="2021-11-01" eff="2021-11-01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-193" path="§2">§ 2 of Office of Administrative Hearings Unemployment Appeals Extension Congressional Review Emergency Amendment Act of 2021 (D.C. Act 24-193, Nov. 1, 2021, 68 DCR 011599)</cite>.</annotation>
+    <annotation app="2021-11-01" doc="D.C. Act 24-193" eff="2021-11-01" path="§2" type="History" display="false"/>
+    <annotation app="2021-12-29" doc="D.C. Law 24-50" eff="2021-12-29" path="§2" type="History" display="false"/>
+    <annotation app="2021-12-29" doc="D.C. Law 24-50" eff="2021-12-29" path="§2" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-50" path="§2" codified:display="Note" app="2021-12-29" eff="2021-12-29">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-50" path="§2">§ 2 of Office of Administrative Hearings Unemployment Appeals Extension Temporary Amendment Act of 2021 (D.C. Law 24-50, Dec. 29, 2021, 68 DCR 011640)</cite>.</annotation>
   </annotations>
 </section>
