@@ -928,7 +928,7 @@
             <text>A new paragraph (2) is added to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:insert codified:doc="D.C. Code" codified:path="§42-3505.01|(a)|(2)"/>
+                <codify:insert codified:doc="D.C. Code" codified:path="§42-3505.01|(a)"/>
                 <num>(2)</num>
                 <text>If a notice is served by posting a copy on the premises, a photograph of the posted notice must be submitted to the court. The photograph must have a readable timestamp that indicates the date and time of when the summons was posted.</text>
               </para>
@@ -940,7 +940,7 @@
             <text>A new paragraph (3) is added to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:insert codified:doc="D.C. Code" codified:path="§42-3505.01|(a)|(3)"/>
+                <codify:insert codified:doc="D.C. Code" codified:path="§42-3505.01|(a)"/>
                 <num>(3)</num>
                 <text>If the landlord knows the tenant speaks a primary language other than English or Spanish that is covered under <code-cite doc="D.C. Code" path="§2-1933">section 4 of the Language Access Act of 2004, effective June 19, 2004 (D.C. Law 15-167; D.C. Official Code § 2-1933)</code-cite>, the landlord must provide the notice in that language.</text>
               </para>
@@ -1160,7 +1160,6 @@
           <text>A new subsection (s) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§42-3505.01|(s)"/>
               <num>(s)</num>
               <text>Unless a purchaser of real property has obtained the deed to the property, the purchaser shall not evict a tenant.</text>
             </para>
@@ -1168,11 +1167,6 @@
           <aftertext>.</aftertext>
         </para>
         <codify:temporary doc="D.C. Code" path="§42-3505.01" codified:doc="D.C. Code" codified:path="§42-3505.01" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§42-3505.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-3505.01">
-          <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on June 9, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§42-3505.01(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
       <para codify:path="§42-3505.01a|(b)">
         <num>(2)</num>
