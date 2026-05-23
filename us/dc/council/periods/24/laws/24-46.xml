@@ -188,7 +188,7 @@
           <text>The lead-in language of subsection (a) is amended by striking the phrase "certified nurse-midwife" and inserting the phrase "certified nurse-midwife, certified midwife," in its place.</text>
           <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1206.62|(a)">
             <find>certified nurse-midwife</find>
-            <replace>certified nurse-midwife, certified midwife</replace>
+            <replace>certified nurse-midwife, certified midwife,</replace>
           </codify:find-replace>
         </para>
         <para codify:path="(b)|(1)">

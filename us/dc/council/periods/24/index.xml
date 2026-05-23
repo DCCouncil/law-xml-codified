@@ -3,6 +3,15 @@
   <heading>Council Period 24 (2021-2022)</heading>
   <text>RECENT ADDITIONS TO THE D.C. CODE</text>
   <text>
+    <cite doc="D.C. Act 24-379">• Foreclosure Moratorium Extension Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-379; Eff. Apr. 25, 2022)</cite>
+  </text>
+  <text>
+    <cite doc="D.C. Act 24-377">• Department of Human Services Emergency Powers Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-377; Eff. Apr. 25, 2022)</cite>
+  </text>
+  <text>
+    <cite doc="D.C. Act 24-372">• Law Enforcement Career Opportunities for District Residents Expansion Emergency Amendment Act of 2022 (D.C. Act 24-372; Eff. Apr. 25, 2022)</cite>
+  </text>
+  <text>
     <cite doc="D.C. Law 24-113">• Deputy Mayor for Planning and Economic Development Limited Grant-Making Authority Temporary Amendment Act of 2022 (D.C. Law 24-113; Eff. Apr. 9, 2022)</cite>
   </text>
   <text>
@@ -25,15 +34,6 @@
   </text>
   <text>
     <cite doc="D.C. Law 24-106">• Early Childhood Educator Equitable Compensation Task Force Temporary Amendment Act of 2022 (D.C. Law 24-106; Eff. Apr. 8, 2022)</cite>
-  </text>
-  <text>
-    <cite doc="D.C. Law 24-105">• Criminal Justice Involvement Reduction Temporary Amendment Act of 2021 (D.C. Law 24-105; Eff. Apr. 2, 2022)</cite>
-  </text>
-  <text>
-    <cite doc="D.C. Act 24-370">• Comprehensive Policing and Justice Reform Emergency Amendment Act of 2022 (D.C. Act 24-370; Eff. Apr. 7, 2022)</cite>
-  </text>
-  <text>
-    <cite doc="D.C. Act 24-369">• Hotel Enhanced Cleaning and Notice of Service Disruption Emergency Amendment Act of 2022 (D.C. Act 24-369; Eff. Apr. 7, 2022)</cite>
   </text>
   <collection name="permanent">
     <heading>Permanent Laws</heading>
@@ -65,6 +65,9 @@
   </collection>
   <collection name="emergency">
     <heading>Emergency Acts</heading>
+    <xi:include href="./acts/24-379.xml"/>
+    <xi:include href="./acts/24-377.xml"/>
+    <xi:include href="./acts/24-372.xml"/>
     <xi:include href="./acts/24-370.xml"/>
     <xi:include href="./acts/24-369.xml"/>
     <xi:include href="./acts/24-356.xml"/>
