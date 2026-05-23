@@ -1,18 +1,102 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-1301.37</num>
-  <heading>Suspension of license and registration for certain convictions; effect of proof of financial responsibility; vehicles owned or leased by the United States, a state, or a political subdivision thereof; suspension for foreign convictions.</heading>
+  <heading proof="needed">Suspension of license and registration upon conviction of certain offenses; exceptions; transmission of judgments.</heading>
   <para>
     <num>(a)</num>
-    <text>The license and registration of all vehicles registered in the name of any person who by a final order or judgment shall have been convicted of, or shall have forfeited any bond or collateral given to secure appearance for trial for a violation of any of the following provisions of law: (1) operating a motor vehicle while the person is intoxicated as defined by <cite path="§50-2206.01|(9)">§ 50-2206.01(9)</cite>, or while under the influence of intoxicating liquor or any drug or any combination thereof, or while the ability to operate a vehicle is impaired by the consumption of intoxicating liquor, or an individual under 21 years of age operating a motor vehicle when the individual’s blood, breath, or urine contains any measurable amount of alcohol; (2) any homicide committed by means of a motor vehicle; (3) leaving the scene of an accident in which the motor vehicle driven by him was involved and in which there is personal injury, without giving assistance or making known his identity and address and the identity and address of the owner of said vehicle; (4) aggravated reckless driving; (5) any felony in the commission of which a motor vehicle is used; or (6) a conviction of, or forfeiture of bail or collateral for an offense in any state which, if committed in the District of Columbia, would be one of the offenses listed in clauses (1) through (5) of this subsection; shall be suspended by the Mayor and shall remain so suspended and shall not at any time thereafter be renewed, nor shall any other motor vehicle be thereafter registered in the name of such person as owner, except that: (1) if such owner has previously given or shall immediately give and thereafter maintain proof of financial responsibility for the future with respect to all such vehicles registered by such person as the owner, the Mayor shall not suspend such registration unless otherwise required or permitted by law; or (2) if a conviction arose out of the operation, with permission, of a vehicle owned by or leased to the United States, the District of Columbia, a state, or a political subdivision of a state or a municipality thereof, the Mayor shall not suspend the registration of any vehicle so owned or leased. If such person be not a resident of the District of Columbia, the privilege of operating any motor vehicle in the District of Columbia and the privilege of operation within the District of Columbia of any motor vehicle owned by him shall be suspended until he shall have furnished proof of financial responsibility for the future with respect to all such vehicles registered by such person as the owner, and such person shall not be allowed a license, nor shall such owner be allowed to register any vehicle in the District of Columbia, until he has complied with the requirements of this subchapter to the same extent that would be necessary if, at the time of the conviction or forfeiture, he had held a license or had been the owner of a vehicle registered in the District of Columbia.</text>
+    <text>The DMV shall suspend, in accordance with the requirements of <cite path="§50-1301.38">§ 50-1301.38</cite>, the license and registration of any person who was convicted or adjudicated a juvenile delinquent by a final order or judgment for, or who forfeited any bond or collateral given to secure their appearance for trial for a violation of, the following offenses:</text>
+    <para>
+      <num>(1)</num>
+      <text>Driving under the influence (DUI) of alcohol or a drug, as described in <cite path="§50-2206.11">§ 50-2206.11</cite>;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Driving under the influence of alcohol or a drug; commercial vehicle, as described in <cite path="§50-2206.12">§ 50-2206.12</cite>;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Operating a vehicle while impaired, as described in <cite path="§50-2206.14">§ 50-2206.14</cite>;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Any homicide resulting from a person being struck by a motor vehicle, including:</text>
+      <para>
+        <num>(A)</num>
+        <text>Murder in the first degree, as described in <cite path="§22-2101">§ 22-2101</cite>;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Murder in the second degree, as described in <cite path="§22-2103">§ 22-2103</cite>;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Manslaughter; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Negligent homicide, as described in <cite path="§50-2203.01">§ 50-2203.01</cite>;</text>
+      </para>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Leaving after colliding, as described in <cite path="§50-2201.05c">§ 50-2201.05c</cite>;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Aggravated reckless driving, as described in <cite path="§50-2201.04|(b-1)">§50-2201.04(b-1)</cite>;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Any felony in the commission of which a motor vehicle is used; or</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>Any offense committed in another state which, if committed in the District of Columbia, would constitute one of the offenses listed in paragraphs (1) through (7) of this subsection.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
-    <text>Upon receipt of a certification from any state that the operating privilege of a resident of the District of Columbia has been suspended or revoked pursuant to a law providing for such suspension or revocation for a conviction or forfeiture under circumstances which would require the Mayor to suspend a nonresident’s operating privilege had the offense occurred in the District of Columbia, the Mayor shall suspend the license of such resident and the registration of all vehicles registered in his name.</text>
+    <text>Notwithstanding subsection (a) of this section, the DMV shall not suspend registrations as described in subsection (a) of this section in cases where the conviction was based on:</text>
+    <para>
+      <num>(1)</num>
+      <text>A person's operation of a vehicle owned by or leased to the United States, the District of Columbia, another state, or a political subdivision thereof; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The person was acting as an agent of the United States, the District of Columbia, another state, or a political subdivision thereof.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <para>
+      <num>(1)</num>
+      <para>
+        <num>(A)</num>
+        <text>Whenever a judgment of conviction for any offense listed in subsection (a) of this section has become final, the Superior Court of the District of Columbia shall transmit a record of the conviction to the DMV.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A judgment of conviction shall be deemed to have become final for the purposes of this subsection if:</text>
+        <para>
+          <num>(i)</num>
+          <text>No appeal is taken from the judgment upon the expiration of the time within which an appeal could have been taken; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>An appeal is taken from the judgment, the date upon which the judgment, having been sustained, can no longer be appealed from or reviewed on a writ of certiorari.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>If the DMV receives a record of a conviction of a nonresident, the DMV shall transmit the record to the state or territorial agency that issued the nonresident's license.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>Nothing in this section shall limit the power of a judge of the Superior Court of the District of Columbia to limit or restrict a defendant's driving privileges as a condition of a pre-trial release or as a component of the defendant's sentence.</text>
   </para>
   <annotations>
-    <text type="Expiration of Law">Section 8(b) of <cite doc="D.C. Law 12-212">D.C. Law 12-212</cite>, which provided that the act shall expire on September 30, 2000, was repealed by section 4 of <cite doc="D.C. Law 13-238">D.C. Law 13-238</cite>.</text>
-    <text type="Expiration of Law">Expiration of Law 12-212</text>
     <annotation type="History" doc="Stat. 83-2-ch222" path="§37">May 25, 1954, 68 Stat. 130, ch. 222, § 37</annotation>
     <annotation doc="Pub. L. 85-792" type="History">Aug. 28, 1958, 72 Stat. 955, Pub. L. 85-792, § 9</annotation>
     <annotation doc="Pub. L. 86-730" type="History">Sept. 8, 1960, 74 Stat. 862, Pub. L. 86-730, § 5</annotation>
@@ -43,7 +127,8 @@
     <annotation type="Prior Codifications">1981 Ed., § 40-437.</annotation>
     <annotation type="Applicability" doc="D.C. Law 25-161" path="§3|(e)" codified:display="Note" app="2024-04-20" eff="2024-04-20">Applicability of <cite doc="D.C. Law 25-161" path="">D.C. Law 25-161</cite>: <cite doc="D.C. Law 25-161" path="§8">§ 8 of D.C. Law 25-161</cite> provided that the change made to this section by <cite doc="D.C. Law 25-161" path="§3|(e)">§ 3(e) of D.C. Law 25-161</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§3|(e)" type="History"/>
-    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§8|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-161" eff="2024-04-20" path="§3|(e)" type="History"/>
+    <annotation doc="D.C. Act 26-273" path="§2" type="Applicability" app="2026-03-04" eff="2026-03-04">Section 2 of <cite doc="D.C. Act 26-273" path="§2">D.C. Act 26-273</cite> provided that the amendments made to this section by <cite doc="D.C. Law 25-161" path="§3|(e)">section 3(e) of D.C. Law 25-161</cite> shall apply as of March 4, 2026.  Therefore those amendments have been implemented.
+         </annotation>
+    <annotation app="2026-03-04" doc="D.C. Act 26-273" eff="2026-03-04" path="§2" type="History"/>
   </annotations>
 </section>

@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>50-1301.39</num>
   <heading>Suspension of unlicensed or licensed person after certain convictions; proof of financial responsibility required; certificate of conviction to be forwarded to Mayor.</heading>
-  <para>
-    <num>(a)</num>
-    <text>If a person by final order or judgment is convicted of or forfeits any bail or collateral deposited to secure an appearance for trial for driving a motor vehicle within the District of Columbia at a time when his license is suspended or revoked, the operating privilege of such person shall be suspended and no license shall thereafter be issued to such person, but if such person has obtained a license prior to the time the Mayor has issued an order precluding the issuance of such license, then such license shall be suspended; and no vehicle shall continue to be registered or thereafter be registered in the name of such person as owner, unless such person shall give and thereafter maintain proof of financial responsibility.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>It shall be the duty of the clerk of the court in which any such conviction or forfeiture is ordered to forward immediately to the Mayor a certified copy of said order, which certified copy shall be prima facie evidence of the facts stated therein.</text>
-  </para>
+  <text>Repealed.</text>
   <annotations>
     <annotation type="History" doc="Stat. 83-2-ch222" path="§39">May 25, 1954, 68 Stat. 131, ch. 222, § 39</annotation>
     <annotation doc="Pub. L. 85-792" type="History">Aug. 28, 1958, 72 Stat. 956, Pub. L. 85-792, § 10</annotation>
@@ -19,7 +13,5 @@
     <annotation type="Prior Codifications">1981 Ed., § 40-439.</annotation>
     <annotation type="Applicability" doc="D.C. Law 25-161" path="§3|(g)" codified:display="Note" app="2024-04-20" eff="2024-04-20">Applicability of <cite doc="D.C. Law 25-161" path="">D.C. Law 25-161</cite>: <cite doc="D.C. Law 25-161" path="§8">§ 8 of D.C. Law 25-161</cite> provided that the repeal of this section by <cite doc="D.C. Law 25-161" path="§3|(g)">§ 3(g) of D.C. Law 25-161</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§3|(g)" type="History"/>
-    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§8|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-161" eff="2024-04-20" path="§3|(g)" type="History"/>
   </annotations>
 </section>

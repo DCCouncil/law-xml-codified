@@ -1,16 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-1301.38</num>
-  <heading>Duration of suspension.</heading>
-  <text>The suspension or revocation hereinbefore required shall remain in effect and the Mayor shall not issue to such person any new or renewal of license or register or reregister in the name of such person as owner of any such vehicle until permitted under the motor vehicle laws of the District of Columbia and not then unless and until such person shall give and thereafter maintain proof of financial responsibility for the future.</text>
+  <heading proof="needed">Requirements for reinstatement of license and registration.</heading>
+  <para>
+    <num>(a)</num>
+    <text>For a person whose license and registration was suspended pursuant to <cite path="§50-1301.37">§ 50-1301.37</cite>, the person's license and registration shall remain suspended, and the person shall be ineligible for a new or renewed license or registration, until the person:</text>
+    <para>
+      <num>(1)</num>
+      <text>Completes a 6-month period of license and registration suspension;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Provides and maintains proof of financial responsibility;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Pays a $100 reinstatement fee;</text>
+    </para>
+    <para placeholder="Not Funded">
+      <num>(4)</num>
+      <text>Not Funded.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>If the person was traveling 20 miles per hour or more over the speed limit during the commission of the offense, successfully completes the period of enrollment in the Intelligent Speed Assistance Program as required by <cite path="§50-2201.05a-1">§ 50-2201.05a-1</cite>.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>If a person is required to be enrolled indefinitely in the Ignition Interlock Program pursuant to <cite path="§50-2201.05a|(h)|(1)|(D)">§50-2201.05a(h)(1)(D)</cite> or is required to be enrolled indefinitely in the Intelligent Speed Assistant Program pursuant to <cite path="§50-2201.05a-1|(c)|(4)">§50-2201.05a-1(c)(4)</cite>, the person shall not be issued a license and, instead, shall only be issued a restricted license subject to the condition that the person remain enrolled in the Ignition Interlock Program or Intelligent Speed Assistant Program, respectively.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>The DMV may, through rulemaking, adopt additional requirements that must be satisfied before a person's license is reinstated as described in subsection (a) of this section.</text>
+  </para>
   <annotations>
     <annotation type="History" doc="Stat. 83-2-ch222" path="§38">May 25, 1954, 68 Stat. 131, ch. 222, § 38</annotation>
     <annotation type="Change in Government">This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, <cite path="§1-207.11">§ 1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, <cite path="§1-207.14|(a)">§ 1-207.14(a)</cite>), appropriate changes in terminology were made in this section.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 40-454.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 40-438.</annotation>
+    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§8|(a)" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 25-161" path="§3|(f)" codified:display="Note" app="2024-04-20" eff="2024-04-20">Applicability of <cite doc="D.C. Law 25-161" path="">D.C. Law 25-161</cite>: <cite doc="D.C. Law 25-161" path="§8">§ 8 of D.C. Law 25-161</cite> provided that the change made to this section by <cite doc="D.C. Law 25-161" path="§3|(f)">§ 3(f) of D.C. Law 25-161</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§3|(f)" type="History"/>
-    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§8|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-161" eff="2024-04-20" path="§3|(f)" type="History"/>
+    <annotation doc="D.C. Act 26-273" path="§2" type="Applicability" app="2026-03-04" eff="2026-03-04">Section 2 of <cite doc="D.C. Act 26-273" path="§2">D.C. Act 26-273</cite> provided that the amendment made to paragraph (4) of subsection (a) of this section by <cite doc="D.C. Law 25-161" path="§3|(f)">section 3(f) of D.C. Law 25-161</cite> shall apply as of January 1, 2027. Therefore that amendment shall be implemented for this section on January 1, 2027. Furthermore, <cite doc="D.C. Act 26-273" path="§2">Section 2 of D.C. Act 26-273</cite> provided that, with respect to the Ignition Interlock Program, that portion of subsection (b) of this section shall apply as of January 1, 2027. All other amendments made to this section by <cite doc="D.C. Law 25-161" path="§3|(f)">section 3(f) of D.C. Law 25-161</cite> have been implemented and are effective from March 4, 2026.
+         </annotation>
+    <annotation app="2026-03-04" doc="D.C. Act 26-273" eff="2026-03-04" path="§2" type="History"/>
   </annotations>
 </section>

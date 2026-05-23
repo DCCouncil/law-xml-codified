@@ -67,7 +67,6 @@
       <text>A new paragraph (5) is added to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:insert after="(4)" num-value="(5)" codified:doc="D.C. Code" codified:path="§42-3502.05|(f)|(5)"/>
           <num>(5)</num>
           <para>
             <num>(A)</num>

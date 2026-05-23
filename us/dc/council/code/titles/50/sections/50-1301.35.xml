@@ -1,8 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-1301.35</num>
-  <heading>“Proof of financial responsibility for the future”, “proof”, or “proof of financial responsibility” defined.</heading>
-  <text>The terms “proof of financial responsibility for the future” or “proof” or “proof of financial responsibility” as used in this chapter shall mean: Proof that the motor vehicle subject to registration or reciprocity under the laws of the District of Columbia is an insured motor vehicle under the provisions of the Compulsory/No-Fault Motor Vehicle Insurance Act of 1982.</text>
+  <heading proof="needed">Definitions.</heading>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>For the purposes of [<cite path="50|13|V">this subchapter</cite>], the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>"DMV" means the Department of Motor Vehicles established by <cite path="§50-901|(a)">§ 50-901(a)</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Judgment" means any judgment which shall have become final by expiration without appeal of the time within which an appeal might have been perfected, or by final affirmation on appeal, rendered by a court of competent jurisdiction of any state, the District of Columbia, or of the United States, upon a cause of action arising out of the ownership, maintenance, or use of any vehicle of a type subject to registration under the laws of the District of Columbia, for damages, including damages for care and loss of services, because of bodily injury to or death of any person, or for damages because of injury to or destruction of property including the loss of use thereof, or upon a cause of action on an agreement of settlement for such damages.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Proof of financial responsibility" or "proof" means proof that the motor vehicle subject to registration or reciprocity under the laws of the District of Columbia is an insured motor vehicle under the provisions of <cite path="31|24">Chapter 24 of Title 31</cite>.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"State" means any state, territory, or possession of the United States or any province or territory of Canada.</text>
+    </para>
+  </para>
   <annotations>
     <annotation type="History" doc="Stat. 83-2-ch222" path="§35">May 25, 1954, 68 Stat. 129, ch. 222, § 35</annotation>
     <annotation doc="D.C. Law 4-155" type="History">Sept. 18, 1982, D.C. Law 4-155,§ 14(c)(2), 29 DCR 3491</annotation>
@@ -11,7 +30,8 @@
     <annotation type="Prior Codifications">1981 Ed., § 40-435.</annotation>
     <annotation type="Applicability" doc="D.C. Law 25-161" path="§3|(c)" codified:display="Note" app="2024-04-20" eff="2024-04-20">Applicability of <cite doc="D.C. Law 25-161" path="">D.C. Law 25-161</cite>: <cite doc="D.C. Law 25-161" path="§8">§ 8 of D.C. Law 25-161</cite> provided that the change made to this section by <cite doc="D.C. Law 25-161" path="§3|(c)">§ 3(c) of D.C. Law 25-161</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§3|(c)" type="History"/>
-    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§8|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-161" eff="2024-04-20" path="§3|(c)" type="History"/>
+    <annotation doc="D.C. Act 26-273" path="§2" type="Applicability" app="2026-03-04" eff="2026-03-04">Section 2 of <cite doc="D.C. Act 26-273" path="§2">D.C. Act 26-273</cite> provided that the amendments made to this section by <cite doc="D.C. Law 25-161" path="§3|(c)">section 3(c) of D.C. Law 25-161</cite> shall apply as of March 4, 2026. Therefore those amendments have been implemented.
+         </annotation>
+    <annotation app="2026-03-04" doc="D.C. Act 26-273" eff="2026-03-04" path="§2" type="History"/>
   </annotations>
 </section>
