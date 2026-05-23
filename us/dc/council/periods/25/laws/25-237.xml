@@ -48,20 +48,20 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:not-funded-anno doc="D.C. Law 25-237" applicability-path="§3|(a)" display-template="" codified:doc="D.C. Code" codified:path="§47-2001|(n)|(1)|(M)|(ii)" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Law 25-237" path="§2|(a)" applicability-path="§3" action="amendment to" display-template="" codified:doc="D.C. Code" codified:path="§47-2001|(n)|(1)|(M)|(ii)" codified:display="Note"/>
     </para>
     <para codify:path="§47-2005">
       <num>(b)</num>
       <text>Section § 47-2005 is amended by adding a new paragraph (41) to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:insert after="(40)" num-value="(41)" codified:doc="D.C. Code" codified:path="§47-2005"/>
+          <codify:insert after="(40)" num-value="(41)" codified:doc="D.C. Code" codified:path="§47-2005|(41)"/>
           <num>(41)</num>
           <text>The sale of or charge for landscape architecture services as described in § 47-2853.116 performed by a landscape architect licensed in the District or provided by a professional design firm that employs a landscape architect licensed in the District.</text>
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:not-funded-anno doc="D.C. Law 25-237" applicability-path="§3|(a)" display-template="" codified:doc="D.C. Code" codified:path="§47-2001|(n)|(1)|(M)|(ii)" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Law 25-237" path="§2|(b)" applicability-path="§3" action="amendment to" display-template="" codified:doc="D.C. Code" codified:path="§47-2005|(41)" codified:display="Note"/>
     </para>
   </section>
   <section>
@@ -70,8 +70,8 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 25-237" path="§2|(a)" date="not funded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-2001|(n)|(1)|(M)|(ii)"/>
-      <codify:applicability doc="D.C. Law 25-237" path="§2|(b)" date="not funded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-2005"/>
+      <codify:applicability doc="D.C. Law 25-237" path="§2|(a)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-2001|(n)|(1)|(M)|(ii)"/>
+      <codify:applicability doc="D.C. Law 25-237" path="§2|(b)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-2005|(41)"/>
     </para>
     <para>
       <num>(b)</num>
