@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>42-3505.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 16, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§42-3505.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Evictions.</heading>
   <para>
     <num>(a)</num>
@@ -459,11 +462,15 @@
     <num>(r)</num>
     <para>
       <num>(1)</num>
-      <text>The court shall stay any proceedings for a claim brought by a housing provider to recover possession of a rental unit for non-payment of rent if a tenant submits documentation to the court demonstrating that he or she has a pending Emergency Rental Assistance Program application. Proceedings shall be stayed until a determination of funding has been made and, if the application is approved, funding has been distributed to the housing provider.</text>
+      <text>The court may stay any proceedings for a claim brought by a housing provider to recover possession of a rental unit for non-payment of rent if a tenant submits documentation to the court demonstrating that he or she has a pending Emergency Rental Assistance Program application; provided, that the court may stay proceedings pursuant to this subsection only once during the pendency of the case.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>When an eviction that involves non-payment of rent has been authorized by the court and a tenant notifies the housing provider that he or she has a pending Emergency Rental Assistance Program application no later than 48 hours prior to the scheduled date and time of the eviction, the housing provider shall reschedule the eviction for a date no earlier than 3 weeks from the current scheduled eviction date to allow for the application to be processed, a determination of funding to be made, and, if the application is approved, funding to be distributed to the housing provider. Any further stay or rescheduling of the eviction date may only be granted by order of the Superior Court or by agreement of the housing provider.</text>
+      <text>The proviso in paragraph (1) of this subsection shall not be construed to limit a court's discretion to extend or continue a stay.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>When an eviction that involves non-payment of rent has been authorized by the court and a tenant notifies the housing provider that he or she has an approved Emergency Rental Assistance Program application that would pay the full amount of unpaid rent owed by the tenant no later than 48 hours prior to the scheduled date and time of the eviction, the housing provider shall reschedule the eviction for a date no earlier than 3 weeks from the current scheduled eviction date to allow for the application to be processed, a determination of funding to be made, and, if the application is approved, funding to be distributed to the housing provider.</text>
     </para>
   </para>
   <annotations>
@@ -623,5 +630,8 @@
     <annotation app="2023-03-10" doc="D.C. Law 24-287" eff="2023-03-10" path="§102" type="History"/>
     <annotation app="2023-11-28" doc="D.C. Law 25-65" eff="2023-11-28" path="§2|(c)|(1)" type="History"/>
     <annotation app="2023-11-28" doc="D.C. Law 25-65" eff="2023-11-28" path="§2|(c)|(2)" type="History"/>
+    <annotation app="2024-10-18" doc="D.C. Act 25-572" eff="2024-10-18" path="§3" type="History" display="false"/>
+    <annotation app="2024-10-18" doc="D.C. Act 25-572" eff="2024-10-18" path="§3" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-572" path="§3" codified:display="Note" app="2024-10-18" eff="2024-10-18">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-572" path="§3">§ 3 of Emergency Rental Assistance Reform Emergency Amendment Act of 2024 (D.C. Act 25-572, Oct. 18, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

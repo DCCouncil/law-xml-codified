@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-753.08</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 16, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§4-753.08(Perm)">Permanent Version</cite>.*
+      </text>
   <heading proof="needed">Emergency rental assistance.</heading>
   <para>
     <num>(a)</num>
@@ -24,7 +27,7 @@
       <num>(2)</num>
       <para>
         <num>(A)</num>
-        <text>To qualify for Emergency Rental Assistance Funds, an applicant unit may be required to document or otherwise establish:</text>
+        <text>To qualify for emergency rental assistance funds, an applicant unit shall be required to document:</text>
         <para>
           <num>(i)</num>
           <text>That the applicant unit is living in the District of Columbia at the time of application;</text>
@@ -43,7 +46,11 @@
         </para>
         <para>
           <num>(v)</num>
-          <text>The facts and circumstances surrounding rental arrearages, the security or damage deposit, or the first month's rent, including that the applicant unit is responsible for payment.</text>
+          <text>The facts and circumstances surrounding rental arrearages, the security or damage deposit, or the first month's rent, including that the applicant unit is responsible for payment; and</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>The nature of the emergency situation; provided, that if the nature of the emergency situation precludes documentation, an unsworn declaration made under penalty of perjury explaining both the emergency situation and the reason why the applicant unit does not possess documentation regarding the nature of the emergency situation may be considered sufficient documentation of proof for this element of an application.</text>
         </para>
       </para>
       <para>
@@ -51,9 +58,9 @@
         <text>Other than the requirements listed in subparagraph (A) of this paragraph, no other documentation or proof shall be required.</text>
       </para>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(3)</num>
-      <text>Provided that an applicant unit is eligible to receive Emergency Rental Assistance Funds, but is unable to provide sufficient documentation or proof for the purposes of paragraph (2)(A) of this subsection, an unsworn declaration made under penalty of perjury shall be considered sufficient documentation or proof to establish eligibility.</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(4)</num>
@@ -255,7 +262,7 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>"Emergency situation" means a situation in which immediate action is necessary to avoid homelessness or eviction, to re-establish a home, or otherwise to prevent displacement from a home.</text>
+      <text>"Emergency situation" means a situation in which immediate action is necessary to avoid homelessness or eviction, to re-establish a rental home, or otherwise to prevent displacement from a rental home, which is the result of an unforeseen or unusual event, such as the loss of a job or high medical costs, that impacts the applicant unit's ability to pay rent and that cannot be resolved without financial assistance.</text>
     </para>
     <para>
       <num>(4)</num>
@@ -290,5 +297,12 @@
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2042|(b)" type="History"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2042|(c)" type="History"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2042|(d)" type="History"/>
+    <annotation app="2024-10-18" doc="D.C. Act 25-572" eff="2024-10-18" path="§2" type="History" display="false"/>
+    <annotation app="2024-10-18" doc="D.C. Act 25-572" eff="2024-10-18" path="§2|(a)|(1)|(B)" type="History"/>
+    <annotation app="2024-10-18" doc="D.C. Act 25-572" eff="2024-10-18" path="§2|(a)|(1)|(C)" type="History"/>
+    <annotation app="2024-10-18" doc="D.C. Act 25-572" eff="2024-10-18" path="§2|(a)|(1)|(A)" type="History"/>
+    <annotation app="2024-10-18" doc="D.C. Act 25-572" eff="2024-10-18" path="§2|(a)|(2)" type="History"/>
+    <annotation app="2024-10-18" doc="D.C. Act 25-572" eff="2024-10-18" path="§2|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-572" path="§2" codified:display="Note" app="2024-10-18" eff="2024-10-18">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-572" path="§2">§ 2 of Emergency Rental Assistance Reform Emergency Amendment Act of 2024 (D.C. Act 25-572, Oct. 18, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
