@@ -345,7 +345,7 @@
       <para codify:path="(A)">
         <num>(a)</num>
         <text>Subparagraph (A) is amended by striking the phrase "North American Registry of Midwives ("NARM");" and inserting the phrase "North American Registry of Midwives ("NARM"), but these practice guidelines shall not be interpreted to set, establish, define, enumerate, or otherwise lower the applicable standard of care for a certified professional midwife or certified nurse-midwife;" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-743.09|(c)|(2)|(A)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-743.09">
           <find>North American Registry of Midwives ("NARM");</find>
           <replace>North American Registry of Midwives ("NARM"), but these practice guidelines shall not be interpreted to set, establish, define, enumerate, or otherwise lower the applicable standard of care for a certified professional midwife or certified nurse-midwife;</replace>
         </codify:find-replace>
@@ -353,7 +353,7 @@
       <para codify:path="(I)">
         <num>(b)</num>
         <text>Subparagraph (I) is amended by striking the word "and".</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-743.09|(c)|(2)|(I)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-743.09">
           <find>; and</find>
           <replace>;</replace>
         </codify:find-replace>
@@ -361,7 +361,7 @@
       <para codify:path="(J)">
         <num>(c)</num>
         <text>Subparagraph (J) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-        <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§7-743.09|(c)|(2)|(J)">
+        <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§7-743.09">
           <find>.</find>
           <replace>; and</replace>
         </codify:find-replace>
@@ -371,7 +371,7 @@
         <text>A new subparagraph (K) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§7-743.09|(c)|(2)|(K)"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§7-743.09"/>
             <num>(K)</num>
             <text>Not be interpreted to set, establish, define, enumerate, or otherwise lower the applicable standard of care for a licensed physician, licensed naturopathic physician, certified professional midwife, certified nurse-midwife, or licensed basic or advanced emergency medical technician.</text>
           </para>
