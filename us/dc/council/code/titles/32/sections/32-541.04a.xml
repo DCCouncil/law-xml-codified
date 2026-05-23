@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-541.04a</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 6, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§32-541.04a(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Expansion of paid-leave benefits and employer contribution rate change.</heading>
   <para>
     <num>(a)</num>
@@ -34,11 +37,11 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>The Mayor shall incorporate the certification required pursuant to paragraph (1) of this subsection into the Mayor's annual submission of the District's multiyear budget and financial plan to the Council, which shall reflect any employer contribution rate change required pursuant to subsection (c) of this section, as certified pursuant to paragraph (1) of this subsection.</text>
+      <text>The Mayor shall incorporate the certification required pursuant to paragraph (1) of this subsection into the Mayor's annual submission of the District's multiyear budget and financial plan to the Council.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(3)</num>
-      <text>An employer contribution rate change provided for in subsection (c)(2) of this section shall apply as of July 1 of the year in which the employer contribution rate change will not cause the projected fund balance of the Universal Paid Leave Fund to fall below the equivalent of 9 months of benefits, as certified pursuant to paragraph (1) of this subsection.</text>
+      <text>Repealed.</text>
     </para>
   </para>
   <para>
@@ -47,16 +50,16 @@
       <num>(1)</num>
       <text>Repealed.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(2)</num>
-      <text>Beginning with July 1, 2022, and annually thereafter, if the projected employer contribution rate calculated by the CFO pursuant to subsection (b)(1)(E) of this section is below 0.62%, the employer contribution rate shall equal that projected employer contribution rate.  If the projected employer contribution rate calculated pursuant to subsection (b)(1)(E) is greater than or equal to 0.62%, then the employer contribution rate shall be 0.62%.</text>
+      <text>Repealed.</text>
     </para>
   </para>
   <para>
     <num>(d)</num>
     <para>
       <num>(1)</num>
-      <text>At least 60 days before implementation of any paid-leave benefit expansion or employer contribution rate change pursuant to this section, the Mayor shall prescribe and provide to covered employers an update to the notice required under<cite path="§32-541.06|(i)">§ 32-541.06(i)</cite>. The Mayor may conduct a public-education campaign to inform individuals of expanded benefits. Costs of the notice and campaign authorized under this subsection shall be payable pursuant to <cite path="§32-551.02|(c)|(1)">§ 32-551.02(c)(1)</cite>, from the Universal Paid Leave Administration Fund.</text>
+      <text>At least 60 days before implementation of any paid-leave benefit expansion or the first employer payment to the District is due after an employer contribution rate change, the Mayor shall prescribe and provide to covered employers an update to the notice required under<cite path="§32-541.06|(i)">§ 32-541.06(i)</cite>. The Mayor may conduct a public-education campaign to inform individuals of expanded benefits. Costs of the notice and campaign authorized under this subsection shall be payable pursuant to <cite path="§32-551.02|(c)|(1)">§ 32-551.02(c)(1)</cite>, from the Universal Paid Leave Administration Fund.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -96,5 +99,11 @@
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4012|(b)|(2)|(C)" type="History"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4012|(b)|(3)|(A)" type="History"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4012|(b)|(3)|(B)" type="History"/>
+    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§12|(a)|(3)" type="History" display="false"/>
+    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§12|(a)|(3)|(A)|(i)" type="History"/>
+    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§12|(a)|(3)|(A)|(ii)" type="History"/>
+    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§12|(a)|(3)|(B)" type="History"/>
+    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§12|(a)|(3)|(C)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-499" path="§12|(a)|(3)" codified:display="Note" app="2024-07-08" eff="2024-07-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-499" path="§12|(a)|(3)">§ 12(a)(3) of Fiscal Year 2024 Revised Local Budget Adjustment Emergency Act of 2024 (D.C. Act 25-499, July 8, 2024, 71 DCR 7957)</cite>.</annotation>
   </annotations>
 </section>

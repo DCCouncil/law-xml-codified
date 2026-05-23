@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-541.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 6, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§32-541.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of <cite path="32|5|IV">this subchapter</cite>, the term:</text>
   <para>
@@ -61,7 +64,7 @@
   </para>
   <para>
     <num>(6A)</num>
-    <text>"Employer contribution rate" means the uniform percentage of covered employees' wages that covered employers must contribute to the Universal Paid Leave Fund, including the percentage of annual self-employment income that a covered employer who is a self-employed individual must contribute, as provided under <cite path="32|5|IV">this subchapter</cite>.</text>
+    <text>"Employer contribution rate" means the uniform percentage of covered employees' wages that covered employers must pay to the Universal Paid Leave Fund, including the percentage of annual self-employment income that a covered employer who is a self-employed individual must pay, as provided under <cite path="32|5|IV">this subchapter</cite>.</text>
   </para>
   <para>
     <num>(6B)</num>
@@ -353,5 +356,8 @@
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4062|(a)|(11)" type="History"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4062|(a)|(12)" type="History"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4062|(a)|(13)" type="History"/>
+    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§12|(a)|(1)" type="History" display="false"/>
+    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§12|(a)|(1)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-499" path="§12|(a)|(1)" codified:display="Note" app="2024-07-08" eff="2024-07-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-499" path="§12|(a)|(1)">§ 12(a)(1) of Fiscal Year 2024 Revised Local Budget Adjustment Emergency Act of 2024 (D.C. Act 25-499, July 8, 2024, 71 DCR 7957)</cite>.</annotation>
   </annotations>
 </section>

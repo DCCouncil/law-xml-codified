@@ -1,24 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-754.36b</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 6, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-754.36b(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Program exits.</heading>
   <para>
     <num>(a)</num>
     <text>A provider may exit a client from a housing program only when:</text>
     <para>
       <num>(1)</num>
-      <para>
-        <num>(A)</num>
-        <text>The housing program is provided on a time-limited basis, and the client's time period for receiving services has run;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>The Mayor determines that the client cannot be recertified to continue receiving services; and</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>The client was assigned to the provider for substantially all of the client's time in the housing program; or</text>
-      </para>
+      <text>The housing program is provided on a time-limited basis, and the client's time period for receiving services has run out; or</text>
     </para>
     <para>
       <num>(2)</num>
@@ -38,7 +30,21 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>Any client who requests a fair hearing within 15 days of receipt of notice of a program exit shall continue to remain in the housing program pending a final decision from the fair hearing proceedings.</text>
+    <para>
+      <num>(1)</num>
+      <text>Any client who requests a fair hearing within 15 days of receipt of notice of a program exit shall continue to remain in the housing program pending a final decision from the fair hearing proceedings.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <para>
+        <num>(A)</num>
+        <text>Paragraph (1) of this subsection shall not apply to a program exit from a Rapid Re-Housing program if the program exit is due to the client reaching a statutory or regulatory time limit on the duration of services provided by the Rapid Re-Housing program.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Any client who requests an administrative review within 15 days of receipt of notice of a program exit due to the client reaching a statutory or regulatory time limit on the duration of services provided by a Rapid Re-Housing program shall continue to remain in the housing program pending the administrative review decision.</text>
+      </para>
+    </para>
   </para>
   <para>
     <num>(d)</num>
@@ -47,5 +53,10 @@
   <annotations>
     <annotation doc="D.C. Law 16-35" type="History">Oct. 22, 2005, D.C. Law 16-35, § 22b</annotation>
     <annotation app="2018-02-28" doc="D.C. Law 22-65" eff="2018-02-28" path="§2|(aa)" prefix="as added" type="History"/>
+    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§11|(c)" type="History" display="false"/>
+    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§11|(c)|(1)" type="History"/>
+    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§11|(c)|(2)|(B)" type="History"/>
+    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§11|(c)|(2)|(A)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-499" path="§11|(c)" codified:display="Note" app="2024-07-08" eff="2024-07-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-499" path="§11|(c)">§ 11(c) of Fiscal Year 2024 Revised Local Budget Adjustment Emergency Act of 2024 (D.C. Act 25-499, July 8, 2024, 71 DCR 7957)</cite>.</annotation>
   </annotations>
 </section>
