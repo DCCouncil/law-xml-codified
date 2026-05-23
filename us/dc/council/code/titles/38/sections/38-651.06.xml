@@ -1,22 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-651.06</num>
-  <heading>Administration of medication in emergency circumstances.</heading>
+  <heading proof="needed">Student access to undesignated emergency medications.</heading>
   <para>
     <num>(a)</num>
-    <text>No employee or agent of a school shall administer medication in emergency circumstances to any student unless he or she has been trained and certified pursuant to <cite path="§38-651.04">§ 38-651.04</cite>.</text>
+    <text>By February 1, 2024, the Department of Health ("Department") shall establish a UEMA plan that authorizes a public school to possess and administer undesignated emergency medications to students without prescriptions for those medications.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(b)</num>
-    <text>The Mayor shall obtain a standing order signed by at least one practicing physician licensed in the District that identifies the specific medications that may be administered in emergency circumstances and provides appropriate administration instructions.</text>
+    <text>Not funded.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(c)</num>
-    <text>A student need not have a known diagnosis or a medication action plan to receive treatment in emergency circumstances from a trained employee or agent of the school.</text>
+    <text>Not funded.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(d)</num>
-    <text>The Mayor shall develop a procedure by which the responsible person may request that the student not receive treatment in emergency circumstances.</text>
+    <text>Not funded.</text>
+  </para>
+  <para placeholder="Repealed">
+    <num>(e)</num>
+    <text>Not funded.</text>
+  </para>
+  <para placeholder="Repealed">
+    <num>(f)</num>
+    <text>Not funded.</text>
+  </para>
+  <para placeholder="Repealed">
+    <num>(g)</num>
+    <text>Not funded.</text>
+  </para>
+  <para placeholder="Repealed">
+    <num>(h)</num>
+    <text>Not funded.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 17-107" type="History" path="§7">Feb. 2, 2008, D.C. Law 17-107, § 7, 54 DCR 12230</annotation>
@@ -27,5 +43,8 @@
     <annotation doc="D.C. Law 21-160" path="§7002" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7002">Section 7002 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 21-77" path="§4">section 4 of D.C. Law 21-77</cite>. Therefore the changes made to this section by D.C. Law 21-177 have been given effect.
         </annotation>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7002" type="History" display="false"/>
+    <annotation app="2024-02-15" doc="D.C. Law 25-124" eff="2024-02-15" path="§3|(a)" type="History" display="false"/>
+    <annotation app="2024-02-15" doc="D.C. Law 25-124" eff="2024-02-15" path="§2|(b)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 25-124" path="§2|(b)" codified:display="Note" app="2024-02-15" eff="2024-02-15">Applicability of <cite doc="D.C. Law 25-124" path="">D.C. Law 25-124</cite>: <cite doc="D.C. Law 25-124" path="§3">§ 3 of D.C. Law 25-124</cite> provided that the amendments to subsections (b) through (h) of this section by <cite doc="D.C. Law 25-124" path="§2|(b)">§ 2(b) of D.C. Law 25-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

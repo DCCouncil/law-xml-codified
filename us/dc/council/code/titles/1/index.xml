@@ -683,6 +683,8 @@
         <xi:include href="./sections/1-301.172.xml"/>
         <xi:include href="./sections/1-301.173.xml"/>
         <xi:include href="./sections/1-301.174.xml"/>
+        <xi:include href="./sections/1-301.175.xml"/>
+        <xi:include href="./sections/1-301.176.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -1484,8 +1486,6 @@
       <xi:include href="./sections/1-361.03.xml"/>
       <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7106" type="History"/>
     </container>
-    <xi:include href="./sections/1-301.175.xml"/>
-    <xi:include href="./sections/1-301.176.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

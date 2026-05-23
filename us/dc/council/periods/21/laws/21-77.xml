@@ -168,11 +168,11 @@
     <para codify:path="§7|(d)">
       <num>(d)</num>
       <text>Section 7(d) (D.C. Official Code § 38-651.06(d)) is amended by striking the phrase "a minor" and inserting the word "the" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-651.06|(d)">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-651.06">
         <find>a minor</find>
         <replace>the</replace>
       </codify:find-replace>
-      <codify:not-funded-anno applicability-path="§4" codified:doc="D.C. Code" codified:path="§38-651.06|(d)" codified:display="Note"/>
+      <codify:not-funded-anno applicability-path="§4" codified:doc="D.C. Code" codified:path="§38-651.06" codified:display="Note"/>
     </para>
     <para codify:path="§10|(a)">
       <num>(e)</num>
