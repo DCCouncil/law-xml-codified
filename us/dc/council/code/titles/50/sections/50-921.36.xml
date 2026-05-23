@@ -1,13 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-921.36</num>
-  <heading>Consolidation with WMATA.</heading>
-  <text>The District Department of Transportation shall coordinate with WMATA to evaluate whether operations under this subchapter should be consolidated with existing services provided by WMATA, while maintaining the distinctive features of the DC Circulator service.</text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 27, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§50-921.36(Perm)">Permanent Version</cite>.*
+      </text>
+  <heading proof="needed">Coordination with WMATA regarding DC Circulator termination.</heading>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>The District Department of Transportation shall coordinate with WMATA to determine the feasibility of WMATA:</text>
+    <para>
+      <num>(1)</num>
+      <text>Assuming control and management of the DC Circulator, maintaining the DC Circulator workforce, and continuing DC Circulator service;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Providing alternative Metrobus routes or additional Metrobus service for riders impacted by planned termination of the DC Circulator; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Hiring former DC Circulator workers while preserving their rate of pay and seniority.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 14-137" type="History" path="§11f">May 21, 2002, D.C. Law 14-137, § 11f</annotation>
     <annotation doc="D.C. Law 16-225" type="History">as added Mar. 6, 2007, D.C. Law 16-225, § 3(e), 53 DCR 10232</annotation>
     <annotation doc="D.C. Law 17-353" type="History">Mar. 25, 2009, D.C. Law 17-353, § 153, 56 DCR 1117</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 3(e) of District Department of Transportation DC Circulator Congressional Review Emergency Amendment Act of 2007 (D.C. Act 17-3, January 16, 2007,  54 DCR 1439).</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated a previously made technical correction in the section heading.</annotation>
+    <annotation app="2024-10-29" doc="D.C. Act 25-621" eff="2024-10-29" path="§3|(b)" type="History" display="false"/>
+    <annotation app="2024-10-29" doc="D.C. Act 25-621" eff="2024-10-29" path="§3|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-621" path="§3|(b)" codified:display="Note" app="2024-10-29" eff="2024-10-29">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-621" path="§3|(b)">§ 3(b) of DC Circulator Transition Emergency Amendment Act of 2024 (D.C. Act 25-621, Oct. 29, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
