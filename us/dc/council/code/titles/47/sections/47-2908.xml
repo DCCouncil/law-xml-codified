@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-2908</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on August 27, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-2908">Past Permanent Version</cite>.*
+      </text>
   <heading>Licensed restaurants, eating houses, barrooms, sample rooms, ice cream saloons, or soda fountains required to post price list.</heading>
   <para>
     <num>(a)</num>
@@ -37,6 +40,10 @@
       <text>A business licensed under this section may impose a service fee of not more than 25% when such fee is included as a term of a written contract negotiated between the business and a consumer for services, including banquet services.</text>
     </para>
   </para>
+  <para>
+    <num>(c)</num>
+    <text>If a business licensed under this section imposes a service fee consistent with the provisions of subsection (b) of this section, the imposition of the service fee shall not constitute an unfair or deceptive trade practice under <cite path="§28-3904">[§ 28-3904]</cite>.</text>
+  </para>
   <annotations>
     <annotation type="History">3 Leg. Assem., June 26, 1873, ch. 46, § 1</annotation>
     <annotation doc="D.C. Law 11-254" type="History">enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575</annotation>
@@ -45,5 +52,9 @@
     <annotation type="Section References">This section is referenced in <cite path="§47-2911">§ 47-2911</cite>.</annotation>
     <annotation app="2024-05-21" doc="D.C. Law 25-162" eff="2024-05-21" path="§103(a)|(1)" type="History"/>
     <annotation app="2024-05-21" doc="D.C. Law 25-162" eff="2024-05-21" path="§103(a)|(2)" type="History"/>
+    <annotation app="2024-05-29" doc="D.C. Act 25-473" eff="2024-05-29" path="§3|(a)" type="History" display="false"/>
+    <annotation app="2024-05-29" doc="D.C. Act 25-473" eff="2024-05-29" path="§3|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-473" path="§3|(a)" codified:display="Note" app="2024-05-29" eff="2024-05-29">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-473" path="§3|(a)">§ 3(a) of Medical Cannabis License Clarification Congressional Review Emergency Amendment Act of 2024 (D.C. Act 25-473, May 29, 2024, 71 DCR 6674)</cite>.</annotation>
+    <annotation doc="D.C. Act 25-473" path="§3|(a)" type="Applicability" app="2024-05-29" eff="2024-05-29"><cite doc="D.C. Act 25-473" path="§3|(b)">Section 3(b) of D.C. Act 25-473</cite> provided that the amendments made to this section shall apply as of May 21, 2024.</annotation>
   </annotations>
 </section>

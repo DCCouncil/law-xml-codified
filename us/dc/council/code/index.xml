@@ -3,9 +3,9 @@
   <heading>Code of the District of Columbia</heading>
   <meta>
     <effective>0001-01-01</effective>
-    <recency through="2024-06-12">
+    <recency through="2024-07-02">
       <law doc="D.C. Law 25-186">Law {{ doc.num }} effective {{ doc.effective | date }}</law>
-      <emergency doc="D.C. Act 25-489">Act {{ doc.num }} effective {{ doc.effective | date }}</emergency>
+      <emergency doc="D.C. Act 25-491">Act {{ doc.num }} effective {{ doc.effective | date }}</emergency>
       <federal doc="Pub. L. 115-334">Public Law {{ doc.num }} approved {{ doc.effective | date }}</federal>
     </recency>
   </meta>
@@ -74,20 +74,10 @@
   <xi:include href="./titles/99/index.xml"/>
   <annotation app="2017-05-05" doc="Pub. L. 115-31" eff="2017-05-05" path="§907|(d)" type="History"/>
   <annotation app="2021-04-27" doc="D.C. Law 23-275" eff="2021-04-27" path="§3|(k)" type="History"/>
-  <para placeholder="Not Funded">
-    <num>(6)</num>
-    <text>Not Funded.</text>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§9|(c)" type="History"/>
-  </para>
   <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" type="History" display="false"/>
   <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§5|(a)" type="History" estimate="true"/>
   <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" type="History" display="false"/>
   <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§5|(b)" type="History" estimate="true"/>
-  <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" type="History" display="false"/>
-  <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§9|(a)" type="History" estimate="true"/>
-  <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" type="History" display="false"/>
-  <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§9|(b)" type="History" estimate="true"/>
   <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" type="History" display="false"/>
   <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§14|(b)" type="History"/>
 </document>
