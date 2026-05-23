@@ -89,6 +89,10 @@
       <num>(20)</num>
       <text>The operation of a nonprofit specializing in vision screening and providing free diagnostic services and eyewear to school children and youth in the District of Columbia ("nonprofit"); provided, that the nonprofit has entered into a memorandum of understanding with the local education agency that will be served by the nonprofit.</text>
     </para>
+    <para placeholder="Not Funded">
+      <num>(21)</num>
+      <text>Not Funded.</text>
+    </para>
   </para>
   <para>
     <num>(b-1)</num>
@@ -304,5 +308,12 @@
     <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§111|(a)|(3)" type="History"/>
     <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§111|(c)" type="History"/>
     <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§111|(b)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 26-7" path="§2|(d)" codified:display="Note" app="2025-06-10" eff="2025-06-10">Applicability of <cite doc="D.C. Law 26-7" path="">D.C. Law 26-7</cite>: <cite doc="D.C. Law 26-7" path="§4">§ 4 of D.C. Law 26-7</cite> provided that the amendment to this section by <cite doc="D.C. Law 26-7" path="§2|(d)">§ 2(d) of D.C. Law 26-7</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2025-06-10" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(d)" type="History"/>
+    <annotation app="2025-06-10" doc="D.C. Law 26-7" eff="2025-06-10" path="§4|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(d)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(d)|(2)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(d)|(3)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-7" eff="2025-06-10" path="§2|(d)|(4)" type="History"/>
   </annotations>
 </section>
