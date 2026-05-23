@@ -1,33 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>5-125.03</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 22, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§5-125.03(Perm)">Permanent Version</cite>.*
-      </text>
-  <heading>Unlawful use of neck restraints by law enforcement officers and special police officers.</heading>
+  <heading proof="needed">Use of prohibited techniques.</heading>
   <para>
     <num>(a)</num>
-    <text>It shall be unlawful for:</text>
+    <text>It shall be unlawful:</text>
     <para>
       <num>(1)</num>
-      <text>Any law enforcement officer or special police officer ("officer") to apply a neck restraint; and</text>
+      <text>To use a prohibited technique; or</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Any officer who applies a neck restraint and any officer who is able to observe another officer's application of a neck restraint to fail to:</text>
+      <text>If a law enforcement officer observes another law enforcement officer's use of a prohibited technique, to fail to immediately, for the person on whom the prohibited technique was used:</text>
       <para>
         <num>(A)</num>
-        <text>Immediately render, or cause to be rendered, first aid on the person on whom the neck restraint was applied; or</text>
+        <text>Render, or cause to be rendered, first aid; or</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>Immediately request emergency medical services for the person on whom the neck restraint was applied.</text>
+        <text>Request emergency medical services.</text>
       </para>
     </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>Any officer who violates the provisions of subsection (a) of this section shall be fined no more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or incarcerated for no more than 10 years, or both.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 6-77" type="History" path="§4">Jan. 25, 1986, D.C. Law 6-77, § 4, 32 DCR 6497</annotation>
@@ -52,8 +45,8 @@
     <annotation app="2022-06-28" doc="D.C. Act 24-454" eff="2022-06-28" path="§101|(c)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-149" path="§101|(c)" codified:display="Note" app="2022-08-12" eff="2022-08-12">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-149" path="§101|(c)">§ 101(c) of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2022 (D.C. Law 24-149, Aug. 12, 2022, 69 DCR 007767)</cite>.</annotation>
     <annotation app="2022-08-12" doc="D.C. Law 24-149" eff="2022-08-12" path="§101|(c)" type="History" display="false"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§101|(c)" type="History" display="false"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§101|(c)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-61" path="§101|(c)" codified:display="Note" app="2023-03-24" eff="2023-03-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-61" path="§101|(c)">§ 101(c) of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2023 (D.C. Act 25-61, Mar. 24, 2023, 70 DCR 3820)</cite>.</annotation>
+    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§101|(c)" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§101|(c)" type="History"/>
   </annotations>
 </section>

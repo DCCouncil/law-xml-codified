@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-617.08</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 22, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-617.08(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Management rights; matters subject to collective bargaining.</heading>
   <para>
     <num>(a)</num>
@@ -61,11 +58,11 @@
     <num>(c)</num>
     <para>
       <num>(1)</num>
-      <text>All matters pertaining to the discipline of sworn law enforcement personnel shall be retained by management and not be negotiable.</text>
+      <text>All matters pertaining to the discipline of sworn law enforcement personnel shall be retained by management and not be negotiable through bargaining, including substantive or impacts-and-effects bargaining.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>This subsection shall apply to any collective bargaining agreements entered into with the Fraternal Order of Police/Metropolitan Police Department Labor Committee after September 30, 2020.</text>
+      <text>This subsection shall apply to any collective bargaining agreements entered into with the Fraternal Order of Police/Metropolitan Police Department Labor Committee after September 30, 2020, and to any collective bargaining agreements automatically renewed on or after September 30, 2020.</text>
     </para>
   </para>
   <annotations>
@@ -95,8 +92,8 @@
     <annotation app="2022-06-28" doc="D.C. Act 24-454" eff="2022-06-28" path="§116" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-149" path="§116" codified:display="Note" app="2022-08-12" eff="2022-08-12">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-149" path="§116">§ 116 of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2022 (D.C. Law 24-149, Aug. 12, 2022, 69 DCR 007767)</cite>.</annotation>
     <annotation app="2022-08-12" doc="D.C. Law 24-149" eff="2022-08-12" path="§116" type="History" display="false"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§114" type="History" display="false"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§114" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-61" path="§114" codified:display="Note" app="2023-03-24" eff="2023-03-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-61" path="§114">§ 114 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2023 (D.C. Act 25-61, Mar. 24, 2023, 70 DCR 3820)</cite>.</annotation>
+    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§114" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§116|(b)" type="History"/>
   </annotations>
 </section>

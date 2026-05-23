@@ -81,6 +81,10 @@
       <num>[(19)]</num>
       <text>Director of the Students in the Care of D.C. Coordinating Committee.</text>
     </para>
+    <para placeholder="Not Funded">
+      <num>(20)</num>
+      <text>Not Funded.</text>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 2-139" type="History" path="§908">Mar. 3, 1979, D.C. Law 2-139, § 908, 25 DCR 5740</annotation>
@@ -154,5 +158,9 @@
     <annotation doc="D.C. Law 24-45" path="§7183" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7183">Section 7183 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 22-250" path="§10|(a)">section 10(a) of D.C. Law 22-250</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by Law 22-250 has been implemented.
             </annotation>
     <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§168" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§10|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§4|(b)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§4|(b)|(2)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§4|(b)|(3)" type="History"/>
   </annotations>
 </section>

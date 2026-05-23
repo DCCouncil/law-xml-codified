@@ -1,45 +1,156 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>14-307</num>
-  <heading>Confidential information.</heading>
+  <heading proof="needed">Confidential information.</heading>
   <para>
     <num>(a)</num>
-    <text>In the Federal courts in the District of Columbia and District of Columbia courts a physician or surgeon or mental health professional as defined by <cite path="§7-1201.01|(11)">§ 7-1201.01(11)</cite> or a domestic violence counselor as defined in <cite path="§14-310|(a)|(2)">§ 14-310(a)(2)</cite>, a human trafficking counselor as defined in <cite path="§14-311|(a)|(2)">§  14-311(a)(2)</cite>, or a sexual assault counselor as defined in <cite path="§23-1907|(10)">§ 23-1907(10)</cite> may not be permitted, without the consent of the client, or of his legal representative, to disclose any information, confidential in its nature, that he has acquired in attending a client in a professional capacity and that was necessary to enable him to act in that capacity, whether the information was obtained from the client or from his family or from the person or persons in charge of him.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>This section does not apply to:</text>
+    <text>For the purposes of this section, the term:</text>
     <para>
       <num>(1)</num>
-      <text>evidence in a grand jury, criminal, delinquency, family, or domestic violence proceeding where a person is targeted for or charged with causing the death of or injuring a human being, or with attempting or threatening to kill or injure a human being, or a report has been filed with the police pursuant to <cite path="§7-2601">§ 7-2601</cite>, and the disclosure is required in the interests of public justice;</text>
+      <text>"Health care benefit program" means any public or private plan or contract under which a medical benefit, item, or service is or may be provided to an individual, and includes an individual or entity who provides a medical benefit, item, or service for which payment may be made under the plan or contract.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>evidence relating to the mental competency or sanity of an accused in criminal trials where the accused raises the defense of insanity or where the court is required under prevailing law to raise the defense sua sponte, or in the pretrial or posttrial proceedings involving a criminal case where a question arises concerning the mental condition of an accused or convicted person;</text>
+      <text>"Injury" includes:</text>
+      <para>
+        <num>(A)</num>
+        <text>Physical damage to the body;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A sexual act prohibited by <cite path="22|30">Chapter 30 of Title 22</cite>; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Sexual contact prohibited by <cite path="22|30">Chapter 30 of Title 22</cite>.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>In the Federal courts in the District of Columbia and District of Columbia courts, the following individuals shall not be permitted, without the written consent of their client or of the client's legal representative, to disclose any confidential information that the individual has acquired in attending the client in a professional capacity and that was necessary to enable the individual to act in that capacity, whether the information was obtained from the client, the client's family, or the person or persons in charge of the client:</text>
+    <para>
+      <num>(1)</num>
+      <text>Physicians;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Surgeons;</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>evidence relating to the mental competency or sanity of a child alleged to be delinquent, neglected, or in need of supervision in any proceeding before the Family Division of the Superior Court;</text>
+      <text>Mental health professionals, as that term is defined in <cite path="§7-1201.01|(11)">§ 7-1201.01(11)</cite>;</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>evidence in a grand jury, criminal, delinquency, or civil proceeding where a person is alleged to have defrauded the District of Columbia or federal government in relation to receiving or providing services under the District of Columbia medical assistance program authorized by title 19 of the Social Security Act, approved July 30, 1965 (79 Stat. 343; 42 U.S.C. § 1396 et seq.), where a person is alleged to have defrauded a health care benefit program, or where a person is alleged to have violated <cite path="§22-933.01">[§ 22-933.01]</cite>; or</text>
+      <text>Domestic violence counselors, as that term is defined in <cite path="§14-310|(a)|(2)">§ 14-310(a)(2)</cite>;</text>
     </para>
     <para>
       <num>(5)</num>
-      <text>evidence in a criminal or delinquency proceeding where a person is charged with an impaired driving offense and where the person caused the death of or injury to a human being, and the disclosure is required in the interest of public justice.</text>
+      <text>Human trafficking counselors, as that term is defined in <cite path="§14-311|(a)|(2)">§ 14-311(a)(2)</cite>;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Sexual assault counselors, as that term is defined in <cite path="§23-1907|(10)">§ 23-1907(10)</cite>;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>HVIP members, as that term is defined in <cite path="§14-313|(a)|(4)">§ 14-313(a)(4)</cite>; and</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>Crime victim counselors, as that term is defined in <cite path="§14-314|(a)|(4)">§ 14-314(a)(4)</cite>.</text>
     </para>
   </para>
   <para>
     <num>(c)</num>
-    <text>For the purposes of this section, the term:</text>
+    <text>This section shall not apply to evidence:</text>
     <para>
       <num>(1)</num>
-      <text>“Health care benefit program” means any public or private plan or contract under which a medical benefit, item, or service is or may be provided to an individual, and includes an individual or entity who provides a medical benefit, item, or service for which payment may be made under the plan or contract.</text>
+      <text>In a grand jury, criminal, delinquency, family, or domestic violence proceeding, where:</text>
+      <para>
+        <num>(A)</num>
+        <text>A person is targeted for or charged with causing the death of or injuring a human being, or with attempting or threatening to kill or injure a human being, or a report has been filed with the police pursuant to <cite path="§7-2601">§ 7-2601</cite>; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The disclosure is required in the interests of justice;</text>
+      </para>
     </para>
     <para>
       <num>(2)</num>
-      <text>“Injury” includes, in addition to physical damage to the body, a sexual act or sexual contact prohibited by <cite path="22|30">Chapter 30 of Title 22</cite>.</text>
+      <text>Related to the mental competency or sanity of an accused in criminal trials where the accused raises the defense of insanity or where the court is required under prevailing law to raise the defense sua sponte, or in the pre-trial or post-trial proceedings involving a criminal case where a question arises concerning the mental condition of an accused or convicted person;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Related to the mental competency or sanity of a child alleged to be delinquent, neglected, or in need of supervision in any proceeding before the Family Division of the Superior Court;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>In a grand jury, criminal, delinquency, or civil proceeding where a person is alleged to have defrauded:</text>
+      <para>
+        <num>(A)</num>
+        <text>The District of Columbia or federal government in relation to receiving or providing services under the District of Columbia medical assistance program authorized by title 19 of the Social Security Act, approved July 30, 1965 (79 Stat. 343; 42 U.S.C. § 1396 <em>et seq.</em>);</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A health care benefit program; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>An elderly person or vulnerable adult, as those terms are defined in <cite path="§22-932|(3)">§ 22-932(3)</cite> and <cite path="§22-932|(5)">(5)</cite>; or</text>
+      </para>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>In a criminal or delinquency proceeding where:</text>
+      <para>
+        <num>(A)</num>
+        <text>A person is charged with an impaired driving offense resulting in the death of or injury to another human being; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The disclosure is required in the interest of justice.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <para>
+      <num>(1)</num>
+      <text>Before finding that the disclosure of confidential information is required in the interest of justice, as provided in subsection (c)(1)(B) and (5)(B) of this section, the court shall:</text>
+      <para>
+        <num>(A)</num>
+        <text>Serve the victim with notice of the potential disclosure of confidential information; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Provide the victim with 14 days from the date of service to object to the disclosure of confidential information and provide an explanation for why the disclosure is not in the interest of justice.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>When determining whether the disclosure of confidential information is required in the interest of justice, as provided in subsection (c)(1)(B) and (5)(B) of this section, the court shall consider the rights of crime victims under § 23-1901 and 18 U.S.C. 3771.</text>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>If the victim's ability to object pursuant to subsection (d)(1)(B) of this section is diminished because of minority, mental impairment, medical incapacity, or some other reason, the court:</text>
+    <para>
+      <num>(1)</num>
+      <para>
+        <num>(A)</num>
+        <text>Shall provide notice to the victim's parent, guardian, or custodian; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>May appoint an attorney to receive the notice on the victim's behalf; and</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Shall provide the victim's parent, guardian, or custodian, or an attorney acting on the victim's behalf, with 14 days from the date of service to object to the disclosure of confidential information and provide an explanation for why the disclosure is not in the interest of justice.</text>
     </para>
   </para>
   <annotations>
@@ -84,5 +195,6 @@
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§401|(a)" type="History"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§401|(b)" type="History"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§301" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="§107|(a)" type="History"/>
   </annotations>
 </section>

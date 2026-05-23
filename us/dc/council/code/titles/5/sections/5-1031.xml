@@ -1,32 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>5-1031</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 22, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§5-1031(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Commencement of corrective  or adverse action.</heading>
   <para>
     <num>(a)</num>
     <text>Except as provided  in subsection (b) of this section, no corrective or adverse action  against any sworn member or civilian employee of the Fire and Emergency  Medical Services Department shall be commenced more than 90 days,  not including Saturdays, Sundays, or legal holidays, after the date  that the Fire and Emergency Medical Services Department knew or should  have known of the act or occurrence allegedly constituting cause.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(a-1)</num>
-    <para>
-      <num>(1)</num>
-      <text>Except as provided  in paragraph (1A) of this subsection and subsection (b) of this section, no corrective or adverse action  against any sworn member or civilian employee of the Metropolitan  Police Department shall be commenced more than 90 days, not including  Saturdays, Sundays, or legal holidays, after the date that the Metropolitan  Police Department had notice of the act or occurrence allegedly constituting  cause.</text>
-    </para>
-    <para>
-      <num>(1A)</num>
-      <text>If the act or occurrence allegedly constituting cause involves the serious use of force or indicates potential criminal conduct by a sworn member or civilian employee of the Metropolitan Police Department, the period for commencing a corrective or adverse action under this subsection shall be 180 days, not including Saturdays, Sundays, or legal holidays, after the date that the Metropolitan Police Department had notice of the act or occurrence allegedly constituting cause.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>For the purposes  of paragraphs (1) and (1A) of this subsection, the Metropolitan Police Department  has notice of the act or occurrence allegedly constituting cause on  the date that the Metropolitan Police Department generates an internal  investigation system tracking number for the act or occurrence.</text>
-    </para>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>If the act or  occurrence allegedly constituting cause is the subject of a criminal  investigation by the Metropolitan Police Department or any law enforcement  agency with jurisdiction within the United States, the Office of the  United States Attorney for the District of Columbia, or the Office  of the Attorney General, or is the subject of an investigation by  the Office of the Inspector General, the Office of the District of  Columbia Auditor, or the Office of Police Complaints, the 90-day or 180-day period, as applicable,  for commencing a corrective or adverse action under subsection (a)  or (a-1) of this section shall be tolled until the conclusion of the  investigation.</text>
+    <text>If the act or occurrence allegedly constituting cause is the subject of a criminal investigation by the Metropolitan Police Department or any law enforcement or prosecuting agency with jurisdiction within the United States, the Office of the United States Attorney for the District of Columbia, or the Office of the Attorney General, or is the subject of an investigation by the Office of the Inspector General or the Office of the District of Columbia Auditor, the 90-day period for commencing a corrective or adverse action under subsection (a) of this section shall be tolled until the conclusion of the investigation.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <para>
+      <num>(1)</num>
+      <text>MPD shall publish, on a publicly accessible website, a schedule of adverse action hearings for cases in which the proposed discipline is termination.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The schedule shall include:</text>
+      <para>
+        <num>(A)</num>
+        <text>The date, time, and location of the hearing;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The name and badge number of the subject officer; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A summary of the alleged misconduct or charges against the subject officer.</text>
+      </para>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 15-194" type="History" path="§502">Sept. 30, 2004, D.C. Law 15-194, § 502, 51 DCR 9406</annotation>
@@ -51,11 +60,10 @@
     <annotation app="2022-06-28" doc="D.C. Act 24-454" eff="2022-06-28" path="§117" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-149" path="§117" codified:display="Note" app="2022-08-12" eff="2022-08-12">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-149" path="§117">§ 117 of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2022 (D.C. Law 24-149, Aug. 12, 2022, 69 DCR 007767)</cite>.</annotation>
     <annotation app="2022-08-12" doc="D.C. Law 24-149" eff="2022-08-12" path="§117" type="History" display="false"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§115" type="History" display="false"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§115|(a)|(1)" type="History"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§115|(a)|(2)" type="History"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§115|(a)|(3)" type="History"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§115|(b)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-61" path="§115" codified:display="Note" app="2023-03-24" eff="2023-03-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-61" path="§115">§ 115 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2023 (D.C. Act 25-61, Mar. 24, 2023, 70 DCR 3820)</cite>.</annotation>
+    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§115" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§117|(a)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§117|(b)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§117|(c)" type="History"/>
   </annotations>
 </section>

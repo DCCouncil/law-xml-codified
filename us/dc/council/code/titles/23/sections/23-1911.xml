@@ -1,10 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>23-1911</num>
-  <heading>No cause of action.</heading>
-  <text>This subchapter does not create a cause of action or defense in favor of any person arising out of the failure to accord to a sexual assault victim the rights enumerated in <cite path="§23-1908">§ 23-1908</cite> or the violation of any other provision of this subchapter.</text>
+  <heading proof="needed">Cause of action; remedies.</heading>
+  <para>
+    <num>(a)</num>
+    <text>An individual whose rights under this subchapter were violated may bring a civil action in the Superior Court for the District of Columbia against the District agencies responsible for the violation.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Remedies in actions brought pursuant to subsection (a) of this section shall be limited to injunctive relief and shall not include money damages.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 20-139" type="History">Nov. 20, 2014, D.C. Law 20-139, § 101(c), 61 DCR 5913</annotation>
     <annotation type="Editor's Notes">Section 301 of <cite doc="D.C. Law 20-139">D.C. Law 20-139</cite> provided that the Mayor, pursuant to <cite path="§2-501">§ 2-501</cite> et seq., may issue rules to implement the provisions of the act.</annotation>
+    <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="§110|(c)" type="History"/>
   </annotations>
 </section>

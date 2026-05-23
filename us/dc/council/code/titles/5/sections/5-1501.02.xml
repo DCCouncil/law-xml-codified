@@ -6,6 +6,10 @@
     <num>(a)</num>
     <text>There is established as a subordinate agency in the executive branch of the government of the District of Columbia, the Department of Forensic Sciences.</text>
   </para>
+  <para placeholder="Not Funded">
+    <num>(a-1)</num>
+    <text>Not Funded.</text>
+  </para>
   <para>
     <num>(b)</num>
     <text>The mission of the Department shall be to provide high-quality, timely, accurate, and reliable forensic science services and public health laboratory services with:</text>
@@ -16,6 +20,10 @@
     <para>
       <num>(2)</num>
       <text>A focus on the delivery of unbiased science and an emphasis on promoting transparency in operations; and</text>
+    </para>
+    <para placeholder="Not Funded">
+      <num>(2A)</num>
+      <text>Not Funded.</text>
     </para>
     <para>
       <num>(3)</num>
@@ -28,5 +36,13 @@
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§501|(b)|(1)" type="History"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§501|(b)|(2)" type="History"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§501|(b)|(3)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§10|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(b)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(b)|(2)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(b)|(3)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(b)|(4)|(A)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(b)|(4)|(B)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(b)|(4)|(C)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(b)|(4)|(5)" type="History"/>
   </annotations>
 </section>

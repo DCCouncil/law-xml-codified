@@ -1,11 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>5-302</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 22, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§5-302(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Restrictions on powers and duties of federal law enforcement officers.</heading>
-  <text>Officers when acting under the authority granted in <cite path="§5-301|(a)">§ 5-301(a)</cite> shall be subject to the restrictions imposed on MPD officers under the laws codified in <cite path="5|1">Chapter 1 of this title</cite>. These restrictions include, but are not limited to, arrests under <cite path="§5-115.01">§ 5-115.01</cite>, use of unnecessary or wanton force under <cite path="§5-123.02">§ 5-123.02</cite>, and the use of neck restraints under §§ <cite path="§5-125.02">5-125.02</cite> and <cite path="§5-125.03">5-125.03</cite>.</text>
+  <text>Officers when acting under the authority granted in <cite path="§5-301|(a)">§ 5-301(a)</cite> shall be subject to the restrictions imposed on MPD officers under the laws codified in <cite path="5|1">Chapter 1 of this title</cite>. These restrictions include, but are not limited to, arrests under <cite path="§5-115.01">§ 5-115.01</cite>, use of unnecessary or wanton force under <cite path="§5-123.02">§ 5-123.02</cite>, and the use of prohibited techniques, as that term is defined in <cite path="§5-125.02|(6)">§ 5-125.02(6)</cite>,.</text>
   <annotations>
     <annotation doc="D.C. Law 13-100" type="History" path="§3">May 9, 2000, D.C. Law 13-100, § 3, 46 DCR 794</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-336" path="§102" codified:display="Note" app="2020-07-22" eff="2020-07-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-336" path="§102">§ 102 of Comprehensive Policing and Justice Reform Second Emergency Amendment Act of 2020 (D.C. Act 23-336, July 22, 2020, 67 DCR 9148)</cite>.</annotation>
@@ -26,8 +23,8 @@
     <annotation app="2022-06-28" doc="D.C. Act 24-454" eff="2022-06-28" path="§102" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-149" path="§102" codified:display="Note" app="2022-08-12" eff="2022-08-12">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-149" path="§102">§ 102 of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2022 (D.C. Law 24-149, Aug. 12, 2022, 69 DCR 007767)</cite>.</annotation>
     <annotation app="2022-08-12" doc="D.C. Law 24-149" eff="2022-08-12" path="§102" type="History" display="false"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§102" type="History" display="false"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§102" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-61" path="§102" codified:display="Note" app="2023-03-24" eff="2023-03-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-61" path="§102">§ 102 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2023 (D.C. Act 25-61, Mar. 24, 2023, 70 DCR 3820)</cite>.</annotation>
+    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§102" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§102" type="History"/>
   </annotations>
 </section>

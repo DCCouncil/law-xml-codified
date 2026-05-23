@@ -1,59 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-1001.09</num>
-  <heading>Secrecy required; place of voting; watchers; challenged ballots; assistance in marking ballot or operating voting machine; more than 1 vote prohibited; unopposed candidates; availability of regulations at polling place; deposit, inspection, and destruction of ballots.</heading>
+  <heading>Secrecy required; place of voting; watchers; challenged ballots; assistance in marking ballot or operating voting machine; more than 1 vote prohibited; unopposed candidates; availability of regulations at Vote Centers; deposit, inspection, and destruction of ballots.</heading>
   <para>
     <num>(a)</num>
     <text>Voting in all elections shall be secret.</text>
   </para>
   <para>
+    <num>(a-1)</num>
+    <text>The District of Columbia Public Schools system shall be closed to instruction on election day for District primary and general elections in order to facilitate voting in its facilities, beginning with the 2024 primary election.</text>
+  </para>
+  <para>
     <num>(b)</num>
-    <para>
+    <para placeholder="Repealed">
       <num>(1)</num>
-      <text>Except as provided in paragraphs (2) and (3) of this subsection, each registered qualified elector shall cast the registered qualified elector's vote in the voting precinct that serves the registered qualified elector's current residence address.</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The Board shall permit any duly registered voter to vote by absentee ballot, for any reason, under such rules as the Board may issue.</text>
+      <text>The Board shall permit any duly registered voter to vote by mail-in ballot, for any reason, under such rules as the Board may issue.</text>
+    </para>
+    <para placeholder="Repealed">
+      <num>(3)</num>
+      <text>Repealed.</text>
     </para>
     <para>
-      <num>(3)</num>
-      <text>No registered qualified elector of the District may cast a vote in a precinct that does not serve the registered qualified elector's current residence; provided, that a senior or voter with a disability whose precinct is inaccessible as defined by section 8 of the Voting Accessibility for the Elderly and Handicapped Act, approved September 28, 1984 (98 Stat. 1678; 42 US.C. § 1973ee-6), may be assigned by the Board to an accessible polling place.</text>
+      <num>(4)</num>
+      <text>The Board shall permit a registered qualified elector to vote at any Vote Center, regardless of the registered qualified elector's current residence address within the District.</text>
     </para>
   </para>
   <para>
     <num>(b-1)</num>
     <para>
       <num>(1)</num>
-      <text>For each primary and general election, the Board shall designate no fewer than 8 early voting centers, with at least one early voting center available in a central location within each election ward.</text>
+      <text>For each primary and general election, the Board shall designate no fewer than 8 Vote Centers to be used for early voting, with at least one early Vote Center available in a central location within each election ward.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>At each early voting center, the Board shall allow persons to vote in person for not more than 12 days before election day; provided, that no early voting shall occur on a holiday.</text>
+      <text>At each Vote Center used for early voting, the Board shall allow persons to vote in person for a period of not more than 12 days before election day; provided, that no early voting shall occur on a holiday.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>The Department of General Services shall assist the Board in identifying appropriate locations for use as early voting centers.</text>
+      <text>The Department of General Services shall assist the Board in identifying appropriate locations for Vote Centers to be used for early voting.</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>The Chief Technology Officer shall assist the Board in ensuring that each early voting center maintains a secure network environment with the Board’s office.</text>
+      <text>The Chief Technology Officer shall assist the Board in ensuring that each Vote Center to be used for early voting maintains a secure network environment with the Board’s office.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(5)</num>
-      <text>Before January 31, 2011, the Board shall submit a report to the Council on the effectiveness of using early voting centers, including information about:</text>
-      <para>
-        <num>(A)</num>
-        <text>The effect of early voting centers on turnout rates;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Whether the expanded use of early voting centers could permit for consolidation of precincts; or</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>Other information about cost savings opportunities for the use of polling places.</text>
-      </para>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(6)</num>
@@ -66,33 +62,33 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>Any candidate or group of candidates may, not less than 2 weeks prior to such election, petition the Board for credentials authorizing watchers at 1 or more polling places and at the place or places where the vote is to be counted for the next election during voting hours and until the count has been completed. The Board shall formulate rules and regulations not inconsistent with this subchapter to prescribe the form of watchers’ credentials, to govern the conduct of such watchers, and to limit the number of watchers so that the conduct of the election will not of the election will not be unreasonably obstructed. Such rules and regulations should provide fair opportunity for watchers for all candidates or groups of candidates to challenge prospective voters whom the watchers believe to be unqualified to vote, to question the accuracy in the vote count, and otherwise to observe the conduct of the election at the polling place and the counting of votes.</text>
+    <text>Any candidate or group of candidates may, not less than 2 weeks prior to such election, petition the Board for credentials authorizing watchers at 1 or more Vote Centers and at the place or places where the vote is to be counted for the next election during voting hours and until the count has been completed. The Board shall formulate rules and regulations not inconsistent with this subchapter to prescribe the form of watchers’ credentials, to govern the conduct of such watchers, and to limit the number of watchers so that the conduct of the election will not of the election will not be unreasonably obstructed. Such rules and regulations should provide fair opportunity for watchers for all candidates or groups of candidates to challenge prospective voters whom the watchers believe to be unqualified to vote, to question the accuracy in the vote count, and otherwise to observe the conduct of the election at the Vote Center and the counting of votes.</text>
   </para>
   <para>
     <num>(c-1)</num>
-    <text>The Board shall issue rules for granting access to the electoral process, including access to polling places, ballot-tabulation centers, and other similar locations, to election observers. The rules shall take into account the need to avoid disruption and crowding in polling places and ballot-tabulation centers and the need to ensure that all questions posed by observers should be answered as fully, accurately, and cooperatively as possible. Election observers shall be allowed uniform and nondiscriminatory access to all stages of the election process, including the certification of election technologies, early and absentee voting, and vote tabulation. The Board shall issue a public notice with respect to any denial of a request by any election observer for access to any polling place for purposes of observing an election. The notice shall be issued not later than 24 hours after the denial.</text>
+    <text>The Board shall issue rules for granting access to the electoral process, including access to Vote Centers, ballot tabulation centers, and other similar locations, to election observers. The rules shall consider the need to avoid disruption and crowding in Vote Centers and ballot tabulation centers and the need to ensure that all questions posed by observers should be answered as fully, accurately, and cooperatively as possible. Election observers shall be allowed uniform and nondiscriminatory access to all stages of the election process, including the certification of election technologies, early and mail-in voting, and vote tabulation. The Board shall issue a public notice with respect to any denial of a request by any election observer for access to any Vote Center for purposes of observing an election. The notice shall be issued not later than 24 hours after the denial.</text>
   </para>
   <para>
     <num>(d)</num>
     <para>
       <num>(1)</num>
-      <text>A registered voter may challenge another voter’s status as a qualified elector of the District of Columbia by stating in writing the name of the person challenged, the basis for the challenge, and the evidence provided to support the challenge. The challenger shall sign an affidavit, declaring under penalty of perjury, that the challenge is based upon substantial evidence which the challenger believes in good faith shows that the person challenged is not a qualified elector of the District. After receiving a challenge or making a challenge, the precinct captain or other official in charge of the polling place shall give the challenged voter an opportunity to respond.</text>
+      <text>A registered voter may challenge another voter’s status as a qualified elector of the District of Columbia by stating in writing the name of the person challenged, the basis for the challenge, and the evidence provided to support the challenge. The challenger shall sign an affidavit, declaring under penalty of perjury, that the challenge is based upon substantial evidence which the challenger believes in good faith shows that the person challenged is not a qualified elector of the District. After receiving a challenge or making a challenge, the site coordinator or other official in charge of the Vote Center shall give the challenged voter an opportunity to respond.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Notwithstanding paragraph (1) of this subsection, a voter shall not be challenged solely on the basis of characteristics or perceived characteristics not directly related to the challenged voter’s status as a registered qualified elector, including race, color, religion, sex, personal appearance, sexual orientation, gender identity or expression, matriculation status, political affiliation, or physical disability. The Board may remove a precinct captain or void the credentials of an authorized watcher, or refer the matter for prosecution as a violation of <cite path="§1-1001.12">§ 1-1001.12</cite>, if the Board determines that the precinct captain or the watcher has violated the provisions of this paragraph.</text>
+      <text>Notwithstanding paragraph (1) of this subsection, a voter shall not be challenged solely on the basis of characteristics or perceived characteristics not directly related to the challenged voter’s status as a registered qualified elector, including race, color, religion, sex, personal appearance, sexual orientation, gender identity or expression, matriculation status, political affiliation, or physical disability. The Board may remove a site coordinator or void the credentials of an authorized watcher, or refer the matter for prosecution as a violation of <cite path="§1-1001.12">§ 1-1001.12</cite>, if the Board determines that the site coordinator or the watcher has violated the provisions of this paragraph.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>The precinct captain shall review the evidence presented and shall affirm the challenge if the precinct captain finds that it is based on substantial evidence specific to the voter being challenged and probative of the challenged voter’s status as a qualified elector. The precinct captain shall deny the challenge if the precinct captain finds that the challenge is not based on substantial evidence that is specific to the voter being challenged and probative of the challenged voter’s status as a qualified elector. The precinct captain shall record the decision and the rationale for the decision on a form provided by the Board.</text>
+      <text>The site coordinator shall review the evidence presented and shall affirm the challenge if the site coordinator finds that it is based on substantial evidence specific to the voter being challenged and probative of the challenged voter’s status as a qualified elector. The site coordinator shall deny the challenge if the site coordinator finds that the challenge is not based on substantial evidence that is specific to the voter being challenged and probative of the challenged voter’s status as a qualified elector. The site coordinator shall record the decision and the rationale for the decision on a form provided by the Board.</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>If the precinct captain denies the challenge, the precinct captain shall inform the challenger that the challenger may appeal the decision to the Board and shall give the challenger copies of the rules regarding challenges and appeals to the Board. Any appeal of the precinct captain’s decision to deny the challenge shall be made either before the challenged voter casts a regular ballot, or before either the challenger or the challenged voter leaves the polling place, whichever is earlier. If the challenger does not appeal the precinct captain’s decision to deny the challenge, the challenged voter shall cast a regular ballot.</text>
+      <text>If the site coordinator denies the challenge, the site coordinator shall inform the challenger that the challenger may appeal the decision to the Board and shall give the challenger copies of the rules regarding challenges and appeals to the Board. Any appeal of the site coordinator's decision to deny the challenge shall be made either before the challenged voter casts a regular ballot, or before either the challenger or the challenged voter leaves the Vote Center, whichever is earlier. If the challenger does not appeal the site coordinator's decision to deny the challenge, the challenged voter shall cast a regular ballot.</text>
     </para>
     <para>
       <num>(5)</num>
-      <text>If the challenger appeals the precinct captain’s decision to deny the challenge, the precinct captain shall state the facts of the case to the Board’s hearing officer, who is authorized to rule on the appeal for the Board. A Board member, the Board’s Executive Director, or the Board’s chief voter registration official may serve as the Board’s hearing officer for the appeal. The precinct captain shall contact the hearing officer by telephone. The hearing officer shall ensure that the hearing is recorded, and shall take testimony under oath from the challenger, the person challenged, the precinct captain, and any witnesses to the challenge who wish to testify. Each person who testifies before the hearing officer shall state for the record their:</text>
+      <text>If the challenger appeals the site coordinator's decision to deny the challenge, the site coordinator shall state the facts of the case to the Board’s hearing officer, who is authorized to rule on the appeal for the Board. A Board member, the Board’s Executive Director, or the Board’s chief voter registration official may serve as the Board’s hearing officer for the appeal. The site coordinator shall contact the hearing officer by telephone. The hearing officer shall ensure that the hearing is recorded, and shall take testimony under oath from the challenger, the person challenged, the site coordinator, and any witnesses to the challenge who wish to testify. Each person who testifies before the hearing officer shall state for the record their:</text>
       <para>
         <num>(A)</num>
         <text>Name as recorded on the Board’s voter registration list;</text>
@@ -108,20 +104,20 @@
     </para>
     <para>
       <num>(6)</num>
-      <text>The hearing officer shall receive evidence and testimony pursuant to paragraph (5) of this subsection and then shall close the hearing. The hearing officer shall review all of the evidence presented pertaining to the challenge and make a decision regarding the appeal, based on the hearing officer's determination of whether the challenger has presented substantial evidence that is specific to the voter being challenged and probative of the challenged voter’s status as a qualified elector. The recording of the hearing shall be transcribed and shall serve as the official case record along with the written documentation of the precinct captain’s initial decision to deny the challenge.</text>
+      <text>The hearing officer shall receive evidence and testimony pursuant to paragraph (5) of this subsection and then shall close the hearing. The hearing officer shall review all of the evidence presented pertaining to the challenge and make a decision regarding the appeal, based on the hearing officer's determination of whether the challenger has presented substantial evidence that is specific to the voter being challenged and probative of the challenged voter’s status as a qualified elector. The recording of the hearing shall be transcribed and shall serve as the official case record along with the written documentation of the site coordinator's initial decision to deny the challenge.</text>
     </para>
     <para>
       <num>(7)</num>
-      <text>The hearing officer shall notify the precinct captain of the hearing officer's decision on the appeal of the unsuccessful challenge, and the precinct captain shall notify each party of the hearing officer's decision. If the hearing officer affirms the precinct captain's decision to deny the challenge, the challenged voter shall cast a regular ballot. The precinct captain shall inform the challenger of the challenger's right to appeal the decision of the Board hearing officer to the Superior Court of the District of Columbia. If the hearing officer overturns the precinct captain's decision to deny the challenge, the challenged voter shall be allowed to vote only by casting a paper ballot marked "challenged" in accordance with the procedures set forth in paragraph (8) of this subsection.</text>
+      <text>The hearing officer shall notify the site coordinator of the hearing officer's decision on the appeal of the unsuccessful challenge, and the site coordinator shall notify each party of the hearing officer's decision. If the hearing officer affirms the site coordinator's decision to deny the challenge, the challenged voter shall cast a regular ballot. The site coordinator shall inform the challenger of the challenger's right to appeal the decision of the Board hearing officer to the Superior Court of the District of Columbia. If the hearing officer overturns the site coordinator's decision to deny the challenge, the challenged voter shall be allowed to vote only by casting a paper ballot marked "challenged" in accordance with the procedures set forth in paragraph (8) of this subsection.</text>
     </para>
     <para>
       <num>(8)</num>
-      <text>If the precinct captain affirms the challenge made at the polling place, or if the Board’s hearing officer overturns the decision of the precinct captain to deny a challenge, the precinct captain shall allow the person to vote only by casting a paper ballot marked “challenged” and shall provide the voter with written notification of the voter's right of appeal pursuant to subsection (e) of this section. Challenged ballots shall be segregated, and no challenged ballot shall be counted until the challenge has been removed pursuant to subsection (e) of this section. The precinct captain shall not allow the challenged voter to cast a “challenged” ballot unless the voter signs an affidavit swearing or affirming, under penalty of perjury, that the voter is a qualified registered elector in the District of Columbia who resides in the precinct in which the ballot is to be cast, and if applicable, the Advisory Neighborhood Commission single-member district in which the ballot is to be cast.</text>
+      <text>If the site coordinator affirms the challenge made at the Vote Center, or if the Board's hearing officer overturns the decision of the site coordinator to deny a challenge, the site coordinator shall allow the person to vote only by casting a paper ballot marked "challenged" and shall provide the voter with written notification of the voter's right of appeal pursuant to subsection (e) of this section. Challenged ballots shall be segregated, and no challenged ballot shall be counted until the challenge has been removed pursuant to subsection (e) of this section. The site coordinator shall not allow the challenged voter to cast a "challenged" ballot unless the voter signs an affidavit swearing or affirming, under penalty of perjury, that the voter is a qualified registered elector in the District of Columbia who resides in the precinct for which the ballot is to be cast, and if applicable, the Advisory Neighborhood Commission single-member district in which the ballot is to be cast.</text>
     </para>
   </para>
   <para>
     <num>(d-1)</num>
-    <text>Any individual who alleges that their name has been erroneously omitted from the list of registered voters, or alleges that their name, address or party affiliation is erroneously printed on the list of registered voters, shall be permitted to cast a ballot. Ballots so cast shall be placed in a sealed envelope. The outside of the envelope shall contain the signature of the voter and such information as the Board deems necessary to determine that the individual is qualified to have the vote counted. The official in charge of the polling place shall provide the voter with written notification of appeal rights as provided in subsection (e) of this section, should the Board determine that the voter is not qualified to vote in the election.</text>
+    <text>Any individual who alleges that their name has been erroneously omitted from the list of registered voters, or alleges that their name, address or party affiliation is erroneously printed on the list of registered voters, shall be permitted to cast a ballot. Ballots so cast shall be placed in a sealed envelope. The outside of the envelope shall contain the signature of the voter and such information as the Board deems necessary to determine that the individual is qualified to have the vote counted. The official in charge of the Vote Center shall provide the voter with written notification of appeal rights as provided in subsection (e) of this section, should the Board determine that the voter is not qualified to vote in the election.</text>
   </para>
   <para>
     <num>(d-2)</num>
@@ -131,30 +127,30 @@
     <num>(e)</num>
     <para>
       <num>(1)</num>
-      <text>A voter’s signing of a challenged or special ballot envelope shall be deemed as the filing of an appeal by the voter of the refusal by the Board’s chief voter registration official to permit the voter to vote on election day by regular ballot, and a waiver of personal notice from the Board of any denial or refusal to a later count of the challenged or special ballot. The Board shall review all available evidence pertaining to the eligibility of each voter casting a challenged or special ballot, and shall make a preliminary decision about whether to count or to reject each challenged or special ballot based on its review of the available evidence.</text>
+      <text>A voter’s signing of a challenged or special ballot envelope shall be deemed as the filing of an appeal by the voter of the refusal by the Board’s chief voter registration official to permit the voter to vote during early voting or on election day by regular ballot, and a waiver of personal notice from the Board of any denial or refusal to a later count of the challenged or special ballot. The Board shall review all available evidence pertaining to the eligibility of each voter casting a challenged or special ballot, and shall make a preliminary decision about whether to count or to reject each challenged or special ballot based on its review of the available evidence.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>In sufficient time to comply with the requirements of the Uniformed and Overseas Citizens Absentee Voter Act, approved August 28, 1986 (100 Stat. 924; 42 U.S.C. § 1973ff et seq.), the Board shall maintain a toll-free telephone service during regular business hours for any person who has voted by a challenged or special ballot to learn the Board’s preliminary decision whether to count or reject the person's ballot and the reason for each decision.</text>
+      <text>The Board shall maintain a toll-free telephone service during regular business hours for any person who has voted by a challenged or special ballot to learn the Board’s preliminary decision whether to count or reject the person's ballot and the reason for each decision.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>If the Board has made a preliminary determination that a challenged ballot shall not be counted, it shall afford the challenged voter an opportunity to contest that determination in a hearing before the Board. The hearings authorized pursuant to this paragraph shall take place not later than 2 days after that election. The Board shall inform the voter of the date scheduled for the hearing and the manner by which the voter may learn the Board's final decision to count or reject the voter's challenged ballot. The notice shall be in writing and shall be provided to the voter at the time of voting. At the hearing, the voter may appear and testify. The Board shall make a final determination within one day after the date of the hearing. The voter may appeal the decision of the Board to the Superior Court of the District of Columbia within one business day after the date of the Board's decision. The decision of the court shall be final and not appealable.</text>
+      <text>If the Board has made a preliminary determination that a challenged ballot shall not be counted, it shall afford the challenged voter an opportunity to contest that determination in a hearing before the Board. The hearings authorized pursuant to this paragraph shall take place no earlier than 8 days and no later than 10 days after that election. The Board shall inform the voter of the date scheduled for the hearing and the manner by which the voter may learn the Board's final decision to count or reject the voter's challenged ballot. The notice shall be in writing and shall be provided to the voter at the time of voting. At the hearing, the voter may appear and testify. The Board shall make a final determination within one day after the date of the hearing. The voter may appeal the decision of the Board to the Superior Court of the District of Columbia within one business day after the date of the Board's decision. The decision of the court shall be final and not appealable.</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>If the Board has determined that a special ballot shall not be counted, it shall afford the voter an opportunity to contest that determination in a hearing held before the Board not later than 2 days after any election held pursuant to this subchapter. The Board shall inform the voter in writing, at the time of voting, of the date scheduled for the hearing and the manner by which the voter may learn whether the Board has decided to count or reject the voter's special ballot. The Board shall make a final determination within one day after the date of the hearing. The voter may appeal the decision of the Board to the Superior Court of the District of Columbia within one business day after the date of the Board's decision. The decision of the court shall be final and not appealable.</text>
+      <text>If the Board has determined that a special ballot shall not be counted, it shall afford the voter an opportunity to contest that determination in a hearing held before the Board no earlier than 8 days and no later than 10 days after any election held pursuant to this subchapter. The Board shall inform the voter in writing, at the time of voting, of the date scheduled for the hearing and the manner by which the voter may learn whether the Board has decided to count or reject the voter's special ballot. The Board shall make a final determination within one day after the date of the hearing. The voter may appeal the decision of the Board to the Superior Court of the District of Columbia within one business day after the date of the Board's decision. The decision of the court shall be final and not appealable.</text>
     </para>
   </para>
   <para>
     <num>(f)</num>
-    <text>If a qualified elector is unable to record the qualified elector's vote by marking the ballot or operating the voting machine an official of the polling place shall, on the request of the voter, enter the voting booth and comply with the voter’s directions with respect to recording the qualified elector's vote. Upon the request of any such voter, a second official of the polling place shall also enter the voting booth and witness the recordation of the voter’s directions. The official or officials shall in no way influence or attempt to influence the voter’s decisions, and shall tell no one how the voter voted. The official in charge of the voting place shall make a return of all such voters, giving their names and disabilities.</text>
+    <text>If a qualified elector is unable to record the qualified elector's vote by marking the ballot or operating the voting machine an official of the Vote Center shall, on the request of the voter, enter the voting booth and comply with the voter’s directions with respect to recording the qualified elector's vote. Upon the request of any such voter, a second official of the Vote Center shall also enter the voting booth and witness the recordation of the voter’s directions. The official or officials shall in no way influence or attempt to influence the voter’s decisions, and shall tell no one how the voter voted. The official in charge of the voting place shall make a return of all such voters, giving their names and disabilities.</text>
   </para>
   <para>
     <num>(g)</num>
     <para>
       <num>(1)</num>
-      <text>No person shall vote more than once in any election nor shall any person vote in a primary or party election held by a political party other than that to which the person has declared himself or herself to be a member.</text>
+      <text>No person shall vote more than once in any election nor shall any person vote in a primary or party election held by a political party other than that to which the person has declared themselves to be a member.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -163,11 +159,11 @@
   </para>
   <para>
     <num>(h)</num>
-    <text>In the event that the total number of candidates of one party nominated to an office or group of offices of that party pursuant to <cite path="§1-1001.08|(a)">§ 1-1001.08(a)</cite> or <cite path="§1-1001.17|(i)">§ 1-1001.17(i)</cite> does not exceed the number of such offices to be filled, the Board may, prior to election day and, notwithstanding the provisions of <cite path="§1-1001.08|(c)">§ 1-1001.08(c)</cite> or <cite path="§1-1001.17|(i)">§ 1-1001.17(i)</cite>, declare the candidates so nominated to be elected without opposition, in which case the fact of their election pursuant to this subsection shall appear for the information of the voters on any ballot prepared by the Board for their party for the election of other candidates in the same election.</text>
+    <text>In the event that the total number of candidates of one party nominated to an office or group of offices of that party pursuant to <cite path="§1-1001.08|(a)">§ 1-1001.08(a)</cite> does not exceed the number of such offices to be filled, the Board may, prior to election day and, notwithstanding the provisions of <cite path="§1-1001.08|(c)">§ 1-1001.08(c)</cite>, declare the candidates so nominated to be elected without opposition, in which case the fact of their election pursuant to this subsection shall appear for the information of the voters on any ballot prepared by the Board for their party for the election of other candidates in the same election.</text>
   </para>
   <para>
     <num>(i)</num>
-    <text>Copies of the regulations of the Board with respect to voting shall be made available to prospective voters at each polling place.</text>
+    <text>Copies of the regulations of the Board with respect to voting shall be made available to prospective voters at each Vote Center.</text>
   </para>
   <para>
     <num>(j)</num>
@@ -175,14 +171,14 @@
   </para>
   <para>
     <num>(j-1)</num>
-    <text>Upon the conclusion of voting at any precinct, the Board shall post a summary count of votes cast at the precinct. The summary shall be posted in a conspicuous place that can be seen from the outside of the precinct immediately upon completion of voting.</text>
+    <text>Upon the conclusion of voting at any Vote Center, the Board shall post a summary count of votes cast at the Vote Center. The summary shall be posted in a conspicuous place that can be seen from the outside of the Vote Center immediately upon completion of voting.</text>
   </para>
   <para>
     <num>(j-2)</num>
-    <text>Precinct captains shall prepare a summary log that indicates the number of:</text>
+    <text>Site coordinators shall prepare a summary log that indicates the number of:</text>
     <para>
       <num>(1)</num>
-      <text>Votes cast in a polling place;</text>
+      <text>Votes cast in a Vote Center;</text>
     </para>
     <para>
       <num>(2)</num>
@@ -190,7 +186,7 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>Voter-verifiable records that arrived at the polling place before the polls opened;</text>
+      <text>Voter-verifiable records that arrived at [a] Vote Center before the polls opened;</text>
     </para>
     <para>
       <num>(4)</num>
@@ -383,5 +379,40 @@
     <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(h)|(3)|(C)" type="History"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(h)|(4)" type="History"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(h)|(5)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(1)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(2)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(3)|(A)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(3)|(B)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(3)|(C)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(3)|(D)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(4)|(A)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(4)|(B)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(4)|(C)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(4)|(D)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(4)|(E)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(5)|(A)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(5)|(B)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(6)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(7)|(A)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(7)|(B)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(7)|(C)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(7)|(D)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(7)|(E)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(7)|(F)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(7)|(G)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(7)|(H)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(8)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(9)|(A)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(9)|(B)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(9)|(C)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(9)|(D)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(10)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(11)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(12)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(13)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(14)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(15)|(A)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(15)|(B)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(15)|(C)" type="History"/>
   </annotations>
 </section>

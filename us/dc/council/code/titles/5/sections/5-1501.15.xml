@@ -29,6 +29,10 @@
       <text>The fee schedule established pursuant to paragraph (1)(A) of this subsection may be applied on a sliding scale based on a recipient's ability to pay for the services.</text>
     </para>
   </para>
+  <para placeholder="Not Funded">
+    <num>(a-1)</num>
+    <text>Not Funded.</text>
+  </para>
   <para>
     <num>(b)</num>
     <text>The proposed rules shall be submitted to the Council for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, by resolution, within the 45-day review period, the proposed rules shall be deemed approved.</text>
@@ -41,5 +45,10 @@
     <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§3002|(b)" type="History" display="false"/>
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§3002|(b)" type="History"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§501|(k)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§10|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(t)|(1)|(A)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(t)|(1)|(B)|(i)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(t)|(1)|(B)|(ii)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(t)|(2)" type="History"/>
   </annotations>
 </section>

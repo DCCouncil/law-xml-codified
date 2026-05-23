@@ -21,9 +21,9 @@
       <num>(4)</num>
       <text>Provide for recording and counting votes by means of ballots or machines or both; provided, that the Board may begin counting votes 15 days before the day of the election, but may not publish or disclose tabulation results before 8:00 p.m. on the day of the election;</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(5)</num>
-      <text>Publish in the District of Columbia Register no later than 45 days before each election held under this subchapter, a fictitious name sample design and layout of the ballot to be used in the election. This requirement shall not apply to any special election to fill a vacancy in an Advisory Neighborhood Commission single-member district;</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(6)</num>
@@ -35,15 +35,15 @@
     </para>
     <para>
       <num>(8)</num>
-      <text>Every 5 years, divide the District into appropriate voting precincts, each of which shall contain at least 350 registered persons; draw precinct lines within election wards created by the Council, subject to the approval of the Council, in whole or in part, by resolution;</text>
+      <text>Every 5 years, divide the District into appropriate voting precincts, each of which shall contain at least 350 registered persons; and draw precinct lines within election wards created by the Council, subject to the approval of the Council, in whole or in part, by resolution;</text>
     </para>
     <para>
       <num>(9)</num>
-      <text>Operate polling places, including a polling place for individuals incarcerated in the Department of Corrections' custody or care at the Central Detention Facility and Correctional Treatment Facility;</text>
+      <text>Operate Vote Centers, including a Vote Center for incarcerated individuals in the Department of Corrections' care and custody at the Central Detention Facility and Correctional Treatment Facility;</text>
     </para>
     <para>
       <num>(9A)</num>
-      <text>Before any upcoming voter registration or absentee ballot deadlines and with reasonable time for qualified electors to return materials to the Board:</text>
+      <text>Before any upcoming voter registration or mail-in ballot deadlines and with reasonable time for qualified electors to return materials to the Board:</text>
       <para>
         <num>(A)</num>
         <text>Provide to every unregistered qualified elector in the Department of Corrections' care or custody and endeavor to provide to every unregistered qualified elector in the Bureau of Prisons' care or custody:</text>
@@ -53,7 +53,7 @@
         </para>
         <para>
           <num>(ii)</num>
-          <text>Lay-friendly educational materials about the importance of voting and the right of an individual currently incarcerated or with a criminal record to vote in the District; and</text>
+          <text>Lay-friendly educational materials about the importance of voting and the right of an individual currently incarcerated or with a criminal record to vote in the District;</text>
         </para>
       </para>
       <para>
@@ -61,7 +61,7 @@
         <text>Provide to every registered qualified elector in the Department of Corrections' care or custody and endeavor to provide to every registered qualified elector in the Bureau of Prisons' care or custody:</text>
         <para>
           <num>(i)</num>
-          <text>A voter guide;</text>
+          <text>A voter guide, if such a guide is published by the Board;</text>
         </para>
         <para>
           <num>(ii)</num>
@@ -69,17 +69,41 @@
         </para>
         <para>
           <num>(iii)</num>
-          <text>Without first requiring an absentee ballot application to be submitted, an absentee ballot and postage-paid return envelope;</text>
+          <text>A mail-in ballot and postage-paid return envelope; and</text>
         </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Provide to every registered qualified elector in the care and custody of the Department of Corrections and the Department of Youth Rehabilitation Services information about the importance of and process for keeping their voter registration information, including their residence address, current and up-to-date;</text>
       </para>
     </para>
     <para>
       <num>(10)</num>
-      <text>Provide information regarding procedures for voter registration and absentee ballots to absent uniformed services voters and overseas voters in United States elections, accept valid voter registration applications, absentee ballot applications, and absentee ballots including write-in ballots from all of those voters, and comply with the Uniformed and Overseas Citizens Absentee Voting Act, approved August 28, 1966 (100 Stat. 924; 42 U.S.C. § 1873ff et seq.);</text>
+      <text>Provide information regarding procedures for voter registration and mail-in ballots to absent uniformed services voters and overseas voters in United States elections, accept valid voter registration applications and mail-in ballots, including write-in ballots, from those voters, and comply with the Uniformed and Overseas Citizens Absentee Voting Act, approved August 28, 1966 (100 Stat. 924; 42 U.S.C. § 1873ff <em>et seq</em>.);</text>
     </para>
     <para>
       <num>(10A)</num>
       <text>Accept absentee ballots postmarked or otherwise proven to have been sent on or before the day of the election, and received by the Board no later than the 7th day after the election;</text>
+    </para>
+    <para placeholder="Not Funded">
+      <num>(10B)</num>
+      <text>Not Funded.</text>
+    </para>
+    <para placeholder="Not Funded">
+      <num>(10C)</num>
+      <text>Not Funded.</text>
+    </para>
+    <para placeholder="Not Funded">
+      <num>(10D)</num>
+      <text>Not Funded.</text>
+    </para>
+    <para placeholder="Repealed">
+      <num>(10E)</num>
+      <text>Not fundeded.</text>
+    </para>
+    <para placeholder="Not Funded">
+      <num>(10F)</num>
+      <text>Not Funded.</text>
     </para>
     <para>
       <num>(11)</num>
@@ -99,11 +123,11 @@
     </para>
     <para>
       <num>(15)</num>
-      <text>Take reasonable steps to facilitate voting by blind persons and persons with physical and developmental disabilities, qualified to vote under this subchapter, and to authorize such persons to cast a ballot with the assistance of a person of their own choosing;</text>
+      <text>Take reasonable steps to facilitate voting by persons with disabilities, qualified to vote under this subchapter, and to authorize such persons to cast a ballot with the assistance of a person of their own choosing;</text>
     </para>
     <para>
       <num>(15A)</num>
-      <text>At the request of a candidate, consider what action, if any, should be taken to clarify the identity of a candidate if there is potential for confusion among voters about the identity of a candidate because of the similarity of his or her name to another candidate or elected official;</text>
+      <text>At the request of a candidate, consider what action, if any, should be taken to clarify the identity of a candidate if there is potential for confusion among voters about the identity of a candidate because of the similarity of the candidate's name to another candidate or elected official;</text>
     </para>
     <para>
       <num>(16)</num>
@@ -145,7 +169,7 @@
       </para>
       <para>
         <num>(D)</num>
-        <text>Issue rules to implement the use of a mobile application for all elections, including how to register a mobile device with the Board in order to utilize the mobile application; provided, that the rules shall require signed petitions from the mobile application to be printed out and submitted to the Board; and</text>
+        <text>Issue rules to implement the use of a mobile application for all elections, including how to register a mobile device with the Board in order to utilize the mobile application; provided, that the rules shall require signed petitions from the mobile application to be printed out and submitted to the Board;</text>
       </para>
     </para>
     <para>
@@ -184,7 +208,7 @@
         </para>
         <para>
           <num>(ii)</num>
-          <text>Polling place locations;</text>
+          <text>Vote Center locations;</text>
         </para>
         <para>
           <num>(iii)</num>
@@ -192,7 +216,55 @@
         </para>
         <para>
           <num>(iv)</num>
-          <text>How to search for an individual's Ward Councilmember, Ward State Board of Education member, and Advisory Neighborhood Commissioner.</text>
+          <text>How to search for an individual's Ward Councilmember, Ward State Board of Education member, and Advisory Neighborhood Commissioner; and</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(21)</num>
+      <text>Establish and maintain a publicly accessible and searchable election data portal and data visualization dashboards on the Board's website that include the following aggregated data:</text>
+      <para>
+        <num>(A)</num>
+        <text>For each primary, general, and special election, election results and turnout data, sortable by at least the following categories:</text>
+        <para>
+          <num>(i)</num>
+          <text>Vote Center, precinct, single-member district, Advisory Neighborhood Commission, and Ward;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Voter age or age range;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Voter history, including length and whether voters were newly registered since the last election;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Method of voting, such as in-person, separated by special ballots, ballot drop box, or mail-in;</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Timing of voting, such as early voting or election day and by day and Vote Center; and</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>For mail-in ballots, dates of mailing to voters and receipt by voters, dates returned to the Board and accepted or rejected by the Board, and number and percentage of undeliverable mail-in ballots; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Regarding voter registration, the:</text>
+        <para>
+          <num>(i)</num>
+          <text>Number of voters registered by month;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Locations of their registration; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Registered voters' ages, precincts, single-member districts, and wards of residence.</text>
         </para>
       </para>
     </para>
@@ -201,7 +273,7 @@
     <num>(a-1)</num>
     <para>
       <num>(1)</num>
-      <text>The Board shall hold regular monthly meetings in accordance with a schedule to be established by the Board. Additional meetings may be called as needed by the Board. Except in the case of an emergency, the Board shall provide at least 48 hours' notice of any additional meeting.</text>
+      <text>The Board shall hold regular monthly meetings in accordance with a schedule to be established by the Board. Meetings may be rescheduled, and additional meetings may be called as needed by the Board. Except in the case of an emergency, the Board shall provide at least 48 hours' notice of any additional meeting.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -413,27 +485,27 @@
       <num>(4)</num>
       <para>
         <num>(A)</num>
-        <text>Except as provided in subparagraph (C) of this paragraph, the Board shall select, appoint, and fix the compensation of temporary election workers to operate the polling places, including precinct captains who shall oversee the operations of polling places in accordance with rules prescribed by the Board, and polling place workers who shall assist the precinct captains. Precinct captains shall be qualified registered electors in the District. Polling place workers shall be qualified registered electors in the District; provided, that the Board may also appoint as polling place workers individuals who are at least 16 years of age on the day that they are working in this capacity, who reside in the District of Columbia, and who are enrolled in or have graduated from a public or private secondary school or an institution of higher education. Any polling place worker shall be required to:</text>
+        <text>Except as provided in subparagraph (C) of this paragraph, the Board shall select, appoint, and fix the compensation of temporary election workers to operate Vote Centers, including site coordinators, who shall oversee the operations of Vote Centers in accordance with rules prescribed by the Board, and election workers, who shall assist the site coordinators. Site coordinators shall be qualified registered electors in the District. Election workers shall be individuals who are at least 16 years of age by the day that they are working in this capacity, who reside in the District of Columbia, and who are enrolled in or have graduated from a public or private secondary school or an institution of higher education. An election worker shall be required to:</text>
         <para>
           <num>(i)</num>
           <text>Complete at least 4 hours of training;</text>
         </para>
         <para>
           <num>(ii)</num>
-          <text>Receive certification as a polling place worker under standards that the Board shall promulgate; and</text>
+          <text>Receive certification as an election worker under standards that the Board shall promulgate; and</text>
         </para>
         <para>
           <num>(iii)</num>
-          <text>Take and sign an oath of office to honestly, faithfully, and promptly perform the duties of office.</text>
+          <text>Take and sign an oath of office or affirmation to perform the duties of office honestly, faithfully, and promptly.</text>
         </para>
       </para>
       <para>
         <num>(B)</num>
-        <text>The Board shall establish standards to measure the performance of polling place workers, including the past performance of a polling place worker, and shall consider the polling place worker’s past performance before appointing the polling place worker to work as a polling place worker in a subsequent election.</text>
+        <text>The Board shall establish standards to measure the performance of election workers, including the past performance of an election worker, and consider the election worker's past performance before appointing the election worker to work as an election worker in a subsequent election. Past service as an election worker shall not entitle a person to appointment as an election worker in a subsequent election.</text>
       </para>
       <para>
         <num>(C)</num>
-        <text>Election workers, including precinct captains and polling place workers, who are District government employees are not required to be District residents or qualified electors.</text>
+        <text>Election workers, including site coordinators, who are District government employees are not required to be District residents or qualified electors.</text>
       </para>
     </para>
   </para>
@@ -481,14 +553,14 @@
   </para>
   <para>
     <num>(i)</num>
-    <text>The Board shall cause the following information to be posted at each polling place on the day of each election for federal office:</text>
+    <text>The Board shall cause the following information to be posted at each Vote Center on the day of each election for federal office:</text>
     <para>
       <num>(1)</num>
       <text>A sample version of the ballot that will be used for the election;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The election and the hours during which polling places will be open;</text>
+      <text>The election and the hours during which Vote Centers will be open;</text>
     </para>
     <para>
       <num>(3)</num>
@@ -508,12 +580,12 @@
     </para>
     <para>
       <num>(7)</num>
-      <text>The documentation required for a qualified elector to verify residency and register to vote at the polling place.</text>
+      <text>The documentation required for a qualified elector to verify residency and register to vote at the Vote Center.</text>
     </para>
   </para>
   <para>
     <num>(j)</num>
-    <text>Not later than 90 days after the date of each regularly scheduled general election for federal office, the Board shall submit to the Mayor a report, in the format established by the United States Election Assistance Commission, on the number of absentee ballots sent to absent uniformed services voters and overseas voters for the election and the number of ballots which were returned by those voters to the Board.  The report shall be transmitted by the Mayor to the United States Election Assistance Commission, and shall be made available to the general public.</text>
+    <text>Not later than 90 days after the date of each regularly scheduled general election for federal office, the Board shall submit to the Mayor a report, in the format established by the United States Election Assistance Commission, on the number of mail-in ballots sent to absent uniformed services voters and overseas voters for the election and the number of ballots which were returned by those voters to the Board.  The report shall be transmitted by the Mayor to the United States Election Assistance Commission, and shall be made available to the general public.</text>
   </para>
   <para>
     <num>(k)</num>
@@ -527,11 +599,11 @@
       <text>The number of persons registered:</text>
       <para>
         <num>(A)</num>
-        <text>More than 30 days preceding the election;</text>
+        <text>More than 21 days preceding the election;</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>Between 30 days preceding the election and the date of the election; and</text>
+        <text>Between 21 days preceding the election and the date of the election; and</text>
       </para>
       <para>
         <num>(C)</num>
@@ -540,7 +612,7 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>The number of polling place workers, by precinct;</text>
+      <text>The number of election workers, by Vote Center;</text>
     </para>
     <para>
       <num>(4)</num>
@@ -548,15 +620,15 @@
     </para>
     <para>
       <num>(5)</num>
-      <text>A synopsis of any issues identified in precinct captain or area representative logs;</text>
+      <text>A synopsis of any issues identified in site coordinator or area representative logs;</text>
     </para>
     <para>
       <num>(6)</num>
-      <text>Performance measurement data of polling place workers;</text>
+      <text>Performance measurement data of election workers;</text>
     </para>
     <para>
       <num>(7)</num>
-      <text>A description of any irregularities experienced on election day;</text>
+      <text>A description of any irregularities experienced during early voting and on election day;</text>
     </para>
     <para>
       <num>(7A)</num>
@@ -787,5 +859,36 @@
     <annotation app="2022-06-28" doc="D.C. Act 24-451" eff="2022-06-28" path="§4" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-130" path="§4" codified:display="Note" app="2022-06-30" eff="2022-06-30">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-130" path="§4">§ 4 of Advisory Neighborhood Commission Redistricting Deadline Extension Temporary Amendment Act of 2022 (D.C. Law 24-130, June 30, 2022, 69 DCR 004404)</cite>.</annotation>
     <annotation app="2022-06-30" doc="D.C. Law 24-130" eff="2022-06-30" path="§4" type="History" display="false"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(A)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(B)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(C)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(E)|(i)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(E)|(ii)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(E)|(iii)|(I)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(E)|(iii)|(II)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(E)|(iv)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(F)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§10|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(G)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(H)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§10|(a)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(J)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(K)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(L)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(M)|(i)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(M)|(ii)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(N)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(2)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(3)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(4)|(A)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(4)|(B)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(4)|(C)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(5)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(6)|(A)|(i)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(6)|(A)|(ii)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(6)|(B)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(6)|(C)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(6)|(D)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(6)|(E)" type="History"/>
   </annotations>
 </section>

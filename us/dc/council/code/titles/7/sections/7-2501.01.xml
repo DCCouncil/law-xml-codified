@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-2501.01</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on August 3, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-2501.01(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Definitions.</heading>
   <para>
     <num undesignated="true">(a)</num>
@@ -535,50 +532,87 @@
       <text>“Firearms instructor” means an individual who is certified by the Chief to be qualified to teach firearms training and safety courses.</text>
     </para>
     <para>
-      <num>(9B)</num>
+      <num>(9A-i)</num>
       <para>
         <num>(A)</num>
-        <text>"Ghost gun":</text>
+        <text>"Frame" or "receiver" means a part of a firearm that when the complete weapon is assembled is visible from the exterior and provides the housing or structure designed to hold or integrate one or more fire control components, even if pins or other attachments are required to connect those components to the housing or structure.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>For the purposes of this paragraph, the term "fire control component" means a component necessary for the firearm to initiate, complete, or continue the firing sequence, and includes a hammer, bolt, bolt carrier, breechblock, cylinder, trigger mechanism, firing pin, striker, or slide rails.</text>
+      </para>
+      <para>
+        <num>(C)</num>
         <para>
           <num>(i)</num>
-          <text>Means any of the following:</text>
-          <para>
-            <num>(I)</num>
-            <text>A firearm that, after the removal of grips, stocks, and magazines, is not as detectable as the Security Exemplar by walk-through metal detectors calibrated and operated to detect the Security Exemplar;</text>
-          </para>
-          <para>
-            <num>(II)</num>
-            <text>Any major component of a firearm that, when subjected to inspection by the types of detection devices commonly used at secure public buildings and transit stations, does not generate an image that accurately depicts the shape of the component; or</text>
-          </para>
-          <para>
-            <num>(III)</num>
-            <text>A firearm, including a frame or receiver, that lacks a unique serial number engraved or cast on it by a licensed manufacturer or importer in accordance with federal law, assigned by the agency of a State and permanently engraved or cast on the firearm, or otherwise placed on the firearm in compliance with <cite path="§7-2502.02">§ 7-2502.02</cite>; and</text>
-          </para>
+          <text>For a firearm model that has multiple parts that could be deemed a "frame" or "receiver" under subparagraph (A) of this paragraph, the term "frame" or "receiver" shall not include "non-primary frames" or "non-primary receivers".</text>
         </para>
         <para>
           <num>(ii)</num>
-          <text>Does not include:</text>
+          <text>A part that would otherwise be deemed a "frame" or "receiver" under subparagraph (A) of this paragraph shall be deemed a "non-primary frame" or "non-primary receiver" if federal law:</text>
           <para>
             <num>(I)</num>
-            <text>A firearm that has been rendered permanently inoperable;</text>
+            <text>Does not require serialization of that part; and</text>
           </para>
           <para>
             <num>(II)</num>
-            <text>A firearm manufactured or imported before December 16, 1968; or</text>
+            <text>Requires serialization of another part that is a frame or receiver, as those terms are defined in this section.</text>
           </para>
-          <para>
-            <num>(III)</num>
-            <text>A firearm identified as provided for under section 5842 of the Internal Revenue Code of 1986.</text>
-          </para>
+        </para>
+      </para>
+      <para>
+        <num>(D)</num>
+        <para>
+          <num>(i)</num>
+          <text>The term "frame" or "receiver" shall not include a frame or receiver that has been destroyed.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>For the purposes of this subparagraph, a frame or receiver is destroyed if it has been permanently altered not to provide housing or a structure that may hold or integrate any fire control or essential internal component and may not readily be assembled, completed, converted, or restored to a functional state.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(9B)</num>
+      <para>
+        <num>(A)</num>
+        <text>"Ghost gun" means any:</text>
+        <para>
+          <num>(i)</num>
+          <text>Firearm that, after the removal of grips, stocks, and magazines, is not as detectable as the Security Exemplar by walk-through metal detectors calibrated and operated to detect the Security Exemplar;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Major component of a firearm that, when subjected to inspection by the types of detection devices commonly used at secure public buildings and transit stations, does not generate an image that accurately depicts the shape of the component; or</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Firearm, including a frame or receiver, that lacks a unique serial number engraved or cast on it by a licensed manufacturer or importer in accordance with federal law, assigned by the agency of a State and permanently engraved or cast on the firearm, or otherwise placed on the firearm in compliance with section 202.</text>
         </para>
       </para>
       <para>
         <num>(B)</num>
-        <text>For the purposes of subparagraph (A)(i)(I) of this paragraph, the term "firearm" does not include the frame or receiver of any such weapon.</text>
+        <text>The term "ghost gun" does not include any:</text>
+        <para>
+          <num>(i)</num>
+          <text>Firearm that has been rendered permanently inoperable;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Firearm manufactured or imported before December 16, 1968; or</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Firearm identified as provided for under section 5842 of the Internal Revenue Code of 1986.</text>
+        </para>
       </para>
       <para>
         <num>(C)</num>
-        <text>For the purposes of subparagraph (A)(i)(II) of this paragraph, the term "major component" with respect to a firearm:</text>
+        <text>For the purposes of subparagraph (A)(i) of this paragraph, the term "firearm" does not include the frame or receiver of any such weapon.</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>For the purposes of subparagraph (A)(ii) of this paragraph, the term "major component" with respect to a firearm:</text>
         <para>
           <num>(i)</num>
           <text>Means the slide or cylinder or the frame or receiver of the firearm; and</text>
@@ -599,18 +633,25 @@
     </para>
     <para>
       <num>(10A)</num>
-      <text>"Manufacture":</text>
       <para>
         <num>(A)</num>
-        <text>Means to fabricate, make, form, produce or construct, by manual labor or by machinery;</text>
+        <text>"Manufacture" means to:</text>
+        <para>
+          <num>(i)</num>
+          <text>Fabricate, make, form, produce, or construct, by manual labor or by machinery;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Assemble a functional firearm; or</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Mold, machine, or 3D print a frame or receiver; and</text>
+        </para>
       </para>
       <para>
         <num>(B)</num>
-        <text>Includes assembling a functional firearm, or molding, machining, or 3D printing a frame or receiver; and</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>Does not include making or fitting special barrels, stocks, or trigger mechanisms to firearms.</text>
+        <text>The term "manufacture" does not include making or fitting special barrels, stocks, or trigger mechanisms to firearms.</text>
       </para>
     </para>
     <para>
@@ -631,29 +672,7 @@
     </para>
     <para>
       <num>(12B)</num>
-      <para>
-        <num>(A)</num>
-        <text>"Receiver" means a part of a firearm that, when the complete weapon is assembled, is visible from the exterior and provides the housing or structure designed to hold or integrate one or more fire control components, even if pins or other attachments are required to connect those components to the housing or structure. Any such part identified with a serial number shall be presumed, absent an official determination by the Bureau of Alcohol, Tobacco, Firearms, and Explosives or other reliable evidence to the contrary, to be a frame or receiver.</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>For the purposes of this paragraph, the term "fire control component" means a component necessary for the firearm to initiate, complete, or continue the firing sequence, and includes a hammer, bolt, bolt carrier, breechblock, cylinder, trigger mechanism, firing pin, striker, or slide rails.</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <para>
-          <num>(i)</num>
-          <text>The term "receiver" shall not include a receiver that has been destroyed.</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>For the purposes of this subparagraph, a receiver is destroyed if it has been permanently altered not to provide housing or a structure that may hold or integrate any fire control or essential internal component, and may not readily be assembled, completed, converted, or restored to a functional state.</text>
-        </para>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>For the purposes of this unit, the term "frame" is synonymous with the term "receiver".</text>
-      </para>
+      <text>"Receiver" means the part of a firearm that provides the action or housing for the hammer, bolt, or breechblock and firing mechanism.</text>
     </para>
     <para>
       <num>(13)</num>
@@ -787,12 +806,12 @@
     <annotation app="2022-03-02" doc="D.C. Law 24-87" eff="2022-03-02" path="§2|(a)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-583" path="§2|(a)" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-583" path="§2|(a)">§ 2(a) of Ghost Gun Clarification Emergency Amendment Act of 2022 (D.C. Act 24-583, Oct. 17, 2022, 69 DCR 012714)</cite>.</annotation>
     <annotation app="2022-10-17" doc="D.C. Act 24-583" eff="2022-10-17" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-221" eff="2022-12-21" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-221" eff="2022-12-21" path="§2|(a)|(1)" type="History"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-221" eff="2022-12-21" path="§2|(a)|(2)" type="History"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-221" eff="2022-12-21" path="§2|(a)|(3)" type="History"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-221" eff="2022-12-21" path="§2|(a)|(4)" type="History"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-221" eff="2022-12-21" path="§2|(a)|(5)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-221" path="§2|(a)" codified:display="Note" app="2022-12-21" eff="2022-12-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-221" path="§2|(a)">§ 2(a) of Ghost Gun Clarification Temporary Amendment Act of 2022 (D.C. Law 24-221, Dec. 21, 2022, 69 DCR 13966)</cite>.</annotation>
+    <annotation app="2022-12-21" doc="D.C. Law 24-221" eff="2022-12-21" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-347" eff="2023-04-21" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-347" eff="2023-04-21" path="§2|(a)|(2)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-347" eff="2023-04-21" path="§2|(a)|(3)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-347" eff="2023-04-21" path="§2|(a)|(4)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-347" eff="2023-04-21" path="§2|(a)|(5)" type="History"/>
   </annotations>
 </section>

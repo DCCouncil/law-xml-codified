@@ -1,10 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>5-361.01</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on June 22, 2023.*
-      </text>
-  <heading>Limitations on military weaponry acquired by District law enforcement agencies.</heading>
+  <heading proof="needed">Limitations on military weaponry acquired by District law enforcement agencies.</heading>
   <para>
     <num>(a)</num>
     <text>Beginning in Fiscal Year 2021, District law enforcement agencies shall not acquire the following property through any program operated by the federal government:</text>
@@ -14,7 +11,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>Armed or armored aircraft or vehicles;</text>
+      <text>Armed or armored vehicles, including aircraft and watercraft;</text>
     </para>
     <para>
       <num>(3)</num>
@@ -26,7 +23,7 @@
     </para>
     <para>
       <num>(5)</num>
-      <text>Firearm mufflers or silencers;</text>
+      <text>Firearm silencers;</text>
     </para>
     <para>
       <num>(6)</num>
@@ -34,7 +31,7 @@
     </para>
     <para>
       <num>(7)</num>
-      <text>Firearms, firearm accessories, or other objects, designed or capable of launching explosives or pyrotechnics, including grenade launchers; and</text>
+      <text>Objects designed or capable of launching explosives or pyrotechnics, including grenade launchers, firearms, and firearms accessories; and</text>
     </para>
     <para>
       <num>(8)</num>
@@ -43,48 +40,50 @@
   </para>
   <para>
     <num>(b)</num>
+    <text>If a District law enforcement agency:</text>
     <para>
       <num>(1)</num>
-      <text>If a District law enforcement agency requests property through a program operated by the federal government, the District law enforcement agency shall publish notice of the request on a publicly accessible website within 14 days after the date of the request.</text>
+      <text>Requests property through a program operated by the federal government, the District law enforcement agency shall publish notice of the request on a publicly accessible website within 14 days after the date of the request; or</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>If a District law enforcement agency acquires property through a program operated by the federal government, the District law enforcement agency shall publish notice of the acquisition on a publicly accessible website within 14 days after the date of the acquisition.</text>
+      <text>Acquires property through a program operated by the federal government, the District law enforcement agency shall publish notice of the acquisition on a publicly accessible website within 14 days after the date of the acquisition.</text>
     </para>
   </para>
   <para>
     <num>(c)</num>
-    <text>District law enforcement agencies shall disgorge any property described in subsection (a) of this section that the agencies currently possess within 180 days after December 3, 2020.</text>
+    <text>Within 180 days after July 22, 2020, District law enforcement agencies shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Return or dispose of any property described in subsection (a) of this section that the agencies currently possess; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Publish an inventory of the property returned or disposed of as described in paragraph (1) of this subsection on a publicly accessible website.</text>
+    </para>
   </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§5-337.01" expire="2023-03-24" codified:display="Note">For temporary (90 days) creation of § 5-361.01, see <cite doc="D.C. Act 25-61" path="§118">§ 118 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2023 (D.C. Act 25-61, Mar. 24, 2023, 70 DCR 3820)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§5-361.01" applicability="2023-03-24" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§5-361.01">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-61" path="§118">§ 118 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2023 (D.C. Act 25-61, Mar. 24, 2023, 70 DCR 3820)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§5-361.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-361.01">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on June 22, 2023.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-336" path="§120" codified:display="Note" app="2023-03-24" eff="2020-07-22">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-336" path="§120">§ 120 of Comprehensive Policing and Justice Reform Second Emergency Amendment Act of 2020 (D.C. Act 23-336, July 22, 2020, 67 DCR 9148)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Act 23-336" eff="2020-07-22" path="§120" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-437" path="§120" codified:display="Note" app="2023-03-24" eff="2020-10-28">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-437" path="§120">§ 120 of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-437, Oct. 28, 2020, 67 DCR 12993)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Act 23-437" eff="2020-10-28" path="§120" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-151" path="§120" codified:display="Note" app="2023-03-24" eff="2020-12-03">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 23-151" path="§120">§ 120 of Comprehensive Policing and Justice Reform Second Temporary Amendment Act of 2020 (D.C. Law 23-151, Dec. 3, 2020, 67 DCR 9920)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Law 23-151" eff="2020-12-03" path="§120" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-76" path="§120" codified:display="Note" app="2023-03-24" eff="2021-05-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-76" path="§120">§ 120 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-76, May 3, 2021, 68 DCR 004935)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Act 24-76" eff="2021-05-03" path="§120" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-128" path="§120" codified:display="Note" app="2023-03-24" eff="2021-07-29">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-128" path="§120">§ 120 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-128, July 29, 2021, 68 DCR 007656)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Act 24-128" eff="2021-07-29" path="§120" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-23" path="§120" codified:display="Note" app="2023-03-24" eff="2021-09-03">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-23" path="§120">§ 120 of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2021 (D.C. Law 24-23, Sept. 3, 2021, 68 DCR 005837)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Law 24-23" eff="2021-09-03" path="§120" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-370" path="§120" codified:display="Note" app="2023-03-24" eff="2022-04-07">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-370" path="§120">§ 120 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2022 (D.C. Act 24-370, Apr. 7, 2022, 0 DCR 0)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Act 24-370" eff="2022-04-07" path="§120" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-454" path="§120" codified:display="Note" app="2023-03-24" eff="2022-06-28">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-454" path="§120">§ 120 of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-454, June 28, 2022, 69 DCR 007767)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Act 24-454" eff="2022-06-28" path="§120" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-149" path="§120" codified:display="Note" app="2023-03-24" eff="2022-08-12">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-149" path="§120">§ 120 of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2022 (D.C. Law 24-149, Aug. 12, 2022, 69 DCR 007767)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Law 24-149" eff="2022-08-12" path="§120" type="History" display="false"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="I" type="History" display="false"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§118" type="History" display="false"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§118" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-61" path="§118" codified:display="Note" app="2023-03-24" eff="2023-03-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-61" path="§118">§ 118 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2023 (D.C. Act 25-61, Mar. 24, 2023, 70 DCR 3820)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-336" path="§120" codified:display="Note" app="2023-04-21" eff="2020-07-22">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-336" path="§120">§ 120 of Comprehensive Policing and Justice Reform Second Emergency Amendment Act of 2020 (D.C. Act 23-336, July 22, 2020, 67 DCR 9148)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 23-336" eff="2020-07-22" path="§120" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-437" path="§120" codified:display="Note" app="2023-04-21" eff="2020-10-28">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-437" path="§120">§ 120 of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-437, Oct. 28, 2020, 67 DCR 12993)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 23-437" eff="2020-10-28" path="§120" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-151" path="§120" codified:display="Note" app="2023-04-21" eff="2020-12-03">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 23-151" path="§120">§ 120 of Comprehensive Policing and Justice Reform Second Temporary Amendment Act of 2020 (D.C. Law 23-151, Dec. 3, 2020, 67 DCR 9920)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Law 23-151" eff="2020-12-03" path="§120" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-76" path="§120" codified:display="Note" app="2023-04-21" eff="2021-05-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-76" path="§120">§ 120 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-76, May 3, 2021, 68 DCR 004935)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 24-76" eff="2021-05-03" path="§120" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-128" path="§120" codified:display="Note" app="2023-04-21" eff="2021-07-29">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-128" path="§120">§ 120 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-128, July 29, 2021, 68 DCR 007656)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 24-128" eff="2021-07-29" path="§120" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-23" path="§120" codified:display="Note" app="2023-04-21" eff="2021-09-03">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-23" path="§120">§ 120 of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2021 (D.C. Law 24-23, Sept. 3, 2021, 68 DCR 005837)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Law 24-23" eff="2021-09-03" path="§120" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-370" path="§120" codified:display="Note" app="2023-04-21" eff="2022-04-07">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-370" path="§120">§ 120 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2022 (D.C. Act 24-370, Apr. 7, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 24-370" eff="2022-04-07" path="§120" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-454" path="§120" codified:display="Note" app="2023-04-21" eff="2022-06-28">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-454" path="§120">§ 120 of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-454, June 28, 2022, 69 DCR 007767)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 24-454" eff="2022-06-28" path="§120" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-149" path="§120" codified:display="Note" app="2023-04-21" eff="2022-08-12">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-149" path="§120">§ 120 of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2022 (D.C. Law 24-149, Aug. 12, 2022, 69 DCR 007767)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Law 24-149" eff="2022-08-12" path="§120" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-61" path="§118" codified:display="Note" app="2023-04-21" eff="2023-03-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-61" path="§118">§ 118 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2023 (D.C. Act 25-61, Mar. 24, 2023, 70 DCR 3820)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 25-61" eff="2023-03-24" path="§118" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="I" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§120" type="History"/>
   </annotations>
 </section>

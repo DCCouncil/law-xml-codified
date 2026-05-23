@@ -1,10 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>5-351.01</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on June 22, 2023.*
-      </text>
-  <heading>Use of deadly force.</heading>
+  <heading proof="needed">Use of deadly force.</heading>
   <para>
     <num>(a)</num>
     <text>For the purposes of this section, the term:</text>
@@ -42,7 +39,7 @@
     <text>A law enforcement officer shall not use deadly force against a person unless:</text>
     <para>
       <num>(1)</num>
-      <text>The law enforcement officer reasonably believes that deadly force is immediately necessary to protect the law enforcement officer or another person, other than the subject of the use of deadly force, from the threat of serious bodily injury or death;</text>
+      <text>The law enforcement officer actually and reasonably believes that deadly force is immediately necessary to protect the law enforcement officer or another person, other than the subject of the use of deadly force, from the threat of serious bodily injury or death;</text>
     </para>
     <para>
       <num>(2)</num>
@@ -55,7 +52,7 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>A trier of fact shall consider:</text>
+    <text>In any grand jury, criminal, delinquency, or civil proceeding where an officer's use of deadly force is a material issue, the trier of fact shall consider:</text>
     <para>
       <num>(1)</num>
       <text>The reasonableness of the law enforcement officer's belief and actions from the perspective of a reasonable law enforcement officer; and</text>
@@ -77,43 +74,36 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>Whether the law enforcement officer engaged in de-escalation measures prior to the use of deadly force, including taking cover, waiting for back-up, trying to calm the subject of the use of force, or using non-deadly force prior to the use of deadly force; and</text>
+        <text>Whether the law enforcement officer, or another law enforcement officer in close proximity, engaged in reasonable de-escalation measures prior to the use of deadly force, including taking cover, requesting support from available mental health, behavioral health, or social workers, waiting for back-up, trying to calm the subject of the use of force, or, if feasible, using non-deadly force prior to the use of deadly force; and</text>
       </para>
       <para>
         <num>(C)</num>
-        <text>Whether any conduct by the law enforcement officer prior to the use of deadly force increased the risk of a confrontation resulting in deadly force being used.</text>
+        <text>Whether any conduct by the law enforcement officer prior to the use of deadly force unreasonably increased the risk of a confrontation resulting in deadly force being used.</text>
       </para>
     </para>
   </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§5-337.01" expire="2023-03-24" codified:display="Note">For temporary (90 days) creation of § 5-351.01, see <cite doc="D.C. Act 25-61" path="§117">§ 117 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2023 (D.C. Act 25-61, Mar. 24, 2023, 70 DCR 3820)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§5-351.01" applicability="2023-03-24" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§5-351.01">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-61" path="§117">§ 117 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2023 (D.C. Act 25-61, Mar. 24, 2023, 70 DCR 3820)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§5-351.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-351.01">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on June 22, 2023.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-336" path="§119" codified:display="Note" app="2023-03-24" eff="2020-07-22">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-336" path="§119">§ 119 of Comprehensive Policing and Justice Reform Second Emergency Amendment Act of 2020 (D.C. Act 23-336, July 22, 2020, 67 DCR 9148)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Act 23-336" eff="2020-07-22" path="§119" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-437" path="§119" codified:display="Note" app="2023-03-24" eff="2020-10-28">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-437" path="§119">§ 119 of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-437, Oct. 28, 2020, 67 DCR 12993)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Act 23-437" eff="2020-10-28" path="§119" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-151" path="§119" codified:display="Note" app="2023-03-24" eff="2020-12-03">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 23-151" path="§119">§ 119 of Comprehensive Policing and Justice Reform Second Temporary Amendment Act of 2020 (D.C. Law 23-151, Dec. 3, 2020, 67 DCR 9920)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Law 23-151" eff="2020-12-03" path="§119" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-76" path="§119" codified:display="Note" app="2023-03-24" eff="2021-05-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-76" path="§119">§ 119 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-76, May 3, 2021, 68 DCR 004935)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Act 24-76" eff="2021-05-03" path="§119" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-128" path="§119" codified:display="Note" app="2023-03-24" eff="2021-07-29">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-128" path="§119">§ 119 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-128, July 29, 2021, 68 DCR 007656)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Act 24-128" eff="2021-07-29" path="§119" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-23" path="§119" codified:display="Note" app="2023-03-24" eff="2021-09-03">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-23" path="§119">§ 119 of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2021 (D.C. Law 24-23, Sept. 3, 2021, 68 DCR 005837)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Law 24-23" eff="2021-09-03" path="§119" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-370" path="§119" codified:display="Note" app="2023-03-24" eff="2022-04-07">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-370" path="§119">§ 119 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2022 (D.C. Act 24-370, Apr. 7, 2022, 0 DCR 0)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Act 24-370" eff="2022-04-07" path="§119" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-454" path="§119" codified:display="Note" app="2023-03-24" eff="2022-06-28">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-454" path="§119">§ 119 of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-454, June 28, 2022, 69 DCR 007767)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Act 24-454" eff="2022-06-28" path="§119" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-149" path="§119" codified:display="Note" app="2023-03-24" eff="2022-08-12">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-149" path="§119">§ 119 of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2022 (D.C. Law 24-149, Aug. 12, 2022, 69 DCR 007767)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Law 24-149" eff="2022-08-12" path="§119" type="History" display="false"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="I" type="History" display="false"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§117" type="History" display="false"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§117" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-61" path="§117" codified:display="Note" app="2023-03-24" eff="2023-03-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-61" path="§117">§ 117 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2023 (D.C. Act 25-61, Mar. 24, 2023, 70 DCR 3820)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-336" path="§119" codified:display="Note" app="2023-04-21" eff="2020-07-22">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-336" path="§119">§ 119 of Comprehensive Policing and Justice Reform Second Emergency Amendment Act of 2020 (D.C. Act 23-336, July 22, 2020, 67 DCR 9148)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 23-336" eff="2020-07-22" path="§119" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-437" path="§119" codified:display="Note" app="2023-04-21" eff="2020-10-28">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-437" path="§119">§ 119 of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-437, Oct. 28, 2020, 67 DCR 12993)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 23-437" eff="2020-10-28" path="§119" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-151" path="§119" codified:display="Note" app="2023-04-21" eff="2020-12-03">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 23-151" path="§119">§ 119 of Comprehensive Policing and Justice Reform Second Temporary Amendment Act of 2020 (D.C. Law 23-151, Dec. 3, 2020, 67 DCR 9920)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Law 23-151" eff="2020-12-03" path="§119" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-76" path="§119" codified:display="Note" app="2023-04-21" eff="2021-05-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-76" path="§119">§ 119 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-76, May 3, 2021, 68 DCR 004935)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 24-76" eff="2021-05-03" path="§119" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-128" path="§119" codified:display="Note" app="2023-04-21" eff="2021-07-29">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-128" path="§119">§ 119 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-128, July 29, 2021, 68 DCR 007656)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 24-128" eff="2021-07-29" path="§119" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-23" path="§119" codified:display="Note" app="2023-04-21" eff="2021-09-03">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-23" path="§119">§ 119 of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2021 (D.C. Law 24-23, Sept. 3, 2021, 68 DCR 005837)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Law 24-23" eff="2021-09-03" path="§119" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-370" path="§119" codified:display="Note" app="2023-04-21" eff="2022-04-07">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-370" path="§119">§ 119 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2022 (D.C. Act 24-370, Apr. 7, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 24-370" eff="2022-04-07" path="§119" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-454" path="§119" codified:display="Note" app="2023-04-21" eff="2022-06-28">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-454" path="§119">§ 119 of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-454, June 28, 2022, 69 DCR 007767)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 24-454" eff="2022-06-28" path="§119" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-149" path="§119" codified:display="Note" app="2023-04-21" eff="2022-08-12">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-149" path="§119">§ 119 of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2022 (D.C. Law 24-149, Aug. 12, 2022, 69 DCR 007767)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Law 24-149" eff="2022-08-12" path="§119" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-61" path="§117" codified:display="Note" app="2023-04-21" eff="2023-03-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-61" path="§117">§ 117 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2023 (D.C. Act 25-61, Mar. 24, 2023, 70 DCR 3820)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 25-61" eff="2023-03-24" path="§117" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="I" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§119" type="History"/>
   </annotations>
 </section>

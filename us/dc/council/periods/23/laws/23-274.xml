@@ -1114,7 +1114,7 @@
     <section>
       <num>301</num>
       <text>Section 14-307(b)(4) of the District of Columbia Official Code is amended by striking the phrase "or where a person is alleged to have defrauded a health care benefit program" and inserting the phrase "where a person is alleged to have defrauded a health care benefit program, or where a person is alleged to have violated section 203a of the Criminal Abuse and Neglect of Vulnerable Adults Act of 2000, effective November 23, 2016 (D.C. Law 21-166; D.C. Official Code § 22-933.01)" in its place.</text>
-      <codify:find-replace path="§14-307|(b)|(4)" count="1" codified:doc="D.C. Code" codified:path="§14-307|(b)|(4)">
+      <codify:find-replace path="§14-307|(b)|(4)" count="1" codified:doc="D.C. Code" codified:path="§14-307">
         <find>or where a person is alleged to have defrauded a health care benefit program</find>
         <replace>where a person is alleged to have defrauded a health care benefit program, or where a person is alleged to have violated <code-cite doc="D.C. Code" path="§22-933.01">section 203a of the Criminal Abuse and Neglect of Vulnerable Adults Act of 2000, effective November 23, 2016 (D.C. Law 21-166; D.C. Official Code § 22-933.01)</code-cite></replace>
       </codify:find-replace>
@@ -1242,7 +1242,7 @@
       <para>
         <num>(b)</num>
         <text>Subsection (a) is amended by striking the phrase "sexual assault victim advocate as defined in § 14-312(a)(7)" and inserting the phrase "sexual assault counselor as defined in § 23-1907(10)" in its place.</text>
-        <codify:find-replace doc="D.C. Code" path="§14-307|(a)" count="1" codified:doc="D.C. Code" codified:path="§14-307|(a)">
+        <codify:find-replace doc="D.C. Code" path="§14-307|(a)" count="1" codified:doc="D.C. Code" codified:path="§14-307">
           <find>sexual assault victim advocate as defined in <cite path="§14-312|(a)|(7)">§  14-312(a)(7)</cite></find>
           <replace>sexual assault counselor as defined in <cite doc="D.C. Code" path="§23-1907|(10)">§ 23-1907(10)</cite></replace>
         </codify:find-replace>

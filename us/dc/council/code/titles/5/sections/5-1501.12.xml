@@ -55,6 +55,14 @@
       <text>Any other matters related to the scientific operation of the Department; and</text>
     </para>
   </para>
+  <para placeholder="Not Funded">
+    <num>(4A)</num>
+    <text>Not Funded.</text>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(4B)</num>
+    <text>Not Funded.</text>
+  </para>
   <para>
     <num>(5)</num>
     <text>Advise the Director or the Mayor and Council, when it considers appropriate, on matters relating to the Department, forensic sciences services, or public health laboratory services.</text>
@@ -62,5 +70,11 @@
   <annotations>
     <annotation doc="D.C. Law 19-18" type="History" path="§13">Aug. 17, 2011, D.C. Law 19-18, § 13, 58 DCR 5403</annotation>
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§501|(h)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§10|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(p)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(p)|(2)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(p)|(3)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(p)|(4)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(p)|(5)" type="History"/>
   </annotations>
 </section>

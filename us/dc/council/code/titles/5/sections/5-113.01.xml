@@ -10,6 +10,10 @@
       <text>General complaint files, in which shall be entered every complaint preferred upon personal knowledge of the circumstances thereof, with the name and residence of the complainant;</text>
     </para>
     <para>
+      <num>(1A)</num>
+      <text>Biannually, aggregated data collected in accordance with subsection (a)(4E) of this section;</text>
+    </para>
+    <para>
       <num>(2)</num>
       <text>Records of lost, missing, or stolen property;</text>
     </para>
@@ -114,7 +118,7 @@
       </para>
       <para>
         <num>(K)</num>
-        <text>The date of birth of the person stopped.</text>
+        <text>The date of birth of the person stopped;</text>
       </para>
     </para>
     <para>
@@ -146,12 +150,48 @@
       </para>
       <para>
         <num>(G)</num>
-        <text>The gender, race, age, and ethnicity of any officer involved in a use force incident; and</text>
+        <text>The gender, race, age, and ethnicity of any officer involved in a use force incident;</text>
       </para>
     </para>
     <para>
       <num>(4D)</num>
-      <text>For the purposes of this section, the terms "contact", "frisk", and "stop" shall have the meanings ascribed in Metropolitan Police Department General Order 304.10; and</text>
+      <text>For the purposes of this section, the terms "contact", "frisk", and "stop" shall have the meanings ascribed in Metropolitan Police Department General Order 304.10;</text>
+    </para>
+    <para>
+      <num>(4E)</num>
+      <text>The following information, disaggregated by school, except in cases where disaggregation could reveal a student's identity:</text>
+      <para>
+        <num>(A)</num>
+        <text>The number of times a law enforcement officer was dispatched to, or requested by, a school;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The incident or arrest classification;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The number of school-related arrests, as that term is defined in <cite path="§38-236.01|(17)">§ 38-236.01(17)</cite>, involving an officer;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The type and count of weapons or controlled substances recovered from any school-related event, whether or not an arrest occurred; and</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Demographic data for any student and law enforcement officer involved in a stop or school-based arrest, including:</text>
+        <para>
+          <num>(i)</num>
+          <text>Race and ethnicity;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Gender; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Age; and</text>
+        </para>
+      </para>
     </para>
     <para>
       <num>(5)</num>
@@ -312,9 +352,14 @@
     <annotation doc="D.C. Law 24-167" path="§3073" type="Applicability" history="false" app="2022-09-21" eff="2022-09-21"><cite doc="D.C. Law 24-167" path="§3073">Section 3073 of D.C. Law 24-167</cite> provides that the amendments made to subsection (a)(4B) of this section by section 3072(b) of D.C. Law 24-167 shall apply as of April 1, 2023.
         </annotation>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3073" type="History" display="false"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§123|(a)|(1)" type="History"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§123|(a)|(2)" type="History"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§123|(a)|(3)" type="History"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§123|(b)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§130|(b)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§130|(a)|(1)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§130|(a)|(2)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§130|(a)|(3)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§130|(a)|(4)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§132|(a)|(1)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§132|(a)|(2)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§132|(a)|(3)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§132|(b)" type="History"/>
   </annotations>
 </section>

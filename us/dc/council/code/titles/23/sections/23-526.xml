@@ -2,100 +2,26 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>§</prefix>
   <num>23-526</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on June 22, 2023.*
-      </text>
-  <section>
-    <num>108</num>
-    <text>Subchapter II of Chapter 5 of Title 23 of the District of Columbia Official Code is amended by adding a new section 23-526 to read as follows:</text>
-    <include>
-      <section>
-        <codify:insert path="23|5|II" after="§23-525" codified:doc="D.C. Code" codified:path="§23-526"/>
-        <prefix>§</prefix>
-        <num>23-526</num>
-        <heading>Limitations on consent searches.</heading>
-        <para>
-          <num>(a)</num>
-          <text>In cases where a search is based solely on the subject's consent to that search, and is not executed pursuant to a warrant or conducted pursuant to an applicable exception to the warrant requirement, sworn members of District Government law enforcement agencies shall:</text>
-          <para>
-            <num>(1)</num>
-            <text>Prior to the search of a person, vehicle, home, or property:</text>
-            <para>
-              <num>(A)</num>
-              <text>Explain, using plain and simple language delivered in a calm demeanor, that the subject of the search is being asked to voluntarily, knowingly, and intelligently consent to a search;</text>
-            </para>
-            <para>
-              <num>(B)</num>
-              <text>Advise the subject that:</text>
-              <para>
-                <num>(i)</num>
-                <text>A search will not be conducted if the subject refuses to provide consent to the search; and</text>
-              </para>
-              <para>
-                <num>(ii)</num>
-                <text>The subject has a legal right to decline to consent to the search;</text>
-              </para>
-            </para>
-            <para>
-              <num>(C)</num>
-              <text>Obtain consent to search without threats or promises of any kind being made to the subject;</text>
-            </para>
-            <para>
-              <num>(D)</num>
-              <text>Confirm that the subject understands the information communicated by the officer; and</text>
-            </para>
-            <para>
-              <num>(E)</num>
-              <text>Use interpretation services when seeking consent to conduct a search of a person:</text>
-              <para>
-                <num>(i)</num>
-                <text>Who cannot adequately understand or express themselves in spoken or written English; or</text>
-              </para>
-              <para>
-                <num>(ii)</num>
-                <text>Who is deaf or hard of hearing.</text>
-              </para>
-            </para>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>If the sworn member is unable to obtain consent from the subject, refrain from conducting the search.</text>
-          </para>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>The requirements of subsection (a) of this section shall not apply to searches executed pursuant to a warrant or conducted pursuant to an applicable exception to the warrant requirement.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <para>
-            <num>(1)</num>
-            <text>If a defendant moves to suppress any evidence obtained in the course of the search for an offense prosecuted in the Superior Court of the District of Columbia, the court shall consider an officer's failure to comply with the requirements of this section as a factor in determining the voluntariness of the consent.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>There shall be a presumption that a search was nonconsensual if the evidence of consent, including the warnings required in subsection (a) of this section, is not captured on body-worn camera or provided in writing.</text>
-          </para>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Nothing in this section shall be construed to create a private right of action.</text>
-        </para>
-      </section>
-    </include>
-    <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§23-525" expire="2023-03-24" codified:display="Note">For temporary (90 days) creation of § 23-526, see <cite doc="D.C. Act 25-61" path="§108">§ 108 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2023 (D.C. Act 25-61, Mar. 24, 2023, 70 DCR 3820)</cite>.</codify:annotation>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§23-526" applicability="2023-03-24" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§23-526">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-61" path="§108">§ 108 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2023 (D.C. Act 25-61, Mar. 24, 2023, 70 DCR 3820)</cite>.</codify:annotation>
-    <codify:insert doc="D.C. Code" path="§23-526" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§23-526">
-      <text>
-      *NOTE: This section was created by emergency legislation that will expire on June 22, 2023.*
-      </text>
-    </codify:insert>
-  </section>
-  <heading>Limitations on consent searches.</heading>
+  <heading proof="needed">Limitations on consent searches.</heading>
   <para>
     <num>(a)</num>
-    <text>In cases where a search is based solely on the subject's consent to that search, and is not executed pursuant to a warrant or conducted pursuant to an applicable exception to the warrant requirement, sworn members of District Government law enforcement agencies shall:</text>
+    <text>For the purposes of this section, the term "consent search" means a search of a person, vehicle, home, or property:</text>
+    <para>
+      <num>(1)</num>
+      <text>Based solely on the subject's consent to that search;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Not executed pursuant to a warrant; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Not conducted pursuant to an applicable exception to the warrant requirement as described in United States or District of Columbia case law, excluding the exception for consent searches.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>When seeking to perform a consent search, sworn members of District Government law enforcement agencies shall:</text>
     <para>
       <num>(1)</num>
       <text>Prior to the search of a person, vehicle, home, or property:</text>
@@ -125,14 +51,14 @@
       </para>
       <para>
         <num>(E)</num>
-        <text>Use interpretation services when seeking consent to conduct a search of a person:</text>
+        <text>Use interpretation services when seeking consent to conduct a search of a person who:</text>
         <para>
           <num>(i)</num>
-          <text>Who cannot adequately understand or express themselves in spoken or written English; or</text>
+          <text>Cannot adequately understand or express themselves in spoken or written English; or</text>
         </para>
         <para>
           <num>(ii)</num>
-          <text>Who is deaf or hard of hearing.</text>
+          <text>Is deaf or hard of hearing; and</text>
         </para>
       </para>
     </para>
@@ -142,45 +68,45 @@
     </para>
   </para>
   <para>
-    <num>(b)</num>
-    <text>The requirements of subsection (a) of this section shall not apply to searches executed pursuant to a warrant or conducted pursuant to an applicable exception to the warrant requirement.</text>
-  </para>
-  <para>
     <num>(c)</num>
-    <para>
-      <num>(1)</num>
-      <text>If a defendant moves to suppress any evidence obtained in the course of the search for an offense prosecuted in the Superior Court of the District of Columbia, the court shall consider an officer's failure to comply with the requirements of this section as a factor in determining the voluntariness of the consent.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>There shall be a presumption that a search was nonconsensual if the evidence of consent, including the warnings required in subsection (a) of this section, is not captured on body-worn camera or provided in writing.</text>
-    </para>
+    <text>The requirements of subsection (b) of this section shall not apply to searches executed pursuant to a warrant or conducted pursuant to an applicable exception to the warrant requirement.</text>
   </para>
   <para>
     <num>(d)</num>
+    <para>
+      <num>(1)</num>
+      <text>If a defendant or juvenile respondent moves to suppress any evidence obtained in the course of the search for an offense prosecuted in the Superior Court of the District of Columbia, the court shall consider an officer's failure to comply with the requirements of this section as a factor in determining the voluntariness of the consent.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>There shall be a presumption that a search was nonconsensual if the evidence of consent, including the warnings required in subsection (b) of this section, is not captured on a body-worn camera or provided in writing.</text>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
     <text>Nothing in this section shall be construed to create a private right of action.</text>
   </para>
   <annotations>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-336" path="§110" codified:display="Note" app="2023-03-24" eff="2020-07-22">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-336" path="§110">§ 110 of Comprehensive Policing and Justice Reform Second Emergency Amendment Act of 2020 (D.C. Act 23-336, July 22, 2020, 67 DCR 9148)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Act 23-336" eff="2020-07-22" path="§110" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-437" path="§110" codified:display="Note" app="2023-03-24" eff="2020-10-28">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-437" path="§110">§ 110 of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-437, Oct. 28, 2020, 67 DCR 12993)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Act 23-437" eff="2020-10-28" path="§110" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-151" path="§110" codified:display="Note" app="2023-03-24" eff="2020-12-03">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 23-151" path="§110">§ 110 of Comprehensive Policing and Justice Reform Second Temporary Amendment Act of 2020 (D.C. Law 23-151, Dec. 3, 2020, 67 DCR 9920)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Law 23-151" eff="2020-12-03" path="§110" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-76" path="§110" codified:display="Note" app="2023-03-24" eff="2021-05-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-76" path="§110">§ 110 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-76, May 3, 2021, 68 DCR 004935)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Act 24-76" eff="2021-05-03" path="§110" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-128" path="§110" codified:display="Note" app="2023-03-24" eff="2021-07-29">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-128" path="§110">§ 110 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-128, July 29, 2021, 68 DCR 007656)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Act 24-128" eff="2021-07-29" path="§110" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-23" path="§110" codified:display="Note" app="2023-03-24" eff="2021-09-03">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-23" path="§110">§ 110 of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2021 (D.C. Law 24-23, Sept. 3, 2021, 68 DCR 005837)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Law 24-23" eff="2021-09-03" path="§110" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-370" path="§110" codified:display="Note" app="2023-03-24" eff="2022-04-07">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-370" path="§110">§ 110 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2022 (D.C. Act 24-370, Apr. 7, 2022, 0 DCR 0)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Act 24-370" eff="2022-04-07" path="§110" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-454" path="§110" codified:display="Note" app="2023-03-24" eff="2022-06-28">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-454" path="§110">§ 110 of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-454, June 28, 2022, 69 DCR 007767)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Act 24-454" eff="2022-06-28" path="§110" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-149" path="§110" codified:display="Note" app="2023-03-24" eff="2022-08-12">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-149" path="§110">§ 110 of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2022 (D.C. Law 24-149, Aug. 12, 2022, 69 DCR 007767)</cite>.</annotation>
-    <annotation app="2023-03-24" doc="D.C. Law 24-149" eff="2022-08-12" path="§110" type="History" display="false"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§108" type="History" display="false"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§108" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-61" path="§108" codified:display="Note" app="2023-03-24" eff="2023-03-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-61" path="§108">§ 108 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2023 (D.C. Act 25-61, Mar. 24, 2023, 70 DCR 3820)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-336" path="§110" codified:display="Note" app="2023-04-21" eff="2020-07-22">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-336" path="§110">§ 110 of Comprehensive Policing and Justice Reform Second Emergency Amendment Act of 2020 (D.C. Act 23-336, July 22, 2020, 67 DCR 9148)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 23-336" eff="2020-07-22" path="§110" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-437" path="§110" codified:display="Note" app="2023-04-21" eff="2020-10-28">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-437" path="§110">§ 110 of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-437, Oct. 28, 2020, 67 DCR 12993)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 23-437" eff="2020-10-28" path="§110" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-151" path="§110" codified:display="Note" app="2023-04-21" eff="2020-12-03">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 23-151" path="§110">§ 110 of Comprehensive Policing and Justice Reform Second Temporary Amendment Act of 2020 (D.C. Law 23-151, Dec. 3, 2020, 67 DCR 9920)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Law 23-151" eff="2020-12-03" path="§110" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-76" path="§110" codified:display="Note" app="2023-04-21" eff="2021-05-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-76" path="§110">§ 110 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-76, May 3, 2021, 68 DCR 004935)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 24-76" eff="2021-05-03" path="§110" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-128" path="§110" codified:display="Note" app="2023-04-21" eff="2021-07-29">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-128" path="§110">§ 110 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-128, July 29, 2021, 68 DCR 007656)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 24-128" eff="2021-07-29" path="§110" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-23" path="§110" codified:display="Note" app="2023-04-21" eff="2021-09-03">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-23" path="§110">§ 110 of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2021 (D.C. Law 24-23, Sept. 3, 2021, 68 DCR 005837)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Law 24-23" eff="2021-09-03" path="§110" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-370" path="§110" codified:display="Note" app="2023-04-21" eff="2022-04-07">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-370" path="§110">§ 110 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2022 (D.C. Act 24-370, Apr. 7, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 24-370" eff="2022-04-07" path="§110" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-454" path="§110" codified:display="Note" app="2023-04-21" eff="2022-06-28">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-454" path="§110">§ 110 of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-454, June 28, 2022, 69 DCR 007767)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 24-454" eff="2022-06-28" path="§110" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-149" path="§110" codified:display="Note" app="2023-04-21" eff="2022-08-12">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-149" path="§110">§ 110 of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2022 (D.C. Law 24-149, Aug. 12, 2022, 69 DCR 007767)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Law 24-149" eff="2022-08-12" path="§110" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-61" path="§108" codified:display="Note" app="2023-04-21" eff="2023-03-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-61" path="§108">§ 108 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2023 (D.C. Act 25-61, Mar. 24, 2023, 70 DCR 3820)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 25-61" eff="2023-03-24" path="§108" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§110" type="History"/>
   </annotations>
 </section>

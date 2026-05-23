@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>5-125.02</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 22, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§5-125.02(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
   <para placeholder="Repealed">
@@ -16,7 +13,59 @@
   </para>
   <para>
     <num>(3)</num>
-    <text>"Neck restraint" means the use of any body part or object to attempt to control or disable a person by applying pressure against the person's neck, including the trachea or carotid artery, with the purpose, intent, or effect of controlling or restricting the person's movement or restricting their blood flow or breathing.</text>
+    <text>"Asphyxiating restraint" means:</text>
+    <para>
+      <num>(A)</num>
+      <text>The use of any body part or object by a law enforcement officer against a person with the purpose, intent, or effect of controlling or restricting the person's airway or severely restricting the person's breathing, except in cases where the law enforcement officer is acting in good faith to provide medical care or treatment, such as by providing cardiopulmonary resuscitation; or</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>The placement of a person by a law enforcement officer in a position in which that person's airway is restricted.</text>
+    </para>
+  </para>
+  <para>
+    <num>(4)</num>
+    <text>"Law enforcement officer" means:</text>
+    <para>
+      <num>(A)</num>
+      <text>An officer or member of the Metropolitan Police Department or of any other police force operating in the District;</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>An investigative officer or agent of the United States;</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>An on-duty, civilian employee of the Metropolitan Police Department;</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>An on-duty, licensed special police officer;</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>An on-duty, licensed campus police officer;</text>
+    </para>
+    <para>
+      <num>(F)</num>
+      <text>An on-duty employee of the Department of Corrections or Department of Youth Rehabilitation Services;</text>
+    </para>
+    <para>
+      <num>(G)</num>
+      <text>An on-duty employee of the Court Services and Offender Supervision Agency, Pretrial Services Agency, or Family Court Social Services Division; and</text>
+    </para>
+    <para>
+      <num>(H)</num>
+      <text>An employee of the Office of the Inspector General who, as part of their official duties, conducts investigations of alleged felony violations.</text>
+    </para>
+  </para>
+  <para>
+    <num>(5)</num>
+    <text>"Neck restraint" means the use of any body part or object by a law enforcement officer to apply pressure against a person's neck, including the trachea, carotid artery, or jugular vein, with the purpose, intent, or effect of controlling or restricting the person's movement, blood flow, or breathing.</text>
+  </para>
+  <para>
+    <num>(6)</num>
+    <text>"Prohibited technique" means an asphyxiating restraint or a neck restraint.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 6-77" type="History" path="§3">Jan. 25, 1986, D.C. Law 6-77, § 3, 32 DCR 6497</annotation>
@@ -41,10 +90,10 @@
     <annotation app="2022-06-28" doc="D.C. Act 24-454" eff="2022-06-28" path="§101|(b)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-149" path="§101|(b)" codified:display="Note" app="2022-08-12" eff="2022-08-12">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-149" path="§101|(b)">§ 101(b) of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2022 (D.C. Law 24-149, Aug. 12, 2022, 69 DCR 007767)</cite>.</annotation>
     <annotation app="2022-08-12" doc="D.C. Law 24-149" eff="2022-08-12" path="§101|(b)" type="History" display="false"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§101|(b)" type="History" display="false"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§101|(b)|(1)" type="History"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§101|(b)|(2)" type="History"/>
-    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§101|(b)|(3)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-61" path="§101|(b)" codified:display="Note" app="2023-03-24" eff="2023-03-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-61" path="§101|(b)">§ 101(b) of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2023 (D.C. Act 25-61, Mar. 24, 2023, 70 DCR 3820)</cite>.</annotation>
+    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§101|(b)" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§101|(b)|(1)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§101|(b)|(2)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§101|(b)|(3)" type="History"/>
   </annotations>
 </section>
