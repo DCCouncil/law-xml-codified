@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-1671.01</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on January 21, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§7-1671.01(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <para>
@@ -275,10 +272,6 @@
     <text>"Returning citizen" means a District resident who was arrested, convicted, or incarcerated for a cannabis or drug-related offense.</text>
   </para>
   <para>
-    <num>(20B-i)</num>
-    <text>"Schedule I substance" means a controlled substance listed in <cite path="§48-902.04">§ 48-902.04</cite>, or rules implementing that section.</text>
-  </para>
-  <para>
     <num>(20C)</num>
     <text>"Social equity applicant" means an applicant for licensure with ABCA pursuant to <cite path="§7-1671.06">§ 7-1671.06</cite> who satisfies 2 or more of the following criteria:</text>
     <para>
@@ -304,34 +297,18 @@
   </para>
   <para>
     <num>(22)</num>
-    <text>"Unlicensed establishment" means:</text>
+    <text>"Unlicensed establishment" means a sole proprietorship, partnership, or other business entity that:</text>
     <para>
       <num>(A)</num>
-      <text>A sole proprietorship, partnership, or other business entity that:</text>
-      <para>
-        <num>(i)</num>
-        <text>Sells, exchanges as part of a commercial transaction, or delivers cannabis and cannabis products;</text>
-      </para>
-      <para>
-        <num>(ii)</num>
-        <text>Operates at or delivers from a specific location in the District; and</text>
-      </para>
-      <para>
-        <num>(iii)</num>
-        <text>Is not licensed by ABCA as a cultivation center, retailer, internet retailer, manufacturer, courier, or testing laboratory; or</text>
-      </para>
+      <text>Sells, exchanges as part of a commercial transaction, or delivers cannabis and cannabis products;</text>
     </para>
     <para>
       <num>(B)</num>
-      <text>For purposes of <cite path="§7-1671.08|(c-1)">§ 7-1671.08(c-1)</cite>, <cite path="§7-1671.08|(g)">(g)</cite>, <cite path="§7-1671.08|(h)">(h)</cite>, and <cite path="§7-1671.08|(i)">(i)</cite>, a sole proprietorship, partnership, or other business entity that:</text>
-      <para>
-        <num>(i)</num>
-        <text>Sells, exchanges as part of a commercial transaction, or delivers Schedule I substances or products that contain Schedule I substances; and</text>
-      </para>
-      <para>
-        <num>(ii)</num>
-        <text>Operates at or delivers from a specific location in the District.</text>
-      </para>
+      <text>Operates at or delivers from a specific location in the District; and</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Is not licensed by ABCA as a cultivation center, retailer, internet retailer, manufacturer, courier, or testing laboratory.</text>
     </para>
   </para>
   <annotations>
@@ -480,9 +457,7 @@
     <annotation app="2024-12-17" doc="D.C. Law 25-255" eff="2024-12-17" path="§4|(a)|(3)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-38" path="§2|(a)" codified:display="Note" app="2025-03-21" eff="2025-03-21">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-38" path="§2|(a)">§ 2(a) of Unlicensed Establishment Enforcement Clarification Emergency Amendment Act of 2025 (D.C. Act 26-38, Mar. 21, 2025, 72 DCR 3347)</cite>.</annotation>
     <annotation app="2025-03-21" doc="D.C. Act 26-38" eff="2025-03-21" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2025-06-10" doc="D.C. Law 26-10" eff="2025-06-10" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2025-06-10" doc="D.C. Law 26-10" eff="2025-06-10" path="§2|(a)|(1)" type="History"/>
-    <annotation app="2025-06-10" doc="D.C. Law 26-10" eff="2025-06-10" path="§2|(a)|(2)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-10" path="§2|(a)" codified:display="Note" app="2025-06-10" eff="2025-06-10">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-10" path="§2|(a)">§ 2(a) of Unlicensed Establishment Enforcement Clarification Temporary Amendment Act of 2025 (D.C. Law 26-10, June 10, 2025, 72 DCR 4892)</cite>.</annotation>
+    <annotation app="2025-06-10" doc="D.C. Law 26-10" eff="2025-06-10" path="§2|(a)" type="History" display="false"/>
   </annotations>
 </section>
