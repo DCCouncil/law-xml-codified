@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-1671.12d</num>
   <text>
-      *NOTE: This section was created by emergency legislation that will expire on April 24, 2024.*
+      *NOTE: This section was created by temporary legislation that will expire on November 21, 2024.*
       </text>
   <heading proof="needed">Notifications from Department of Licensing and Consumer Protection, Office of Tax and Revenue, Fire and Emergency Medical Services Department, and Metropolitan Police Department.</heading>
   <para>
@@ -13,17 +13,20 @@
     <num>(b)</num>
     <text>If a licensed establishment is the subject of an incident report by the Metropolitan Police Department, the Metropolitan Police Department shall file a copy of the incident report with the ABC Board within 30-calendar days after the incident. The ABC Board shall make the report available for public inspection upon request.</text>
   </para>
-  <codify:emergency doc="D.C. Code" path="§7-1671.12d" codified:doc="D.C. Code" codified:path="§7-1671.12d" codified:display="Note"/>
+  <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§7-1671.12a" expire="2024-04-10" codified:display="Note">For temporary (225 days) creation of § 7-1671.12d, see <cite doc="D.C. Law 25-153" path="§2|(f)|includes|13d">§ 13d of Medical Cannabis Program Enforcement Temporary Amendment Act of 2024 (D.C. Law 25-153, Apr. 10, 2024, 71 DCR 2082)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§7-1671.12d" applicability="2024-04-10" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-1671.12d">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 25-153" path="§2|(f)|includes|13d">§ 13d of Medical Cannabis Program Enforcement Temporary Amendment Act of 2024 (D.C. Law 25-153, Apr. 10, 2024, 71 DCR 2082)</cite>.</codify:annotation>
   <codify:insert doc="D.C. Code" path="§7-1671.12d" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-1671.12d">
     <text>
-      *NOTE: This section was created by emergency legislation that will expire on April 24, 2024.*
+      *NOTE: This section was created by temporary legislation that will expire on November 21, 2024.*
       </text>
   </codify:insert>
   <annotations>
     <annotation doc="D.C. Law 13-315" type="History" path="§13d" display="false">Feb. 25, 2010, D.C. Law 13-315, § 13d</annotation>
     <annotation doc="D.C. Law 13-315" type="History" path="§13d">Feb. 25, 2010, D.C. Law 13-315, § 13d</annotation>
-    <annotation app="2024-01-25" doc="D.C. Act 25-371" eff="2024-01-25" path="§2|(f)" type="History" display="false"/>
-    <annotation app="2024-01-25" doc="D.C. Act 25-371" eff="2024-01-25" path="§2|(f)" prefix="as added" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-371" path="§2|(f)" codified:display="Note" app="2024-01-25" eff="2024-01-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-371" path="§2|(f)|includes|13d">§ 13d of Medical Cannabis Program Enforcement Emergency Amendment Act of 2024 (D.C. Act 25-371, Jan. 25, 2024, 71 DCR 1200)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-371" path="§2|(f)" codified:display="Note" app="2024-04-10" eff="2024-01-25">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-371" path="§2|(f)|includes|13d">§ 13d of Medical Cannabis Program Enforcement Emergency Amendment Act of 2024 (D.C. Act 25-371, Jan. 25, 2024, 71 DCR 1200)</cite>.</annotation>
+    <annotation app="2024-04-10" doc="D.C. Act 25-371" eff="2024-01-25" path="§2|(f)" type="History" display="false"/>
+    <annotation app="2024-04-10" doc="D.C. Law 25-153" eff="2024-04-10" path="§2|(f)" type="History" display="false"/>
+    <annotation app="2024-04-10" doc="D.C. Law 25-153" eff="2024-04-10" path="§2|(f)" prefix="as added" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-153" path="§2|(f)" codified:display="Note" app="2024-04-10" eff="2024-04-10">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 25-153" path="§2|(f)|includes|13d">§ 13d of Medical Cannabis Program Enforcement Temporary Amendment Act of 2024 (D.C. Law 25-153, Apr. 10, 2024, 71 DCR 2082)</cite>.</annotation>
   </annotations>
 </section>
