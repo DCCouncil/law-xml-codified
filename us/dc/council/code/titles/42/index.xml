@@ -1229,7 +1229,7 @@
       <xi:include href="./sections/42-3173.12.xml"/>
     </container>
   </container>
-  <subheading>Subtitle VII. Rental Housing.</subheading>
+  <subheading>Subtitle VII. Rental Housing and Commercial Tenancy.</subheading>
   <container>
     <prefix>Chapter</prefix>
     <num>32</num>
@@ -1296,6 +1296,13 @@
     <xi:include href="./sections/42-3305.xml"/>
     <xi:include href="./sections/42-3306.xml"/>
     <xi:include href="./sections/42-3307.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>33A</num>
+    <heading>Temporary Tenant Payment Plans.</heading>
+    <annotation app="2022-02-17" doc="D.C. Act 24-334" eff="2022-02-17" path="" type="History" display="false"/>
+    <xi:include href="./sections/42-3331.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
