@@ -1,12 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>23-581</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on May 17, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§23-581(Perm)">Permanent Version</cite>.*
-      </text>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§23-581(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Arrests without warrant by law enforcement officers.</heading>
   <para>
     <num>(a)</num>
@@ -193,7 +187,7 @@
   </para>
   <para>
     <num>(a-3)</num>
-    <text>A law enforcement officer may arrest a person without a warrant if the officer has probable cause to believe the person has committed an offense as provided in §§ <cite path="§22-3312.01">22-3312.01</cite> and <cite path="§22-3312.02">22-3312.02</cite>.</text>
+    <text>A law enforcement officer may arrest a person without a warrant if the officer has probable cause to believe the person has committed an offense as provided in §§ <cite path="§22-3312.01">22-3312.01</cite>, <cite path="§22-3312.02">22-3312.02</cite> and <cite path="§22-3312.03">22-3312.03</cite>.</text>
   </para>
   <para>
     <num>(a-4)</num>
@@ -310,11 +304,10 @@
     <annotation app="2023-10-05" doc="D.C. Law 25-61" eff="2023-10-05" path="§2" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-238" path="§2" codified:display="Note" app="2023-10-11" eff="2023-10-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-238" path="§2">§ 2 of Law Enforcement Arrest Authority Technical Correction Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-238, Oct. 11, 2023, 70 DCR 13796)</cite>.</annotation>
     <annotation app="2023-10-11" doc="D.C. Act 25-238" eff="2023-10-11" path="§2" type="History" display="false"/>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§25|(c)" type="History" display="false"/>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§25|(c)|(1)|(A)" type="History"/>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§25|(c)|(1)|(B)" type="History"/>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§25|(c)|(2)" type="History"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Act 25-410" path="§25|(c)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (225 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§25|(c)">§ 25(c) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§25|(c)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§25|(c)">§ 25(c) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§25|(c)" type="History" display="false"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(c)|(1)|(A)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(c)|(1)|(B)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(c)|(2)" type="History"/>
   </annotations>
 </section>

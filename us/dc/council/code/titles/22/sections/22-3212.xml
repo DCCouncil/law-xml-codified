@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>22-3212</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§22-3212(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Penalties for theft.</heading>
   <para>
     <num>(a)</num>
     <para>
       <num>(1)</num>
-      <text>Theft in the first degree. – Any person convicted of theft in the first degree shall be fined no more than the amount set forth in section 101 of the Criminal Fine Proportionality Amendment Act of 2012, effective June 11, 2013 (D.C. Law 19-317; D.C. Official Code § 22-3571.01), or incarcerated for no more than 10 years, or both, if:</text>
+      <text>Theft in the first degree. – Any person convicted of theft in the first degree shall be fined no more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or incarcerated for no more than 10 years, or both, if:</text>
       <para>
         <num>(A)</num>
         <text>The value of the property obtained or used is $1000 or more; or</text>
@@ -111,8 +108,8 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-88">D.C. Law 18-88</cite>, in subsec. (a), substituted “$1,000” for “$250”; in subsec. (b), substituted “if the property obtained or used has some value” for “if the value of the property obtained or used is less than $250”; and added subsecs. (c) and (d).</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 22-3812.</annotation>
     <annotation app="2016-11-23" doc="D.C. Law 21-166" eff="2016-11-23" path="§2|(a)" type="History"/>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§18|(b)" type="History" display="false"/>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§18|(b)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§18|(b)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§18|(b)">§ 18(b) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§18|(b)" type="History" display="false"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§23|(b)" type="History"/>
   </annotations>
 </section>

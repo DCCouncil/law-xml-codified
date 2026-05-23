@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:path="22|36">
   <num>22-3603</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on June 9, 2024.*
-      </text>
   <heading proof="needed">Enhanced penalty for committing a crime of violence against a person at a Department of Parks and Recreation property.</heading>
   <para>
     <num>(a)</num>
@@ -13,21 +10,11 @@
     <num>(b)</num>
     <text>For the purposes of this section, the term "property" means any park, field, court, play area, facility, or building, and the associated parking lot.</text>
   </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§22-3602" expire="2024-03-11" codified:display="Note">For temporary (90 days) creation of § 22-3603, see <cite doc="D.C. Act 25-410" path="§18|(d)|includes|203">§ 203 of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§22-3603" applicability="2024-03-11" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§22-3603">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-410" path="§18|(d)|includes|203">§ 203 of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§22-3603" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§22-3603">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on June 9, 2024.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation doc="D.C. Law 4-164" type="History" path="§203" display="false">Dec. 1, 1982, D.C. Law 4-164, § 203</annotation>
     <annotation doc="D.C. Law 4-164" type="History" path="§203">Dec. 1, 1982, D.C. Law 4-164, § 203</annotation>
-    <annotation doc="D.C. Law 4-164" type="History" path="§205 [203]" display="false">Dec. 1, 1982, D.C. Law 4-164, § 205</annotation>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-404" path="§2" codified:display="Note" app="2024-03-11" eff="2024-02-22">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-404" path="§2">§ 2 of Election Worker Protection Emergency Amendment Act of 2024 (D.C. Act 25-404, Feb. 22, 2024, 71 DCR 2105)</cite>.</annotation>
-    <annotation app="2024-03-11" doc="D.C. Act 25-404" eff="2024-02-22" path="§2" type="History" display="false"/>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§18|(d)" type="History" display="false"/>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§18|(d)" prefix="as added" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§18|(d)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-410" path="§18|(d)|includes|203">§ 203 of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
+    <annotation doc="D.C. Law 4-164" type="History" path="§203" display="false">Dec. 1, 1982, D.C. Law 4-164, § 203</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§18|(d)" codified:display="Note" app="2024-06-08" eff="2024-03-11">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-410" path="§18|(d)|includes|203">§ 203 of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
+    <annotation app="2024-06-08" doc="D.C. Act 25-410" eff="2024-03-11" path="§18|(d)" type="History" display="false"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§23|(d)" prefix="as added" type="History"/>
   </annotations>
 </section>

@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>16-2332</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§16-2332(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Juvenile social records; confidentiality; inspection and disclosure.</heading>
   <para>
     <num>(a)</num>
@@ -47,7 +44,7 @@
     <para>
       <num>(3)</num>
       <text>Other court case participants and law enforcement:</text>
-      <text>Law enforcement officers of the United States, the District of Columbia, and other jurisdictions, except that such records shall be limited to photographs of the child, a physical description of the child, any addresses where the child may be found, and the phone number or other contact information of the child or the child's parents, guardians, or custodians. The confidentiality of any information disclosed to law enforcement officers pursuant to this subsection shall be maintained pursuant to § 16-2333;</text>
+      <text>Law enforcement officers of the United States, the District of Columbia, and other jurisdictions, except that such records shall be limited to photographs of the child, a physical description of the child, any addresses where the child may be found, and the phone number or other contact information of the child or the child's parents, guardians, or custodians. The confidentiality of any information disclosed to law enforcement officers pursuant to this subsection shall be maintained pursuant to <cite path="§16-2333">§ 16-2333</cite>;</text>
     </para>
     <para>
       <num>(4)</num>
@@ -238,9 +235,9 @@
     <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§3052|(d)" type="History" display="false"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3052|(d)|(1)" type="History"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3052|(d)|(2)" type="History"/>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§13|(f)" type="History" display="false"/>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§13|(f)|(1)" type="History"/>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§13|(f)|(2)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§13|(f)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§13|(f)">§ 13(f) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§13|(f)" type="History" display="false"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§18|(f)|(1)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§18|(f)|(2)" type="History"/>
   </annotations>
 </section>

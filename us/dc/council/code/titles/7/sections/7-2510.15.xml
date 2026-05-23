@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-2510.15</num>
-  <text>
-      *NOTE: This section was added by emergency legislation that will expire on June 9, 2024.*
-      </text>
   <heading proof="needed">Implementation of strategic gun violence reduction strategies.</heading>
   <para>
     <num>(a)</num>
@@ -24,19 +21,12 @@
     <num>(b)</num>
     <text>The Deputy Mayor for Public Safety and Justice shall coordinate a Coordination Meeting/Intervention Services Shooting Review no less than twice per month to review each shooting in the District that occurred since the last Coordination Meeting/Intervention Services Shooting Review from a services and response perspective, in order to identify and assign government and community partners to outreach and engage those high-risk individuals implicated by the shootings.</text>
   </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-2510.10" expire="2024-03-11" codified:display="Note">For temporary (90 days) creation of § 7-2510.15, see <cite doc="D.C. Act 25-410" path="§11|(k)|includes|1015">§ 1015 of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-2510.15" applicability="2024-03-11" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-2510.15">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-410" path="§11|(k)|includes|1015">§ 1015 of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§7-2510.15" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2510.15">
-    <text>
-      *NOTE: This section was added by emergency legislation that will expire on June 9, 2024.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation type="History" doc="D.C. Law 1-85" path="§1015" display="false">Sept. 24, 1976, D.C. Law 1-85, § 1015</annotation>
     <annotation type="History" doc="D.C. Law 1-85" path="§1015">Sept. 24, 1976, D.C. Law 1-85, § 1015</annotation>
+    <annotation type="History" doc="D.C. Law 1-85" path="§1015" display="false">Sept. 24, 1976, D.C. Law 1-85, § 1015</annotation>
     <annotation app="2019-05-10" doc="D.C. Law 22-314" eff="2019-05-10" path="" type="History" display="false"/>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(k)" type="History" display="false"/>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(k)" prefix="as added" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§11|(k)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-410" path="§11|(k)|includes|1015">§ 1015 of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§11|(k)" codified:display="Note" app="2024-06-08" eff="2024-03-11">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-410" path="§11|(k)|includes|1015">§ 1015 of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
+    <annotation app="2024-06-08" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(k)" type="History" display="false"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§15|(k)" prefix="as added" type="History"/>
   </annotations>
 </section>
