@@ -9,9 +9,9 @@
     <introduced>2021-06-15</introduced>
     <effective>2023-04-21</effective>
     <citations>
-      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/47448/Signed_Act/B24-0320-Signed_Act.pdf">D.C. Law 24-345</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/47448/Signed_Act/B24-0320-Signed_Act.pdf?Id=154135">D.C. Law 24-345</citation>
       <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/47448/Signed_Act/B24-0320-Signed_Act.pdf">D.C. Act 24-781</citation>
-      <citation type="register">70 DCR 953</citation>
+      <citation type="register">70 DCR 7904</citation>
     </citations>
     <history url="https://lims.dccouncil.us/Legislation/B24-0320">
       <vote date="2022-12-06" reading="First"/>
@@ -1647,7 +1647,7 @@
       <num>E</num>
       <heading>ANTI-MASK LAW REPEAL</heading>
       <section>
-        <num>106</num>
+        <num>108</num>
         <text>The Anti-Intimidation and Defacing of Public or Private Property Criminal Penalty Act of 1982, effective March 10, 1983 (D.C. Law 4-203; D.C. Official Code § 22-3312 <em>et seq.</em>), is amended as follows:</text>
         <para codify:path="§22-3312.03">
           <num>(a)</num>
@@ -1664,7 +1664,7 @@
         </para>
       </section>
       <section codify:path="§23-581|(a-3)">
-        <num>107</num>
+        <num>109</num>
         <text>Section 23-581(a-3) of the District of Columbia Official Code is amended by striking the phrase "sections 22-3112.1, 22-3112.2, and 22-3112.3" and inserting the phrase "sections 22-3112.1 and 22-3112.2" in its place.</text>
         <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§23-581|(a-3)">
           <find>sections 22-3312.01, 22-3312.02, and 22-3312.03</find>
@@ -1987,46 +1987,35 @@
         </para>
       </section>
     </container>
-    <container codify:doc="D.C. Code">
+    <container>
       <prefix>SUBTITLE</prefix>
       <num>H</num>
       <heading>IDENTIFICATION OF MPD OFFICERS DURING FIRST AMENDMENT ASSEMBLIES AS LOCAL LAW ENFORCEMENT</heading>
-      <section codify:path="§5-331.09">
+      <section>
         <num>112</num>
         <text>Section 109 of the First Amendment Assemblies Act of 2004, effective April 13, 2005 (D.C. Law 15-352; D.C. Official Code § 5-331.09), is amended to read as follows:</text>
         <include>
-          <para>
-            <num>(a)</num>
-            <text>MPD shall:</text>
+          <section>
+            <codify:replace doc="D.C. Code" path="§5-331.09" codified:doc="D.C. Code" codified:path="§5-331.09"/>
+            <num codify:value="5-331.09">109</num>
+            <heading proof="needed">Identification of MPD personnel policing First Amendment assemblies.</heading>
             <para>
-              <num>(1)</num>
-              <text>Implement a method for enhancing the visibility to the public of the name and badge number of District law enforcement officers policing a First Amendment assembly by modifying the manner in which those officers' names and badge numbers are affixed to the officers' uniforms or helmets; and</text>
-            </para>
-            <para>
-              <num>(2)</num>
-              <text>Ensure that all uniformed District law enforcement officers assigned to police First Amendment assemblies are equipped with the enhanced identification and may be identified even if wearing riot gear.</text>
-            </para>
-            <codify:redesignate-para num-value="(a)" codified:doc="D.C. Code" codified:path="§5-331.09"/>
-            <codify:insert codified:doc="D.C. Code" codified:path="§5-331.09|(1)">
+              <num>(a)</num>
+              <text>MPD shall:</text>
               <para>
-                <codify:insert path="(a)"/>
                 <num>(1)</num>
                 <text>Implement a method for enhancing the visibility to the public of the name and badge number of District law enforcement officers policing a First Amendment assembly by modifying the manner in which those officers' names and badge numbers are affixed to the officers' uniforms or helmets; and</text>
               </para>
-            </codify:insert>
-            <codify:insert codified:doc="D.C. Code" codified:path="§5-331.09|(2)">
               <para>
-                <codify:insert path="(a)"/>
                 <num>(2)</num>
                 <text>Ensure that all uniformed District law enforcement officers assigned to police First Amendment assemblies are equipped with the enhanced identification and may be identified even if wearing riot gear.</text>
               </para>
-            </codify:insert>
-          </para>
-          <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§5-331.09|(b)"/>
-            <num>(b)</num>
-            <text>During a First Amendment assembly, the uniforms and helmets of District law enforcement officers policing the assembly shall prominently identify the officers' affiliation with a District law enforcement agency.</text>
-          </para>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>During a First Amendment assembly, the uniforms and helmets of District law enforcement officers policing the assembly shall prominently identify the officers' affiliation with a District law enforcement agency.</text>
+            </para>
+          </section>
         </include>
         <aftertext>.</aftertext>
       </section>
@@ -2036,7 +2025,7 @@
       <num>I</num>
       <heading>PRESERVING THE RIGHT TO JURY TRIAL</heading>
       <section codify:path="§16-705|(b)|(1)">
-        <num>111</num>
+        <num>113</num>
         <text>Section 16-705(b)(1) of the District of Columbia Official Code is amended as follows:</text>
         <para codify:path="(A)">
           <num>(a)</num>
@@ -2329,7 +2318,7 @@
       <container>
         <prefix>Chapter</prefix>
         <num>3C</num>
-        <heading>Limitation on military weaponry.</heading>
+        <heading>Limitation on Military Weaponry.</heading>
       </container>
     </codify:insert>
     <container>
@@ -2775,7 +2764,7 @@
         <container>
           <prefix>Chapter</prefix>
           <num>3D</num>
-          <heading>Use of less-lethal weapons.</heading>
+          <heading>Use of Less-lethal Weapons.</heading>
         </container>
       </codify:insert>
       <section>
