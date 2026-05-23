@@ -1,11 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-218.31</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on August 26, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§2-218.31(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Local business enterprises.</heading>
   <text>A business enterprise shall be eligible for certification as a local business enterprise if the business enterprise:</text>
   <para>
     <num>(1)</num>
     <text>Has its principal office located physically in the District of Columbia;</text>
+  </para>
+  <para>
+    <num>(1A)</num>
+    <para>
+      <num>(A)</num>
+      <text>Is:</text>
+      <para>
+        <num>(i)</num>
+        <text>Independently owned and operated;</text>
+      </para>
+      <para>
+        <num>(ii)</num>
+        <text>More than 50% owned, operated, and controlled by a District-based enterprise or not-for-profit business; or</text>
+      </para>
+      <para>
+        <num>(iii)</num>
+        <text>Owned by a non-District-based business enterprise that is more than 50% owned by District residents;</text>
+      </para>
+    </para>
   </para>
   <para>
     <num>(2)</num>
@@ -131,5 +153,8 @@
         For temporary (225 days) Grace period for compliance with § 2-218.31(1A), see <cite doc="D.C. Law 25-7">D.C. Law 25-7</cite>.
       </annotation>
     <annotation app="2023-05-25" doc="D.C. Law 25-7" eff="2023-05-25" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2025-05-28" doc="D.C. Act 26-76" eff="2025-05-28" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2025-05-28" doc="D.C. Act 26-76" eff="2025-05-28" path="§2|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-76" path="§2|(b)" codified:display="Note" app="2025-05-28" eff="2025-05-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-76" path="§2|(b)">§ 2(b) of Certified Business Enterprise Program Compliance and Enforcement Support Emergency Amendment Act of 2025 (D.C. Act 26-76, May 28, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
