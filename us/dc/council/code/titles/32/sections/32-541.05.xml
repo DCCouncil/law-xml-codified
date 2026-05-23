@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-541.05</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 13, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§32-541.05(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Self-employed individuals.</heading>
   <para>
     <num>(a)</num>
@@ -10,7 +13,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>If an individual who earns self-employment income has chosen not to opt into the paid-leave program established pursuant to <cite path="32|5|IV">this subchapter</cite>, he or she shall only be permitted to enroll, or re-enroll, in the program during an open enrollment period in a manner prescribed by the Mayor and shall make contributions to the Universal Paid Leave Fund for no less than 3 consecutive years.</text>
+      <text>If an individual who earns self-employment income has chosen not to opt into the paid-leave program established pursuant to <cite path="32|5|IV">this subchapter</cite>, he or she shall only be permitted to enroll, or re-enroll, in the program during an open enrollment period in a manner prescribed by the Mayor and shall make contributions to the District for no less than 3 consecutive years.</text>
     </para>
   </para>
   <para>
@@ -47,5 +50,8 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§7034" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) repeal of § 301 of D.C. Law 21-264, see <cite doc="D.C. Act 22-167" path="§7034">§ 7034 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
     <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7034" type="History" display="false"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2143|(d)" type="History"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4112|(d)" type="History" display="false"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4112|(d)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§4112|(d)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§4112|(d)">§ 4112(d) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
   </annotations>
 </section>

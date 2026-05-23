@@ -2250,6 +2250,70 @@
         <aftertext>.</aftertext>
       </para>
     </para>
+    <codify:find-replace doc="D.C. Code" path="§4-501|(6)|(Z)" count="1" history="false" codified:doc="D.C. Code" codified:path="§4-501|(6)|(Z)">
+      <find>22-406</find>
+      <replace>22-405</replace>
+    </codify:find-replace>
+    <codify:find-replace doc="D.C. Code" path="§22-3152|(8)|(H)" count="1" history="false" codified:doc="D.C. Code" codified:path="§22-3152|(8)|(H)">
+      <find>22-406</find>
+      <replace>22-405</replace>
+    </codify:find-replace>
+    <codify:find-replace doc="D.C. Code" path="§24-112|(h)|(2)|(F)" count="1" history="false" codified:doc="D.C. Code" codified:path="§24-112|(h)|(2)|(F)">
+      <find>22-406</find>
+      <replace>22-405</replace>
+    </codify:find-replace>
+    <codify:find-replace doc="D.C. Code" path="§4-501|(6)|(H)" count="1" history="false" codified:doc="D.C. Code" codified:path="§4-501|(6)|(H)">
+      <find>as described in <code-cite doc="D.C. Code" path="§22-405">section 432 of the Revised Statutes of the District of Columbia (D.C. Official Code § 22-405)</code-cite></find>
+      <replace>as described in <code-cite doc="D.C. Code" path="§22-431">section 432 of the Revised Statutes of the District of Columbia (D.C. Official Code § 22-431)</code-cite></replace>
+    </codify:find-replace>
+    <codify:find-replace doc="D.C. Code" path="§24-403.01|(f)|(1)" count="1" history="false" codified:doc="D.C. Code" codified:path="§24-403.01|(f)|(1)">
+      <find>
+        <cite path="§22-405">§ 22-405</cite>
+      </find>
+      <replace>
+        <cite path="§22-431">§ 22-431</cite>
+      </replace>
+    </codify:find-replace>
+    <codify:find-replace doc="D.C. Code" path="§24-112|(h)|(2)|(E)" count="1" history="false" codified:doc="D.C. Code" codified:path="§24-112|(h)|(2)|(E)">
+      <find>22-405</find>
+      <replace>22-431</replace>
+    </codify:find-replace>
+    <codify:find-replace doc="D.C. Code" path="§5-132.21|(a)|(1)" count="1" history="false" codified:doc="D.C. Code" codified:path="§5-132.21|(a)|(1)">
+      <find>
+        <cite path="§22-406">22-406</cite>
+      </find>
+      <replace>
+        <cite path="§22-405">22-405</cite>
+      </replace>
+    </codify:find-replace>
+    <codify:find-replace doc="D.C. Code" path="§5-132.21|(a)|(1)" count="1" history="false" codified:doc="D.C. Code" codified:path="§5-132.21|(a)|(1)">
+      <find>
+        <cite path="§22-407">22-407</cite>
+      </find>
+      <replace>
+        <cite path="§22-451">22-451</cite>
+      </replace>
+    </codify:find-replace>
+    <codify:find-replace doc="D.C. Code" path="§24-403|(c)" count="1" history="false" codified:doc="D.C. Code" codified:path="§24-403|(c)">
+      <find>
+        <cite path="§22-405">§ 22-405</cite>
+      </find>
+      <replace>
+        <cite path="§22-431">§ 22-431</cite>
+      </replace>
+    </codify:find-replace>
+    <codify:find-replace doc="D.C. Code" path="§23-524|(b)" count="1" history="false" codified:doc="D.C. Code" codified:path="§23-524|(b)">
+      <find>22-405</find>
+      <replace>22-431</replace>
+    </codify:find-replace>
+    <codify:find-replace doc="D.C. Code" path="§24-261.03|(a)" count="1" history="false" codified:doc="D.C. Code" codified:path="§24-261.03|(a)">
+      <find>
+        <cite path="§22-405">§ 22-405</cite>
+      </find>
+      <replace>
+        <cite path="§22-431">§ 22-431</cite>
+      </replace>
+    </codify:find-replace>
   </section>
   <section>
     <num>21</num>

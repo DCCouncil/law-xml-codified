@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>36-621.05</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 13, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§36-621.05(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Sports wagering license requirements; prohibition.</heading>
   <para>
     <num>(a)</num>
@@ -47,7 +50,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>Each operator's license shall be limited to a single sports wagering facility.</text>
+        <text>Each Class A operator's license shall be limited to a single sports wagering facility and shall permit on-premises sports wagering at that facility and the operation of one individually branded platform offering mobile or online sports wagering.</text>
       </para>
       <para>
         <num>(C)</num>
@@ -140,6 +143,17 @@
       <text>Obtains a waiver from DSLBD of the contracting or joint venture requirements of the CBE act; provided, that if DSLBD neither approves nor denies the request for waiver within 30 days after the submission of the request, the waiver shall be deemed approved as a matter of law.</text>
     </para>
   </para>
+  <para>
+    <num>(h)</num>
+    <para>
+      <num>(1)</num>
+      <text>A license issued under this section shall not be transferred or assigned except as provided under section 306.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A licensee that is an entity shall apply for a new license no later than 3 days after its acquisition, merger, or other change of control (as defined in regulation), in which case the applicant may temporarily operate under the prior license until the approval or denial of the application for the new license.</text>
+    </para>
+  </para>
   <codify:annotation doc="D.C. Code" path="§36-621.05" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§36-621.05">Section 7177 of the Fiscal Year 2020 Budget Support Emergency Amendment Act of 2019 (D.C. Act 23-91) amended <cite doc="D.C. Law 22-312" path="§5">§ 5 of D.C. Law 22-312</cite> removing the applicability restriction impacting this section. Therefore the amendment of this section by <cite doc="D.C. Law 22-312">D.C. Law 22-312</cite> has been given effect.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 3-172" type="History" path="§301">Mar. 10, 1981, D.C. Law 3-172, § 305</annotation>
@@ -171,5 +185,9 @@
         </annotation>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7177" type="History" display="false"/>
     <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§6|(a)" type="History"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7172|(c)" type="History" display="false"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7172|(c)|(1)" type="History"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7172|(c)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7172|(c)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7172|(c)">§ 7172(c) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
   </annotations>
 </section>

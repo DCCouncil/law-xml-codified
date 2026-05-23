@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-309.11</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 13, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-309.11(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Advisory Neighborhood Commissions — Meetings; bylaws governing operation and internal structure; officers; open meetings.</heading>
   <para>
     <num>(a)</num>
@@ -12,9 +15,9 @@
       <num>(1)</num>
       <text>Each Commission shall meet in public session at regular intervals at least 9 times per year at locations that are designed to reasonably accommodate the residents of the Commission area, depending on the issues to be considered by the Commission. The Commission may declare a quorum and take official action if a majority of single-member district Commissioners of the Commission is present, provided that a majority of the single-member districts have Commissioners on the Commission pursuant to <cite path="§1-309.06">§ 1-309.06</cite>.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(1A)</num>
-      <text>Except as provided in paragraph (1B) of this subsection, a Commissioner must be physically present at a public meeting in order to participate in the meeting, including being counted toward the presence of a quorum and voting on matters before the Commission.</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(1B)</num>
@@ -308,5 +311,8 @@
     <annotation app="2023-10-11" doc="D.C. Act 25-234" eff="2023-10-11" path="§2" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-70" path="§2" codified:display="Note" app="2023-11-28" eff="2023-11-28">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-70" path="§2">§ 2 of Advisory Neighborhood Commissions Remote Operations Temporary Amendment Act of 2023 (D.C. Law 25-70, Nov. 28, 2023, 70 DCR 13807)</cite>.</annotation>
     <annotation app="2023-11-28" doc="D.C. Law 25-70" eff="2023-11-28" path="§2" type="History" display="false"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§1102|(a)|(2)" type="History" display="false"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§1102|(a)|(1)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§1102|(a)|(2)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§1102|(a)|(2)">§ 1102(a)(2) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
   </annotations>
 </section>

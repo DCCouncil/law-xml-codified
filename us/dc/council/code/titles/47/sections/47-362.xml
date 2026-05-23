@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-362</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 13, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-362(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Policies enumerated.</heading>
   <para>
     <num>(a)</num>
@@ -49,9 +52,9 @@
     <num>(h)</num>
     <text>Notwithstanding <cite path="§47-363">§ 47-363</cite>, local funds appropriated for the Department of Health Care Finance and the Medicaid Reserve in Fiscal Year 2021 shall not be reprogrammed to other agencies unless the Council approves the reprogramming by resolution.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(i)</num>
-    <text>Notwithstanding <cite path="§47-363">§ 47-363</cite>, beginning October 1, 2023, until evidence that DDOT has executed the contract required pursuant to <cite path="§50-921.21|(c)|(1)">§ 50-921.21(c)(1)</cite> is transmitted to the Council and the Chair of the Council Committee with oversight of the District Department of Transportation, the District Department of Transportation shall not make a capital reprogramming unless the Council approves the reprogramming by resolution.</text>
+    <text>[Repealed].</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 3-100" type="History">Sept. 16, 1980, D.C. Law 3-100, § 3, 27 DCR 3617</annotation>
@@ -105,5 +108,8 @@
           Section 6044 of D.C. Law 25-50 provided that the amendments to this section by § 6043 of D.C. Law 25-50 shall apply as of July 14, 2023.
         </annotation>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6043" type="History" display="false"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§6052" type="History" display="false"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§6052" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§6052" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§6052">§ 6052 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
   </annotations>
 </section>
