@@ -2,15 +2,6 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-353.01</num>
   <heading>Contractor standards.</heading>
-  <annotations>
-    <annotation doc="D.C. Law 18-371" type="History" path="§301">Apr. 8, 2011, D.C. Law 18-371, § 301, 58 DCR 1185</annotation>
-    <annotation type="Section References">This section is referenced in <cite path="§2-353.02">§ 2-353.02</cite>.</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-158" eff="2016-10-08" path="§3|(h)|(2)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-158" eff="2016-10-08" path="§3|(h)|(1)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-158" eff="2016-10-08" path="§3|(h)|(3)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 21-504" path="§3|(h)" codified:display="Note" app="2016-10-13" eff="2016-10-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-504" path="§3|(h)">§ 3(h) of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</annotation>
-    <annotation app="2016-10-13" doc="D.C. Act 21-504" eff="2016-10-13" path="§3|(h)" type="History" display="false"/>
-  </annotations>
   <para>
     <num>(a)</num>
     <text>The CPO shall establish a process to certify, on a solicitation-by-solicitation basis, the responsibility of prospective contractors. The process shall ensure that the prospective contractor:</text>
@@ -59,4 +50,13 @@
     <num>(b)</num>
     <text>If the District awards a contract to a prospective contractor that has an outstanding debt with the District in a delinquent status that is in an amount less than the amount required to disqualify the prospective contractor pursuant to subsection (a)(9) of this section, the District shall recoup the outstanding debt by offsetting it against any payment due to the contractor under the contract.</text>
   </para>
+  <annotations>
+    <annotation doc="D.C. Law 18-371" type="History" path="§301">Apr. 8, 2011, D.C. Law 18-371, § 301, 58 DCR 1185</annotation>
+    <annotation type="Section References">This section is referenced in <cite path="§2-353.02">§ 2-353.02</cite>.</annotation>
+    <annotation app="2016-10-08" doc="D.C. Law 21-158" eff="2016-10-08" path="§3|(h)|(2)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-158" eff="2016-10-08" path="§3|(h)|(1)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-158" eff="2016-10-08" path="§3|(h)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 21-504" path="§3|(h)" codified:display="Note" app="2016-10-13" eff="2016-10-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-504" path="§3|(h)">§ 3(h) of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</annotation>
+    <annotation app="2016-10-13" doc="D.C. Act 21-504" eff="2016-10-13" path="§3|(h)" type="History" display="false"/>
+  </annotations>
 </section>

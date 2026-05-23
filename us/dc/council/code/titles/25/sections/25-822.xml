@@ -2,6 +2,26 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>25-822</num>
   <heading>Mandatory revocation.</heading>
+  <para>
+    <num>(a)</num>
+    <text>The Board shall revoke the license of a licensee as a result of any of the following events during the period for which the license was issued:</text>
+    <para>
+      <num>(1)</num>
+      <text>The licensee has been convicted of multiple violations of the terms of  this title or the regulations issued under this title and the penalties set  forth in Chapter 8 or established by the Board require revocation;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The licensee has knowingly permitted, in the licensed establishment (A)  the illegal sale, or negotiations for sale, or the use, of any controlled  substance identified in the CSA, or (B) the possession, other than for personal use, or sale, or  negotiations for sale, of drug paraphernalia in violation of the CSA or  <cite path="48|11">Chapter 11 of Title 48</cite>. Successive sales, or negotiations for sale, over a  continuous period of time shall be deemed evidence of knowing permission; or</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The licensee has been convicted of a felony.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>For the purposes of this section, the term "personal use" means the possession of drug paraphernalia in circumstances where there is no evidence of an intent to distribute or manufacture a controlled substance.</text>
+  </para>
   <annotations>
     <annotation type="History">Jan. 24, 1934, 48 Stat. 330, ch. 4, § 17</annotation>
     <annotation type="History">Aug. 27, 1935, 49 Stat. 900, ch. 756, § 9</annotation>
@@ -25,24 +45,4 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" codified:display="Note" app="2019-09-04" eff="2019-09-04" path="§7168">For temporary (90 days) repeal of applicability provision of D.C. Law 22-288, see <cite doc="D.C. Act 23-112" path="§7168">§ 7168 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
     <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7168" type="History" display="false"/>
   </annotations>
-  <para>
-    <num>(a)</num>
-    <text>The Board shall revoke the license of a licensee as a result of any of the following events during the period for which the license was issued:</text>
-    <para>
-      <num>(1)</num>
-      <text>The licensee has been convicted of multiple violations of the terms of  this title or the regulations issued under this title and the penalties set  forth in Chapter 8 or established by the Board require revocation;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The licensee has knowingly permitted, in the licensed establishment (A)  the illegal sale, or negotiations for sale, or the use, of any controlled  substance identified in the CSA, or (B) the possession, other than for personal use, or sale, or  negotiations for sale, of drug paraphernalia in violation of the CSA or  <cite path="48|11">Chapter 11 of Title 48</cite>. Successive sales, or negotiations for sale, over a  continuous period of time shall be deemed evidence of knowing permission; or</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>The licensee has been convicted of a felony.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>For the purposes of this section, the term "personal use" means the possession of drug paraphernalia in circumstances where there is no evidence of an intent to distribute or manufacture a controlled substance.</text>
-  </para>
 </section>

@@ -19,6 +19,10 @@
     <num>(4)</num>
     <text>The amount of funding necessary, in addition to what has been authorized as of the date of the plan’s publication, by fiscal year, to attain the target number of cameras.</text>
   </para>
+  <para placeholder="Not Funded">
+    <num>(b)</num>
+    <text>Not Funded.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 19-307" type="History" path="§103">May 1, 2013, D.C. Law 19-307, § 103, 60 DCR 2753</annotation>
     <annotation type="Editor's Notes">Applicability of <cite doc="D.C. Law 19-307">D.C. Law 19-307</cite>: Section 401(a) of <cite doc="D.C. Law 19-307">D.C. Law 19-307</cite> provided that this section shall apply as of May 1, 2013.</annotation>
@@ -29,8 +33,4 @@
     <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§10" type="History"/>
     <annotation app="notfunded" doc="D.C. Law 23-158" eff="2020-12-23" path="§10|(a)" type="History"/>
   </annotations>
-  <para placeholder="Not Funded">
-    <num>(b)</num>
-    <text>Not Funded.</text>
-  </para>
 </section>

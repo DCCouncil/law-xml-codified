@@ -5,7 +5,7 @@
   <text>For the purposes of this chapter, the term:</text>
   <para>
     <num>(1)</num>
-    <text>"Associated autonomous vehicle" means an autonomous vehicle that an autonomous vehicle testing entity identifies in its autonomous vehicle testing permit application pursuant to section 3a, and any subsequent autonomous vehicles approved to operate pursuant to section 3a(f)(1) or permitted by law to operate without subsequent approval.</text>
+    <text>"Associated autonomous vehicle" means an autonomous vehicle that an autonomous vehicle testing entity identifies in its autonomous vehicle testing permit application pursuant to <cite path="§50-2352.01">§ 50-2352.01</cite>, and any subsequent autonomous vehicles approved to operate pursuant to <cite path="§50-2352.01|(f)|(1)">§ 50-2352.01(f)(1)</cite> or permitted by law to operate without subsequent approval.</text>
   </para>
   <para>
     <num>(1A)</num>
@@ -25,7 +25,7 @@
   </para>
   <para>
     <num>(1E)</num>
-    <text>"AV testing permit" means a permit issued by the Department pursuant to section 3a.</text>
+    <text>"AV testing permit" means a permit issued by the Department pursuant to <cite path="§50-2352.01">§ 50-2352.01</cite>.</text>
   </para>
   <para placeholder="Repealed">
     <num>(2)</num>
@@ -86,5 +86,8 @@
     <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(7)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-156" path="§2|(a)" codified:display="Note" app="2020-12-23" eff="2020-12-23">Applicability of <cite doc="D.C. Law 23-156" path="">D.C. Law 23-156</cite>: <cite doc="D.C. Law 23-156" path="§3">§ 3 of D.C. Law 23-156</cite> provided that the change made to this section by <cite doc="D.C. Law 23-156" path="§2|(a)">§ 2(a) of D.C. Law 23-156</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)" type="History"/>
+    <annotation doc="D.C. Act 24-159" path="§7186" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7186">Section 7186 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-156" path="§3">section 3 of D.C. Law 23-156</cite> removing the applicability provision impacting this section.  Therefore, the amendment of this section by Law 23-156 has been implemented.
+        </annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7186" type="History" display="false"/>
   </annotations>
 </section>
