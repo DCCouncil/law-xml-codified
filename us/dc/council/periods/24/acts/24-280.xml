@@ -28,17 +28,12 @@
       <para codify:path="(2)">
         <num>(1)</num>
         <text>Paragraph (2) is amended by striking the phrase "private physician" and inserting the phrase "healthcare professional authorized to administer a vaccine" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-501|(2)">
-          <find>private physician</find>
-          <replace>healthcare professional authorized to administer a vaccine</replace>
-        </codify:find-replace>
       </para>
       <para>
         <num>(2)</num>
         <text>A new paragraph (2A) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§38-501|(2A)"/>
             <num>(2A)</num>
             <text>The term "COVID-19" means the disease caused by the novel coronavirus SARS-CoV-2.</text>
           </para>
@@ -50,7 +45,6 @@
         <text>Paragraph 8(A) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§38-501|(8)|(A)"/>
             <num>(A)</num>
             <text>A District of Columbia Public Schools school or a public charter school serving any grades pre-K through 12;</text>
           </para>
@@ -58,11 +52,6 @@
         <aftertext>.</aftertext>
       </para>
       <codify:emergency doc="D.C. Code" path="§38-501" codified:doc="D.C. Code" codified:path="§38-501" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§38-501" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-501">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on April 12, 2022. To view the text of this section after the expiration of all emergency and emergency legislation, click this link: <cite doc="D.C. Code" path="§38-501(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para codify:path="§38-502">
       <num>(b)</num>
@@ -70,14 +59,12 @@
       <para>
         <num>(1)</num>
         <text>Designate the undesignated text as subsection (a).</text>
-        <codify:redesignate-para num-value="(a)" codified:doc="D.C. Code" codified:path="§38-502"/>
       </para>
       <para>
         <num>(2)</num>
         <text>A new subsection (b) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§38-502|(b)"/>
             <num>(b)</num>
             <text>Beginning with School Year 2022-2023:</text>
             <para>
@@ -92,19 +79,13 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:emergency doc="D.C. Code" path="§38-502" codified:doc="D.C. Code" codified:path="§38-502" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§38-502" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-502">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on April 12, 2022. To view the text of this section after the expiration of all emergency and emergency legislation, click this link: <cite doc="D.C. Code" path="§38-502(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
+      <codify:emergency doc="D.C. Code" path="§38-502" codified:doc="D.C. Code" codified:path="§38-502|(a)" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
       <text>A new section 3a is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert path="38|5" after="§38-502" num-value="38-502.01" codified:doc="D.C. Code" codified:path="§38-502.01"/>
           <num>3a</num>
           <heading>Certification of COVID-19 immunization.</heading>
           <para>
@@ -177,40 +158,17 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:emergency-new-sec doc="D.C. Code" path="§38-502.01" interim-path="§38-502" perm-eff="2022-01-12" codified:doc="D.C. Code" codified:path="§38-502.01" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§38-502.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-502.01">
-        <text>
-      *NOTE: This section was created by emergency legislation that will expire on April 12, 2022.*
-      </text>
-      </codify:insert>
+      <codify:emergency-new-sec doc="D.C. Code" path="§38-502.01" interim-path="§38-502" perm-eff="2022-03-02" codified:doc="D.C. Code" codified:path="§38-502.01" codified:display="Note"/>
     </para>
     <para codify:path="§38-503">
       <num>(d)</num>
       <text>Section 4 (D.C. Official Code § 38-505) is amended by striking the period and inserting the phrase "; provided, that the Mayor may not issue regulations that conflict with the requirements of section 3a.".</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-503">
-        <find>requested immunizations.</find>
-        <replace>requested immunizations; provided, that the Mayor may not issue regulations that conflict with the requirements of <code-cite doc="D.C. Code" path="§38-502.01">section 3a</code-cite>.</replace>
-      </codify:find-replace>
       <codify:emergency doc="D.C. Code" path="§38-503" codified:doc="D.C. Code" codified:path="§38-503" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§38-503" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-503">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on April 12, 2022. To view the text of this section after the expiration of all emergency and emergency legislation, click this link: <cite doc="D.C. Code" path="§38-503(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para codify:path="§38-504|(a)|(3)">
       <num>(e)</num>
       <text>Section 5(a)(3) (D.C. Official Code § 38-506(a)(3)) is amended by striking the phrase "private physician" and inserting the phrase "healthcare professional authorized to administer a vaccine" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-504|(a)|(3)">
-        <find>private physician</find>
-        <replace>healthcare professional authorized to administer a vaccine</replace>
-      </codify:find-replace>
       <codify:emergency doc="D.C. Code" path="§38-504" codified:doc="D.C. Code" codified:path="§38-504" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§38-504" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-504">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on April 12, 2022. To view the text of this section after the expiration of all emergency and emergency legislation, click this link: <cite doc="D.C. Code" path="§38-504(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
   </section>
   <section>
