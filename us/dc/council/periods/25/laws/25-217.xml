@@ -13020,7 +13020,7 @@
         <para codify:path="(A)">
           <num>(1)</num>
           <text>Subparagraph (A) is amended by striking the phrase "defined in § 151(c)(3) of" and inserting the phrase "defined in § 152(f)(1) of" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-1806.02|(f)|(3)|(A)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-1806.02">
             <find>defined in § 151(c)(3) of</find>
             <replace>defined in § 152(f)(1) of</replace>
           </codify:find-replace>
@@ -13028,7 +13028,7 @@
         <para codify:path="(B)">
           <num>(2)</num>
           <text>Subparagraph (B) is amended by striking the phrase "defined in § 151(c)(4) of" and inserting the phrase "defined in § 152(f)(2) of" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-1806.02|(f)|(3)|(B)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-1806.02">
             <find>defined in § 151(c)(4) of</find>
             <replace>defined in § 152(f)(2) of</replace>
           </codify:find-replace>

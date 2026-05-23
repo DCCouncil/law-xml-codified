@@ -1,34 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <num>47-1805.02</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on March 3, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-1805.02(Perm)">Permanent Version</cite>.*
-      </text>
+  <num>47-1805.02(Perm)</num>
   <heading>Returns — Persons required to file.</heading>
+  <text>
+      *NOTE: This codification is <u><b>not</b></u> the most current, due to recent law changes. To see the current law (including emergency and temporary legislation, if relevant) click this link: <cite path="§47-1805.02">Current Version</cite>*
+      </text>
   <text>Each of the following persons shall file a return with the Chief Financial Officer stating specifically the items of his gross income and the items claimed as deductions and credits allowed under this chapter, and such other information for the purpose of carrying out the provisions of this chapter as the Chief Financial Officer may require:</text>
   <para>
     <num>(1)</num>
     <heading>Residents and nonresidents. —</heading>
-    <text>Every individual having for the taxable year, gross income which equals or exceeds the applicable basic standard deduction as defined under <cite path="§47-1801.04|(3A)">§ 47-1801.04(3A)</cite>.</text>
+    <text>Every nonresident of the District receiving income subject to tax pursuant to this chapter and every resident of the District, except a fiduciary, who is required to file a federal return under the provisions of § 6012 of the Internal Revenue Code of 1986 [26 U.S.C. § 6012].</text>
   </para>
   <para>
     <num>(2)</num>
     <heading>Fiduciaries. —</heading>
     <para>
       <num>(A)</num>
-      <text>Every fiduciary of a trust that has gross income of $100 or more for the taxable year; and</text>
+      <text>Every individual, if single, or if married and not living with spouse, for whom he or she acts, having met the filing requirements of § 6012 of the Internal Revenue Code of 1986 [26 U.S.C. § 6012];</text>
     </para>
     <para>
       <num>(B)</num>
-      <text>Every fiduciary of an estate that has gross income of $1 or more for the taxable year.</text>
+      <text>Every individual, if married and living with spouse, for whom he or she acts, having met the filing requirements of § 6012 of the Internal Revenue Code of 1986 [26 U.S.C. § 6012], except that if the fiduciary elects to file a separate return, the provisions of § 6012 of the Internal Revenue Code of 1986 [26 U.S.C. § 6012], relating to filing requirements for separate returns, shall be followed;</text>
     </para>
-    <para placeholder="Repealed">
+    <para>
       <num>(C)</num>
-      <text>[Repealed].</text>
+      <text>Every estate for which he or she acts, the gross income of which for the taxable year is in excess of its personal exemption of $885 for taxable years beginning after December 31, 1986, $1,025 for taxable years beginning after December 31, 1987, $1,160 for taxable years beginning after December 31, 1988, $1,270 for taxable years beginning after December 31, 1989, and $1,370 for taxable years beginning after December 31, 1990; and</text>
     </para>
-    <para placeholder="Repealed">
+    <para>
       <num>(D)</num>
-      <text>[Repealed].</text>
+      <text>Every trust for which he or she acts, the gross income of which for the taxable year is $100 or over.</text>
     </para>
   </para>
   <para>
@@ -127,6 +127,7 @@
     <annotation doc="D.C. Law 11-254" type="History">enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575</annotation>
     <annotation doc="D.C. Law 13-305" type="History">June 9, 2001, D.C. Law 13-305, § 202(b), 302(b), 48 DCR 334</annotation>
     <annotation doc="D.C. Law 14-282" type="History">Apr. 4, 2003, D.C. Law 14-282, § 11(rr), 50 DCR 896</annotation>
+    <annotation doc="D.C. Law 21-160" type="History" path="§7052|(b)">Oct. 8, 2016, D.C. Law 21-160, § 7052|(b), 63 DCR 10775</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 12(ww) of Tax Clarity and Related Amendments Congressional Review Emergency Act of 2002 (D.C. Act 14-510, October 23, 2002,  49 DCR 10247).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 12(ww) of Tax Clarity and Related Amendments Emergency Act of 2002 (D.C. Act 14-456, July 23, 2002,  49 DCR 8107).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 12(ww) of Tax Clarity and Recorder of Deeds Emergency Act of 2002 (D.C. Act 14-381, June 6, 2002,  49 DCR 5674).</annotation>
@@ -138,12 +139,5 @@
     <annotation type="Prior Codifications">1973 Ed., § 47-1564a.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 47-1805.2.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§47-1805.02a">§ 47-1805.02a</cite>, <cite path="§47-1805.03">§ 47-1805.03</cite>, <cite path="§47-1805.04">§ 47-1805.04</cite>, <cite path="§47-4406">§ 47-4406</cite>, and <cite path="§50-1501.02">§ 50-1501.02</cite>.</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7052|(b)" type="History"/>
-    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(f)" type="History" display="false"/>
-    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(f)|(1)" type="History"/>
-    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(f)|(2)|(A)" type="History"/>
-    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(f)|(2)|(B)" type="History"/>
-    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(f)|(2)|(C)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-214" path="§2|(f)" codified:display="Note" app="2025-12-03" eff="2025-12-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-214" path="§2|(f)">§ 2(f) of D.C. Income and Franchise Tax Conformity and Revision Emergency Amendment Act of 2025 (D.C. Act 26-214, Dec. 3, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

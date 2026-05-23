@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>6-201</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on December 3, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§6-201(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <para>
@@ -52,7 +49,7 @@
   </para>
   <para>
     <num>(6)</num>
-    <text>"Board" means the Board of Commissioners established by <cite path="§6-203.01">§ 6-203.01</cite>; provided, that for the purposes of §§ <cite path="§6-209|(h)">6-209(h)</cite>, <cite path="§6-211|(r)">6-211(r)</cite>, and <cite path="§6-220|(b)">6-220(b)</cite>, the term "Board" shall include any prior form in which the Board existed since the establishment of the Authority pursuant to <cite path="6|2|I">this subchapter</cite>.</text>
+    <text>“Board” means the Board of Commissioners of the District of Columbia Housing Authority.</text>
   </para>
   <para>
     <num>(7)</num>
@@ -66,9 +63,9 @@
     <num>(7B)</num>
     <text>Repealed.</text>
   </para>
-  <para placeholder="Repealed">
+  <para>
     <num>(8)</num>
-    <text>Repealed.</text>
+    <text>“Central labor council” means the regional umbrella federation of all local AFL-CIO unions, including most of the private, federal, and public sector unions in the District of Columbia.</text>
   </para>
   <para>
     <num>(9)</num>
@@ -76,7 +73,7 @@
   </para>
   <para>
     <num>(10)</num>
-    <text>“City-Wide Resident Advisory Board” means the group consisting of the President of each Resident Council and not more than 15 members selected by the residents.</text>
+    <text>“City-Wide Resident Council Advisory Board” means the group consisting of the President of each Resident Council and not more than 15 members selected by the residents.</text>
   </para>
   <para>
     <num>(11)</num>
@@ -144,7 +141,7 @@
   </para>
   <para>
     <num>(15)</num>
-    <text>“DCHAPD” means the Authority Police Department, the duly constituted police department of the Authority established under <cite path="§6-223">§ 6-223</cite>.</text>
+    <text>“DCHAPD” means the District of Columbia Housing Authority Police Department, the duly constituted police department of the District of Columbia Housing Authority established under <cite path="§6-223">§ 6-223</cite>.</text>
   </para>
   <para>
     <num>(16)</num>
@@ -157,10 +154,6 @@
   <para>
     <num>(17)</num>
     <text>“DPAH” means the former Department of Public and Assisted Housing of the District.</text>
-  </para>
-  <para>
-    <num>(17A)</num>
-    <text>"Dwelling unit" means any room or group of rooms located within a residential or mixed-use building and forming a single unit that is used or intended to be used for living, sleeping, and the preparation and eating of meals.</text>
   </para>
   <para>
     <num>(18)</num>
@@ -186,9 +179,9 @@
     <num>(21)</num>
     <text>“General Counsel” means the Officer employed as the general counsel of the Authority.</text>
   </para>
-  <para placeholder="Repealed">
+  <para>
     <num>(22)</num>
-    <text>Repealed.</text>
+    <text>“General Population Housing” means a housing community that includes or may include non-elderly singles, families, residents with disabilities, and elderly residents.</text>
   </para>
   <para>
     <num>(23)</num>
@@ -234,9 +227,9 @@
     <num>(32)</num>
     <text>“Mixed-Income Community” means a housing development which includes rental or homeownership units made available to persons or families of varying incomes and which includes Public-Housing-Assisted Units.</text>
   </para>
-  <para placeholder="Repealed">
+  <para>
     <num>(33)</num>
-    <text>Repealed.</text>
+    <text>“Mixed Population Housing” means a housing community that includes elderly and non-elderly residents with disabilities.</text>
   </para>
   <para>
     <num>(34)</num>
@@ -368,14 +361,11 @@
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-229" path="§2|(a)" codified:display="Note" app="2024-11-27" eff="2024-11-27">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-229" path="§2|(a)">§ 2(a) of District of Columbia Housing Authority Stabilization and Reform Temporary Amendment Act of 2024 (D.C. Law 25-229, Nov. 27, 2024, 71 DCR 12358)</cite>.</annotation>
     <annotation app="2024-11-27" doc="D.C. Law 25-229" eff="2024-11-27" path="§2|(a)" type="History" display="false"/>
     <annotation app="2025-03-07" doc="D.C. Law 25-261" eff="2025-03-07" path="§2|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-89" path="§2|(a)" codified:display="Note" app="2025-06-25" eff="2025-06-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-89" path="§2|(a)">§ 2(a) of District of Columbia Housing Authority Stabilization and Reform Emergency Amendment Act of 2025 (D.C. Act 26-89, June 25, 2025, 72 DCR 7544)</cite>.</annotation>
+    <annotation app="2025-06-25" doc="D.C. Act 26-89" eff="2025-06-25" path="§2|(a)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-32" path="§2|(a)" codified:display="Note" app="2025-08-23" eff="2025-08-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-32" path="§2|(a)">§ 2(a) of District of Columbia Housing Authority Stabilization and Reform Temporary Amendment Act of 2025 (D.C. Law 26-32, Aug. 23, 2025, 72 DCR 7676)</cite>.</annotation>
     <annotation app="2025-08-23" doc="D.C. Law 26-32" eff="2025-08-23" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2025-09-04" doc="D.C. Act 26-145" eff="2025-09-04" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2025-09-04" doc="D.C. Act 26-145" eff="2025-09-04" path="§2|(a)|(1)" type="History"/>
-    <annotation app="2025-09-04" doc="D.C. Act 26-145" eff="2025-09-04" path="§2|(a)|(2)" type="History"/>
-    <annotation app="2025-09-04" doc="D.C. Act 26-145" eff="2025-09-04" path="§2|(a)|(3)" type="History"/>
-    <annotation app="2025-09-04" doc="D.C. Act 26-145" eff="2025-09-04" path="§2|(a)|(4)" type="History"/>
-    <annotation app="2025-09-04" doc="D.C. Act 26-145" eff="2025-09-04" path="§2|(a)|(5)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-145" path="§2|(a)" codified:display="Note" app="2025-09-04" eff="2025-09-04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-145" path="§2|(a)">§ 2(a) of Housing Authority Resident Empowerment Emergency Amendment Act of 2025 (D.C. Act 26-145, Sept. 4, 2025, 72 DCR 9614)</cite>.</annotation>
+    <annotation app="2025-09-04" doc="D.C. Act 26-145" eff="2025-09-04" path="§2|(a)" type="History" display="false"/>
   </annotations>
 </section>

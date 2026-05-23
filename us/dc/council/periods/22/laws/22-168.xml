@@ -9507,8 +9507,8 @@
         <para codify:path="(8)">
           <num>(a)</num>
           <text>Paragraph (8) is repealed.</text>
-          <codify:repeal codified:doc="D.C. Code" codified:path="§47-1803.03|(b)|(8)"/>
-          <codify:find-replace path="§47-1803.03|(b)|(8)" count="1" codified:doc="D.C. Code" codified:path="§47-1803.03|(b)|(8)">
+          <codify:repeal codified:doc="D.C. Code" codified:path="§47-1803.03|(b)"/>
+          <codify:find-replace path="§47-1803.03|(b)|(8)" count="1" codified:doc="D.C. Code" codified:path="§47-1803.03|(b)">
             <find>[Repealed]</find>
             <replace>Repealed</replace>
           </codify:find-replace>
@@ -9518,7 +9518,7 @@
           <text>A new paragraph (9) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§47-1803.03|(b)|(9)"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§47-1803.03|(b)"/>
               <num>(9)</num>
               <text>A deduction allowed under section 199A of the Internal Revenue Code of 1986 (26 U.S.C. § 199A).</text>
             </para>
