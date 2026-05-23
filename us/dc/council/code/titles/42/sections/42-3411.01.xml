@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-3411.01</num>
-  <text>
-      *NOTE: This section was created by temporary legislation that will expire on June 9, 2022.*
-      </text>
   <heading>STAY DC Improvements.</heading>
   <para>
     <num>(a)</num>
@@ -56,22 +53,9 @@
       <text>DC Healthcare Alliance.</text>
     </para>
   </para>
-  <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§42-101" expire="2021-11-01" codified:display="Note">For temporary (225 days) creation of § 42-3411.01, see <cite doc="D.C. Law 24-39" path="§4">§ 4 of Public Emergency Extension and Eviction and Utility Moratorium Phasing Temporary Amendment Act of 2021 (D.C. Law 24-39, Oct. 27, 2021, 68 DCR 009487)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§42-3411.01" applicability="2021-11-01" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-3411.01">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-39" path="§4">§ 4 of Public Emergency Extension and Eviction and Utility Moratorium Phasing Temporary Amendment Act of 2021 (D.C. Law 24-39, Oct. 27, 2021, 68 DCR 009487)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§42-3411.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-3411.01">
-    <text>
-      *NOTE: This section was created by temporary legislation that will expire on June 9, 2022.*
-      </text>
-  </codify:insert>
+  <codify:temporary doc="D.C. Code" path="§42-3405.13" action="requirement that the Stronger Together by Assisting You (STAY DC) Program application portal allow housing providers to submit an application for emergency rental assistance on behalf of tenants with an electronic signature from the tenant" codified:doc="D.C. Code" codified:path="§42-3405.13" codified:display="Note"/>
   <annotations>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-125" path="§4" codified:display="Note" app="2021-11-18" eff="2021-07-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-125" path="§4">§ 4 of Public Emergency Extension and Eviction and Utility Moratorium Phasing Emergency Amendment Act of 2021 (D.C. Act 24-125, July 24, 2021, 68 DCR 007342)</cite>.</annotation>
-    <annotation app="2021-11-18" doc="D.C. Act 24-125" eff="2021-07-24" path="§4" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-197" path="§3" codified:display="Note" app="2021-11-01" eff="2021-10-22">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-197" path="§3">§ 3 of Public Emergency Extension and Eviction and Utility Moratorium Phasing Congressional Review Emergency Amendment Act of 2021 (D.C. Act 24-197, Oct. 22, 2021, 68 DCR 011614)</cite>.</annotation>
-    <annotation app="2021-11-01" doc="D.C. Act 24-197" eff="2021-10-22" path="§3" type="History" display="false"/>
     <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="" type="History" display="false"/>
-    <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="§4" type="History" display="false"/>
     <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="§4" type="History"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-39" path="§4" codified:display="Note" app="2021-11-01" eff="2021-10-27">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-39" path="§4">§ 4 of Public Emergency Extension and Eviction and Utility Moratorium Phasing Temporary Amendment Act of 2021 (D.C. Law 24-39, Oct. 27, 2021, 68 DCR 009487)</cite>.</annotation>
-    <annotation app="2021-11-01" doc="D.C. Law 24-39" eff="2021-10-27" path="§4" type="History" display="false"/>
   </annotations>
 </section>
