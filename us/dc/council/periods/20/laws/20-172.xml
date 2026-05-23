@@ -24,6 +24,11 @@
   <section>
     <num>4</num>
     <codified:stub doc="D.C. Code" path="§26-1161.03"/>
+    <codify:repeal doc="D.C. Code" path="§26-1161.03|(b)" codified:doc="D.C. Code" codified:path="§26-1161.03|(b)"/>
+    <codify:find-replace doc="D.C. Code" path="§26-1161.03|(b)" count="1" codified:doc="D.C. Code" codified:path="§26-1161.03|(b)">
+      <find>Repealed.</find>
+      <replace>[Expired.]</replace>
+    </codify:find-replace>
   </section>
   <section>
     <num>5</num>

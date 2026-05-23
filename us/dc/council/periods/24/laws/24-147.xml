@@ -793,6 +793,10 @@
             <para>
               <num>(i)</num>
               <text>Strike the phrase "if a licensee" both times it appears and insert the phrase "If a licensee" in its place.</text>
+              <codify:find-replace doc="D.C. Code" path="§25-125|(d-1)|(1)" count="1" codified:doc="D.C. Code" codified:path="§25-125|(d-1)|(1)">
+                <find>if the licensee</find>
+                <replace>If a licensee</replace>
+              </codify:find-replace>
             </para>
             <para>
               <num>(ii)</num>
