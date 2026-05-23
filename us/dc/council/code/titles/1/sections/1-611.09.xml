@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-611.09</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on March 8, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-611.09(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Compensation — Mayor and members of Council; Attorney General.</heading>
   <para>
     <num>(a)</num>
@@ -83,8 +80,8 @@
     <annotation type="Cross References">Members of Congress, limitations on compensation, see <cite path="§1-123">§ 1-123</cite>.</annotation>
     <annotation type="Cross References">Lottery and charitable games control board, executive director and deputy director, limitations on compensation, see <cite path="§3-1303">§ 3-1303</cite>.</annotation>
     <annotation app="2019-02-22" doc="D.C. Law 22-221" eff="2019-02-22" path="§2" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-698" path="§2" codified:display="Note" app="2022-12-08" eff="2022-12-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-698" path="§2">§ 2 of Salary Adjustment Emergency Amendment Act of 2022 (D.C. Act 24-698, Dec. 8, 2022, 69 DCR 15136)</cite>.</annotation>
     <annotation app="2022-12-08" doc="D.C. Act 24-698" eff="2022-12-08" path="§2" type="History" display="false"/>
-    <annotation app="2022-12-08" doc="D.C. Act 24-698" eff="2022-12-08" path="§2" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-698" path="§2" codified:display="Note" app="2022-12-08" eff="2022-12-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-698" path="§2">§ 2 of Salary Adjustment Emergency Amendment Act of 2022 (D.C. Act 24-698, Dec. 8, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2023-02-23" doc="D.C. Law 24-280" eff="2023-02-23" path="§2" type="History"/>
   </annotations>
 </section>
