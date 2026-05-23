@@ -5,7 +5,7 @@
     <effective>0001-01-01</effective>
     <recency through="2021-12-14">
       <law doc="D.C. Law 24-45">Law {{ doc.num }} effective {{ doc.effective | date }}</law>
-      <emergency doc="D.C. Act 24-245">Act {{ doc.num }} effective {{ doc.effective | date }}</emergency>
+      <emergency doc="D.C. Act 24-244">Act {{ doc.num }} effective {{ doc.effective | date }}</emergency>
       <federal doc="Pub. L. 116-283">Public Law {{ doc.num }} approved {{ doc.effective | date }}</federal>
     </recency>
   </meta>
@@ -75,4 +75,5 @@
   <annotation app="2021-04-27" doc="D.C. Law 23-275" eff="2021-04-27" path="§3|(k)" type="History"/>
   <annotation app="2021-10-27" doc="D.C. Law 24-40" eff="2021-10-27" path="§2|(i)" type="History"/>
   <annotation app="2021-11-01" doc="D.C. Act 24-192" eff="2021-11-01" path="§2|(c)" type="History"/>
+  <annotation app="2021-12-24" doc="D.C. Act 24-189" eff="2021-09-22" path="§3" type="History" estimate="true" display="false"/>
 </document>
