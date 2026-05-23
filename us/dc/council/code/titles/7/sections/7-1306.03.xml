@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-1306.03</num>
   <heading>Appropriations.</heading>
-  <text>There is hereby authorized to be appropriated such District funds as may be necessary and available to implement the provisions of this chapter, including funds for the development, and the support, of community-based services for persons with intellectual or developmental disabilities.</text>
+  <text>There is hereby authorized to be appropriated such District funds as may be necessary and available to implement the provisions of this chapter, including funds for the development, and the support, of community-based services for persons with intellectual disabilities.</text>
   <annotations>
     <text type="Editor's Notes">Section 35 of <cite doc="D.C. Law 19-169">D.C. Law 19-169</cite> provided that no provision of the act shall impair any right or obligation existing under law.</text>
     <text type="Editor's Notes">Section 35 of <cite doc="D.C. Law 19-169">D.C. Law 19-169</cite> provided that no provision of the act shall impair any right or obligation existing under law.</text>
@@ -17,7 +17,9 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-305">D.C. Law 16-305</cite> substituted “persons with mental retardation” for “mentally retarded persons”.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 6-1697.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 6-1983.</annotation>
-    <annotation app="2022-05-18" doc="D.C. Law 24-117" eff="2022-05-18" path="§3|(c)|(2)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-117" path="§3|(c)|(2)" codified:display="Note" app="2022-05-18" eff="2022-05-18">Applicability of <cite doc="D.C. Law 24-117" path="">D.C. Law 24-117</cite>: <cite doc="D.C. Law 24-117" path="§4">§ 4 of D.C. Law 24-117</cite> provided that the change made to this section by <cite doc="D.C. Law 24-117" path="§3|(c)|(2)">§ 3(c)(2) of D.C. Law 24-117</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="notfunded" doc="D.C. Law 24-117" eff="2022-05-18" path="§4|(a)" type="History" display="false"/>
+    <annotation app="2022-05-18" doc="D.C. Law 24-117" eff="2022-05-18" path="§3|(c)|(2)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-117" eff="2022-05-18" path="§3|(c)|(2)" type="History"/>
   </annotations>
 </section>

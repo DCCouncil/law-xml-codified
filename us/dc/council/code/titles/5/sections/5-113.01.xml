@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>5-113.01</num>
-  <heading>Records required to be maintained; budget and staffing transparency.</heading>
+  <heading>Records — Required.</heading>
   <para>
     <num>(a)</num>
     <text>The Mayor of the District of Columbia shall cause the Metropolitan Police force to keep the following records:</text>
@@ -155,104 +155,8 @@
     </para>
   </para>
   <para>
-    <num>(a-1)</num>
-    <text>The records maintained pursuant to subsection (a)(4B) and (4C) of this section shall be published on the Metropolitan Police Department's website biannually.</text>
-  </para>
-  <para>
     <num>(b)</num>
     <text>The Metropolitan Police force shall cooperate with the Criminal Justice Coordinating Council by sharing records to the extent otherwise permissible under the law for the purpose of preparing the report described in <cite path="§22-4234|(b-3)">§ 22-4234(b-3)</cite>.</text>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>The Metropolitan Police Department ("MPD") shall publish the following information on its website:</text>
-    <para>
-      <num>(1)</num>
-      <text>Monthly, for the prior 5 fiscal years and the current fiscal year, to date, by month:</text>
-      <para>
-        <num>(A)</num>
-        <text>A staffing report of the number of sworn officers and civilian employees employed by MPD, by bureau, division, unit, and, if applicable, police service area and rank, with a crosswalk to compare actual staffing to funded and unfunded full-time equivalents in that bureau, division, unit, and if applicable, police service area and rank; and</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>The number of employees that:</text>
-        <para>
-          <num>(i)</num>
-          <text>Separated from MPD, by type of separation, broken down by civilian employees, cadets, cadet conversion recruits, non-cadet conversion recruits, officers, and senior police officers; and</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>Were hired by MPD, broken down by civilian employees, cadets, cadet conversion recruits, non-cadet conversion recruits, officers, and senior police officers;</text>
-        </para>
-      </para>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Annually:</text>
-      <para>
-        <num>(A)</num>
-        <text>A listing of all full-time equivalents at MPD, in spreadsheet format, that includes the following fields for each full-time equivalent:</text>
-        <para>
-          <num>(i)</num>
-          <text>Position number;</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>Position title;</text>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>Whether the position is funded or unfunded;</text>
-        </para>
-        <para>
-          <num>(iv)</num>
-          <text>Whether the position is filled or vacant;</text>
-        </para>
-        <para>
-          <num>(v)</num>
-          <text>Program;</text>
-        </para>
-        <para>
-          <num>(vi)</num>
-          <text>Activity;</text>
-        </para>
-        <para>
-          <num>(vii)</num>
-          <text>Salary; and</text>
-        </para>
-        <para>
-          <num>(viii)</num>
-          <text>Fringe benefits; and</text>
-        </para>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>A report on MPD's overtime spending, which shall include the amount spent fiscal year-to-date, by month, on overtime pay and a description of the staffing plan and conditions justifying the overtime pay; and</text>
-      </para>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Annually, by the date the annual MPD budget is proposed by the Mayor and transmitted to the Council:</text>
-      <para>
-        <num>(A)</num>
-        <text>The approved, revised, and actual MPD budgets for the prior 5 fiscal years and the current fiscal year, the expenditures for those years, and the proposed MPD budget for the next fiscal year, in spreadsheet format, broken down, at a minimum, by program, activity, comptroller source group, fund source, and service level; and</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>For the proposed MPD budget for the next fiscal year:</text>
-        <para>
-          <num>(i)</num>
-          <text>The total proposed budget for hiring personnel;</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>The gross and net number of personnel MPD anticipates the proposed budget will allow it to hire, broken down by civilian employees, cadets, cadet conversion recruits, non-cadet conversion recruits, officers, and senior police officers; and</text>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>A crosswalk identifying any proposed actual or paper changes to MPD's internal organization, including its various bureaus, and a narrative rationale for the change.</text>
-        </para>
-      </para>
-    </para>
   </para>
   <annotations>
     <annotation type="History" doc="R.S., D.C." path="§386">R.S., D.C., § 386</annotation>
@@ -289,8 +193,5 @@
     <annotation doc="D.C. Law 22-168" path="§7016" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, removing the applicability restriction impacting this section. Therefore the changes made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have been implemented.
             </annotation>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7016" type="History" display="false"/>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3072|(a)" type="History"/>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3072|(c)" type="History"/>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3072|(d)" type="History"/>
   </annotations>
 </section>
