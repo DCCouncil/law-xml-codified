@@ -4,12 +4,15 @@
   <text>
       *NOTE: This section includes amendments by temporary legislation that will expire on September 25, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§6-1451.02(Perm)">Permanent Version</cite>.*
       </text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 4, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§6-1451.02(Perm)">Past Permanent Version</cite>.*
+      </text>
   <heading>Publicly-owned, leased, and financed buildings and projects.</heading>
   <para>
     <num>(a)</num>
     <para>
       <num>(1)</num>
-      <text>This subsection shall apply to all new construction and substantial improvement of:</text>
+      <text>This subsection shall apply to all new construction and Level 3 alterations of:</text>
       <para>
         <num>(A)</num>
         <text>Projects that are District-owned or District instrumentality-owned; and</text>
@@ -58,11 +61,35 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>Institute building systems monitoring and maintenance accountability methods upon receipt of a certificate of occupancy; and</text>
+        <text>Institute building systems monitoring and maintenance accountability methods upon receipt of a certificate of occupancy;</text>
       </para>
       <para>
         <num>(D)</num>
-        <text>Maintain net zero energy compliance unless the project is for the installation of temporary structures.</text>
+        <text>Maintain net zero energy compliance unless the project is for the construction of:</text>
+        <para>
+          <num>(i)</num>
+          <text>A temporary building;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>An addition less than 10,000 square feet;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>A police, fire, emergency response, or Office of Unified Communications facility; provided, that the facility need not comply with energy conservation and obtainment standards otherwise required by <cite path="§6-1453.01|(a)|(3)|(A)">§ 6-1453.01(a)(3)(A)</cite> and <cite path="§6-1453.01|(a)|(3)|(B)">(B) of the Clean Energy DC Building Code Amendment Act of 2022, effective September 21, 2022 (D.C. Law 24-177; D.C. Official Code § 6-1453.01(a)(3)(A) and (B)) ("Clean Energy DC Building Act")</cite>, until the effective date of the final regulations issued by the Mayor pursuant to <cite path="§6-1453.01|(b)|(1)">§ 6-1453.01(b)(1)</cite>;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>A natatorium; provided, that the aquatics center in which the natatorium is located need not comply with energy conservation and obtainment standards otherwise required by <cite path="§6-1453.01|(a)|(3)|(A)">§ 6-1453.01(a)(3)(A)</cite> and <cite path="§6-1453.01|(a)|(3)|(B)">(B) of the Clean Energy DC Building Act (D.C. Official Code § 6-1453.01(a)(3)(A) and (B))</cite>, until the effective date of the final regulations issued by the Mayor pursuant to <cite path="§6-1453.01|(b)|(1)">§ 6-1453.01(b)(1)</cite>; or</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>A project for which all permits necessary to begin construction were submitted before October 1, 2024, and that was not submitted to GBAC before [March 6, 2026]; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Maintain compliance with <cite path="§6-1453.01|(a)|(3)|(D)">§6-1453.01(a)(3)(D)</cite>.</text>
       </para>
     </para>
     <para>
@@ -74,7 +101,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>Submit to DCRA a copy of the standard’s self-certification checklist and a verification of meeting the standard’s requirements for energy efficiency, as part of the application for a certificate of occupancy; and</text>
+        <text>Submit to DOB a copy of the standard’s self-certification checklist and a verification of meeting the standard’s requirements for energy efficiency, as part of the application for a certificate of occupancy; and</text>
       </para>
       <para>
         <num>(C)</num>
@@ -253,5 +280,12 @@
     <annotation app="2026-02-12" doc="D.C. Law 26-90" eff="2026-02-12" path="§4|(a)" type="History"/>
     <annotation app="2026-02-12" doc="D.C. Law 26-90" eff="2026-02-12" path="§4|(b)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-90" path="§4" codified:display="Note" app="2026-02-12" eff="2026-02-12">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-90" path="§4">§ 4 of Green Housing Coordination Temporary Amendment Act of 2025 (D.C. Law 26-90, Feb. 12, 2026, 73 DCR 3)</cite>.</annotation>
+    <annotation app="2026-03-06" doc="D.C. Act 26-275" eff="2026-03-06" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2026-03-06" doc="D.C. Act 26-275" eff="2026-03-06" path="§2|(b)|(1)" type="History"/>
+    <annotation app="2026-03-06" doc="D.C. Act 26-275" eff="2026-03-06" path="§2|(b)|(2)|(A)" type="History"/>
+    <annotation app="2026-03-06" doc="D.C. Act 26-275" eff="2026-03-06" path="§2|(b)|(2)|(B)" type="History"/>
+    <annotation app="2026-03-06" doc="D.C. Act 26-275" eff="2026-03-06" path="§2|(b)|(2)|(C)" type="History"/>
+    <annotation app="2026-03-06" doc="D.C. Act 26-275" eff="2026-03-06" path="§2|(b)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-275" path="§2|(b)" codified:display="Note" app="2026-03-06" eff="2026-03-06">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-275" path="§2|(b)">§ 2(b) of Net Zero Modification and Preservation Emergency Amendment Act of 2026 (D.C. Act 26-275, Mar. 6, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

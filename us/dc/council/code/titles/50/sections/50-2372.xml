@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-2372</num>
   <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on March 19, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-2372(Perm)">Past Permanent Version</cite>.*
+      *NOTE: This section includes amendments by temporary legislation that will expire on October 17, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-2372(Perm)">Past Permanent Version</cite>.*
       </text>
   <heading proof="needed">Public Life and Activity Zones Program.</heading>
   <para>
@@ -148,9 +148,11 @@
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§6112|(b)|(2)" type="History"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§6112|(c)" type="History"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§6112|(d)" type="History"/>
-    <annotation app="2025-12-19" doc="D.C. Act 26-233" eff="2025-12-19" path="§3" type="History" display="false"/>
-    <annotation app="2025-12-19" doc="D.C. Act 26-233" eff="2025-12-19" path="§3|(a)" type="History"/>
-    <annotation app="2025-12-19" doc="D.C. Act 26-233" eff="2025-12-19" path="§3|(b)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-233" path="§3" codified:display="Note" app="2025-12-19" eff="2025-12-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-233" path="§3">§ 3 of Streatery Program Emergency Amendment Act of 2025 (D.C. Act 26-233, Dec. 19, 2025, 73 DCR 59)</cite>.</annotation>
+    <annotation app="2025-12-19" doc="D.C. Act 26-233" eff="2025-12-19" path="§3" type="History" display="false"/>
+    <annotation app="2026-03-06" doc="D.C. Law 26-97" eff="2026-03-06" path="§3" type="History" display="false"/>
+    <annotation app="2026-03-06" doc="D.C. Law 26-97" eff="2026-03-06" path="§3|(a)" type="History"/>
+    <annotation app="2026-03-06" doc="D.C. Law 26-97" eff="2026-03-06" path="§3|(b)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-97" path="§3" codified:display="Note" app="2026-03-06" eff="2026-03-06">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-97" path="§3">§ 3 of Streatery Program Temporary Amendment Act of 2025 (D.C. Law 26-97, Mar. 6, 2026, 73 DCR 443)</cite>.</annotation>
   </annotations>
 </section>
