@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>51-113</num>
   <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on January 23, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§51-113(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by temporary legislation that will expire on August 3, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§51-113(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Administration of provisions of subchapter; disclosure of information.</heading>
   <para>
@@ -82,7 +82,7 @@
     <num>(f)</num>
     <para>
       <num>(1)</num>
-      <text>Except as hereinafter otherwise provided, information obtained from any employing unit or individual pursuant to the administration of this Act and determinations as to the benefit rights of any individual shall be held confidential and shall not be disclosed or be open to public inspection in any manner, whether by subpoena or otherwise, revealing the individual's or employing unit's identity. Any claimant (or his or her legal representative) shall be supplied with information from the records of the division, to the extent necessary for the proper presentation of his claim in any proceeding under this Act with respect thereto.</text>
+      <text>Except as hereinafter otherwise provided, information obtained from any employing unit or individual pursuant to the administration of <cite path="51|1">this chapter</cite> and determinations as to the benefit rights of any individual shall be held confidential and shall not be disclosed or be open to public inspection in any manner, whether by subpoena or otherwise, revealing the individual's or employing unit's identity. Any claimant (or his or her legal representative) shall be supplied with information from the records of the division, to the extent necessary for the proper presentation of his claim in any proceeding under <cite path="51|1">this chapter</cite> with respect thereto.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -102,7 +102,7 @@
           </para>
           <para>
             <num>(III)</num>
-            <text>Complied with both sub-subparagraph (I) and (II) of this subparagraph if so required by applicable federal law or regulation; or</text>
+            <text>Complied with both sub-subparagraph (I) and (II) of this subparagraph if required by applicable federal law or regulation; or</text>
           </para>
         </para>
         <para>
@@ -131,7 +131,7 @@
         </para>
         <para>
           <num>(ii)</num>
-          <text>"Councilmember" includes, to the extent permitted by applicable federal law or regulation, a Council employee or a non-governmental agent or contractor whom the Councilmember has designated to act on behalf of the Councilmember for the purposes of performing the Councilmember's official duties related to this Act;</text>
+          <text>"Councilmember" includes, to the extent permitted by applicable federal law or regulation, a Council employee or a non-governmental agent or contractor whom the Councilmember has designated to act on behalf of the Councilmember for the purposes of performing the Councilmember's official duties related to <cite path="51|1">this chapter</cite>;</text>
         </para>
       </para>
     </para>
@@ -218,8 +218,10 @@
     <annotation app="2021-12-22" doc="D.C. Act 24-253" eff="2021-12-22" path="§2" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-91" path="§2" codified:display="Note" app="2022-03-02" eff="2022-03-02">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-91" path="§2">§ 2 of Constituent Unemployment Compensation Information Temporary Amendment Act of 2021 (D.C. Law 24-91, Mar. 2, 2022, 69 DCR 000437)</cite>.</annotation>
     <annotation app="2022-03-02" doc="D.C. Law 24-91" eff="2022-03-02" path="§2" type="History" display="false"/>
-    <annotation app="2022-10-25" doc="D.C. Act 24-593" eff="2022-10-25" path="§2" type="History" display="false"/>
-    <annotation app="2022-10-25" doc="D.C. Act 24-593" eff="2022-10-25" path="§2" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-593" path="§2" codified:display="Note" app="2022-10-25" eff="2022-10-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-593" path="§2">§ 2 of Constituent Unemployment Compensation Information Emergency Amendment Act of 2022 (D.C. Act 24-593, Oct. 25, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2022-10-25" doc="D.C. Act 24-593" eff="2022-10-25" path="§2" type="History" display="false"/>
+    <annotation app="2022-12-21" doc="D.C. Law 24-232" eff="2022-12-21" path="§2" type="History" display="false"/>
+    <annotation app="2022-12-21" doc="D.C. Law 24-232" eff="2022-12-21" path="§2" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-232" path="§2" codified:display="Note" app="2022-12-21" eff="2022-12-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-232" path="§2">§ 2 of Constituent Unemployment Compensation Information Temporary Amendment Act of 2022 (D.C. Law 24-232, Dec. 21, 2022, 69 DCR 14033)</cite>.</annotation>
   </annotations>
 </section>

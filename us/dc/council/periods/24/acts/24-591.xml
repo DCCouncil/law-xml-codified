@@ -19,15 +19,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Fair Meals Delivery Emergency Act of 2022".</text>
-  <codify:insert doc="D.C. Code" path="48" after="7" history="false" codified:doc="D.C. Code" codified:path="48|6B">
-    <container>
-      <prefix>Chapter</prefix>
-      <num>6B</num>
-      <heading>Third-party Food Delivery.</heading>
-    </container>
-  </codify:insert>
   <section>
-    <codify:insert doc="D.C. Code" path="48|6B" num-value="48-653" codified:doc="D.C. Code" codified:path="§48-653"/>
     <num>2</num>
     <heading>Restrictions on third-party meals delivery companies.</heading>
     <para>
@@ -43,12 +35,7 @@
         <text>"Third-party delivery platform" means any website, mobile application, or other internet service that offers or arranges for the sale of food and beverages prepared by, and the same-day delivery or same-day pickup of food and beverages from, restaurants.</text>
       </para>
     </para>
-    <codify:emergency-new-sec doc="D.C. Code" path="§48-653" interim-path="§48-632" perm-eff="2022-10-25" codified:doc="D.C. Code" codified:path="§48-653" codified:display="Note"/>
-    <codify:insert doc="D.C. Code" path="§48-653" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§48-653">
-      <text>
-      *NOTE: This section was created by emergency legislation that will expire on January 23, 2023.*
-      </text>
-    </codify:insert>
+    <codify:emergency-new-sec doc="D.C. Code" path="§48-653" interim-path="§48-632" perm-eff="2022-12-21" codified:doc="D.C. Code" codified:path="§48-653" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>
