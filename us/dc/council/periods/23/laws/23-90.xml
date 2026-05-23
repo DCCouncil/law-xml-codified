@@ -61,7 +61,7 @@
         </para>
         <codify:not-funded-anno doc="D.C. Code" path="§2-1401.02" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§2-1401.02" codified:display="Note"/>
       </para>
-      <para codify:path="§2-1401.05">
+      <para codify:path="§2-1401.05" codify:applicability="notfunded">
         <num>(2)</num>
         <text>Section 105 (D.C. Official Code § 2-1401.05) is amended as follows:</text>
         <para codify:path="(a)">
@@ -80,7 +80,7 @@
         </para>
         <codify:not-funded-anno doc="D.C. Code" path="§2-1401.05" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§2-1401.05" codified:display="Note"/>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(3)</num>
         <text>A new section 105a is added to read as follows:</text>
         <include>
@@ -168,7 +168,7 @@
         </para>
         <codify:not-funded-anno doc="D.C. Code" path="§2-1402.11" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§2-1402.11" codified:display="Note"/>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <codify:insert doc="D.C. Code" path="2|14|A|II" after="I" history="false" codified:doc="D.C. Code" codified:path="2|14|A|II|J">
           <container>
             <prefix>Part</prefix>
@@ -266,7 +266,7 @@
           </container>
         </include>
         <aftertext>.</aftertext>
-        <codify:not-funded-anno doc="D.C. Code" path="2|14|A|II|J" applicability-path="§3" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§2-1402.91" codified:display="Note"/>
+        <codify:not-funded-anno doc="D.C. Code" path="2|14|A|II|J" applicability-path="§3" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§2-1402.91|annos" codified:display="Note"/>
       </para>
     </para>
   </section>

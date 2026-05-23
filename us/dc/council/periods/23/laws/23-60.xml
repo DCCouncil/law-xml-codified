@@ -175,7 +175,7 @@
           <replace>admission and increase to $4.50 per inpatient admission beginning in the 2021 fiscal year,</replace>
         </codify:find-replace>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(2)</num>
         <text>New subsections (d) and (e) are added to read as follows:</text>
         <include>

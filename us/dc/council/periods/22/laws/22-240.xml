@@ -128,7 +128,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <para codify:path="(2)">
+      <para codify:path="(2)" codify:applicability="notfunded">
         <num>(6)</num>
         <text>Paragraph (2) is amended by striking the phrase "Schools and Youth" and inserting the phrase "Youth and Schools" in its place.</text>
         <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-821.01|(2)">
@@ -188,7 +188,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§38-821.01" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§38-821.01" codified:display="Note"/>
     </para>
-    <para codify:path="§38-821.02">
+    <para codify:path="§38-821.02" codify:applicability="notfunded">
       <num>(b)</num>
       <text>Section 102 (D.C. Official Code § 38-821.02) is amended as follows:</text>
       <para codify:path="(c)">
@@ -263,7 +263,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§38-821.02" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§38-821.02" codified:display="Note"/>
     </para>
-    <para codify:path="§38-822.01">
+    <para codify:path="§38-822.01" codify:applicability="notfunded">
       <num>(c)</num>
       <text>Section 201 (D.C. Official Code § 38-822.01) is amended to read as follows:</text>
       <include>
@@ -318,7 +318,7 @@
       <aftertext>.</aftertext>
       <codify:not-funded-anno doc="D.C. Code" path="§38-822.01" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§38-822.01" codified:display="Note"/>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(d)</num>
       <text>Section 202(b) (D.C. Official Code § 38-822.02(b)) is amended to read as follows:</text>
       <include>
@@ -346,7 +346,7 @@
       <aftertext>.</aftertext>
       <codify:not-funded-anno doc="D.C. Code" path="§38-822.02" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§38-822.02" codified:display="Note"/>
     </para>
-    <para codify:path="§38-822.03">
+    <para codify:path="§38-822.03" codify:applicability="notfunded">
       <num>(e)</num>
       <text>Section 203 (D.C. Official Code § 38-822.03) is amended as follows:</text>
       <para codify:path="(a)">
@@ -406,13 +406,13 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§38-822.03" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§38-822.03" codified:display="Note"/>
     </para>
-    <para codify:path="§38-822.04">
+    <para codify:path="§38-822.04" codify:applicability="notfunded">
       <num>(f)</num>
       <text>Section 204 (D.C. Official Code § 38-822.04) is repealed.</text>
       <codify:repeal codified:doc="D.C. Code" codified:path="§38-822.04"/>
       <codify:not-funded-anno doc="D.C. Code" path="§38-822.04" action="repeal of" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§38-822.04" codified:display="Note"/>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(g)</num>
       <text>A new section 204a is added to read as follows:</text>
       <include>
@@ -458,7 +458,7 @@
       <annotation doc="D.C. Law 18-209" type="History" path="§204a">July 27, 2010, D.C. Law 18-209, § 204a</annotation>
       <codify:not-funded-anno doc="D.C. Code" path="§38-822.04a" action="creation of" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§38-822.04a" codified:display="Note"/>
     </para>
-    <para codify:path="§38-822.05">
+    <para codify:path="§38-822.05" codify:applicability="notfunded">
       <num>(h)</num>
       <text>Section 205 (D.C. Official Code § 38-822.05) is amended as follows:</text>
       <para codify:path="(a)">
@@ -491,7 +491,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§38-822.05" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§38-822.05" codified:display="Note"/>
     </para>
-    <para codify:path="§38-822.06|(a)">
+    <para codify:path="§38-822.06|(a)" codify:applicability="notfunded">
       <num>(i)</num>
       <text>Section 206(a) (D.C. Official Code § 38-822.06(a)) is amended by striking the phrase "shall meet the requirements of the United States Department of Agriculture's HealthierUS School Challenge program at the Gold Award Level for competitive foods, as may be revised from time to time and notwithstanding any termination of the HealthierUS School Challenge program." and inserting the phrase "shall meet or exceed the standards described in 7 C.F.R. § 210.11(c)-(m)." in its place.</text>
       <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-822.06|(a)">
@@ -500,7 +500,7 @@
       </codify:find-replace>
       <codify:not-funded-anno doc="D.C. Code" path="§38-822.06" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§38-822.06" codified:display="Note"/>
     </para>
-    <para codify:path="§38-822.07">
+    <para codify:path="§38-822.07" codify:applicability="notfunded">
       <num>(j)</num>
       <text>Section 207 (D.C. Official Code § 38-822.07) is amended by striking the phrase "Schools and Youth" and inserting the phrase "Youth and Schools" in its place.</text>
       <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-822.07">
@@ -509,7 +509,7 @@
       </codify:find-replace>
       <codify:not-funded-anno doc="D.C. Code" path="§38-822.07" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§38-822.07" codified:display="Note"/>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(k)</num>
       <text>A new section 208 is added to read as follows:</text>
       <include>
@@ -524,7 +524,7 @@
       <annotation doc="D.C. Law 18-209" type="History" path="§208">July 27, 2010, D.C. Law 18-209, § 208</annotation>
       <codify:not-funded-anno doc="D.C. Code" path="§38-822.08" action="creation of" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§38-822.08" codified:display="Note"/>
     </para>
-    <para codify:path="§38-823.01a|(a)">
+    <para codify:path="§38-823.01a|(a)" codify:applicability="notfunded">
       <num>(l)</num>
       <text>Section 301a(a) (D.C. Official Code § 38-823.01a(a)) is amended by striking the phrase "Schools and Youth" and inserting the phrase "Youth and Schools" in its place.</text>
       <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-823.01a|(a)">
@@ -533,7 +533,7 @@
       </codify:find-replace>
       <codify:not-funded-anno doc="D.C. Code" path="§38-823.01a" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§38-823.01a" codified:display="Note"/>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(m)</num>
       <text>A new section 301b is added to read as follows:</text>
       <include>
@@ -559,7 +559,7 @@
       <annotation doc="D.C. Law 18-209" type="History" path="§301b">July 27, 2010, D.C. Law 18-209, § 301b</annotation>
       <codify:not-funded-anno doc="D.C. Code" path="§38-823.01b" action="creation of" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§38-823.01b" codified:display="Note"/>
     </para>
-    <para codify:path="§38-823.03">
+    <para codify:path="§38-823.03" codify:applicability="notfunded">
       <num>(n)</num>
       <text>Section 303 (D.C. Official Code § 38-823.03) is amended to read as follows:</text>
       <include>
@@ -584,7 +584,7 @@
       <aftertext>.</aftertext>
       <codify:not-funded-anno doc="D.C. Code" path="§38-823.03" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§38-823.03" codified:display="Note"/>
     </para>
-    <para codify:path="§38-824.01">
+    <para codify:path="§38-824.01" codify:applicability="notfunded">
       <num>(o)</num>
       <text>Section 401 (D.C. Official Code § 38-824.01) is amended as follows:</text>
       <para codify:path="(a)">
@@ -642,7 +642,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§38-824.01" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§38-824.01" codified:display="Note"/>
     </para>
-    <para codify:path="§38-824.02">
+    <para codify:path="§38-824.02" codify:applicability="notfunded">
       <num>(p)</num>
       <text>Section 402 (D.C. Official Code § 38-824.02) is amended as follows:</text>
       <para codify:path="(a)">
@@ -720,13 +720,13 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§38-824.02" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§38-824.02" codified:display="Note"/>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(q)</num>
       <text>Section 402a (D.C. Official Code § 38-824.02a) is repealed.</text>
       <codify:repeal path="§38-824.02a" codified:doc="D.C. Code" codified:path="§38-824.02a"/>
       <codify:not-funded-anno doc="D.C. Code" path="§38-824.02a" action="repeal" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§38-824.02a" codified:display="Note"/>
     </para>
-    <para codify:path="§38-824.03">
+    <para codify:path="§38-824.03" codify:applicability="notfunded">
       <num>(r)</num>
       <text>Section 403 (D.C. Official Code § 38-824.03) is amended as follows:</text>
       <para codify:path="(a)">
@@ -755,7 +755,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§38-824.03" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§38-824.03" codified:display="Note"/>
     </para>
-    <para codify:path="§38-824.05">
+    <para codify:path="§38-824.05" codify:applicability="notfunded">
       <num>(s)</num>
       <text>Section 405 (D.C. Official Code § 38-824.05) is amended as follows:</text>
       <para codify:path="text">
@@ -788,7 +788,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§38-824.05" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§38-824.05" codified:display="Note"/>
     </para>
-    <para codify:path="§38-825.01|(b)|(2)">
+    <para codify:path="§38-825.01|(b)|(2)" codify:applicability="notfunded">
       <num>(t)</num>
       <text>Section 501(b)(2) (D.C. Official Code § 38-825.01(b)(2)) is amended by striking the phrase "Schools and Youth" and inserting the phrase "Youth and Schools" in its place.</text>
       <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-825.01|(b)|(2)">
@@ -797,7 +797,7 @@
       </codify:find-replace>
       <codify:not-funded-anno doc="D.C. Code" path="§38-825.01" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§38-825.01" codified:display="Note"/>
     </para>
-    <para codify:path="§38-825.02">
+    <para codify:path="§38-825.02" codify:applicability="notfunded">
       <num>(u)</num>
       <text>Section 502 (D.C. Official Code § 38-825.02) is amended as follows:</text>
       <para codify:path="(a)">
@@ -854,7 +854,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§38-825.02" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§38-825.02" codified:display="Note"/>
     </para>
-    <para codify:path="§38-825.03">
+    <para codify:path="§38-825.03" codify:applicability="notfunded">
       <num>(v)</num>
       <text>Section 503 (D.C. Official Code § 38-825.03) is amended as follows:</text>
       <para codify:path="(a)|(5)">
@@ -917,7 +917,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§38-826.01" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§38-826.01" codified:display="Note"/>
     </para>
-    <para codify:path="§38-826.02">
+    <para codify:path="§38-826.02" codify:applicability="notfunded">
       <num>(x)</num>
       <text>Section 602 (D.C. Official Code § 38-826.02) is amended by adding a new subsection (e) to read as follows:</text>
       <include>
@@ -937,7 +937,7 @@
       <aftertext>.</aftertext>
       <codify:not-funded-anno doc="D.C. Code" path="§38-826.02" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§38-826.02" codified:display="Note"/>
     </para>
-    <para codify:path="§38-826.03|(c)">
+    <para codify:path="§38-826.03|(c)" codify:applicability="notfunded">
       <num>(y)</num>
       <text>Section 603(c) (D.C. Official Code § 38-826.03(c)) is amended by striking the phrase "Schools and Youth" and inserting the phrase "Youth and Schools" in its place.</text>
       <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-826.03|(c)">
@@ -946,7 +946,7 @@
       </codify:find-replace>
       <codify:not-funded-anno doc="D.C. Code" path="§38-826.03" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§38-826.03" codified:display="Note"/>
     </para>
-    <para codify:path="§38-827.01|(b)">
+    <para codify:path="§38-827.01|(b)" codify:applicability="notfunded">
       <num>(z)</num>
       <text>Section 701(b) (D.C. Official Code § 38-827.01(b)) is amended as follows:</text>
       <para codify:path="(6)">

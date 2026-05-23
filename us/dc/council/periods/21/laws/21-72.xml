@@ -574,7 +574,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation doc="D.C. Code" path="21|22|I" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§21-2201">
+    <codify:annotation doc="D.C. Code" path="21|22|I" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§21-2201|annos">
       Applicability of <cite doc="D.C. Law 21-72">D.C. Law 21-72</cite>: <cite doc="D.C. Law 21-72" path="§4">§ 4 of D.C. Law 21-72</cite> provided that the change made to this section by <cite doc="D.C. Law 21-72" path="§2">§ 2 of D.C. Law 21-72</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
     </codify:annotation>
   </section>
@@ -599,13 +599,13 @@
     <codify:repeal doc="D.C. Code" path="§7-651.15" codified:doc="D.C. Code" codified:path="§7-651.15"/>
     <codify:repeal doc="D.C. Code" path="§7-651.16" codified:doc="D.C. Code" codified:path="§7-651.16"/>
     <codify:repeal doc="D.C. Code" path="§7-651.17" codified:doc="D.C. Code" codified:path="§7-651.17"/>
-    <codify:find-replace doc="D.C. Code" path="7|6A" count="1" codified:doc="D.C. Code" codified:path="§7-651.01">
+    <codify:find-replace doc="D.C. Code" path="7|6A" count="1" codified:doc="D.C. Code" codified:path="§7-651.01|annos">
       <find>Medical Services.</find>
       <replace>Medical Services. [Repealed]</replace>
     </codify:find-replace>
-    <codify:annotation doc="D.C. Code" path="7|6A" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-651.01"><cite doc="D.C. Law 21-72" path="§3">Section 3 of D.C. Law 21-72</cite>, as made applicable by <cite doc="D.C. Law 22-33" path="§7011">section 7011 of D.C. Law 22-33</cite>, repealed this section "as of the date that the Department of Health develops, and makes available, the MOST Form in accordance with § 21-2221.02."
+    <codify:annotation doc="D.C. Code" path="7|6A" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-651.01|annos"><cite doc="D.C. Law 21-72" path="§3">Section 3 of D.C. Law 21-72</cite>, as made applicable by <cite doc="D.C. Law 22-33" path="§7011">section 7011 of D.C. Law 22-33</cite>, repealed this section "as of the date that the Department of Health develops, and makes available, the MOST Form in accordance with § 21-2221.02."
     </codify:annotation>
-    <codify:annotation doc="D.C. Code" path="7|6A" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-651.01">
+    <codify:annotation doc="D.C. Code" path="7|6A" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-651.01|annos">
       Applicability of <cite doc="D.C. Law 21-72">D.C. Law 21-72</cite>: <cite doc="D.C. Law 21-72" path="§4">§ 4 of D.C. Law 21-72</cite> provided that the change made to this section by <cite doc="D.C. Law 21-72" path="§3">§ 3 of D.C. Law 21-72</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
     </codify:annotation>
   </section>

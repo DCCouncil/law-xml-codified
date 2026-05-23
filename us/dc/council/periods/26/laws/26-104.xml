@@ -29,7 +29,7 @@
     <para codify:path="§4-201.01">
       <num>(a)</num>
       <text>Section 101 (D.C. Official Code § 4-201.01) is amended as follows:</text>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(1)</num>
         <text>A new paragraph (1E) is added to read as follows:</text>
         <include lvl="1">
@@ -48,7 +48,7 @@
           <num>(3C)</num>
         </codify:replace>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(3)</num>
         <text>New paragraphs (3A) and (3B) are added to read as follows:</text>
         <include lvl="1">
@@ -72,7 +72,7 @@
           <num>(5E)</num>
         </codify:replace>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(5)</num>
         <text>A new paragraph (5D) is added to read as follows:</text>
         <include lvl="1">
@@ -84,7 +84,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(6)</num>
         <text>A new paragraph (8A) is added to read as follows:</text>
         <include lvl="1">
@@ -96,7 +96,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(7)</num>
         <text>A new paragraph (10A) is added to read as follows:</text>
         <include lvl="1">
@@ -110,7 +110,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 26-104" path="§2|(a)" applicability-path="§4" action="amendment to" display-template="" codified:doc="D.C. Code" codified:path="§4-201.01|(1E)" codified:display="Note"/>
     </para>
-    <para codify:path="§4-202.05">
+    <para codify:path="§4-202.05" codify:applicability="notfunded">
       <num>(b)</num>
       <text>Section 205 (D.C. Official Code § 4-202.05) is amended by adding a new subsection (f) to read as follows:</text>
       <include>
@@ -127,7 +127,7 @@
       <num>(c)</num>
       <text>New sections 583 and 584 are added to read as follows:</text>
       <include>
-        <section>
+        <section codify:applicability="notfunded">
           <codify:insert path="4|2|V" after="§4-205.82" num-value="4-205.83" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-205.83"/>
           <num>583</num>
           <heading proof="needed">Prevention of theft of electronically transferred benefits.</heading>
@@ -142,7 +142,7 @@
           <annotation doc="D.C. Law 4-101" type="History" path="§583">Apr. 6, 1982, D.C. Law 4-101, § 583</annotation>
           <codify:not-funded-anno doc="D.C. Code" path="§4-205.83" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§4-205.83" codified:display="Note"/>
         </section>
-        <section>
+        <section codify:applicability="notfunded">
           <codify:insert path="4|2|V" after="§4-205.83" num-value="4-205.84" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-205.84"/>
           <num>584</num>
           <heading proof="needed">Reimbursement for theft of electronically transferred benefits.</heading>

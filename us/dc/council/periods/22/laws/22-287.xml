@@ -22,7 +22,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Department of Consumer and Regulatory Affairs Omnibus Amendment Act of 2018".</text>
-  <section>
+  <section codify:applicability="notfunded">
     <num>2</num>
     <text>The Office of Administrative Hearings Establishment Act of 2001, effective March 6, 2002 (D.C. Law 14-76; D.C. Official Code § 2-1831.01 <em>et seq</em>.), is amended by adding a new section 6a to read as follows:</text>
     <include>
@@ -55,7 +55,7 @@
     <annotation doc="D.C. Law 14-76" type="History" path="§6a">Mar. 6, 2002, D.C. Law 14-76, § 6a</annotation>
     <codify:not-funded-anno doc="D.C. Code" path="§2-1831.03a" applicability-path="§8" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§2-1831.03a" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <num>3</num>
     <text>Subchapter 2 of Chapter 1 of Title 29 of the District of Columbia Official Code is amended as follows:</text>
     <para>
@@ -120,7 +120,7 @@
   <section codify:doc="D.C. Code">
     <num>4</num>
     <text>An Act To provide for the abatement of nuisances in the District of Columbia by the Commissioners of said District, and for other purposes, approved April 14, 1906 (34 Stat. 114; D.C. Official Code § 42-3131.01 <em>et seq.</em>), is amended as follows:</text>
-    <para codify:path="§42-3131.01|(b)">
+    <para codify:path="§42-3131.01|(b)" codify:applicability="notfunded">
       <num>(a)</num>
       <text>Section 1(b) (D.C. Official Code § 42-3131.01(b)) is amended by adding a new paragraph (2A) to read as follows:</text>
       <include lvl="1">
@@ -133,7 +133,7 @@
       <aftertext>.</aftertext>
       <codify:not-funded-anno doc="D.C. Code" path="§42-3131.01" applicability-path="§8" display-template="" codified:doc="D.C. Code" codified:path="§42-3131.01" codified:display="Note"/>
     </para>
-    <para codify:path="§42-3131.05|(1)|(B)|(ii)">
+    <para codify:path="§42-3131.05|(1)|(B)|(ii)" codify:applicability="notfunded">
       <num>(b)</num>
       <text>Section 5(1)(B)(ii) (D.C. Official Code § 42-3131.05(1)(B)(ii)) is amended by striking the phrase "boarded up; and" inserting the phrase "boarded up; provided, that this sub-sub-subparagraph shall not apply if the doors, windows, areaways, and other openings are secured by boards or other non-permanent means of security for not longer than 12 months and the owner submits proof of an issued building permit to rehabilitate the building for occupancy that certifies that these items will be replaced as part of the renovation of the vacant building; and" in its place.</text>
       <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3131.05|(1)">
@@ -225,7 +225,7 @@
       <codify:not-funded-anno doc="D.C. Code" path="§42-3131.15" applicability-path="§8" display-template="" codified:doc="D.C. Code" codified:path="§42-3131.15" codified:display="Note"/>
     </para>
   </section>
-  <section codify:doc="D.C. Code" codify:path="§42-3509.08">
+  <section codify:doc="D.C. Code" codify:path="§42-3509.08" codify:applicability="notfunded">
     <num>5</num>
     <text>Section 908 of the Rental Housing Act of 1985, effective March 21, 2009 (D.C. Law 17-319; D.C. Official Code § 42-3509.08), is amended by adding new subsections (e) and (f) to read as follows:</text>
     <include>

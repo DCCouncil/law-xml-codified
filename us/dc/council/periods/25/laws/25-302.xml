@@ -512,7 +512,7 @@
   <section>
     <num>5</num>
     <text>Title 47 of the District of Columbia Official Code is amended as follows:</text>
-    <para codify:path="§47-850.02|(b)">
+    <para codify:path="§47-850.02|(b)" codify:applicability="notfunded">
       <num>(a)</num>
       <text>Section 47-850.02(b) is amended as follows:</text>
       <para codify:path="(1)">
@@ -553,7 +553,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 25-302" path="§5|(a)" applicability-path="§7" action="amendment to" display-template="" codified:doc="D.C. Code" codified:path="§47-850.02|(b)|(1)" codified:display="Note"/>
     </para>
-    <para codify:path="§47-863|(f)">
+    <para codify:path="§47-863|(f)" codify:applicability="notfunded">
       <num>(b)</num>
       <text>Section 47-863(f) is amended by adding a new paragraph (7) to read as follows:</text>
       <include lvl="1">

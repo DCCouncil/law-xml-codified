@@ -29,7 +29,7 @@
       <heading>Radiation Protection.</heading>
     </container>
   </codify:insert>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="8|15B" num-value="8-1551" codified:doc="D.C. Code" codified:path="§8-1551"/>
     <num>2</num>
     <heading proof="needed">Definitions.</heading>
@@ -95,7 +95,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Law 25-277" path="§2" applicability-path="§11" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§8-1551" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="8|15B" after="§8-1551" num-value="8-1552" codified:doc="D.C. Code" codified:path="§8-1552"/>
     <num>3</num>
     <heading proof="needed">Regulation of radiation; licensure, certification, and registration requirements.</heading>
@@ -208,7 +208,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Law 25-277" path="§3" applicability-path="§11" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§8-1552" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="8|15B" after="§8-1552" num-value="8-1553" codified:doc="D.C. Code" codified:path="§8-1553"/>
     <num>4</num>
     <heading proof="needed">Mayoral enforcement authority.</heading>
@@ -443,7 +443,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Law 25-277" path="§4" applicability-path="§11" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§8-1553" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="8|15B" after="§8-1553" num-value="8-1554" codified:doc="D.C. Code" codified:path="§8-1554"/>
     <num>5</num>
     <heading proof="needed">Entry and administrative warrant procedures.</heading>
@@ -493,7 +493,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Law 25-277" path="§5" applicability-path="§11" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§8-1554" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="8|15B" after="§8-1554" num-value="8-1555" codified:doc="D.C. Code" codified:path="§8-1555"/>
     <num>6</num>
     <heading proof="needed">Criminal and civil enforcement by the Office of the Attorney General.</heading>
@@ -526,7 +526,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Law 25-277" path="§6" applicability-path="§11" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§8-1555" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="8|15B" after="§8-1555" num-value="8-1556" codified:doc="D.C. Code" codified:path="§8-1556"/>
     <num>7</num>
     <heading proof="needed">Exemptions.</heading>
@@ -548,14 +548,14 @@
     </para>
     <codify:not-funded-anno doc="D.C. Law 25-277" path="§7" applicability-path="§11" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§8-1556" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="8|15B" after="§8-1556" num-value="8-1557" codified:doc="D.C. Code" codified:path="§8-1557"/>
     <num>8</num>
     <heading proof="needed">Rulemaking.</heading>
     <text>The Mayor, pursuant to <code-cite doc="D.C. Code" path="2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, shall issue rules to implement the provisions of <code-cite doc="D.C. Code" path="8|15B">this act</code-cite>.</text>
     <codify:not-funded-anno doc="D.C. Law 25-277" path="§8" applicability-path="§11" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§8-1557" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="8|15B" after="§8-1557" num-value="8-1558" codified:doc="D.C. Code" codified:path="§8-1558"/>
     <num>9</num>
     <heading proof="needed">Transfers; continuation.</heading>
@@ -569,11 +569,11 @@
     </para>
     <codify:not-funded-anno doc="D.C. Law 25-277" path="§9" applicability-path="§11" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§8-1558" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <num>10</num>
     <text>The District of Columbia Low-Level Radioactive Waste Generator Regulatory Policy Act of 1990, effective March 7, 1991 (D.C. Law 8-226; D.C. Official Code § 8-1501 <em>et seq</em>.), is repealed.</text>
-    <codify:repeal path="8|15" codified:doc="D.C. Code" codified:path="§8-1501"/>
-    <codify:not-funded-anno doc="D.C. Law 25-277" path="§10" applicability-path="§11" action="repeal of" display-template="" codified:doc="D.C. Code" codified:path="§8-1501" codified:display="Note"/>
+    <codify:repeal path="8|15" codified:doc="D.C. Code" codified:path="§8-1501|annos"/>
+    <codify:not-funded-anno doc="D.C. Law 25-277" path="§10" applicability-path="§11" action="repeal of" display-template="" codified:doc="D.C. Code" codified:path="§8-1501|annos" codified:display="Note"/>
   </section>
   <section>
     <num>11</num>
@@ -589,7 +589,7 @@
       <codify:applicability doc="D.C. Law 25-277" path="§7" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1556"/>
       <codify:applicability doc="D.C. Law 25-277" path="§8" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1557"/>
       <codify:applicability doc="D.C. Law 25-277" path="§9" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1558"/>
-      <codify:applicability doc="D.C. Law 25-277" path="§10" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1501"/>
+      <codify:applicability doc="D.C. Law 25-277" path="§10" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1501|annos"/>
     </para>
     <para>
       <num>(b)</num>

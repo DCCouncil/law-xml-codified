@@ -31,7 +31,7 @@
       <heading>Students' Right to Home or Hospital Instruction.</heading>
     </container>
   </codify:insert>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="38|2|IV" num-value="38-251.01" codified:doc="D.C. Code" codified:path="§38-251.01"/>
     <num>2</num>
     <heading>Definitions.</heading>
@@ -117,7 +117,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§38-251.01" action="creation of" applicability-path="§12" display-template="" codified:doc="D.C. Code" codified:path="§38-251.01" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="38|2|IV" num-value="38-251.02" codified:doc="D.C. Code" codified:path="§38-251.02"/>
     <num>3</num>
     <heading>Home and hospital instruction program.</heading>
@@ -143,7 +143,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§38-251.02" action="creation of" applicability-path="§12" display-template="" codified:doc="D.C. Code" codified:path="§38-251.02" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="38|2|IV" num-value="38-251.03" codified:doc="D.C. Code" codified:path="§38-251.03"/>
     <num>4</num>
     <heading>Home or hospital instruction approval process.</heading>
@@ -184,7 +184,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§38-251.03" action="creation of" applicability-path="§12" display-template="" codified:doc="D.C. Code" codified:path="§38-251.03" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="38|2|IV" num-value="38-251.04" codified:doc="D.C. Code" codified:path="§38-251.04"/>
     <num>5</num>
     <heading>Termination or extension of home or hospital instruction.</heading>
@@ -198,7 +198,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§38-251.04" action="creation of" applicability-path="§12" display-template="" codified:doc="D.C. Code" codified:path="§38-251.04" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="38|2|IV" num-value="38-251.05" codified:doc="D.C. Code" codified:path="§38-251.05"/>
     <num>6</num>
     <heading>Mediation and appeals process.</heading>
@@ -232,7 +232,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§38-251.05" action="creation of" applicability-path="§12" display-template="" codified:doc="D.C. Code" codified:path="§38-251.05" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="38|2|IV" num-value="38-251.06" codified:doc="D.C. Code" codified:path="§38-251.06"/>
     <num>7</num>
     <heading>Delivery of home or hospital instruction.</heading>
@@ -294,14 +294,14 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§38-251.06" action="creation of" applicability-path="§12" display-template="" codified:doc="D.C. Code" codified:path="§38-251.06" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="38|2|IV" num-value="38-251.07" codified:doc="D.C. Code" codified:path="§38-251.07"/>
     <num>8</num>
     <heading>Attendance.</heading>
     <text>An LEA shall maintain a student receiving home or hospital instruction on the regular attendance roll and count the student as medically excused, except when a student is not available for home or hospital instruction, in which event the student may be counted absent.</text>
     <codify:not-funded-anno doc="D.C. Code" path="§38-251.07" action="creation of" applicability-path="§12" display-template="" codified:doc="D.C. Code" codified:path="§38-251.07" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="38|2|IV" num-value="38-251.08" codified:doc="D.C. Code" codified:path="§38-251.08"/>
     <num>9</num>
     <heading>Healthcare institutions.</heading>
@@ -315,7 +315,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§38-251.08" action="creation of" applicability-path="§12" display-template="" codified:doc="D.C. Code" codified:path="§38-251.08" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="38|2|IV" num-value="38-251.09" codified:doc="D.C. Code" codified:path="§38-251.09"/>
     <num>10</num>
     <heading>Transparency and accountability.</heading>
@@ -333,7 +333,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§38-251.09" action="creation of" applicability-path="§12" display-template="" codified:doc="D.C. Code" codified:path="§38-251.09" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="38|2|IV" num-value="38-251.10" codified:doc="D.C. Code" codified:path="§38-251.10"/>
     <num>11</num>
     <heading>Rulemaking authority.</heading>

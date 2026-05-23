@@ -29,7 +29,7 @@
       <heading>Youth Advisory Council on Climate Change and Environmental Conservation. [Not Funded]</heading>
     </container>
   </codify:insert>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="8|1C-i" num-value="8-183.01" codified:doc="D.C. Code" codified:path="§8-183.01"/>
     <num>2</num>
     <heading proof="needed">Youth Advisory Council on Climate Change and Environmental Conservation.</heading>
@@ -238,7 +238,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Law 26-62" path="§2" applicability-path="§5|(a)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§8-183.01" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="8|1C-i" after="§8-183.01" num-value="8-183.02" codified:doc="D.C. Code" codified:path="§8-183.02"/>
     <num>3</num>
     <heading proof="needed">Functions and procedures of the Youth Climate Council.</heading>
@@ -328,7 +328,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Law 26-62" path="§3" applicability-path="§5|(a)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§8-183.02" codified:display="Note"/>
   </section>
-  <section codify:path="§1-611.08|(c-2)">
+  <section codify:path="§1-611.08|(c-2)" codify:applicability="notfunded">
     <num>4</num>
     <text>Section 1108(c-2) of the District of Columbia Government Comprehensive Merit Personnel Act of 1979, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-611.08(c-2)), is amended as follows:</text>
     <para codify:path="(10)">

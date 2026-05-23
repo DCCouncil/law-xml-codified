@@ -38,7 +38,7 @@
       <aftertext>.</aftertext>
       <codify:not-funded-anno doc="D.C. Code" path="§31-3861" applicability-path="§4" display-template="" codified:doc="D.C. Code" codified:path="§31-3861" codified:display="Note"/>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(b)</num>
       <text>A new section 3a is added to read as follows:</text>
       <include>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 22-307">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 22-307" codify:applicability="notfunded">
   <num type="law">22-307</num>
   <num type="bill">22-92</num>
   <num type="act">22-563</num>
@@ -80,11 +80,11 @@
           <num>(6)</num>
           <text>"Vacation rental" means a short-term rental that operates within a host's residential property wherein a transient guest has exclusive use of the host's property during the transient guest's stay and the host is not present on the premises.  A vacation rental is subject to additional restrictions, including <code-cite doc="D.C. Code" path="§30-201.06|(e)"> section 106(e)</code-cite>.</text>
         </para>
-        <codify:find-replace doc="D.C. Code" path="30" count="1" history="false" codified:doc="D.C. Code" codified:path="§30-101">
+        <codify:find-replace doc="D.C. Code" path="30" count="1" history="false" codified:doc="D.C. Code" codified:path="§30-101|annos">
           <find>Hotels and Lodging Houses.</find>
           <replace>Hotels, Lodging Houses, and Short-term Rentals.</replace>
         </codify:find-replace>
-        <codify:find-replace doc="D.C. Code" path="30|1" count="1" history="false" codified:doc="D.C. Code" codified:path="§30-101">
+        <codify:find-replace doc="D.C. Code" path="30|1" count="1" history="false" codified:doc="D.C. Code" codified:path="§30-101|annos">
           <find>Rights and Liabilities.</find>
           <replace>Rights and Liabilities of Hotels and Lodging Houses.</replace>
         </codify:find-replace>

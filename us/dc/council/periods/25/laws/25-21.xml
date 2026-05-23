@@ -31,7 +31,7 @@
       <heading>Microenterprise Home Kitchens.</heading>
     </container>
   </codify:insert>
-  <section codify:doc="D.C. Code">
+  <section codify:doc="D.C. Code" codify:applicability="notfunded">
     <num>2</num>
     <text>The Department of Health Functions Clarification Act of 2001, effective October 3, 2001 (D.C. Law 14-28; D.C. Official Code § 7-731 <em>et seq</em>.), is amended by adding a new subtitle C-i to read as follows:</text>
     <include>
@@ -294,7 +294,7 @@
   <section codify:doc="D.C. Code">
     <num>3</num>
     <text>The Vending Regulation Act of 2009, effective October 22, 2009 (D.C. Law 18-71; D.C. Official Code § 37-131.01 <em>et seq.</em>), is amended as follows:</text>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(a)</num>
       <text>Section 2 (D.C. Official Code § 37-131.01) is amended to read as follows:</text>
       <include>
@@ -343,7 +343,7 @@
       <aftertext>.</aftertext>
       <codify:not-funded-anno doc="D.C. Code" path="§37-131.01" applicability-path="§5" display-template="" codified:doc="D.C. Code" codified:path="§37-131.01" codified:display="Note"/>
     </para>
-    <para codify:path="§37-131.02">
+    <para codify:path="§37-131.02" codify:applicability="notfunded">
       <num>(b)</num>
       <text>Section 3 (D.C. Official Code § 37-131.02) is amended as follows:</text>
       <para codify:path="(a)|(1)">
@@ -385,7 +385,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§37-131.02" applicability-path="§5" display-template="" codified:doc="D.C. Code" codified:path="§37-131.02" codified:display="Note"/>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(c)</num>
       <text>New sections 7a, 7b and 7c are added to read as follows:</text>
       <include>
@@ -557,7 +557,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <para codify:path="§37-131.07|(a)">
+    <para codify:path="§37-131.07|(a)" codify:applicability="notfunded">
       <num>(d)</num>
       <text>Section 8(a) (D.C. Official Code § 37-131.07(a)) is amended to read as follows:</text>
       <include>
@@ -660,7 +660,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(f)</num>
       <text>New sections 9a, 9b, 9c, and 9d are added to read as follows:</text>
       <include>
@@ -1060,7 +1060,7 @@
       <aftertext>.</aftertext>
     </para>
   </section>
-  <section codify:doc="D.C. Code" codify:path="§47-2002.01">
+  <section codify:doc="D.C. Code" codify:path="§47-2002.01" codify:applicability="notfunded">
     <num>4</num>
     <heading proof="needed">Conforming Amendment.</heading>
     <text>Section 47-2002.01 of the D.C. Official Code is amended by adding a new subsection (e) that reads as follows:</text>

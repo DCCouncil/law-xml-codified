@@ -22,7 +22,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "General Contractor Licensing Amendment Act of 2024".</text>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="47|28|I-B" after="D-i" history="false" codified:doc="D.C. Code" codified:path="47|28|I-B|D-ii">
       <container>
         <prefix>Part</prefix>

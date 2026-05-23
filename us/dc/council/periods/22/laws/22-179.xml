@@ -572,7 +572,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§4-651.06" applicability-path="§301" action="creation of subsection (b)(2) of" display-template="" codified:doc="D.C. Code" codified:path="§4-651.06" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.07" codified:doc="D.C. Code" codified:path="§4-651.07"/>
       <num>107</num>
       <heading>Early Head Start.</heading>
@@ -618,7 +618,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§4-651.07" applicability-path="§301" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§4-651.07" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.08" codified:doc="D.C. Code" codified:path="§4-651.08"/>
       <num>108</num>
       <heading>Lactation Certification Preparatory Program.</heading>
@@ -698,7 +698,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§4-651.09" applicability-path="§301" action="creation of subsection (d) of" display-template="" codified:doc="D.C. Code" codified:path="§4-651.09" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.10" codified:doc="D.C. Code" codified:path="§4-651.10"/>
       <num>110</num>
       <heading>Healthy Futures.</heading>
@@ -852,7 +852,7 @@
           <replace>Except as provided in <code-cite doc="D.C. Code" path="§4-410.02">section 11b</code-cite>, payments to child development homes</replace>
         </codify:find-replace>
       </para>
-      <para>
+      <para codify:applicability="2020-09-10">
         <num>(d)</num>
         <text>New sections 11a, 11b, and 11c are added to read as follows:</text>
         <include>
@@ -1336,7 +1336,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(e)</num>
         <text>A new sections 15b is added to read as follows:</text>
         <include>
@@ -1456,7 +1456,7 @@
           <aftertext>.</aftertext>
         </para>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(b)</num>
         <text>A new section 108 is added to read as follows:</text>
         <include>

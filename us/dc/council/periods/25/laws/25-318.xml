@@ -29,7 +29,7 @@
       <heading>Sound Level Reduction Design Requirements.</heading>
     </container>
   </codify:insert>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="6|14C" num-value="6-1455.01" codified:doc="D.C. Code" codified:path="§6-1455.01"/>
     <num>2</num>
     <heading proof="needed">Definitions.</heading>
@@ -95,7 +95,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Law 25-318" path="§2" applicability-path="§7" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§6-1455.01" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="6|14C" after="§6-1455.01" num-value="6-1455.02" codified:doc="D.C. Code" codified:path="§6-1455.02"/>
     <num>3</num>
     <heading proof="needed">Sound level reduction design guidelines and requirements rulemaking.</heading>
@@ -117,7 +117,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Law 25-318" path="§3" applicability-path="§7" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§6-1455.02" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="6|14C" after="§6-1455.02" num-value="6-1455.03" codified:doc="D.C. Code" codified:path="§6-1455.03"/>
     <num>4</num>
     <heading proof="needed">Sound level disclosure.</heading>
@@ -159,7 +159,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Law 25-318" path="§4" applicability-path="§7" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§6-1455.03" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="6|14C" after="§6-1455.03" num-value="6-1455.04" codified:doc="D.C. Code" codified:path="§6-1455.04"/>
     <num>5</num>
     <heading proof="needed">Grants for soundproofing upgrades.</heading>
@@ -205,7 +205,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Law 25-318" path="§5" applicability-path="§7" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§6-1455.04" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <num>6</num>
     <text>The Office of Cable Television, Film, Music, and Entertainment Amendment Act of 2015, effective October 9, 2002 (D.C. Law 14-193; D.C. Official Code § 34-1252.01 <em>et seq.</em>), is amended by adding a new section 204 to read as follows:</text>
     <include>

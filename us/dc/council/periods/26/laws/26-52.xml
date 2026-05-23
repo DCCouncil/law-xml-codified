@@ -62,7 +62,7 @@
       <text>The existing text is designated as subparagraph (A).</text>
       <codify:redesignate-para num-value="(A)" codified:doc="D.C. Code" codified:path="§5-716|(a-1)"/>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(b)</num>
       <text>A new subparagraph (B) is added to read as follows:</text>
       <include lvl="4">

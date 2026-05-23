@@ -464,7 +464,7 @@
       <heading>Short title.</heading>
       <text><code-cite doc="D.C. Code" path="28A|2">This title</code-cite> may be cited as the "Automatic Renewal Protections Act of 2018".</text>
     </section>
-    <section>
+    <section codify:applicability="2019-09-10">
       <codify:insert num-value="28A-202" codified:doc="D.C. Code" codified:path="§28A-202"/>
       <num>202</num>
       <heading>Definitions.</heading>
@@ -482,7 +482,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 22-235" path="§202" applicability-path="§301|(b)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§28A-202" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="2019-09-10">
       <codify:insert num-value="28A-203" codified:doc="D.C. Code" codified:path="§28A-203"/>
       <num>203</num>
       <heading>Automatic renewal provisions; notice; penalties.</heading>
@@ -571,7 +571,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 22-235" path="§203" applicability-path="§301|(b)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§28A-203" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="2019-09-10">
       <codify:insert num-value="28A-204" codified:doc="D.C. Code" codified:path="§28A-204"/>
       <num>204</num>
       <heading>Exemptions.</heading>

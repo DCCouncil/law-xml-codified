@@ -29,7 +29,7 @@
       <heading>Improving Efficiencies in Data Collection, Information Sharing, and Information Resources Management.</heading>
     </container>
   </codify:insert>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="2|17A" num-value="2-1731" codified:doc="D.C. Code" codified:path="§2-1731"/>
     <num>2</num>
     <heading>Data Sharing and Paperwork Reduction Council.</heading>
@@ -121,7 +121,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§2-1731" applicability-path="§5" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§2-1731" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="2|17A" num-value="2-1732" codified:doc="D.C. Code" codified:path="§2-1732"/>
     <num>3</num>
     <heading>Duties of the DSPRC.</heading>
@@ -187,7 +187,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§2-1732" applicability-path="§5" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§2-1732" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="2|17A" num-value="2-1733" codified:doc="D.C. Code" codified:path="§2-1733"/>
     <num>4</num>
     <heading>Report.</heading>

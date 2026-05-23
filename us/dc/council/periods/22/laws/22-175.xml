@@ -25,7 +25,7 @@
   <section codify:doc="D.C. Code">
     <num>2</num>
     <text>The District of Columbia Traffic Adjudication Act of 1978, effective September 12, 1978 (D.C. Law 2-104; D.C. Official Code § 50-2301.01 <em>et seq</em>.), is amended as follows:</text>
-    <para codify:path="§50-2301.05|(a)|(2)|(A)">
+    <para codify:path="§50-2301.05|(a)|(2)|(A)" codify:applicability="notfunded">
       <num>(a)</num>
       <text>Section 105(a)(2)(A) (D.C. Official Code § 50-2301.05(a)(2)(A)) is amended by striking the phrase "sections 205(d)(1) and 305(d)(1)" and inserting the phrase "section 205(d) or section 305(d)(1)" in its place.</text>
       <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2301.05|(a)|(2)|(A)">
@@ -42,7 +42,7 @@
         <text>Subsection (c) is repealed.</text>
         <codify:repeal codified:doc="D.C. Code" codified:path="§50-2302.04|(c)"/>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(2)</num>
         <text>A new subsection (c-1) is added to read as follows:</text>
         <include>
@@ -82,7 +82,7 @@
     <para codify:path="§50-2302.05">
       <num>(c)</num>
       <text>Section 205 (D.C. Official Code § 50-2302.05) is amended as follows:</text>
-      <para codify:path="(d)">
+      <para codify:path="(d)" codify:applicability="notfunded">
         <num>(1)</num>
         <text>Subsection (d) is amended to read as follows:</text>
         <include>
@@ -104,7 +104,7 @@
       <para codify:path="(e)">
         <num>(2)</num>
         <text>Subsection (e) is amended as follows:</text>
-        <para>
+        <para codify:applicability="notfunded">
           <num>(A)</num>
           <text>Strike the phrase "If a person" and insert the phrase "Except for notices of infraction that were detected by an automated traffic enforcement system pursuant to section 901 of the Fiscal Year 1997 Budget Support Act of 1996, effective April 9, 1997 (D.C. Law 11-198; D.C. Official Code § 50-2209.01), if a person" in its place.</text>
           <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2302.05|(e)">
@@ -121,7 +121,7 @@
           </codify:find-replace>
         </para>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(3)</num>
         <text>A new subsection (e-1) is added to read as follows:</text>
         <include>
@@ -144,7 +144,7 @@
             <replace>.</replace>
           </codify:find-replace>
         </para>
-        <para>
+        <para codify:applicability="notfunded">
           <num>(B)</num>
           <text>Strike the phrase "For holders" and insert the phrase "For a notice of infraction that was detected by an automated traffic enforcement system pursuant to section 901 of the Fiscal Year 1997 Budget Support Act of 1996, effective April 9, 1997 (D.C. Law 11-198; D.C. Official Code § 50-2209.01), in addition to the notice required by the preceding sentence, if the notice of infraction remains unanswered, not more than 100 days after the date the notice is issued, the Director shall send by regular mail addressed to the person's address on the Department of Motor Vehicle's records notice of the outstanding notice of infraction and the effective date of the deemed admission. For holders" in its place.</text>
           <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2302.05|(f)">
@@ -238,7 +238,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <para codify:path="§50-2303.04|(c)">
+    <para codify:path="§50-2303.04|(c)" codify:applicability="notfunded">
       <num>(f)</num>
       <text>Section 304(c) (D.C. Official Code § 50-2303.04(c)) is amended as follows:</text>
       <para>
@@ -292,7 +292,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§50-2303.05" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§50-2303.05" codified:display="Note"/>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(h)</num>
       <text>A new section 309 is added to read as follows:</text>
       <include>

@@ -2856,7 +2856,7 @@
       </para>
     </para>
   </section>
-  <section codify:doc="D.C. Code" codify:path="§7-731.01|(a)">
+  <section codify:doc="D.C. Code" codify:path="§7-731.01|(a)" codify:applicability="notfunded">
     <num>4</num>
     <text>Section 4902a(a) of the Department of Health Functions Clarification Act of 2001, effective April 11, 2019 (D.C. Law 22-291; D.C. Official Code § 7-731.01(a)), is amended by adding a new paragraph (4) to read as follows:</text>
     <include lvl="1">
@@ -2882,7 +2882,7 @@
     <para>
       <num>(a)</num>
       <text>Strike the acronym "ABRA" wherever it appears and insert the acronym "ABCA" in its place.</text>
-      <codify:find-replace codified:doc="D.C. Code" codified:path="§25-101">
+      <codify:find-replace codified:doc="D.C. Code" codified:path="§25-101|annos">
         <find>ABRA</find>
         <replace>ABCA</replace>
       </codify:find-replace>
@@ -2890,7 +2890,7 @@
     <para>
       <num>(b)</num>
       <text>Strike the phrase "Alcoholic Beverage Regulation Administration" wherever it appears and insert the phrase "Alcoholic Beverage and Cannabis Administration" in its place.</text>
-      <codify:find-replace codified:doc="D.C. Code" codified:path="§25-101">
+      <codify:find-replace codified:doc="D.C. Code" codified:path="§25-101|annos">
         <find>Alcoholic Beverage Regulation Administration</find>
         <replace>Alcoholic Beverage and Cannabis Administration</replace>
       </codify:find-replace>
@@ -2898,7 +2898,7 @@
     <para>
       <num>(c)</num>
       <text>Strike the phrase "Alcoholic Beverage Control Board" wherever it appears and insert the phrase "Alcoholic Beverage and Cannabis Board" in its place.</text>
-      <codify:find-replace codified:doc="D.C. Code" codified:path="§25-101">
+      <codify:find-replace codified:doc="D.C. Code" codified:path="§25-101|annos">
         <find>Alcoholic Beverage Control Board</find>
         <replace>Alcoholic Beverage and Cannabis Board</replace>
       </codify:find-replace>
@@ -2943,7 +2943,7 @@
     <para codify:path="36|6">
       <num>(a)</num>
       <text>Strike the acronym "ABRA" wherever it appears and insert the acronym "ABCA" in its place.</text>
-      <codify:find-replace codified:doc="D.C. Code" codified:path="§36-601.01">
+      <codify:find-replace codified:doc="D.C. Code" codified:path="§36-601.01|annos">
         <find>ABRA</find>
         <replace>ABCA</replace>
       </codify:find-replace>
@@ -2977,7 +2977,7 @@
       </para>
     </para>
   </section>
-  <section codify:doc="D.C. Code">
+  <section codify:doc="D.C. Code" codify:applicability="notfunded">
     <num>7</num>
     <text>Title 47 of the District of Columbia Official Code is amended as follows:</text>
     <para codify:path="§47-1801.04">

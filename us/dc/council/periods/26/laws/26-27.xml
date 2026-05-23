@@ -29,7 +29,7 @@
       <heading>Farmers Markets.</heading>
     </container>
   </codify:insert>
-  <section>
+  <section codify:applicability="notfunded">
     <num>2</num>
     <text>The Department of Health Functions Clarification Act of 2001, effective October 3, 2001 (D.C. Law 14-28; D.C. Official Code § 7-731 <em>et seq</em>.), is amended by adding a new subtitle C-ii to read as follows:</text>
     <include>
@@ -211,7 +211,7 @@
     <aftertext>.</aftertext>
     <codify:not-funded-anno doc="D.C. Law 26-27" path="§2" applicability-path="§5" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-742.21" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <num>3</num>
     <text>The Vending Regulation Act of 2009, effective October 22, 2009 (D.C. Law 18-71; D.C. Official Code § 37-131.01 <em>et seq.</em>), is amended as follows:</text>
     <para codify:path="§37-131.01|(a)">
@@ -378,7 +378,7 @@
   <section>
     <num>4</num>
     <heading proof="needed">Conforming Amendments.</heading>
-    <para codify:path="§2-1212.01|(3)">
+    <para codify:path="§2-1212.01|(3)" codify:applicability="notfunded">
       <num>(a)</num>
       <text>Section 101(3) of the Food, Environmental, and Economic Development in the District of Columbia Act of 2010, effective April 8, 2011 (D.C. Law 18-353; D.C. Official Code § 2-1212.01(3)), is amended to read as follows:</text>
       <include lvl="1">
@@ -395,7 +395,7 @@
     <para>
       <num>(b)</num>
       <text>The Food Policy Council and Director Establishment Act of 2014, effective March 10, 2015 (D.C. Official Code § 48-311 <em>et seq.</em>), is amended as follows:</text>
-      <para codify:path="§48-311">
+      <para codify:path="§48-311" codify:applicability="notfunded">
         <num>(1)</num>
         <text>Section 2 (D.C. Official Code § 48-311) is amended as follows:</text>
         <para>
@@ -417,7 +417,7 @@
         </para>
         <codify:annotation history="false" path="§48-311" type="Editor's Notes" codified:doc="D.C. Code" codified:path="§48-311"><cite doc="D.C. Law 26-55" path="§7198">Section 7198 of D.C. Law 26-55</cite> repealed <cite doc="D.C. Law 26-27" path="§5">section 5 of D.C. Law 26-27</cite>, thus removing the applicability limitation. Therefore the amendments made to this section by D.C. Law 26-27 have been implemented.</codify:annotation>
       </para>
-      <para codify:path="§48-312">
+      <para codify:path="§48-312" codify:applicability="notfunded">
         <num>(2)</num>
         <text>Section 3 (D.C. Official Code § 48-312) is amended by striking the term "food deserts" both times it appears and insert the phrase "low food access areas" in its place.</text>
         <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§48-312">

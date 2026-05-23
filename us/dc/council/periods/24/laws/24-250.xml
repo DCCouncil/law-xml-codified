@@ -29,7 +29,7 @@
     </container>
   </codify:insert>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Period Equity Righting an Injustice of District Residents (PERIOD) Act of 2022".</text>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="10|10C" num-value="10-1071" codified:doc="D.C. Code" codified:path="§10-1071"/>
     <num>2</num>
     <heading proof="needed">Definitions.</heading>
@@ -63,7 +63,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§10-1071" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§10-1071" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="10|10C" num-value="10-1072" codified:doc="D.C. Code" codified:path="§10-1072"/>
     <num>3</num>
     <heading proof="needed">Provision of period products.</heading>

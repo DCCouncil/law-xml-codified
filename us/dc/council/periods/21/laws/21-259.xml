@@ -28,7 +28,7 @@
       <heading>Fair Criminal Record Screening for Housing.</heading>
     </container>
   </codify:insert>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.01" codified:doc="D.C. Code" codified:path="§42-3541.01"/>
     <num>2</num>
     <heading>Definitions.</heading>
@@ -82,7 +82,7 @@
     </para>
     <codify:not-funded-anno applicability-path="§11" action="creation of" codified:doc="D.C. Code" codified:path="§42-3541.01" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.02" codified:doc="D.C. Code" codified:path="§42-3541.02"/>
     <num>3</num>
     <heading>Inquiries into certain arrests, accusations, and convictions.</heading>
@@ -371,7 +371,7 @@
     </para>
     <codify:not-funded-anno applicability-path="§11" action="creation of" codified:doc="D.C. Code" codified:path="§42-3541.02" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.03" codified:doc="D.C. Code" codified:path="§42-3541.03"/>
     <num>4</num>
     <heading>Exclusions.</heading>
@@ -393,7 +393,7 @@
     </para>
     <codify:not-funded-anno applicability-path="§11" action="creation of" codified:doc="D.C. Code" codified:path="§42-3541.03" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.04" codified:doc="D.C. Code" codified:path="§42-3541.04"/>
     <num>5</num>
     <heading>Filing a complaint with the Office of Human Rights; exclusive remedy.</heading>
@@ -407,7 +407,7 @@
     </para>
     <codify:not-funded-anno applicability-path="§11" action="creation of" codified:doc="D.C. Code" codified:path="§42-3541.04" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.05" codified:doc="D.C. Code" codified:path="§42-3541.05"/>
     <num>6</num>
     <heading>Penalties.</heading>
@@ -448,7 +448,7 @@
       Regarding subsection (c) of this section, this chapter was made applicable by section 7031 of the Fiscal Year 2018 Budget Support Emergency Act of 2017, effective July 20, 2017 (D.C. Act 22-104; 64 DCR 7032).
     </codify:annotation>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.06" codified:doc="D.C. Code" codified:path="§42-3541.06"/>
     <num>7</num>
     <heading>Reporting requirements.</heading>
@@ -475,7 +475,7 @@
     </para>
     <codify:not-funded-anno applicability-path="§11" action="creation of" codified:doc="D.C. Code" codified:path="§42-3541.06" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.07" codified:doc="D.C. Code" codified:path="§42-3541.07"/>
     <num>8</num>
     <heading>Public education requirements.</heading>
@@ -515,14 +515,14 @@
       Regarding subsection (a) of this section, this chapter was made applicable by section 7031 of the Fiscal Year 2018 Budget Support Emergency Act of 2017, effective July 20, 2017 (D.C. Act 22-104; 64 DCR 7032).
     </codify:annotation>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.08" codified:doc="D.C. Code" codified:path="§42-3541.08"/>
     <num>9</num>
     <heading>Immunity.</heading>
     <text>A housing provider shall have immunity from any claims related to actual or constructive knowledge of an applicant's pending criminal accusation or criminal conviction obtained as a result of an inquiry under <code-cite doc="D.C. Code" path="|42|35B">this act</code-cite>; provided, that the applicant became a tenant or occupant of the housing provider's housing accommodation.</text>
     <codify:not-funded-anno applicability-path="§11" action="creation of" codified:doc="D.C. Code" codified:path="§42-3541.08" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.09" codified:doc="D.C. Code" codified:path="§42-3541.09"/>
     <num>10</num>
     <heading>Rules.</heading>

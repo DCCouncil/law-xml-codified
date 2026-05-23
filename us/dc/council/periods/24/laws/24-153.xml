@@ -29,7 +29,7 @@
       <heading>Medical Necessity Restroom Access.</heading>
     </container>
   </codify:insert>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|21C" num-value="7-2141" codified:doc="D.C. Code" codified:path="§7-2141"/>
     <num>2</num>
     <heading>Definitions.</heading>
@@ -67,7 +67,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§7-2141" applicability-path="§8" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-2141" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|21C" num-value="7-2142" codified:doc="D.C. Code" codified:path="§7-2142"/>
     <num>3</num>
     <heading>Toilet facility access.</heading>
@@ -104,7 +104,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§7-2142" applicability-path="§8" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-2142" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|21C" num-value="7-2143" codified:doc="D.C. Code" codified:path="§7-2143"/>
     <num>4</num>
     <heading>Medical necessity restroom access notice.</heading>
@@ -126,7 +126,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§7-2143" applicability-path="§8" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-2143" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|21C" num-value="7-2144" codified:doc="D.C. Code" codified:path="§7-2144"/>
     <num>5</num>
     <heading>Medical Necessity Restroom Access Card.</heading>
@@ -180,7 +180,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§7-2144" applicability-path="§8" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-2144" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|21C" num-value="7-2145" codified:doc="D.C. Code" codified:path="§7-2145"/>
     <num>6</num>
     <heading>Proof of an eligible medical condition.</heading>
@@ -195,7 +195,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§7-2145" applicability-path="§8" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-2145" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|21C" num-value="7-2146" codified:doc="D.C. Code" codified:path="§7-2146"/>
     <num>7</num>
     <heading>Liability, penalties, and enforcement.</heading>

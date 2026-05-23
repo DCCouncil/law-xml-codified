@@ -24,7 +24,7 @@
   <section codify:doc="D.C. Code" codify:path="§47-1071">
     <num>2</num>
     <text>Chapter 10 of Title 47 of the District of Columbia Official Code is amended as follows:</text>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(a)</num>
       <text>The table of contents designation for section 47-1071 is amended to read as follows:</text>
       <include>
@@ -40,7 +40,7 @@
     <para>
       <num>(b)</num>
       <text>Section 47-1071 is amended as follows:</text>
-      <para codify:path="heading">
+      <para codify:path="heading" codify:applicability="notfunded">
         <num>(1)</num>
         <text>The heading is amended to read as follows:</text>
         <include>
@@ -61,11 +61,11 @@
         <text>The existing text is designated as subsection (a).</text>
         <codify:redesignate-para num-value="(a)" codified:doc="D.C. Code" codified:path="§47-1071"/>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(3)</num>
         <text>The newly designated subsection (a) is amended by striking the phrase §§ 47-1007 and 47-1009." and inserting the phrase "§§ 47-1005, 47-1007, and 47-1009." in its place.</text>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(4)</num>
         <text>New subsections (b) and (c) are added to read as follows:</text>
         <include>

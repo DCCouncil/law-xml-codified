@@ -29,7 +29,7 @@
     </container>
   </codify:insert>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Ivory and Horn Trafficking Prohibition Act of 2020".</text>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="22|18B" num-value="22-1861" codified:doc="D.C. Code" codified:path="§22-1861"/>
     <num>2</num>
     <heading>Definitions.</heading>
@@ -67,7 +67,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§22-1861" applicability-path="§6" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§22-1861" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="22|18B" num-value="22-1862" codified:doc="D.C. Code" codified:path="§22-1862"/>
     <num>3</num>
     <heading>Unlawful distribution of a prohibited animal product.</heading>
@@ -129,7 +129,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§22-1862" applicability-path="§6" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§22-1862" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="22|18B" num-value="22-1863" codified:doc="D.C. Code" codified:path="§22-1863"/>
     <num>4</num>
     <heading>Penalties.</heading>
@@ -163,7 +163,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§22-1863" applicability-path="§6" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§22-1863" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="22|18B" num-value="22-1864" codified:doc="D.C. Code" codified:path="§22-1864"/>
     <num>5</num>
     <heading>Rules.</heading>

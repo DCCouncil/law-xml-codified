@@ -54,7 +54,7 @@
     <prefix>TITLE</prefix>
     <num>I</num>
     <heading>COMMISSION ON REPARATIONS.</heading>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert path="3|14D|I" num-value="3-1461" codified:doc="D.C. Code" codified:path="§3-1461"/>
       <num>101</num>
       <heading proof="needed">Commission on Reparations; establishment and purpose.</heading>
@@ -112,7 +112,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§3-1461" applicability-path="§401" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§3-1461" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert path="3|14D|I" after="§3-1461" num-value="3-1462" codified:doc="D.C. Code" codified:path="§3-1462"/>
       <num>102</num>
       <heading proof="needed">Duties and responsibilities.</heading>
@@ -214,7 +214,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§3-1462" applicability-path="§401" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§3-1462" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert path="3|14D|I" after="§3-1462" num-value="3-1463" codified:doc="D.C. Code" codified:path="§3-1463"/>
       <num>103</num>
       <heading proof="needed">Reporting requirement.</heading>
@@ -239,7 +239,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§3-1463" applicability-path="§401" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§3-1463" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert path="3|14D|I" after="§3-1463" num-value="3-1464" codified:doc="D.C. Code" codified:path="§3-1464"/>
       <num>104</num>
       <heading proof="needed">Composition.</heading>
@@ -318,7 +318,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§3-1464" applicability-path="§401" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§3-1464" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert path="3|14D|I" after="§3-1464" num-value="3-1465" codified:doc="D.C. Code" codified:path="§3-1465"/>
       <num>105</num>
       <heading proof="needed">Organization; compensation; authority.</heading>
@@ -435,7 +435,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§3-1465" applicability-path="§401" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§3-1465" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert path="3|14D|I" after="§3-1465" num-value="3-1466" codified:doc="D.C. Code" codified:path="§3-1466"/>
       <num>106</num>
       <heading proof="needed">Meetings; quorum; sunset.</heading>
@@ -468,7 +468,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§3-1466" applicability-path="§401" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§3-1466" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert path="3|14D|I" after="§3-1466" num-value="3-1467" codified:doc="D.C. Code" codified:path="§3-1467"/>
       <num>107</num>
       <heading proof="needed">Reparations; payments and other forms of redress.</heading>
@@ -480,7 +480,7 @@
     <prefix>TITLE</prefix>
     <num>II</num>
     <heading>REPARATIONS FUND.</heading>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert path="3|14D|II" num-value="3-1471" codified:doc="D.C. Code" codified:path="§3-1471"/>
       <num>201</num>
       <heading proof="needed">Establishment of Reparations Fund.</heading>

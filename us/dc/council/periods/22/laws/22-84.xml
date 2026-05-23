@@ -101,7 +101,7 @@
   <section>
     <num>4</num>
     <text>The Washington Metropolitan Area Transit Authority Safety Regulation Act of 1997, effective September 23, 1997 (D.C. Law 12-20; D.C. Official Code § 9-1109.01 <em>et seq.</em>), is repealed.</text>
-    <codify:repeal doc="D.C. Code" path="9|11|V" codified:doc="D.C. Code" codified:path="§9-1109.01"/>
+    <codify:repeal doc="D.C. Code" path="9|11|V" codified:doc="D.C. Code" codified:path="§9-1109.01|annos"/>
     <codify:find-replace doc="D.C. Code" path="9|11|V|heading" count="1" codified:doc="D.C. Code" codified:path="9|11|V">
       <find>Regulation.</find>
       <replace>Regulation. [Repealed]</replace>

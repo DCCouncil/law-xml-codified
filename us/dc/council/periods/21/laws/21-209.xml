@@ -284,7 +284,7 @@
           <text>The newly designated paragraph (1)(B) is amended by striking the phrase "section 6" and inserting the phrase "section 6; or" in its place.</text>
         </para>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(3)</num>
         <text>A new paragraph (2) is added to read as follows:</text>
         <include>
@@ -503,7 +503,7 @@
         <para codify:path="(B)">
           <num>(B)</num>
           <text>Subparagraph (B) is amended as follows:</text>
-          <para codify:path="(i)">
+          <para codify:path="(i)" codify:applicability="pending">
             <num>(i)</num>
             <text>Sub-subparagraph (i) is repealed.</text>
             <codify:repeal codified:doc="D.C. Code" codified:path="§7-1671.05"/>
@@ -572,7 +572,7 @@
         <para codify:path="(A)">
           <num>(B)</num>
           <text>Subparagraph (A) is amended as follows:</text>
-          <para codify:path="text">
+          <para codify:path="text" codify:applicability="pending">
             <num>(i)</num>
             <text>The lead-in language is amended by striking the phrase "and current records" and inserting the phrase "and real-time electronic records" in its place.</text>
             <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.05">

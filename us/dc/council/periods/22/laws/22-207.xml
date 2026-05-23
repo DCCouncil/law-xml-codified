@@ -126,7 +126,7 @@
       <heading>Access to Treatment for Anaphylaxis.</heading>
     </container>
   </codify:insert>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|23D|II" num-value="7-2381.01" codified:doc="D.C. Code" codified:path="§7-2381.01"/>
     <num>2</num>
     <heading>Definitions.</heading>
@@ -160,7 +160,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§7-2381.01" applicability-path="§10" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-2381.01" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|23D|II" num-value="7-2381.02" codified:doc="D.C. Code" codified:path="§7-2381.02"/>
     <num>3</num>
     <heading>Epinephrine prescriptions.</heading>
@@ -174,7 +174,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§7-2381.02" applicability-path="§10" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-2381.02" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|23D|II" num-value="7-2381.03" codified:doc="D.C. Code" codified:path="§7-2381.03"/>
     <num>4</num>
     <heading>Authorized use.</heading>
@@ -196,7 +196,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§7-2381.03" applicability-path="§10" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-2381.03" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|23D|II" num-value="7-2381.04" codified:doc="D.C. Code" codified:path="§7-2381.04"/>
     <num>5</num>
     <heading>Training required.</heading>
@@ -234,7 +234,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§7-2381.04" applicability-path="§10" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-2381.04" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|23D|II" num-value="7-2381.05" codified:doc="D.C. Code" codified:path="§7-2381.05"/>
     <num>6</num>
     <heading>Storing and maintaining epinephrine.</heading>
@@ -260,7 +260,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§7-2381.05" applicability-path="§10" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-2381.05" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|23D|II" num-value="7-2381.06" codified:doc="D.C. Code" codified:path="§7-2381.06"/>
     <num>7</num>
     <heading>Limitations on liability.</heading>
@@ -294,7 +294,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§7-2381.06" applicability-path="§10" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-2381.06" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|23D|II" num-value="7-2381.07" codified:doc="D.C. Code" codified:path="§7-2381.07"/>
     <num>8</num>
     <heading>Incident reports.</heading>
@@ -308,7 +308,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§7-2381.07" applicability-path="§10" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-2381.07" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|23D|II" num-value="7-2381.08" codified:doc="D.C. Code" codified:path="§7-2381.08"/>
     <num>9</num>
     <heading>Rules.</heading>

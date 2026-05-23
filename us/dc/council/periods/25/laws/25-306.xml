@@ -33,7 +33,7 @@
     <prefix>TITLE</prefix>
     <num>I</num>
     <heading>YOUTH MENTORSHIP AND FAMILY ENGAGEMENT.</heading>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert path="I-D" num-value="2-1518.01" codified:doc="D.C. Code" codified:path="§2-1518.01"/>
       <num>101</num>
       <heading proof="needed">Definitions.</heading>
@@ -71,7 +71,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 25-306" path="§101" applicability-path="§301" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§2-1518.01" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert path="I-D" after="§2-1518.01" num-value="2-1518.02" codified:doc="D.C. Code" codified:path="§2-1518.02"/>
       <num>102</num>
       <heading proof="needed">Establishment of the Thrive Mentorship Program.</heading>
@@ -121,7 +121,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 25-306" path="§102" applicability-path="§301" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§2-1518.02" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert path="I-D" after="§2-1518.02" num-value="2-1518.03" codified:doc="D.C. Code" codified:path="§2-1518.03"/>
       <num>103</num>
       <heading proof="needed">Services provided by a professional mentor.</heading>
@@ -147,7 +147,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 25-306" path="§103" applicability-path="§301" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§2-1518.03" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert path="I-D" after="§2-1518.03" num-value="2-1518.04" codified:doc="D.C. Code" codified:path="§2-1518.04"/>
       <num>104</num>
       <heading proof="needed">Mentorship requirements.</heading>
@@ -197,7 +197,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 25-306" path="§104" applicability-path="§301" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§2-1518.04" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert path="I-D" after="§2-1518.04" num-value="2-1518.05" codified:doc="D.C. Code" codified:path="§2-1518.05"/>
       <num>105</num>
       <heading proof="needed">Reporting Requirements.</heading>
@@ -256,7 +256,7 @@
     <prefix>TITLE</prefix>
     <num>II</num>
     <heading>COMMUNITY SERVICE LEAVE FOR DISTRICT GOVERNMENT EMPLOYEES.</heading>
-    <section codify:path="§1-612.03">
+    <section codify:path="§1-612.03" codify:applicability="notfunded">
       <num>201</num>
       <text>Section 1203 of the District of Columbia Government Comprehensive Merit Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-612.03), is amended by adding a new subsection (s) to read as follows:</text>
       <include>

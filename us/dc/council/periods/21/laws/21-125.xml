@@ -34,7 +34,7 @@
       <prefix>Subtitle</prefix>
       <num>A</num>
       <heading>ESTABLISHMENT OF THE OFFICE OF NEIGHBORHOOD SAFETY AND ENGAGEMENT</heading>
-      <section>
+      <section codify:applicability="notfunded">
         <codify:organic num-value="7-2411" codified:doc="D.C. Code" codified:path="§7-2411"/>
         <num>101</num>
         <heading>Office of Neighborhood Safety and Engagement establishment; appointment of Executive Director.</heading>
@@ -48,7 +48,7 @@
         </para>
         <codify:not-funded-anno applicability-path="§901" codified:doc="D.C. Code" codified:path="§7-2411" codified:display="Note"/>
       </section>
-      <section>
+      <section codify:applicability="notfunded">
         <codify:organic num-value="7-2412" codified:doc="D.C. Code" codified:path="§7-2412"/>
         <num>102</num>
         <heading>Duties of the Executive Director.</heading>
@@ -142,7 +142,7 @@
         </para>
         <codify:not-funded-anno applicability-path="§901" codified:doc="D.C. Code" codified:path="§7-2412" codified:display="Note"/>
       </section>
-      <section>
+      <section codify:applicability="notfunded">
         <codify:organic num-value="7-2413" codified:doc="D.C. Code" codified:path="§7-2413"/>
         <num codify:value="7-2413">103</num>
         <heading>Neighborhood Safety and Engagement Fund.</heading>
@@ -220,7 +220,7 @@
             <num>(2)</num>
             <text>Conduct a public information campaign concerning the impact of violence, strategies for violence cessation, and the use of alternative dispute resolution techniques; and</text>
           </para>
-          <para>
+          <para codify:applicability="notfunded">
             <num>(3)</num>
             <text>Assist the Office of Victim Services and Justice Grants in developing a program to ensure the presence of specially trained staff, tasked with providing counseling, mental health treatment, mediation and dispute resolution services, and trauma-informed care to apparent victims of violence and their families, in each hospital emergency department in the District; provided, that the program shall ensure that at least one specially trained staff member providing the services identified in this paragraph be available at each emergency department whenever the emergency department is accepting patients.</text>
           </para>
@@ -244,7 +244,7 @@
       <prefix>Subtitle</prefix>
       <num>C</num>
       <heading> COMMUNITY CRIME PREVENTION TEAM PROGRAM</heading>
-      <section>
+      <section codify:applicability="notfunded">
         <codify:organic num-value="5-132.31" codified:doc="D.C. Code" codified:path="§5-132.31"/>
         <num>105</num>
         <heading>Community Crime Prevention Team Program.</heading>
@@ -293,7 +293,7 @@
       <prefix>Subtitle</prefix>
       <num>A</num>
       <heading>COMMUNITY POLICING WORKING GROUP</heading>
-      <section>
+      <section codify:applicability="notfunded">
         <codify:organic num-value="5-132.32" codified:doc="D.C. Code" codified:path="§5-132.32"/>
         <num>201</num>
         <heading>Metropolitan Police Department community policing working group.</heading>
@@ -316,14 +316,14 @@
       <prefix>Subtitle</prefix>
       <num>B</num>
       <heading>REESTABLISHMENT OF THE COMPREHENSIVE HOMICIDE ELIMINATION STRATEGY TASK FORCE</heading>
-      <section codify:instruction="Restore § 22-4251">
+      <section codify:instruction="Restore § 22-4251" codify:applicability="notfunded">
         <num>202</num>
         <text>Section 260 of the New Columbia Statehood Initiative and Omnibus Boards and Commissions Reform Amendment Act of 2014, effective May 2, 2015 (D.C. Law 20-271; 62 DCR 1884), is repealed.</text>
         <codify:not-funded-anno applicability-path="§901" doc="D.C. Law 16-262" path="§501" codified:doc="D.C. Code" codified:path="§22-4251" codified:display="Note"/>
         <codify:annotation doc="D.C. Code" path="§22-4251" type="Effect of Amendments" history="false" codified:doc="D.C. Code" codified:path="§22-4251"><cite doc="D.C. Law 21-125" path="§202">Sections 202 and 203 of D.C. Law 21-125</cite> restored this section (repealed by <cite doc="D.C. Law 20-271" path="§260">section 260 of D.C. Law 20-271</cite>) and amended this section.
         </codify:annotation>
       </section>
-      <section codify:doc="D.C. Law 16-262" codify:path="§501">
+      <section codify:doc="D.C. Law 16-262" codify:path="§501" codify:applicability="notfunded">
         <num>203</num>
         <text>Section 501 of the Homeland Security, Risk Reduction, and Preparedness Amendment Act of 2006, effective March 14, 2007 (D.C. Law 16-262; D.C. Official Code § 22-4251), is revived and is amended to read as follows:</text>
         <include>
@@ -412,7 +412,7 @@
       <prefix>Subtitle</prefix>
       <num>C</num>
       <heading>POLICE-COMMUNITY RELATIONS SURVEY</heading>
-      <section codify:doc="D.C. Law 14-28" codify:path="§1505">
+      <section codify:doc="D.C. Law 14-28" codify:path="§1505" codify:applicability="notfunded">
         <num>204</num>
         <text>Section 1501 of the Criminal Justice Coordinating Council for the District of Columbia Establishment Act of 2001, effective October 3, 2001 (D.C. Law 14-28; D.C. Official Code § 22-4234), is amended by adding a new subsection (b-1) to read as follows:</text>
         <include>
@@ -714,7 +714,7 @@
       <prefix>Subtitle</prefix>
       <num>G</num>
       <heading>IMPROVING STOP AND FRISK AND USE OF FORCE DATA COLLECTION</heading>
-      <section codify:doc="R.S., D.C." codify:path="§386">
+      <section codify:doc="R.S., D.C." codify:path="§386" codify:applicability="notfunded">
         <num>209</num>
         <text>Section 386 of the Revised Statutes of the District of Columbia (D.C. Official Code § 5-113.01), is amended as follows:</text>
         <para>
@@ -839,7 +839,7 @@
       <prefix>Subtitle</prefix>
       <num>H</num>
       <heading>CRIME DATA COLLECTION</heading>
-      <section codify:doc="D.C. Law 19-21" codify:path="§3022|(c)">
+      <section codify:doc="D.C. Law 19-21" codify:path="§3022|(c)" codify:applicability="notfunded">
         <num>210</num>
         <text>Section 3022(c) of the Office of the Deputy Mayor for Public Safety and Justice Establishment Act of 2011, effective September 14, 2011 (D.C. Law 19-21; D.C. Official Code § 1-301.191(c)), is amended as follows:</text>
         <para>
@@ -1080,7 +1080,7 @@
         </para>
       </section>
     </container>
-    <codify:create-sub-container doc="D.C. Code" path="7|28" num-value="I" prefix-value="Subchapter" heading-value="General" history="false" codified:doc="D.C. Code" codified:path="§7-2801"/>
+    <codify:create-sub-container doc="D.C. Code" path="7|28" num-value="I" prefix-value="Subchapter" heading-value="General" history="false" codified:doc="D.C. Code" codified:path="§7-2801|annos"/>
     <container codify:doc="D.C. Code">
       <codify:organic path="7|28" num-value="II" prefix-value="Subchapter" heading-value="Private Security Camera System Incentive Program." history="false" codified:doc="D.C. Code" codified:path="7|28|II"/>
       <prefix>Subtitle</prefix>

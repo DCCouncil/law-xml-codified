@@ -25,7 +25,7 @@
   <section>
     <num>2</num>
     <text>The Human Rights Act of 1977, effective December 13, 1977 (D.C. Law 2-38; D.C. Official Code § 2-1401.01 <em>et seq.</em>), is amended as follows:</text>
-    <para codify:path="§2-1402.11|(c-2)|(2)|(B)|(i)">
+    <para codify:path="§2-1402.11|(c-2)|(2)|(B)|(i)" codify:applicability="notfunded">
       <num>(a)</num>
       <text>Section 211(c-2)(2)(B)(i) (D.C. Official Code § 2-1402.11(c-2)(2)(B)(i)) is amended by striking the phrase "sexual nature" and inserting the phrase "sexual nature or that is based on sex, gender, sexual orientation, or gender identity or expression" in its place.</text>
       <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1402.11|(c-2)|(2)|(B)|(i)">
@@ -34,7 +34,7 @@
       </codify:find-replace>
       <codify:not-funded-anno doc="D.C. Law 25-300" path="§2|(a)" applicability-path="§3" action="amendment to" display-template="" codified:doc="D.C. Code" codified:path="§2-1402.11|(c-2)|(2)|(B)|(i)" codified:display="Note"/>
     </para>
-    <para codify:path="§2-1403.03">
+    <para codify:path="§2-1403.03" codify:applicability="notfunded">
       <num>(b)</num>
       <text>Section 303 (D.C. Official Code § 2-1403.03) is amended as follows:</text>
       <para codify:path="(a)">
@@ -83,7 +83,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 25-300" path="§2|(b)" applicability-path="§3" action="amendment to" display-template="" codified:doc="D.C. Code" codified:path="§2-1403.03|(a)" codified:display="Note"/>
     </para>
-    <para codify:path="§2-1403.04">
+    <para codify:path="§2-1403.04" codify:applicability="notfunded">
       <num>(c)</num>
       <text>Section 304 (D.C. Official Code § 2-1403.04) is amended as follows:</text>
       <para>
@@ -122,7 +122,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 25-300" path="§2|(c)" applicability-path="§3" action="amendment to" display-template="" codified:doc="D.C. Code" codified:path="§2-1403.04" codified:display="Note"/>
     </para>
-    <para codify:path="§2-1403.05">
+    <para codify:path="§2-1403.05" codify:applicability="notfunded">
       <num>(d)</num>
       <text>Section 305 (D.C. Official Code § 2-1403.05) is amended as follows:</text>
       <para codify:path="(a)">
@@ -147,7 +147,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 25-300" path="§2|(d)" applicability-path="§3" action="amendment to" display-template="" codified:doc="D.C. Code" codified:path="§2-1403.05|(a)" codified:display="Note"/>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>[(d-1)]</num>
       <text>A new section 306a is added to read as follows:</text>
       <include>
@@ -177,7 +177,7 @@
       <annotation doc="D.C. Law 2-38" type="History" path="§306a">Dec. 13, 1977, D.C. Law 2-38, title III, § 306a</annotation>
       <codify:not-funded-anno doc="D.C. Law 25-300" path="§2|[(d-1)]" applicability-path="§3" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§2-1403.06a" codified:display="Note"/>
     </para>
-    <para codify:path="§2-1403.13">
+    <para codify:path="§2-1403.13" codify:applicability="notfunded">
       <num>(e)</num>
       <text>Section 313 (D.C. Official Code § 2-1403.13) is amended as follows:</text>
       <para codify:path="(a)">
@@ -242,7 +242,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 25-300" path="§2|(e)" applicability-path="§3" action="amendment to" display-template="" codified:doc="D.C. Code" codified:path="§2-1403.13|(a)|(1)|(E)" codified:display="Note"/>
     </para>
-    <para codify:path="§2-1403.16">
+    <para codify:path="§2-1403.16" codify:applicability="notfunded">
       <num>(f)</num>
       <text>Section 316 (D.C. Official Code § 2-1403.16) is amended to read as follows:</text>
       <include>

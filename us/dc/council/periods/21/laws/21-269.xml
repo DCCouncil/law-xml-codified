@@ -434,7 +434,7 @@
             <text>Subparagraph (A) is repealed</text>
             <codify:repeal codified:doc="D.C. Code" codified:path="§1-309.12|(d)|(3)|(A)"/>
           </para>
-          <para>
+          <para codify:applicability="notfunded">
             <num>(ii)</num>
             <text>New subparagraphs (C-i) and (C-ii) are added to read as follows:</text>
             <include>

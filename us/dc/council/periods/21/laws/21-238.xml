@@ -164,7 +164,7 @@
             <text>The existing text is designated as paragraph (1).</text>
             <codify:redesignate-para num-value="(1)" codified:doc="D.C. Code" codified:path="§16-2313|(d)"/>
           </para>
-          <para>
+          <para codify:applicability="pending">
             <num>(B)</num>
             <text>The newly designated paragraph (1) is amended as follows:</text>
             <para>
@@ -184,7 +184,7 @@
               </codify:find-replace>
             </para>
           </para>
-          <para>
+          <para codify:applicability="notfunded">
             <num>(C)</num>
             <text>New paragraphs (2) and (3) are added to read as follows:</text>
             <include>
@@ -202,7 +202,7 @@
             <aftertext>.</aftertext>
           </para>
         </para>
-        <para codify:path="(e)">
+        <para codify:path="(e)" codify:applicability="pending">
           <num>(4)</num>
           <text>Subsection (e) is repealed.</text>
           <codify:repeal codified:doc="D.C. Code" codified:path="§16-2313|(e)"/>
@@ -425,7 +425,7 @@
         </codify:find-replace>
       </para>
     </section>
-    <section codify:doc="D.C. Code" codify:path="§23-1322|(g)|(2)">
+    <section codify:doc="D.C. Code" codify:path="§23-1322|(g)|(2)" codify:applicability="pending">
       <num>103</num>
       <text>Section 23-1322(g)(2) of the District of Columbia Official Code is amended by striking the phrase "appeal;" and inserting the phrase "appeal; provided, that after October 1, 2018, if the person is younger than 18 years of age, direct that the person be transferred to the custody of the Department of Youth Rehabilitation Services, subject to the federal standards under 28 C.F.R. § 115.14;" in its place.</text>
       <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§23-1322|(g)|(2)">
@@ -629,7 +629,7 @@
           <text>The number of consecutive quarters that the lowest number of unused beds at secure juvenile facilities, as determined in paragraph (2) of this subsection, has exceeded the greatest number of juveniles housed in the Correctional Treatment Facility or the Central Detention Facility, as determined in paragraph (1) of this subsection, if any.</text>
         </para>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(b)</num>
         <text>All juveniles housed at the Correctional Treatment Facility or the Central Detention Facility shall be transferred to available space in secure juvenile facilities within 6 months after a determination that there have been 4 consecutive quarters of excess capacity, as determined under subsection (a)(3) of this section.</text>
       </para>

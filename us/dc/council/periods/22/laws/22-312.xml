@@ -32,7 +32,7 @@
     <para>
       <num>(a)</num>
       <text>Section 3 (D.C. Official Code §§ 22-1716 through 22-1718) is designated as Title I. LOTTERIES AND GAMBLING GENERAL LEGALIZATION.".</text>
-      <codify:find-replace doc="D.C. Code" path="22|17|II" count="1" codified:doc="D.C. Code" codified:path="§22-1716">
+      <codify:find-replace doc="D.C. Code" path="22|17|II" count="1" codified:doc="D.C. Code" codified:path="§22-1716|annos">
         <find>Legalization</find>
         <replace>Lotteries and Gambling General Legalization</replace>
       </codify:find-replace>
@@ -241,7 +241,7 @@
         <replace>.</replace>
       </codify:find-replace>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(c)</num>
       <text>The newly designated Title I is amended as follows:</text>
       <para>
@@ -298,7 +298,7 @@
         <codify:not-funded-anno doc="D.C. Code" path="§22-1718" applicability-path="§5" display-template="" codified:doc="D.C. Code" codified:path="§22-1718" codified:display="Note"/>
       </para>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(d)</num>
       <text>The newly designated Title II is amended as follows:</text>
       <para codify:path="§36-601.01">
@@ -573,7 +573,7 @@
         <codify:not-funded-anno doc="D.C. Code" path="§36-601.19" applicability-path="§5" display-template="" codified:doc="D.C. Code" codified:path="§36-601.19" codified:display="Note"/>
       </para>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <codify:insert path="36|6" after="I" history="false" codified:doc="D.C. Code" codified:path="36|6|II">
         <container>
           <prefix>Subchapter</prefix>
@@ -1650,10 +1650,10 @@
         </container>
       </include>
       <aftertext>.</aftertext>
-      <codify:not-funded-anno doc="D.C. Code" path="36|6|II" applicability-path="§5" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§36-621.01" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Code" path="36|6|II" applicability-path="§5" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§36-621.01|annos" codified:display="Note"/>
     </para>
   </section>
-  <section codify:doc="D.C. Code">
+  <section codify:doc="D.C. Code" codify:applicability="notfunded">
     <num>3</num>
     <heading>Related amendments.</heading>
     <para codify:path="§47-1817.01|(5)|(B)">

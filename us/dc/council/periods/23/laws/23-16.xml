@@ -611,7 +611,7 @@
     <prefix>TITLE</prefix>
     <num>II</num>
     <heading>ECONOMIC DEVELOPMENT AND REGULATION</heading>
-    <codify:create-sub-container path="42|25" num-value="I" prefix-value="Subchapter" heading-value="Government Employer-Assisted Housing Program." history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-2501"/>
+    <codify:create-sub-container path="42|25" num-value="I" prefix-value="Subchapter" heading-value="Government Employer-Assisted Housing Program." history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-2501|annos"/>
     <codify:find-replace path="42|25|heading" count="1" codified:doc="D.C. Code" codified:path="42|25">
       <find>Government Employer-Assisted Housing Program.</find>
       <replace>District Government Employee Housing Assistance.</replace>
@@ -7877,7 +7877,7 @@
         <heading>Short title.</heading>
         <text>This subtitle may be cited as the "Recordation and Transfer Taxes Amendment Act of 2019".</text>
       </section>
-      <section codify:path="§42-1103">
+      <section codify:path="§42-1103" codify:expire="2023-09-30">
         <num>7022</num>
         <text>Section 303 of the District of Columbia Real Estate Deed Recordation Tax Act, approved March 2, 1962 (76 Stat. 12; D.C. Official Code § 42-1103), is amended as follows:</text>
         <para codify:path="(a)">
@@ -7999,7 +7999,7 @@
           <aftertext>.</aftertext>
         </para>
       </section>
-      <section codify:path="§47-903">
+      <section codify:path="§47-903" codify:expire="2023-09-30">
         <num>7023</num>
         <text>Section 47-903 of the District of Columbia Official Code is amended as follows:</text>
         <para codify:path="(a-4)">
@@ -9107,7 +9107,7 @@
         <num>7155</num>
         <text>Section 10 of the Access to Treatment for Anaphylaxis Act of 2018, effective February 22, 2019 (D.C. Law 22-207; 65 DCR 12365), is repealed.</text>
         <codify:repeal doc="D.C. Law 22-207" path="§10" codified:doc="D.C. Code" codified:path="§7-2381.09"/>
-        <codify:annotation doc="D.C. Code" path="7|23D|II" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-2381.01">
+        <codify:annotation doc="D.C. Code" path="7|23D|II" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-2381.01|annos">
         Applicability of <cite doc="D.C. Law 22-207">D.C. Law 22-207</cite>: <cite doc="D.C. Law 23-16" path="§7155">§ 7155 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-207" path="§10">§ 10 of D.C. Law 22-207</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-207">D.C. Law 22-207</cite> has been implemented.
         </codify:annotation>
       </section>
@@ -9124,7 +9124,7 @@
         <codify:annotation doc="D.C. Code" path="§1-608.01" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-608.01">
           Applicability of <cite doc="D.C. Law 22-211">D.C. Law 22-211</cite>: <cite doc="D.C. Law 23-16" path="§7156">§ 7156 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-211" path="§4">§ 4 of D.C. Law 22-211</cite>. Therefore the amendment of this section by <cite doc="D.C. Law 22-211">D.C. Law 22-211</cite> has been implemented.
         </codify:annotation>
-        <codify:annotation doc="D.C. Code" path="1|6|X-C" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-610.81">
+        <codify:annotation doc="D.C. Code" path="1|6|X-C" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-610.81|annos">
           Applicability of <cite doc="D.C. Law 22-211">D.C. Law 22-211</cite>: <cite doc="D.C. Law 23-16" path="§7156">§ 7156 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-211" path="§4">§ 4 of D.C. Law 22-211</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-211">D.C. Law 22-211</cite> has been implemented.
         </codify:annotation>
         <codify:annotation doc="D.C. Code" path="§32-1408" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1408">
@@ -9155,7 +9155,7 @@
         <num>7159</num>
         <text>Section 4 of the Study of Long-Term Care Facilities and Long-Term Care Services Act of 2018, effective March 13, 2019 (D.C. Law 22-238; 66 DCR 594), is repealed.</text>
         <codify:repeal doc="D.C. Law 22-238" path="§4"/>
-        <codify:annotation doc="D.C. Code" path="7|6D" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-681">
+        <codify:annotation doc="D.C. Code" path="7|6D" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-681|annos">
           Applicability of <cite doc="D.C. Law 22-238">D.C. Law 22-238</cite>: <cite doc="D.C. Law 23-16" path="§7159">§ 7159 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-238" path="§4">§ 4 of D.C. Law 22-238</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-238">D.C. Law 22-238</cite> has been implemented.
         </codify:annotation>
       </section>
@@ -9280,7 +9280,7 @@
         <num>7163</num>
         <text>Section 4 of the Women, Infants, and Children Program Expansion Act of 2018, effective March 22, 2019 (D.C. Law 22-255; 66 DCR 1339), is repealed.</text>
         <codify:repeal doc="D.C. Law 22-255" path="§4"/>
-        <codify:annotation doc="D.C. Code" path="2|3B|V" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§2-381.51">
+        <codify:annotation doc="D.C. Code" path="2|3B|V" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§2-381.51|annos">
           Applicability of <cite doc="D.C. Law 22-255">D.C. Law 22-255</cite>: <cite doc="D.C. Law 23-16" path="§7163">§ 7163 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-255" path="§4">§ 4 of D.C. Law 22-255</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-255">D.C. Law 22-255</cite> has been implemented.
         </codify:annotation>
       </section>
@@ -9312,7 +9312,7 @@
         <num>7165</num>
         <text>Section 16 of the Rhode Island Avenue (RIA) Tax Increment Financing Act of 2018, effective March 22, 2019 (D.C. Law 22-263; 66 DCR 1378), is repealed.</text>
         <codify:repeal doc="D.C. Law 22-263" path="§16" codified:doc="D.C. Code" codified:path="§2-1217.39o"/>
-        <codify:annotation doc="D.C. Code" path="2|12|IX|B|9" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§2-1217.39a">
+        <codify:annotation doc="D.C. Code" path="2|12|IX|B|9" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§2-1217.39a|annos">
           Applicability of <cite doc="D.C. Law 22-263">D.C. Law 22-263</cite>: <cite doc="D.C. Law 23-16" path="§7165">§ 7165 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-263" path="§16">§ 16 of D.C. Law 22-263</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-263">D.C. Law 22-263</cite> has been implemented.
         </codify:annotation>
       </section>
@@ -9320,7 +9320,7 @@
         <num>7166</num>
         <text>Section 5 of the Public Restroom Facilities Installation and Promotion Act of 2018, effective April 11, 2019 (D.C. Law 22-280; 66 DCR 1595), is repealed.</text>
         <codify:repeal doc="D.C. Law 22-280" path="§5" codified:doc="D.C. Code" codified:path="§10-1054"/>
-        <codify:annotation doc="D.C. Code" path="10|10B" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§10-1051">
+        <codify:annotation doc="D.C. Code" path="10|10B" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§10-1051|annos">
           Applicability of <cite doc="D.C. Law 22-280">D.C. Law 22-280</cite>: <cite doc="D.C. Law 23-16" path="§7166">§ 7166 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-280" path="§5">§ 5 of D.C. Law 22-280</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-280">D.C. Law 22-280</cite> has been implemented.
         </codify:annotation>
       </section>
@@ -9466,7 +9466,7 @@
         <num>7176</num>
         <text>Section 9 of the Students in the Care of D.C. Coordinating Committee Act of 2018, effective April 11, 2019 (D.C. Law 22-303; 66 DCR 2037), is repealed.</text>
         <codify:repeal doc="D.C. Law 22-303" path="§9"/>
-        <codify:annotation doc="D.C. Code" path="2|15|VIII" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§2-1599.01">
+        <codify:annotation doc="D.C. Code" path="2|15|VIII" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§2-1599.01|annos">
           Applicability of <cite doc="D.C. Law 22-303">D.C. Law 22-303</cite>: <cite doc="D.C. Law 23-16" path="§7176">§ 7176 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-303" path="§9">§ 9 of D.C. Law 22-303</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-303">D.C. Law 22-303</cite> has been implemented.
         </codify:annotation>
         <codify:annotation doc="D.C. Code" path="§1-523.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§1-523.01">
@@ -9616,7 +9616,7 @@
           <replace>credit. [Repealed]</replace>
         </codify:find-replace>
         <codify:repeal doc="D.C. Code" path="§47-1807.13" codified:doc="D.C. Code" codified:path="§47-1807.13"/>
-        <codify:repeal doc="D.C. Code" path="47|18|VII-B" codified:doc="D.C. Code" codified:path="§47-1807.61"/>
+        <codify:repeal doc="D.C. Code" path="47|18|VII-B" codified:doc="D.C. Code" codified:path="§47-1807.61|annos"/>
         <codify:repeal doc="D.C. Code" path="§47-1808.13" codified:doc="D.C. Code" codified:path="§47-1808.13"/>
       </section>
     </container>

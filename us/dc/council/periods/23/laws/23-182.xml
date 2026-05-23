@@ -86,7 +86,7 @@
   <section codify:doc="D.C. Code">
     <num>3</num>
     <text>The Opioid Overdose Treatment and Prevention Omnibus Act of 2018, effective April 11, 2019 (D.C. Law 22-288; D.C. Official Code § 7-3201 <em>et seq.</em>), is amended as follows:</text>
-    <para codify:path="§7-3201|(a)">
+    <para codify:path="§7-3201|(a)" codify:applicability="notfunded">
       <num>(a)</num>
       <text>Section 101 (D.C. Official Code § 7-3201) is amended by adding new paragraphs (9A), (9B), and (9C) to read as follows:</text>
       <include lvl="1">
@@ -133,7 +133,7 @@
       <aftertext>.</aftertext>
       <codify:not-funded-anno doc="D.C. Code" path="§7-3201" applicability-path="§6" display-template="" codified:doc="D.C. Code" codified:path="§7-3201" codified:display="Note"/>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(b)</num>
       <text>A new section 104a is added to read as follows:</text>
       <include>

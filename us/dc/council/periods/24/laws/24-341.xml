@@ -1193,7 +1193,7 @@
           </para>
         </para>
       </para>
-      <para codify:path="§4-561.13|(a)">
+      <para codify:path="§4-561.13|(a)" codify:applicability="notfunded">
         <num>(c)</num>
         <text>Section 213(a) (D.C. Official Code § 4-561.13(a)) is amended as follows:</text>
         <para codify:path="(4)">
@@ -2512,7 +2512,7 @@
     <prefix>TITLE</prefix>
     <num>II</num>
     <heading>OFFICE OF VICTIM SERVICES AND JUSTICE GRANTS</heading>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert doc="D.C. Code" path="4|5|VI" num-value="4-581.01" codified:doc="D.C. Code" codified:path="§4-581.01"/>
       <num>201</num>
       <heading proof="needed">Office of Victim Services and Justice Grants.</heading>
@@ -2649,7 +2649,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§4-581.01" action="creation of" applicability-path="§301" display-template="" codified:doc="D.C. Code" codified:path="§4-581.01" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert doc="D.C. Code" path="4|5|VI" num-value="4-581.02" codified:doc="D.C. Code" codified:path="§4-581.02"/>
       <num>202</num>
       <heading proof="needed">Batterer intervention program.</heading>

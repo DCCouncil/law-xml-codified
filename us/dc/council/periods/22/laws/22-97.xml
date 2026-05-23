@@ -28,7 +28,7 @@
       <heading>Health Care Provider Facility Expansion Program.</heading>
     </container>
   </codify:insert>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|19B" num-value="7-1941.01" codified:doc="D.C. Code" codified:path="§7-1941.01"/>
     <num>2</num>
     <heading>Definitions.</heading>
@@ -58,14 +58,14 @@
     </para>
     <codify:not-funded-anno applicability-path="§8" action="creation of"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|19B" num-value="7-1941.02" codified:doc="D.C. Code" codified:path="§7-1941.02"/>
     <num>3</num>
     <heading>Community Health Care Provider Expansion Program.</heading>
     <text>There is established the Community Health Care Provider Expansion Program to provide grants to a nonprofit community development financial institution for the purpose of making loans to selected health care providers. The loans shall be for the purpose of covering costs associated with the construction, reconstruction, renovation, rehabilitation, refurbishing, expansion, and upgrade of facilities maintained by the health care providers and the purchase of equipment used at the facilities.</text>
     <codify:not-funded-anno applicability-path="§8" action="creation of"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|19B" num-value="7-1941.03" codified:doc="D.C. Code" codified:path="§7-1941.03"/>
     <num>4</num>
     <heading>Community Health Care Facility Expansion Revolving Fund.</heading>
@@ -102,7 +102,7 @@
     </para>
     <codify:not-funded-anno applicability-path="§8" action="creation of"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|19B" num-value="7-1941.04" codified:doc="D.C. Code" codified:path="§7-1941.04"/>
     <num>5</num>
     <heading>Grant administrator.</heading>
@@ -208,14 +208,14 @@
     </para>
     <codify:not-funded-anno applicability-path="§8" action="creation of"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|19B" num-value="7-1941.05" codified:doc="D.C. Code" codified:path="§7-1941.05"/>
     <num>6</num>
     <heading>Health care provider facilities location requirements.</heading>
     <text>A health care provider shall be eligible to receive loans under <code-cite doc="D.C. Code" path="7|19B">this act</code-cite> if the health care provider intends to improve existing facilities operated by the health care provider in Wards 7 or Ward 8 or intends to establish new facilities in Ward 7 or Ward 8.</text>
     <codify:not-funded-anno applicability-path="§8" action="creation of"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|19B" num-value="7-1941.06" codified:doc="D.C. Code" codified:path="§7-1941.06"/>
     <num>7</num>
     <heading>Loan documentation.</heading>

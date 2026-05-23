@@ -615,7 +615,7 @@
       <prefix>SUBTITLE</prefix>
       <num>C</num>
       <heading>OFFICE OF POLICE COMPLAINTS REFORMS</heading>
-      <section>
+      <section codify:applicability="notfunded">
         <num>105</num>
         <text>The Office of Citizen Complaint Review Establishment Act of 1998, effective March 26, 1999 (D.C. Law 12-208; D.C. Official Code § 5-1101 <em>et seq</em>.), is amended as follows:</text>
         <para codify:path="§5-1101">
@@ -2940,7 +2940,7 @@
       <prefix>SUBTITLE</prefix>
       <num>R</num>
       <heading>PREVENTING WHITE SUPREMACY IN POLICING.</heading>
-      <section>
+      <section codify:applicability="notfunded">
         <codify:insert path="5|1|XII-A" num-value="5-123.31" codified:doc="D.C. Code" codified:path="§5-123.31"/>
         <num>125</num>
         <heading proof="needed">Definitions.</heading>
@@ -3601,7 +3601,7 @@
       <prefix>SUBTITLE</prefix>
       <num>X</num>
       <heading>PUBLIC RELEASE OF RECORDS RELATED TO MISCONDUCT AND DISCIPLINE.</heading>
-      <section>
+      <section codify:applicability="notfunded">
         <num>134</num>
         <text>Section 204 of the Freedom of Information Act of 1976, effective March 29, 1977 (D.C. Law 1-96; D.C. Official Code § 2-534), is amended by adding new subsections (d-1) and (d-2) to read as follows:</text>
         <include>
@@ -3690,7 +3690,7 @@
         <aftertext>.</aftertext>
         <codify:not-funded-anno doc="D.C. Code" path="§2-534" applicability-path="§301" display-template="" codified:doc="D.C. Code" codified:path="§2-534" codified:display="Note"/>
       </section>
-      <section>
+      <section codify:applicability="notfunded">
         <num>135</num>
         <text>The Office of Citizen Complaint Review Establishment Act of 1998, effective March 26, 1999 (D.C. Law 12-208; D.C. Official Code § 5-1101 <em>et seq</em>.), is amended by adding new sections 17 and 18 to read as follows:</text>
         <include>
@@ -4003,7 +4003,7 @@
         </include>
         <aftertext>.</aftertext>
       </section>
-      <section>
+      <section codify:applicability="notfunded">
         <num>139</num>
         <text>Section 903(a)(4) of the District of Columbia Government Comprehensive Merit Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-609.03(a)(4)), is amended by striking the phrase "than 4 persons" and inserting the phrase "than 5 persons" in its place.</text>
         <codify:find-replace path="§1-609.03|(a)" count="1" codified:doc="D.C. Code" codified:path="§1-609.03|(a)">

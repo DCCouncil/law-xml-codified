@@ -55,7 +55,7 @@
           <num>(4)</num>
           <text>"Enrollee" means an individual eligible to receive health care benefits by a health insurer pursuant to a health plan or other health insurance coverage.</text>
         </para>
-        <para>
+        <para codify:applicability="notfunded">
           <num>(5)</num>
           <text>"Long-term services and supports" means institutional and home and community-based services provided under the District's Medicaid State Plan or any corresponding waiver thereof, including long-term nursing facility care, intermediate care facility services, State Plan home health and personal care aide services, services covered under the Program for All-Inclusive Care for the Elderly, and home and community-based services authorized under section 1915(c) and (i) of the Social Security Act, approved August 13, 1981 (95 Stat. 809; 42 U.S.C. 1396n(c) and (i)), and section 1115 of the Social Security Act, approved July 25, 1962 (76 Stat. 192; 42 U.S.C. § 1315).</text>
         </para>
@@ -102,11 +102,11 @@
             <num>(B)</num>
             <text>A preferred provider organization or health maintenance organization as those terms are described in <code-cite doc="D.C. Code" path="§1-621.05|(2)">section 2105(2)</code-cite> and <cite doc="D.C. Code" path="§1-621.05|(3)">(3)</cite><span codify:value=""> of the District of Columbia Comprehensive Merit Personnel Act of 1978, effective October 1, 1987 (D.C. Law 8-190; D.C. Official Code § 1-621.05(2) and (3))</span>;</text>
           </para>
-          <para>
+          <para codify:applicability="notfunded">
             <num>(C)</num>
             <text>A health benefits plan provided through Medicaid;</text>
           </para>
-          <para>
+          <para codify:applicability="notfunded">
             <num>(D)</num>
             <text>A health benefits plan provided through DC HealthCare Alliance; or</text>
           </para>
@@ -134,11 +134,11 @@
           <para>
             <num>(A)</num>
             <text>Based solely on the cost of a covered health care service; provided, that:</text>
-            <para>
+            <para codify:applicability="notfunded">
               <num>(i)</num>
               <text>A health benefits plan provided through Medicaid may require prior authorization based on a preferred drug list; and</text>
             </para>
-            <para>
+            <para codify:applicability="notfunded">
               <num>(ii)</num>
               <text>A health benefits plan provided through DC HealthCare Alliance may require prior authorization based on a preferred drug list;</text>
             </para>
@@ -218,7 +218,7 @@
           <num>(1)</num>
           <text>For an urgent health care service, 24 hours;</text>
         </para>
-        <para>
+        <para codify:applicability="notfunded">
           <num>(2)</num>
           <text>For long-term services and supports, 30 days; provided, that the enrollee has been determined to be otherwise eligible for such benefits under Medicaid; and</text>
         </para>
@@ -317,7 +317,7 @@
           <num>(1)</num>
           <text>Approval for a course of treatment, as that term is defined at 2 CFR 422.112(b)(8)(ii)(A), or for a health care service to treat a chronic condition, shall remain valid for as long as medically reasonable and necessary to avoid disruptions in care, in accordance with applicable coverage criteria, the enrollee's medical history, and the treating provider's recommendation.</text>
         </para>
-        <para>
+        <para codify:applicability="notfunded">
           <num>(2)</num>
           <text>The Department of Health Care Finance may require annual reauthorization for long-term services and supports.</text>
         </para>
@@ -532,7 +532,7 @@
           <text>Time between submission of an appeal and the utilization review entity's determination.</text>
         </para>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(c)</num>
         <text>This section shall not apply to information pertaining to long-term services and supports.</text>
       </para>

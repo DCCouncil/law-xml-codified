@@ -266,7 +266,7 @@
       </para>
     </para>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <num>7</num>
     <text>Section 11201a of the National Capital Revitalization and Self-Government Improvement Act of 1997, effective October 2, 2010 (D.C. Law 18-233; D.C. Official Code § 24-101.01), is amended to read as follows:</text>
     <include>
@@ -538,7 +538,7 @@
     <aftertext>.</aftertext>
     <codify:not-funded-anno doc="D.C. Code" path="§24-101.01" applicability-path="§26" display-template="" codified:doc="D.C. Code" codified:path="§24-101.01" codified:display="Note"/>
   </section>
-  <section codify:doc="D.C. Code" codify:path="§1-604.06|(b)">
+  <section codify:doc="D.C. Code" codify:path="§1-604.06|(b)" codify:applicability="notfunded">
     <num>8</num>
     <text>Section 406(b) of the District of Columbia Government Comprehensive Merit Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-604.06(b)), is amended as follows:</text>
     <para codify:path="(29)">
@@ -602,7 +602,7 @@
   <section codify:doc="D.C. Code">
     <num>10</num>
     <text>An Act To create a Department of Corrections in the District of Columbia, approved June 27, 1946 (60 Stat. 320; D.C. Official Code § 24-211.01 <em>et seq</em>.), is amended as follows:</text>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(a)</num>
       <text>Section 2 (D.C. Official Code § 24-211.02) is amended to read as follows:</text>
       <include>
@@ -1089,7 +1089,7 @@
   <section>
     <num>15</num>
     <text>The Prison Industries Act of 1996, effective May 8, 1996 (D.C. Law 11-117; D.C. Official Code § 24-231.01 <em>et seq</em>.), is repealed.</text>
-    <codify:repeal doc="D.C. Code" path="24|2|IV" codified:doc="D.C. Code" codified:path="§24-231.01"/>
+    <codify:repeal doc="D.C. Code" path="24|2|IV" codified:doc="D.C. Code" codified:path="§24-231.01|annos"/>
   </section>
   <section>
     <num>16</num>
@@ -1387,7 +1387,7 @@
       <para>
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "confined woman" and inserting the phrase "confined person" in its place.</text>
-        <codify:find-replace path="24|2|VIII-A" count="1" codified:doc="D.C. Code" codified:path="§24-276.01">
+        <codify:find-replace path="24|2|VIII-A" count="1" codified:doc="D.C. Code" codified:path="§24-276.01|annos">
           <find>Certain Confined Women</find>
           <replace>Certain Confined Women [Persons]</replace>
         </codify:find-replace>

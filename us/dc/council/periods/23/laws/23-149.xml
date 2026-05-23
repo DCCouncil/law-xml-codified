@@ -9768,7 +9768,7 @@
       <section>
         <num>7066</num>
         <text>The Ensuring Community Access to Recreational Spaces Act of 2018, effective February 22, 2019 (D.C. Law 22-210; D.C. Official Code § 38-431 <em>et seq.</em>), is amended as follows:</text>
-        <para>
+        <para codify:applicability="notfunded">
           <num>(a)</num>
           <text>Section 4(b) (D.C. Official Code § 38-433(b)) is amended by striking the phrase "Within 180 days after February 22, 2019, the Mayor" and inserting the phrase "The Mayor" in its place.</text>
           <codify:marginalia display="Subject to Appropriations"/>
@@ -10021,7 +10021,7 @@
         </codify:annotation>
         <codify:annotation doc="D.C. Code" path="§3-1205.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§3-1205.01"><cite doc="D.C. Law 23-149" path="§7081">Section 7081 of D.C. Law 23-149</cite> repealed <cite doc="D.C. Law 23-115" path="§3">section 3 of D.C. Law 23-115</cite> removing the applicability provision impacting this section.  Therefore, the amendment of this section by Law 23-115 has been implemented.
         </codify:annotation>
-        <codify:annotation doc="D.C. Code" path="3|12|VIII-E" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§3-1208.71"><cite doc="D.C. Law 23-149" path="§7081">Section 7081 of D.C. Law 23-149</cite> repealed <cite doc="D.C. Law 23-115" path="§3">section 3 of D.C. Law 23-115</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by Law 23-115 has been implemented.
+        <codify:annotation doc="D.C. Code" path="3|12|VIII-E" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§3-1208.71|annos"><cite doc="D.C. Law 23-149" path="§7081">Section 7081 of D.C. Law 23-149</cite> repealed <cite doc="D.C. Law 23-115" path="§3">section 3 of D.C. Law 23-115</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by Law 23-115 has been implemented.
         </codify:annotation>
         <codify:annotation doc="D.C. Code" path="§3-1210.03" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§3-1210.03"><cite doc="D.C. Law 23-149" path="§7081">Section 7081 of D.C. Law 23-149</cite> repealed <cite doc="D.C. Law 23-115" path="§3">section 3 of D.C. Law 23-115</cite> removing the applicability provision impacting this section.  Therefore, the amendment of this section by Law 23-115 has been implemented.
         </codify:annotation>
@@ -10110,12 +10110,12 @@
       <section>
         <num>7104</num>
         <text>The Relieve High Unemployment Tax Incentives Act of 2018, effective April 25, 2018 (D.C. Law 22-85; 65 DCR 1805), is repealed.</text>
-        <codify:repeal doc="D.C. Code" path="47|50" codified:doc="D.C. Code" codified:path="§47-5001"/>
+        <codify:repeal doc="D.C. Code" path="47|50" codified:doc="D.C. Code" codified:path="§47-5001|annos"/>
         <codify:find-replace doc="D.C. Code" path="47|50|heading" count="1" codified:doc="D.C. Code" codified:path="47|50">
           <find>[Not Funded]</find>
           <replace>[Repealed]</replace>
         </codify:find-replace>
-        <codify:repeal doc="D.C. Code" path="2|12|IX|B|8" codified:doc="D.C. Code" codified:path="§2-1217.38"/>
+        <codify:repeal doc="D.C. Code" path="2|12|IX|B|8" codified:doc="D.C. Code" codified:path="§2-1217.38|annos"/>
         <codify:find-replace doc="D.C. Code" path="2|12|IX|B|8|heading" count="1" codified:doc="D.C. Code" codified:path="2|12|IX|B|8">
           <find>[Not Funded]</find>
           <replace>[Repealed]</replace>
@@ -10139,7 +10139,7 @@
           <find>Commission.</find>
           <replace>Commission. [Repealed]</replace>
         </codify:find-replace>
-        <codify:repeal doc="D.C. Code" path="1|3|XVIII" codified:doc="D.C. Code" codified:path="§1-361.01"/>
+        <codify:repeal doc="D.C. Code" path="1|3|XVIII" codified:doc="D.C. Code" codified:path="§1-361.01|annos"/>
         <codify:find-replace doc="D.C. Code" path="§2-351.05|(c)|(19)" position="last" codified:doc="D.C. Code" codified:path="§2-351.05|(c)|(19)">
           <find>;</find>
           <replace>; and</replace>

@@ -27,7 +27,7 @@
   <section>
     <num>2</num>
     <text>The District of Columbia Taxicab Commission Establishment Act of 1985, effective March 25, 1986 (D.C. Law 6-97; D.C. Official Code § 50-301.01 <em>et seq</em>.), is amended as follows:</text>
-    <para codify:path="§50-301.03|(a)">
+    <para codify:path="§50-301.03|(a)" codify:applicability="notfunded">
       <num>(a)</num>
       <text>Section 4 (D.C. Official Code § 50-301.03) is amended as follows:</text>
       <para>
@@ -257,7 +257,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 25-301" path="§2|(a)" applicability-path="§4" action="amendment to" display-template="" codified:doc="D.C. Code" codified:path="§50-301.03|(3A)" codified:display="Note"/>
     </para>
-    <para codify:path="§50-301.06|(a)">
+    <para codify:path="§50-301.06|(a)" codify:applicability="notfunded">
       <num>(b)</num>
       <text>Section 7(a) (D.C. Official Code § 50-301.06(a)) is amended as follows:</text>
       <para codify:path="(1)">
@@ -349,7 +349,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 25-301" path="§2|(b)" applicability-path="§4" action="amendment to" display-template="" codified:doc="D.C. Code" codified:path="§50-301.06|(a)|(1)|(G-i)" codified:display="Note"/>
     </para>
-    <para codify:path="§50-301.07">
+    <para codify:path="§50-301.07" codify:applicability="notfunded">
       <num>(c)</num>
       <text>Section 8 (D.C. Official Code § 50-301.07) is amended as follows:</text>
       <para codify:path="(a)">
@@ -402,7 +402,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 25-301" path="§2|(c)" applicability-path="§4" action="amendment to" display-template="" codified:doc="D.C. Code" codified:path="§50-301.07|(a)" codified:display="Note"/>
     </para>
-    <para codify:path="§50-301.29d">
+    <para codify:path="§50-301.29d" codify:applicability="notfunded">
       <num>(d)</num>
       <text>Section 20j-4 (D.C. Official Code § 50-301.29d) is amended to read as follows:</text>
       <include>
@@ -435,13 +435,13 @@
       <aftertext>.</aftertext>
       <codify:not-funded-anno doc="D.C. Law 25-301" path="§2|(d)" applicability-path="§4" action="amendment to" display-template="" codified:doc="D.C. Code" codified:path="§50-301.29d" codified:display="Note"/>
     </para>
-    <para codify:path="§50-301.29e|(a)|(2)">
+    <para codify:path="§50-301.29e|(a)|(2)" codify:applicability="notfunded">
       <num>(e)</num>
       <text>Section 20j-5(a)(2) (D.C. Official Code § 50-301.29e(a)(2)) is repealed.</text>
       <codify:repeal codified:doc="D.C. Code" codified:path="§50-301.29e|(a)|(2)"/>
       <codify:not-funded-anno doc="D.C. Law 25-301" path="§2|(e)" applicability-path="§4" action="amendment to" display-template="" codified:doc="D.C. Code" codified:path="§50-301.29e|(a)|(2)" codified:display="Note"/>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(f)</num>
       <text>New sections 20j-8 through 20j-13 are added to read as follows:</text>
       <include>
@@ -679,7 +679,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <para codify:path="§50-301.30|(a)">
+    <para codify:path="§50-301.30|(a)" codify:applicability="notfunded">
       <num>(g)</num>
       <text>Section 20k(a) (D.C. Official Code § 50-301.30(a)) is amended as follows:</text>
       <para>
@@ -700,7 +700,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 25-301" path="§2|(g)" applicability-path="§4" action="amendment to" display-template="" codified:doc="D.C. Code" codified:path="§50-301.30|(a)" codified:display="Note"/>
     </para>
-    <para codify:path="§50-301.34">
+    <para codify:path="§50-301.34" codify:applicability="notfunded">
       <num>(h)</num>
       <text>Section 20(o) (D.C. Official Code § 50-301.34) is amended as follows:</text>
       <para codify:path="heading">
@@ -777,7 +777,7 @@
   <section>
     <num>3</num>
     <heading proof="needed">Conforming Amendments.</heading>
-    <para codify:path="§50-101|(3)">
+    <para codify:path="§50-101|(3)" codify:applicability="notfunded">
       <num>(a)</num>
       <text>Section 2(3) of the Food Delivery Insurance Requirements Act of 1990, effective September 20, 1990 (D.C. Law 8-162, D.C. Official Code § 50-101(3)), is amended by striking the phrase "a service offered by a restaurant or retail business" and inserting the phrase "a service provided by an employee or contractor of a restaurant or retail business" in its place.</text>
       <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-101|(3)">
@@ -790,11 +790,11 @@
       <num>(b)</num>
       <text>The second section 9r of the Department of Transportation Establishment Act of 2002, effective November 28, 2023 (D.C. Law 25-66; D.C. Official Code § 50-921.27), is redesignated as section 9s.</text>
     </para>
-    <para codify:path="50|16|II">
+    <para codify:path="50|16|II" codify:applicability="notfunded">
       <num>(c)</num>
       <text>The Commercial Bicycle Operators Licensing Act of 1987, effective March 29, 1988 (D.C. Law 7-97, D.C. Official Code § 50-1631) is repealed.</text>
-      <codify:repeal codified:doc="D.C. Code" codified:path="§50-1631"/>
-      <codify:not-funded-anno doc="D.C. Law 25-301" path="§3|(c)" applicability-path="§4" action="repeal of" display-template="" codified:doc="D.C. Code" codified:path="§50-1631" codified:display="Note"/>
+      <codify:repeal codified:doc="D.C. Code" codified:path="§50-1631|annos"/>
+      <codify:not-funded-anno doc="D.C. Law 25-301" path="§3|(c)" applicability-path="§4" action="repeal of" display-template="" codified:doc="D.C. Code" codified:path="§50-1631|annos" codified:display="Note"/>
     </para>
   </section>
   <section>

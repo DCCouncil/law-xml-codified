@@ -27,7 +27,7 @@
     <para codify:doc="D.C. Code" codify:path="§1-1001.07">
       <num>(a)</num>
       <text>Section 7 (D.C. Official Code § 1-1001.07) is amended as follows:</text>
-      <para>
+      <para codify:applicability="pending">
         <num>(1)</num>
         <text>Subsection (a)(2) is amended to read as follows:</text>
         <include>
@@ -46,7 +46,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <para codify:path="(c)">
+      <para codify:path="(c)" codify:applicability="pending">
         <num>(2)</num>
         <text>Subsection (c) is amended as follows:</text>
         <para codify:path="(1)">
@@ -236,7 +236,7 @@
           <aftertext>.</aftertext>
         </para>
       </para>
-      <para codify:path="(e)">
+      <para codify:path="(e)" codify:applicability="pending">
         <num>(3)</num>
         <text>Subsection (e) is amended as follows:</text>
         <para>
@@ -269,7 +269,7 @@
           </para>
         </para>
       </para>
-      <para codify:path="(g)">
+      <para codify:path="(g)" codify:applicability="pending">
         <num>(4)</num>
         <text>Subsection (g) is amended as follows:</text>
         <para codify:path="(1)">
@@ -341,7 +341,7 @@
           </codify:find-replace>
         </para>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(6)</num>
         <text>A new subsection (m) is added to read as follows:</text>
         <include>
@@ -371,7 +371,7 @@
       </codify:find-replace>
     </para>
   </section>
-  <section>
+  <section codify:applicability="pending">
     <num>3</num>
     <text>Section 106(b) of the District of Columbia Uniform Military and Overseas Voters Act of 2012, effective June 5, 2012 (D.C. Law 19-137; D.C. Official Code § 1-1061.06(b)), is amended by striking the number "30" and inserting the number "21" in its place.</text>
     <codify:find-replace doc="D.C. Code" path="§1-1061.06|(b)" count="1" codified:doc="D.C. Code" codified:path="§1-1061.06|(b)">
@@ -380,7 +380,7 @@
     </codify:find-replace>
     <codify:not-funded-anno doc="D.C. Code" path="§1-1061.06" applicability-path="§5" codified:doc="D.C. Code" codified:path="§1-1061.06" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <num>4</num>
     <text>The District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; codified in scattered cites of the D.C. Official Code), is amended by adding a new section 7c to read as follows:</text>
     <include>

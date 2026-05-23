@@ -1988,7 +1988,7 @@
             <prefix>TITLE</prefix>
             <num>V</num>
             <heading proof="needed">LICENSING, REGISTRATION, CERTIFICATION, OR APPROVAL REQUIRED.</heading>
-            <codify:find-replace count="1" history="false" codified:doc="D.C. Code" codified:path="§3-1205.01">
+            <codify:find-replace count="1" history="false" codified:doc="D.C. Code" codified:path="§3-1205.01|annos">
               <find>Licensing, Registration, or Certification of Health Professionals.</find>
               <replace>Licensing, Registration, Certification or Approval Required.</replace>
             </codify:find-replace>
@@ -3444,7 +3444,7 @@
       <para>
         <num>(ggg)</num>
         <text>Title VII-F is repealed.</text>
-        <codify:find-replace path="3|12|VII-F" count="1" codified:doc="D.C. Code" codified:path="§3-1207.61">
+        <codify:find-replace path="3|12|VII-F" count="1" codified:doc="D.C. Code" codified:path="§3-1207.61|annos">
           <find>Practitioner.</find>
           <replace>Practitioner [Repealed].</replace>
         </codify:find-replace>

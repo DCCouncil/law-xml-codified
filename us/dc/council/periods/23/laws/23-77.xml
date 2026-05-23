@@ -29,7 +29,7 @@
       <heading>Direct Services to Individuals with Intellectual and Developmental Disabilities.</heading>
     </container>
   </codify:insert>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="4|20" num-value="4-2001" codified:doc="D.C. Code" codified:path="§4-2001"/>
     <num>2</num>
     <heading>Definitions.</heading>
@@ -55,14 +55,14 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§4-2001" applicability-path="§7" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§4-2001" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="4|20" num-value="4-2002" codified:doc="D.C. Code" codified:path="§4-2002"/>
     <num>3</num>
     <heading>Payment.</heading>
     <text>On an annual basis, the Mayor shall disburse to each eligible service provider an amount of money as determined annually by the calculation provided in <code-cite doc="D.C. Code" path="§4-2003">section 4</code-cite>. The eligible service provider shall then distribute the dispersed money in its entirety to its direct support professionals.</text>
     <codify:not-funded-anno doc="D.C. Code" path="§4-2002" applicability-path="§7" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§4-2002" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="4|20" num-value="4-2003" codified:doc="D.C. Code" codified:path="§4-2003"/>
     <num>4</num>
     <heading>Calculating the annual payment.</heading>
@@ -99,7 +99,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§4-2003" applicability-path="§7" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§4-2003" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="4|20" num-value="4-2004" codified:doc="D.C. Code" codified:path="§4-2004"/>
     <num>5</num>
     <heading>Eligibility for payment.</heading>
@@ -113,7 +113,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§4-2004" applicability-path="§7" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§4-2004" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="4|20" num-value="4-2005" codified:doc="D.C. Code" codified:path="§4-2005"/>
     <num>6</num>
     <heading>Rules.</heading>

@@ -33,7 +33,7 @@
     <prefix>TITLE</prefix>
     <num>I</num>
     <heading>HIGH-NEED HEALTHCARE CAREER SCHOLARSHIP AND SUPPORTS PROGRAM.</heading>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert doc="D.C. Code" path="7|7F" num-value="7-791.01" codified:doc="D.C. Code" codified:path="§7-791.01"/>
       <num>101</num>
       <heading proof="needed">Definitions.</heading>
@@ -51,7 +51,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§7-791.01" applicability-path="§301" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-791.01" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert doc="D.C. Code" path="7|7F" num-value="7-791.02" codified:doc="D.C. Code" codified:path="§7-791.02"/>
       <num>102</num>
       <heading proof="needed">High-Need Healthcare Career Scholarships and Supports Program.</heading>
@@ -160,7 +160,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§7-791.02" applicability-path="§301" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-791.02" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert doc="D.C. Code" path="7|7F" num-value="7-791.03" codified:doc="D.C. Code" codified:path="§7-791.03"/>
       <num>103</num>
       <heading proof="needed">Eligibility requirements for participating schools and training programs.</heading>
@@ -222,7 +222,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§7-791.03" applicability-path="§301" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-791.03" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert doc="D.C. Code" path="7|7F" num-value="7-791.04" codified:doc="D.C. Code" codified:path="§7-791.04"/>
       <num>104</num>
       <heading proof="needed">Rulemaking authority.</heading>

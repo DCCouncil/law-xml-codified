@@ -21,7 +21,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Made in DC Program Establishment Act of 2016".</text>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:organic num-value="2-1208.31" heading-value="Definitions." codified:doc="D.C. Code" codified:path="§2-1208.31"/>
     <num>2</num>
     <heading>Definitions:</heading>
@@ -81,7 +81,7 @@
     </para>
     <codify:not-funded-anno applicability-path="§7" action="addition of" codified:doc="D.C. Code" codified:path="§2-1208.31" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:organic num-value="2-1208.32" codified:doc="D.C. Code" codified:path="§2-1208.32"/>
     <num>3</num>
     <heading>Made in DC program.</heading>
@@ -159,7 +159,7 @@
     </para>
     <codify:not-funded-anno applicability-path="§7" action="addition of" codified:doc="D.C. Code" codified:path="§2-1208.32" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:organic num-value="2-1208.33" codified:doc="D.C. Code" codified:path="§2-1208.33"/>
     <num>4</num>
     <heading>Made in DC Fund.</heading>
@@ -208,7 +208,7 @@
     </para>
     <codify:not-funded-anno applicability-path="§7" action="addition of" codified:doc="D.C. Code" codified:path="§2-1208.33" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:organic num-value="2-1208.34" codified:doc="D.C. Code" codified:path="§2-1208.34"/>
     <num>5</num>
     <heading>Innovation Space and Marketplace report.</heading>
@@ -298,7 +298,7 @@
     </para>
     <codify:not-funded-anno applicability-path="§7" action="addition of" codified:doc="D.C. Code" codified:path="§2-1208.34" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:organic num-value="2-1208.35" codified:doc="D.C. Code" codified:path="§2-1208.35"/>
     <num>6</num>
     <heading>Rules.</heading>

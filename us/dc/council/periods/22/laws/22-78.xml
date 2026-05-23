@@ -35,7 +35,7 @@
           <replace>(1B)</replace>
         </codify:find-replace>
       </para>
-      <para>
+      <para codify:applicability="2018-08-15">
         <num>(2)</num>
         <text>New paragraphs (1) and (1A) are added to read as follows:</text>
         <include lvl="1">
@@ -54,7 +54,7 @@
       </para>
       <codify:not-funded-anno applicability-path="§3" codified:doc="D.C. Code" codified:path="§50-921.01a" codified:display="Note"/>
     </para>
-    <para>
+    <para codify:applicability="2018-08-15">
       <num>(b)</num>
       <text>A new section 2o is added to read as follows:</text>
       <include>

@@ -649,7 +649,7 @@
       <aftertext>.</aftertext>
     </section>
   </container>
-  <codify:insert doc="D.C. Code" path="|50" after="|50|23A" history="false" codified:doc="D.C. Code" codified:path="§50-2361.01">
+  <codify:insert doc="D.C. Code" path="|50" after="|50|23A" history="false" codified:doc="D.C. Code" codified:path="§50-2361.01|annos">
     <container>
       <prefix>Chapter</prefix>
       <num>23B</num>
@@ -671,7 +671,7 @@
     <prefix>Title</prefix>
     <num>III</num>
     <heading>ADVISORY COUNCILS</heading>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:organic path="|50|23B|I" num-value="50-2361.01" codified:doc="D.C. Code" codified:path="§50-2361.01"/>
       <num>301</num>
       <heading> Definitions.</heading>
@@ -694,7 +694,7 @@
       </para>
       <codify:not-funded-anno applicability-path="§601" action="addition of" codified:doc="D.C. Code" codified:path="§50-2361.01" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:organic path="|50|23B|I" num-value="50-2361.02" codified:doc="D.C. Code" codified:path="§50-2361.02"/>
       <num>302</num>
       <heading>Transit Rider Advisory Council.</heading>
@@ -751,7 +751,7 @@
       </para>
       <codify:not-funded-anno applicability-path="§601" action="addition of" codified:doc="D.C. Code" codified:path="§50-2361.02" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:organic path="|50|23B|I" num-value="50-2361.03" codified:doc="D.C. Code" codified:path="§50-2361.03"/>
       <num>303</num>
       <heading>Functions and operations of the TRAC.</heading>
@@ -803,7 +803,7 @@
       </para>
       <codify:not-funded-anno applicability-path="§601" action="addition of" codified:doc="D.C. Code" codified:path="§50-2361.03" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:organic path="|50|23B|II" num-value="50-2361.31" codified:doc="D.C. Code" codified:path="§50-2361.31"/>
       <num>304</num>
       <heading>Multimodal Accessibility Advisory Council.</heading>
@@ -860,7 +860,7 @@
       </para>
       <codify:not-funded-anno applicability-path="§601" action="addition of" codified:doc="D.C. Code" codified:path="§50-2361.31" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:organic path="|50|23B|II" num-value="50-2361.32" codified:doc="D.C. Code" codified:path="§50-2361.32"/>
       <num>305</num>
       <heading>Discussion of advisory council recommendations.</heading>
@@ -1326,7 +1326,7 @@
         <text>Section 11 (D.C. Official Code § 50-301.10) is amended by striking the word "Commission" both times it appears and inserting the word "DFHV" in its place.</text>
         <codify:find-replace path="§11" find="Commission" replace="DFHV" count="2" codified:doc="D.C. Code" codified:path="§50-301.10"/>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(l)</num>
         <text>A new section 11a is added to read as follows:</text>
         <include>

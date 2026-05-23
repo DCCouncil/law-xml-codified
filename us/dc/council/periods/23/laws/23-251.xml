@@ -94,7 +94,7 @@
     <prefix>TITLE</prefix>
     <num>II</num>
     <heading>D.C. HEALTHCARE ALLIANCE REFORM.</heading>
-    <section>
+    <section codify:applicability="notfunded">
       <num>201</num>
       <text>The Health Care Privatization Amendment Act of 2001, effective July 12, 2001 (D.C. Law 14-18; D.C. Official Code § 7-1401 <em>et seq</em>.) is amended as follows:</text>
       <para codify:path="§7-1408">
@@ -156,7 +156,7 @@
       <para codify:path="§7-771.07b">
         <num>(a)</num>
         <text>Section 8b (D.C. Official Code § 7-771.07b) is amended as follows:</text>
-        <para codify:path="(b)">
+        <para codify:path="(b)" codify:applicability="notfunded">
           <num>(1)</num>
           <text>Subsection (b) is amended as follows:</text>
           <para codify:path="(1)">

@@ -53,7 +53,7 @@
       <num>101</num>
       <heading proof="needed">This title may be cited as the "Public Space Amplified Sound License Act of 2024".</heading>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert path="10|11B|I" num-value="10-1183.01" codified:doc="D.C. Code" codified:path="§10-1183.01"/>
       <num>102</num>
       <heading>Definitions.</heading>
@@ -79,7 +79,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 25-313" path="§102" applicability-path="§401" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§10-1183.01" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert path="10|11B|I" after="§10-1183.01" num-value="10-1183.02" codified:doc="D.C. Code" codified:path="§10-1183.02"/>
       <num>103</num>
       <heading proof="needed">Public space amplified sound license.</heading>
@@ -192,7 +192,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 25-313" path="§103" applicability-path="§401" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§10-1183.02" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert path="10|11B|I" after="§10-1183.02" num-value="10-1183.03" codified:doc="D.C. Code" codified:path="§10-1183.03"/>
       <num>104</num>
       <heading proof="needed">Enforcement and penalties.</heading>
@@ -237,14 +237,14 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 25-313" path="§104" applicability-path="§401" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§10-1183.03" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert path="10|11B|I" after="§10-1183.03" num-value="10-1183.04" codified:doc="D.C. Code" codified:path="§10-1183.04"/>
       <num>105</num>
       <heading proof="needed">Rulemaking.</heading>
       <text>The Mayor, pursuant to <code-cite doc="D.C. Code" path="2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, shall issue rules to implement the provisions of <code-cite doc="D.C. Code" path="10|11B|I">this title</code-cite>.</text>
       <codify:not-funded-anno doc="D.C. Law 25-313" path="§105" applicability-path="§401" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§10-1183.04" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert path="10|11B|I" after="§10-1183.04" num-value="10-1183.05" codified:doc="D.C. Code" codified:path="§10-1183.05"/>
       <num>106</num>
       <heading proof="needed">Construction.</heading>
@@ -260,7 +260,7 @@
       <num>201</num>
       <heading proof="needed">This title may be cited as the "Noise Control Enforcement and Coordination Act of 2024".</heading>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert path="10|11B|II" num-value="10-1185.01" codified:doc="D.C. Code" codified:path="§10-1185.01"/>
       <num>202</num>
       <heading>Noise Control Enforcement and Coordination.</heading>

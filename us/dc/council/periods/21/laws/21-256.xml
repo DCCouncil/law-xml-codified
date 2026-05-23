@@ -24,7 +24,7 @@
   <section codify:doc="D.C. Code">
     <num>2</num>
     <text>The Human Rights Act of 1977, effective December 13, 1977 (D.C. Law 2-38; D.C. Official Code § 2-1401.01 <em>et seq</em>.), is amended as follows:</text>
-    <para codify:path="§2-1402.11">
+    <para codify:path="§2-1402.11" codify:applicability="notfunded">
       <num>(a)</num>
       <text>Section 211 (D.C. Official Code § 2-1402.11) is amended as follows:</text>
       <para codify:path="(a)">
@@ -130,7 +130,7 @@
       </para>
       <codify:not-funded-anno path="§2-1402.11" applicability-path="§4" codified:doc="D.C. Code" codified:path="§2-1402.11" codified:display="Note"/>
     </para>
-    <para codify:path="§2-1403.13|(a)">
+    <para codify:path="§2-1403.13|(a)" codify:applicability="notfunded">
       <num>(b)</num>
       <text>Section 313(a) (D.C. Official Code § 2-1403.13(a)) is amended as follows:</text>
       <para codify:path="(1)">
@@ -156,7 +156,7 @@
       <codify:not-funded-anno path="§2-1403.13" applicability-path="§4" codified:doc="D.C. Code" codified:path="§2-1403.13" codified:display="Note"/>
     </para>
   </section>
-  <section codify:doc="D.C. Code" codify:path="§2-1411.03">
+  <section codify:doc="D.C. Code" codify:path="§2-1411.03" codify:applicability="notfunded">
     <num>3</num>
     <text>Section 204 of the Office of Human Rights Establishment Act of 1999, effective October 20, 1999 (D.C. Law 13-38; D.C. Official Code § 2-1411.03), is amended as follows:</text>
     <para codify:path="(8)">

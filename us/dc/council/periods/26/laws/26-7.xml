@@ -25,7 +25,7 @@
   <section>
     <num>2</num>
     <text>The Health Services Planning Program Re-establishment Act of 1996, effective April 9, 1997 (D.C. Law 11-191; D.C. Official Code § 44-401 <em>et seq.</em>), is amended as follows:</text>
-    <para codify:path="§44-401|(a)">
+    <para codify:path="§44-401|(a)" codify:applicability="notfunded">
       <num>(a)</num>
       <text>Section 2 (D.C. Official Code § 44-401) is amended as follows:</text>
       <para codify:path="(3)">
@@ -301,13 +301,13 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 26-7" path="§2|(a)" applicability-path="§4" action="amendment to" display-template="" codified:doc="D.C. Code" codified:path="§44-401|(3)|(A)|(i)" codified:display="Note"/>
     </para>
-    <para codify:path="§44-402">
+    <para codify:path="§44-402" codify:applicability="notfunded">
       <num>(b)</num>
       <text>Section 3 (D.C. Official Code § 44-402) is amended by repealing subsection (b-1).</text>
       <codify:repeal path="(b-1)" codified:doc="D.C. Code" codified:path="§44-402|(b-1)"/>
       <codify:not-funded-anno doc="D.C. Law 26-7" path="§2|(b)" applicability-path="§4" action="amendment to" display-template="" codified:doc="D.C. Code" codified:path="§44-402|(b-1)" codified:display="Note"/>
     </para>
-    <para codify:path="§44-403|(c)">
+    <para codify:path="§44-403|(c)" codify:applicability="notfunded">
       <num>(c)</num>
       <text>Section 4(c) (D.C. Official Code § 44-403(c)) is amended as follows:</text>
       <para codify:path="(3)">
@@ -332,7 +332,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 26-7" path="§2|(c)" applicability-path="§4" action="amendment to" display-template="" codified:doc="D.C. Code" codified:path="§44-403|(c)|(3)" codified:display="Note"/>
     </para>
-    <para codify:path="§44-407|(b)">
+    <para codify:path="§44-407|(b)" codify:applicability="notfunded">
       <num>(d)</num>
       <text>Section 8(b) (D.C. Official Code § 44-407(b))  is amended as follows:</text>
       <para>
@@ -371,7 +371,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 26-7" path="§2|(d)" applicability-path="§4" action="amendment to" display-template="" codified:doc="D.C. Code" codified:path="§44-407|(b)|(3)" codified:display="Note"/>
     </para>
-    <para codify:path="§44-408|(b)">
+    <para codify:path="§44-408|(b)" codify:applicability="notfunded">
       <num>(e)</num>
       <text>Section 9(b) (D.C. Official Code § 44-408(b))  is amended by striking the phrase "no more than 3 years old." and inserting the phrase "no more than 5 years old." in its place.</text>
       <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-408|(b)">
@@ -388,7 +388,7 @@
         <text>The existing language is designated as paragraph (1).</text>
         <codify:redesignate-para num-value="(1)" codified:doc="D.C. Code" codified:path="§44-409|(f)"/>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(2)</num>
         <text>A new paragraph (2) is added to read as follows:</text>
         <include lvl="1">
@@ -402,7 +402,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 26-7" path="§2|(f)" applicability-path="§4" action="amendment to" display-template="" codified:doc="D.C. Code" codified:path="§44-409|(f)|(2)" codified:display="Note"/>
     </para>
-    <para codify:path="§44-411|(a)">
+    <para codify:path="§44-411|(a)" codify:applicability="notfunded">
       <num>(g)</num>
       <text>Section 12(a) (D.C. Official Code § 44-411(a)) is amended by striking the phrase "; except that no certificate of need shall be effective for more than 3 years from the original date of issuance." and inserting a period in its place.</text>
       <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-411|(a)">
@@ -411,7 +411,7 @@
       </codify:find-replace>
       <codify:not-funded-anno doc="D.C. Law 26-7" path="§2|(g)" applicability-path="§4" action="amendment to" display-template="" codified:doc="D.C. Code" codified:path="§44-411|(a)" codified:display="Note"/>
     </para>
-    <para codify:path="§44-420|(c)">
+    <para codify:path="§44-420|(c)" codify:applicability="notfunded">
       <num>(h)</num>
       <text>Section 21(c) (D.C. Official Code § 44-420(c)) is repealed.</text>
       <codify:repeal codified:doc="D.C. Code" codified:path="§44-420|(c)"/>
@@ -421,7 +421,7 @@
   <section>
     <num>3</num>
     <heading proof="needed">Clarifying and technical amendments.</heading>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(a)</num>
       <text>The Health-Care and Community Residence Facility Hospice and Home Care Licensure Act of 1983, effective February 24, 1984 (D.C. Law 5-48; D.C. Official Code § 44-501 <em>et seq.</em>), is amended as follows:</text>
       <para>

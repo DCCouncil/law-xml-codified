@@ -28,7 +28,7 @@
       <heading>Health Literacy Council.</heading>
     </container>
   </codify:insert>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|7B-iii" num-value="7-757.01" codified:doc="D.C. Code" codified:path="§7-757.01"/>
     <num>2</num>
     <heading>Definitions.</heading>
@@ -70,14 +70,14 @@
     </para>
     <codify:not-funded-anno applicability-path="§7" action="creation of" codified:doc="D.C. Code" codified:path="§7-757.01" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|7B-iii" num-value="7-757.02" codified:doc="D.C. Code" codified:path="§7-757.02"/>
     <num>3</num>
     <heading>Establishment of the District Health Literacy Council.</heading>
     <text>There is established a Health Literacy Council in the District of Columbia that shall advise the Mayor and the Council on promoting health literacy for residents of the District and helping residents develop a working knowledge of mental health.</text>
     <codify:not-funded-anno applicability-path="§7" action="creation of" codified:doc="D.C. Code" codified:path="§7-757.02" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|7B-iii" num-value="7-757.03" codified:doc="D.C. Code" codified:path="§7-757.03"/>
     <num>4</num>
     <heading>Members of the Health Literacy Council.</heading>
@@ -139,7 +139,7 @@
     </para>
     <codify:not-funded-anno applicability-path="§7" action="creation of" codified:doc="D.C. Code" codified:path="§7-757.03" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|7B-iii" num-value="7-757.04" codified:doc="D.C. Code" codified:path="§7-757.04"/>
     <num>5</num>
     <heading>Duties of the Health Literacy Council.</heading>
@@ -189,7 +189,7 @@
     </para>
     <codify:not-funded-anno applicability-path="§7" action="creation of" codified:doc="D.C. Code" codified:path="§7-757.04" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="7|7B-iii" num-value="7-757.05" codified:doc="D.C. Code" codified:path="§7-757.05"/>
     <num>6</num>
     <heading>Health literacy education in workforce development programs.</heading>

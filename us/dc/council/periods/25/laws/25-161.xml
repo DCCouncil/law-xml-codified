@@ -34,7 +34,7 @@
           <num>(a)</num>
           <text>The Department of Motor Vehicles ("DMV") shall develop and administer a safe driving curriculum composed of different courses related to safe driving practices and traffic regulations.</text>
         </para>
-        <para>
+        <para codify:applicability="notfunded">
           <num>(b)</num>
           <para>
             <num>(1)</num>
@@ -253,7 +253,7 @@
               <num>(3)</num>
               <text>Pays a $100 reinstatement fee;</text>
             </para>
-            <para>
+            <para codify:applicability="notfunded">
               <num>(4)</num>
               <text>If the person committed a covered offense, as that term is defined in <code-cite doc="D.C. Code" path="§50-2201.05a|(a)">section 10a(a) of the District of Columbia Traffic Act, 1925, effective April 3, 2001 (D.C. Law 13-238; D.C. Official Code § 50-2201.05a(a))</code-cite> ("Traffic Act of 1925"), successfully completes the period of enrollment in the Ignition Interlock Program as required by <code-cite doc="D.C. Code" path="§50-2201.05a">section 10a of the Traffic Act of 1925</code-cite>; and</text>
             </para>
@@ -584,7 +584,7 @@
       <aftertext>.</aftertext>
       <codify:not-funded-anno doc="D.C. Law 25-161" path="§4|(c)" applicability-path="§8" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.04" codified:display="Note"/>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(d)</num>
       <text>Section 10a (D.C. Official Code § 50-2201.05a) is amended to read as follows:</text>
       <include>
@@ -968,7 +968,7 @@
       <annotation type="History" doc="Stat. 68-2-ch443" path="§10a-1">Mar. 3, 1925, 43 Stat. 1124, ch. 443, § 10a-1</annotation>
       <codify:not-funded-anno doc="D.C. Law 25-161" path="§4|(e)" applicability-path="§8" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.05a-1" codified:display="Note"/>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(f)</num>
       <text>Section 13 (D.C. Official Code § 50-1403.01) is amended to read as follows:</text>
       <include>
@@ -1061,7 +1061,7 @@
       <codify:not-funded-anno doc="D.C. Law 25-161" path="§4|(f)" applicability-path="§8" display-template="" codified:doc="D.C. Code" codified:path="§50-1403.01" codified:display="Note"/>
     </para>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <num>5</num>
     <text>Section 802(a) of An Act To establish a code of law for the District of Columbia, approved March 3, 1901 (31 Stat. 1189; D.C. Official Code § 50-2203.01), is amended by striking the phrase "a pedestrian" and inserting the phrase "any person" in its place.</text>
     <codify:find-replace path="§50-2203.01" count="1" codified:doc="D.C. Code" codified:path="§50-2203.01">
@@ -1070,7 +1070,7 @@
     </codify:find-replace>
     <codify:not-funded-anno doc="D.C. Law 25-161" path="§5" applicability-path="§8" display-template="" codified:doc="D.C. Code" codified:path="§50-2203.01" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <num>6</num>
     <text>The Anti-Drunk Driving Act of 1982, effective September 14, 1982 (D.C. Law 4-145; D.C. Official Code § 50-2205.01 <em>et seq.</em>), is amended as follows:</text>
     <para codify:path="§50-2206.13|(d-1)">

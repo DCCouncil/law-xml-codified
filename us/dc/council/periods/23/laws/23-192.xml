@@ -149,7 +149,7 @@
     <para codify:path="§1-1001.05">
       <num>(d)</num>
       <text>Section 5 (D.C. Official Code § 1-1001.05) is amended as follows:</text>
-      <para codify:path="(a)|(9)">
+      <para codify:path="(a)|(9)" codify:applicability="notfunded">
         <num>(1)</num>
         <text>Subsection (a)(9) is amended by striking the phrase "polling places" and inserting the phrase "polling places, including a polling place for individuals incarcerated in the Department of Corrections' custody or care at the Central Detention Facility and Correctional Treatment Facility" in its place.</text>
         <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.05|(a)|(9)">

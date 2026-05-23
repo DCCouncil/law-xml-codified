@@ -160,7 +160,7 @@
     <prefix>TITLE</prefix>
     <num>II</num>
     <heading>RPP EXCLUSION</heading>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert doc="D.C. Code" path="50|25C" num-value="50-2561" codified:doc="D.C. Code" codified:path="§50-2561"/>
       <num>201</num>
       <heading>RPP exclusion.</heading>

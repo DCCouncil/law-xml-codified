@@ -120,7 +120,7 @@
         </para>
       </para>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert doc="D.C. Code" path="32|9B" num-value="32-951.02" codified:doc="D.C. Code" codified:path="§32-951.02"/>
       <num>102</num>
       <heading>Employment protections.</heading>
@@ -162,7 +162,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§32-951.02" applicability-path="§401|(a)|(2)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§32-951.02" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert doc="D.C. Code" path="32|9B" num-value="32-951.03" codified:doc="D.C. Code" codified:path="§32-951.03"/>
       <num>103</num>
       <heading>Rules of construction.</heading>
@@ -212,7 +212,7 @@
       <codify:insert doc="D.C. Code" path="32|9B" num-value="32-951.04" codified:doc="D.C. Code" codified:path="§32-951.04"/>
       <num>104</num>
       <heading>Notice of rights under the law.</heading>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(a)</num>
         <text>Employers shall provide notice to employees of employees' rights under <code-cite doc="D.C. Code" path="32|9B">this title</code-cite>, whether the employer has designated the employee's position as safety sensitive, and the protocols for any testing for alcohol or drugs that the employer performs:</text>
         <para>
@@ -224,13 +224,13 @@
           <text>Upon hire of a new employee.</text>
         </para>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(b)</num>
         <text>Within 45 days after <span codify:value="[insert applicability date]">the applicability date of this subsection</span>, the Office of Human Rights shall publish a template for the notice required pursuant to subsection (a) of this section.</text>
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§32-951.04" applicability-path="§401|(a)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§32-951.04" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert doc="D.C. Code" path="32|9B" num-value="32-951.05" codified:doc="D.C. Code" codified:path="§32-951.05"/>
       <num>105</num>
       <heading>Filing a complaint with the Office of Human Rights.</heading>
@@ -339,7 +339,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§32-951.05" applicability-path="§401|(a)|(2)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§32-951.05" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert doc="D.C. Code" path="32|9B" num-value="32-951.06" codified:doc="D.C. Code" codified:path="§32-951.06"/>
       <num>106</num>
       <heading>Private cause of action.</heading>
@@ -393,7 +393,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§32-951.06" applicability-path="§401|(a)|(2)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§32-951.06" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert doc="D.C. Code" path="32|9B" num-value="32-951.07" codified:doc="D.C. Code" codified:path="§32-951.07"/>
       <num>107</num>
       <heading>Enforcement by the Attorney General.</heading>
@@ -460,7 +460,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§32-951.07" applicability-path="§401|(a)|(2)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§32-951.07" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert doc="D.C. Code" path="32|9B" num-value="32-951.08" codified:doc="D.C. Code" codified:path="§32-951.08"/>
       <num>108</num>
       <heading>Rulemaking authority.</heading>
@@ -479,7 +479,7 @@
     <prefix>TITLE</prefix>
     <num>II</num>
     <heading>MEDICAL CANNABIS AND DISABILITIES</heading>
-    <section>
+    <section codify:applicability="notfunded">
       <num>201</num>
       <text>Section 211 of the Human Rights Act of 1977, effective December 13, 1977 (D.C. Law 2-38; D.C. Official Code § 2-1402.11), is amended by adding a new subsection (b-1) to read as follows:</text>
       <include>
@@ -549,7 +549,7 @@
     <prefix>Title</prefix>
     <num>III</num>
     <heading>Conforming Amendments</heading>
-    <section codify:doc="D.C. Code">
+    <section codify:doc="D.C. Code" codify:applicability="notfunded">
       <num>301</num>
       <text>The District of Columbia Government Comprehensive Merit Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-601.01 <em>et seq</em>.), is amended as follows:</text>
       <para codify:path="§1-603.01">
@@ -697,7 +697,7 @@
         <codify:not-funded-anno doc="D.C. Code" path="§1-620.62" applicability-path="§401|(a)|(2)" display-template="" codified:doc="D.C. Code" codified:path="§1-620.62" codified:display="Note"/>
       </para>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <num>302</num>
       <text>Section 3(d) of the Department of Corrections Employee Mandatory Drug and Alcohol Testing Act of 1996, effective September 20, 1996 (D.C. Law 11-158; D.C. Official Code § 24-211.22(d)), is amended to read as follows:</text>
       <include>

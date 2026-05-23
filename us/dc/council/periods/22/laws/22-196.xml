@@ -39,7 +39,7 @@
       <heading>Public Information Regarding District Labor Laws.</heading>
     </container>
   </codify:insert>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="32|1C" num-value="32-161" codified:doc="D.C. Code" codified:path="§32-161"/>
     <num>3</num>
     <heading>District of Columbia labor law universal notice requirements.</heading>
@@ -246,7 +246,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§32-161" applicability-path="§8" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§32-161" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="32|1C" num-value="32-162" codified:doc="D.C. Code" codified:path="§32-162"/>
     <num>4</num>
     <heading>Public awareness campaign and violation tip line.</heading>
@@ -318,7 +318,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§32-162" applicability-path="§8" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§32-162" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <num>5</num>
     <text>Title II of the Service Improvement and Fiscal Year 2000 Budget Support Act of 1999, effective October 20, 1999 (D.C. Law 13-38; D.C. Official Code § 2-1411.01 <em>et seq.</em>), is amended by adding a new section 206a to read as follows:</text>
     <include>
@@ -656,7 +656,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <para codify:path="(b)">
+      <para codify:path="(b)" codify:applicability="notfunded">
         <num>(2)</num>
         <text>Subsection (b) is amended to read as follows:</text>
         <include>
@@ -706,7 +706,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§32-1009.01" applicability-path="§8" action="the change made to subsection (b) of" display-template="" codified:doc="D.C. Code" codified:path="§32-1009.01" codified:display="Note"/>
     </para>
-    <para codify:path="32|10|I">
+    <para codify:path="32|10|I" codify:applicability="notfunded">
       <num>(e)</num>
       <text>A new section 10b is added to read as follows:</text>
       <include>

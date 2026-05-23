@@ -778,7 +778,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§1-1231.19" applicability-path="§35" action="creation of subsection (i) of" codified:doc="D.C. Code" codified:path="§1-1231.19" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="1|12A" num-value="1-1231.20" codified:doc="D.C. Code" codified:path="§1-1231.20"/>
     <num>21</num>
     <heading>Requirement of endorsement as electronic notary; selection of technology.</heading>
@@ -1053,7 +1053,7 @@
         <find>Acts.</find>
         <replace>Acts. [Repealed]</replace>
       </codify:find-replace>
-      <codify:repeal doc="D.C. Code" path="42|1|II" codified:doc="D.C. Code" codified:path="§42-141"/>
+      <codify:repeal doc="D.C. Code" path="42|1|II" codified:doc="D.C. Code" codified:path="§42-141|annos"/>
       <codify:annotation doc="D.C. Code" path="§42-141" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§42-141">
         For Revised Uniform Law on Notarial Acts, see <cite doc="D.C. Code" path="1|12A">Chapter 12A of Title 1</cite>.
       </codify:annotation>

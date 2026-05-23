@@ -26,7 +26,7 @@
     <prefix>TITLE</prefix>
     <num>I</num>
     <heading>OPIOID ABATEMENT</heading>
-    <codify:create-sub-container doc="D.C. Code" path="7|32" num-value="I" prefix-value="Subchapter" heading-value="Treatment and Prevention." history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-3201"/>
+    <codify:create-sub-container doc="D.C. Code" path="7|32" num-value="I" prefix-value="Subchapter" heading-value="Treatment and Prevention." history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-3201|annos"/>
     <codify:insert doc="D.C. Code" path="7|32" after="I" history="false" codified:doc="D.C. Code" codified:path="7|32|II">
       <container>
         <prefix>Subchapter</prefix>
@@ -50,7 +50,7 @@
         <cite doc="D.C. Code" path="7|32|I">this subchapter</cite>
       </replace>
     </codify:find-replace>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert doc="D.C. Code" path="7|32|II" num-value="7-3211" codified:doc="D.C. Code" codified:path="§7-3211"/>
       <num>101</num>
       <heading proof="needed">Definitions.</heading>
@@ -128,7 +128,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§7-3211" applicability-path="§301" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-3211" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert doc="D.C. Code" path="7|32|II" num-value="7-3212" codified:doc="D.C. Code" codified:path="§7-3212"/>
       <num>102</num>
       <heading proof="needed">Opioid Abatement Advisory Commission.</heading>
@@ -365,7 +365,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§7-3212" applicability-path="§301" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-3212" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert doc="D.C. Code" path="7|32|II" num-value="7-3213" codified:doc="D.C. Code" codified:path="§7-3213"/>
       <num>103</num>
       <heading proof="needed">Office of Opioid Abatement.</heading>
@@ -453,7 +453,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§7-3213" applicability-path="§301" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-3213" codified:display="Note"/>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert doc="D.C. Code" path="7|32|II" num-value="7-3214" codified:doc="D.C. Code" codified:path="§7-3214"/>
       <num>104</num>
       <heading proof="needed">Rules.</heading>
@@ -465,7 +465,7 @@
     <prefix>TITLE</prefix>
     <num>II</num>
     <heading>AMENDMENTS</heading>
-    <section codify:path="§1-301.86b">
+    <section codify:path="§1-301.86b" codify:applicability="notfunded">
       <num>201</num>
       <text>Section 106b of the Attorney General for the District of Columbia Clarification and Elected Term Amendment Act of 2010, effective October 22, 2015 (D.C. Law 21-36; D.C. Official Code § 1-301.86b), is amended as follows:</text>
       <para codify:path="(b)">
@@ -522,7 +522,7 @@
       </container>
     </codify:insert>
     <codify:recodify-section path="§1-325.441" num-value="7-3221" destination-path="7|32|III" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-325.441"/>
-    <section codify:path="§7-3221">
+    <section codify:path="§7-3221" codify:applicability="notfunded">
       <num>202</num>
       <text>Section 5012 of the Opioid Abatement Fund Establishment Act of 2022, effective September 21, 2022 (D.C. Law 24-167; D.C. Official Code § 1-325.441), is amended as follows:</text>
       <para codify:path="(a)">

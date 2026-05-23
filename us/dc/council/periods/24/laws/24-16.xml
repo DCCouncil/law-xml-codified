@@ -23,7 +23,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Green Food Purchasing Amendment Act of 2021".</text>
-  <section>
+  <section codify:applicability="notfunded">
     <num>2</num>
     <text>The District Department of the Environment Establishment Act of 2005, effective February 15, 2006 (D.C. Law 16-51; D.C. Official Code § 8-151.01 <em>et seq</em>.), is amended as follows:</text>
     <para>
@@ -178,7 +178,7 @@
       <codify:not-funded-anno doc="D.C. Code" path="§8-151.10" applicability-path="§4" display-template="" codified:doc="D.C. Code" codified:path="§8-151.10" codified:display="Note"/>
     </para>
   </section>
-  <section codify:doc="D.C. Code" codify:path="§2-361.01">
+  <section codify:doc="D.C. Code" codify:path="§2-361.01" codify:applicability="notfunded">
     <num>3</num>
     <text>Section 1101 of the Procurement Practices Reform Act of 2010, effective April 8, 2011 (D.C. Law 18-371; D.C. Official Code § 2-361.01), is amended as follows:</text>
     <para codify:path="(a)">

@@ -28,7 +28,7 @@
     <para codify:path="§1-1001.07">
       <num>(a)</num>
       <text>Section 7 (D.C. Official Code § 1-1001.07) is amended as follows:</text>
-      <para codify:path="(a)">
+      <para codify:path="(a)" codify:applicability="notfunded">
         <num>(1)</num>
         <text>Subsection (a) is amended as follows:</text>
         <para codify:path="(2)">
@@ -72,7 +72,7 @@
           </codify:find-replace>
         </para>
       </para>
-      <para codify:path="(a-1)|(1)|(A)">
+      <para codify:path="(a-1)|(1)|(A)" codify:applicability="notfunded">
         <num>(2)</num>
         <text>Subsection (a-1)(1)(A) is amended by striking the phrase ", or" and inserting the phrase "; or" in its place.</text>
         <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.07|(a-1)|(1)|(A)">
@@ -94,7 +94,7 @@
               <replace>vote or indicates the applicant is not a U.S. citizen:</replace>
             </codify:find-replace>
           </para>
-          <para codify:path="(i)">
+          <para codify:path="(i)" codify:applicability="notfunded">
             <num>(ii)</num>
             <text>Sub-subparagraph (i) is amended by striking the phrase "card shall automatically serve as an application to register to vote or update the applicant's voter registration information;" and inserting the phrase "card by a person who is not already registered to vote or preregistered to vote in the District shall automatically serve as an application to register to vote. However, any person who, at the time of the transaction with the DMV provides a document that demonstrates non-citizenship shall not be offered the opportunity to register to vote;" in its place.</text>
             <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.07|(c)|(1)|(B)|(i)">
@@ -103,7 +103,7 @@
             </codify:find-replace>
           </para>
         </para>
-        <para codify:path="(C)|(ii)|(VII)">
+        <para codify:path="(C)|(ii)|(VII)" codify:applicability="notfunded">
           <num>(B)</num>
           <text>Subparagraph (C)(ii)(VII) is amended by striking the phrase "to vote, or, if already registered in the District, ability to decline to update the applicant's voter registration" and inserting the phrase "to vote" in its place.</text>
           <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.07|(c)|(1)|(C)|(ii)|(VII)">
@@ -111,7 +111,7 @@
             <replace>to vote</replace>
           </codify:find-replace>
         </para>
-        <para codify:path="(D)">
+        <para codify:path="(D)" codify:applicability="notfunded">
           <num>(C)</num>
           <text>Subparagraph (D) is amended by striking the phrase "to vote or update the applicant's voter registration information" and inserting the phrase "to vote" in its place.</text>
           <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.07|(c)|(1)|(D)">
@@ -119,7 +119,7 @@
             <replace>to vote</replace>
           </codify:find-replace>
         </para>
-        <para codify:path="(F)">
+        <para codify:path="(F)" codify:applicability="notfunded">
           <num>(D)</num>
           <text>Subparagraph (F) is amended to read as follows:</text>
           <include lvl="2">
@@ -161,7 +161,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
-        <para codify:path="(J)">
+        <para codify:path="(J)" codify:applicability="notfunded">
           <num>(E)</num>
           <text>Subparagraph (J) is amended to read as follows:</text>
           <include lvl="2">
@@ -186,7 +186,7 @@
           <aftertext>.</aftertext>
         </para>
       </para>
-      <para codify:path="(g)">
+      <para codify:path="(g)" codify:applicability="notfunded">
         <num>(4)</num>
         <text>Subsection (g) is amended as follows:</text>
         <para codify:path="(1)">
@@ -248,7 +248,7 @@
           <aftertext>.</aftertext>
         </para>
       </para>
-      <para codify:path="(j)|(1)|(D)">
+      <para codify:path="(j)|(1)|(D)" codify:applicability="notfunded">
         <num>(5)</num>
         <text>Subsection (j)(1)(D) is amended to read as follows:</text>
         <include lvl="2">
@@ -273,7 +273,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§1-1001.07" applicability-path="§3" action="amendment, except for one of the amendments to subsection (c)(1)(B) and (M), to" display-template="" codified:doc="D.C. Code" codified:path="§1-1001.07" codified:display="Note"/>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(b)</num>
       <text>A new section 7b is added to read as follows:</text>
       <include>

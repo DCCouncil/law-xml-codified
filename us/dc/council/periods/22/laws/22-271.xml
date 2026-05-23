@@ -71,7 +71,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§2-1701" applicability-path="§4" display-template="" codified:doc="D.C. Code" codified:path="§2-1701" codified:display="Note"/>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(b)</num>
       <text>New sections 16a, 16b, and 16c are added to read as follows:</text>
       <include>
@@ -223,7 +223,7 @@
       <aftertext>.</aftertext>
     </para>
   </section>
-  <section codify:doc="D.C. Code" codify:path="§1-523.01|(f)">
+  <section codify:doc="D.C. Code" codify:path="§1-523.01|(f)" codify:applicability="notfunded">
     <num>3</num>
     <text>Section 2(f) of the Confirmation Act of 1978, effective March 3, 1979 (D.C. Law 2-142; D.C. Official Code § 1-523.01(f)), is amended as follows:</text>
     <para codify:path="(64)">

@@ -260,7 +260,7 @@
                   <text>Nothing in this paragraph shall be construed to limit the definition of "tenant" for purposes of any other law.".</text>
                 </para>
               </para>
-              <para>
+              <para codify:applicability="notfunded">
                 <num>(5)</num>
                 <text>"Tenant support provider" means:</text>
                 <para>
@@ -558,7 +558,7 @@
             </para>
             <annotation doc="D.C. Law 3-86" type="History" path="§402b">Sept. 10, 1980, D.C. Law 3-86, § 402b</annotation>
           </section>
-          <section>
+          <section codify:applicability="notfunded">
             <codify:insert path="42|34|IV" after="§42-3404.02b" num-value="42-3404.02c" history-prefix="as added" codified:doc="D.C. Code" codified:path="§42-3404.02c"/>
             <num>402c</num>
             <heading proof="needed">Tenant support providers.</heading>
@@ -609,7 +609,7 @@
             <annotation doc="D.C. Law 3-86" type="History" path="§402c">Sept. 10, 1980, D.C. Law 3-86, § 402c</annotation>
             <codify:not-funded-anno doc="D.C. Law 26-80" path="§301|(c)|includes|402c" applicability-path="§701|(a)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§42-3404.02c" codified:display="Note"/>
           </section>
-          <section>
+          <section codify:applicability="notfunded">
             <codify:insert path="42|34|IV" after="§42-3404.02c" num-value="42-3404.02d" history-prefix="as added" codified:doc="D.C. Code" codified:path="§42-3404.02d"/>
             <num>402d</num>
             <heading proof="needed">Qualified purchaser.</heading>
@@ -1095,7 +1095,7 @@
           <replace><code-cite doc="D.C. Code" path="§42-3404.09|(c)|(5)">409(c)(5)</code-cite>, <code-cite doc="D.C. Code" path="§42-3404.10|(a)|(3)">410(a)(3)</code-cite> and <cite doc="D.C. Code" path="§42-3404.10|(a)|(4)">(4)</cite>, and <code-cite doc="D.C. Code" path="§42-3404.11|(3)">411(3)</code-cite> and <cite doc="D.C. Code" path="§42-3404.11|(4)">(4)</cite></replace>
         </codify:find-replace>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(m)</num>
         <text>A new section 415 is added to read as follows:</text>
         <include>
@@ -1262,7 +1262,7 @@
         <aftertext>.</aftertext>
       </para>
     </section>
-    <section codify:path="§42-1102">
+    <section codify:path="§42-1102" codify:applicability="notfunded">
       <num>302</num>
       <text>Section 302 of the District of Columbia Deed Recordation Tax Act, approved March 2, 1962 (76 Stat. 11; D.C. Official Code 42-1102), is amended by adding a new paragraph (14A) to read as follows:</text>
       <include lvl="1">

@@ -28,7 +28,7 @@
       <heading>Proactive Inspection of Multifamily Rental Housing.</heading>
     </container>
   </codify:insert>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="10|5C" num-value="10-571.01" codified:doc="D.C. Code" codified:path="§10-571.01"/>
     <num>2</num>
     <heading proof="needed">Definitions.</heading>
@@ -78,7 +78,7 @@
       <codify:not-funded-anno doc="D.C. Law 25-141" path="§2" applicability-path="§9" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§10-571.01" codified:display="Note"/>
     </para>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="10|5C" num-value="10-571.02" codified:doc="D.C. Code" codified:path="§10-571.02"/>
     <num>3</num>
     <heading proof="needed">Program; purpose.</heading>
@@ -212,7 +212,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Law 25-141" path="§3" applicability-path="§9" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§10-571.02" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="10|5C" num-value="10-571.03" codified:doc="D.C. Code" codified:path="§10-571.03"/>
     <num>4</num>
     <heading proof="needed">Proactive inspections; units inspected; consent of tenants.</heading>
@@ -367,7 +367,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Law 25-141" path="§4" applicability-path="§9" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§10-571.03" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="10|5C" num-value="10-571.04" codified:doc="D.C. Code" codified:path="§10-571.04"/>
     <num>5</num>
     <heading proof="needed">Proactive inspection fees and fines.</heading>
@@ -381,7 +381,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Law 25-141" path="§5" applicability-path="§9" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§10-571.04" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="10|5C" num-value="10-571.05" codified:doc="D.C. Code" codified:path="§10-571.05"/>
     <num>6</num>
     <heading proof="needed">Proactive inspection algorithm evaluation report.</heading>
@@ -411,7 +411,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Law 25-141" path="§6" applicability-path="§9" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§10-571.05" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="10|5C" num-value="10-571.06" codified:doc="D.C. Code" codified:path="§10-571.06"/>
     <num>7</num>
     <heading proof="needed">Rules.</heading>
@@ -429,7 +429,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Law 25-141" path="§7" applicability-path="§9" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§10-571.06" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <num>8</num>
     <text>Section 202 of the Department of Buildings Establishment Act of 2020, effective April 5, 2021 (D.C. Law 23-269; D.C. Official Code § 10-562.02), is amended to read as follows:</text>
     <include>

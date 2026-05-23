@@ -29,7 +29,7 @@
       <heading>Electrical and Gas Utility Underground Work Wage. [Not Funded]</heading>
     </container>
   </codify:insert>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="32|10C" num-value="32-1081.01" codified:doc="D.C. Code" codified:path="§32-1081.01"/>
     <num>2</num>
     <heading proof="needed">Definitions.</heading>
@@ -64,7 +64,7 @@
     </para>
     <codify:not-funded-anno doc="D.C. Law 25-274" path="§2" applicability-path="§8" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§32-1081.01" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="32|10C" after="§32-1081.01" num-value="32-1081.02" codified:doc="D.C. Code" codified:path="§32-1081.02"/>
     <num>3</num>
     <heading proof="needed">Prevailing wage requirement.</heading>
@@ -114,7 +114,7 @@
     <codify:annotation history="false" path="§32-1081.02" type="Editor's Notes" effective="true" codified:doc="D.C. Code" codified:path="§32-1081.02"><cite doc="D.C. Law 25-274" path="§7">Section 7 of D.C. Law 25-274</cite> provided that D.C. Law 25-274 shall apply 180 day after its applicability date.</codify:annotation>
     <codify:not-funded-anno doc="D.C. Law 25-274" path="§3" applicability-path="§8" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§32-1081.02" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="32|10C" after="§32-1081.02" num-value="32-1081.03" codified:doc="D.C. Code" codified:path="§32-1081.03"/>
     <num>4</num>
     <heading proof="needed">Notification and record-keeping requirements.</heading>
@@ -137,7 +137,7 @@
     <codify:annotation history="false" path="§32-1081.03" type="Editor's Notes" effective="true" codified:doc="D.C. Code" codified:path="§32-1081.03"><cite doc="D.C. Law 25-274" path="§7">Section 7 of D.C. Law 25-274</cite> provided that D.C. Law 25-274 shall apply 180 day after its applicability date.</codify:annotation>
     <codify:not-funded-anno doc="D.C. Law 25-274" path="§4" applicability-path="§8" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§32-1081.03" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="32|10C" after="§32-1081.03" num-value="32-1081.04" codified:doc="D.C. Code" codified:path="§32-1081.04"/>
     <num>5</num>
     <heading proof="needed">Nonliability of utility company.</heading>
@@ -145,7 +145,7 @@
     <codify:not-funded-anno doc="D.C. Law 25-274" path="§5" applicability-path="§8" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§32-1081.04" codified:display="Note"/>
     <codify:annotation history="false" path="§32-1081.04" type="Editor's Notes" effective="true" codified:doc="D.C. Code" codified:path="§32-1081.04"><cite doc="D.C. Law 25-274" path="§7">Section 7 of D.C. Law 25-274</cite> provided that D.C. Law 25-274 shall apply 180 day after its applicability date.</codify:annotation>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="32|10C" after="§32-1081.04" num-value="32-1081.05" codified:doc="D.C. Code" codified:path="§32-1081.05"/>
     <num>6</num>
     <heading proof="needed">Enforcement; rulemaking.</heading>
@@ -160,7 +160,7 @@
     <codify:annotation history="false" path="§32-1081.05" type="Editor's Notes" effective="true" codified:doc="D.C. Code" codified:path="§32-1081.05"><cite doc="D.C. Law 25-274" path="§7">Section 7 of D.C. Law 25-274</cite> provided that D.C. Law 25-274 shall apply 180 day after its applicability date.</codify:annotation>
     <codify:not-funded-anno doc="D.C. Law 25-274" path="§6" applicability-path="§8" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§32-1081.05" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <num>7</num>
     <heading proof="needed">Applicability.</heading>
     <text>This act shall apply 180 days after its applicability date.</text>

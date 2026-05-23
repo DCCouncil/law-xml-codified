@@ -151,7 +151,7 @@
       <section codify:path="3|7A">
         <num>1014</num>
         <text>The Commission on Fathers, Men, and Boys Establishment Act of 2014, effective February 26, 2015 (D.C. Law 20-155; D.C. Official Code § 3-731 <em>et seq</em>.), is repealed.</text>
-        <codify:repeal codified:doc="D.C. Code" codified:path="§3-731"/>
+        <codify:repeal codified:doc="D.C. Code" codified:path="§3-731|annos"/>
       </section>
       <section codify:path="§24-1302">
         <num>1015</num>
@@ -3224,7 +3224,7 @@
         </include>
         <aftertext>.</aftertext>
       </section>
-      <section codify:path="§1-604.06|(b)|(25)">
+      <section codify:path="§1-604.06|(b)|(25)" codify:applicability="2025-09-30">
         <num>3023</num>
         <text>Section 406(b)(25) of the District of Columbia Government Comprehensive Merit Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-604.06(b)(25)), is repealed.</text>
         <codify:repeal codified:doc="D.C. Code" codified:path="§1-604.06|(b)|(25)"/>
@@ -10973,7 +10973,7 @@
       <section>
         <num>7093</num>
         <text>Drug-, Firearm-, or Prostitution-Related Nuisance Abatement Fund (1060263)</text>
-        <para codify:path="§42-3111.01">
+        <para codify:path="§42-3111.01" codify:applicability="notfunded">
           <num>(a)</num>
           <text>Section 12a of the Drug-Related Nuisance Abatement Act of 1998, effective April 4, 2006 (D.C. Law 16-81; D.C. Official Code § 42-3111.01), is amended as follows:</text>
           <para codify:path="(a)">
@@ -13653,7 +13653,7 @@
       <section>
         <num>7206</num>
         <text>The Bedbug Control Act of 2022, effective February 23, 2023 (D.C. Law 24-238; 69 DCR 14738), is repealed.</text>
-        <codify:repeal doc="D.C. Code" path="42|35C" codified:doc="D.C. Code" codified:path="§42-3551.01"/>
+        <codify:repeal doc="D.C. Code" path="42|35C" codified:doc="D.C. Code" codified:path="§42-3551.01|annos"/>
         <codify:repeal doc="D.C. Code" path="§2-1831.03|(b-30)" codified:doc="D.C. Code" codified:path="§2-1831.03|(b-30)"/>
         <codify:repeal doc="D.C. Code" path="§42-3502.22|(b)|(1)|(M)" codified:doc="D.C. Code" codified:path="§42-3502.22|(b)|(1)|(M)"/>
         <codify:repeal doc="D.C. Code" path="§42-3502.22|(b)|(1)|(N)" codified:doc="D.C. Code" codified:path="§42-3502.22|(b)|(1)|(N)"/>

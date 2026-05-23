@@ -123,7 +123,7 @@
       <text>A new Chapter 53 is added to read as follows:</text>
       <include>
         <container>
-          <codify:insert doc="D.C. Code" path="28" after="52" codified:doc="D.C. Code" codified:path="§28-5301"/>
+          <codify:insert doc="D.C. Code" path="28" after="52" codified:doc="D.C. Code" codified:path="§28-5301|annos"/>
           <prefix>Chapter</prefix>
           <num>53</num>
           <heading codify:value="Immigration Services Protection.">IMMIGRATION SERVICES PROTECTION.</heading>

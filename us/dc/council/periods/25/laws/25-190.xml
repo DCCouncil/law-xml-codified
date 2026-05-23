@@ -197,7 +197,7 @@
       <aftertext>.</aftertext>
     </para>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <num>8</num>
     <heading proof="needed">Conforming amendment.</heading>
     <para codify:path="§2-1931|(3)|(B)">
@@ -264,7 +264,7 @@
     <para>
       <num>(a)</num>
       <text>Sections 4, 5, 6, and 8 of this act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:find-replace path="2|12|II-A|A" position="first" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1204.01">
+      <codify:find-replace path="2|12|II-A|A" position="first" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1204.01|annos">
         <find>Television Development.</find>
         <replace>Television Development. [Repealed]</replace>
       </codify:find-replace>

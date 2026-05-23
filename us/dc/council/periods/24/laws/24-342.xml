@@ -290,7 +290,7 @@
         </para>
       </para>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(d)</num>
       <text>Section 13(c) (D.C. Official Code § 1-309.10(c)) is amended by adding a new paragraph (5) to read as follows:</text>
       <include lvl="1">
@@ -547,7 +547,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
-        <para codify:path="(10A)">
+        <para codify:path="(10A)" codify:applicability="notfunded">
           <num>(G)</num>
           <text>Paragraph (10A) is amended to read as follows:</text>
           <include lvl="1">
@@ -711,7 +711,7 @@
             </codify:find-replace>
           </para>
         </para>
-        <para>
+        <para codify:applicability="notfunded">
           <num>(N)</num>
           <text>A new paragraph (21) is added to read as follows:</text>
           <include lvl="1">

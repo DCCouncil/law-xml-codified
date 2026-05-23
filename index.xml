@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <library xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <heading>D.C. Law Library</heading>
   <meta>
@@ -21,12 +21,13 @@
     </redirects>
     <build xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="DCCouncil/law-xml" commit="385301461f70adc476c8093b50d4e27730972f84"/>
+        <repository name="DCCouncil/law-xml" commit="c9bc41708d13fce1b85289712bc39cc22a5f1d34"/>
       </repositories>
-      <platform version="2.12.10" reproducible="false"/>
-      <build-date>2026-05-19</build-date>
-      <codified-date>2026-05-19</codified-date>
-      </build>
+      <platform version="2.20.12" reproducible="true"/>
+      <build-date>2026-05-23</build-date>
+      <codified-date>2026-05-23</codified-date>
+      <publication>publication/2026-05-23</publication>
+    </build>
   </meta>
   <xi:include href="./us/dc/council/code/index.xml"/>
   <collection name="dclaws">

@@ -28,7 +28,7 @@
       <heading>Mobile Customer Service Center Program.</heading>
     </container>
   </codify:insert>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="50|9|III" num-value="50-915" codified:doc="D.C. Code" codified:path="§50-915"/>
     <num>2</num>
     <heading>Mobile Customer Service Center Program.</heading>

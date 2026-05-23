@@ -2199,7 +2199,7 @@
             <find>Office.</find>
             <replace>Office. [Repealed]</replace>
           </codify:find-replace>
-          <codify:repeal path="2|5|V" display-template="" codified:doc="D.C. Code" codified:path="§2-591"/>
+          <codify:repeal path="2|5|V" display-template="" codified:doc="D.C. Code" codified:path="§2-591|annos"/>
         </para>
       </section>
       <section codify:path="§1-1171.01|(1)">
@@ -10364,7 +10364,7 @@
         <num>7202</num>
         <text>The Washington Metropolitan Area Transit Authority Fund Act of 2006, effective June 16, 2006 (D.C. Law 16-132; D.C. Official Code § 9-1108.01 <em>et seq</em>.), is repealed.</text>
         <codify:repeal doc="D.C. Law 16-132" codified:doc="D.C. Code" codified:path="§9-1108.01"/>
-        <codify:find-replace doc="D.C. Code" path="9|11|IV-A" count="1" codified:doc="D.C. Code" codified:path="§9-1108.01">
+        <codify:find-replace doc="D.C. Code" path="9|11|IV-A" count="1" codified:doc="D.C. Code" codified:path="§9-1108.01|annos">
           <find>Fund.</find>
           <replace>Fund. [Repealed]</replace>
         </codify:find-replace>
@@ -10388,7 +10388,7 @@
         <num>7204</num>
         <text>The Stroke System of Care Act of 2014, effective March 10, 2015 (D.C. Law 20-185; D.C. Official Code § 44-1151 <em>et seq</em>.), is repealed.</text>
         <codify:repeal doc="D.C. Law 20-185" codified:doc="D.C. Code" codified:path="§44-1151"/>
-        <codify:find-replace doc="D.C. Code" path="44|11A" count="1" codified:doc="D.C. Code" codified:path="§44-1151">
+        <codify:find-replace doc="D.C. Code" path="44|11A" count="1" codified:doc="D.C. Code" codified:path="§44-1151|annos">
           <find>Care.</find>
           <replace>Care. [Repealed]</replace>
         </codify:find-replace>
@@ -10397,7 +10397,7 @@
         <num>7205</num>
         <text>The Unemployment Profile Act of 2015, effective December 15, 2015 (D.C. Law 21-38; .D.C. Official Code § 32-1371 <em>et seq</em>), is repealed.</text>
         <codify:repeal doc="D.C. Code" path="§32-1371" codified:doc="D.C. Code" codified:path="§32-1371"/>
-        <codify:find-replace doc="D.C. Code" path="32|13D" count="1" codified:doc="D.C. Code" codified:path="§32-1371">
+        <codify:find-replace doc="D.C. Code" path="32|13D" count="1" codified:doc="D.C. Code" codified:path="§32-1371|annos">
           <find>Profile.</find>
           <replace>Profile. [Repealed]</replace>
         </codify:find-replace>
@@ -11344,7 +11344,7 @@
               <find>Check-Off.</find>
               <replace>Check-Off. [Repealed].</replace>
             </codify:find-replace>
-            <codify:repeal doc="D.C. Code" path="47|40" codified:doc="D.C. Code" codified:path="§47-4001"/>
+            <codify:repeal doc="D.C. Code" path="47|40" codified:doc="D.C. Code" codified:path="§47-4001|annos"/>
           </para>
         </para>
       </section>

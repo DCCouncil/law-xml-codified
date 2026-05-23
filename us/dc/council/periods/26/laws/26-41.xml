@@ -247,7 +247,7 @@
       <prefix>SUBTITLE</prefix>
       <num>C</num>
       <heading>SINGLE FAMILY HOME REHABILITATION PROGRAM.</heading>
-      <section>
+      <section codify:applicability="notfunded">
         <codify:insert path="42|30A" num-value="42-3021" codified:doc="D.C. Code" codified:path="§42-3021"/>
         <num>121</num>
         <heading proof="needed">Definitions.</heading>
@@ -297,7 +297,7 @@
         </para>
         <codify:not-funded-anno doc="D.C. Law 26-41" path="§121" applicability-path="§401|(a)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§42-3021" codified:display="Note"/>
       </section>
-      <section>
+      <section codify:applicability="notfunded">
         <codify:insert path="42|30A" after="§42-3021" num-value="42-3022" codified:doc="D.C. Code" codified:path="§42-3022"/>
         <num>122</num>
         <heading proof="needed">Single-family home rehabilitation program.</heading>
@@ -351,7 +351,7 @@
       <prefix>SUBTITLE</prefix>
       <num>D</num>
       <heading>REAL PROPERTY TAX PAYMENT PLANS.</heading>
-      <section>
+      <section codify:applicability="notfunded">
         <num>131</num>
         <text>Title 47 of the District of Columbia Official Code is amended as follows:</text>
         <para>
@@ -1245,7 +1245,7 @@
           <replace>Department of Buildings</replace>
         </codify:find-replace>
       </para>
-      <para codify:path="§42-3131.12">
+      <para codify:path="§42-3131.12" codify:applicability="notfunded">
         <num>(j)</num>
         <text>Section 12 (D.C. Official Code § 42-3131.12) is amended to read as follows:</text>
         <include>
@@ -1487,7 +1487,7 @@
         <text>Section 19 (D.C. Official Code § 42-3131.19) is repealed.</text>
         <codify:repeal codified:doc="D.C. Code" codified:path="§42-3131.19"/>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(p)</num>
         <text>New sections 20 and 21 are added to read as follows:</text>
         <include>
@@ -1828,7 +1828,7 @@
       <prefix>SUBTITLE</prefix>
       <num>A</num>
       <heading>EXPEDITED PERMIT REVIEW FOR VACANT AND BLIGHTED PROPERTIES.</heading>
-      <section codify:path="6|14|I">
+      <section codify:path="6|14|I" codify:applicability="notfunded">
         <num>301</num>
         <text>The Construction Codes Approval and Amendments Act of 1986, effective March 21, 1987 (D.C. Law 6-216; D.C. Official Code § 6-1401 <em>et seq</em>.), is amended by adding a new section 10e to read as follows:</text>
         <include>
@@ -1890,7 +1890,7 @@
       <section>
         <num>302</num>
         <text>Chapter 8 of Title 47 of the District of Columbia Official Code is amended as follows:</text>
-        <para codify:path="§47-812">
+        <para codify:path="§47-812" codify:applicability="notfunded">
           <num>(a)</num>
           <text>Section 47-812 is amended by adding a new subsection (b-13) to read as follows:</text>
           <include>
@@ -1966,7 +1966,7 @@
           <aftertext>.</aftertext>
           <codify:not-funded-anno doc="D.C. Law 26-41" path="§302|(a)" applicability-path="§401|(a)" action="amendment to" display-template="" codified:doc="D.C. Code" codified:path="§47-812|(b-13)" codified:display="Note"/>
         </para>
-        <para codify:path="§47-813">
+        <para codify:path="§47-813" codify:applicability="notfunded">
           <num>(b)</num>
           <text>Section 47-813 is amended as follows:</text>
           <para codify:path="(c-9)">
@@ -2221,7 +2221,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
-        <para codify:path="§47-1330">
+        <para codify:path="§47-1330" codify:applicability="notfunded">
           <num>(b)</num>
           <text>Section 47-1330 is amended as follows:</text>
           <para>
@@ -2293,7 +2293,7 @@
             <codify:not-funded-anno doc="D.C. Law 26-41" path="§303|(b)" applicability-path="§401|(a)" action="amendment to" display-template="" codified:doc="D.C. Code" codified:path="§47-1330|(1A)" codified:display="Note"/>
           </para>
         </para>
-        <para codify:path="§47-1332|(c)">
+        <para codify:path="§47-1332|(c)" codify:applicability="notfunded">
           <num>(c)</num>
           <text>Section 47-1332(c) is amended to read as follows:</text>
           <include>
@@ -2326,7 +2326,7 @@
           <aftertext>.</aftertext>
           <codify:not-funded-anno doc="D.C. Law 26-41" path="§303|(c)" applicability-path="§401|(a)" action="amendment to" display-template="" codified:doc="D.C. Code" codified:path="§47-1332|(c)" codified:display="Note"/>
         </para>
-        <para>
+        <para codify:applicability="notfunded">
           <num>(d)</num>
           <text>A new subchapter V is added to read as follows:</text>
           <include>
@@ -2797,7 +2797,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
-        <para>
+        <para codify:applicability="notfunded">
           <num>(b)</num>
           <text>A new subchapter XIX is added to read as follows:</text>
           <include>
@@ -2996,7 +2996,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
-        <para codify:path="47|8|III">
+        <para codify:path="47|8|III" codify:applicability="notfunded">
           <num>(b)</num>
           <text>New sections 47-861.01, 47-861.02, 47-861.03, and 47-861.04 are added to read as follows:</text>
           <include>

@@ -1003,7 +1003,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
-        <para codify:path="(a)">
+        <para codify:path="(a)" codify:applicability="notfunded">
           <num>(2)</num>
           <text>A new paragraph (5) is added to read as follows:</text>
           <include lvl="1">
@@ -1213,12 +1213,12 @@
       <para codify:path="50|24|I">
         <num>(f)</num>
         <text>The District of Columbia Abandoned and Junk Vehicle Removal Amendment Act of 1989, effective September 9, 1989 (D.C. Law 8-24, D.C. Official Code § 50-2401 <em>et seq.</em>), is repealed.</text>
-        <codify:repeal codified:doc="D.C. Code" codified:path="§50-2401"/>
+        <codify:repeal codified:doc="D.C. Code" codified:path="§50-2401|annos"/>
       </para>
       <para codify:path="50|24|II">
         <num>(g)</num>
         <text>The Removal and Disposition of Abandoned and Other Unlawfully Parked Vehicles Reform Act of 2003, effective October 28, 2003 (D.C. Law 15-35; D.C. Official Code § 50-2421.01 <em>et seq.</em>), is repealed.</text>
-        <codify:repeal codified:doc="D.C. Code" codified:path="§50-2421.01"/>
+        <codify:repeal codified:doc="D.C. Code" codified:path="§50-2421.01|annos"/>
       </para>
       <para codify:path="§50-2624">
         <num>(h)</num>

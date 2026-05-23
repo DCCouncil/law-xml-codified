@@ -59,7 +59,7 @@
             </para>
           </para>
         </para>
-        <para>
+        <para codify:applicability="notfunded">
           <num>(c)</num>
           <para>
             <num>(1)</num>
@@ -127,7 +127,7 @@
             <text>Department officers required to escort or accompany the incarcerated individual to a hospital during labor, delivery, a cesarean section, pregnancy termination, or during postpartum recovery while hospitalized shall be stationed outside the delivery room; except, that in the event of extraordinary circumstances as determined by the Department, a Department officer may stand in a place in the delivery room that grants as much privacy as possible to the incarcerated individual throughout labor, delivery, a cesarean section, or a pregnancy termination; provided further, that a Department officer may not be stationed in the delivery room if a Department staff member is present acting as the incarcerated individual's approved support person or if the medical provider determines that the removal of the Department officer is medically necessary.</text>
           </para>
         </para>
-        <para>
+        <para codify:applicability="notfunded">
           <num>(e)</num>
           <text>For the duration of the period that an approved support person is present with the incarcerated individual, the Department shall:</text>
           <para>
@@ -151,7 +151,7 @@
           <num>(f)</num>
           <text>At least 2 months prior to an incarcerated pregnant individual's estimated delivery date or within one week of arrival in DOC custody if the incarcerated individual's estimated delivery date is sooner than 2 months away, the Department shall provide the individual with contact information for family law attorneys that can counsel the individual regarding their options to establish the infant's paternity, and for the placement, custody, and care of the infant after birth.</text>
         </para>
-        <para>
+        <para codify:applicability="notfunded">
           <num>(g)</num>
           <text>The Department shall allow additional visitation beyond that permitted by Department policy between an incarcerated individual who is the parent of a child under one year of age and that child and shall give special consideration of additional visitation to an incarcerated individual who is breastfeeding their child. The Department shall allow an incarcerated individual who pumps breast milk to breast feed their child during visitation if the individual informs a supervising guard that they wish to.</text>
         </para>
@@ -174,7 +174,7 @@
         <annotation type="History" doc="Stat. 79-2-ch507" path="§10">June 27, 1946, 60 Stat. 320, ch. 507, § 10</annotation>
         <codify:not-funded-anno doc="D.C. Law 25-326" path="§2|includes|10" applicability-path="§4" action="creation of subsections (c), (e), and (g) in" display-template="" codified:doc="D.C. Code" codified:path="§24-211.10" codified:display="Note"/>
       </section>
-      <section>
+      <section codify:applicability="notfunded">
         <codify:insert path="24|2|II|A" after="§24-211.10" num-value="24-211.11" history-prefix="as added" codified:doc="D.C. Code" codified:path="§24-211.11"/>
         <num>11</num>
         <heading proof="needed">Private right of action.</heading>

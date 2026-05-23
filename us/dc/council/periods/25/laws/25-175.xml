@@ -188,7 +188,7 @@
         The District's Chief Financial Officer stated in a letter to the Council's Budget Director, dated October 17, 2024, that the amendment of this section by D.C. Law 25-175 has been funded. Therefore that amendment has been implemented.
       </codify:annotation>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>[(b-1)]</num>
       <text>A new section 3024 is added to read as follows:</text>
       <include>
@@ -645,7 +645,7 @@
     </para>
   </section>
   <codify:marginalia display="Amendment Not Funded"/>
-  <section>
+  <section codify:applicability="notfunded">
     <num>5</num>
     <text>Section 204(d-1) of the Freedom of Information Act of 1976, effective March 29, 1977 (D.C. Law 1-96; D.C. Official Code § 2-534(d-1)), is amended as follows:</text>
     <para codify:path="(2)|(A)">
@@ -917,7 +917,7 @@
     <aftertext>.</aftertext>
   </section>
   <codify:marginalia display="Amendment Not Funded"/>
-  <section>
+  <section codify:applicability="notfunded">
     <num>9</num>
     <text>Section 201(c) of the Expanding Supports for Crime Victims Amendment Act of 2022, effective April 6, 2023 (D.C. Law 24-341, D.C. Official Code § 4-581.01(c)), is amended as follows:</text>
     <para codify:path="(4)|(C)">
@@ -1164,7 +1164,7 @@
       </para>
     </para>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <num>14</num>
     <text>The Office of Citizen Complaint Review Establishment Act of 1998, effective March 26, 1999 (D.C. Law 12-208; D.C. Official Code § 5-1101 <em>et seq.</em>), is amended as follows:</text>
     <para codify:path="§5-1104|(d-2)|(3)">
@@ -4372,7 +4372,7 @@
       <aftertext>.</aftertext>
     </para>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <num>32</num>
     <text>An Act to create a Department of Corrections in the District of Columbia, approved June 27, 1946 (60 Stat. 320; D.C. Official Code § 24-211.01 <em>et seq.</em>), is amended by adding a new section 9 to read as follows:</text>
     <include>
@@ -4500,7 +4500,7 @@
     <annotation type="History" doc="Stat. 79-2-ch507" path="§9">June 27, 1946, ch. 507, § 9</annotation>
     <codify:not-funded-anno doc="D.C. Code" path="§24-211.09" applicability-path="§45" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§24-211.09" codified:display="Note"/>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <num>33</num>
     <text>The Youth Rehabilitation Amendment Act of 1985, effective December 7, 1985 (D.C. Law 6-69; D.C. Official Code § 24-901 <em>et seq.</em>), is amended by adding a new section 7c to read as follows:</text>
     <include>
@@ -5250,7 +5250,7 @@
           <codify:annotation doc="D.C. Code" path="§16-807" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§16-807"><cite doc="D.C.Law 25-175" path="§40|(b)">Section 40(b) of D.C. Law 25-175</cite> amended <cite doc="D.C. Law 24-284" path="§301">section 301 of D.C. Law 24-284</cite> changing the applicability provision impacting this section to October 1, 2024.  Therefore the amendment of this section by section 101(b) of Law 24-284 will be implemented on October 1, 2024.</codify:annotation>
           <codify:annotation doc="D.C. Code" path="§16-808" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§16-808"><cite doc="D.C.Law 25-175" path="§40|(b)">Section 40(b) of D.C. Law 25-175</cite> amended <cite doc="D.C. Law 24-284" path="§301">section 301 of D.C. Law 24-284</cite> changing the applicability provision impacting this section to October 1, 2024.  Therefore the creation of this section by section 101(b) of Law 24-284 will be implemented on October 1, 2024.</codify:annotation>
           <codify:annotation doc="D.C. Code" path="§16-809" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§16-809"><cite doc="D.C.Law 25-175" path="§40|(b)">Section 40(b) of D.C. Law 25-175</cite> amended <cite doc="D.C. Law 24-284" path="§301">section 301 of D.C. Law 24-284</cite> changing the applicability provision impacting this section to October 1, 2024.  Therefore the creation of this section by section 101(b) of Law 24-284 will be implemented on October 1, 2024.</codify:annotation>
-          <codify:annotation doc="D.C. Code" path="2|16A" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§2-1651"><cite doc="D.C.Law 25-175" path="§40|(b)">Section 40(b) of D.C. Law 25-175</cite> amended <cite doc="D.C. Law 24-284" path="§301">section 301 of D.C. Law 24-284</cite> changing the applicability provision impacting this section to October 1, 2024.  Therefore the creation of this section by Law 24-284 will be implemented on October 1, 2024.
+          <codify:annotation doc="D.C. Code" path="2|16A" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§2-1651|annos"><cite doc="D.C.Law 25-175" path="§40|(b)">Section 40(b) of D.C. Law 25-175</cite> amended <cite doc="D.C. Law 24-284" path="§301">section 301 of D.C. Law 24-284</cite> changing the applicability provision impacting this section to October 1, 2024.  Therefore the creation of this section by Law 24-284 will be implemented on October 1, 2024.
         </codify:annotation>
         </section>
       </include>
@@ -5286,7 +5286,7 @@
       <heading>Comprehensive Public Safety Plan.</heading>
     </container>
   </codify:insert>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:insert path="22|42C" num-value="22-4271" codified:doc="D.C. Code" codified:path="§22-4271"/>
     <num>44</num>
     <heading proof="needed">Comprehensive Public Safety Plan.</heading>

@@ -32,7 +32,7 @@
     <para>
       <num>(b)</num>
       <text>The short title is amended by striking the phrase "Senior Citizen Motor" and inserting the word "Motor" in its place.</text>
-      <codify:find-replace path="50|20" count="1" history="false" codified:doc="D.C. Code" codified:path="§50-2001">
+      <codify:find-replace path="50|20" count="1" history="false" codified:doc="D.C. Code" codified:path="§50-2001|annos">
         <find>Senior Citizen Motor</find>
         <replace>Motor</replace>
       </codify:find-replace>

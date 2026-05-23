@@ -2297,7 +2297,7 @@
       <text>Section 30(c) (D.C. Official Code § 4-756.01(c)) is repealed.</text>
       <codify:repeal path="§4-756.01|(c)" codified:doc="D.C. Code" codified:path="§4-756.01|(c)"/>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(nn)</num>
       <text>A new section 31d is added to read as follows:</text>
       <include>
@@ -2399,7 +2399,7 @@
       <annotation doc="D.C. Law 16-35" type="History" path="§31d">Oct. 22, 2005, D.C. Law 16-35, §  31d</annotation>
       <codify:not-funded-anno doc="D.C. Law 22-65" path="§2|(nn)" applicability-path="§5" action="creation of" codified:doc="D.C. Code" codified:path="§4-756.06" codified:display="Note"/>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(oo)</num>
       <text>A new section 31e is added to read as follows:</text>
       <include>
