@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-151.13a</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 20, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§8-151.13a(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>CRIAC Assistance Fund.</heading>
   <para>
     <num>(a)</num>
@@ -20,7 +23,45 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>Money in the Fund shall be used to pay for the costs of implementing the financial assistance programs authorized by <cite path="§34-2202.16b">§ 34-2202.16b</cite>.</text>
+    <para>
+      <num>(1)</num>
+      <text>Money in the Fund shall be used to pay for the costs of implementing the financial assistance programs authorized by <cite path="§34-2202.16b">§ 34-2202.16b</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <para>
+        <num>(A)</num>
+        <text>In Fiscal Year 2023, money in the fund may be provided to eligible residential customers of the District of Columbia Water and Sewer Authority ("DC Water") for the payment of amounts due to DC Water.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A residential customer shall be deemed eligible for relief under this paragraph where:</text>
+        <para>
+          <num>(i)</num>
+          <text>The residential customer is a resident of the District of Columbia;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The residential customer's annual household income is less than or equal to 100% of the area median income; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Continued nonpayment of amounts due to DC Water will result in the discontinuance of water service to the residential customer during Fiscal Year 2023.</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Amounts made available from the Fund for relief provided under this paragraph shall not exceed the fund balance as of September 30, 2022.</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The Mayor may issue a grant, reprogramming, or other transfer of funds to DC Water to implement this paragraph.</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>On or before July 1, 2022, the Department of Energy and Environment shall provide data to the Council on, for Fiscal Year 2023, the number of residential customers provided funding and the total dollar amount of funding provided to residential customers pursuant to this paragraph.</text>
+      </para>
+    </para>
   </para>
   <para>
     <num>(d)</num>
@@ -95,5 +136,9 @@
     <annotation app="2021-06-07" doc="D.C. Act 24-96" eff="2021-06-07" path="§307|(a)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-9" path="§307|(a)" codified:display="Note" app="2021-06-24" eff="2021-06-24">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-9" path="§307|(a)">§ 307(a) of Coronavirus Support Temporary Amendment Act of 2021 (D.C. Law 24-9, June 24, 2021, 68 DCR 004824)</cite>.</annotation>
     <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§307|(a)" type="History" display="false"/>
+    <annotation app="2022-11-22" doc="D.C. Act 24-675" eff="2022-11-22" path="§2" type="History" display="false"/>
+    <annotation app="2022-11-22" doc="D.C. Act 24-675" eff="2022-11-22" path="§2|(a)" type="History"/>
+    <annotation app="2022-11-22" doc="D.C. Act 24-675" eff="2022-11-22" path="§2|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-675" path="§2" codified:display="Note" app="2022-11-22" eff="2022-11-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-675" path="§2">§ 2 of CRIAC Assistance Fund Emergency Amendment Act of 2022 (D.C. Act 24-675, Nov. 22, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
