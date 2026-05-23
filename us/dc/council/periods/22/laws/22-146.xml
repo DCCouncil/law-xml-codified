@@ -33,7 +33,7 @@
         <text>A new paragraph (8A) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(8)" codified:doc="D.C. Code" codified:path="§8-1031.01|(8A)"/>
+            <codify:insert after="(8)" codified:doc="D.C. Code" codified:path="§8-1031.01|(8C)"/>
             <num>(8A)</num>
             <text>"Home composting system" means containers, bins, tumblers, and other equipment, approved by the Department of Public Works, used to facilitate composting or vermicomposting on residential property in the District.</text>
           </para>
@@ -45,7 +45,7 @@
         <text>A new paragraph (20A) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(20)" codified:doc="D.C. Code" codified:path="§8-1031.01|(20A)"/>
+            <codify:insert after="(20)" codified:doc="D.C. Code" codified:path="§8-1031.01|(20B)"/>
             <num>(20A)</num>
             <text>"Vermicomposting" means the process of using earthworms and microorganisms to convert organic materials into vermicompost.</text>
           </para>

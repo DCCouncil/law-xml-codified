@@ -19023,15 +19023,26 @@
         <num>7195</num>
         <text>Section 301 of the Addressing Dyslexia and Other Reading Difficulties Amendment Act of 2020, effective March 16, 2021 (D.C. Law 23-191; 68 DCR 115), is repealed.</text>
         <codify:repeal doc="D.C. Law 23-191" path="§301"/>
+        <codify:annotation doc="D.C. Code" path="38|25D" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§38-2581.01"><cite doc="D.C. Act 24-159" path="§7195">Section 7195 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-191" path="§301">section 301 of D.C. Law 23-191</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by Law 23-191 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§38-1802.04" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§38-1802.04"><cite doc="D.C. Act 24-159" path="§7195">Section 7195 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-184" path="§301">section 301 of D.C. Law 23-184</cite> removing the applicability provision impacting this section.  Therefore, the amendment of this section by Law 23-184 has been implemented.
+        </codify:annotation>
       </section>
       <section>
         <num>7196</num>
         <text>Section 4 of the Initiative and Referendum Process Improvement Amendment Act of 2020, effective March 16, 2021 (D.C. Law 23-192; 68 DCR 1073), is repealed.</text>
         <codify:repeal doc="D.C. Law 23-192" path="§4"/>
+        <codify:annotation doc="D.C. Code" path="§1-1001.05" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§1-1001.05"><cite doc="D.C. Act 24-159" path="§7196">Section 7196 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-192" path="§4">section 4 of D.C. Law 23-192</cite> removing the applicability provision impacting this section.  Therefore, the amendment of this section by Law 23-192 has been implemented.
+        </codify:annotation>
       </section>
       <section>
         <num>7197</num>
         <text>Section 3 of the Electric Vehicle Readiness Amendment Act of 2020, effective March 16, 2021 (D.C. Law 23-194; 68 DCR 1100), is repealed.</text>
+        <codify:repeal doc="D.C. Law 23-194" path="§3"/>
+        <codify:annotation doc="D.C. Code" path="§6-1451.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§6-1451.01"><cite doc="D.C. Act 24-159" path="§7197">Section 7197 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-194" path="§3">section 3 of D.C. Law 23-194</cite> removing the applicability provision impacting this section.  Therefore, the amendment of this section by Law 23-194 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§6-1451.03a" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§6-1451.03a"><cite doc="D.C. Act 24-159" path="§7197">Section 7197 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-194" path="§3">section 3 of D.C. Law 23-194</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by Law 23-194 has been implemented.
+        </codify:annotation>
       </section>
       <section>
         <num>7198</num>
@@ -19039,6 +19050,90 @@
         <para>
           <num>(a)</num>
           <text>Subsection (a) is amended by striking the phrase "one year after the date described in subsection (b) of this section." and inserting the phrase "October 1, 2022." in its place.</text>
+          <codify:find-replace path="§8-1771.03|(b)|(1A)" count="1" codified:doc="D.C. Code" codified:path="§8-1771.03|(b)|(1A)">
+            <find>Not Funded</find>
+            <replace>[Applicable April 1, 2022]</replace>
+          </codify:find-replace>
+          <codify:find-replace path="§8-1771.03|(b)|(1B)" count="1" codified:doc="D.C. Code" codified:path="§8-1771.03|(b)|(1B)">
+            <find>Not Funded</find>
+            <replace>[Applicable April 1, 2022]</replace>
+          </codify:find-replace>
+          <codify:find-replace path="§8-1771.03|(b)|(1C)" count="1" codified:doc="D.C. Code" codified:path="§8-1771.03|(b)|(1C)">
+            <find>Not Funded</find>
+            <replace>[Applicable April 1, 2022]</replace>
+          </codify:find-replace>
+          <codify:find-replace path="§8-1771.03|(b)|(2A)" count="1" codified:doc="D.C. Code" codified:path="§8-1771.03|(b)|(2A)">
+            <find>Not Funded</find>
+            <replace>[Applicable April 1, 2022]</replace>
+          </codify:find-replace>
+          <codify:find-replace path="§8-1771.03|(b)|(2B)" count="1" codified:doc="D.C. Code" codified:path="§8-1771.03|(b)|(2B)">
+            <find>Not Funded</find>
+            <replace>[Applicable April 1, 2022]</replace>
+          </codify:find-replace>
+          <codify:find-replace path="§8-1771.03|(b)|(2C)" count="1" codified:doc="D.C. Code" codified:path="§8-1771.03|(b)|(2C)">
+            <find>Not Funded</find>
+            <replace>[Applicable April 1, 2022]</replace>
+          </codify:find-replace>
+          <codify:replace doc="D.C. Code" path="§8-1771.03|(b)|(3A)" codified:doc="D.C. Code" codified:path="§8-1771.03|(b)|(3A)">
+            <para>
+              <num>(3A)</num>
+              <text>
+			              [Applicable April 1, 2022].
+		              </text>
+            </para>
+          </codify:replace>
+          <codify:replace doc="D.C. Code" path="§8-1771.03|(b)|(3B)" codified:doc="D.C. Code" codified:path="§8-1771.03|(b)|(3B)">
+            <para>
+              <num>(3B)</num>
+              <text>
+			              [Applicable April 1, 2022].
+		              </text>
+            </para>
+          </codify:replace>
+          <codify:replace doc="D.C. Code" path="§8-1771.03|(b)|(3C)" codified:doc="D.C. Code" codified:path="§8-1771.03|(b)|(3C)">
+            <para>
+              <num>(3C)</num>
+              <text>
+			              [Applicable April 1, 2022].
+		              </text>
+            </para>
+          </codify:replace>
+          <codify:replace doc="D.C. Code" path="§8-1771.03|(b)|(3D)" codified:doc="D.C. Code" codified:path="§8-1771.03|(b)|(3D)">
+            <para>
+              <num>(3D)</num>
+              <text>
+			              [Applicable April 1, 2022].
+		              </text>
+            </para>
+          </codify:replace>
+          <codify:replace doc="D.C. Code" path="§8-1771.03|(b)|(4A)" codified:doc="D.C. Code" codified:path="§8-1771.03|(b)|(4A)">
+            <para>
+              <num>(4A)</num>
+              <text>
+			              [Applicable April 1, 2022].
+		              </text>
+            </para>
+          </codify:replace>
+          <codify:replace doc="D.C. Code" path="§8-1771.03|(b)|(5A)" codified:doc="D.C. Code" codified:path="§8-1771.03|(b)|(5A)">
+            <para>
+              <num>(5A)</num>
+              <text>
+			              [Applicable April 1, 2022].
+		              </text>
+            </para>
+          </codify:replace>
+          <codify:annotation doc="D.C. Code" path="§8-1771.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-1771.01"><cite doc="D.C. Act 24-159" path="§7198">Section 7198 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-195" path="§3">section 3 of D.C. Law 23-195</cite> removing the applicability provision impacting this section.  Therefore, the amendment of this section by Law 23-195 has been implemented.
+        </codify:annotation>
+          <codify:annotation doc="D.C. Code" path="§8-1771.02" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-1771.02"><cite doc="D.C. Act 24-159" path="§7198">Section 7198 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-195" path="§3">section 3 of D.C. Law 23-195</cite> removing the applicability provision impacting this section.  Therefore, the amendment of this section by Law 23-195 has been implemented.
+        </codify:annotation>
+          <codify:annotation doc="D.C. Code" path="§8-1771.03" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-1771.03"><cite doc="D.C. Act 24-159" path="§7198">Section 7198 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-195" path="§3">section 3 of D.C. Law 23-195</cite> removing the applicability provision impacting cubsections (d) and (e) this section.  Therefore, the amendment of this section by Law 23-195 has been implemented.
+        </codify:annotation>
+          <codify:annotation doc="D.C. Code" path="§8-1771.03" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-1771.03"><cite doc="D.C. Act 24-159" path="§7198">Section 7198 of D.C. Act 24-159</cite> provided that <cite doc="D.C. Law 23-195" path="§3">section 2(c)(1) and (2) of D.C. Law 23-195</cite> shall apply as of October 1, 2022.
+        </codify:annotation>
+          <codify:annotation doc="D.C. Code" path="§8-1771.04" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-1771.04"><cite doc="D.C. Act 24-159" path="§7198">Section 7198 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-195" path="§3">section 3 of D.C. Law 23-195</cite> removing the applicability provision impacting this section.  Therefore, the amendment of this section by Law 23-195 has been implemented.
+        </codify:annotation>
+          <codify:annotation doc="D.C. Code" path="§8-1771.05a" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-1771.05a"><cite doc="D.C. Act 24-159" path="§7198">Section 7198 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-195" path="§3">section 3 of D.C. Law 23-195</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by Law 23-195 has been implemented.
+        </codify:annotation>
         </para>
         <para>
           <num>(b)</num>
@@ -19050,29 +19145,53 @@
         <num>7199</num>
         <text>Section 4 of the Diverse Washingtonians Commemorative Works Amendment Act of 2020, effective March 16, 2021 (D.C. Law 23-196; 68 DCR 753), is repealed.</text>
         <codify:repeal doc="D.C. Law 23-196" path="§4"/>
+        <codify:annotation doc="D.C. Code" path="§9-204.11" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§9-204.11"><cite doc="D.C. Act 24-159" path="§7199">Section 7199 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-196" path="§4">section 4 of D.C. Law 23-196</cite> removing the applicability provision impacting this section.  Therefore, the amendment of this section by Law 23-196 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§9-204.12" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§9-204.12"><cite doc="D.C. Act 24-159" path="§7199">Section 7199 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-196" path="§4">section 4 of D.C. Law 23-196</cite> removing the applicability provision impacting this section.  Therefore, the amendment of this section by Law 23-196 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§9-204.13" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§9-204.13"><cite doc="D.C. Act 24-159" path="§7199">Section 7199 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-196" path="§4">section 4 of D.C. Law 23-196</cite> removing the applicability provision impacting this section.  Therefore, the amendment of this section by Law 23-196 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§9-204.14" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§9-204.14"><cite doc="D.C. Act 24-159" path="§7199">Section 7199 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-196" path="§4">section 4 of D.C. Law 23-196</cite> removing the applicability provision impacting this section.  Therefore, the amendment of this section by Law 23-196 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§9-204.15" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§9-204.15"><cite doc="D.C. Act 24-159" path="§7199">Section 7199 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-196" path="§4">section 4 of D.C. Law 23-196</cite> removing the applicability provision impacting this section.  Therefore, the amendment of this section by Law 23-196 has been implemented.
+        </codify:annotation>
       </section>
       <section>
         <num>7200</num>
         <text>Section 301 of the Shared Fleet Devices Amendment Act of 2020, effective March 16, 2021 (D.C. Law 23-203; 67 DCR 13886), is repealed.</text>
         <codify:repeal doc="D.C. Law 23-203" path="§301"/>
+        <codify:annotation doc="D.C. Code" path="§50-2201.03c" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§50-2201.03c"><cite doc="D.C. Act 24-159" path="§7200">Section 7200 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-203" path="§301">section 301 of D.C. Law 23-203</cite> removing the applicability provision impacting this section.  Therefore, the creation of subsection (f) of this section by Law 23-203 has been implemented.
+        </codify:annotation>
       </section>
       <section>
         <num>7201</num>
         <text>Section 12 of the Students' Right to Home or Hospital Instruction Act of 2020, effective March 16, 2021 (D.C. Law 23-204; 67 DCR 14756), is repealed.</text>
         <codify:repeal doc="D.C. Law 23-204" path="§12" codified:doc="D.C. Code" codified:path="§38-251.11"/>
+        <codify:annotation doc="D.C. Code" path="38|2|IV" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§38-251.01"><cite doc="D.C. Act 24-159" path="§7201">Section 7201 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-204" path="§12">section 12 of D.C. Law 23-204</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by Law 23-204 has been implemented.
+        </codify:annotation>
       </section>
       <section>
         <num>7202</num>
         <text>Section 302 of the Ban on Non-Compete Agreements Amendment Act of 2020, effective March 16, 2021 (D.C. Law 23-209; 68 DCR 782), is amended to read as follows:</text>
         <include>
           <section>
-            <codify:replace doc="D.C. Law 23-209" path="§302"/>
             <num>302</num>
             <heading>Applicability.</heading>
             <text>This act shall apply as of April 1, 2022.</text>
           </section>
         </include>
         <aftertext>.</aftertext>
+        <codify:annotation doc="D.C. Code" path="32|5A" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-531"><cite doc="D.C. Act 24-159" path="§7202">Section 7202 of D.C. Act 24-159</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the amendments to this section shall apply as of April 1, 2022.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="32|5B" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-581.01"><cite doc="D.C. Act 24-159" path="§7202">Section 7202 of D.C. Act 24-159</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the creation of this section shall apply as of April 1, 2022.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§32-1307.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-1307.01"><cite doc="D.C. Act 24-159" path="§7202">Section 7202 of D.C. Act 24-159</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the changes made to this section by D.C. Law 23-209 shall apply as of April 1, 2022.
+        </codify:annotation>
+        <codify:insert doc="D.C. Code" path="§32-581.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-581.01">
+          <text>
+      *NOTE: The creation of this chapter shall apply on April 1, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <num>7203</num>
@@ -19103,6 +19222,63 @@
           <find>Repealed</find>
           <replace>Not Funded</replace>
         </codify:find-replace>
+        <codify:annotation doc="D.C. Code" path="§8-1031.03" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-1031.03">
+          Applicability of D.C. Law 23-211: <cite doc="D.C. Act 24-159" path="§7203">§ 7203 of D.C. Act 24-159</cite> provided that the change made to subsection (d) and (e) of this section by § 2(b) of D.C. Law 23-211 is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-1031.04" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-1031.04">
+          Applicability of D.C. Law 23-211: <cite doc="D.C. Act 24-159" path="§7203">§ 7203 of D.C. Act 24-159</cite> provided that the change made to subsection (b) of this section by § 2(d) of D.C. Law 23-211 is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-1031.14" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-1031.14">
+          Applicability of D.C. Law 23-211: <cite doc="D.C. Act 24-159" path="§7203">§ 7203 of D.C. Act 24-159</cite> provided that the change made to subsection (d) of this section by § 2(m)(1) of D.C. Law 23-211 is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-1031.12c" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-1031.12c">
+          Applicability of D.C. Law 23-211: <cite doc="D.C. Act 24-159" path="§7203">§ 7203 of D.C. Act 24-159</cite> provided that the creation of this section by § 2(k) of D.C. Law 23-211 is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the creation of this section has not been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-1031.12e" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-1031.12e">
+          Applicability of D.C. Law 23-211: <cite doc="D.C. Act 24-159" path="§7203">§ 7203 of D.C. Act 24-159</cite> provided that the creation of this section by § 2(k) of D.C. Law 23-211 is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the creation of this section has not been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-1031.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-1031.01"><cite doc="D.C. Act 24-159" path="§7203">Section 7203 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore, the amendment of this section by §2(a) of Law 23-211 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-1031.03" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-1031.03"><cite doc="D.C. Act 24-159" path="§7203">Section 7203 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted subsection (c), (d), and (f) of this section.  Therefore, the amendment of this section by §2(b) of Law 23-211 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-1031.04a" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-1031.04a"><cite doc="D.C. Act 24-159" path="§7203">Section 7203 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore, the creation of this section by §2(e) of Law 23-211 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-1031.03a" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-1031.03a"><cite doc="D.C. Act 24-159" path="§7203">Section 7203 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore, the creation of this section by §2(c) of Law 23-211 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-1031.07" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-1031.07"><cite doc="D.C. Act 24-159" path="§7203">Section 7203 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore, the amendment of this section by §2(g) of Law 23-211 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-1031.12d" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-1031.12d"><cite doc="D.C. Act 24-159" path="§7203">Section 7203 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore, the creation of this section by §2(k) of Law 23-211 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-1031.13" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-1031.13"><cite doc="D.C. Act 24-159" path="§7203">Section 7203 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore, the amendment of this section by §2(l) of Law 23-211 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-1031.14" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-1031.14"><cite doc="D.C. Act 24-159" path="§7203">Section 7203 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore, the amendment of this section by §2(m)(2) of Law 23-211 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§1-325.381" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§1-325.381"><cite doc="D.C. Act 24-159" path="§7203">Section 7203 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore, the amendment of this section by §2(p) of Law 23-211 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-771.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-771.01"><cite doc="D.C. Act 24-159" path="§7203">Section 7203 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore, the creation of this section by §2(q) of Law 23-211 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-771.02" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-771.02"><cite doc="D.C. Act 24-159" path="§7203">Section 7203 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore, the creation of this section by §2(q) of Law 23-211 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-771.03" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-771.03"><cite doc="D.C. Act 24-159" path="§7203">Section 7203 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore, the creation of this section by §2(q) of Law 23-211 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-771.04" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-771.04"><cite doc="D.C. Act 24-159" path="§7203">Section 7203 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore, the creation of this section by §2(q) of Law 23-211 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-771.05" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-771.05"><cite doc="D.C. Act 24-159" path="§7203">Section 7203 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore, the creation of this section by §2(q) of Law 23-211 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-771.06" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-771.06"><cite doc="D.C. Act 24-159" path="§7203">Section 7203 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore, the creation of this section by §2(q) of Law 23-211 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-771.07" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-771.07"><cite doc="D.C. Act 24-159" path="§7203">Section 7203 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore, the creation of this section by §2(q) of Law 23-211 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-771.08" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-771.08"><cite doc="D.C. Act 24-159" path="§7203">Section 7203 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore, the creation of this section by §2(q) of Law 23-211 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-771.09" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-771.09"><cite doc="D.C. Act 24-159" path="§7203">Section 7203 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore, the creation of this section by §2(q) of Law 23-211 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-771.10" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-771.10"><cite doc="D.C. Act 24-159" path="§7203">Section 7203 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore, the creation of this section by §2(q) of Law 23-211 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-1533" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-1533"><cite doc="D.C. Act 24-159" path="§7203">Section 7203 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore, the amendment of this section by §3(b) of Law 23-211 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§38-821.02" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§38-821.02"><cite doc="D.C. Act 24-159" path="§7203">Section 7203 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore, the amendment of this section by §4(b) of Law 23-211 has been implemented.
+        </codify:annotation>
       </section>
       <section>
         <num>7204</num>
