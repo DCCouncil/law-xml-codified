@@ -998,18 +998,12 @@
       <prefix>Article</prefix>
       <num>12</num>
       <heading>Controllable Electronic Records.</heading>
-      <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(a)|(13)" type="History" display="false"/>
+      <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(k)" type="History" display="false"/>
       <container>
         <prefix>Part</prefix>
         <num>I</num>
         <heading>General Provisions.</heading>
-        <container>
-          <codify:insert doc="D.C. Code" path="28|I|12" codified:doc="D.C. Code" codified:path="28|I|12|II"/>
-          <prefix>Part</prefix>
-          <num>II</num>
-          <heading>Transitional Provisions for Articles 9 and 12.</heading>
-        </container>
-        <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(a)|(13)" type="History"/>
+        <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(k)" type="History" display="false"/>
         <xi:include href="./sections/28~12-101.xml"/>
         <xi:include href="./sections/28~12-102.xml"/>
         <xi:include href="./sections/28~12-103.xml"/>
@@ -1022,7 +1016,7 @@
         <prefix>Part</prefix>
         <num>II</num>
         <heading>Transitional Provisions for Articles 9 and 12.</heading>
-        <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(a)|(13)" type="History"/>
+        <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(k)" type="History" display="false"/>
         <xi:include href="./sections/28~12-201.xml"/>
         <xi:include href="./sections/28~12-202.xml"/>
         <xi:include href="./sections/28~12-203.xml"/>

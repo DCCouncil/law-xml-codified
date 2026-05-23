@@ -99,6 +99,7 @@
     <text>Section 16-2310(a-1)(1)(A) of the District of Columbia Official Code is amended to read as follows:</text>
     <include lvl="2">
       <para>
+        <codify:replace codified:doc="D.C. Code" codified:path="§16-2310|(a-1)|(1)|(A)"/>
         <num>(A)</num>
         <text>Committed:</text>
         <para>
@@ -113,11 +114,25 @@
     </include>
     <aftertext>.</aftertext>
     <codify:temporary doc="D.C. Code" path="§16-2310" codified:doc="D.C. Code" codified:path="§16-2310" codified:display="Note"/>
+    <codify:insert doc="D.C. Code" path="§16-2310" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§16-2310">
+      <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on August 29, 2024. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§16-2310(Perm)">Permanent Version</cite>.*
+      </text>
+    </codify:insert>
   </section>
   <section codify:path="§22-3001|(10)|(D)">
     <num>4</num>
     <text>Section 101(10)(D) of the Anti-Sexual Abuse Act of 1994, effective May 23, 1995 (D.C. Law 10-257; D.C. Official Code § 22-3001(10)(D)), is amended by striking the phrase "employee or volunteer" and inserting the phrase "employee, contractor, or volunteer" in its place.</text>
+    <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§22-3001|(10)|(D)">
+      <find>employee or volunteer</find>
+      <replace>employee, contractor, or volunteer</replace>
+    </codify:find-replace>
     <codify:temporary doc="D.C. Code" path="§22-3001" codified:doc="D.C. Code" codified:path="§22-3001" codified:display="Note"/>
+    <codify:insert doc="D.C. Code" path="§22-3001" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§22-3001">
+      <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on August 29, 2024. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§22-3001(Perm)">Permanent Version</cite>.*
+      </text>
+    </codify:insert>
   </section>
   <section codify:path="§22-4234">
     <num>5</num>
@@ -276,7 +291,7 @@
       </include>
       <aftertext>.</aftertext>
       <annotation type="History" doc="Stat. 72-1-ch465" path="§3c">July 8, 1932, 47 Stat. 651, ch. 465, § 3c</annotation>
-      <codify:temporary-new-sec doc="D.C. Code" path="§22-4503.03" interim-path="§22-4503" perm-eff="2024-03-11" codified:doc="D.C. Code" codified:path="§22-4503.03" codified:display="Note"/>
+      <codify:temporary-new-sec doc="D.C. Code" path="§22-4503.03" interim-path="§22-4503" perm-eff="2024-05-01" codified:doc="D.C. Code" codified:path="§22-4503.03" codified:display="Note"/>
     </para>
   </section>
   <section>
@@ -287,6 +302,7 @@
       <text>Section 23-563(b) is amended to read as follows:</text>
       <include>
         <para>
+          <codify:replace codified:doc="D.C. Code" codified:path="§23-563|(b)"/>
           <num>(b)</num>
           <para>
             <num>(1)</num>
@@ -315,18 +331,29 @@
       </include>
       <aftertext>.</aftertext>
       <codify:temporary doc="D.C. Code" path="§23-563" codified:doc="D.C. Code" codified:path="§23-563" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§23-563" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§23-563">
+        <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on August 29, 2024. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§23-563(Perm)">Permanent Version</cite>.*
+      </text>
+      </codify:insert>
     </para>
     <para codify:path="§23-1303|(d)">
       <num>(b)</num>
       <text>Section 23-1303(d) is amended to read as follows:</text>
       <include>
         <para>
+          <codify:replace codified:doc="D.C. Code" codified:path="§23-1303|(d)"/>
           <num>(d)</num>
           <text>Any information contained in the agency's files, presented in its report, or divulged during the course of any hearing shall not be admissible on the issue of guilt in any judicial proceeding, but such information may be used in proceedings under §§ <cite doc="D.C. Code" path="§23-1327">23-1327</cite>, <cite doc="D.C. Code" path="§23-1328">23-1328</cite>, and <cite doc="D.C. Code" path="§23-1329">23-1329</cite>, in perjury proceedings, and for the purposes of impeachment in any subsequent proceeding. Any information obtained from a device, as that term is defined in <cite doc="D.C. Code" path="§22-1211|(a)|(2)">§ 22-1211(a)(2)</cite>, may be used on the issue of guilt in any judicial proceeding.</text>
         </para>
       </include>
       <aftertext>.</aftertext>
       <codify:temporary doc="D.C. Code" path="§23-1303" codified:doc="D.C. Code" codified:path="§23-1303" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§23-1303" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§23-1303">
+        <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on August 29, 2024. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§23-1303(Perm)">Permanent Version</cite>.*
+      </text>
+      </codify:insert>
     </para>
     <para codify:path="§23-1322">
       <num>(c)</num>
@@ -514,6 +541,11 @@
         <text>Subsection (e) is amended by striking the phrase "January 1, 2023" and inserting the phrase "January 1, 2025" in its place.</text>
       </para>
       <codify:temporary doc="D.C. Code" path="§7-2510.13" codified:doc="D.C. Code" codified:path="§7-2510.13" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§7-2510.13" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2510.13">
+        <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on August 29, 2024. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§7-2510.13(Perm)">Permanent Version</cite>.*
+      </text>
+      </codify:insert>
     </para>
     <para>
       <num>(b)</num>
@@ -538,7 +570,7 @@
       </include>
       <aftertext>.</aftertext>
       <annotation type="History" doc="D.C. Law 1-85" path="§1014">Sept. 24, 1976, D.C. Law 1-85, § 1014</annotation>
-      <codify:temporary-new-sec doc="D.C. Code" path="§7-2510.14" interim-path="§7-2510.10" perm-eff="2024-03-11" codified:doc="D.C. Code" codified:path="§7-2510.14" codified:display="Note"/>
+      <codify:temporary-new-sec doc="D.C. Code" path="§7-2510.14" interim-path="§7-2510.10" perm-eff="2024-05-01" codified:doc="D.C. Code" codified:path="§7-2510.14" codified:display="Note"/>
     </para>
   </section>
   <section>
