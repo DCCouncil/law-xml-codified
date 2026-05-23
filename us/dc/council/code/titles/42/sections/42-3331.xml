@@ -2,12 +2,12 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-3331</num>
   <text>
-      *NOTE: This section was created by emergency legislation that will expire on May 18, 2022.*
+      *NOTE: This section was created by temporary legislation that will expire on December 29, 2022.*
       </text>
   <heading>Tenant payment plans.</heading>
   <para>
     <num>(a)</num>
-    <text>From March 11, 2020, through July 25, 2022, ("program period"), a provider shall offer a rent-payment-plan program ("program") for eligible tenants. Under its program, a provider shall:</text>
+    <text>From March 11, 2020, through July 25, 2022 ("program period"), a provider shall offer a rent-payment-plan program ("program") for eligible tenants. Under its program, a provider shall:</text>
     <para>
       <num>(1)</num>
       <text>Make a payment plan available to an eligible tenant for the payment of gross rent, contractual increases agreed to in a commercial lease's rent escalation tables, and any other amounts that come due under the lease during the program period and prior to the cessation of tenancy ("covered time period"), with a minimum term length of one year unless a shorter payment plan term length is requested by the eligible tenant;</text>
@@ -71,7 +71,7 @@
       <text>A provider who receives an application for a payment plan shall retain the application, whether approved or denied, for at least 3 years.</text>
     </para>
     <para>
-      <num>(2)</num>
+      <num>(3) [sic.]</num>
       <text>Upon request of the tenant, a provider shall make a copy of an application for a payment plan available to:</text>
       <para>
         <num>(A)</num>
@@ -150,17 +150,19 @@
       <text>"Provider" means a housing provider or a non-housing provider.</text>
     </para>
   </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§42-3307" expire="2022-02-17" codified:display="Note">For temporary (90 days) creation of § 42-3331, see <cite doc="D.C. Act 24-334" path="§2">§ 2 of Tenant Payment Plan Phasing Emergency Act of 2022 (D.C. Act 24-334, Feb. 17, 2022, 69 DCR 001464)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§42-3331" applicability="2022-02-17" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-3331">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-334" path="§2">§ 2 of Tenant Payment Plan Phasing Emergency Act of 2022 (D.C. Act 24-334, Feb. 17, 2022, 69 DCR 001464)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§42-3307" expire="2022-05-18" codified:display="Note">For temporary (90 days) creation of § 42-3331, see <cite doc="D.C. Law 24-123" path="§2">§ 2 of Tenant Payment Plan Phasing Temporary Act of 2022 (D.C. Law 24-123, May 18, 2022, 69 DCR 002673)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§42-3331" applicability="2022-05-18" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-3331">For temporary (90 days) creation of this section, see <cite doc="D.C. Law 24-123" path="§2">§ 2 of Tenant Payment Plan Phasing Temporary Act of 2022 (D.C. Law 24-123, May 18, 2022, 69 DCR 002673)</cite>.</codify:annotation>
   <codify:insert doc="D.C. Code" path="§42-3331" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-3331">
     <text>
-      *NOTE: This section was created by emergency legislation that will expire on May 18, 2022.*
+      *NOTE: This section was created by temporary legislation that will expire on December 29, 2022.*
       </text>
   </codify:insert>
   <annotations>
-    <annotation app="2022-02-17" doc="D.C. Act 24-334" eff="2022-02-17" path="" type="History" display="false"/>
-    <annotation app="2022-02-17" doc="D.C. Act 24-334" eff="2022-02-17" path="§2" type="History" display="false"/>
-    <annotation app="2022-02-17" doc="D.C. Act 24-334" eff="2022-02-17" path="§2" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-334" path="§2" codified:display="Note" app="2022-02-17" eff="2022-02-17">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-334" path="§2">§ 2 of Tenant Payment Plan Phasing Emergency Act of 2022 (D.C. Act 24-334, Feb. 17, 2022, 69 DCR 001464)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-334" path="§2" codified:display="Note" app="2022-05-18" eff="2022-02-17">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-334" path="§2">§ 2 of Tenant Payment Plan Phasing Emergency Act of 2022 (D.C. Act 24-334, Feb. 17, 2022, 69 DCR 001464)</cite>.</annotation>
+    <annotation app="2022-05-18" doc="D.C. Act 24-334" eff="2022-02-17" path="§2" type="History" display="false"/>
+    <annotation app="2022-05-18" doc="D.C. Law 24-123" eff="2022-05-18" path="" type="History" display="false"/>
+    <annotation app="2022-05-18" doc="D.C. Law 24-123" eff="2022-05-18" path="§2" type="History" display="false"/>
+    <annotation app="2022-05-18" doc="D.C. Law 24-123" eff="2022-05-18" path="§2" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Law 24-123" path="§2" codified:display="Note" app="2022-05-18" eff="2022-05-18">For temporary (90 days) creation of this section, see <cite doc="D.C. Law 24-123" path="§2">§ 2 of Tenant Payment Plan Phasing Temporary Act of 2022 (D.C. Law 24-123, May 18, 2022, 69 DCR 002673)</cite>.</annotation>
   </annotations>
 </section>
