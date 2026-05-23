@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>24-481.05</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on April 28, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§24-481.05(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Eligibility for a clemency recommendation.</heading>
   <para>
     <num>(a)</num>
@@ -54,6 +57,34 @@
     <num>(e)</num>
     <text>An applicant shall be given special consideration if the sentencing scheme, including a mandatory-minimum sentence, for the offense for which the applicant was convicted was changed to provide for less severe penalties after the applicant was convicted under the sentencing scheme.</text>
   </para>
+  <para>
+    <num>(f)</num>
+    <text>The Board may, upon written request of the applicant, grant a waiver of the requirements of subsection (c)(1) of this section; provided, that:</text>
+    <para>
+      <num>(1)</num>
+      <text>The Board shall only grant a waiver under this subsection where the Board is in receipt of notice from the Office of the Pardon Attorney that the Pardon Attorney or the President of the United States has provided the applicant with a waiver of the 5-year requirement pursuant to § 9-140.112 of the Department of Justice Manual;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Board may decline to grant a waiver under this subsection even when the Board is in receipt of the notice described in paragraph (1) of this subsection;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The Board shall not grant a waiver under this subsection when the applicant is on probation, parole, or supervised release;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The Board may request additional information from the applicant to support their request for a waiver of subsection (c)(1) of this section, which may include a request to meet with the applicant to discuss their waiver request;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The Board shall provide the applicant with written notice of the Board's decision to grant or deny a waiver request pursuant to this subsection; and</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Prior to the Board making a determination whether to grant a request for a waiver pursuant to this subsection, the applicant's application shall be deferred until a determination is made.</text>
+    </para>
+  </para>
   <annotations>
     <annotation app="2018-12-13" doc="D.C. Law 22-197" eff="2018-12-13" path="" type="History" display="false"/>
     <annotation doc="D.C. Law 22-197" path="II|A" type="Emergency Legislation" display-template="" history="false" app="2018-12-13" eff="2018-12-13">
@@ -73,5 +104,8 @@
     <annotation app="2025-05-28" doc="D.C. Act 26-78" eff="2025-05-28" path="§2" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-21" path="§2" codified:display="Note" app="2025-07-24" eff="2025-07-24">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-21" path="§2">§ 2 of Clemency Board Waiver Authority Temporary Amendment Act of 2025 (D.C. Law 26-21, July 24, 2025, 72 DCR 4888)</cite>.</annotation>
     <annotation app="2025-07-24" doc="D.C. Law 26-21" eff="2025-07-24" path="§2" type="History" display="false"/>
+    <annotation app="2026-02-27" doc="D.C. Act 26-253" eff="2026-02-27" path="§2" type="History" display="false"/>
+    <annotation app="2026-02-27" doc="D.C. Act 26-253" eff="2026-02-27" path="§2" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-253" path="§2" codified:display="Note" app="2026-02-27" eff="2026-02-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-253" path="§2">§ 2 of Clemency Board Waiver Authority Emergency Amendment Act of 2026 (D.C. Act 26-253, Feb. 27, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
