@@ -1,11 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>38-502</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on April 12, 2022. To view the text of this section after the expiration of all emergency and emergency legislation, click this link: <cite path="§38-502(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Certification of immunization required.</heading>
-  <text>No student shall be admitted by a school unless the school has certification of immunization for that student, or unless the student is exempted pursuant to <cite path="§38-506">§ 38-506</cite>.</text>
+  <para>
+    <num>(a)</num>
+    <text>No student shall be admitted by a school unless the school has certification of immunization for that student, or unless the student is exempted pursuant to <cite path="§38-506">§ 38-506</cite>.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Beginning with School Year 2022-2023:</text>
+    <para>
+      <num>(1)</num>
+      <text>All certifications of immunization provided by a healthcare professional authorized to administer a vaccine shall be submitted electronically to the public health authorities, which shall electronically transmit the certifications of immunization to the student's local education agency.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>All certifications of immunization for a student provided by the public health authorities shall be electronically transmitted to the student's local education agency.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 3-20" type="History" path="§3">Sept. 28, 1979, D.C. Law 3-20, § 3, 26 DCR 380</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 31-2202.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 31-502.</annotation>
+    <annotation app="2022-01-12" doc="D.C. Act 24-280" eff="2022-01-12" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2022-01-12" doc="D.C. Act 24-280" eff="2022-01-12" path="§2|(b)|(1)" type="History"/>
+    <annotation app="2022-01-12" doc="D.C. Act 24-280" eff="2022-01-12" path="§2|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-280" path="§2|(b)" codified:display="Note" app="2022-01-12" eff="2022-01-12">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-280" path="§2|(b)">§ 2(b) of Coronavirus Immunization of School Students and Early Childhood Workers Regulation Emergency Amendment Act of 2021 (D.C. Act 24-280, Jan. 12, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2022-01-12" doc="D.C. Act 24-280" eff="2022-01-12" path="§2|(c)" type="History" display="false"/>
   </annotations>
 </section>

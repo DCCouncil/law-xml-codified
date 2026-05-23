@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <num>38-501</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on April 12, 2022. To view the text of this section after the expiration of all emergency and emergency legislation, click this link: <cite path="§38-501(Perm)">Permanent Version</cite>.*
-      </text>
+  <num>38-501(Perm)</num>
   <heading>Definitions.</heading>
   <text>For the purpose of this chapter:</text>
   <para>
@@ -12,11 +9,7 @@
   </para>
   <para>
     <num>(2)</num>
-    <text>The term “certification of immunization” means written certification by a healthcare professional authorized to administer a vaccine, his or her representative, or the public health authorities that the student is immunized.</text>
-  </para>
-  <para>
-    <num>(2A)</num>
-    <text>The term "COVID-19" means the disease caused by the novel coronavirus SARS-CoV-2.</text>
+    <text>The term “certification of immunization” means written certification by a private physician, his or her representative, or the public health authorities that the student is immunized.</text>
   </para>
   <para>
     <num>(3)</num>
@@ -43,7 +36,7 @@
     <text>The term “school” means:</text>
     <para>
       <num>(A)</num>
-      <text>A District of Columbia Public Schools school or a public charter school serving any grades pre-K through 12;</text>
+      <text>Any public school through the 12th grade operated under the authority of the Board of Education of the District of Columbia;</text>
     </para>
     <para>
       <num>(B)</num>
@@ -63,10 +56,5 @@
     <annotation type="Delegation of Authority">Delegation of Authority to the Director of the Department of Health Immunization of School Students Act of 1979, see Mayor’s Order 2009-149, September 3, 2009 ( 56 DCR 7520).</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 31-2201.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 31-501.</annotation>
-    <annotation app="2022-01-12" doc="D.C. Act 24-280" eff="2022-01-12" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2022-01-12" doc="D.C. Act 24-280" eff="2022-01-12" path="§2|(a)|(1)" type="History"/>
-    <annotation app="2022-01-12" doc="D.C. Act 24-280" eff="2022-01-12" path="§2|(a)|(2)" type="History"/>
-    <annotation app="2022-01-12" doc="D.C. Act 24-280" eff="2022-01-12" path="§2|(a)|(3)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-280" path="§2|(a)" codified:display="Note" app="2022-01-12" eff="2022-01-12">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-280" path="§2|(a)">§ 2(a) of Coronavirus Immunization of School Students and Early Childhood Workers Regulation Emergency Amendment Act of 2021 (D.C. Act 24-280, Jan. 12, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
