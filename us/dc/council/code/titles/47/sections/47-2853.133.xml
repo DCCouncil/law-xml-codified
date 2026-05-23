@@ -1,13 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>47-2853.133</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on April 22, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-2853.133(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Certain representations prohibited.</heading>
-  <para codify:path="(a)">
+  <para>
     <num>(a)</num>
-    <text>Unless licensed pursuant to § 47-2853.132, no person shall:</text>
+    <text>Unless licensed pursuant to <cite path="§47-2853.132">§ 47-2853.132</cite>, no person shall:</text>
     <para>
       <num>(1)</num>
       <text>Undertake responsible charge for the practice of engineering;</text>
@@ -21,7 +18,7 @@
       <text>Engage directly in the practice of engineering in the District; except, that this paragraph shall not apply to a person acting as a consultant, officer, or employee of the District government or an independent agency of the District of Columbia, or to a graduate of a  program accredited by the Accreditation Board for Engineering and Technology or another accreditation entity that is acceptable to the Board of Professional Engineers while under the responsible charge of a professional engineer licensed pursuant to <cite path="§47-2853.132">§ 47-2853.132</cite>.</text>
     </para>
   </para>
-  <para codify:path="(b)">
+  <para>
     <num>(b)</num>
     <text>A professional engineer under whose charge an individual is acting pursuant to subsection (a)(3) of this section shall refrain from affixing the professional engineer's signature to any plans or documents not prepared under the professional engineer's direction or control.</text>
   </para>
@@ -36,10 +33,8 @@
     <annotation app="2022-05-23" doc="D.C. Act 24-423" eff="2022-05-23" path="§2|(b)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-516" path="§2|(b)" codified:display="Note" app="2022-07-27" eff="2022-07-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-516" path="§2|(b)">§ 2(b) of Engineering Licensure Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-516, July 27, 2022, 0 DCR 0)</cite>.</annotation>
     <annotation app="2022-07-27" doc="D.C. Act 24-516" eff="2022-07-27" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2022-09-09" doc="D.C. Law 24-164" eff="2022-09-09" path="§2" type="History" display="false"/>
-    <annotation app="2022-09-09" doc="D.C. Law 24-164" eff="2022-09-09" path="§2|(a)" type="History"/>
-    <annotation app="2022-09-09" doc="D.C. Law 24-164" eff="2022-09-09" path="§2|(b)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-164" path="§2" codified:display="Note" app="2022-09-09" eff="2022-09-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-164" path="§2">§ 2 of Engineering Licensure Temporary Amendment Act of 2022 (D.C. Law 24-164, Sept. 9, 2022, 69 DCR 008847)</cite>.</annotation>
+    <annotation app="2022-09-09" doc="D.C. Law 24-164" eff="2022-09-09" path="§2" type="History" display="false"/>
     <annotation app="2023-02-23" doc="D.C. Law 24-248" eff="2023-02-23" path="§2|(b)" type="History"/>
   </annotations>
 </section>

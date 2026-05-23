@@ -1,10 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-281.01</num>
-  <text>
-      *NOTE: This section was created by temporary legislation that will expire on April 9, 2023.*
-      </text>
-  <heading>Definitions.</heading>
+  <heading proof="needed">Definitions.</heading>
   <para>
     <num undesignated="true">(a)</num>
     <text>For the purposes of <cite path="4|2D">this chapter</cite>, the term:</text>
@@ -25,11 +22,11 @@
       <text>"Low-income household" means a household consisting of one or more individuals with a household income:</text>
       <para>
         <num>(A)</num>
-        <text>At or below 185% of federal poverty guidelines for the size of its household; or</text>
+        <text>At or below 185% of federal poverty guidelines for the size of the household; or</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>At or below 40% of the area median income for its size of household.</text>
+        <text>At or below 40% of the area median income for the size of the household.</text>
       </para>
     </para>
     <para>
@@ -38,7 +35,7 @@
     </para>
     <para>
       <num>(6)</num>
-      <text>"Program participant" means a low-income household enrolled in the program.</text>
+      <text>"Program participant" means a household enrolled in the program.</text>
     </para>
     <para>
       <num>(7)</num>
@@ -49,7 +46,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>Income support; and</text>
+        <text>Income support; or</text>
       </para>
       <para>
         <num>(C)</num>
@@ -57,21 +54,14 @@
       </para>
     </para>
   </para>
-  <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§4-271.01" expire="2022-08-27" codified:display="Note">For temporary (225 days) creation of § 4-281.01, see <cite doc="D.C. Law 24-161" path="§2">§ 2 of Career Mobility Action Plan Program Establishment Temporary Act of 2022 (D.C. Law 24-161, Aug. 27, 2022, 69 DCR 008381)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§4-281.01" applicability="2022-08-27" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-281.01">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-161" path="§2">§ 2 of Career Mobility Action Plan Program Establishment Temporary Act of 2022 (D.C. Law 24-161, Aug. 27, 2022, 69 DCR 008381)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§4-281.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-281.01">
-    <text>
-      *NOTE: This section was created by temporary legislation that will expire on April 9, 2023.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-433" path="§2" codified:display="Note" app="2022-08-27" eff="2022-05-23">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-433" path="§2">§ 2 of Career Mobility Action Plan Program Establishment Emergency Act of 2022 (D.C. Act 24-433, May 23, 2022, 0 DCR 0)</cite>.</annotation>
-    <annotation app="2022-08-27" doc="D.C. Act 24-433" eff="2022-05-23" path="§2" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-521" path="§2" codified:display="Note" app="2022-08-27" eff="2022-07-27">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-521" path="§2">§ 2 of Career Mobility Action Plan Program Establishment Congressional Review Emergency Act of 2022 (D.C. Act 24-521, July 27, 2022, 69 DCR 009895)</cite>.</annotation>
-    <annotation app="2022-08-27" doc="D.C. Act 24-521" eff="2022-07-27" path="§2" type="History" display="false"/>
-    <annotation app="2022-08-27" doc="D.C. Law 24-161" eff="2022-08-27" path="" type="History" display="false"/>
-    <annotation app="2022-08-27" doc="D.C. Law 24-161" eff="2022-08-27" path="§2" type="History" display="false"/>
-    <annotation app="2022-08-27" doc="D.C. Law 24-161" eff="2022-08-27" path="§2" type="History"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-161" path="§2" codified:display="Note" app="2022-08-27" eff="2022-08-27">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-161" path="§2">§ 2 of Career Mobility Action Plan Program Establishment Temporary Act of 2022 (D.C. Law 24-161, Aug. 27, 2022, 69 DCR 008381)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-433" path="§2" codified:display="Note" app="2023-03-10" eff="2022-05-23">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-433" path="§2">§ 2 of Career Mobility Action Plan Program Establishment Emergency Act of 2022 (D.C. Act 24-433, May 23, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2023-03-10" doc="D.C. Act 24-433" eff="2022-05-23" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-521" path="§2" codified:display="Note" app="2023-03-10" eff="2022-07-27">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-521" path="§2">§ 2 of Career Mobility Action Plan Program Establishment Congressional Review Emergency Act of 2022 (D.C. Act 24-521, July 27, 2022, 69 DCR 009895)</cite>.</annotation>
+    <annotation app="2023-03-10" doc="D.C. Act 24-521" eff="2022-07-27" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-161" path="§2" codified:display="Note" app="2023-03-10" eff="2022-08-27">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-161" path="§2">§ 2 of Career Mobility Action Plan Program Establishment Temporary Act of 2022 (D.C. Law 24-161, Aug. 27, 2022, 69 DCR 008381)</cite>.</annotation>
+    <annotation app="2023-03-10" doc="D.C. Law 24-161" eff="2022-08-27" path="§2" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-287" eff="2023-03-10" path="" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-287" eff="2023-03-10" path="§201" type="History"/>
   </annotations>
 </section>
