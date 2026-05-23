@@ -34,7 +34,7 @@
       <para codify:path="(3A)|num">
         <num>(1)</num>
         <text>Paragraph (3A) is redesignated as paragraph (3B).</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1161.01|[(3C)]">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1161.01|(3C)">
           <find>(3A)</find>
           <replace>(3B)</replace>
         </codify:find-replace>
