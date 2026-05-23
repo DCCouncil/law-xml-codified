@@ -1,15 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-251.22</num>
-  <heading>Establishment of a pilot program to provide subsidies for close relative caregivers.</heading>
-  <para>
-    <num>(a)</num>
-    <text>By December 31, 2019, the Mayor shall establish a pilot program through which eligible close relative caregivers may receive subsidy payments for the care and custody of a child residing in their home.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>The pilot program shall continue through September 30, 2023.</text>
-  </para>
+  <heading proof="needed">Establishment of a program to provide subsidies for close relative caregivers.</heading>
+  <text>By December 31, 2019, the Mayor shall establish a program through which eligible close relative caregivers may receive subsidy payments for the care and custody of a child residing in their home.</text>
   <annotations>
     <annotation path="§102" type="Emergency Legislation" history="false" app="2019-11-26" eff="2019-07-16" doc="D.C. Act 23-84">
           For temporary (90 days) creation of this section, see § 102 of Close Relative Caregiver Subsidy Pilot Program Establishment Emergency Amendment Act of 2019 (D.C. Act 23-84, July 16, 2019, 66 DCR 8274).
@@ -25,5 +18,6 @@
     <annotation app="2019-11-26" doc="D.C. Act 23-150" eff="2019-10-29" path="§102" type="History" display="false"/>
     <annotation app="2019-11-26" doc="D.C. Law 23-32" eff="2019-11-26" path="" type="History" display="false"/>
     <annotation app="2019-11-26" doc="D.C. Law 23-32" eff="2019-11-26" path="§102" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-309" eff="2023-03-10" path="§4|(a)" type="History"/>
   </annotations>
 </section>

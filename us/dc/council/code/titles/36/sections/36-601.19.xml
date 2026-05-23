@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>36-601.19</num>
   <heading>Audit.</heading>
-  <text>The Auditor of the District of Columbia shall cause to be conducted a regular post audit of all accounts and transactions of the Chief Financial Officer with respect to the operation of lottery  [games], daily numbers games, and sports wagering.</text>
+  <text>Repealed.</text>
   <annotations>
     <annotation doc="D.C. Law 3-172" type="History" path="§4">Mar. 10, 1981, D.C. Law 3-172, § 4, 27 DCR 4736</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 2-2519.</annotation>
@@ -21,5 +22,6 @@
     <annotation doc="D.C. Law 23-16" path="§7177" type="Applicability" history="false" app="2019-09-11" eff="2019-09-11">
           Applicability of <cite doc="D.C. Law 22-312">D.C. Law 22-312</cite>: <cite doc="D.C. Law 23-16" path="§7177">§ 7177 of D.C. Law 23-16</cite> amended <cite doc="D.C. Law 22-312" path="§5|(a)">§ 5(a) of D.C. Law 22-312</cite> to repeal the delayed applicability affecting this section. Therefore the amendment of this section by <cite doc="D.C. Law 22-312">D.C. Law 22-312</cite> has been implemented.</annotation>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7177" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-311" eff="2023-03-10" path="§12" type="History"/>
   </annotations>
 </section>
