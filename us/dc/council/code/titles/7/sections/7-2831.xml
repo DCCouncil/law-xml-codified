@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-2831</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on August 29, 2024. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§7-2831(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Private Security Camera System Incentive Program.</heading>
   <para>
     <num>(a)</num>
@@ -33,15 +30,23 @@
     <num>(c)</num>
     <para>
       <num>(1)</num>
-      <text><b>[Conditioned upon rules issued pursuant to subsection (f)(5) of this section]</b>Upon approval of a rebate claim submitted pursuant to subsection (b) of this section, the Program shall provide a rebate; provided, that the amount of the rebate shall not be more than the purchase price of the system.</text>
+      <text>Upon approval of a rebate claim submitted pursuant to subsection (b) of this section, the Program shall provide a rebate as follows; provided, that the amount of the rebate shall not be more than the purchase price of the system:</text>
+      <para>
+        <num>(A)</num>
+        <text>Up to $200 per camera installed on the exterior of a building owned or leased by an individual, with a maximum rebate of up to $500 per system per residential address; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Up to $200 per camera installed on the exterior of a building owned or leased by a business, nonprofit, religious institution, or other entity as defined in <cite path="§29-101.02|(10)" doc="D.C. Law 21-125">§ 29-101.02(10)</cite> with a maximum rebate of up to $750 per system per address.</text>
+      </para>
     </para>
     <para>
       <num>(2)</num>
       <text>Rebates shall be contingent upon the availability of funds.</text>
     </para>
-    <para placeholder="Repealed">
+    <para>
       <num>(3)</num>
-      <text>Repealed.</text>
+      <text>No rebates shall be issued until the Mayor promulgates rules pursuant to subsection (f) of this section.</text>
     </para>
   </para>
   <para>
@@ -180,12 +185,10 @@
     </annotation>
     <annotation app="2023-12-21" doc="D.C. Act 25-339" eff="2023-12-21" path="§2" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-339" path="§2" codified:display="Note" app="2023-12-21" eff="2023-12-21">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-339" path="§2">§ 2 of Prioritizing Public Safety Second Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-339, Dec. 21, 2023, 70 DCR 16594)</cite>.</annotation>
-    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§2" type="History" display="false"/>
-    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§2|(a)|(1)" type="History"/>
-    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§2|(a)|(2)" type="History"/>
     <annotation doc="D.C. Law 25-101" path="§2" type="Applicability" history="false" app="2024-01-17" eff="2024-01-17">
           Section 13 of <cite doc="D.C. Act 25-339" path="§13">D.C. Act 25-339</cite> provided that the amendments to this section by § 2 of <cite doc="D.C. Act 25-339" path="§2">D.C. Act 25-339</cite> shall apply upon the effective date of the rules issued pursuant to § 7-2831(f)(5).
     </annotation>
+    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§2" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-101" path="§2" codified:display="Note" app="2024-01-17" eff="2024-01-17">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-101" path="§2">§ 2 of Prioritizing Public Safety Temporary Amendment Act of 2023 (D.C. Law 25-101, Jan. 17, 2024, 70 DCR 13762)</cite>.</annotation>
     <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" type="History" display="false"/>
     <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§16|(a)" type="History"/>
