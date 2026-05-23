@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <num>2-1706</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 26, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§2-1706(Perm)">Permanent Version</cite>.*
-      </text>
+  <num>2-1706(Perm)</num>
   <heading>Maintenance of public records.</heading>
   <para>
     <num>(a)</num>
     <para>
       <num>(1)</num>
-      <text>Any record created or received by the District in the course of official business, including records created or received electronically, is the property of the District and, except as provided in paragraph (2) of this subsection, shall not be destroyed, sold, transferred, or disposed of in any manner, including through the enabling of settings on electronic devices that allow for the non-retention or automatic deletion of records.</text>
+      <text>Any record created or received by the District in the course of official business is the property of the District and, except as provided in paragraph (2) of this subsection, shall not be destroyed, sold, transferred, or disposed of in any manner.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -55,9 +52,5 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-91">D.C. Law 13-91</cite>, in par. (2) of subsec. (b), deleted “pursuant to <cite path="§1-2902|(d)" proof="true">§ 1-2902(d)</cite> 1981 Ed ,” preceding “with respect to”.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-2906.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§2-1701">§ 2-1701</cite>.</annotation>
-    <annotation app="2022-03-28" doc="D.C. Act 24-355" eff="2022-03-28" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2022-03-28" doc="D.C. Act 24-355" eff="2022-03-28" path="§2|(b)|(1)" type="History"/>
-    <annotation app="2022-03-28" doc="D.C. Act 24-355" eff="2022-03-28" path="§2|(b)|(2)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-355" path="§2|(b)" codified:display="Note" app="2022-03-28" eff="2022-03-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-355" path="§2|(b)">§ 2(b) of Fidelity in Access to Government Communications Clarification Emergency Amendment Act of 2022 (D.C. Act 24-355, Mar. 28, 2022, 69 DCR 002633)</cite>.</annotation>
   </annotations>
 </section>
