@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>21-521</num>
-  <heading>Detention of persons believed to be mentally ill; transportation and application to hospital.</heading>
-  <text>An accredited officer or agent of the Department of Mental Health of the District of Columbia, or an officer authorized to make arrests in the District of Columbia, or a physician or qualified psychologist of the person in question, who has reason to believe that a person is mentally ill and, because of the illness, is likely to injure himself or others if he is not immediately detained may, without a warrant, take the person into custody, transport him to a public or private hospital, or to the Department, and make application for his admission thereto for purposes of emergency observation and diagnosis. The application shall reveal the circumstances under which the person was taken into custody and the reasons therefor.</text>
+  <heading proof="needed">Detention of persons believed to be mentally ill; transportation and application to hospital.</heading>
+  <text>An accredited officer or agent of the Department of Behavioral Health, or an officer authorized to make arrests in the District of Columbia, or a physician, qualified psychologist, or qualified nurse practitioner of the person in question, who has reason to believe that a person is mentally ill and, because of the illness, is likely to injure themselves or others if they are not immediately detained may, without a warrant, take the person into custody, transport them to a public or private hospital, or to the Department, and make application for their admission thereto for purposes of emergency observation and diagnosis. The application shall reveal the circumstances under which the person was taken into custody and the reasons therefor.</text>
   <annotations>
     <annotation doc="Pub. L. 89-183" type="History">Sept. 14, 1965, 79 Stat. 753, Pub. L. 89-183, § 1</annotation>
     <annotation doc="Pub. L. 91-358" type="History">July 29, 1970, 84 Stat. 567, Pub. L. 91-358, title I, § 150(c)(2)</annotation>
@@ -38,5 +39,6 @@
     <annotation type="Cross References">Conservator, guardian in proceedings for appointment, see <cite path="§21-2041">§ 21-2041</cite> et seq.</annotation>
     <annotation type="Cross References">Condemnation of insanitary buildings, appointment of guardian ad litem, see <cite path="§6-909">§ 6-909</cite>.</annotation>
     <annotation type="Cross References">Annulment of marriage, <cite path="§46-404">§ 46-404</cite>.</annotation>
+    <annotation app="2025-03-21" doc="D.C. Law 25-304" eff="2025-03-21" path="§2|(g)" type="History"/>
   </annotations>
 </section>
