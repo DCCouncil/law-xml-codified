@@ -1,10 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-803</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-803(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Additional definitions.</heading>
   <text>For the purposes of this chapter:</text>
   <para>
     <num>(1)</num>
+    <text>The term "community land trust" means a nonprofit organization that:</text>
+    <para>
+      <num>(A)</num>
+      <text>Acquires and holds land for the purpose of providing and maintaining affordable housing for low- and moderate-income families in perpetuity; and</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Employs land leases as a method to secure the affordability of housing.</text>
+    </para>
+  </para>
+  <para>
+    <num>(1A)</num>
     <text>The term “condominium” means the ownership of a single dwelling unit in a horizontal property regime.</text>
   </para>
   <para>
@@ -36,5 +51,9 @@
     <annotation type="Section References">This section is referenced in <cite path="§42-2301">§ 42-2301</cite>, <cite path="§47-858.01">§ 47-858.01</cite>, and <cite path="§47-3503">§ 47-3503</cite>.</annotation>
     <annotation type="Cross References">Real property credit line deeds of trust, “single family residential property” defined, see <cite path="§45-2901" proof="true">§ 45-2901</cite>.</annotation>
     <annotation type="Cross References">Lower income homeownership tax abatement, deed recordation tax, real property transfer tax, and real property tax exemptions, “cooperative housing association” defined, see <cite path="§47-3503">§ 47-3503</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2152|(a)|(1)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2152|(a)|(1)|(B)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2152|(a)|(1)|(A)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2152|(a)|(1)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2152|(a)|(1)">§ 2152(a)(1) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

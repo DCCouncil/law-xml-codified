@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>36-601.23</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§36-601.23(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Licenses to conduct bingo games, raffles, and Monte Carlo night parties.</heading>
   <para>
     <num>(a)</num>
@@ -93,6 +96,10 @@
     <num>(d)</num>
     <text>The Office may issue a license under this section, upon application, to a citizen-service program established pursuant to <cite path="§1-1163.38">§ 1-1163.38</cite>, in accordance with rules that may be adopted by the Office pursuant to this chapter.</text>
   </para>
+  <para>
+    <num>(e)</num>
+    <text>The Office may issue a license to operate commercial bingo under this section only to an on-premises alcohol retailer licensed under <cite path="25">Title 25</cite>; provided, that no license to operate commercial bingo may be issued by the Office before October 1, 2025.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 3-172" type="History" path="§4">Mar. 10, 1981, D.C. Law 3-172, § 4, 27 DCR 4736</annotation>
     <annotation doc="D.C. Law 6-220" type="History">Apr. 11, 1987, D.C. Law 6-220, § 2(b)(4), 34 DCR 900</annotation>
@@ -113,5 +120,8 @@
     <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(a)" type="History" display="false"/>
     <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(b)" type="History"/>
     <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§6|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2073|(d)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2073|(d)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2073|(d)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2073|(d)">§ 2073(d) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

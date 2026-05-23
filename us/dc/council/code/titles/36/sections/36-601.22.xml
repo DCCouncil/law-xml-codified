@@ -1,8 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>36-601.22</num>
-  <heading>Operation of bingo and raffles.</heading>
-  <text>The Chief Financial Officer may authorize the operation of bingo and raffles in the District of Columbia. Bingo means that form of gambling in which the winning chances are determined by a random drawing of a subset of numbered objects among a total set of 75 objects, consecutively numbered from 1 to 75; and the card, or cards, held by the player, which card or cards is or are sold, rented, or used only at the time of the gambling activity, and contains 5 rows of 5 spaces each, each space imprinted with a number between 1 and 75 inclusive, except the central space which is marked “FREE.” For the purpose of this section, raffle is a lottery, other than that operated by the District of Columbia pursuant to this chapter, in which a prize is won by at least 1 of numerous persons buying chances.</text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 2, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§36-601.22(Perm)">Permanent Version</cite>.*
+      </text>
+  <heading proof="needed">Operation of bingo and raffles.</heading>
+  <text>Bingo and raffles may be conducted in the District only in accordance with <cite path="36">this title</cite>, any rules issued pursuant to <cite path="36">this title</cite>, and any other applicable law or rules.</text>
   <annotations>
     <annotation doc="D.C. Law 3-172" type="History" path="§4">Mar. 10, 1981, D.C. Law 3-172, § 4, 27 DCR 4736</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 2-2522.</annotation>
@@ -11,5 +14,8 @@
     <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(a)" type="History" display="false"/>
     <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(b)" type="History"/>
     <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§6|(a)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2073|(c)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2073|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2073|(c)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2073|(c)">§ 2073(c) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
