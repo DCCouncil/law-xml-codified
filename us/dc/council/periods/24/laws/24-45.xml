@@ -7862,7 +7862,7 @@
           <text>Section 108(e) (D.C. Official Code § 32-541.08(e)) is amended by striking the period and inserting the phrase "; except, that complaints arising from a violation of section 107(j) shall be filed with the Department of Insurance, Securities, and Banking for resolution pursuant to Title I of the Insurance Trade and Economic Development Amendment Act of 2000, effective April 3, 2001 (D.C. Law 13-265; D.C. Official Code § 31-2231.01 <em>et seq.</em>)." in its place.</text>
           <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§32-541.08|(e)">
             <find>.</find>
-            <replace>; except, that complaints arising from a violation of <code-cite doc="D.C. Code" path="§32-541.07">section 107(j)</code-cite><span codify:value="(j)"/> shall be filed with the Department of Insurance, Securities, and Banking for resolution pursuant to <code-cite doc="D.C. Code" path="31|22A">Title I of the Insurance Trade and Economic Development Amendment Act of 2000, effective April 3, 2001 (D.C. Law 13-265; D.C. Official Code § 31-2231.01 <em>et seq.</em>)</code-cite>.</replace>
+            <replace>; except, that complaints arising from a violation of <code-cite doc="D.C. Code" path="§32-541.07|(j)">section 107(j)</code-cite> shall be filed with the Department of Insurance, Securities, and Banking for resolution pursuant to <code-cite doc="D.C. Code" path="31|22A">Title I of the Insurance Trade and Economic Development Amendment Act of 2000, effective April 3, 2001 (D.C. Law 13-265; D.C. Official Code § 31-2231.01 <em>et seq.</em>)</code-cite>.</replace>
           </codify:find-replace>
         </para>
         <para codify:path="§32-541.12|(a)">
@@ -8023,7 +8023,7 @@
         <text>The Workplace Leave Navigators Program Establishment Amendment Act of 2020, effective December 3, 2020 (D.C. Law 23-149; D.C. Official Code § 32-561.01 <em>et seq</em>.), is repealed.</text>
         <codify:repeal path="§32-561.01" codified:doc="D.C. Code" codified:path="§32-561.01"/>
         <codify:repeal path="§32-561.02" codified:doc="D.C. Code" codified:path="§32-561.02"/>
-        <codify:find-replace doc="D.C. Code" path="32|5|VI|heading" count="1" codified:doc="D.C. Code" codified:path="32|5|VI">
+        <codify:find-replace doc="D.C. Code" path="32|5|VI|heading" count="1" display-template="" codified:doc="D.C. Code" codified:path="32|5|VI">
           <find>Workplace Leave Navigators.</find>
           <replace>Workplace Leave Navigators. [Repealed].</replace>
         </codify:find-replace>
@@ -9573,21 +9573,14 @@
               <num>2091</num>
               <heading>Short title.</heading>
               <text>This subtitle may be cited as the "Workplace Rights Grant Program Act of 2021".</text>
-              <codify:insert doc="D.C. Code" path="32" after="1D-i" history="false" display-template="" codified:doc="D.C. Code" codified:path="32|1D-ii">
-                <container>
-                  <prefix>Chapter</prefix>
-                  <num>1D-ii</num>
-                  <heading>Workplace Rights Grant Program.</heading>
-                </container>
-              </codify:insert>
             </section>
             <section>
-              <codify:insert path="32|1D-ii" num-value="32-175.01" codified:doc="D.C. Code" codified:path="§32-175.01"/>
-              <num>2092</num>
+              <codify:replace doc="D.C. Code" path="§32-171.01" codified:doc="D.C. Code" codified:path="§32-171.01"/>
+              <num codify:value="32-171.01">2092</num>
               <heading>Definitions.</heading>
               <para>
                 <num undesignated="true">(a)</num>
-                <text>For the purposes of <code-cite doc="D.C. Code" path="32|1D-ii">this subtitle</code-cite>, the term:</text>
+                <text>For the purposes of <code-cite doc="D.C. Code" path="32|1D">this subtitle</code-cite>, the term:</text>
                 <para>
                   <num>(1)</num>
                   <text>"Activities" means conducting outreach to, providing worker education to, or providing legal services for eligible individuals related to employment laws.</text>
@@ -9622,7 +9615,7 @@
                 </para>
                 <para>
                   <num>(5)</num>
-                  <text>"Grantee" means a community-based organization in receipt of a Program grant issued pursuant to <code-cite doc="D.C. Code" path="§32-175.02">section 2093</code-cite>.</text>
+                  <text>"Grantee" means a community-based organization in receipt of a Program grant issued pursuant to <code-cite doc="D.C. Code" path="§32-171.02">section 2093</code-cite>.</text>
                 </para>
                 <para>
                   <num>(6)</num>
@@ -9642,7 +9635,7 @@
                 </para>
                 <para>
                   <num>(10)</num>
-                  <text>"Program" means the Workplace Rights Grant Program established pursuant to <code-cite doc="D.C. Code" path="§32-175.02">section 2093</code-cite>.</text>
+                  <text>"Program" means the Workplace Rights Grant Program established pursuant to <code-cite doc="D.C. Code" path="§32-171.02">section 2093</code-cite>.</text>
                 </para>
                 <para>
                   <num>(11)</num>
@@ -9665,11 +9658,10 @@
                   </para>
                 </para>
               </para>
-              <annotation doc="D.C. Law 23-16" type="History" path="§2092">Sept. 11, 2019, D.C. Law 23-16, § 2092</annotation>
             </section>
             <section>
-              <codify:insert path="32|1D-ii" num-value="32-175.02" codified:doc="D.C. Code" codified:path="§32-175.02"/>
-              <num>2093</num>
+              <codify:replace doc="D.C. Code" path="§32-171.02" codified:doc="D.C. Code" codified:path="§32-171.02"/>
+              <num codify:value="32-171.02">2093</num>
               <heading>Establishment of Program and issuance of grants.</heading>
               <para>
                 <num>(a)</num>
@@ -9731,17 +9723,16 @@
                   <text>Be for not less than $100,000 per year per grant.</text>
                 </para>
               </para>
-              <annotation doc="D.C. Law 23-16" type="History" path="§2093">Sept. 11, 2019, D.C. Law 23-16, § 2093</annotation>
             </section>
             <section>
-              <codify:insert path="32|1D-ii" num-value="32-175.03" codified:doc="D.C. Code" codified:path="§32-175.03"/>
-              <num>2094</num>
+              <codify:replace doc="D.C. Code" path="§32-171.03" codified:doc="D.C. Code" codified:path="§32-171.03"/>
+              <num codify:value="32-171.03">2094</num>
               <heading>Grantee eligibility requirements.</heading>
               <para>
                 <num>(a)</num>
                 <para>
                   <num>(1)</num>
-                  <text>To be eligible for a grant authorized under <code-cite doc="D.C. Code" path="32|1D-ii">this subtitle</code-cite>, a community-based organization shall:</text>
+                  <text>To be eligible for a grant authorized under <code-cite doc="D.C. Code" path="32|1D">this subtitle</code-cite>, a community-based organization shall:</text>
                   <para>
                     <num>(A)</num>
                     <text>Demonstrate in its application that it is well qualified to engage in the types of activities which will be funded, in whole or in part, by the grant;</text>
@@ -9779,11 +9770,10 @@
                   </para>
                 </para>
               </para>
-              <annotation doc="D.C. Law 23-16" type="History" path="§2094">Sept. 11, 2019, D.C. Law 23-16, § 2094</annotation>
             </section>
             <section>
-              <codify:insert path="32|1D-ii" num-value="32-175.04" codified:doc="D.C. Code" codified:path="§32-175.04"/>
-              <num>2095</num>
+              <codify:replace doc="D.C. Code" path="§32-171.04" codified:doc="D.C. Code" codified:path="§32-171.04"/>
+              <num codify:value="32-171.04">2095</num>
               <heading>Grant uses.</heading>
               <para>
                 <num>(a)</num>
@@ -9801,11 +9791,10 @@
                 <num>(b)</num>
                 <text>Grantees that provide worker education shall provide, to an eligible individual or group of eligible individuals, information on the rights and responsibilities of accessing benefits under employment laws, recognizing violations of and learning how to prevent or rectify violations of employment laws, or learning how to assist others to take steps to prevent or rectify violations of employment laws.</text>
               </para>
-              <annotation doc="D.C. Law 23-16" type="History" path="§2095">Sept. 11, 2019, D.C. Law 23-16, § 2095</annotation>
             </section>
             <section>
-              <codify:insert path="32|1D-ii" num-value="32-175.05" codified:doc="D.C. Code" codified:path="§32-175.05"/>
-              <num>2096</num>
+              <codify:replace doc="D.C. Code" path="§32-171.05" codified:doc="D.C. Code" codified:path="§32-171.05"/>
+              <num codify:value="32-171.05">2096</num>
               <heading>Transparency and reporting.</heading>
               <para>
                 <num>(a)</num>
@@ -9859,12 +9848,10 @@
                 <num>(c)</num>
                 <text>OAG may not require grantees to release to OAG any personally identifying information in connection with the preparation or provision of the reports described in this section.</text>
               </para>
-              <annotation doc="D.C. Law 23-16" type="History" path="§2096">Sept. 11, 2019, D.C. Law 23-16, § 2096</annotation>
             </section>
           </container>
         </include>
         <aftertext>.</aftertext>
-        <codify:repeal doc="D.C. Code" path="32|1D" codified:doc="D.C. Code" codified:path="§32-171.01"/>
       </section>
       <section>
         <num>4153</num>
@@ -9887,7 +9874,7 @@
               <heading>Authority to issue grants for workplace rights.</heading>
               <para>
                 <num>(a)</num>
-                <text>The Attorney General may issue grants for the purposes authorized pursuant to <code-cite doc="D.C. Code" path="32|1D-ii">the Workplace Rights Grant Program Amendment Act of 2021, passed on 2nd reading on August 10, 2021 (Enrolled version of Bill 24-285)</code-cite>.</text>
+                <text>The Attorney General may issue grants for the purposes authorized pursuant to <code-cite doc="D.C. Code" path="32|1D">the Workplace Rights Grant Program Amendment Act of 2021, passed on 2nd reading on August 10, 2021 (Enrolled version of Bill 24-285)</code-cite>.</text>
               </para>
               <para>
                 <num>(b)</num>
@@ -11258,7 +11245,7 @@
         <para>
           <num>(a)</num>
           <text>Section 8b (D.C. Official Code § 7-771.07b) is repealed.</text>
-          <codify:find-replace path="§7-771.07a|(a-3)" count="1" codified:doc="D.C. Code" codified:path="§7-771.07a|(a-3)">
+          <codify:find-replace path="§7-771.07a|(a-3)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-771.07a|(a-3)">
             <find><code-cite doc="D.C. Code" path="§7-771.07b|(b)|(4)|(B)|(ii)">section 8b(b)(4)(B)(ii)</code-cite> and <cite doc="D.C. Code" path="§7-771.07b|(b)|(4)|(B)|(iii)">(iii)</cite></find>
             <replace>[§7-771.07b(b)(4)(B)(ii) and (iii) [<cite doc="D.C. Code" path="§7-771.07b">§ 7-771.07b</cite> repealed]]
           </replace>
@@ -11476,7 +11463,7 @@
             </section>
           </include>
           <aftertext>.</aftertext>
-          <codify:find-replace doc="D.C. Code" path="3|12|VI-F|heading" count="1" codified:doc="D.C. Code" codified:path="3|12|VI-F">
+          <codify:find-replace doc="D.C. Code" path="3|12|VI-F|heading" count="1" display-template="" codified:doc="D.C. Code" codified:path="3|12|VI-F">
             <find>Midwives</find>
             <replace>Midwives and Doulas</replace>
           </codify:find-replace>
@@ -17228,6 +17215,7 @@
         <num>7163</num>
         <text>The Trash Compactor Tax Incentive Amendment Act of 2014, effective March 11, 2015 (D.C. Law 20-223; 62 DCR 227), is repealed.</text>
         <codify:repeal doc="D.C. Law 20-223" codified:doc="D.C. Code" codified:path="8|7C"/>
+        <codify:repeal doc="D.C. Code" path="§47-2005|(37)" codified:doc="D.C. Code" codified:path="§47-2005|(37)"/>
       </section>
       <section>
         <num>7164</num>
@@ -17239,6 +17227,7 @@
         <num>7165</num>
         <text>The Hearing Aid Assistance Program Act of 2018, effective July 27, 2018 (D.C. Law 22-151; 65 DCR 6123), is repealed.</text>
         <codify:repeal doc="D.C. Law 22-151" codified:doc="D.C. Code" codified:path="§7-1051.01"/>
+        <codify:repeal doc="D.C. Code" path="§47-1803.02|(a)|(2)|(EE)" codified:doc="D.C. Code" codified:path="§47-1803.02|(a)|(2)|(EE)"/>
       </section>
       <section>
         <num>7166</num>
@@ -17258,13 +17247,15 @@
         <codify:repeal doc="D.C. Law 22-175" path="§2|(g)|(2)" codified:doc="D.C. Code" codified:path="§50-2303.05|(d)|(2)"/>
         <codify:repeal doc="D.C. Code" path="§50-2303.05|(d)|(3)" codified:doc="D.C. Code" codified:path="§50-2303.05|(d)|(3)"/>
         <codify:repeal doc="D.C. Code" path="§50-2303.09" codified:doc="D.C. Code" codified:path="§50-2303.09"/>
-        <codify:repeal doc="D.C. Law 22-175" path="§2|(i)"/>
+        <codify:repeal doc="D.C. Code" path="§50-2303.21" codified:doc="D.C. Code" codified:path="§50-2303.21"/>
         <codify:repeal path="§50-2302.07" codified:doc="D.C. Code" codified:path="§50-2302.07"/>
       </section>
       <section>
         <num>7167</num>
         <text>Section 101 of the Save Good Food Amendment Act of 2018, effective February 22, 2019 (D.C. Law 22-212; 65 DCR 12927), is repealed.</text>
-        <codify:repeal doc="D.C. Law 22-212" path="§101"/>
+        <codify:repeal doc="D.C. Code" path="§[47-1806.16]" codified:doc="D.C. Code" codified:path="§[47-1806.16]"/>
+        <codify:repeal doc="D.C. Code" path="§[47-1807.15]" codified:doc="D.C. Code" codified:path="§[47-1807.15]"/>
+        <codify:repeal doc="D.C. Code" path="§[47-1808.15]" codified:doc="D.C. Code" codified:path="§[47-1808.15]"/>
       </section>
       <section>
         <num>7168</num>
@@ -17279,7 +17270,7 @@
       <section>
         <num>7170</num>
         <text>The District Historical Records Advisory Board Amendment Act of 2018, effective March 28, 2019 (D.C. Law 22-271; 66 DCR 1446), is repealed.</text>
-        <codify:repeal doc="D.C. Law 22-271" path="§2|(a)" codified:doc="D.C. Code" codified:path="§2-1701"/>
+        <codify:repeal path="§2-1701|(6A)" codified:doc="D.C. Code" codified:path="§2-1701|(6A)"/>
         <codify:repeal path="§2-1715" codified:doc="D.C. Code" codified:path="§2-1715"/>
         <codify:repeal path="§2-1716" codified:doc="D.C. Code" codified:path="§2-1716"/>
         <codify:repeal path="§2-1717" codified:doc="D.C. Code" codified:path="§2-1717"/>
@@ -17359,8 +17350,8 @@
           <para>
             <num>(a)</num>
             <text>Sections 6(b)(4), (8), and (22), and (pp)<span codify:value=","/>(8) and (9) shall not apply to contracts, as defined in section 101(10C)(A)(ii) of the Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Amendment Act of 2011, effective April 27, 2012 (D.C. Law 19-124; D.C. Official Code § 1-1161.01(10C)(A)(ii)), including those contracts' option periods or similar contract extensions or modifications, sought, entered into, or executed before November 9, 2022.</text>
-            <codify:repeal doc="D.C. Law 22-250" path="§10|(a)" codified:doc="D.C. Code" codified:path="§1-129.21"/>
-            <codify:repeal doc="D.C. Law 22-250" path="§10|(b)" codified:doc="D.C. Code" codified:path="§1-129.21"/>
+            <codify:repeal doc="D.C. Law 22-250" path="§10|(a)" display-template="" codified:doc="D.C. Code" codified:path="§1-129.21"/>
+            <codify:repeal doc="D.C. Law 22-250" path="§10|(b)" display-template="" codified:doc="D.C. Code" codified:path="§1-129.21"/>
             <codify:annotation doc="D.C. Code" path="§1-1161.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§1-1161.01">
               Section 7183 of D.C. Law 24-45 provided that the addition of paragraphs (9B), (10C), and (45A) through (45D) to this section shall not apply to contracts, as defined in <cite doc="D.C. Code" path="§1-1161.01|(10C)|(A)|(ii)">§ 1-1161.01(10C)(A)(ii)</cite>, including those contracts' option periods or similar contract extensions or modifications, sought, entered into, or executed before November 9, 2022.
             </codify:annotation>
@@ -17540,6 +17531,8 @@
         <num>7187</num>
         <text>Section 5 of the Dementia Training for Direct Care Workers Support Amendment Act of 2020, effective March 16, 2021 (D.C. Law 23-201; 67 DCR 14750), is repealed.</text>
         <codify:repeal doc="D.C. Law 23-201" path="§5"/>
+        <codify:annotation doc="D.C. Code" path="§7-744.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-744.01"><cite doc="D.C. Law 24-45" path="§7187">Section 7187 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-201" path="§5">section 5 of D.C. Law 23-201</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by Law 23-201 has been implemented.
+        </codify:annotation>
         <codify:annotation doc="D.C. Code" path="§7-744.02" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-744.02"><cite doc="D.C. Law 24-45" path="§7187">Section 7187 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-201" path="§5">section 5 of D.C. Law 23-201</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-201 has been implemented.
         </codify:annotation>
       </section>
@@ -17740,16 +17733,6 @@
         <num>7199</num>
         <text>Section 4 of the Diverse Washingtonians Commemorative Works Amendment Act of 2020, effective March 16, 2021 (D.C. Law 23-196; 68 DCR 753), is repealed.</text>
         <codify:repeal doc="D.C. Law 23-196" path="§4"/>
-        <codify:annotation doc="D.C. Code" path="§9-204.11" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§9-204.11"><cite doc="D.C. Law 24-45" path="§7199">Section 7199 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-196" path="§4">section 4 of D.C. Law 23-196</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by Law 23-196 has been implemented.
-        </codify:annotation>
-        <codify:annotation doc="D.C. Code" path="§9-204.12" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§9-204.12"><cite doc="D.C. Law 24-45" path="§7199">Section 7199 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-196" path="§4">section 4 of D.C. Law 23-196</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by Law 23-196 has been implemented.
-        </codify:annotation>
-        <codify:annotation doc="D.C. Code" path="§9-204.13" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§9-204.13"><cite doc="D.C. Law 24-45" path="§7199">Section 7199 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-196" path="§4">section 4 of D.C. Law 23-196</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by Law 23-196 has been implemented.
-        </codify:annotation>
-        <codify:annotation doc="D.C. Code" path="§9-204.14" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§9-204.14"><cite doc="D.C. Law 24-45" path="§7199">Section 7199 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-196" path="§4">section 4 of D.C. Law 23-196</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by Law 23-196 has been implemented.
-        </codify:annotation>
-        <codify:annotation doc="D.C. Code" path="§9-204.15" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§9-204.15"><cite doc="D.C. Law 24-45" path="§7199">Section 7199 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-196" path="§4">section 4 of D.C. Law 23-196</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by Law 23-196 has been implemented.
-        </codify:annotation>
       </section>
       <section>
         <num>7200</num>
@@ -17776,17 +17759,45 @@
           </section>
         </include>
         <aftertext>.</aftertext>
-        <codify:annotation doc="D.C. Code" path="32|5A" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-531"><cite doc="D.C. Law 24-45" path="§7202">Section 7202 of D.C. Law 24-45</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the amendments to this section shall apply as of April 1, 2022.
+        <codify:find-replace path="32|5B|heading" count="1" codified:doc="D.C. Code" codified:path="32|5B">
+          <find>Agreements.</find>
+          <replace>Agreements. [Applicable April 1, 2022]</replace>
+        </codify:find-replace>
+        <codify:find-replace path="§32-581.01" count="2" codified:doc="D.C. Code" codified:path="§32-581.01">
+          <find>Not Funded</find>
+          <replace>[Applicable April 1, 2022]</replace>
+        </codify:find-replace>
+        <codify:find-replace path="§32-581.02" count="2" codified:doc="D.C. Code" codified:path="§32-581.02">
+          <find>Not Funded</find>
+          <replace>[Applicable April 1, 2022]</replace>
+        </codify:find-replace>
+        <codify:find-replace path="§32-581.03" count="2" codified:doc="D.C. Code" codified:path="§32-581.03">
+          <find>Not Funded</find>
+          <replace>[Applicable April 1, 2022]</replace>
+        </codify:find-replace>
+        <codify:find-replace path="§32-581.04" count="2" codified:doc="D.C. Code" codified:path="§32-581.04">
+          <find>Not Funded</find>
+          <replace>[Applicable April 1, 2022]</replace>
+        </codify:find-replace>
+        <codify:find-replace path="§32-581.05" count="2" codified:doc="D.C. Code" codified:path="§32-581.05">
+          <find>Not Funded</find>
+          <replace>[Applicable April 1, 2022]</replace>
+        </codify:find-replace>
+        <codify:insert doc="D.C. Code" path="32|5A" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="32|5A">
+          <text>
+      *NOTE: This chapter shall be repealed effective April 21, 2022.*
+      </text>
+        </codify:insert>
+        <codify:annotation doc="D.C. Code" path="§32-571" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-571"><cite doc="D.C. Law 24-45" path="§7202">Section 7202 of D.C. Law 24-45</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the repeal this section shall apply as of April 1, 2022.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§32-572" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-572"><cite doc="D.C. Law 24-45" path="§7202">Section 7202 of D.C. Law 24-45</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the repeal this section shall apply as of April 1, 2022.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§32-573" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-573"><cite doc="D.C. Law 24-45" path="§7202">Section 7202 of D.C. Law 24-45</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the repeal this section shall apply as of April 1, 2022.
         </codify:annotation>
         <codify:annotation doc="D.C. Code" path="32|5B" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-581.01"><cite doc="D.C. Law 24-45" path="§7202">Section 7202 of D.C. Law 24-45</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the creation of this section shall apply as of April 1, 2022.
         </codify:annotation>
         <codify:annotation doc="D.C. Code" path="§32-1307.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-1307.01"><cite doc="D.C. Law 24-45" path="§7202">Section 7202 of D.C. Law 24-45</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the changes made to this section by D.C. Law 23-209 shall apply as of April 1, 2022.
         </codify:annotation>
-        <codify:insert doc="D.C. Code" path="§32-581.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-581.01">
-          <text>
-      *NOTE: The creation of this chapter shall apply on April 1, 2022.*
-      </text>
-        </codify:insert>
       </section>
       <section>
         <num>7203</num>
@@ -17930,6 +17941,72 @@
         <num>7207</num>
         <text>Section 601 of the Department of Buildings Establishment Act of 2020, effective April 5, 2021 (D.C. Law 23-269; 68 DCR 1490), is repealed.</text>
         <codify:repeal doc="D.C. Law 23-269" path="§601"/>
+        <codify:annotation doc="D.C. Code" path="§10-561.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§10-561.01"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the creation of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§10-561.02" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§10-561.02"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the creation of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§10-561.03" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§10-561.03"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the creation of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§10-561.04" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§10-561.04"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the creation of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§10-561.05" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§10-561.05"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the creation of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§10-561.06" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§10-561.06"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the creation of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§10-561.07" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§10-561.07"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the creation of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§10-561.08" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§10-561.08"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the creation of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§10-562.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§10-562.01"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the creation of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§10-562.02" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§10-562.02"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the creation of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§10-563.01" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§10-563.01"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the creation of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§10-564.01" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§10-564.01"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the creation of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§10-564.02" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§10-564.02"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the creation of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§6-225" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-225"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the amendment of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§6-232" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-232"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the amendment of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§6-507" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-507"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the amendment of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§6-601.05" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-601.05"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the amendment of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§6-641.07" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-641.07"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the amendment of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§6-641.09" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-641.09"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the amendment of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§6-661.01" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-661.01"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the amendment of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§6-902" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-902"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the amendment of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§6-1331" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-1331"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the amendment of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§6-1401" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-1401"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the amendment of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§6-1451.01" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-1451.01"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the amendment of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§6-1451.03" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-1451.03"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the amendment of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§6-1451.07" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-1451.07"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the amendment of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§6-1451.09" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-1451.09"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the amendment of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§7-2231.06" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2231.06"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the amendment of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-403.01" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-403.01"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the amendment of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§25-374" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§25-374"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the amendment of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§25-791" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§25-791"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the amendment of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§25-804" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§25-804"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the amendment of this section by Law 23-269 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§28-3817" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§28-3817"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the amendment of this section by Law 23-269 has been implemented.
+        </codify:annotation>
       </section>
       <section>
         <num>7208</num>

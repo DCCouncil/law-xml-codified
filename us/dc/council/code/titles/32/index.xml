@@ -93,7 +93,6 @@
   <container>
     <prefix>Chapter</prefix>
     <num>1D</num>
-    <reason>Repealed</reason>
     <heading>Wage and Hour Education Grants Program.</heading>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="II" type="History" display="false"/>
     <xi:include href="./sections/32-171.01.xml"/>
@@ -101,7 +100,6 @@
     <xi:include href="./sections/32-171.03.xml"/>
     <xi:include href="./sections/32-171.04.xml"/>
     <xi:include href="./sections/32-171.05.xml"/>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4152" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -113,17 +111,6 @@
     <xi:include href="./sections/32-173.03.xml"/>
     <xi:include href="./sections/32-173.04.xml"/>
     <xi:include href="./sections/32-173.05.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>1D-ii</num>
-    <heading>Workplace Rights Grant Program.</heading>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4152" type="History" display="false"/>
-    <xi:include href="./sections/32-175.01.xml"/>
-    <xi:include href="./sections/32-175.02.xml"/>
-    <xi:include href="./sections/32-175.03.xml"/>
-    <xi:include href="./sections/32-175.04.xml"/>
-    <xi:include href="./sections/32-175.05.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -334,6 +321,10 @@
   <container>
     <prefix>Chapter</prefix>
     <num>5A</num>
+    <reason>Repealed</reason>
+    <text>
+      *NOTE: This chapter shall be repealed effective April 21, 2022.*
+      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7202" type="History" display="false"/></text>
     <heading>Freedom to Contract Within the Broadcast Industry.</heading>
     <xi:include href="./sections/32-531.xml"/>
     <xi:include href="./sections/32-532.xml"/>
@@ -341,24 +332,17 @@
     <xi:include href="./sections/32-571.xml"/>
     <xi:include href="./sections/32-572.xml"/>
     <xi:include href="./sections/32-573.xml"/>
-    <annotation type="Applicability" doc="D.C. Law 23-209" path="§301" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-209" path="">D.C. Law 23-209</cite>: <cite doc="D.C. Law 23-209" path="§302">§ 302 of D.C. Law 23-209</cite> provided that the repeal of this section by <cite doc="D.C. Law 23-209" path="§301">§ 301 of D.C. Law 23-209</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="notfunded" doc="D.C. Law 23-209" eff="2021-03-16" path="§302|(a)" type="History" display="false"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-209" eff="2021-03-16" path="§301" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-209" path="§301" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-209" path="">D.C. Law 23-209</cite>: <cite doc="D.C. Law 23-209" path="§302">§ 302 of D.C. Law 23-209</cite> provided that the repeal of this section by <cite doc="D.C. Law 23-209" path="§301">§ 301 of D.C. Law 23-209</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation doc="D.C. Act 24-159" path="§7202" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7202">Section 7202 of D.C. Act 24-159</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the amendments to this section shall apply as of April 1, 2022.
         </annotation>
     <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7202" type="History" display="false"/>
-    <annotation doc="D.C. Law 24-45" path="§7202" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7202">Section 7202 of D.C. Law 24-45</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the amendments to this section shall apply as of April 1, 2022.
-        </annotation>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7202" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-209" eff="2021-03-16" path="§301" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>5B</num>
-    <reason>Not Funded</reason>
-    <heading>Ban on Non-compete Agreements.</heading>
-    <annotation app="notfunded" doc="D.C. Law 23-209" eff="2021-03-16" path="§302|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-209" eff="2021-03-16" path="" type="History" display="false"/>
+    <heading>Ban on Non-compete Agreements. [Applicable April 1, 2022]<annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7202" type="History"/></heading>
+    <annotation app="2021-03-16" doc="D.C. Law 23-209" eff="2021-03-16" path="" type="History" display="false"/>
     <xi:include href="./sections/32-581.01.xml"/>
     <xi:include href="./sections/32-581.02.xml"/>
     <xi:include href="./sections/32-581.03.xml"/>

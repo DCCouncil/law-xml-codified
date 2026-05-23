@@ -1116,6 +1116,15 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>III-B</num>
+      <reason>Not Funded</reason>
+      <heading>Community Service Debt Repayment Program.</heading>
+      <annotation app="2018-10-30" doc="D.C. Law 22-175" eff="2018-10-30" path="§3|(a)|(8)" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 22-175" eff="2018-10-30" path="§2|(i)" type="History" display="false"/>
+      <xi:include href="./sections/50-2303.21.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Administrative Review.</heading>
       <xi:include href="./sections/50-2304.01.xml"/>
