@@ -2,6 +2,9 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>§</prefix>
   <num>28-5404</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on April 8, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§28-5404(Perm)">Past Permanent Version</cite>.*
+      </text>
   <heading>Exceptions.</heading>
   <para>
     <num undesignated="true">(a)</num>
@@ -27,12 +30,32 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>In the event that the cash-to-card device malfunctions, the food store or retail establishment where the cash-to-card device is located shall accept, in accordance with this chapter, payment in cash from consumers during the time period in which the cash-to-card device does not function; or</text>
+        <text>In the event that the cash-to-card device malfunctions, the food store or retail establishment where the cash-to-card device is located shall accept, in accordance with this chapter, payment in cash from consumers during the time period in which the cash-to-card device does not function;</text>
       </para>
     </para>
     <para>
       <num>(4)</num>
-      <text>During a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">[§ 7-2304.01]</cite>.</text>
+      <text>During a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">[§ 7-2304.01]</cite>; or</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Provided that written, conspicuous notice to the public is displayed on the door of the establishment or menu that cash payments are not accepted, to:</text>
+      <para>
+        <num>(A)</num>
+        <text>A retail establishment with a valid on-premises Class C or Class D retailer license; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A restaurant location, as that term is defined in <cite path="§25-101|(43)">§ 25-101(43)</cite>, that operates:</text>
+        <para>
+          <num>(i)</num>
+          <text>24 hours a day; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>At 3:00 am at least 2 days a week.</text>
+        </para>
+      </para>
     </para>
   </para>
   <annotations>
@@ -43,5 +66,10 @@
     <annotation doc="D.C. Law 25-50" path="§7082" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7082">Section 7082 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 23-187" path="§3">section 3 of D.C. Law 23-187</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 2(c) of Law 23-187 has been implemented.
         </annotation>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7082" type="History" display="false"/>
+    <annotation app="2025-01-08" doc="D.C. Act 25-684" eff="2025-01-08" path="§2" type="History" display="false"/>
+    <annotation app="2025-01-08" doc="D.C. Act 25-684" eff="2025-01-08" path="§2|(a)" type="History"/>
+    <annotation app="2025-01-08" doc="D.C. Act 25-684" eff="2025-01-08" path="§2|(b)" type="History"/>
+    <annotation app="2025-01-08" doc="D.C. Act 25-684" eff="2025-01-08" path="§2|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-684" path="§2" codified:display="Note" app="2025-01-08" eff="2025-01-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-684" path="§2">§ 2 of Entertainment Establishment Employee Safety Emergency Amendment Act of 2024 (D.C. Act 25-684, Jan. 8, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
