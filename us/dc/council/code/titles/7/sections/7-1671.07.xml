@@ -1,14 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-1671.07</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 3, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-1671.07(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Health Occupations Boards review of medical marijuana authorized practitioner recommendations.</heading>
   <para>
     <num>(a)</num>
     <text>The Boards of Medicine, Nursing, and Dentistry" shall have the authority to review and audit the written authorized practitioner recommendations submitted to ABRA as part of the registration process and shall have the authority to discipline authorized practitioners under their licensing authority who act outside of the scope of this chapter.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(b)</num>
-    <text>The relevant licensing board shall audit the recommendations submitted by any authorized practitioner who provides more than 250 recommendations in any 12-month period to patients for the use of medical marijuana.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -28,5 +31,8 @@
     <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(g)|(4)|(A)" type="History"/>
     <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(g)|(4)|(B)" type="History"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§5012|(f)" type="History"/>
+    <annotation app="2021-11-05" doc="D.C. Act 24-206" eff="2021-11-05" path="§2|(d)" type="History" display="false"/>
+    <annotation app="2021-11-05" doc="D.C. Act 24-206" eff="2021-11-05" path="§2|(d)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-206" path="§2|(d)" codified:display="Note" app="2021-11-05" eff="2021-11-05">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-206" path="§2|(d)">§ 2(d) of Medical Marijuana Patient Access Emergency Amendment Act of 2021 (D.C. Act 24-206, Nov. 5, 2021, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
