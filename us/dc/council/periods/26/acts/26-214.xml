@@ -978,7 +978,7 @@
         <text>The lead-in language is amended by striking the phrase "§ 47-1803.03(a)(7) and (b-3)" and inserting the phrase "§§ 47-1803.03(a)(7) and 47-1803.04(e)(3)" in its place</text>
         <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-1811.04">
           <find><cite path="§47-1803.03|(a)|(7)">§ 47-1803.03(a)(7)</cite> and (b-3)</find>
-          <replace>§§ <cite doc="D.C. Code" path="§47-1803.03|(a)|(7)">47-1803.03(a)(7)</cite> and <cite doc="D.C. Code" path="§47-1803.04|(e)|(3)">47-1803.04(e)(3)</cite></replace>
+          <replace>§§ <cite doc="D.C. Code" path="§47-1803.03|(a)|(7)">47-1803.03(a)(7)</cite> and <cite doc="D.C. Code" path="§47-1803.04|(e)">47-1803.04(e)(3)</cite></replace>
         </codify:find-replace>
       </para>
       <para>
