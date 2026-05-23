@@ -30,7 +30,6 @@
         <text>A new paragraph (13B) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(13A)" codified:doc="D.C. Code" codified:path="§7-1671.01|(13B)"/>
             <num>(13B)</num>
             <text>"Non-resident cardholder" means a person who is not a resident of the District of Columbia, who is not currently enrolled in another jurisdiction's medical marijuana program, and who has submitted documentation required by ABRA for a temporary 30-day registration card and has received confirmation of registration.</text>
           </para>
@@ -40,49 +39,25 @@
       <para codify:path="(19)">
         <num>(2)</num>
         <text>Paragraph (19) is amended by striking the phrase "resident of the District" and inserting the phrase "resident of the District or another jurisdiction that is registered with ABRA" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.01|(19)">
-          <find>resident of the District</find>
-          <replace>resident of the District or another jurisdiction that is registered with ABRA</replace>
-        </codify:find-replace>
       </para>
       <codify:emergency doc="D.C. Code" path="§7-1671.01" codified:doc="D.C. Code" codified:path="§7-1671.01" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§7-1671.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-1671.01">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on January 15, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§7-1671.01(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para codify:path="§7-1671.02|(c-1)">
       <num>(b)</num>
       <text>Section 3 (D.C. Official Code § 7-1671.02) is amended by adding a new subsection (c-1) to read as follows:</text>
       <include>
         <para>
-          <codify:replace codified:doc="D.C. Code" codified:path="§7-1671.02|(c-1)"/>
           <num>(c-1)</num>
           <text>When a qualifying patient's or caregiver's registration identification card has expired or will expire at any time between March 1, 2020, and March 31, 2023, and the qualifying patient or caregiver has not submitted an application for a new registration identification card, the qualifying patient or caregiver may continue to purchase, possess, and administer medical marijuana in accordance with <code-cite doc="D.C. Code" path="7|16B">this act</code-cite> and the rules issued pursuant to <code-cite doc="D.C. Code" path="§7-1671.13">section 14</code-cite> until March 31, 2023. On or after April 1, 2023, the qualifying patient or caregiver must possess a valid registration identification card to continue to purchase, possess, and administer medical marijuana.</text>
         </para>
       </include>
       <aftertext>.</aftertext>
       <codify:emergency doc="D.C. Code" path="§7-1671.02" codified:doc="D.C. Code" codified:path="§7-1671.02" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§7-1671.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-1671.02">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on January 15, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§7-1671.02(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para codify:path="§7-1671.03|(a)">
       <num>(c)</num>
       <text>Section 4(a) (D.C. Official Code § 7-1671.03(a)) is amended by striking the phrase "is 2 ounces of dried medical marijuana; provided, that the Mayor, through rulemaking, may increase the quantity of dried medical marijuana that may be possessed up to 4 ounces; and" and inserting the phrase "is 8 ounces of dried medical marijuana. The Mayor" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.03|(a)">
-        <find>The Mayor</find>
-        <replace>The Mayor</replace>
-      </codify:find-replace>
       <codify:emergency doc="D.C. Code" path="§7-1671.03" codified:doc="D.C. Code" codified:path="§7-1671.03" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§7-1671.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-1671.03">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on January 15, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§7-1671.03(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para codify:path="§7-1671.05">
       <num>(d)</num>
@@ -92,7 +67,6 @@
         <text>Paragraph (1) is amended by adding a new subparagraph (C) to read as follows:</text>
         <include lvl="2">
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§7-1671.05|(1)|(C)"/>
             <num>(C)</num>
             <text>As part of the registration process, permit a non-resident qualifying patient visiting the District of Columbia to apply to ABRA to receive a temporary non-resident registration identification card.  A temporary non-resident registration identification card issued to a non-resident cardholder shall be valid for 30 days.  After the expiration of the temporary non-resident registration identification card, a non-resident qualifying patient may apply to ABRA to be issued another 30-day temporary non-resident identification card.</text>
           </para>
@@ -104,7 +78,6 @@
         <text>Paragraph (3) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§7-1671.05|(3)"/>
             <num>(3)</num>
             <text>Issue nontransferable registration identification cards that expire annually to registered persons and entities, which may be presented to and used by law enforcement to confirm whether a person or entity is authorized to administer, cultivate, dispense, distribute, test, or possess medical marijuana, or to manufacture, possess, or distribute paraphernalia; provided, that qualifying patients and caregivers who register after November 5, 2021, and prior to March 31, 2023, shall be issued nontransferable registration identification cards that expire biennially.</text>
           </para>
@@ -116,7 +89,6 @@
         <text>Paragraph (9) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§7-1671.05|(9)"/>
             <num>(9)</num>
             <text>Establish registration and annual renewal fees for all persons and entities required to register pursuant to <code-cite doc="D.C. Code" path="7|16B">this act</code-cite>; provided, that the ABC Board, by rule, may make qualifying patient and caregiver registrations available at no cost to attract and retain qualifying patients; however, the registration and annual renewal fees for dispensaries, cultivation centers, and testing laboratories and for the directors, officers, members, incorporators, agents, and employees of dispensaries, cultivation centers, and testing laboratories shall be sufficient to offset the costs of administering <code-cite doc="D.C. Code" path="7|16B">this act</code-cite>.</text>
           </para>
@@ -124,22 +96,11 @@
         <aftertext>.</aftertext>
       </para>
       <codify:emergency doc="D.C. Code" path="§7-1671.05" codified:doc="D.C. Code" codified:path="§7-1671.05" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§7-1671.05" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-1671.05">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on January 15, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§7-1671.05(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para codify:path="§7-1671.07|(b)">
       <num>(e)</num>
       <text>Section 8(b) (D.C. Official Code § 7-1671.07(b)) is repealed.</text>
-      <codify:repeal codified:doc="D.C. Code" codified:path="§7-1671.07|(b)"/>
       <codify:emergency doc="D.C. Code" path="§7-1671.07" codified:doc="D.C. Code" codified:path="§7-1671.07" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§7-1671.07" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-1671.07">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on January 15, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§7-1671.07(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
   </section>
   <section>
