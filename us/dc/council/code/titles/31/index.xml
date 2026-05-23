@@ -1079,6 +1079,7 @@
       <xi:include href="./sections/31-3303.13b.xml"/>
       <xi:include href="./sections/31-3303.13c.xml"/>
       <xi:include href="./sections/31-3303.13d.xml"/>
+      <xi:include href="./sections/31-3303.13e.xml"/>
       <xi:include href="./sections/31-3303.14.xml"/>
     </container>
   </container>
@@ -1320,6 +1321,22 @@
     <heading>Medically Necessary Foods Coverage.</heading>
     <annotation app="2022-09-21" doc="D.C. Law 24-168" eff="2022-09-21" path="" type="History" display="false"/>
     <xi:include href="./sections/31-3871.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>38F</num>
+    <heading>Prior Authorization.</heading>
+    <annotation app="2024-01-17" doc="D.C. Law 25-100" eff="2024-01-17" path="" type="History" display="false"/>
+    <xi:include href="./sections/31-3881.xml"/>
+    <xi:include href="./sections/31-3882.xml"/>
+    <xi:include href="./sections/31-3883.xml"/>
+    <xi:include href="./sections/31-3884.xml"/>
+    <xi:include href="./sections/31-3885.xml"/>
+    <xi:include href="./sections/31-3886.xml"/>
+    <xi:include href="./sections/31-3887.xml"/>
+    <xi:include href="./sections/31-3888.xml"/>
+    <xi:include href="./sections/31-3889.xml"/>
+    <xi:include href="./sections/31-3890.xml"/>
   </container>
   <subheading>Subtitle V. Liability and Related Insurance.</subheading>
   <container>

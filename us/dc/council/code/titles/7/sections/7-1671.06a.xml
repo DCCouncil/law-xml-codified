@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-1671.06a</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on April 24, 2024. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§7-1671.06a(Perm)">Permanent Version</cite>.*
+      </text>
   <heading proof="needed">Unlicensed establishments transition.</heading>
   <para>
     <num>(a)</num>
@@ -155,11 +158,19 @@
     <num>(h)</num>
     <para>
       <num>(1)</num>
-      <text>The ABC Board shall provide notice of complete and eligible cultivation center, retailer, and internet retailer license applications received from unlicensed establishments to the Councilmember and all Advisory Neighborhood Commissions in the affected ward for a 45-calendar day public comment period.</text>
+      <text>The ABC Board shall provide notice of complete and eligible cultivation center, retailer, and internet retailer license applications received from unlicensed establishments to the Ward Councilmember, and any Advisory Neighborhood Commission within 600 feet of where the establishment is or will be located ("affected ANC"), for a 45-calendar day public comment period. The ABC Board may extend the public comment period required by this paragraph by an additional 30-calendar days in response to a written request submitted by either an affected ANC or the applicant.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The ABC Board shall hold a contested case protest hearing within 120 days of receiving a timely protest from an affected Advisory Neighborhood Commission.</text>
+      <text>An affected ANC may protest the issuance of the license.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The ABC Board shall hold a contested case protest hearing within 120 days of receiving a timely protest from an affected ANC pursuant to paragraph (2) of this subsection.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The provisions of this subsection shall apply to all applications submitted to ABCA after January 25, 2024.</text>
     </para>
   </para>
   <para>
@@ -193,5 +204,8 @@
   <annotations>
     <annotation doc="D.C. Law 13-315" type="History" path="§7a">Feb. 25, 2010, D.C. Law 13-315, § 7a</annotation>
     <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§3|(h)" prefix="as added" type="History"/>
+    <annotation app="2024-01-25" doc="D.C. Act 25-371" eff="2024-01-25" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2024-01-25" doc="D.C. Act 25-371" eff="2024-01-25" path="§2|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-371" path="§2|(b)" codified:display="Note" app="2024-01-25" eff="2024-01-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-371" path="§2|(b)">§ 2(b) of Medical Cannabis Program Enforcement Emergency Amendment Act of 2024 (D.C. Act 25-371, Jan. 25, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
