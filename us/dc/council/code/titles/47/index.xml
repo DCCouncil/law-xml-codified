@@ -682,6 +682,10 @@
       <xi:include href="./sections/47-859.04.xml"/>
       <xi:include href="./sections/47-859.04a.xml"/>
       <xi:include href="./sections/47-859.05.xml"/>
+      <xi:include href="./sections/47-860.01.xml"/>
+      <xi:include href="./sections/47-860.02.xml"/>
+      <xi:include href="./sections/47-860.03.xml"/>
+      <xi:include href="./sections/47-860.04.xml"/>
       <xi:include href="./sections/[47-859.06].xml"/>
     </container>
     <container>
@@ -2844,6 +2848,8 @@
     <xi:include href="./sections/[47-4672].xml"/>
     <xi:include href="./sections/47-4673.xml"/>
     <xi:include href="./sections/47-4674.xml"/>
+    <xi:include href="./sections/47-4675.xml"/>
+    <xi:include href="./sections/[47-4676].xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

@@ -1,14 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-1432</num>
-  <heading>DC-NET Services Support Fund.</heading>
+  <heading>DC-NET Services and Innovation Fund.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established as a nonlapsing fund the DC-NET Services Support Fund, which shall be used solely to defray operational costs of the DC-NET program. The DC-NET Services Support Fund shall be funded by payments for telecommunications services furnished by the DC-NET program of the Office of the Chief Technology Officer from independent District government agencies, agencies of the federal government, agencies of state or local governments, nonprofit entities providing services in the District of Columbia, entities outside the District government that may engage the DC-Net program to provide telecommunications services to the District of Columbia Public Schools, District of Columbia public charter schools, the District of Columbia Public Library, any open-access public network established for the purpose of providing Internet access services to underserved residents or neighborhoods in the District, and entities designated by the Mayor as necessary to support economic development initiatives of the District government. All funds collected from these sources shall be deposited into the DC-NET Services Support Fund.</text>
+    <text>There is established as a special fund the DC-NET Services and Innovation Fund ("Fund"), which shall be administered by the Office of the Chief Technology Officer ("Office") in accordance with subsection (c) of this section.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>All funds deposited into the DC-NET Services Support Fund, and any interest earned thereon, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time, but shall be continually available for the uses and purposes set forth in subsection (a) of this section without regard to fiscal year limitation, subject to authorization by Congress.</text>
+    <text>There shall be deposited into the Fund all payments for telecommunications services furnished by the Office's DC-NET program from independent District government agencies; agencies of the federal government; agencies of state or local governments; nonprofit entities providing services in the District; entities outside the District government that may engage the DC-NET program to provide telecommunications services to the District of Columbia Public Schools, District of Columbia public charter schools, or the District of Columbia Public Library; any open-access public network established for the purpose of providing Internet access services to underserved residents or neighborhoods in the District; and entities designated by the Mayor as necessary to support economic development initiatives of the District government.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>Money in the Fund shall be used for the following purposes:</text>
+    <para>
+      <num>(1)</num>
+      <text>Network enhancement, maintenance, and expansion;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>District government information technology innovation;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Initiatives and actions to incorporate emerging information and communication technologies into the operations of District government agencies to enhance agency operations and the quality of life for District residents, businesses, and visitors through smart technology, including the internet of things, public Wi-Fi, connected devices, and sensors, innovation competitions, and data analytics; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>To pay for operational and administrative costs of the DC-NET program.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <para>
+      <num>(1)</num>
+      <text>The money deposited into the Fund but not expended in a fiscal year shall not revert to the unassigned fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 17-20" type="History" path="§1003">Sept. 18, 2007, D.C. Law 17-20, § 1003, 54 DCR 7052</annotation>
@@ -21,5 +52,8 @@
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 1003 of Fiscal Year 2008 Budget Support Emergency Act of 2007 (D.C. Act 17-74, July 25, 2007,  54 DCR 7549).</annotation>
     <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite>, in (a), substituted “nonprofit entities providing services” for “nonprofit entities providing health care or education services” and substituted “any open-access public network established for the purpose of providing Internet access services to underserved residents or neighborhoods in the District, and entities designated by the Mayor as necessary to support economic development initiatives of the District government” for “and any open-access public network established for the purpose of providing Internet access services to underserved residents or neighborhoods in the District.”</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite>, in subsec. (a), substituted “independent District government agencies, agencies of the federal government, agencies of state or local governments, nonprofit entities providing health care or education services in the District of Columbia, entities outside the District government that may engage the DC-Net program to provide telecommunications services to the District of Columbia Public Schools, District of Columbia public charter schools, the District of Columbia Public Library, and any open-access public network established for the purpose of providing Internet access services to underserved residents or neighborhoods in the District” for “independent District government agencies and entities outside the District government that may engage the DC-Net program to provide telecommunications services to the District of Columbia Public Schools”.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§1003" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§1003">§ 1003 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§1003" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§1003" type="History"/>
   </annotations>
 </section>

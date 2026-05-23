@@ -17783,30 +17783,6 @@
           </section>
         </include>
         <aftertext>.</aftertext>
-        <codify:find-replace path="32|5B|heading" count="1" codified:doc="D.C. Code" codified:path="32|5B">
-          <find>Agreements.</find>
-          <replace>Agreements. [Applicable April 1, 2022]</replace>
-        </codify:find-replace>
-        <codify:find-replace path="§32-581.01" count="2" codified:doc="D.C. Code" codified:path="§32-581.01">
-          <find>Not Funded</find>
-          <replace>Applicable April 1, 2022</replace>
-        </codify:find-replace>
-        <codify:find-replace path="§32-581.02" count="2" codified:doc="D.C. Code" codified:path="§32-581.02">
-          <find>Not Funded</find>
-          <replace>Applicable April 1, 2022</replace>
-        </codify:find-replace>
-        <codify:find-replace path="§32-581.03" count="2" codified:doc="D.C. Code" codified:path="§32-581.03">
-          <find>Not Funded</find>
-          <replace>Applicable April 1, 2022</replace>
-        </codify:find-replace>
-        <codify:find-replace path="§32-581.04" count="2" codified:doc="D.C. Code" codified:path="§32-581.04">
-          <find>Not Funded</find>
-          <replace>Applicable April 1, 2022</replace>
-        </codify:find-replace>
-        <codify:find-replace path="§32-581.05" count="2" codified:doc="D.C. Code" codified:path="§32-581.05">
-          <find>Not Funded</find>
-          <replace>Applicable April 1, 2022</replace>
-        </codify:find-replace>
         <codify:annotation doc="D.C. Code" path="§32-571" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-571"><cite doc="D.C. Law 24-45" path="§7202">Section 7202 of D.C. Law 24-45</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the repeal this section shall apply as of April 1, 2022.
         </codify:annotation>
         <codify:annotation doc="D.C. Code" path="§32-572" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-572"><cite doc="D.C. Law 24-45" path="§7202">Section 7202 of D.C. Law 24-45</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the repeal this section shall apply as of April 1, 2022.
@@ -17828,25 +17804,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
-        <codify:repeal doc="D.C. Law 23-211" path="§6|(a)" codified:doc="D.C. Code" codified:path="§1-325.381|(b)|(3)"/>
-        <codify:applicability doc="D.C. Law 23-211" path="§2|(b)|(2)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.03|(d)"/>
-        <codify:applicability doc="D.C. Law 23-211" path="§2|(d)|(2)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.04|(b)"/>
-        <codify:applicability doc="D.C. Law 23-211" path="§2|(m)|(1)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.14|(d)"/>
-        <codify:repeal doc="D.C. Code" path="§8-1031.03|(e)" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.03|(e)"/>
-        <codify:find-replace doc="D.C. Code" path="§8-1031.03|(e)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.03|(e)">
-          <find>Repealed</find>
-          <replace>Not Funded</replace>
-        </codify:find-replace>
-        <codify:repeal doc="D.C. Code" path="§8-1031.12c" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.12c"/>
-        <codify:find-replace doc="D.C. Code" path="§8-1031.12c" count="2" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.12c">
-          <find>Repealed</find>
-          <replace>Not Funded</replace>
-        </codify:find-replace>
-        <codify:repeal doc="D.C. Code" path="§8-1031.12e" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.12e"/>
-        <codify:find-replace doc="D.C. Code" path="§8-1031.12e" count="2" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.12e">
-          <find>Repealed</find>
-          <replace>Not Funded</replace>
-        </codify:find-replace>
+        <codify:repeal doc="D.C. Law 23-211" path="§6|(a)"/>
         <codify:annotation doc="D.C. Code" path="§8-1031.03" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-1031.03">
           Applicability of D.C. Law 23-211: <cite doc="D.C. Law 24-45" path="§7203">§ 7203 of D.C. Law 24-45</cite> provided that the change made to subsection (d) and (e) of this section by § 2(b) of D.C. Law 23-211 is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.
         </codify:annotation>
@@ -17923,11 +17881,10 @@
               <num>(a)</num>
               <text>Section 2(b)(2) of this act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
               <codify:repeal doc="D.C. Law 23-233" path="§4"/>
-              <codify:applicability doc="D.C. Law 23-233" path="§2|(b)|(2)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§10-712|(b-1)"/>
-              <codify:not-funded-anno doc="D.C. Code" path="§10-712" applicability-path="§7205" action="creation of subsection (b-1) of" display-template="" codified:doc="D.C. Code" codified:path="§10-712" codified:display="Note"/>
-              <codify:annotation doc="D.C. Code" path="§10-711" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§10-711"><cite doc="D.C. Law 24-45" path="§7205">Section 7205 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-233" path="§4">section 4 of D.C. Law 23-233</cite> that impacted this section.  Therefore the amendment of this section by Law 23-233 has been implemented.
+              <codify:not-funded-anno doc="D.C. Code" path="§10-712" applicability-path="§7205" action="creation of subsection (b-1) of" display-template=""/>
+              <codify:annotation doc="D.C. Code" path="§10-711" type="Applicability" history="false"><cite doc="D.C. Law 24-45" path="§7205">Section 7205 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-233" path="§4">section 4 of D.C. Law 23-233</cite> that impacted this section.  Therefore the amendment of this section by Law 23-233 has been implemented.
         </codify:annotation>
-              <codify:annotation doc="D.C. Code" path="§10-171.03" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§10-171.03"><cite doc="D.C. Law 24-45" path="§7205">Section 7205 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-233" path="§4">section 4 of D.C. Law 23-233</cite> that impacted this section.  Therefore the amendment of this section by Law 23-233 has been implemented.
+              <codify:annotation doc="D.C. Code" path="§10-171.03" type="Applicability" history="false"><cite doc="D.C. Law 24-45" path="§7205">Section 7205 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-233" path="§4">section 4 of D.C. Law 23-233</cite> that impacted this section.  Therefore the amendment of this section by Law 23-233 has been implemented.
         </codify:annotation>
             </para>
             <para>

@@ -1,22 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Applicable October 1, 2022</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-581.02</num>
   <heading>Non-compete rights and restrictions.</heading>
-  <text>Applicable October 1, 2022.</text>
+  <para>
+    <num>(a)</num>
+    <text>No employer may require or request that an employee sign an agreement that includes a non-compete provision.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>A non-compete provision contained in an agreement that was entered into on or after the applicability date of <cite path="32|5B">this chapter</cite> between an employee and an employer shall be void as a matter of law and unenforceable.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>No employer may have a workplace policy that prohibits an employee from:</text>
+    <para>
+      <num>(1)</num>
+      <text>Being employed by another person;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Performing work or providing services for pay for another person; or</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Operating the employee's own business.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>No employer may retaliate or threaten to retaliate against an employee for:</text>
+    <para>
+      <num>(1)</num>
+      <text>The employee's refusal to agree to a non-compete provision;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The employee's alleged failure to comply with a non-compete provision or a workplace policy made unlawful by <cite path="32|5B">this chapter</cite>;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Asking, informing, or complaining about the existence, applicability, or validity of a non-compete provision or a workplace policy that the employee reasonably believes is prohibited under <cite path="32|5B">this chapter</cite> to any of the following:</text>
+      <para>
+        <num>(A)</num>
+        <text>An employer, including the employee's employer;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A coworker;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The employee's lawyer or agent; or</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>A governmental entity; or</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Requesting from the employer the information required to be provided to the employee pursuant to subsection (e) of this section.</text>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <para>
+      <num>(1)</num>
+      <text>An employer shall provide an employee who works for the employer with the text of paragraph (2) of this subsection in writing, no later than:</text>
+      <para>
+        <num>(A)</num>
+        <text>Ninety calendar days after the applicability date of <cite path="32|5B">this chapter</cite>;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Seven calendar days after an individual becomes an employee of the employer; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Fourteen calendar days after the employer receives a written request for such statement from the employee.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>[]No employer operating in the District of Columbia may request or require any employee working in the District of Columbia to agree to a non-compete policy or agreement, in accordance with <cite path="32|5B">this chapter</cite>.[].</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§32-581.02" codified:display="Note" codified:doc="D.C. Code" codified:path="§32-581.02">Applicability of <cite doc="D.C. Law 23-209" path="">D.C. Law 23-209</cite>: <cite doc="D.C. Law 23-209" path="§302">§ 302 of D.C. Law 23-209</cite> provided that the creation of this section by <cite doc="D.C. Law 23-209" path="§102">§ 102 of D.C. Law 23-209</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2021-03-16" doc="D.C. Law 23-209" eff="2021-03-16" path="" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-209" eff="2021-03-16" path="§302|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-209" eff="2021-03-16" path="§102" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-209" path="§102" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-209" path="">D.C. Law 23-209</cite>: <cite doc="D.C. Law 23-209" path="§302">§ 302 of D.C. Law 23-209</cite> provided that the creation of this section by <cite doc="D.C. Law 23-209" path="§102">§ 102 of D.C. Law 23-209</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-209" eff="2021-03-16" path="§102" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-209" path="§102" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-209" path="">D.C. Law 23-209</cite>: <cite doc="D.C. Law 23-209" path="§302">§ 302 of D.C. Law 23-209</cite> provided that the creation of this section by <cite doc="D.C. Law 23-209" path="§102">§ 102 of D.C. Law 23-209</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation doc="D.C. Act 24-159" path="§7202" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7202">Section 7202 of D.C. Act 24-159</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the creation of this section shall apply as of April 1, 2022.
         </annotation>
     <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7202" type="History" display="false"/>
     <annotation doc="D.C. Law 24-45" path="§7202" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7202">Section 7202 of D.C. Law 24-45</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the creation of this section shall apply as of April 1, 2022.
         </annotation>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7202" type="History" display="false"/>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7202" type="History"/>
     <annotation doc="D.C. Act 24-350" path="§2" type="Applicability" history="false" app="2022-03-28" eff="2022-03-28"><cite doc="D.C. Act 24-350" path="§2">Section 2 of D.C. Act 24-350</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the creation of this section shall apply as of October 1, 2022.
         </annotation>
     <annotation app="2022-03-28" doc="D.C. Act 24-350" eff="2022-03-28" path="§2" type="History" display="false"/>
@@ -26,6 +105,5 @@
     <annotation doc="D.C. Law 24-132" path="§2" type="Applicability" history="false" app="2022-06-30" eff="2022-06-30"><cite doc="D.C. Law 24-132" path="§2">Section 2 of D.C. Law 24-132</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the creation of of this section shall apply as of October 1, 2022.
         </annotation>
     <annotation app="2022-06-30" doc="D.C. Law 24-132" eff="2022-06-30" path="§2" type="History" display="false"/>
-    <annotation app="2022-06-30" doc="D.C. Law 24-132" eff="2022-06-30" path="§2" type="History"/>
   </annotations>
 </section>

@@ -51,7 +51,7 @@
       <para codify:path="(3A)|num">
         <num>(3)</num>
         <text>The existing paragraph (3A) is redesignated as paragraph (3B).</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-761.02|(3A)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-761.02|(3B)">
           <find>(3A)</find>
           <replace>(3B)</replace>
         </codify:find-replace>
@@ -61,8 +61,8 @@
         <text>A new paragraph (3A) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(3)" codified:doc="D.C. Code" codified:path="§7-761.02|[(3A])"/>
-            <num>[(3A])</num>
+            <codify:insert after="(3)" codified:doc="D.C. Code" codified:path="§7-761.02|(3A)"/>
+            <num>(3A)</num>
             <text>"Developmental disability" means a severe and chronic disability of a person that:</text>
             <para>
               <num>(A)</num>
@@ -589,7 +589,7 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 24-117" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-761.02|(1)"/>
+      <codify:applicability doc="D.C. Law 24-117" date="notfunded" history="false" display-template=""/>
     </para>
     <para>
       <num>(b)</num>

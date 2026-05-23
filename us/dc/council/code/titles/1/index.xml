@@ -1288,6 +1288,13 @@
         <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="V|K" type="History" display="false"/>
         <xi:include href="./sections/1-325.431.xml"/>
       </container>
+      <container>
+        <prefix>Part</prefix>
+        <num>SS</num>
+        <heading>Opioid Abatement Fund.</heading>
+        <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="V|B" type="History" display="false"/>
+        <xi:include href="./sections/1-325.441.xml"/>
+      </container>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1320,6 +1327,7 @@
         <xi:include href="./sections/1-327.54a.xml"/>
         <xi:include href="./sections/1-327.54b.xml"/>
         <xi:include href="./sections/1-327.54c.xml"/>
+        <xi:include href="./sections/1-327.54d.xml"/>
         <xi:include href="./sections/1-327.55.xml"/>
         <xi:include href="./sections/1-327.56.xml"/>
         <xi:include href="./sections/1-327.56a.xml"/>

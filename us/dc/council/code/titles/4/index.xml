@@ -531,6 +531,14 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>4A</num>
+    <heading>Diaper Affordability and Access.</heading>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="V" type="History" display="false"/>
+    <xi:include href="./sections/4-411.xml"/>
+    <xi:include href="./sections/4-412.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>5</num>
     <heading>Victims of Crime.</heading>
     <container>
@@ -630,6 +638,13 @@
       <xi:include href="./sections/4-561.14.xml"/>
       <xi:include href="./sections/4-561.15.xml"/>
       <xi:include href="./sections/4-561.16.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>V</num>
+      <heading>Office of Victim Services and Justice Grants Transparency.</heading>
+      <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="III" type="History" display="false"/>
+      <xi:include href="./sections/4-571.01.xml"/>
     </container>
   </container>
   <container>
@@ -898,6 +913,13 @@
     <num>10</num>
     <heading>Burial Assistance Program.</heading>
     <xi:include href="./sections/4-1001.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>10A</num>
+    <heading>Heirs' Property Legal Assistance.</heading>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="II" type="History" display="false"/>
+    <xi:include href="./sections/4-1051.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1284,6 +1306,7 @@
     <xi:include href="./sections/4-2001.xml"/>
     <xi:include href="./sections/4-2002.xml"/>
     <xi:include href="./sections/4-2003.xml"/>
+    <xi:include href="./sections/4-2003.01.xml"/>
     <xi:include href="./sections/4-2004.xml"/>
     <xi:include href="./sections/4-2005.xml"/>
     <xi:include href="./sections/4-2006.xml"/>

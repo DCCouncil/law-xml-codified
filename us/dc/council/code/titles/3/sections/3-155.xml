@@ -1,12 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>3-155</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 11, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§3-155(Perm)">Permanent Version</cite>.*
-      </text>
-  <text>
-      *NOTE: Section 3065 of D.C. Act 24-470 provides that the amendments made to this section by section 3063(d) of D.C. Act 24-470 shall apply as of July 13, 2022.*
-      </text>
   <heading>Transition from District of Columbia Sentencing and Criminal Code Reform Commission.</heading>
   <para>
     <num>(a)</num>
@@ -25,10 +19,10 @@
     <annotation doc="D.C. Law 22-168" path="§3002|(b)" type="Expiration of Law" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§3002|(b)">Section 3002(b) of D.C. Law 22-168</cite> amended <cite doc="D.C. Law 21-160" path="§3127">section 3127 of D.C. Law 21-160</cite> providing that this section shall expire on October 1, 2019.
            </annotation>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3002|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§3063|(d)" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§3063|(d)">§ 3063(d) of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
     <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3063|(d)" type="History" display="false"/>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3063|(d)|(1)" type="History"/>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3063|(d)|(2)" type="History"/>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3063|(d)|(3)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§3063|(d)" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§3063|(d)">§ 3063(d) of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3063|(d)|(1)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3063|(d)|(2)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3063|(d)|(3)" type="History"/>
   </annotations>
 </section>

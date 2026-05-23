@@ -334,7 +334,7 @@
         <text>A new section 25-825a is added to read as follows:</text>
         <include>
           <section>
-            <codify:insert path="25|8|II" after="§25-825" num-value="[25-825.01]" codified:doc="D.C. Code" codified:path="§[25-825.01]"/>
+            <codify:insert path="25|8|II" after="§25-825" num-value="[25-825.01]" codified:doc="D.C. Code" codified:path="§25-825.01"/>
             <prefix>§</prefix>
             <num>25-825a</num>
             <heading>Cancellation when licensee has been evicted from the licensed premises.</heading>

@@ -106,7 +106,7 @@
           <text>Paragraph (1) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace path="(1)" codified:doc="D.C. Code" codified:path="§38-2803|(a)|(1)"/>
+              <codify:replace path="(1)" codified:doc="D.C. Code" codified:path="§38-2803|(a)"/>
               <num>(1)</num>
               <text>Beginning on December 15, 2017, and every 10 years thereafter, the Mayor shall prepare and submit to the Council for its review and approval a comprehensive 10-year Master Facilities Plan for public education facilities, along with a proposed resolution, in accordance with this section. The Council shall vote on the 10-year Master Facilities Plan concurrently with its vote on the Mayor's capital budget proposal. If approved by the Council, the 10-year Master Facilities Plan shall take effect on the first day of the succeeding fiscal year.</text>
             </para>
@@ -115,7 +115,7 @@
         <para>
           <num>(B)</num>
           <text>Paragraph (2) is amended by striking the phrase "5-year Master Facilities Plan" and inserting the phrase "10-year Master Facilities Plan" in its place.</text>
-          <codify:find-replace path="(2)" count="1" codified:doc="D.C. Code" codified:path="§38-2803|(a)|(2)">
+          <codify:find-replace path="(2)" count="1" codified:doc="D.C. Code" codified:path="§38-2803|(a)">
             <find>5-year Master Facilities Plan</find>
             <replace>10-year Master Facilities Plan</replace>
           </codify:find-replace>
@@ -123,7 +123,7 @@
         <para>
           <num>(C)</num>
           <text>Paragraph (3) is amended by striking the phrase "5-year Master Facilities Plan" and inserting the phrase "10-year Master Facilities Plan" in its place.</text>
-          <codify:find-replace path="(3)" count="1" codified:doc="D.C. Code" codified:path="§38-2803|(a)|(3)">
+          <codify:find-replace path="(3)" count="1" codified:doc="D.C. Code" codified:path="§38-2803|(a)">
             <find>5-year Master Facilities Plan</find>
             <replace>10-year Master Facilities Plan</replace>
           </codify:find-replace>
