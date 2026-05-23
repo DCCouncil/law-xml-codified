@@ -1,108 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <prefix>§</prefix>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
+  <reason>Not Funded</reason>
   <num>23-1904b</num>
   <heading proof="needed">Task Force on Hospital-Based Violence Intervention Programs.</heading>
-  <para>
-    <num>(a)</num>
-    <text>Beginning October 1, 2022, the Office of Victim Services and Justice Grants shall establish a Task Force on Hospital-Based Violence Intervention Programs ("Task Force") to study nationally recognized best practices and develop recommendations for:</text>
-    <para>
-      <num>(1)</num>
-      <text>Improving service delivery and outcomes for victims served by hospital-based violence intervention programs;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Promoting collaboration between hospital-based violence intervention programs, hospital staff, medical providers, and other victims' assistance programs;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Evaluating whether to extend the right to a HVIP member:</text>
-      <para>
-        <num>(A)</num>
-        <text>To include other victimizations; and</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Beyond forensic medical, evidentiary, or physical examinations at the hospital or interviews with law enforcement at the hospital.</text>
-      </para>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>The Task Force shall include:</text>
-    <para>
-      <num>(1)</num>
-      <text>Representatives from the following entities:</text>
-      <para>
-        <num>(A)</num>
-        <text>The Metropolitan Police Department;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>The Office of the Attorney General;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>The Office of Victim Services and Justice Grants;</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>The Office of Neighborhood Safety and Engagement;</text>
-      </para>
-      <para>
-        <num>(E)</num>
-        <text>The Office of Gun Violence Prevention;</text>
-      </para>
-      <para>
-        <num>(F)</num>
-        <text>Three hospitals that operate hospital-based violence intervention programs in the District, including one children's or pediatric hospital;</text>
-      </para>
-      <para>
-        <num>(G)</num>
-        <text>A professional organization, standards organization, or coordinating body that focuses on improving outcomes for patients served by hospital-based violence intervention programs, such as Project CHANGE or the Health Alliance for Violence Intervention; and</text>
-      </para>
-      <para>
-        <num>(H)</num>
-        <text>A District-based victim services provider; and</text>
-      </para>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Three current or former District residents who have had personal experience with a hospital-based violence intervention program.</text>
-    </para>
-  </para>
-  <para>
-    <num>(c)</num>
-    <para>
-      <num>(1)</num>
-      <text>The Task Force shall hold its initial meeting by March 31, 2023, and shall hold quarterly meetings thereafter.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>A chairperson, who shall not be a representative of a District agency, shall be elected by a majority vote of the Task Force members at the initial meeting.</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>No District agency or non-governmental entity shall have more than one representative on the Task Force.</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>The Task Force shall establish its own procedures and requirements with respect to the place and manner in which it will conduct its meetings.</text>
-    </para>
-  </para>
-  <para>
-    <num>(d)</num>
-    <text>By December 31, 2023, the Task Force shall submit a report to the Mayor and Council that:</text>
-    <para>
-      <num>(1)</num>
-      <text>Analyzes outcomes for patients served by hospital-based violence intervention programs and proposes policies that should be adopted by hospitals or District agencies to improve patient outcomes; and</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Determines whether a need exists to expand the right to a HVIP member as described in subsection (a)(3) of this section.</text>
-    </para>
-  </para>
+  <text>[Not Funded].</text>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§23-1904b" codified:display="Note" codified:doc="D.C. Code" codified:path="§23-1904b">Applicability of <cite doc="D.C. Law 24-341" path="">D.C. Law 24-341</cite>: <cite doc="D.C. Law 24-341" path="§301">§ 301 of D.C. Law 24-341</cite> provided that the creation of this section by <cite doc="D.C. Law 24-341" path="§110|(d)">§ 110(d) of D.C. Law 24-341</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="§110|(d)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-341" path="§110|(d)" codified:display="Note" app="2023-04-06" eff="2023-04-06">Applicability of <cite doc="D.C. Law 24-341" path="">D.C. Law 24-341</cite>: <cite doc="D.C. Law 24-341" path="§301">§ 301 of D.C. Law 24-341</cite> provided that the creation of this section by <cite doc="D.C. Law 24-341" path="§110|(d)">§ 110(d) of D.C. Law 24-341</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="§301|(a)" type="History" display="false"/>
   </annotations>
 </section>

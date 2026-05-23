@@ -1,29 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>4-581.02</num>
   <heading proof="needed">Batterer intervention program.</heading>
-  <para>
-    <num>(a)</num>
-    <text>The Office of Victim Services and Justice Grants ("OVSJG") shall, by December 31, 2023, in coordination with the Domestic Violence Fatality Review Board, established pursuant to D.C. Official Code § 16-1052(a), fund a voluntary, peer-led batterer intervention program:</text>
-    <para>
-      <num>(1)</num>
-      <text>Participation in which shall not be mandated by the Superior Court of the District of Columbia;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>That uses a public health approach to reduce a future risk of violence; and</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>That is informed by best practices.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>OVSJG shall, by December 31, 2023, after consultation with the Superior Court of the District of Columbia and the Domestic Violence Fatality Review Board, create a domestic violence questionnaire and service referral resource for use in Family Court proceedings.</text>
-  </para>
+  <text>Not Funded.</text>
   <annotations>
     <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="" type="History" display="false"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-341" eff="2023-04-06" path="§202" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-341" path="§202" codified:display="Note" app="2023-04-06" eff="2023-04-06">Applicability of <cite doc="D.C. Law 24-341" path="">D.C. Law 24-341</cite>: <cite doc="D.C. Law 24-341" path="§301">§ 301 of D.C. Law 24-341</cite> provided that the creation of this section by <cite doc="D.C. Law 24-341" path="§202">§ 202 of D.C. Law 24-341</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="§202" type="History"/>
   </annotations>
 </section>
