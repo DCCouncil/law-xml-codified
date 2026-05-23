@@ -566,6 +566,17 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>10C</num>
+    <heading>Electrical and Gas Utility Underground Work Wage.</heading>
+    <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="" type="History" display="false"/>
+    <xi:include href="./sections/32-1081.01.xml"/>
+    <xi:include href="./sections/32-1081.02.xml"/>
+    <xi:include href="./sections/32-1081.03.xml"/>
+    <xi:include href="./sections/32-1081.04.xml"/>
+    <xi:include href="./sections/32-1081.05.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>11</num>
     <heading>Occupational Safety and Health.</heading>
     <xi:include href="./sections/32-1101.xml"/>
