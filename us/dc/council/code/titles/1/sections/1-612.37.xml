@@ -1,10 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>1-612.37</num>
   <heading>Prohibition of coercion.</heading>
-  <text>An employee shall not directly or indirectly intimidate, threaten, or coerce any other employee for the purpose of interfering with any right that the employee may exercise to contribute, receive, or use annual or universal leave.</text>
+  <text>Repealed.</text>
   <annotations>
     <annotation doc="D.C. Law 2-139" type="History" path="§1237">Mar. 3, 1979, D.C. Law 2-139, § 1237</annotation>
     <annotation doc="D.C. Law 15-68" type="History">as added Feb. 6, 2004, D.C. Law 15-68, § 2, 50 DCR 9819</annotation>
+    <annotation app="2022-12-21" doc="D.C. Law 24-212" eff="2022-12-21" path="§2|(m)" type="History"/>
+    <annotation doc="D.C. Law 24-212" path="§2|(m)" type="Applicability" history="false" app="2022-12-21" eff="2022-12-21"><cite doc="D.C. Law 24-212" path="§3">Section 3 of D.C. Law 24-212</cite> provided that the amendments made to this section by D.C. Law 24-212 shall apply as of January 1, 2023.
+      </annotation>
+    <annotation app="2022-12-21" doc="D.C. Law 24-212" eff="2022-12-21" path="§2|(m)" type="History" display="false"/>
   </annotations>
 </section>

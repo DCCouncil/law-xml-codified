@@ -1,47 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>1-612.33</num>
   <heading>Application to receive transferred leave.</heading>
-  <para>
-    <num>(a)</num>
-    <text>An employee who expects to experience a prolonged absence may make written application to the agency head or designee, or in the case of an employee of the Council, to the Secretary to the Council, to become a recipient employee.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>If the employee is not capable of making an application, another employee of the agency may make written application on the employee’s behalf.</text>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>The application shall include at least the following:</text>
-    <para>
-      <num>(1)</num>
-      <text>The anticipated duration of the prolonged absence;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The name, position title, and grade of the proposed recipient employee;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>The name and organizational location within the Council, agency, or independent agency as appropriate of the potential leave contributor; and</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>The amount of leave requested.</text>
-    </para>
-  </para>
-  <para>
-    <num>(d)</num>
-    <text>The Council or an agency shall require submission of the following:</text>
-    <para>
-      <num>(1)</num>
-      <text>An affidavit signed by the recipient employee attesting to the fact that the individual requiring personal care is an immediate relative or that the personal care is due to the recent adoption of a child or care of a newborn child; and</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Certification from a physician or other licensed healthcare professional that the recipient employee has experienced a serious health condition or that the recipient employee’s immediate relative requires personal care, except that no certification shall be required in cases of pregnancy, the recent adoption of a child, or care of a newborn child.</text>
-    </para>
-  </para>
+  <text>Repealed.</text>
   <annotations>
     <annotation doc="D.C. Law 2-139" type="History" path="§1233">Mar. 3, 1979, D.C. Law 2-139, § 1233</annotation>
     <annotation doc="D.C. Law 15-68" type="History">as added Feb. 6, 2004, D.C. Law 15-68, § 2, 50 DCR 9819</annotation>
@@ -52,5 +14,9 @@
     <annotation app="2017-04-01" doc="D.C. Law 21-232" eff="2017-04-01" path="§2|(m)|(1)" type="History"/>
     <annotation app="2017-04-01" doc="D.C. Law 21-232" eff="2017-04-01" path="§2|(m)|(2)" type="History"/>
     <annotation app="2017-04-01" doc="D.C. Law 21-232" eff="2017-04-01" path="§2|(m)|(3)" type="History"/>
+    <annotation app="2022-12-21" doc="D.C. Law 24-212" eff="2022-12-21" path="§2|(m)" type="History"/>
+    <annotation doc="D.C. Law 24-212" path="§2|(m)" type="Applicability" history="false" app="2022-12-21" eff="2022-12-21"><cite doc="D.C. Law 24-212" path="§3">Section 3 of D.C. Law 24-212</cite> provided that the amendments made to this section by D.C. Law 24-212 shall apply as of January 1, 2023.
+      </annotation>
+    <annotation app="2022-12-21" doc="D.C. Law 24-212" eff="2022-12-21" path="§2|(m)" type="History" display="false"/>
   </annotations>
 </section>

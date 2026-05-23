@@ -1,22 +1,69 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-612.05</num>
-  <heading>Annual leave bank.</heading>
+  <heading>Paid Family and Medical Leave Supplemental Bank.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established within the District of Columbia (“District”) government an annual leave bank. An employee may donate annual leave to the bank and withdraw annual leave from the bank in accordance with §§ <cite path="§1-612.06">1-612.06</cite>, <cite path="§1-612.07">1-612.07</cite>, and <cite path="§1-612.08">1-612.08</cite> and under guidelines promulgated by the Mayor pursuant to <cite path="§1-612.11">§ 1-612.11</cite>.</text>
+    <text>There is established within the District government the Paid Family and Medical Leave Supplemental Bank, which shall consist of hours of leave from the following sources deposited in accordance with <cite path="§1-612.06">§ 1-612.06</cite> and rules promulgated by the Mayor pursuant to <cite path="§1-612.11">§ 1-612.11</cite>:</text>
+    <para>
+      <num>(1)</num>
+      <text>Annual, restored, or universal leave an employee accrued or accumulated and voluntarily contributed to the PFML Bank;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Annual, restored, or universal leave an employee accrued or accumulated and voluntarily contributed to the PFML Bank for use by a specific leave recipient; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Annual or universal leave that an employee may not carry over to the following leave year pursuant to <cite path="§1-612.03|(h)">§ 1-612.03(h)</cite> or <cite path="§1-610.61|(a)|(5)">§ 1-610.61(a)(5)</cite>.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
-    <text>The Mayor shall maintain an overall accounting of deposits and withdrawals to and from the annual leave bank.</text>
+    <text>The Department of Human Resources shall administer the PFML Bank.</text>
   </para>
   <para>
     <num>(c)</num>
-    <text>Each personnel authority shall keep an accounting of the amount and value of employee donations to and withdrawals from the bank. The accounting shall be provided to the Mayor on a quarterly basis.</text>
+    <text>The PFML Bank Administrator shall maintain an overall accounting of deposits and withdrawals to and from the PFML Bank.</text>
   </para>
   <para>
     <num>(d)</num>
-    <text>A personnel authority may enter into an agreement with another personnel authority to establish an annual leave bank program or to join an already existing annual leave bank program.  The personnel authorities shall provide a copy of the written agreement to the Mayor and the Director of Personnel within 10 days of the agreement.</text>
+    <text>An eligible employee may receive leave from the PFML Bank when:</text>
+    <para>
+      <num>(1)</num>
+      <text>The employee:</text>
+      <para>
+        <num>(A)</num>
+        <text>Is absent from work due to a qualifying medical leave event or qualifying family leave event; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Provides certification from a physician or other licensed healthcare professional of an upcoming or existing qualifying medical leave event or qualifying family leave event; and</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The employee has exhausted accrued annual leave and sick leave, compensatory time, paid family leave, paid medical leave, universal leave, or paid donor leave provided under <cite path="1|6">this chapter</cite>, to the extent such other leave is available for the purpose for which the employee seeks to use leave from the PFML Bank.</text>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>The PFML Bank Administrator may enter written agreements with the Council, independent agencies, and subordinate agencies with independent personnel authority to facilitate eligible employees' access to and use of leave from the PFML Bank, including agreements to allow employees not eligible to accrue annual or sick leave pursuant to <cite path="§1-612.03|(a)">§ 1-612.03(a)</cite> or universal leave pursuant to <cite path="§1-610.61|(a)|(2)">§ 1-610.61(a)(2)</cite> to contribute and withdraw leave from the PFML Bank.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>A leave recipient may receive a maximum of 8 workweeks of leave from the PFML Bank during any 12-month period. Any unused withdrawn leave after the 12-month period shall become the property of the PFML Bank for use by other leave recipients.</text>
+  </para>
+  <para>
+    <num>(g)</num>
+    <para>
+      <num>(1)</num>
+      <text>During the period in which transferred leave is being used, the leave recipient shall not accrue annual or sick leave.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Leave taken using leave transferred from the PFML Bank shall count against the 16 workweeks of family leave or medical leave provided under §§ <cite path="§32-502">32-502</cite> and <cite path="§32-503">32-503</cite>.</text>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 2-139" type="History" path="§1205">Mar. 3, 1979, D.C. Law 2-139, § 1205</annotation>
@@ -25,5 +72,9 @@
     <annotation type="Editor's Notes">Applicability of § 101(o)(4) of <cite doc="D.C. Law 12-124">D.C. Law 12-124</cite>: Section 401(c) of <cite doc="D.C. Law 12-124">D.C. Law 12-124</cite>, as amended by § 60 of <cite doc="D.C. Law 12-264">D.C. Law 12-264</cite>, provided that § 101(h), (l), (m), (n), (o)(2) through (5), (q), (r), (t), (u), (w), and (y) of the act shall apply as of October 21, 1998.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-613.5.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§1-612.04">§ 1-612.04</cite>.</annotation>
+    <annotation app="2022-12-21" doc="D.C. Law 24-212" eff="2022-12-21" path="§2|(e)" type="History"/>
+    <annotation doc="D.C. Law 24-212" path="§2|(e)" type="Applicability" history="false" app="2022-12-21" eff="2022-12-21"><cite doc="D.C. Law 24-212" path="§3">Section 3 of D.C. Law 24-212</cite> provided that the amendments made to this section by D.C. Law 24-212 shall apply as of January 1, 2023.
+      </annotation>
+    <annotation app="2022-12-21" doc="D.C. Law 24-212" eff="2022-12-21" path="§2|(e)" type="History" display="false"/>
   </annotations>
 </section>

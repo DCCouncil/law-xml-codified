@@ -1,24 +1,58 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-612.07</num>
   <heading>Application for withdrawal.</heading>
-  <text>An application for withdrawal shall proceed as follows:</text>
   <para>
-    <num>(1)</num>
-    <text>An employee who has been affected by a medical emergency may make written application to the employee’s personnel authority to become a leave recipient;</text>
+    <num>(a)</num>
+    <text>An application for withdrawal of leave from the PFML Bank shall proceed as follows:</text>
+    <para>
+      <num>(1)</num>
+      <text>An eligible employee who expects to experience an absence of 10 or more workdays due to a qualifying medical leave event or qualifying family leave event may make a written application to the PFML Bank Administrator to become a leave recipient.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>If the employee is not capable of making an application on the employee's own behalf, the employee may designate a representative to make a written application on the employee's behalf.</text>
+    </para>
   </para>
   <para>
-    <num>(2)</num>
-    <text>If the employee is not capable of making application on the employee’s own behalf, another employee of the personnel authority may make written application on the employee’s behalf; and</text>
-  </para>
-  <para>
-    <num>(3)</num>
-    <text>The application shall be notarized by the affected employee or the employee acting on the affected employee’s behalf.</text>
+    <num>(b)</num>
+    <text>The application shall include at least the following:</text>
+    <para>
+      <num>(1)</num>
+      <text>The anticipated duration of the prolonged absence;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The name, position title, and grade of the proposed leave recipient;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The amount of leave requested;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>A declaration, signed under penalty of perjury, by the proposed leave recipient or the proposed leave recipient's designated representative attesting to the fact that the employee is experiencing a qualifying medical leave event or qualifying family leave event; and</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <para>
+        <num>(A)</num>
+        <text>Certification from a physician or other licensed healthcare professional that the proposed leave recipient, in the case of qualifying medical leave, or the proposed leave recipient's immediate family member, in the case of qualifying family leave, has experienced a serious health condition and the anticipated duration of the condition.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The International Classification of Diseases, Tenth Revision (ICD-10), or subsequent revisions by the World Health Organization to the International Classification of Diseases, along with any health care provider or caretaker assessments, shall be used to determine the appropriate length of qualifying family leave to which an eligible employee is entitled, based on the serious health condition of the eligible employee's family member, or the appropriate length of qualifying medical leave to which an eligible employee is entitled, based on the serious health condition of the eligible employee.</text>
+      </para>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 2-139" type="History" path="§1207">Mar. 3, 1979, D.C. Law 2-139, § 1207</annotation>
     <annotation doc="D.C. Law 8-155" type="History">as added Sept. 11, 1990, D.C. Law 8-155, § 2, 37 DCR 4159</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-613.7.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§1-612.05">§ 1-612.05</cite>.</annotation>
+    <annotation app="2022-12-21" doc="D.C. Law 24-212" eff="2022-12-21" path="§2|(g)" type="History"/>
+    <annotation doc="D.C. Law 24-212" path="§2|(g)" type="Applicability" history="false" app="2022-12-21" eff="2022-12-21"><cite doc="D.C. Law 24-212" path="§3">Section 3 of D.C. Law 24-212</cite> provided that the amendments made to this section by D.C. Law 24-212 shall apply as of January 1, 2023.
+      </annotation>
+    <annotation app="2022-12-21" doc="D.C. Law 24-212" eff="2022-12-21" path="§2|(g)" type="History" display="false"/>
   </annotations>
 </section>
