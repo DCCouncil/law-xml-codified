@@ -375,7 +375,6 @@
       <text>Section 2032 of the Deputy Mayor for Planning and Economic Development Limited Grant-Making Authority Act of 2012, effective September 12, 2012 (D.C. Law 19-168; D.C. Official Code § 1-328.04), is amended by adding a new subsection (w) to read as follows:</text>
       <include>
         <para>
-          <codify:insert doc="D.C. Code" path="§1-328.04" after="(v)" codified:doc="D.C. Code" codified:path="§1-328.04|(w)"/>
           <num>(w)</num>
           <para>
             <num>(1)</num>
@@ -393,11 +392,6 @@
       </include>
       <aftertext>.</aftertext>
       <codify:emergency doc="D.C. Code" path="§1-328.04" codified:doc="D.C. Code" codified:path="§1-328.04" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§1-328.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-328.04">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 25, 2022. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§1-328.04(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(b)</num>
@@ -432,7 +426,6 @@
       <text>Subsection (b) is amended by adding a new paragraph (3) to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§32-541.04|(b)|(3)"/>
           <num>(3)</num>
           <text>For claims filed on or after July 25, 2022, paragraph (1) of this subsection shall not apply.</text>
         </para>
@@ -442,10 +435,6 @@
     <para codify:path="(c)">
       <num>(b)</num>
       <text>Subsection (c) is amended by striking the phrase "Following the filing of a claim and the one-week waiting period, if applicable" and inserting the phrase "Following the filing of a claim" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-541.04|(c)">
-        <find>Following the filing of a claim and the one-week waiting period, if applicable</find>
-        <replace>Following the filing of a claim</replace>
-      </codify:find-replace>
     </para>
     <codify:emergency doc="D.C. Code" path="§32-541.04" codified:doc="D.C. Code" codified:path="§32-541.04" codified:display="Note"/>
     <codify:insert doc="D.C. Code" path="§32-541.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-541.04">

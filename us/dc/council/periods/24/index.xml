@@ -3,6 +3,9 @@
   <heading>Council Period 24 (2021-2022)</heading>
   <text>RECENT ADDITIONS TO THE D.C. CODE</text>
   <text>
+    <cite doc="D.C. Act 24-551">•Coronavirus Support Remote Cooperative Association Meetings Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-551; Eff. July 27, 2022)</cite>
+  </text>
+  <text>
     <cite doc="D.C. Act 24-544">•Back-to-School Safely Emergency Act of 2022 (D.C. Act 24-544; Eff. July 27, 2022)</cite>
   </text>
   <text>
@@ -17,16 +20,17 @@
   <text>
     <cite doc="D.C. Law 24-145">•Department of Motor Vehicles Extension of Deadlines Amendment Act of 2022 (D.C. Law 24-145; Eff. July 22, 2022)</cite>
   </text>
-  <text>
-    <cite doc="D.C. Law 24-144">•Removal and Disposition of Abandoned and Other Unlawfully Parked Vehicles Reform Amendment Act of 2022 (D.C. Law 24-144; Eff. July 22, 2022)</cite>
-  </text>
-  <text>
-    <cite doc="D.C. Act 24-470">•Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470; Eff. July 13, 2022)</cite>
-  </text>
   <collection name="permanent">
     <heading>Permanent Laws</heading>
     <collection name="effective">
       <heading>Laws</heading>
+      <xi:include href="./laws/24-154.xml"/>
+      <xi:include href="./laws/24-153.xml"/>
+      <xi:include href="./laws/24-152.xml"/>
+      <xi:include href="./laws/24-151.xml"/>
+      <xi:include href="./laws/24-150.xml"/>
+      <xi:include href="./laws/24-148.xml"/>
+      <xi:include href="./laws/24-147.xml"/>
       <xi:include href="./laws/24-145.xml"/>
       <xi:include href="./laws/24-144.xml"/>
       <xi:include href="./laws/24-129.xml"/>
@@ -62,6 +66,8 @@
   </collection>
   <collection name="emergency">
     <heading>Emergency Acts</heading>
+    <xi:include href="./acts/24-552.xml"/>
+    <xi:include href="./acts/24-551.xml"/>
     <xi:include href="./acts/24-544.xml"/>
     <xi:include href="./acts/24-543.xml"/>
     <xi:include href="./acts/24-542.xml"/>
@@ -83,7 +89,7 @@
     <xi:include href="./acts/24-507.xml"/>
     <xi:include href="./acts/24-506.xml"/>
     <xi:include href="./acts/24-505.xml"/>
-    <xi:include href="./acts/24-470 first cod.xml"/>
+    <xi:include href="./acts/24-470 2nd.xml"/>
     <xi:include href="./acts/24-469.xml"/>
     <xi:include href="./acts/24-468.xml"/>
     <xi:include href="./acts/24-455.xml"/>

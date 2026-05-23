@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
-  <reason>Not Funded</reason>
+  <reason>Repealed</reason>
   <num>7-503.07</num>
   <heading>Senior Strategic Plan.</heading>
-  <text>Not Funded.</text>
+  <text>Repealed.</text>
   <annotations>
     <annotation doc="D.C. Law 1-24" type="History" path="§307">Oct. 29, 1975, D.C. Law 1-24, title III, § 307</annotation>
     <annotation app="2019-03-28" doc="D.C. Law 22-267" eff="2019-03-28" path="§2" prefix="as added" type="History"/>
@@ -22,5 +22,6 @@
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7068" type="History" display="false"/>
     <annotation doc="D.C. Law 23-149" path="§7068" type="Applicability" history="false" app="2020-12-03" eff="2020-12-03"><cite doc="D.C. Law 23-149" path="§7068">Section 7068 of D.C. Law 23-149</cite> added <cite doc="D.C. Law 23-149" path="§7068">section 3a to D.C. Law 22-267</cite> providing that the creation of this section by D.C. Law 22-267 is subject to the inclusion of the law's fiscal effect in an approved budget and financial plan.  Therefore the creation of this section has not been implemented.
             </annotation>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§7064" type="History"/>
   </annotations>
 </section>

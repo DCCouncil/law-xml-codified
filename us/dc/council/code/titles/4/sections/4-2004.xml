@@ -1,14 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-2004</num>
   <heading>Eligibility for payment.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>It shall not be a violation of this act for a direct care service provider to pay a direct care professional less than 117.6% of the District minimum wage pursuant to <cite path="§32-1003">§ 32-1003</cite>, or 117.6% of the District living wage pursuant to <cite path="2|2|X-A">subchapter X-A of Chapter 2 of Title 2</cite>, if the direct care service provider creates a tiered compensation schedule that:</text>
+    <para>
+      <num>(1)</num>
+      <text>Considers a direct care professional's qualified experience in the field and their demonstrated competency; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Ensures that, on average, all direct care professionals were paid a wage that is equal to at least the greater of either 117.6% of the District minimum wage pursuant to <cite path="§32-1003">§ 32-1003</cite>, or 117.6% of the District living wage pursuant to <cite path="2|2|X-A">subchapter X-A of Chapter 2 of Title 2</cite>.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Each year subsequent to the first year of payment, a service provider that received payment pursuant to <cite path="§4-2002">§ 4-2002</cite> the prior year shall demonstrate to DHCF that it paid its direct support professionals the prescribed hourly rate for that year as determined by <cite path="§4-2003">§ 4-2003</cite> in the service provider's operating budget cycle, inclusive of overtime wages and bonuses, to remain eligible for payment for the current year.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§4-2004" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-2004">Applicability of <cite doc="D.C. Law 23-77" path="">D.C. Law 23-77</cite>: <cite doc="D.C. Law 23-77" path="§7">§ 7 of D.C. Law 23-77</cite> provided that the creation of this section by <cite doc="D.C. Law 23-77" path="§5">§ 5 of D.C. Law 23-77</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2020-04-16" doc="D.C. Law 23-77" eff="2020-04-16" path="" type="History" display="false"/>
     <annotation app="2020-04-16" doc="D.C. Law 23-77" eff="2020-04-16" path="§7|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-77" eff="2020-04-16" path="§5" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-77" path="§5" codified:display="Note" app="2020-04-16" eff="2020-04-16">Applicability of <cite doc="D.C. Law 23-77" path="">D.C. Law 23-77</cite>: <cite doc="D.C. Law 23-77" path="§7">§ 7 of D.C. Law 23-77</cite> provided that the creation of this section by <cite doc="D.C. Law 23-77" path="§5">§ 5 of D.C. Law 23-77</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-04-16" doc="D.C. Law 23-77" eff="2020-04-16" path="§5" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-77" path="§5" codified:display="Note" app="2020-04-16" eff="2020-04-16">Applicability of <cite doc="D.C. Law 23-77" path="">D.C. Law 23-77</cite>: <cite doc="D.C. Law 23-77" path="§7">§ 7 of D.C. Law 23-77</cite> provided that the creation of this section by <cite doc="D.C. Law 23-77" path="§5">§ 5 of D.C. Law 23-77</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§5102|(e)|(1)" type="History"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§5102|(g)" type="History" display="false"/>
   </annotations>
 </section>

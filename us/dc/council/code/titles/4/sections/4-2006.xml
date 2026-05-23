@@ -2,32 +2,11 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-2006</num>
   <heading>Applicability.</heading>
-  <para>
-    <num>(a)</num>
-    <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-    <codify:applicability doc="D.C. Law 23-77" path="§2" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§4-2001"/>
-    <codify:applicability doc="D.C. Law 23-77" path="§3" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§4-2002"/>
-    <codify:applicability doc="D.C. Law 23-77" path="§4" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§4-2003"/>
-    <codify:applicability doc="D.C. Law 23-77" path="§5" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§4-2004"/>
-    <codify:applicability doc="D.C. Law 23-77" path="§6" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§4-2005"/>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan, and provide notice to the Budget Director of the Council of the certification.</text>
-  </para>
-  <para>
-    <num>(c)</num>
-    <para>
-      <num>(1)</num>
-      <text>The Budget Director shall cause the notice of the certification to be published in the District of Columbia Register.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The date of publication of the notice of the certification shall not affect the applicability of this act.</text>
-    </para>
-  </para>
+  <text><cite path="4|20">This chapter</cite> shall not apply until such time that the Centers for Medicare and Medicaid Services approves any amendments to the Medicaid State Plan or waivers that are necessary to implement <cite path="4|20">this chapter</cite>.</text>
   <annotations>
     <annotation app="2020-04-16" doc="D.C. Law 23-77" eff="2020-04-16" path="" type="History" display="false"/>
     <annotation app="2020-04-16" doc="D.C. Law 23-77" eff="2020-04-16" path="§7" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-77" path="§7" codified:display="Note" app="2020-04-16" eff="2020-04-16">Applicability of <cite doc="D.C. Law 23-77" path="">D.C. Law 23-77</cite>: <cite doc="D.C. Law 23-77" path="§7">§ 7 of D.C. Law 23-77</cite> provided that the creation of this section by <cite doc="D.C. Law 23-77" path="§7">§ 7 of D.C. Law 23-77</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§5102|(g)" type="History"/>
   </annotations>
 </section>

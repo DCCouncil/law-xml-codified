@@ -5,7 +5,7 @@
   <text>For the purposes of this chapter, the term:</text>
   <para>
     <num>(1)</num>
-    <text>“Community-based services” means non-residential specialized or generic services for the evaluation, care, and habilitation of persons with intellectual disabilities, in a community setting, directed toward the intellectual, social, personal, physical, emotional, or economic development of a person with an intellectual disability. The services shall include, but not be limited to, diagnosis, evaluation, treatment, day care, training, education, sheltered employment, recreation, counseling of the person with an intellectual disability and his or her family, protective and other social and socio-legal services, information and referral, and transportation to assure delivery of services to persons of all ages with intellectual disabilities.</text>
+    <text>"Community-based services" means specialized or generic services for the evaluation, care, and habilitation of persons with intellectual or developmental disabilities, in a community setting, directed toward the intellectual, social, personal, physical, emotional, or economic development of a person with an intellectual or developmental disability. The services shall include diagnosis, evaluation, treatment, day habilitation, training, education, supported employment, recreation, counseling of the person with an intellectual or developmental disability and his or her family, protective and other social and socio-legal services, information and referral, and transportation to assure delivery of services to persons of all ages with intellectual or developmental disabilities.</text>
   </para>
   <para>
     <num>(2)</num>
@@ -13,7 +13,7 @@
   </para>
   <para>
     <num>(2A)</num>
-    <text>"Contribution to costs of supports" means full or partial payment by persons with intellectual disabilities or their estate for the locally funded supports and services provided by the Developmental Disabilities Administration.</text>
+    <text>"Contribution to costs of supports" means full or partial payment by persons with intellectual or developmental disabilities or their estate for the locally funded supports and services provided by the Developmental Disabilities Administration.</text>
   </para>
   <para>
     <num>(2B)</num>
@@ -45,11 +45,63 @@
   </para>
   <para>
     <num>(3A)</num>
-    <text>“DHCF” means the Department of Health Care Finance as established by <cite path="§7-771.02">§ 7-771.02</cite>.</text>
+    <text>"Developmental disability" means a severe and chronic disability of a person that:</text>
+    <para>
+      <num>(A)</num>
+      <text>Is attributable to a mental or physical impairment, other than the sole diagnosis of mental illness, or to a combination of mental and physical impairments;</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Is manifested before 22 years of age;</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Is likely to continue indefinitely;</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>Results in substantial functional limitations in 3 or more of the following areas of major life activity:</text>
+      <para>
+        <num>(i)</num>
+        <text>Self-care;</text>
+      </para>
+      <para>
+        <num>(ii)</num>
+        <text>Understanding and use of language;</text>
+      </para>
+      <para>
+        <num>(iii)</num>
+        <text>Functional academics;</text>
+      </para>
+      <para>
+        <num>(iv)</num>
+        <text>Social skills;</text>
+      </para>
+      <para>
+        <num>(v)</num>
+        <text>Mobility;</text>
+      </para>
+      <para>
+        <num>(vi)</num>
+        <text>Self-direction;</text>
+      </para>
+      <para>
+        <num>(vii)</num>
+        <text>Capacity for independent living; or</text>
+      </para>
+      <para>
+        <num>(viii)</num>
+        <text>Health and safety; and</text>
+      </para>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>Reflects the person's need for a combination and sequence of special, interdisciplinary, or generic services, individualized supports, or other forms of assistance that are of lifelong or extended duration and are person-centered, planned, and coordinated.</text>
+    </para>
   </para>
-  <para placeholder="Not Funded">
-    <num>([3A])</num>
-    <text>Not Funded.</text>
+  <para>
+    <num>(3B)</num>
+    <text>“DHCF” means the Department of Health Care Finance as established by <cite path="§7-771.02">§ 7-771.02</cite>.</text>
   </para>
   <para>
     <num>(4)</num>
@@ -68,7 +120,7 @@
     </para>
     <para>
       <num>(B)</num>
-      <text>Experience working with people with intellectual disabilities; and</text>
+      <text>Experience working with people with intellectual or developmental disabilities; and</text>
     </para>
     <para>
       <num>(C)</num>
@@ -96,7 +148,7 @@
   </para>
   <para>
     <num>(7A)</num>
-    <text>“Intellectual disability” or “persons with intellectual disabilities” means a substantial limitation in capacity that manifests before 18 years of age and is characterized by significantly below-average intellectual functioning, existing concurrently with 2 or more significant limitations in adaptive functioning.</text>
+    <text>"Intellectual disability" or "persons with intellectual disabilities" means a person that is diagnosed before 22 years of age with an intellectual disability as set forth in the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association.</text>
   </para>
   <para>
     <num>(8)</num>
@@ -139,13 +191,12 @@
     <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§3054|(a)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§3054|(a)" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-458" path="§3054|(a)">§ 3054(a) of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
     <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§3054|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-117" eff="2022-05-18" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-117" eff="2022-05-18" path="§2|(a)|(1)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-117" eff="2022-05-18" path="§2|(a)|(2)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-117" eff="2022-05-18" path="§2|(a)|(3)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-117" eff="2022-05-18" path="§2|(a)|(4)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-117" eff="2022-05-18" path="§2|(a)|(5)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-117" eff="2022-05-18" path="§2|(a)|(6)" type="History"/>
+    <annotation app="2022-05-18" doc="D.C. Law 24-117" eff="2022-05-18" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2022-05-18" doc="D.C. Law 24-117" eff="2022-05-18" path="§2|(a)|(2)" type="History"/>
+    <annotation app="2022-05-18" doc="D.C. Law 24-117" eff="2022-05-18" path="§2|(a)|(4)" type="History"/>
+    <annotation app="2022-05-18" doc="D.C. Law 24-117" eff="2022-05-18" path="§2|(a)|(3)" type="History"/>
+    <annotation app="2022-05-18" doc="D.C. Law 24-117" eff="2022-05-18" path="§2|(a)|(5)" type="History"/>
+    <annotation app="2022-05-18" doc="D.C. Law 24-117" eff="2022-05-18" path="§2|(a)|(6)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-117" path="§2|(a)" codified:display="Note" app="2022-05-18" eff="2022-05-18">Applicability of <cite doc="D.C. Law 24-117" path="">D.C. Law 24-117</cite>: <cite doc="D.C. Law 24-117" path="§4">§ 4 of D.C. Law 24-117</cite> provided that the change made to this section by <cite doc="D.C. Law 24-117" path="§2|(a)">§ 2(a) of D.C. Law 24-117</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2022-05-18" doc="D.C. Law 24-117" eff="2022-05-18" path="§2|(a)" type="History"/>
   </annotations>

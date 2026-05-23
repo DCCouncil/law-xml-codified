@@ -30,9 +30,9 @@
       <text>Section 13(c)(1) (D.C. Official Code § 1-309.10(c)(1)), is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace codified:doc="D.C. Code" codified:path="§1-309.10|(c)|(1)"/>
           <num>(c)</num>
           <para>
+            <codify:replace codified:doc="D.C. Code" codified:path="§1-309.10|(c)|(1)"/>
             <num>(1)</num>
             <para>
               <num>(A)</num>
@@ -115,7 +115,7 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 23-198" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-309.10|(c)|(1)"/>
+      <codify:applicability doc="D.C. Law 23-198" date="notfunded" history="false" display-template=""/>
     </para>
     <para>
       <num>(b)</num>

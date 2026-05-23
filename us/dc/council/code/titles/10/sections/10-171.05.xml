@@ -1,16 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-171.05</num>
   <heading>Study of unsafe surface and ambient temperatures at public recreational spaces.</heading>
-  <text>Not Funded.</text>
+  <text>Within one year after April 11, 2019, DGS shall transmit to the Council a study on methods for testing of surfaces in public recreational spaces for unsafe surface and ambient temperatures. This study shall include:</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>Information on the methods available to test the surface and ambient temperature of surfaces composed of synthetic materials, including information on each method's cost and reliability;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A summary of existing research on the health and safety risks posed by particular surface or ambient temperatures on surfaces composed of synthetic materials, including information on any specific temperature threshold that, when exceeded, can create a health and safety risk to individuals using the turf surface; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>A summary of steps that DGS and other District agencies would need to take to implement a protocol to test the District's public recreational spaces for unsafe surface and ambient temperatures.</text>
+    </para>
+  </para>
   <annotations>
     <annotation app="2019-04-11" doc="D.C. Law 22-293" eff="2019-04-11" path="" type="History" display="false"/>
-    <annotation app="2019-04-11" doc="D.C. Law 22-293" eff="2019-04-11" path="§8a|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-293" eff="2019-04-11" path="§6" type="History"/>
+    <annotation app="2019-04-11" doc="D.C. Law 22-293" eff="2019-04-11" path="§6" type="History"/>
     <annotation doc="D.C. Law 22-293" path="§8a|(a)" type="Applicability" history="false" app="2019-04-11" eff="2019-04-11">
               Applicability of <cite doc="D.C. Law 22-293">D.C. Law 22-293</cite>: <cite doc="D.C. Law 23-16" path="§7169">§ 7169 of D.C. Law 23-16</cite> provided that the creation of this section by <cite doc="D.C. Law 22-293" path="§6">§ 6 of D.C. Law 22-293</cite>, is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.
               </annotation>
+    <annotation app="2019-04-11" doc="D.C. Law 22-293" eff="2019-04-11" path="§8a|(a)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" path="§7169" codified:display="Note" app="2019-07-22" eff="2019-07-22">For temporary (90 days) delayed applicability of this section, see <cite doc="D.C. Act 23-91" path="§7169">§ 7169 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
     <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7169" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§7169" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) delayed applicability of this section, see <cite doc="D.C. Act 23-112" path="§7169">§ 7169 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
