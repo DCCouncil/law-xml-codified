@@ -4579,7 +4579,7 @@
           <para>
             <num>(1)</num>
             <text>The lead-in language is amended by striking the phrase "7 members" and inserting the phrase "11 members" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2509.08|(b)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2509.08|(b)|(1)">
               <find>7 members</find>
               <replace>11 members</replace>
             </codify:find-replace>
@@ -4587,7 +4587,7 @@
           <para codify:path="(D)">
             <num>(2)</num>
             <text>Subparagraph (D) is amended by striking the semicolon and inserting the phrase "; and" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2509.08|(b)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2509.08|(b)|(1)|(D)">
               <find>;</find>
               <replace>; and</replace>
             </codify:find-replace>
@@ -4598,7 +4598,7 @@
             <para>
               <num>(A)</num>
               <text>The lead-in language is amended by striking the phrase "Three public" and inserting the phrase "Seven public" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2509.08|(b)">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2509.08|(b)|(1)|(E)">
                 <find>Three public</find>
                 <replace>Seven public</replace>
               </codify:find-replace>
@@ -4606,7 +4606,7 @@
             <para codify:path="(i)">
               <num>(B)</num>
               <text>Sub-subparagraph (i) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2509.08|(b)">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2509.08|(b)|(1)|(E)|(i)">
                 <find>; and</find>
                 <replace>;</replace>
               </codify:find-replace>
@@ -4614,7 +4614,7 @@
             <para codify:path="(ii)">
               <num>(C)</num>
               <text>Sub-subparagraph (ii) is amended by striking the period and inserting a semicolon in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2509.08|(b)">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2509.08|(b)|(1)|(E)|(ii)">
                 <find>.</find>
                 <replace>;</replace>
               </codify:find-replace>
@@ -4624,17 +4624,17 @@
               <text>New sub-subparagraphs (iii), (iv), and (v) are added to read as follows:</text>
               <include lvl="3">
                 <para>
-                  <codify:insert codified:doc="D.C. Code" codified:path="§7-2509.08|(b)"/>
+                  <codify:insert codified:doc="D.C. Code" codified:path="§7-2509.08|(b)|(1)|(E)|(iii)"/>
                   <num>(iii)</num>
                   <text>Two District residents with professional experience in the field of gun violence prevention;</text>
                 </para>
                 <para>
-                  <codify:insert codified:doc="D.C. Code" codified:path="§7-2509.08|(b)"/>
+                  <codify:insert codified:doc="D.C. Code" codified:path="§7-2509.08|(b)|(1)|(E)|(iv)"/>
                   <num>(iv)</num>
                   <text>One District resident with professional experience in the field of victim services or advocacy; and</text>
                 </para>
                 <para>
-                  <codify:insert codified:doc="D.C. Code" codified:path="§7-2509.08|(b)"/>
+                  <codify:insert codified:doc="D.C. Code" codified:path="§7-2509.08|(b)|(1)|(E)|(v)"/>
                   <num>(v)</num>
                   <text>One District resident attorney in good standing with the District of Columbia Bar with professional experience in criminal law.</text>
                 </para>

@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-611.08</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on May 17, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-611.08(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Compensation — Members of boards and commissions.</heading>
   <para>
     <num>(a)</num>
@@ -128,9 +125,9 @@
       <num>(6)</num>
       <text>Each member of an advisory panel appointed pursuant to <cite path="§39-204|(6)">§ 39-204(6)</cite> may receive compensation from the Commission in the form of a stipend of up to $250 for each day the panel convenes to review applications[;]</text>
     </para>
-    <para placeholder="Repealed">
+    <para>
       <num>(7)</num>
-      <text>Repealed.</text>
+      <text>Each member of the Concealed Pistol Licensing Review Board, except members who are District or federal government employees, shall be entitled to a stipend of $250 per week for their service on the board[; and]</text>
       <codify:find-replace path="(6)" count="1" codified:doc="D.C. Code" codified:path="§1-611.08|(c-2)|(6)">
         <find>; and</find>
         <replace>[;]</replace>
@@ -313,9 +310,8 @@
     </annotation>
     <annotation app="2023-06-27" doc="D.C. Act 25-138" eff="2023-06-27" path="§7" type="History" display="false"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6002" type="History"/>
-    <annotation app="2023-10-05" doc="D.C. Law 25-63" eff="2023-10-05" path="§5" type="History" display="false"/>
-    <annotation app="2023-10-05" doc="D.C. Law 25-63" eff="2023-10-05" path="§5" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-63" path="§5" codified:display="Note" app="2023-10-05" eff="2023-10-05">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-63" path="§5">§ 5 of Office of Administrative Hearings Jurisdiction Temporary Amendment Act of 2023 (D.C. Law 25-63, Oct. 5, 2023, 70 DCR 9691)</cite>.</annotation>
+    <annotation app="2023-10-05" doc="D.C. Law 25-63" eff="2023-10-05" path="§5" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-231" path="§5" codified:display="Note" app="2023-10-11" eff="2023-10-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-231" path="§5">§ 5 of Office of Administrative Hearings Jurisdiction Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-231, Oct. 11, 2023, 70 DCR 13773)</cite>.</annotation>
     <annotation app="2023-10-11" doc="D.C. Act 25-231" eff="2023-10-11" path="§5" type="History" display="false"/>
   </annotations>

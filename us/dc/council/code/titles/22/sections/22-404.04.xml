@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>22-404.04</num>
   <text>
-      *NOTE: This section was created by emergency legislation that will expire on October 18, 2023.*
+      *NOTE: This section was created by emergency legislation that will expire on January 14, 2024.*
       </text>
   <heading proof="needed">Strangulation.</heading>
   <para>
@@ -29,17 +29,21 @@
       <text>The person was, within 5 years of commission of the strangulation offense, convicted of either an intrafamily offense, as defined in <cite path="§16-1001|(8)">§ 16-1001(8)</cite>, or a similar offense in the law of another jurisdiction.</text>
     </para>
   </para>
-  <codify:emergency doc="D.C. Code" path="§22-404.04" codified:doc="D.C. Code" codified:path="§22-404.04" codified:display="Note"/>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§22-404" expire="2023-10-17" codified:display="Note">For temporary (90 days) creation of § 22-404.04, see <cite doc="D.C. Act 25-257" path="§7|includes|806d">§ 806d of Prioritizing Public Safety Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-257, Oct. 16, 2023, 0 DCR 0)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§22-404.04" applicability="2023-10-17" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§22-404.04">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-257" path="§7|includes|806d">§ 806d of Prioritizing Public Safety Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-257, Oct. 16, 2023, 0 DCR 0)</cite>.</codify:annotation>
   <codify:insert doc="D.C. Code" path="§22-404.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§22-404.04">
     <text>
-      *NOTE: This section was created by emergency legislation that will expire on October 18, 2023.*
+      *NOTE: This section was created by emergency legislation that will expire on January 14, 2024.*
       </text>
   </codify:insert>
   <annotations>
     <annotation type="History" doc="Stat. 56-2-ch854" path="§806d" display="false">Mar. 3, 1901, 31 Stat. 1322, ch. 854, § 806d</annotation>
     <annotation type="History" doc="Stat. 56-2-ch854" path="§806d">Mar. 3, 1901, 31 Stat. 1322, ch. 854, § 806d</annotation>
-    <annotation app="2023-07-20" doc="D.C. Act 25-175" eff="2023-07-20" path="§8" type="History" display="false"/>
-    <annotation app="2023-07-20" doc="D.C. Act 25-175" eff="2023-07-20" path="§8" prefix="as added" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-175" path="§8" codified:display="Note" app="2023-07-20" eff="2023-07-20">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-175" path="§8|includes|806d">§ 806d of Prioritizing Public Safety Emergency Amendment Act of 2023 (D.C. Act 25-175, July 20, 2023, 70 DCR 10358)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-175" path="§8" codified:display="Note" app="2023-10-17" eff="2023-07-20">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-175" path="§8|includes|806d">§ 806d of Prioritizing Public Safety Emergency Amendment Act of 2023 (D.C. Act 25-175, July 20, 2023, 70 DCR 10358)</cite>.</annotation>
+    <annotation app="2023-10-17" doc="D.C. Act 25-175" eff="2023-07-20" path="§8" type="History" display="false"/>
+    <annotation app="2023-10-16" doc="D.C. Act 25-257" eff="2023-10-16" path="§7" type="History" display="false"/>
+    <annotation app="2023-10-16" doc="D.C. Act 25-257" eff="2023-10-16" path="§7" prefix="as added" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-257" path="§7" codified:display="Note" app="2023-10-17" eff="2023-10-16">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-257" path="§7|includes|806d">§ 806d of Prioritizing Public Safety Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-257, Oct. 16, 2023, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2023-10-17" doc="D.C. Act 25-257" eff="2023-10-16" path="§7" type="History" display="false"/>
   </annotations>
 </section>

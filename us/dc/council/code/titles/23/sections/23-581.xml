@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>23-581</num>
   <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on January 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§23-581(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 17, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§23-581(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Arrests without warrant by law enforcement officers.</heading>
   <para>
@@ -166,11 +166,11 @@
           </tr>
           <tr>
             <td>Leaving after colliding</td>
-            <td>section 10c <cite path="§50-2201.05c">(D.C. Official Code § 50-2201.05c)</cite></td>
+            <td>section 10c (D.C. Official Code <cite path="§50-2201.05c">§ 50-2201.05c</cite>)</td>
           </tr>
           <tr>
             <td>Operating or physically controlling a vehicle when under the influence of intoxicating liquor or drugs, when operating ability is impaired by intoxicating liquor, or when the operator's blood, breath, or urine contains the amount of alcohol which is prohibited by section 10(b)</td>
-            <td>section 10(b) (D.C. Official Code <cite path="§50-2201.05|(b)" proof="true">§ 50-2201.05(b)</cite>)</td>
+            <td>section 10(b) (D.C. Official Code <cite path="§50-2201.05|(b)" proof="true">§ 50-2201.05(b)</cite>) [Repealed]</td>
           </tr>
           <tr>
             <td>Operating a motor vehicle when the operator's permit is revoked or suspended</td>
@@ -303,9 +303,11 @@
     <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§109" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-129" path="§2" codified:display="Note" app="2023-06-27" eff="2023-06-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-129" path="§2">§ 2 of Law Enforcement Arrest Authority Technical Correction Emergency Amendment Act of 2023 (D.C. Act 25-129, June 27, 2023, 70 DCR 7944)</cite>.</annotation>
     <annotation app="2023-06-27" doc="D.C. Act 25-129" eff="2023-06-27" path="§2" type="History" display="false"/>
-    <annotation app="2023-10-11" doc="D.C. Act 25-238" eff="2023-10-11" path="§2" type="History" display="false"/>
-    <annotation app="2023-10-11" doc="D.C. Act 25-238" eff="2023-10-11" path="§2|(1)" type="History"/>
-    <annotation app="2023-10-11" doc="D.C. Act 25-238" eff="2023-10-11" path="§2|(2)" type="History"/>
+    <annotation app="2023-10-05" doc="D.C. Law 25-61" eff="2023-10-05" path="§2" type="History" display="false"/>
+    <annotation app="2023-10-05" doc="D.C. Law 25-61" eff="2023-10-05" path="§2|(1)" type="History"/>
+    <annotation app="2023-10-05" doc="D.C. Law 25-61" eff="2023-10-05" path="§2|(2)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-61" path="§2" codified:display="Note" app="2023-10-05" eff="2023-10-05">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-61" path="§2">§ 2 of Law Enforcement Arrest Authority Technical Correction Temporary Amendment Act of 2023 (D.C. Law 25-61, Oct. 5, 2023, 70 DCR 9687)</cite>.</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-238" path="§2" codified:display="Note" app="2023-10-11" eff="2023-10-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-238" path="§2">§ 2 of Law Enforcement Arrest Authority Technical Correction Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-238, Oct. 11, 2023, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2023-10-11" doc="D.C. Act 25-238" eff="2023-10-11" path="§2" type="History" display="false"/>
   </annotations>
 </section>
