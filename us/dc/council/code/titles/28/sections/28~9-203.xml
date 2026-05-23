@@ -22,7 +22,7 @@
       <text>One of the following conditions is met:</text>
       <para>
         <num>(A)</num>
-        <text>The debtor has authenticated a security agreement that provides a description of the collateral and, if the security interest covers timber to be cut, a description of the land concerned;</text>
+        <text>The debtor has signed a security agreement that provides a description of the collateral and, if the security interest covers timber to be cut, a description of the land concerned;</text>
       </para>
       <para>
         <num>(B)</num>
@@ -30,11 +30,15 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>The collateral is a certificated security in registered form and the security certificate has been delivered to the secured party under <cite path="§28:8-301">§ 28:8-301</cite> pursuant to the debtor’s security agreement; or</text>
+        <text>The collateral is a certificated security in registered form and the security certificate has been delivered to the secured party under <cite path="§28:8-301">§ 28:8-301</cite> pursuant to the debtor’s security agreement;</text>
       </para>
       <para>
         <num>(D)</num>
-        <text>The collateral is deposit accounts, electronic chattel paper, investment property, letter-of-credit rights, or electronic documents, and the secured party has control under <cite path="§28:7-106">§ 28:7-106</cite>, <cite path="§28:9-104">§ 28:9-104</cite>, <cite path="§28:9-105">§ 28:9-105</cite>, <cite path="§28:9-106">§ 28:9-106</cite>, or <cite path="§28:9-107">§ 28:9-107</cite> pursuant to the debtor’s security agreement.</text>
+        <text>The collateral is controllable accounts, controllable electronic records, controllable payment intangibles, deposit accounts, electronic documents, electronic money, investment property, or letter-of-credit rights, and the secured party has control under § <cite path="§28:7-106">28:7-106</cite>, § <cite path="§28:9-104">28:9-104</cite>, § <cite path="§28:9-105A">28:9-105A</cite>, § <cite path="§28:9-106">28:9-106</cite>, § <cite path="§28:9-107">28:9-107</cite>, or § <cite path="§28:9-107A">28:9-107A</cite> pursuant to the debtor's security agreement; or</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>The collateral is chattel paper and the secured party has possession and control under § 28:9-314A pursuant to the debtor's security agreement.</text>
       </para>
     </para>
   </para>
@@ -99,5 +103,9 @@
     <annotation doc="D.C. Law 19-299" type="History">Apr. 27, 2013, D.C. Law 19-299, § 11(b), 60 DCR 2634</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-299">D.C. Law 19-299</cite> rewrote (b)(3)(D), which read: “The collateral is deposit accounts, electronic chattel paper, investment property, or letter-of-credit rights, and the secured party has control under <cite path="§28:9-104">§ 28:9-104</cite>, 28:9-105, 28:9-106, or 28:9-107 pursuant to the debtor’s security agreement.”</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§28:4-210">§ 28:4-210</cite>, <cite path="§28:5-120">§ 28:5-120</cite>, <cite path="§28:9-102">§ 28:9-102</cite>, <cite path="§28:9-109">§ 28:9-109</cite>, <cite path="§28:9-110">§ 28:9-110</cite>, <cite path="§28:9-316">§ 28:9-316</cite>, <cite path="§28:9-317">§ 28:9-317</cite>, <cite path="§28:9-508">§ 28:9-508</cite>, <cite path="§28:9-703">§ 28:9-703</cite>, <cite path="§28:9-704">§ 28:9-704</cite>, and <cite path="§28:9-709">§ 28:9-709</cite>.</annotation>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(6)|(A)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(6)|(B)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(6)|(C)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(6)|(D)" type="History"/>
   </annotations>
 </section>

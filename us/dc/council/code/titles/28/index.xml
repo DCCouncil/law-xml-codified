@@ -733,8 +733,11 @@
           <xi:include href="./sections/28~9-103.xml"/>
           <xi:include href="./sections/28~9-104.xml"/>
           <xi:include href="./sections/28~9-105.xml"/>
+          <xi:include href="./sections/28~9-105A.xml"/>
           <xi:include href="./sections/28~9-106.xml"/>
           <xi:include href="./sections/28~9-107.xml"/>
+          <xi:include href="./sections/28~9-107A.xml"/>
+          <xi:include href="./sections/28~9-107B.xml"/>
           <xi:include href="./sections/28~9-108.xml"/>
         </container>
         <container>
@@ -784,6 +787,8 @@
           <xi:include href="./sections/28~9-304.xml"/>
           <xi:include href="./sections/28~9-305.xml"/>
           <xi:include href="./sections/28~9-306.xml"/>
+          <xi:include href="./sections/28~9-306A.xml"/>
+          <xi:include href="./sections/28~9-306B.xml"/>
           <xi:include href="./sections/28~9-307.xml"/>
         </container>
         <container>
@@ -797,6 +802,7 @@
           <xi:include href="./sections/28~9-312.xml"/>
           <xi:include href="./sections/28~9-313.xml"/>
           <xi:include href="./sections/28~9-314.xml"/>
+          <xi:include href="./sections/28~9-314A.xml"/>
           <xi:include href="./sections/28~9-315.xml"/>
           <xi:include href="./sections/28~9-316.xml"/>
         </container>
@@ -814,6 +820,7 @@
           <xi:include href="./sections/28~9-324.xml"/>
           <xi:include href="./sections/28~9-325.xml"/>
           <xi:include href="./sections/28~9-326.xml"/>
+          <xi:include href="./sections/28~9-326A.xml"/>
           <xi:include href="./sections/28~9-327.xml"/>
           <xi:include href="./sections/28~9-328.xml"/>
           <xi:include href="./sections/28~9-329.xml"/>
@@ -986,6 +993,44 @@
       <xi:include href="./sections/28~11-106.xml"/>
       <xi:include href="./sections/28~11-107.xml"/>
       <xi:include href="./sections/28~11-108.xml"/>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>12</num>
+      <heading>Controllable Electronic Records.</heading>
+      <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(a)|(13)" type="History" display="false"/>
+      <container>
+        <prefix>Part</prefix>
+        <num>I</num>
+        <heading>General Provisions.</heading>
+        <container>
+          <codify:insert doc="D.C. Code" path="28|I|12" codified:doc="D.C. Code" codified:path="28|I|12|II"/>
+          <prefix>Part</prefix>
+          <num>II</num>
+          <heading>Transitional Provisions for Articles 9 and 12.</heading>
+        </container>
+        <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(a)|(13)" type="History"/>
+        <xi:include href="./sections/28~12-101.xml"/>
+        <xi:include href="./sections/28~12-102.xml"/>
+        <xi:include href="./sections/28~12-103.xml"/>
+        <xi:include href="./sections/28~12-104.xml"/>
+        <xi:include href="./sections/28~12-105.xml"/>
+        <xi:include href="./sections/28~12-106.xml"/>
+        <xi:include href="./sections/28~12-107.xml"/>
+      </container>
+      <container>
+        <prefix>Part</prefix>
+        <num>II</num>
+        <heading>Transitional Provisions for Articles 9 and 12.</heading>
+        <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(a)|(13)" type="History"/>
+        <xi:include href="./sections/28~12-201.xml"/>
+        <xi:include href="./sections/28~12-202.xml"/>
+        <xi:include href="./sections/28~12-203.xml"/>
+        <xi:include href="./sections/28~12-204.xml"/>
+        <xi:include href="./sections/28~12-205.xml"/>
+        <xi:include href="./sections/28~12-206.xml"/>
+        <xi:include href="./sections/28~12-207.xml"/>
+      </container>
     </container>
   </container>
   <subheading>Subtitle II. Other Commercial Transactions.</subheading>

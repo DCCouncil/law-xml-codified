@@ -11,18 +11,18 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>“Account” except as used in “account for” means a right to payment of a monetary obligation, whether or not earned by performance, (i) for property that has been or is to be sold, leased, licensed, assigned, or otherwise disposed of, (ii) for services rendered or to be rendered, (iii) for a policy of insurance issued or to be issued, (iv) for a secondary obligation incurred or to be incurred, (v) for energy provided or to be provided, (f) for the use or hire of a vessel under a charter or other contract, (vi) arising out of the use of a credit or charge card or information contained on or for use with the card, or (vii) as winnings in a lottery or other game of chance operated or sponsored by a State, governmental unit of a State, or person licensed or authorized to operate the game by a State or governmental unit of a State. The term includes health-care-insurance receivables. The term does not include (i) rights to payment evidenced by chattel paper or an instrument, (ii) commercial tort claims, (iii) deposit accounts, (iv) investment property, (v) letter-of-credit rights or letters of credit, or (vi) rights to payment for money or funds advanced or sold, other than rights arising out of the use of a credit or charge card or information contained on or for use with the card.</text>
+      <text>"Account", except as used in "account for", "account statement", "account to", "commodity account" in paragraph (14) of this subsection, "customer's account", "deposit account" in paragraph (29) of this subsection, "on account of", and "statement of account",  means a right to payment of a monetary obligation, whether or not earned by performance, (i) for property that has been or is to be sold, leased, licensed, assigned, or otherwise disposed of, (ii) for services rendered or to be rendered, (iii) for a policy of insurance issued or to be issued, (iv) for a secondary obligation incurred or to be incurred, (v) for energy provided or to be provided, (vi) for the use or hire of a vessel under a charter or other contract, (vii) arising out of the use of a credit or charge card or information contained on or for use with the card, or (viii) as winnings in a lottery or other game of chance operated or sponsored by a State, governmental unit of a State, or person licensed or authorized to operate the game by a State or governmental unit of a State. The term includes controllable accounts and health-care-insurance receivables. The term does not include (i) chattel paper, (ii) commercial tort claims, (iii) deposit accounts, (iv) investment property, (v) letter-of-credit rights or letters of credit, (vi) rights to payment for money or funds advanced or sold, other than rights arising out of the use of a credit or charge card or information contained on or for use with the card, or (vii) rights to payment evidenced by an instrument.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>“Account debtor” means a person obligated on an account, chattel paper, or general intangible. The term does not include persons obligated to pay a negotiable instrument, even if the instrument constitutes part of chattel paper.</text>
+      <text>“Account debtor” means a person obligated on an account, chattel paper, or general intangible. The term does not include persons obligated to pay a negotiable instrument, even if the negotiable instrument evidences chattel paper.</text>
     </para>
     <para>
       <num>(4)</num>
       <text>“Accounting”, except as used in “accounting for”, means a record:</text>
       <para>
         <num>(A)</num>
-        <text>Authenticated by a secured party;</text>
+        <text>Signed by a secured party;</text>
       </para>
       <para>
         <num>(B)</num>
@@ -85,17 +85,17 @@
         <text>Accounts arising out of the sale at the wellhead or minehead of oil, gas, or other minerals in which the debtor had an interest before extraction.</text>
       </para>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(7)</num>
-      <text>“Authenticate” means:</text>
-      <para>
-        <num>(A)</num>
-        <text>To sign; or</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>With present intent to adopt or accept a record, to attach to or logically associate with the record an electronic sound, symbol, or process.</text>
-      </para>
+      <text>[Repealed].</text>
+    </para>
+    <para>
+      <num>(7A)</num>
+      <text>"Assignee", except as used in "assignee for benefit of creditors", means a person (i) in whose favor a security interest that secures an obligation is created or provided for under a security agreement, whether or not the obligation is outstanding or (ii) to which an account, chattel paper, payment intangible, or promissory note has been sold. The term includes a person to which a security interest has been transferred by a secured party.</text>
+    </para>
+    <para>
+      <num>(7B)</num>
+      <text>"Assignor" means a person that (i) under a security agreement creates or provides for a security interest that secures an obligation or (ii) sells an account, chattel paper, payment intangible, or promissory note. The term includes a secured party that has transferred a security interest to another person.</text>
     </para>
     <para>
       <num>(8)</num>
@@ -111,7 +111,30 @@
     </para>
     <para>
       <num>(11)</num>
-      <text>“Chattel paper” means a record or records that evidence both a monetary obligation and a security interest in specific goods, a security interest in specific goods and software used in the goods, a security interest in specific goods and license of software used in the goods, a lease of specific goods, or a lease of specific goods and license of software used in the goods. In this paragraph, “monetary obligation” means a monetary obligation secured by the goods or owed under a lease of the goods and includes a monetary obligation with respect to software used in the goods. The term does not include (i) charters or other contracts involving the use or hire of a vessel or (ii) records that evidence a right to payment arising out of the sue or a credit or charge card or information contained on or for use with the card. If a transaction is evidenced both by records that include an instrument or series of instruments, the group of records taken together constitutes chattel paper.</text>
+      <para>
+        <num>(A)</num>
+        <text>"Chattel paper" means:</text>
+        <para>
+          <num>(i)</num>
+          <text>A right to payment of a monetary obligation secured by specific goods, if the right to payment and security agreement are evidenced by a record; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>A right to payment of a monetary obligation owed by a lessee under a lease agreement with respect to specific goods and a monetary obligation owed by the lessee in connection with the transaction giving rise to the lease, if:</text>
+          <para>
+            <num>(I)</num>
+            <text>The right to payment and lease agreement are evidenced by a record; and</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>The predominant purpose of the transaction giving rise to the lease was to give the lessee the right to possession and use of the goods.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The term does not include a right to payment arising out of a charter or other contract involving the use or hire of a vessel or a right to payment arising out of the use of a credit or charge card or information contained on or for use with the card.</text>
+      </para>
     </para>
     <para>
       <num>(12)</num>
@@ -278,6 +301,14 @@
       </para>
     </para>
     <para>
+      <num>(27A)</num>
+      <text>"Controllable account" means an account evidenced by a controllable electronic record that provides that the account debtor undertakes to pay the person that has control under § 28:12-105 of the controllable electronic record.</text>
+    </para>
+    <para>
+      <num>(27B)</num>
+      <text>"Controllable payment intangible" means a payment intangible evidenced by a controllable electronic record that provides that the account debtor undertakes to pay the person that has control under <cite path="§28:12-105">§28:12-105</cite> of the controllable electronic record.</text>
+    </para>
+    <para>
       <num>(28)</num>
       <text>“Debtor” means:</text>
       <para>
@@ -301,9 +332,13 @@
       <num>(30)</num>
       <text>“Document” means a document of title or a receipt of the type described in <cite path="§28:7-201|(b)">§ 28:7-201(b)</cite>.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(31)</num>
-      <text>“Electronic chattel paper” means chattel paper evidenced by a record or records consisting of information stored in an electronic medium.</text>
+      <text>[Repealed].</text>
+    </para>
+    <para>
+      <num>(31A)</num>
+      <text>"Electronic money" means money in an electronic form.</text>
     </para>
     <para>
       <num>(32)</num>
@@ -371,7 +406,7 @@
     </para>
     <para>
       <num>(42)</num>
-      <text>“General intangible” means any personal property, including things in action, other than accounts, chattel paper, commercial tort claims, deposit accounts, documents, goods, instruments, investment property, letter-of-credit rights, letters of credit, money, and oil, gas, or other minerals before extraction. The term includes payment intangibles and software.</text>
+      <text>“General intangible” means any personal property, including things in action, other than accounts, chattel paper, commercial tort claims, deposit accounts, documents, goods, instruments, investment property, letter-of-credit rights, letters of credit, money, and oil, gas, or other minerals before extraction. The term includes controllable electronic records, payment intangibles<u>,</u> and software.</text>
     </para>
     <para>
       <num>(43)</num>
@@ -391,7 +426,7 @@
     </para>
     <para>
       <num>(47)</num>
-      <text>“Instrument” means a negotiable instrument or any other writing that evidences a right to the payment of a monetary obligation, is not itself a security agreement or lease, and is of a type that in ordinary course of business is transferred by delivery with any necessary indorsement or assignment. The term does not include (i) investment property, (ii) letters of credit, or (iii) writings that evidence a right to payment arising out of the use of a credit or charge card or information contained on or for use with the card.</text>
+      <text>“Instrument” means a negotiable instrument or any other writing that evidences a right to the payment of a monetary obligation, is not itself a security agreement or lease, and is of a type that in ordinary course of business is transferred by delivery with any necessary indorsement or assignment. The term does not include (i) investment property, (ii) letters of credit, or (iii) writings that evidence a right to payment arising out of the use of a credit or charge card or information contained on or for use with the card, or (iv) writings that evidence chattel paper.</text>
     </para>
     <para>
       <num>(48)</num>
@@ -462,6 +497,10 @@
       </para>
     </para>
     <para>
+      <num>(54A)</num>
+      <text>"Money" has the meaning in <cite path="§28:1-201|(b)|(24)">§28:1-201(b)(24)</cite>, but does not include (i) a deposit account or (ii) money in an electronic form that cannot be subjected to control under <cite path="§28:9-105A">§28:9-105A</cite>.</text>
+    </para>
+    <para>
       <num>(55)</num>
       <text>“Mortgage” means a consensual interest in real property, including fixtures, which secures payment or performance of an obligation.</text>
     </para>
@@ -487,7 +526,7 @@
     </para>
     <para>
       <num>(61)</num>
-      <text>“Payment intangible” means a general intangible under which the account debtor’s principal obligation is a monetary obligation.</text>
+      <text>“Payment intangible” means a general intangible under which the account debtor’s principal obligation is a monetary obligation. The term includes a controllable payment intangible.</text>
     </para>
     <para>
       <num>(62)</num>
@@ -563,7 +602,7 @@
     </para>
     <para>
       <num>(66)</num>
-      <text>“Proposal” means a record authenticated by a secured party which includes the terms on which the secured party is willing to accept collateral in full or partial satisfaction of the obligation it secures pursuant to §§ <cite path="§28:9-620">28:9-620</cite>, <cite path="§28:9-621">28:9-621</cite>, and <cite path="§28:9-622">28:9-622</cite>.</text>
+      <text>“Proposal” means a record signed by a secured party which includes the terms on which the secured party is willing to accept collateral in full or partial satisfaction of the obligation it secures pursuant to §§ <cite path="§28:9-620">28:9-620</cite>, <cite path="§28:9-621">28:9-621</cite>, and <cite path="§28:9-622">28:9-622</cite>.</text>
     </para>
     <para>
       <num>(67)</num>
@@ -599,43 +638,166 @@
     </para>
     <para>
       <num>(b)</num>
-      <text>“Control” as provided in <cite path="§28:7-106">§ 28:7-106</cite> and the following definitions in other articles apply to this article:</text>
-      <text>“Applicant”    <cite path="§28:5-102">§ 28:5-102</cite>.</text>
-      <text>“Beneficiary”    <cite path="§28:5-102">§ 28:5-102</cite>.</text>
-      <text>“Broker”    <cite path="§28:8-102">§ 28:8-102</cite>.</text>
-      <text>“Certificated security”    <cite path="§28:8-102">§ 28:8-102</cite>.</text>
-      <text>“Check”    <cite path="§28:3-104">§ 28:3-104</cite>.</text>
-      <text>“Clearing corporation”    <cite path="§28:8-102">§ 28:8-102</cite>.</text>
-      <text>“Contract for sale”    <cite path="§28:2-106">§ 28:2-106</cite>.</text>
-      <text>“Customer”    <cite path="§28:4-104">§ 28:4-104</cite>.</text>
-      <text>“Entitlement holder”    <cite path="§28:8-102">§ 28:8-102</cite>.</text>
-      <text>“Financial asset”    <cite path="§28:8-102">§ 28:8-102</cite>.</text>
-      <text>“Holder in due course”    <cite path="§28:3-302">§ 28:3-302</cite>.</text>
-      <text>“Issuer” (with respect to a letter of credit or letter-of-credit right)    <cite path="§28:5-102">§ 28:5-102</cite>.</text>
-      <text>“Issuer” (with respect to a security)    <cite path="§28:8-201">§ 28:8-201</cite>.</text>
-      <text>“Issuer” (with respect to documents of title)    <cite path="§28:7-102">§ 28:7-102</cite>.</text>
-      <text>“Lease”    <cite path="§28:2A-103">§ 28:2A-103</cite>.</text>
-      <text>“Lease agreement”    <cite path="§28:2A-103">§ 28:2A-103</cite>.</text>
-      <text>“Lease contract”    <cite path="§28:2A-103">§ 28:2A-103</cite>.</text>
-      <text>“Leasehold interest”    <cite path="§28:2A-103">§ 28:2A-103</cite>.</text>
-      <text>“Lessee”    <cite path="§28:2A-103">§ 28:2A-103</cite>.</text>
-      <text>“Lessee in ordinary course of business”    <cite path="§28:2A-103">§ 28:2A-103</cite>.</text>
-      <text>“Lessor”    <cite path="§28:2A-103">§ 28:2A-103</cite>.</text>
-      <text>“Lessor’s residual interest”    <cite path="§28:2A-103">§ 28:2A-103</cite>.</text>
-      <text>“Letter of credit”    <cite path="§28:5-102">§ 28:5-102</cite>.</text>
-      <text>“Merchant”    <cite path="§28:2-104">§ 28:2-104</cite>.</text>
-      <text>“Negotiable instrument”    <cite path="§28:3-104">§ 28:3-104</cite>.</text>
-      <text>“Nominated person”    <cite path="§28:5-102">§ 28:5-102</cite>.</text>
-      <text>“Note”    <cite path="§28:3-104">§ 28:3-104</cite>.</text>
-      <text>“Proceeds of a letter of credit”    <cite path="§28:5-114">§ 28:5-114</cite>.</text>
-      <text>“Prove”    <cite path="§28:3-103">§ 28:3-103</cite>.</text>
-      <text>“Sale”    <cite path="§28:2-106">§ 28:2-106</cite>.</text>
-      <text>“Securities account”    <cite path="§28:8-501">§ 28:8-501</cite>.</text>
-      <text>“Securities intermediary”    <cite path="§28:8-102">§ 28:8-102</cite>.</text>
-      <text>“Security”    <cite path="§28:8-102">§ 28:8-102</cite>.</text>
-      <text>“Security certificate”    <cite path="§28:8-102">§ 28:8-102</cite>.</text>
-      <text>“Security entitlement”    <cite path="§28:8-102">§ 28:8-102</cite>.</text>
-      <text>“Uncertificated security”    <cite path="§28:8-102">§ 28:8-102</cite>.</text>
+      <text>"Control" as provided in § <cite path="§28:7-106">28:7-106</cite> and the following definitions in other articles apply to this article:</text>
+      <para>
+        <num>(1)</num>
+        <text>"Applicant" § <cite path="§28:5-102">28:5-102</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>"Beneficiary" § <cite path="§28:5-102">28:5-102</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>"Broker" § <cite path="§28:8-102">28:8-102</cite>.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>"Certificated security" § <cite path="§28:8-102">28:8-102</cite>.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>"Check" § <cite path="§28:3-104">28:3-104</cite>.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>"Clearing corporation" § <cite path="§28:8-102">28:8-102</cite>.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>"Contract for sale" § <cite path="§28:2-106">28:2-106</cite>.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>"Controllable electronic record". § <cite path="§28:12-102">28:12-102</cite>.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>"Customer" § <cite path="§28:4-104">28:4-104</cite>.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>"Entitlement holder" § <cite path="§28:8-102">28:8-102</cite>.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>"Financial asset" § <cite path="§28:8-102">28:8-102</cite>.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>"Holder in due course" § <cite path="§28:3-302">28:3-302</cite>.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <para>
+          <num>(A)</num>
+          <text>"Issuer" (with respect to a letter of credit or letter-of-credit right) § <cite path="§28:5-102">28:5-102</cite>;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>"Issuer" (with respect to a security) § <cite path="§28:8-201">28:8-201</cite>; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>"Issuer" (with respect to documents of title) § <cite path="§28:7-102">28:7-102</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>"Lease" § <cite path="§28:2A-103">28:2A-103</cite>.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>"Lease agreement" § <cite path="§28:2A-103">28:2A-103</cite>.</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>"Lease contract" § <cite path="§28:2A-103">28:2A-103</cite>.</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>"Leasehold interest" § <cite path="§28:2A-103">28:2A-103</cite>.</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>"Lessee" § <cite path="§28:2A-103">28:2A-103</cite>.</text>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>"Lessee in ordinary course of business" § <cite path="§28:2A-103">28:2A-103</cite>.</text>
+      </para>
+      <para>
+        <num>(20)</num>
+        <text>"Lessor" § <cite path="§28:2A-103">28:2A-103</cite>.</text>
+      </para>
+      <para>
+        <num>(21)</num>
+        <text>"Lessor's residual interest" § <cite path="§28:2A-103">28:2A-103</cite>.</text>
+      </para>
+      <para>
+        <num>(22)</num>
+        <text>"Letter of credit" § <cite path="§28:5-102">28:5-102</cite>.</text>
+      </para>
+      <para>
+        <num>(23)</num>
+        <text>"Merchant" § <cite path="§28:2-104">28:2-104</cite>.</text>
+      </para>
+      <para>
+        <num>(24)</num>
+        <text>"Negotiable instrument" § <cite path="§28:3-104">28:3-104</cite>.</text>
+      </para>
+      <para>
+        <num>(25)</num>
+        <text>"Nominated person" § <cite path="§28:5-102">28:5-102</cite>.</text>
+      </para>
+      <para>
+        <num>(26)</num>
+        <text>"Note" § <cite path="§28:3-104">28:3-104</cite>.</text>
+      </para>
+      <para>
+        <num>(27)</num>
+        <text>"Proceeds of a letter of credit" § <cite path="§28:5-114">28:5-114</cite>.</text>
+      </para>
+      <para>
+        <num>(28)</num>
+        <text>"Protected purchaser". § <cite path="§28:8-303">28:8-303</cite>.</text>
+      </para>
+      <para>
+        <num>(29)</num>
+        <text>"Prove" § <cite path="§28:3-103">28:3-103</cite>.</text>
+      </para>
+      <para>
+        <num>(30)</num>
+        <text>"Qualifying purchaser". § <cite path="§28:12-102">28:12-102</cite>.</text>
+      </para>
+      <para>
+        <num>(31)</num>
+        <text>"Sale" § <cite path="§28:2-106">28:2-106</cite>.</text>
+      </para>
+      <para>
+        <num>(32)</num>
+        <text>"Securities account" § <cite path="§28:8-501">28:8-501</cite>.</text>
+      </para>
+      <para>
+        <num>(33)</num>
+        <text>"Securities intermediary" § <cite path="§28:8-102">28:8-102</cite>.</text>
+      </para>
+      <para>
+        <num>(34)</num>
+        <text>"Security" § <cite path="§28:8-102">28:8-102</cite>.</text>
+      </para>
+      <para>
+        <num>(35)</num>
+        <text>"Security certificate" § <cite path="§28:8-102">28:8-102</cite>.</text>
+      </para>
+      <para>
+        <num>(36)</num>
+        <text>"Security entitlement" § <cite path="§28:8-102">28:8-102</cite>.</text>
+      </para>
+      <para>
+        <num>(37)</num>
+        <text>"Uncertificated security" §§ <cite path="§28:9-104">28:9-104</cite>.</text>
+      </para>
     </para>
     <para>
       <num>(c)</num>
@@ -697,17 +859,9 @@
       <num>(74)</num>
       <text>“Security agreement” means an agreement that creates or provides for a security interest.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(75)</num>
-      <text>“Send,” in connection with a record or notification, means:</text>
-      <para>
-        <num>(A)</num>
-        <text>To deposit in the mail, deliver for transmission, or transmit by any other usual means of communication, with postage or cost of transmission provided for, addressed to any address reasonable under the circumstances; or</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>To cause the record or notification to be received within the time that it would have been received if properly sent under subparagraph (A) of this paragraph.</text>
-      </para>
+      <text>[Repealed].</text>
     </para>
     <para>
       <num>(76)</num>
@@ -721,9 +875,13 @@
       <num>(78)</num>
       <text>“Supporting obligation” means a letter-of-credit right or secondary obligation that supports the payment or performance of an account, chattel paper, a document, a general intangible, an instrument, or investment property.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(79)</num>
-      <text>“Tangible chattel paper” means chattel paper evidenced by a record or records consisting of information that is inscribed on a tangible medium.</text>
+      <text>[Repealed].</text>
+    </para>
+    <para>
+      <num>(79A)</num>
+      <text>"Tangible money" means money in a tangible form.</text>
     </para>
     <para>
       <num>(80)</num>
@@ -869,5 +1027,23 @@
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-302">D.C. Law 19-302</cite> rewrote (a)(7)(B); added the last sentence in (a)(10); added (a)(68); redesignated former (a)(68) through (a)(80) as (a)(69) through (a)(81), respectively; and rewrote (a)(71) defining “Registered organization”.</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-299">D.C. Law 19-299</cite> deleted “other than a security interest” following “interest” in the opening language of (a)(5); substituted “<cite path="§28:7-201|(b)">§ 28:7-201(b)</cite>” for “<cite path="§28:7-201|(2)" proof="true">§ 28:7-201(2)</cite>” in (a)(30); repealed (a)(43) defining “Good faith”; added “or to be provided” at the end of (a)(46); in (b), added “’Control’ as provided in <cite path="§28:7-106">§ 28:7-106</cite> and” at the beginning of the introductory language, and added the definition of “Issuer” (with respect to documents of title)“; and made related changes.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§28:2-103">§ 28:2-103</cite>, <cite path="§28:2A-103">§ 28:2A-103</cite>, <cite path="§28:6-102">§ 28:6-102</cite>, <cite path="§28:8-103">§ 28:8-103</cite>, <cite path="§50-601">§ 50-601</cite>, and <cite path="§50-1201">§ 50-1201</cite>.</annotation>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(1)|(A)|(i)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(1)|(A)|(ii)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(1)|(A)|(iii)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(1)|(A)|(iv)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(1)|(A)|(v)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(1)|(A)|(vi)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(1)|(A)|(vii)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(1)|(A)|(viii)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(1)|(A)|(ix)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(1)|(A)|(x)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(1)|(A)|(xi)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(1)|(A)|(xii)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(1)|(A)|(xiii)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(1)|(A)|(xiv)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(1)|(B)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(1)|(A)|(xv)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(1)|(A)|(xvi)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(1)|(A)|(xvii)" type="History"/>
   </annotations>
 </section>

@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>28:9-341</num>
   <heading>Bank’s rights and duties with respect to deposit account.</heading>
-  <text>Except as otherwise provided in <cite path="§28:9-340|(c)">§ 28:9-340(c)</cite>, and unless the bank otherwise agrees in an authenticated record, a bank’s rights and duties with respect to a deposit account maintained with the bank are not terminated, suspended, or modified by:</text>
+  <text>Except as otherwise provided in <cite path="§28:9-340|(c)">§ 28:9-340(c)</cite>, and unless the bank otherwise agrees in a signed record, a bank’s rights and duties with respect to a deposit account maintained with the bank are not terminated, suspended, or modified by:</text>
   <para>
     <num>(1)</num>
     <text>The creation, attachment, or perfection of a security interest in the deposit account;</text>
@@ -22,5 +22,6 @@
     <text type="Uniform Commercial Code Comment">2. Free Flow of Funds. This section is designed to prevent security interests in deposit accounts from impeding the free flow of funds through the payment system. Subject to two exceptions, it leaves the bank’s rights and duties with respect to the deposit account and the funds on deposit unaffected by the creation or perfection of a security interest or by the bank’s knowledge of the security interest. In addition, the section permits the bank to ignore the instructions of the secured party unless it had agreed to honor them or unless other law provides to the contrary. A secured party who wishes to deprive the debtor of access to funds on deposit or to appropriate those funds for itself needs to obtain the agreement of the bank, utilize the judicial process, or comply with procedures set forth in other law.  Section 4-303(a), concerning the effect of notice on a bank’s right and duty to pay items, is not to the contrary. That section addresses only whether an otherwise effective notice comes too late; it does not determine whether a timely notice is otherwise effective.</text>
     <text type="Uniform Commercial Code Comment">1. Source. New.</text>
     <annotation doc="D.C. Law 13-201" type="History">Oct. 26, 2000, D.C. Law 13-201, § 101, 47 DCR 7576</annotation>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(30)" type="History"/>
   </annotations>
 </section>

@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
+  <num>28:12-106</num>
+  <heading proof="needed">Discharge of account debtor on controllable account or controllable payment intangible.</heading>
+  <para>
+    <num>(a)</num>
+    <text>An account debtor on a controllable account or controllable payment intangible may discharge its obligation by paying:</text>
+    <para>
+      <num>(1)</num>
+      <text>The person having control of the controllable electronic record that evidences the controllable account or controllable payment intangible; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Except as provided in subsection (b) of this section, a person that formerly had control of the controllable electronic record.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Subject to subsection (d) of this section, the account debtor may not discharge its obligation by paying a person that formerly had control of the controllable electronic record if the account debtor receives a notification that:</text>
+    <para>
+      <num>(1)</num>
+      <text>Is signed by a person that formerly had control or the person to which control was transferred;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Reasonably identifies the controllable account or controllable payment intangible;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Notifies the account debtor that control of the controllable electronic record that evidences the controllable account or controllable payment intangible was transferred;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Identifies the transferee, in any reasonable way, including by name, identifying number, cryptographic key, office, or account number; and</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Provides a commercially reasonable method by which the account debtor is to pay the transferee.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>After receipt of a notification that complies with subsection (b) of this section, the account debtor may discharge its obligation by paying in accordance with the notification and may not discharge the obligation by paying a person that formerly had control.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>Subject to subsection (h) of this section, notification is ineffective under subsection (b) of this section:</text>
+    <para>
+      <num>(1)</num>
+      <text>Unless, before the notification is sent, the account debtor and the person that, at that time, had control of the controllable electronic record that evidences the controllable account or controllable payment intangible agree in a signed record to a commercially reasonable method by which a person may furnish reasonable proof that control has been transferred;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>To the extent an agreement between the account debtor and seller of a payment intangible limits the account debtor's duty to pay a person other than the seller and the limitation is effective under law other than this article; or</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>At the option of the account debtor, if the notification notifies the account debtor to:</text>
+      <para>
+        <num>(A)</num>
+        <text>Divide a payment;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Make less than the full amount of an installment or other periodic payment; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Pay any part of a payment by more than one method or to more than one person.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>Subject to subsection (h) of this section, if requested by the account debtor, the person giving the notification under subsection (b) of this section seasonably shall furnish reasonable proof, using the method in the agreement referred to in subsection (d)(1) of this section, that control of the controllable electronic record has been transferred. Unless the person complies with the request, the account debtor may discharge its obligation by paying a person that formerly had control, even if the account debtor has received a notification under subsection (b) of this section.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>A person furnishes reasonable proof under subsection (e) of this section that control has been transferred if the person demonstrates, using the method in the agreement referred to in subsection (d)(1) of this section, that the transferee has the power to:</text>
+    <para>
+      <num>(1)</num>
+      <text>Avail itself of substantially all the benefit from the controllable electronic record;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Prevent others from availing themselves of substantially all the benefit from the controllable electronic record; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Transfer the powers specified in paragraphs (1) and (2) of this subsection to another person.</text>
+    </para>
+  </para>
+  <para>
+    <num>(g)</num>
+    <text>Subject to subsection (h) of this section, an account debtor may not waive or vary its rights under subsections (d)(1) and (e) of this section or its option under subsection (d)(3) of this section.</text>
+  </para>
+  <para>
+    <num>(h)</num>
+    <text>This section is subject to law other than this article which establishes a different rule for an account debtor who is an individual and who incurred the obligation primarily for personal, family, or household purposes.</text>
+  </para>
+  <annotations>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(a)|(13)" type="History" display="false"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(a)|(13)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(k)" type="History"/>
+  </annotations>
+</section>

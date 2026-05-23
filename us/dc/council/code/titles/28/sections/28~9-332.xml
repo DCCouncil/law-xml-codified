@@ -4,11 +4,15 @@
   <heading>Transfer of money; transfer of funds from deposit account.</heading>
   <para>
     <num>(a)</num>
-    <text>A transferee of money takes the money free of a security interest unless the transferee acts in collusion with the debtor in violating the rights of the secured party.</text>
+    <text>A transferee of tangible money takes the money free of a security interest if the transferee receives possession of the money without acting in collusion with the debtor in violating the rights of the secured party.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>A transferee of funds from a deposit account takes the funds free of a security interest in the deposit account unless the transferee acts in collusion with the debtor in violating the rights of the secured party.</text>
+    <text>A transferee of funds from a deposit account takes the funds free of a security interest in the deposit account if the transferee receives the funds without acting in collusion with the debtor in violating the rights of the secured party.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>A transferee of electronic money takes the money free of a security interest if the transferee obtains control of the money without acting in collusion with the debtor in violating the rights of the secured party.</text>
   </para>
   <annotations>
     <text type="Uniform Commercial Code Comment">Example 3: The facts are as in Example 2, but, in wrongfully moving the funds from the deposit account at Bank A to Debtor’s deposit account with Bank B, Debtor acts in collusion with Bank B. Bank B does not take the funds free of Lender’s security interest under this section. If Debtor grants a security interest to Bank B,  Section 9-327 governs the relative priorities of Lender and Bank B. Under  Section 9-327(3), Bank B’s security interest in the Bank B deposit account is senior to Lender’s security interest in the deposit account as proceeds. However, Bank B’s senior security interest does not protect Bank B against any liability to Lender that might arise from Bank B’s wrongful conduct.</text>
@@ -24,5 +28,8 @@
     <text type="Uniform Commercial Code Comment">2. Scope of This Section. This section affords broad protection to transferees who take funds from a deposit account and to those who take money. The term “transferee” is not defined; however, the debtor itself is not a transferee. Thus this section does not cover the case in which a debtor withdraws money (currency) from its deposit account or the case in which a bank debits an encumbered account and credits another account it maintains for the debtor.</text>
     <text type="Uniform Commercial Code Comment">1. Source. New.</text>
     <annotation doc="D.C. Law 13-201" type="History">Oct. 26, 2000, D.C. Law 13-201, § 101, 47 DCR 7576</annotation>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(28)|(A)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(28)|(B)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(j)|(28)|(C)" type="History"/>
   </annotations>
 </section>
