@@ -6417,7 +6417,7 @@
           <para>
             <num>(1)</num>
             <text>Paragraphs (1), (1A), (1B), and (1C) are redesignated as paragraphs (1B), (1C), (1D), and (1E), respectively.</text>
-            <codify:find-replace path="(1C)|num" count="1" codified:doc="D.C. Code" codified:path="§7-1671.01|(1E)">
+            <codify:find-replace path="(1C)|num" count="1" codified:doc="D.C. Code" codified:path="§7-1671.01|(1F)">
               <find>(1C)</find>
               <replace>(1E)</replace>
             </codify:find-replace>
