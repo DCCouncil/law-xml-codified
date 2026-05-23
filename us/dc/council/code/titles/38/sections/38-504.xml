@@ -1,30 +1,58 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-504</num>
-  <heading>Notification of immunization information by school.</heading>
+  <heading proof="needed">Notifications.</heading>
   <para>
     <num>(a)</num>
-    <text>With respect to any student for whom a school does not have certification of immunization, the school shall notify a responsible person:</text>
+    <text>LEAs; private, parochial, and independent schools; and child development facilities shall, at least annually, distribute immunization information to a responsible person for each admitted student that includes:</text>
     <para>
       <num>(1)</num>
-      <text>That it has no certification of immunization for the student;</text>
+      <text>The list of immunizations;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>That it may not admit the student without certification (unless the student is exempted on medical or religious grounds pursuant to <cite path="§38-506">§ 38-506</cite>);</text>
+      <text>A statement that students must be immunized in accordance with <cite path="38|5">this chapter</cite>; and</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>That the student may be immunized and receive certification by a healthcare professional authorized to administer a vaccine or the public health authorities; and</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>How to contact the public health authorities to learn where and when they perform these services.</text>
+      <text>The exclusion standards issued pursuant to <cite path="§38-503">§ 38-503</cite>.</text>
     </para>
   </para>
   <para>
     <num>(b)</num>
-    <text>Neither the District of Columbia nor any school or school official shall be liable in damages to any person for failure to comply with this section.</text>
+    <text>With respect to any student for whom a school or child development facility does not receive a complete certification of immunization required pursuant to <cite path="§38-502">§ 38-502</cite>, the LEA; private, parochial, or independent school; or child development facility shall notify a responsible person in accordance with the exclusion standards issued pursuant to <cite path="§38-503">§ 38-503</cite>, and provide the following information:</text>
+    <para>
+      <num>(1)</num>
+      <text>The list of the missing immunizations;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>That the student must be immunized in accordance with the list of required immunizations, unless exempt from immunization pursuant to <cite path="§38-506">§ 38-506</cite>;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>That the student may be immunized and receive certification of immunization from a healthcare professional authorized to administer a vaccine or from the public health authorities;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>How to contact the public health authorities to learn where and when they perform immunization services;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The date by which the LEA, school, or child development facility must receive certification of immunization or exemption; and</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>A copy of the certificate of health form described in <cite path="§38-602">§ 38-602</cite>.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>Neither the District, an LEA, school, child development facility, nor employee of any of the foregoing may be liable for damages to any person for failure to comply with this section.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>When sending notifications, LEAs; private, parochial, and independent schools; and child development facilities shall make a reasonable attempt to ensure contact is made with the responsible person. When considered appropriate and necessary by the LEA, school, or child development facility, the LEA, school, or child development facility shall ensure that notifications are translated into languages other than English and provided in alternate formats to facilitate communication with individuals with disabilities consistent with federal and District law.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 3-20" type="History" path="§5">Sept. 28, 1979, D.C. Law 3-20, § 5, 26 DCR 380</annotation>
@@ -33,5 +61,6 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-280" path="§2|(e)" codified:display="Note" app="2022-01-12" eff="2022-01-12">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-280" path="§2|(e)">§ 2(e) of Coronavirus Immunization of School Students and Early Childhood Workers Regulation Emergency Amendment Act of 2021 (D.C. Act 24-280, Jan. 12, 2022, 69 DCR 000425)</cite>.</annotation>
     <annotation app="2022-01-12" doc="D.C. Act 24-280" eff="2022-01-12" path="§2|(e)" type="History" display="false"/>
     <annotation app="2022-03-02" doc="D.C. Law 24-85" eff="2022-03-02" path="§2|(e)" type="History"/>
+    <annotation app="2024-01-23" doc="D.C. Law 25-108" eff="2024-01-23" path="§2|(e)" type="History"/>
   </annotations>
 </section>

@@ -1,11 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-503</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on July 10, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§38-503(Perm)">Permanent Version</cite>.*
-      </text>
-  <heading>Immunization standards; list of immunizations.</heading>
-  <text>The Mayor shall, by regulations, specify the immunization standards to be used for compliance with this chapter, and may also, by regulation, revise the list of requested immunizations.</text>
+  <heading proof="needed">Immunizations standards; list of immunizations; exclusion standards.</heading>
+  <para>
+    <num>(a)</num>
+    <text>The Mayor, pursuant to <cite path="2|5|I">subchapter I of Chapter 5 of Title 2</cite>, shall issue rules to implement the provisions of <cite path="38|5">this chapter</cite>, including rules:</text>
+    <para>
+      <num>(1)</num>
+      <text>Specifying the list of immunizations required to be included on a certification of immunization for a student admitted to a:</text>
+      <para>
+        <num>(A)</num>
+        <text>School;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Child development facility, and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>College or university;</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The standards for achieving immunization for each immunization specified on the list of immunizations; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Exclusion standards for schools and child development facilities.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Each college or university shall adopt and publish a written policy for the submission of certifications of immunization and the exclusion of students who fail to obtain the required immunizations.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 3-20" type="History" path="§4">Sept. 28, 1979, D.C. Law 3-20, § 4, 26 DCR 380</annotation>
     <annotation type="Delegation of Authority">Delegation of Authority pursuant to <cite doc="D.C. Law 3-20">D.C. Law 3-20</cite>, the Immunization of School Students Act of 1979, see Mayor’s Order 2006-117, September 5, 2006 ( 53 DCR 7553).</annotation>
@@ -21,5 +49,6 @@
     <annotation app="2023-11-28" doc="D.C. Law 25-77" eff="2023-11-28" path="§2|(c)" type="History" display="false"/>
     <annotation app="2023-11-28" doc="D.C. Law 25-77" eff="2023-11-28" path="§2|(c)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-77" path="§2|(c)" codified:display="Note" app="2023-11-28" eff="2023-11-28">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-77" path="§2|(c)">§ 2(c) of School Student Vaccination Temporary Amendment Act of 2023 (D.C. Law 25-77, Nov. 28, 2023, 70 DCR 13748)</cite>.</annotation>
+    <annotation app="2024-01-23" doc="D.C. Law 25-108" eff="2024-01-23" path="§2|(d)" type="History"/>
   </annotations>
 </section>
