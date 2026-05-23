@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <num>10-1604.01</num>
+  <heading proof="needed">Definitions.</heading>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>For the purposes of <cite path="10|16|IV">this subchapter</cite>, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>"Authorized Delegate" means the Chief Financial Officer, the Deputy Mayor for Planning and Economic Development, or any officer or employee of the Executive Office of the Mayor to whom the Mayor has delegated, or to whom the foregoing individuals have subdelegated, any of the Mayor's functions under <cite path="10|16|IV">this subchapter</cite> pursuant to <cite path="§1-204.22|(6)">§ 1-204.22(6)</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Available Increment" shall have the same meaning as set forth in the Reserve Agreement.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Bond Counsel" means a firm or firms of attorneys designated as District bond counsel from time to time by the Mayor.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"Bond Funded Expenditures" shall mean the actual or proposed expenditure of funds, raised from the issuance of the bonds, or any interest accrued from the deposit of proceeds of the issuance of the bonds, upon the project.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"Bonds" means the District of Columbia revenue bonds, notes, or other obligations (including refunding bonds, notes, and other obligations), in one or more series, authorized to be issued pursuant to <cite path="10|16|IV">this subchapter</cite>.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>"Chief Financial Officer" means the Chief Financial Officer of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>"Closing Documents" means all documents and agreements, other than Financing Documents, that may be necessary and appropriate to issue, sell, and deliver the bonds, and includes agreements, certificates, letters, opinions, forms, receipts, and other similar instruments.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>"Development Plan" shall mean an account of the proposed Bond Funded Expenditures on the project, submitted to the Mayor for review, which shall contain, at a minimum, the following information:</text>
+      <para>
+        <num>(A)</num>
+        <text>A specific period covered by the Development Plan, with specific beginning and ending dates;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The total amount of any planned Bond Funded Expenditures during the period specified in the Development Plan; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A breakdown of the planned Bond Fund Expenditures by expenditure type, with sufficient detail to determine the suitability of the proposed expenditures.</text>
+      </para>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>"Financing Documents" means the documents, other than Closing Documents, that relate to the financing or refinancing of transactions to be effected through the issuance, sale, and delivery of the bonds and the making of the loan, including any offering document, and any required supplements to any such documents.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>"Home Rule Act" means the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 774; D.C. Official Code § 1-201.01 et seq.).</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>"Issuance Costs" means all fees, costs, charges, and expenses paid or incurred in connection with the authorization, preparation, printing, issuance, sale, and delivery of the bonds, including, but not limited to, underwriting, legal, accounting, rating agency, and all other fees, costs, charges, and expenses incurred in connection with the development and implementation of the Financing Documents, the Closing Documents, and those other documents necessary or appropriate in connection with the authorization, preparation, printing, issuance, sale, marketing, and delivery of the bonds, together with financing fees, costs, and expenses, including fees paid to financial institutions and insurance companies, initial letter of credit fees, and compensation to financial advisors and other persons (other than full-time employees of the District) and entities performing services on behalf of or as agents for the District.</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>"Project" means the financing, refinancing, or reimbursing of costs incurred for the construction, installation and equipping of renovations to, and refurbishment of, the Verizon Center, including Issuance Costs, capitalized interest, and reserves.</text>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>"Reserve Agreement" means that certain Reserve Agreement, dated as of April 1, 2002, by and among the District, Wells Fargo Bank Minnesota, N.A., and Financial Security Assurance, Inc.</text>
+    </para>
+    <para>
+      <num>(14)</num>
+      <text>"Verizon Center" has the same meaning as in <cite path="§47-2002.06|(a)|(3)">§ 47-2002.06(a)(3)</cite>.</text>
+    </para>
+  </para>
+  <codify:find-replace doc="D.C. Code" path="10|16|heading" count="1" codified:doc="D.C. Code" codified:path="10|16">
+    <find>Ballpark Development</find>
+    <replace>Sports Facilities</replace>
+  </codify:find-replace>
+  <annotations>
+    <annotation app="2007-07-12" doc="D.C. Law 17-12" eff="2007-07-12" path="" type="History" display="false"/>
+    <annotation app="2007-07-12" doc="D.C. Law 17-12" eff="2007-07-12" path="§2" type="History"/>
+  </annotations>
+</section>

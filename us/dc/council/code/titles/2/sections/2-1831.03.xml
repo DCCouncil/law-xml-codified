@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>2-1831.03</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 17, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§2-1831.03(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Jurisdiction of the Office and agency authority to review cases.</heading>
   <para>
     <num>(a)</num>
@@ -97,9 +100,29 @@
       <num>(3)</num>
       <text>The denial or revocation of a dealer license pursuant to <cite path="§7-2504.06">§ 7-2504.06</cite>; and</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(4)</num>
-      <text>The imposition of a civil fine for violations of <cite path="7|10">Chapter 10 of Title 7</cite> [<cite path="§7-1001">§ 7-1001</cite> et seq.], pursuant to <cite path="§7-1007">§ 7-1007</cite>.</text>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>A license to carry a concealed pistol pursuant to <cite path="§7-2509.08">§ 7-2509.08</cite>, including:</text>
+      <para>
+        <num>(A)</num>
+        <text>Any appeal pending at the Concealed Pistol Licensing Review Board as of October 1, 2023; provided, that each such pending appeal shall be transferred to the Office for adjudication and re-docketed in accordance with the procedures of the Office; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Any motion for reconsideration of a decision issued by the Concealed Pistol Licensing Review Board prior to October 1, 2023, that is pending on or filed after October 1, 2023; provided that:</text>
+        <para>
+          <num>(i)</num>
+          <text>Each such motion filed before October 1, 2023, with the Concealed Pistol Licensing Review Board shall be transferred to and adjudicated by the Office; and</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Each such motion filed on or after October 1, 2023, shall be filed with and adjudicated by the Office.</text>
+        </para>
+      </para>
     </para>
   </para>
   <para>
@@ -313,6 +336,10 @@
   <para placeholder="Not Funded">
     <num>(b-30)</num>
     <text>Not Funded.</text>
+  </para>
+  <para>
+    <num>(b-31)</num>
+    <text><cite path="2|18A">This chapter</cite> shall apply to all adjudicated cases involving imposition of a civil fine for violations of <cite path="7|10">Chapter 10 of Title 7</cite></text>
   </para>
   <para>
     <num>(c)</num>
@@ -575,8 +602,11 @@
     <annotation doc="D.C. Act 25-138" path="§7" type="Applicability" history="false" app="2023-06-27" eff="2023-06-27"><cite doc="D.C. Act 25-138" path="§7">Section 7 of D.C. Act 25-138</cite> provided that the amendments made to this section by D.C. Act 25-138 shall apply as of October 1, 2023. D.C. Act 25-138 will expire before that date.
     </annotation>
     <annotation app="2023-06-27" doc="D.C. Act 25-138" eff="2023-06-27" path="§7" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-63" path="§2" codified:display="Note" app="2023-10-05" eff="2023-10-05">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-63" path="§2">§ 2 of Office of Administrative Hearings Jurisdiction Temporary Amendment Act of 2023 (D.C. Law 25-63, Oct. 5, 2023, 70 DCR 9691)</cite>.</annotation>
     <annotation app="2023-10-05" doc="D.C. Law 25-63" eff="2023-10-05" path="§2" type="History" display="false"/>
+    <annotation app="2023-10-05" doc="D.C. Law 25-63" eff="2023-10-05" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2023-10-05" doc="D.C. Law 25-63" eff="2023-10-05" path="§2|(a)|(2)" type="History"/>
+    <annotation app="2023-10-05" doc="D.C. Law 25-63" eff="2023-10-05" path="§2|(b)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-63" path="§2" codified:display="Note" app="2023-10-05" eff="2023-10-05">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-63" path="§2">§ 2 of Office of Administrative Hearings Jurisdiction Temporary Amendment Act of 2023 (D.C. Law 25-63, Oct. 5, 2023, 70 DCR 9691)</cite>.</annotation>
     <annotation doc="D.C. Law 25-63" path="§6" type="Editor's Notes" history="false" app="2023-10-05" eff="2023-10-05"><cite doc="D.C. Act 25-138" path="§6">Section 6 of D.C. Act 25-138</cite> provided that the Mayor shall provide for the orderly transfer of all records of pending and adjudicated appeals of the Concealed Pistol Licensing Review Board to the Office of Administrative Hearings.
     </annotation>
     <annotation app="2023-10-05" doc="D.C. Law 25-63" eff="2023-10-05" path="§6" type="History" display="false"/>

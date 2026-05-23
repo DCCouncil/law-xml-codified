@@ -813,7 +813,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>16</num>
-    <heading>Ballpark Development.</heading>
+    <heading>Sports Facilities.<annotation app="2007-07-12" doc="D.C. Law 17-12" eff="2007-07-12" path="§2" type="History"/></heading>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
@@ -862,6 +862,26 @@
       <xi:include href="./sections/10-1603.06.xml"/>
       <xi:include href="./sections/10-1603.07.xml"/>
       <xi:include href="./sections/10-1603.08.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>IV</num>
+      <heading>Verizon Center.</heading>
+      <annotation app="2007-07-12" doc="D.C. Law 17-12" eff="2007-07-12" path="" type="History" display="false"/>
+      <xi:include href="./sections/10-1604.01.xml"/>
+      <xi:include href="./sections/10-1604.02.xml"/>
+      <xi:include href="./sections/10-1604.03.xml"/>
+      <xi:include href="./sections/10-1604.04.xml"/>
+      <xi:include href="./sections/10-1604.05.xml"/>
+      <xi:include href="./sections/10-1604.06.xml"/>
+      <xi:include href="./sections/10-1604.07.xml"/>
+      <xi:include href="./sections/10-1604.08.xml"/>
+      <xi:include href="./sections/10-1604.09.xml"/>
+      <xi:include href="./sections/10-1604.10.xml"/>
+      <xi:include href="./sections/10-1604.11.xml"/>
+      <xi:include href="./sections/10-1604.12.xml"/>
+      <xi:include href="./sections/10-1604.13.xml"/>
+      <xi:include href="./sections/10-1604.14.xml"/>
     </container>
   </container>
   <container>

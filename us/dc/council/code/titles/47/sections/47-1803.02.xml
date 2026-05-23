@@ -319,6 +319,10 @@
         <num>(YY)</num>
         <text>Not Funded.</text>
       </para>
+      <para>
+        <num>(ZZ)</num>
+        <text>Rebates issued pursuant to <cite path="§50-921.27">[§ 50-921.27]</cite>.</text>
+      </para>
     </para>
     <para>
       <num>(3)</num>
@@ -559,5 +563,6 @@
     <annotation app="notfunded" doc="D.C. Law 24-335" eff="2023-03-22" path="§3" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-335" path="§3" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-335" path="">D.C. Law 24-335</cite>: <cite doc="D.C. Law 24-335" path="§4">§ 4 of D.C. Law 24-335</cite> provided that the change made to this section by <cite doc="D.C. Law 24-335" path="§3">§ 3 of D.C. Law 24-335</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-03-22" doc="D.C. Law 24-335" eff="2023-03-22" path="§3" type="History"/>
+    <annotation app="2023-11-28" doc="D.C. Law 25-66" eff="2023-11-28" path="§3" type="History"/>
   </annotations>
 </section>
