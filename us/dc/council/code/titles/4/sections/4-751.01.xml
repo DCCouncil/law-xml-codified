@@ -4,6 +4,9 @@
   <text>
       *NOTE: This section includes amendments by temporary legislation that will expire on August 3, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-751.01(Perm)">Permanent Version</cite>.*
       </text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on July 23, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-751.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <para>
@@ -534,21 +537,21 @@
         <num>(i)</num>
         <text>Is en route to a family member, sponsor, or an intended destination outside the District; or</text>
       </para>
-      <para>
+      <para codify:path="(ii)">
         <num>(ii)</num>
-        <text>Was paroled into the United States after April 1, 2022, under section 212(d)(5) of the Immigration and Nationality Act, approved June 27, 1952 (66 Stat. 182; 8 U.S.C. § 1182(d)(5)), except for:</text>
+        <text>Was paroled into the United States after April 1, 2022, under section 212(d)(5) of the Immigration and Nationality Act, approved June 27, 1952 (66 Stat. 182; 8 U.S.C. § 1182(d)(5)), until the completion of their immigration proceedings, including any appeals, except for:</text>
         <para>
           <num>(I)</num>
           <text>Individuals who entered the United States pursuant to a special parole program established by the federal government that is indicated on the parole or entry document; or</text>
         </para>
         <para>
           <num>(II)</num>
-          <text>Individuals granted parole while residing outside of the United States, until the completion of their immigration proceedings, including any appeals; or</text>
+          <text>Individuals granted parole while residing outside of the United States; or</text>
         </para>
       </para>
-      <para>
+      <para codify:path="(iii)">
         <num>(iii)</num>
-        <text>Has been issued, after April 1, 2022, a notice to appear in a proceeding to be held under section 240 of the Immigration and Nationality Act, approved June 27, 1952 (66 Stat. 182; 8 U.S.C. § 1229a), until the completion of their immigration proceedings, including any appeals.</text>
+        <text>Cannot produce proof of residency documents required under subparagraph (A)(iii) of this paragraph dated prior to April 1, 2022, and has been issued, after April 1, 2022, a notice to appear in a proceeding to be held under section 240 of the Immigration and Nationality Act, approved June 27, 1952 (66 Stat. 182; 8 U.S.C. § 1229a), until the completion of their immigration proceedings, including any appeals.</text>
       </para>
     </para>
   </para>
@@ -728,5 +731,8 @@
     <annotation app="2022-12-21" doc="D.C. Law 24-234" eff="2022-12-21" path="§201|(a)|(1)" type="History"/>
     <annotation app="2022-12-21" doc="D.C. Law 24-234" eff="2022-12-21" path="§201|(a)|(2)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-234" path="§201|(a)" codified:display="Note" app="2022-12-21" eff="2022-12-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-234" path="§201|(a)">§ 201(a) of Migrant Services and Supports Temporary Amendment Act of 2022 (D.C. Law 24-234, Dec. 21, 2022, 69 DCR 13991)</cite>.</annotation>
+    <annotation app="2023-04-24" doc="D.C. Act 25-69" eff="2023-04-24" path="§3|(a)" type="History" display="false"/>
+    <annotation app="2023-04-24" doc="D.C. Act 25-69" eff="2023-04-24" path="§3|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-69" path="§3|(a)" codified:display="Note" app="2023-04-24" eff="2023-04-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-69" path="§3|(a)">§ 3(a) of Migrant Services Eligibility Clarification Emergency Amendment Act of 2023 (D.C. Act 25-69, Apr. 24, 2023, 70 DCR 6115)</cite>.</annotation>
   </annotations>
 </section>
