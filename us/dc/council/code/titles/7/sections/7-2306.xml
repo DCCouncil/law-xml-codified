@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-2306</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on March 6, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-2306(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Duration of emergency executive order; extension; publication of order; regional programs and agreements.</heading>
   <para>
     <num>(a)</num>
@@ -13,6 +16,49 @@
   <para>
     <num>(c)</num>
     <text>Should extenuating circumstances, such as death, destruction or other perilous conditions prohibit the convening of at least two-thirds of the members of the Council of the District of Columbia for consideration of emergency legislation, the Mayor shall make a reasonable attempt to consult with those members of the Council of the District of Columbia not affected by death, destruction, or other perilous conditions, after which the Mayor may extend the emergency executive order for up to 15 days.</text>
+  </para>
+  <para>
+    <num>(c-1)</num>
+    <para>
+      <num>(1)</num>
+      <text>Notwithstanding subsections (b) and (c) of this section, the Mayor may extend the 15-day November 13, 2023, emergency executive order declaring a public emergency in response to the opioid crisis (Mayor's Order 2023-141) and the 15-day November 13, 2023, emergency executive order declaring a public emergency in response to juvenile crime (Mayor's Order 2023-141) until February 15, 2024.  After the extensions authorized by this subsection, the Mayor may extend the emergency orders for additional 15-day periods pursuant to subsection (b) or subsection (c) of this section.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Notwithstanding <cite path="§7-2304|(b)">§ 7-2304(b)</cite>, the Mayor shall comply with all District laws when exercising her authority pursuant to Mayor's Order 2023-141, including those laws stated in Mayor's Order 2023-141 to be subject to waiver, suspension, or modification; except, that the Mayor may waive the requirements of <cite path="2|3A|IV">subchapter IV of Chapter 3A of Title 2</cite>.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The Mayor shall, prior to any exercise of the authority granted by this subsection, provide written notice to the Council. Such notice shall include, at a minimum:</text>
+      <para>
+        <num>(A)</num>
+        <text>Citations to the law or laws being waived; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>In any instance where the Mayor is waiving procurement laws, a summary of each proposed procurement, which summary shall include:</text>
+        <para>
+          <num>(i)</num>
+          <text>A description of the specific goods or services to be procured;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The source selection method, including whether the procurement was competitively sourced;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>The contract amount and the source of funds, whether federal or local;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>The name and certified business enterprise status of the proposed awardee; and</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>An explanation regarding why expedited procurement procedures are necessary to meet the specific need identified.</text>
+        </para>
+      </para>
+    </para>
   </para>
   <para>
     <num>(d)</num>
@@ -74,5 +120,8 @@
     <annotation app="2022-03-15" doc="D.C. Law 24-102" eff="2022-03-15" path="§2" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-346" path="§2" codified:display="Note" app="2022-03-16" eff="2022-03-16">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-346" path="§2">§ 2 of Public Emergency Extension Emergency Amendment Act of 2022 (D.C. Act 24-346, Mar. 16, 2022, 0 DCR 0)</cite>.</annotation>
     <annotation app="2022-03-16" doc="D.C. Act 24-346" eff="2022-03-16" path="§2" type="History" display="false"/>
+    <annotation app="2023-12-07" doc="D.C. Act 25-327" eff="2023-12-07" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2023-12-07" doc="D.C. Act 25-327" eff="2023-12-07" path="§2|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-327" path="§2|(b)" codified:display="Note" app="2023-12-07" eff="2023-12-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-327" path="§2|(b)">§ 2(b) of Opioid Crisis and Juvenile Crime Public Emergencies Extension Authorization Emergency Amendment Act of 2023 (D.C. Act 25-327, Dec. 7, 2023, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
