@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-1551.04</num>
   <text>
-      *NOTE: This section was created by emergency legislation that will expire on December 2, 2025.*
+      *NOTE: This section was created by emergency legislation that will expire on February 22, 2026.*
       </text>
   <heading proof="needed">District of Columbia Rap Back Program.</heading>
   <para>
@@ -25,17 +25,19 @@
     <num>(e)</num>
     <text>For the purposes of administering the District of Columbia Rap Back Program and performing or facilitating criminal history background screenings, MPD is authorized to take the fingerprints of a covered individual, submit to the FBI the fingerprints of, and accompanying records regarding, a covered individual, and allow such fingerprints and records to be retained by the FBI Rap Back Service and used for ongoing searches through the FBI Rap Back Service.</text>
   </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-1501.11" expire="2025-09-03" codified:display="Note">For temporary (90 days) creation of § 4-1551.04, see <cite doc="D.C. Act 26-146" path="§3044">§ 3044 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-1551.04" applicability="2025-09-03" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-1551.04">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-146" path="§3044">§ 3044 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-1501.11" expire="2025-11-24" codified:display="Note">For temporary (90 days) creation of § 4-1551.04, see <cite doc="D.C. Act 26-210" path="§3044">§ 3044 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-1551.04" applicability="2025-11-24" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-1551.04">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-210" path="§3044">§ 3044 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</codify:annotation>
   <codify:insert doc="D.C. Code" path="§4-1551.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-1551.04">
     <text>
-      *NOTE: This section was created by emergency legislation that will expire on December 2, 2025.*
+      *NOTE: This section was created by emergency legislation that will expire on February 22, 2026.*
       </text>
   </codify:insert>
   <annotations>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="III" type="History" display="false"/>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3044" type="History" display="false"/>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3044" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§3044" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-146" path="§3044">§ 3044 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§3044" codified:display="Note" app="2025-11-24" eff="2025-09-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-146" path="§3044">§ 3044 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-11-24" doc="D.C. Act 26-146" eff="2025-09-03" path="§3044" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="III" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§3044" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§3044" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§3044" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-210" path="§3044">§ 3044 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

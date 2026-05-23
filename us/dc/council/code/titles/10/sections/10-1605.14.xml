@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-1605.14</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on December 24, 2025.*
-      </text>
   <heading proof="needed">Required reports.</heading>
   <para>
     <num>(a)</num>
@@ -116,18 +113,10 @@
       <text>The report shall include an estimate of the District funding needed, potential site locations on the RFK Campus, co-location opportunities with planned development sites, and an assessment of the Fire and Emergency Medical Services Department's needs for the additional apparatus and full staffing.</text>
     </para>
   </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§10-1604.14" expire="2025-09-25" codified:display="Note">For temporary (90 days) creation of § 10-1605.14, see <cite doc="D.C. Act 26-150" path="§15">§ 15 of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 72 DCR 10584)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§10-1605.14" applicability="2025-09-25" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-1605.14">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-150" path="§15">§ 15 of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 72 DCR 10584)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§10-1605.14" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§10-1605.14">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on December 24, 2025.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="II" type="History" display="false"/>
-    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="" type="History" display="false"/>
-    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§15" type="History" display="false"/>
-    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§15" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-150" path="§15" codified:display="Note" app="2025-09-25" eff="2025-09-25">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-150" path="§15">§ 15 of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 72 DCR 10584)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-150" path="§15" codified:display="Note" app="2025-11-21" eff="2025-09-25">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-150" path="§15">§ 15 of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 72 DCR 10584)</cite>.</annotation>
+    <annotation app="2025-11-21" doc="D.C. Act 26-150" eff="2025-09-25" path="§15" type="History" display="false"/>
+    <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="" type="History" display="false"/>
+    <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="§15" type="History"/>
   </annotations>
 </section>

@@ -122,7 +122,7 @@
         <para codify:path="(1)">
           <num>(B)</num>
           <text>The lead-in language of paragraph (1) is amended by striking the phrase "September 30, 2026" and inserting the phrase "December 31, 2025" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-410.02|(b-1)|(1)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-410.02|(b-1)">
             <find>September 30, 2026</find>
             <replace>December 31, 2025</replace>
           </codify:find-replace>
@@ -132,7 +132,7 @@
           <text>A new paragraph (2) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(1)" num-value="(2)" codified:doc="D.C. Code" codified:path="§4-410.02|(b-1)|(2)"/>
+              <codify:insert after="(1)" num-value="(2)" codified:doc="D.C. Code" codified:path="§4-410.02|(b-1)"/>
               <num>(2)</num>
               <text>From January 1, 2026, through September 30, 2026, child development facilities that enter or have entered into a contract or agreement with the Department to receive monies from the Early Childhood Educator Pay Equity Fund shall use such monies to pay, at minimum, the salaries for assistant and lead teachers listed in the following tables:</text>
               <text>

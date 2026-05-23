@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-1605.31</num>
   <text>
-      *NOTE: This section was created by emergency legislation that will expire on December 2, 2025.*
+      *NOTE: This section was created by emergency legislation that will expire on February 22, 2026.*
       </text>
   <heading proof="needed">RFK Campus Infrastructure Fund.</heading>
   <para>
@@ -79,17 +79,19 @@
     <num>(g)</num>
     <text>For the purposes of this section, the term "RFK campus" means the parcels of land that are the subject of the Transfer of Jurisdiction Plat recorded in the Surveyor's Office of the District of Columbia on February 5, 2025, on page 13 of subdivision book 223, together with any public streets within or adjacent to such parcels that may be closed from time to time.</text>
   </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§10-1604.14" expire="2025-09-03" codified:display="Note">For temporary (90 days) creation of § 10-1605.31, see <cite doc="D.C. Act 26-146" path="§2052">§ 2052 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§10-1605.31" applicability="2025-09-03" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-1605.31">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-146" path="§2052">§ 2052 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§10-1604.14" expire="2025-11-24" codified:display="Note">For temporary (90 days) creation of § 10-1605.31, see <cite doc="D.C. Act 26-210" path="§2052">§ 2052 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§10-1605.31" applicability="2025-11-24" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-1605.31">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-210" path="§2052">§ 2052 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</codify:annotation>
   <codify:insert doc="D.C. Code" path="§10-1605.31" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§10-1605.31">
     <text>
-      *NOTE: This section was created by emergency legislation that will expire on December 2, 2025.*
+      *NOTE: This section was created by emergency legislation that will expire on February 22, 2026.*
       </text>
   </codify:insert>
   <annotations>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="II" type="History" display="false"/>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2052" type="History" display="false"/>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2052" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2052" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-146" path="§2052">§ 2052 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2052" codified:display="Note" app="2025-11-24" eff="2025-09-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-146" path="§2052">§ 2052 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-11-24" doc="D.C. Act 26-146" eff="2025-09-03" path="§2052" type="History" display="false"/>
+    <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2052" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2052" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§2052" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-210" path="§2052">§ 2052 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

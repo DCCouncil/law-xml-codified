@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-1605.01</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on December 24, 2025.*
-      </text>
   <heading proof="needed">Definitions.</heading>
   <para>
     <num undesignated="true">(a)</num>
@@ -60,7 +57,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>Any other event agreed to be a District Event jointly by the Team and the Mayor.</text>
+        <text>Any other event agreed to be a District event jointly by the Team and the Mayor.</text>
       </para>
     </para>
     <para>
@@ -161,7 +158,7 @@
     </para>
     <para>
       <num>(31)</num>
-      <text>"Team" means the professional football franchise that is a member club of the National Football League known as the Washington Commanders, or a successor member club.</text>
+      <text>"Team" means the professional football franchise that is a member club of the National Football League ("NFL") known as the Washington Commanders, or a successor member club.</text>
     </para>
     <para>
       <num>(32)</num>
@@ -180,18 +177,10 @@
       <text>"Transportation Improvement Fund" means the special fund established by <cite path="§50-921.29">§ 50-921.29</cite>.</text>
     </para>
   </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§10-1604.14" expire="2025-09-25" codified:display="Note">For temporary (90 days) creation of § 10-1605.01, see <cite doc="D.C. Act 26-150" path="§2">§ 2 of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 72 DCR 10584)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§10-1605.01" applicability="2025-09-25" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-1605.01">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-150" path="§2">§ 2 of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 72 DCR 10584)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§10-1605.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§10-1605.01">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on December 24, 2025.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="II" type="History" display="false"/>
-    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="" type="History" display="false"/>
-    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§2" type="History" display="false"/>
-    <annotation app="2025-09-25" doc="D.C. Act 26-150" eff="2025-09-25" path="§2" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-150" path="§2" codified:display="Note" app="2025-09-25" eff="2025-09-25">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-150" path="§2">§ 2 of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 72 DCR 10584)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-150" path="§2" codified:display="Note" app="2025-11-21" eff="2025-09-25">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-150" path="§2">§ 2 of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 72 DCR 10584)</cite>.</annotation>
+    <annotation app="2025-11-21" doc="D.C. Act 26-150" eff="2025-09-25" path="§2" type="History" display="false"/>
+    <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="" type="History" display="false"/>
+    <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="§2" type="History"/>
   </annotations>
 </section>
