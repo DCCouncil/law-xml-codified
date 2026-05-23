@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>22-4234</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on July 23, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§22-4234(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Duties.</heading>
   <para>
     <num>(a)</num>
@@ -37,6 +40,14 @@
       <num>(8)</num>
       <text>Establish measurable goals and objectives for reform initiatives; and</text>
     </para>
+    <para>
+      <num>(9)</num>
+      <text>Conduct research and analysis on matters affecting public safety and criminal justice, including research and analysis utilizing behavioral health, physical health, employment, and education data.</text>
+    </para>
+  </para>
+  <para>
+    <num>(a-1)</num>
+    <text>Agencies are authorized to provide personally identifying information to the Criminal Justice Coordinating Council to aid in the development of reports pursuant to this section.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -333,6 +344,69 @@
       </para>
     </para>
   </para>
+  <para>
+    <num>(d)</num>
+    <para>
+      <num>(1)</num>
+      <text>The CJCC shall conduct research and analysis, and develop reports, pertaining to childhood factors that increase the likelihood of future involvement in gun violence for young adults.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Upon request by the CJCC, and to aid in the development of reports produced pursuant to this section, the Department of Health Care Finance ("DHCF") shall provide, or cause to be provided, the following information to the CJCC on adult individuals included in a given study sample for the period of time when the individuals were under 18 years of age, including any associated personal identifying information:</text>
+      <para>
+        <num>(A)</num>
+        <text>Demographic data, including:</text>
+        <para>
+          <num>(i)</num>
+          <text>Name, address, and date of birth;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Sex;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Gender;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Race; and</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Ethnicity;</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Enrollment data, including;</text>
+        <para>
+          <num>(i)</num>
+          <text>Eligibility start date;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Eligibility end date; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Eligibility basis;</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Claims data with mental, behavioral, and neurodevelopmental disorder diagnoses; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Claims data with mental health procedures.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Where necessitated by District or federal law or regulations, DHCF may enter into a Memorandum of Understanding with CJCC regarding the disclosure of data and other information pursuant to this section.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 14-28" type="History" path="§1505">Oct. 3, 2001, D.C. Law 14-28, § 1505, 48 DCR 6981</annotation>
     <annotation doc="D.C. Law 20-61" type="History">Dec. 24, 2013, D.C. Law 20-61, § 3072, 60 DCR 12472</annotation>
@@ -388,5 +462,10 @@
     <annotation app="2023-04-06" doc="D.C. Law 24-343" eff="2023-04-06" path="§2" type="History" display="false"/>
     <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§6|(b)|(1)" type="History"/>
     <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§6|(b)|(2)" type="History"/>
+    <annotation app="2023-04-24" doc="D.C. Act 25-74" eff="2023-04-24" path="§2" type="History" display="false"/>
+    <annotation app="2023-04-24" doc="D.C. Act 25-74" eff="2023-04-24" path="§2|(a)" type="History"/>
+    <annotation app="2023-04-24" doc="D.C. Act 25-74" eff="2023-04-24" path="§2|(b)" type="History"/>
+    <annotation app="2023-04-24" doc="D.C. Act 25-74" eff="2023-04-24" path="§2|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-74" path="§2" codified:display="Note" app="2023-04-24" eff="2023-04-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-74" path="§2">§ 2 of Criminal Justice Coordinating Council Information Sharing Emergency Amendment Act of 2023 (D.C. Act 25-74, Apr. 24, 2023, 70 DCR 6126)</cite>.</annotation>
   </annotations>
 </section>

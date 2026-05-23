@@ -1,13 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>5-653</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on July 23, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§5-653(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Presumption as to disability or death from cancer.</heading>
   <para>
     <num>(a)</num>
     <text>A member shall be presumed to have a performance-of-duty injury or illness that is covered by <cite path="5|6A|II">this subchapter</cite> and <cite path="5|7">Chapter 7 of this title</cite>, unless such presumption is overcome by a preponderance of evidence to the contrary or the member is disqualified from the presumption pursuant to <cite path="§5-655">§ 5-655</cite>, if:</text>
     <para>
       <num>(1)</num>
-      <text>The member has been diagnosed with leukemia or breast, ovarian, pancreatic, prostate, rectal, testicular, or respiratory cancer, and that member has been in contact with or exposed to a toxic substance while in the line of duty that is associated with an increased risk of leukemia or cancer;</text>
+      <text>The member has been diagnosed with leukemia or breast, ovarian, pancreatic, prostate, rectal, liver, testicular, or respiratory cancer, and that member has been in contact with or exposed to a toxic substance while in the line of duty that is associated with an increased risk of leukemia or cancer;</text>
     </para>
     <para>
       <num>(2)</num>
@@ -31,7 +34,7 @@
     <text>An EMS employee shall be presumed to have an occupational disease suffered in the line of duty that is covered by <cite path="1|6">Chapter 6 of Title 1</cite>, unless such presumption is overcome by a preponderance of evidence to the contrary or the member is disqualified from the presumption pursuant to <cite path="§5-655">§ 5-655</cite>, if:</text>
     <para>
       <num>(1)</num>
-      <text>The EMS employee has been diagnosed with leukemia or breast, ovarian, pancreatic, prostate, rectal, testicular, or respiratory cancer, and that EMS employee has been in contact with or exposed to a toxic substance while in the line of duty that is associated with an increased risk of leukemia or cancer;</text>
+      <text>The EMS employee has been diagnosed with leukemia or breast, ovarian, pancreatic, prostate, rectal, liver, testicular, or respiratory cancer, and that EMS employee has been in contact with or exposed to a toxic substance while in the line of duty that is associated with an increased risk of leukemia or cancer;</text>
     </para>
     <para>
       <num>(2)</num>
@@ -65,5 +68,9 @@
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3052|(b)" type="History" display="false"/>
     <annotation app="2019-05-10" doc="D.C. Law 22-313" eff="2019-05-10" path="§10|(b)|(1)" type="History"/>
     <annotation app="2019-05-10" doc="D.C. Law 22-313" eff="2019-05-10" path="§10|(b)|(2)" type="History"/>
+    <annotation app="2023-04-24" doc="D.C. Act 25-74" eff="2023-04-24" path="§5" type="History" display="false"/>
+    <annotation app="2023-04-24" doc="D.C. Act 25-74" eff="2023-04-24" path="§5|(a)" type="History"/>
+    <annotation app="2023-04-24" doc="D.C. Act 25-74" eff="2023-04-24" path="§5|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-74" path="§5" codified:display="Note" app="2023-04-24" eff="2023-04-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-74" path="§5">§ 5 of Criminal Justice Coordinating Council Information Sharing Emergency Amendment Act of 2023 (D.C. Act 25-74, Apr. 24, 2023, 70 DCR 6126)</cite>.</annotation>
   </annotations>
 </section>
