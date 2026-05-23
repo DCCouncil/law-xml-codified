@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-242</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on December 14, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§32-242(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Programs for employment and training of young District domiciliaries.</heading>
   <para>
     <num>(a)</num>
@@ -441,20 +438,16 @@
     <text>When the purchase is reasonably necessary to assist in the effective achievement of a statutorily authorized goal, objective, or responsibility, Department of Employment Services funds may be used to purchase food and non-alcoholic beverages for:</text>
     <para>
       <num>(1)</num>
-      <text>Youth enrolled in the summer youth jobs program; and</text>
+      <text>Youth enrolled in the summer youth jobs program;</text>
     </para>
-    <para placeholder="Repealed">
+    <para>
       <num>(2)</num>
-      <text>Repealed.</text>
+      <text>District government employees at registration events at which participant eligibility is certified or transportation stipends are distributed, or at hiring events; and</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>Participants, District government employees, and employees of host agencies who attend the annual summer youth employment program activities.</text>
+      <text>Participants, District government employees, and employees of host agencies who attend the annual summer youth employment program closing ceremony.</text>
     </para>
-  </para>
-  <para>
-    <num>(i)</num>
-    <text>The Department of Employment Services is authorized to perform criminal background checks and traffic record checks for employees and volunteers of host employers or grantees participating in programs established pursuant to this section in accordance with <cite path="4|15">Chapter 15 of Title 4</cite>.</text>
   </para>
   <annotations>
     <text type="Short Title">Short title: Section 2061 of <cite doc="D.C. Law 19-21">D.C. Law 19-21</cite> provided that subtitle G of title II of the act may be cited as “Summer Youth Employment Compensation Amendment Act of 2011”.</text>
@@ -586,11 +579,7 @@
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4122" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-14" path="§3" codified:display="Note" app="2025-02-20" eff="2025-02-20">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-14" path="§3">§ 3 of Youth Workforce Development Programs Emergency Amendment Act of 2025 (D.C. Act 26-14, Feb. 20, 2025, 72 DCR 2016)</cite>.</annotation>
     <annotation app="2025-02-20" doc="D.C. Act 26-14" eff="2025-02-20" path="§3" type="History" display="false"/>
-    <annotation app="2025-05-03" doc="D.C. Law 26-3" eff="2025-05-03" path="§3" type="History" display="false"/>
-    <annotation app="2025-05-03" doc="D.C. Law 26-3" eff="2025-05-03" path="§3|(a)|(1)" type="History"/>
-    <annotation app="2025-05-03" doc="D.C. Law 26-3" eff="2025-05-03" path="§3|(a)|(2)" type="History"/>
-    <annotation app="2025-05-03" doc="D.C. Law 26-3" eff="2025-05-03" path="§3|(a)|(3)" type="History"/>
-    <annotation app="2025-05-03" doc="D.C. Law 26-3" eff="2025-05-03" path="§3|(b)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-3" path="§3" codified:display="Note" app="2025-05-03" eff="2025-05-03">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-3" path="§3">§ 3 of Youth Workforce Development Programs Temporary Amendment Act of 2025 (D.C. Law 26-3, May 3, 2025, 72 DCR 3113)</cite>.</annotation>
+    <annotation app="2025-05-03" doc="D.C. Law 26-3" eff="2025-05-03" path="§3" type="History" display="false"/>
   </annotations>
 </section>
