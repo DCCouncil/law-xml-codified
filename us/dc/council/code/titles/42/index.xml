@@ -383,7 +383,7 @@
     <prefix>Chapter</prefix>
     <num>8B</num>
     <heading>Foreclosure moratorium from July 1, 2022, to September 30, 2022.</heading>
-    <annotation app="2024-07-18" doc="D.C. Act 25-514" eff="2024-07-18" path="" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-212" eff="2024-09-18" path="" type="History" display="false"/>
     <xi:include href="./sections/42-851.11.xml"/>
   </container>
   <container>
@@ -806,6 +806,15 @@
     <xi:include href="./sections/42-2073.xml"/>
     <xi:include href="./sections/42-2074.xml"/>
   </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>20C</num>
+    <heading>Relief for River East at Grandview Condominium Owners.</heading>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="II|N" type="History" display="false"/>
+    <xi:include href="./sections/42-2081.xml"/>
+    <xi:include href="./sections/42-2082.xml"/>
+    <xi:include href="./sections/42-2083.xml"/>
+  </container>
   <subheading>Subtitle IV. Housing Enhancement Programs.</subheading>
   <container>
     <prefix>Chapter</prefix>
@@ -953,6 +962,7 @@
       <num>I</num>
       <heading>General Provisions.</heading>
       <xi:include href="./sections/42-2601.xml"/>
+      <xi:include href="./sections/42-2601.01.xml"/>
       <xi:include href="./sections/42-2602.xml"/>
       <xi:include href="./sections/42-2602.01.xml"/>
       <xi:include href="./sections/42-2603.xml"/>
@@ -1337,7 +1347,7 @@
     <prefix>Chapter</prefix>
     <num>33A</num>
     <heading>Temporary Tenant Payment Plans.</heading>
-    <annotation app="2024-07-18" doc="D.C. Act 25-513" eff="2024-07-18" path="" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-211" eff="2024-09-18" path="" type="History" display="false"/>
     <xi:include href="./sections/42-3331.xml"/>
   </container>
   <container>

@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-401</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 13, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-401(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Definitions.</heading>
   <para>
     <num undesignated="true">(a)</num>
@@ -77,12 +74,20 @@
       <text>The term "Early Childhood Educator Pay Equity Fund" means the special fund established pursuant to <cite path="§1-325.431">§ 1-325.431</cite>.</text>
     </para>
     <para>
+      <num>(4A-i)</num>
+      <text>The term "Early Childhood Educator Pay Equity Program" means the program the Department establishes pursuant to <cite path="§4-402|(b)">§ 4-402(b)</cite> to expend funds from the Early Childhood Educator Pay Equity Fund.</text>
+    </para>
+    <para>
       <num>(4B)</num>
       <text>The term "ECE" means early childhood education.</text>
     </para>
     <para>
       <num>(4C)</num>
-      <text>The term "ECE salary scale" means the early childhood educator salary scale for lead and assistant teachers established and updated pursuant to .</text>
+      <text>The term "ECE salary scale" means the early childhood educator salary scale for lead and assistant teachers established and updated pursuant to <cite path="§4-410.02|(b)">§ 4-410.02(b)</cite>-<cite path="4-410.02|(c)">(c)</cite>.</text>
+    </para>
+    <para>
+      <num>(4C-i)</num>
+      <text>The term "expanded child development home" means a private residence that provides a child development program for up to a total of 12 children and is licensed by the Department pursuant to Chapter 1 of Title 5-A of the District of Columbia Municipal Regulations (5-A DCMR § 100.1 <em>et seq.</em>).</text>
     </para>
     <para>
       <num>(4D)</num>
@@ -157,14 +162,6 @@
       </para>
     </para>
   </para>
-  <para>
-    <num>(4A-i)</num>
-    <text>The term "Early Childhood Educator Pay Equity Program" means the program the Department establishes pursuant to section 3(b) to expend funds from the Early Childhood Educator Pay Equity Fund.</text>
-  </para>
-  <para>
-    <num>(4C-i)</num>
-    <text>The term "expanded child development home" means a private residence that provides a child development program for up to a total of 12 children and is licensed by the Department pursuant to Chapter 1 of Title 5-A of the District of Columbia Municipal Regulations (5-A DCMR § 100.1 <em>et seq.</em>).</text>
-  </para>
   <annotations>
     <text type="Short Title">Short title: Section 4021 of <cite doc="D.C. Law 19-21">D.C. Law 19-21</cite> provided that subtitle C of title IV of the act may be cited as “Day Care Policy Amendment Act of 2011”.</text>
     <text type="Short Title">Short title: Section 4005 of <cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> provided that subtitle C of title IV of the act may be cited as the “Childcare Funding Support Amendment Act of 2008”.</text>
@@ -212,13 +209,13 @@
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4073|(a)|(11)" type="History"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4073|(a)|(9)" type="History"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4073|(a)|(8)" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4083|(a)" type="History" display="false"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4083|(a)|(1)|(A)" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4083|(a)|(1)|(B)" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4083|(a)|(2)" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4083|(a)|(4)" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4083|(a)|(3)" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4083|(a)|(5)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§4083|(a)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§4083|(a)">§ 4083(a) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4083|(a)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4083|(a)|(1)|(A)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4083|(a)|(1)|(B)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4083|(a)|(2)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4083|(a)|(3)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4083|(a)|(4)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4083|(a)|(5)" type="History"/>
   </annotations>
 </section>

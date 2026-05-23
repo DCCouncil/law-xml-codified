@@ -1,68 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>1-325.173</num>
   <heading>H Street/Bladensburg Road/Benning Road, N.E., Corridor Retail Priority Area business development.</heading>
-  <para>
-    <num>(a)</num>
-    <text>The Mayor shall publish no later than 120 days after April 8, 2011, and no less than annually after that date, a notice of funding availability to make grants to assist retail development projects which generate new jobs in new or improved existing retail space in the H Street/Bladensburg Road/Benning Road, N.E., Corridor Retail Priority Area.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <para>
-      <num>(1)</num>
-      <text>Eligible development projects shall include businesses engaged in the sale of home furnishings, apparel, books, art, groceries, and general merchandise to specialized customers or service-oriented businesses providing a direct service to specialized customers or artistic endeavors, such as art galleries, theaters, or performing arts centers. Special consideration shall be given to businesses that include entrepreneurial and innovative retail elements.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Eligible retail development projects shall not include liquor stores, restaurants whose annual alcohol sales exceed 20%, nightclubs, phone stores, or businesses with 20 or more locations in the United States.</text>
-    </para>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>Eligibility for retail development projects shall include:</text>
-    <para>
-      <num>(1)</num>
-      <text>Site control of the property either through fee simple ownership of the site or through an executed contract or lease with the property owner;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Frontage on a commercial corridor within the H Street/Bladensburg Road/Benning Road, N.E., Corridor Retail Priority Area;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Repealed;</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>Execution of a First Source Agreement with the District’s Department of Employment Services; and</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>Adherence to design, construction, and rehabilitation requirements as defined by DMPED.</text>
-    </para>
-  </para>
-  <para>
-    <num>(d)</num>
-    <para>
-      <num>(1)</num>
-      <text>A grant made available under this section shall be divided into thirds or fourths and disbursed accordingly in allotments to a grantee.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <para>
-        <num>(A)</num>
-        <text>The Mayor shall request, and a grantee shall furnish, a receipt or receipts for the purpose of confirming that a grantee's expenditure of grant funds was allowable.</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Notwithstanding subparagraph (A) of this paragraph, unless the grantee fails to provide a receipt or receipts, the grantee's response shall not delay disbursement of the grantee's next allotment, except for the final allotment. Funds shall be made available to the grantee as quickly as possible.</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>Nothing in this paragraph shall be construed to authorize the expenditure of grant funds inconsistent with their purpose.</text>
-      </para>
-    </para>
-  </para>
+  <text>Repealed.</text>
   <annotations>
     <annotation doc="D.C. Law 18-354" type="History" path="§4">Apr. 8, 2011, D.C. Law 18-354, § 4, 58 DCR 754</annotation>
     <annotation doc="D.C. Law 19-168" type="History">Sept. 20, 2012, D.C. Law 19-168, § 2162(b), 59 DCR 8025</annotation>
@@ -95,5 +36,8 @@
     <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§2153" type="History" display="false"/>
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§2153" type="History"/>
     <annotation app="2018-06-05" doc="D.C. Law 22-105" eff="2018-06-05" path="§3|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7126|(a)|(3)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7126|(a)|(3)">§ 7126(a)(3) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7126|(a)|(3)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7126|(a)|(3)" type="History"/>
   </annotations>
 </section>

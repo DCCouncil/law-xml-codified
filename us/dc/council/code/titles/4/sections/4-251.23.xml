@@ -39,7 +39,7 @@
     </para>
     <para>
       <num>(5)</num>
-      <text>The close relative's annual household income (excluding Supplemental Security Income) is under 200% of the federally defined poverty level;</text>
+      <text>The close relative's annual household income (excluding Supplemental Security Income) is under 300% of the federally defined poverty level;</text>
     </para>
     <para>
       <num>(6)</num>
@@ -132,6 +132,10 @@
     <num>(i)</num>
     <text>The Mayor shall process an application for a subsidy with reasonable promptness. An applicant whose application has been approved shall receive the first subsidy payment within 45 days of being deemed eligible, unless a delay is caused by unusual circumstances beyond the Mayor's control.</text>
   </para>
+  <para>
+    <num>(j)</num>
+    <text>For purposes of determining eligibility and the amount of subsidy payments that a close relative is eligible to receive under <cite path="4|2A|II">this act</cite>, the Mayor shall exclude from consideration, for a period of no more than 60 months, any financial assistance received by the applicant from a benefits program, including from the Supplemental Nutrition Assistance Program and the Temporary Assistance for Needy Families program, or a research project that has developed a plan to study and evaluate the impact and potential benefits of direct cash transfers.</text>
+  </para>
   <annotations>
     <annotation path="§103" type="Emergency Legislation" history="false" app="2019-11-26" eff="2019-07-16" doc="D.C. Act 23-84">
           For temporary (90 days) creation of this section, see § 103 of Close Relative Caregiver Subsidy Pilot Program Establishment Emergency Amendment Act of 2019 (D.C. Act 23-84, July 16, 2019, 66 DCR 8274).
@@ -157,5 +161,9 @@
     <annotation app="2023-03-10" doc="D.C. Law 24-309" eff="2023-03-10" path="§4|(b)|(2)" type="History"/>
     <annotation app="2023-03-10" doc="D.C. Law 24-309" eff="2023-03-10" path="§4|(b)|(3)" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§5023|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§5053|(a)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§5053|(a)">§ 5053(a) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§5053|(a)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§5053|(a)|(1)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§5053|(a)|(2)" type="History"/>
   </annotations>
 </section>

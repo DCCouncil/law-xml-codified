@@ -1,14 +1,111 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-2067.03</num>
   <heading proof="needed">Membership.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>The composition of the Advisory Council shall be as follows:</text>
+    <para>
+      <num>(1)</num>
+      <text>Up to 6 resident-owner representatives, each of whom who is currently a board member of an LEC in the District; provided, that no 2 residents shall be from the board of the same LEC;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Two representatives from a community-based organization, including:</text>
+      <para>
+        <num>(A)</num>
+        <text>One of whom has experience in the formation of LECs, including the legal and organizational structure of the LEC; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>One of whom has experience in ongoing technical assistance required to sustain LECs;</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>One representative from a property management company that manages cooperatives in the District;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>One representative from a development company that develops cooperatives in the District;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>One representative from a financial entity that specializes in the financing of LECs;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>One attorney who has experience working with LECs;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>One individual who has conducted significant academic research on LECs in the District and elsewhere in the United States;</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>Other representatives appointed by the Chairperson of the Council committee responsible for housing issues;</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>One representative from the Department of Housing and Community</text>
+      <text>Development ("DHCD"); and</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>One representative from the District of Columbia Housing Finance Agency.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The Chairperson of the Council committee responsible for housing issues shall appoint the:</text>
+    <para>
+      <num>(1)</num>
+      <text>Chair of the Advisory Council; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Advisory Council representatives designated in subsection (a)(1) through (8) of this section.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>The members of the Advisory Council shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Serve for a period of 2 years;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Either reside or work in the District; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Serve without compensation.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>Meetings of the Advisory Council shall be open to the public.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>The Advisory Council shall meet at least 6 times each year.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>The Advisory Council may request administrative support from the Director of DHCD, who shall provide support as the Director of DHCD and not as a member of the Advisory Council for all such reasonable requests to prepare for the required reports and meetings of the Advisory Council.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§42-2067.03" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-2067.03">Applicability of <cite doc="D.C. Law 24-243" path="">D.C. Law 24-243</cite>: <cite doc="D.C. Law 24-243" path="§6">§ 6 of D.C. Law 24-243</cite> provided that the creation of this section by <cite doc="D.C. Law 24-243" path="§4">§ 4 of D.C. Law 24-243</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2023-02-23" doc="D.C. Law 24-243" eff="2023-02-23" path="" type="History" display="false"/>
-    <annotation app="2023-02-23" doc="D.C. Law 24-243" eff="2023-02-23" path="§6|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-243" eff="2023-02-23" path="§4" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-243" path="§4" codified:display="Note" app="2023-02-23" eff="2023-02-23">Applicability of <cite doc="D.C. Law 24-243" path="">D.C. Law 24-243</cite>: <cite doc="D.C. Law 24-243" path="§6">§ 6 of D.C. Law 24-243</cite> provided that the creation of this section by <cite doc="D.C. Law 24-243" path="§4">§ 4 of D.C. Law 24-243</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-02-23" doc="D.C. Law 24-243" eff="2023-02-23" path="§4" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-243" path="§4" codified:display="Note" app="2023-02-23" eff="2023-02-23">Applicability of <cite doc="D.C. Law 24-243" path="">D.C. Law 24-243</cite>: <cite doc="D.C. Law 24-243" path="§6">§ 6 of D.C. Law 24-243</cite> provided that the creation of this section by <cite doc="D.C. Law 24-243" path="§4">§ 4 of D.C. Law 24-243</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7283" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7283">§ 7283 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7283" type="History" display="false"/>
+    <annotation doc="D.C. Act 25-506" path="§7283" type="Applicability" history="false" app="2024-07-15" eff="2024-07-15"><cite doc="D.C. Act 25-506" path="§7283">Section 7283 of D.C. Act 25-506</cite> repealed <cite doc="D.C. Law 24-243" path="§6">section 6 of D.C. Law 24-243</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 6 of Law 24-243 has been implemented.
+        </annotation>
+    <annotation doc="D.C. Law 25-217" path="§7283" type="Applicability" history="false" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-218" path="§7283">Section 7283 of D.C. Law 25-218</cite> repealed <cite doc="D.C. Law 24-243" path="§6">section 6 of D.C. Law 24-243</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 6 of Law 24-243 has been implemented.
+        </annotation>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7283" type="History" display="false"/>
   </annotations>
 </section>

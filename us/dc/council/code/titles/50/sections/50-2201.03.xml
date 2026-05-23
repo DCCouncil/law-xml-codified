@@ -191,9 +191,9 @@
         <num>(I)</num>
         <text>Commercial vehicles having the characteristics specified [in] <cite path="§47-2352|(c)">§ 47-2352(c)</cite> that are owned or leased by a company with an established place of business (as defined in <cite path="§47-2302|(13)">§ 47-2302(13)</cite>) located within the District of Columbia, if such vehicles are used to furnish a commodity or service; provided, that, the receipts from furnishing such commodity or service are subject to a gross receipts or mileage tax in force in the District of Columbia at the time a certificate of title is issued for the vehicle;</text>
       </para>
-      <para>
+      <para placeholder="Repealed">
         <num>(J)</num>
-        <text>Electric vehicles;</text>
+        <text>Repealed.</text>
       </para>
       <para>
         <num>(K)</num>
@@ -224,6 +224,10 @@
         <text>Vehicles designated as junk or salvage pursuant to <cite path="50|13A">Chapter 13A of this title</cite> [<cite path="§50-1331.01">§ 50-1331.01</cite> et seq.].</text>
       </para>
     </para>
+    <para>
+      <num>(4)</num>
+      <text>The Department of Motor Vehicles shall publish and maintain publicly available information to help residents understand vehicle excise tax rates and how they might affect the cost of obtaining a title in the District.</text>
+    </para>
   </para>
   <para>
     <num>(k)</num>
@@ -241,7 +245,7 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>The owner of an immobilized vehicle shall be subject to a booting fee of $75 for such immobilization.</text>
+      <text>The owner of an immobilized vehicle shall be subject to a booting fee of no less than $100 for such immobilization.</text>
     </para>
     <para>
       <num>(5)</num>
@@ -420,8 +424,15 @@
     <annotation app="2022-09-21" doc="D.C. Law 24-176" eff="2022-09-21" path="§4" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 25-161" path="§4|(b)" codified:display="Note" app="2024-04-20" eff="2024-04-20">Applicability of <cite doc="D.C. Law 25-161" path="">D.C. Law 25-161</cite>: <cite doc="D.C. Law 25-161" path="§8">§ 8 of D.C. Law 25-161</cite> provided that the change made to this section by <cite doc="D.C. Law 25-161" path="§4|(b)">§ 4(b) of D.C. Law 25-161</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§4|(b)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 25-161" eff="2024-04-20" path="§8|(a)" type="History" display="false"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§8|(a)" type="History" display="false"/>
     <annotation app="notfunded" doc="D.C. Law 25-161" eff="2024-04-20" path="§4|(b)|(1)" type="History"/>
     <annotation app="notfunded" doc="D.C. Law 25-161" eff="2024-04-20" path="§4|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§6072|(b)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§6072|(b)">§ 6072(b) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§6072|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§6093" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§6093">§ 6093 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§6093" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6072|(a)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6072|(b)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6093" type="History"/>
   </annotations>
 </section>

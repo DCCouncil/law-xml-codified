@@ -1,18 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>47-4660</num>
-  <heading>GALA Hispanic Theatre; Lot 79, Square 2837.</heading>
+  <heading proof="needed">GALA Hispanic Theatre; Lot 79, Square 2837.</heading>
   <para>
     <num>(a)</num>
-    <text>Real property taxes assessed against Lot 79, Square 2837 in excess of the amount of taxes levied for tax year 2005 shall be abated to the extent that the excess is allocable to the portion of the property leased to the Grupo de Artistas Latinoamericanos, G.A.L.A., Inc., also known as the GALA Hispanic Theatre (“GALA”), under the terms of its lease, so long as such portion is leased to GALA and is used for the purpose of producing and staging live theatre performances; provided, that the benefit of this abatement shall be passed on to GALA in the form of reduced rent equal to the amount of the abatement.</text>
+    <text>The real property taxes paid with respect to Square 2837, Lot 0079 shall be rebated to Grupo de Artistas Latinoamericanos, G.A.L.A., Inc., also known as the GALA Hispanic Theatre ("GALA"); provided, that:</text>
+    <para>
+      <num>(1)</num>
+      <text>GALA is liable under the lease for its proportionate share of the real property tax;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>During the applicable tax year, GALA actually occupies the space in the building in Square 2837, Lot 0079 that it has leased from the lessor</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Except as provided in subsection (e) of this section, GALA applies for the rebate of real property tax by September 15 of the calendar year in which the tax was payable as provided under <cite path="§47-811">§ 47-811</cite>; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The real property tax was paid.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
-    <text>Both GALA and its landlord shall provide to the Office of Tax and Revenue (“OTR”), at the time and in the manner directed by OTR, the information as OTR may consider necessary to determine the amount of the abatement allowable for a taxable year and to verify eligibility for the abatement.</text>
+    <text>The rebate shall be the amount of the portion of the real property tax that was paid, directly or indirectly, by GALA under its lease with the lessor; provided, that this amount shall not exceed the extent of GALA's proportionate share of the real property tax incurred as reasonably allocated in relation to the net rentable area of the leased space.</text>
   </para>
   <para>
     <num>(c)</num>
-    <text>The abatement provided under this section shall apply beginning with tax year 2011. If the property becomes ineligible for the abatement, the abatement shall end at the beginning of the month following the month that the property becomes ineligible.</text>
+    <text>The application for the rebate shall include:</text>
+    <para>
+      <num>(1)</num>
+      <text>A copy of the lease with lessor;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A description of the real property's total net rentable area and the portion leased to GALA; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Documentation that the real property tax has been paid.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>If a proper application has been made, the Chief Financial Officer shall rebate the tax on or before December 31 of the same calendar year in which the tax was paid.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>The rebate provided by this section shall be available for tax years beginning after September 30, 2024; except, that GALA may, on or before September 15, 2025, apply for a rebate of its proportionate share of real property tax that it paid with respect to tax year 2024, and, if a proper application has been made and GALA meets the eligibility criteria provided in this section, the Chief Financial Officer shall rebate such amount on or before December 31, 2025.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>The rebate provided pursuant to this section shall be in addition to, and not in lieu of, any other tax, financial, or development incentive, or tax credit, or any other type of incentive provided to GALA under any District or federal program.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 20-61" type="History">Dec. 24, 2013, D.C. Law 20-61, § 7072(b), 60 DCR 12472</annotation>
@@ -20,5 +61,6 @@
     <annotation type="Short Title">Section 7071 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that Subtitle G of Title VII of the act may be cited as the “GALA Hispanic Theatre Real Property Tax Abatement Act of 2013”.</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) addition of this section, see § 7072 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013,  60 DCR 15341, 20 DCSTAT 2311).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) addition of this section, see § 7072 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013,  60 DCR 11384, 20 DCSTAT 1827).</annotation>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7252" type="History"/>
   </annotations>
 </section>

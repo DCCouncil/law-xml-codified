@@ -1,14 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-2067.01</num>
   <heading proof="needed">Definitions.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>For the purposes of <cite path="42|20A|II">this subchapter</cite>, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>"Advisory Council" means the Limited Equity Cooperative Advisory Council established by <cite path="§42-2067.02">§ 42-2067.02</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Cooperative" shall have the same meaning as given in <cite path="§42-2061|(1)">§ 42-2061(1)</cite>.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Limited-Equity cooperative" or "LEC" shall have the same meaning as in <cite path="§47-802|(11)">§ 47-802(11)</cite>.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§42-2067.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-2067.01">Applicability of <cite doc="D.C. Law 24-243" path="">D.C. Law 24-243</cite>: <cite doc="D.C. Law 24-243" path="§6">§ 6 of D.C. Law 24-243</cite> provided that the creation of this section by <cite doc="D.C. Law 24-243" path="§2">§ 2 of D.C. Law 24-243</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2023-02-23" doc="D.C. Law 24-243" eff="2023-02-23" path="" type="History" display="false"/>
-    <annotation app="2023-02-23" doc="D.C. Law 24-243" eff="2023-02-23" path="§6|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-243" eff="2023-02-23" path="§2" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-243" path="§2" codified:display="Note" app="2023-02-23" eff="2023-02-23">Applicability of <cite doc="D.C. Law 24-243" path="">D.C. Law 24-243</cite>: <cite doc="D.C. Law 24-243" path="§6">§ 6 of D.C. Law 24-243</cite> provided that the creation of this section by <cite doc="D.C. Law 24-243" path="§2">§ 2 of D.C. Law 24-243</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-02-23" doc="D.C. Law 24-243" eff="2023-02-23" path="§2" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-243" path="§2" codified:display="Note" app="2023-02-23" eff="2023-02-23">Applicability of <cite doc="D.C. Law 24-243" path="">D.C. Law 24-243</cite>: <cite doc="D.C. Law 24-243" path="§6">§ 6 of D.C. Law 24-243</cite> provided that the creation of this section by <cite doc="D.C. Law 24-243" path="§2">§ 2 of D.C. Law 24-243</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7283" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7283">§ 7283 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7283" type="History" display="false"/>
+    <annotation doc="D.C. Act 25-506" path="§7283" type="Applicability" history="false" app="2024-07-15" eff="2024-07-15"><cite doc="D.C. Act 25-506" path="§7283">Section 7283 of D.C. Act 25-506</cite> repealed <cite doc="D.C. Law 24-243" path="§6">section 6 of D.C. Law 24-243</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 6 of Law 24-243 has been implemented.
+        </annotation>
+    <annotation doc="D.C. Law 25-217" path="§7283" type="Applicability" history="false" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-218" path="§7283">Section 7283 of D.C. Law 25-218</cite> repealed <cite doc="D.C. Law 24-243" path="§6">section 6 of D.C. Law 24-243</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 6 of Law 24-243 has been implemented.
+        </annotation>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7283" type="History" display="false"/>
   </annotations>
 </section>

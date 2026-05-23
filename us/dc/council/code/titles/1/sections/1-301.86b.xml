@@ -1,12 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-301.86b</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on January 12, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-301.86b(Perm)">Prior Permanent Version</cite>.*
-      </text>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 6, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-301.86b(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Litigation Support Fund.</heading>
   <para>
     <num>(a)</num>
@@ -85,7 +79,7 @@
       <num>(3)</num>
       <para>
         <num>(A)</num>
-        <text>The balance in the Fund, including interest earned, shall not exceed $27 million.  Any funds in excess of $27 million shall revert at the end of a fiscal year to the unrestricted fund balance of the General Fund of the District of Columbia.</text>
+        <text>At the end of each fiscal year, any funds in excess of $23.5 million shall revert to the unrestricted fund balance of the General Fund of the District of Columbia.</text>
       </para>
       <para placeholder="Repealed">
         <num>(B)</num>
@@ -119,7 +113,19 @@
   </para>
   <para>
     <num>(g)</num>
-    <text>Notwithstanding any other provision of law, $25,000,000 of the amount received by the District in Fiscal Year 2024 in settlement of <em>District of Columbia v. Michael J Saylor and MicroStrategy, Inc.</em>, Superior Court of the District of Columbia Case No. 2021 CA 001319 B, and deposited into the Fund pursuant to subsection (b)(1) of this section shall be recorded as local fund revenue and shall be made available as set forth in the Fiscal Year 2025 Budget and Financial Plan.</text>
+    <text>Notwithstanding any other provision of law, $25,000,000 of the amount received by the District in Fiscal Year 2024 in settlement of <em>District of Columbia et al. v. Michael J Saylor et al.</em>, Superior Court of the District of Columbia Case No. 2021 CA 001319 B, and deposited into the Fund pursuant to subsection (b)(1) of this section shall be recorded as local fund revenue and shall be made available as set forth in the Fiscal Year 2025 Budget and Financial Plan.</text>
+  </para>
+  <para>
+    <num>(h)</num>
+    <text>Notwithstanding any other provision of law, beginning in Fiscal Year 2025, the amounts received, less attorneys' fees, by the District in settlement of <em>District of Columbia v. JUUL Labs, Inc. et al.</em>, Superior Court of the District of Columbia Case No. 2019 CA 007795 B, and deposited into the Fund pursuant to subsection (b)(1) of this section shall be allocated as follows:</text>
+    <para>
+      <num>(1)</num>
+      <text>50% shall be used for the authorized purposes of the Fund, pursuant to subsection (c) of this section; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>50% shall be transferred to the Tobacco Use Cessation Fund, established by <cite path="§[7-736.05]">§ [7-736.05]</cite>, to be used for the authorized purposes of that fund.</text>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 18-160" type="History" path="§106b">May 27, 2010, D.C. Law 18-160, §  106b</annotation>
@@ -191,12 +197,16 @@
     <annotation app="2024-01-23" doc="D.C. Law 25-109" eff="2024-01-23" path="§3" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-436" path="§2" codified:display="Note" app="2024-03-29" eff="2024-03-29">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-436" path="§2">§ 2 of Litigation Support Fund Emergency Amendment Act of 2024 (D.C. Act 25-436, Mar. 29, 2024, 71 DCR 4116)</cite>.</annotation>
     <annotation app="2024-03-29" doc="D.C. Act 25-436" eff="2024-03-29" path="§2" type="History" display="false"/>
-    <annotation app="2024-06-01" doc="D.C. Law 25-171" eff="2024-06-01" path="§2" type="History" display="false"/>
-    <annotation app="2024-06-01" doc="D.C. Law 25-171" eff="2024-06-01" path="§2|(a)" type="History"/>
-    <annotation app="2024-06-01" doc="D.C. Law 25-171" eff="2024-06-01" path="§2|(b)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-171" path="§2" codified:display="Note" app="2024-06-01" eff="2024-06-01">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-171" path="§2">§ 2 of Litigation Support Fund Temporary Amendment Act of 2024 (D.C. Law 25-171, June 1, 2024, 71 DCR 4654)</cite>.</annotation>
-    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§19|(a)" type="History" display="false"/>
-    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§19|(a)" type="History"/>
+    <annotation app="2024-06-01" doc="D.C. Law 25-171" eff="2024-06-01" path="§2" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-499" path="§19|(a)" codified:display="Note" app="2024-07-08" eff="2024-07-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-499" path="§19|(a)">§ 19(a) of Fiscal Year 2024 Revised Local Budget Adjustment Emergency Act of 2024 (D.C. Act 25-499, July 8, 2024, 71 DCR 7957)</cite>.</annotation>
+    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§19|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§1082|(c)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§1082|(c)">§ 1082(c) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§1082|(c)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-208" path="§19|(a)" codified:display="Note" app="2024-09-18" eff="2024-09-18">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-208" path="§19|(a)">§ 19(a) of Fiscal Year 2024 Revised Local Budget Adjustment Temporary Act of 2024 (D.C. Law 25-208, Sept. 18, 2024, 71 DCR 9914)</cite>.</annotation>
+    <annotation app="2024-09-18" doc="D.C. Law 25-208" eff="2024-09-18" path="§19|(a)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1082|(a)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1082|(b)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1082|(c)" type="History"/>
   </annotations>
 </section>

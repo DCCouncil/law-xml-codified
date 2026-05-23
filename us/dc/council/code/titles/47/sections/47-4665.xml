@@ -203,9 +203,9 @@
         <text>$1 million.</text>
       </para>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(2)</num>
-      <text>The amount of the rebate calculated pursuant to paragraph (1) of this subsection shall be reduced by the amount of any grant received by the occupant or by a directly related entity pursuant to <cite path="§1-325.172|(c)|(4)">[§ 1-325.172(c)(4)]</cite>, as certified by the Mayor to the Office of Tax and Revenue.</text>
+      <text>[Repealed].</text>
     </para>
     <para>
       <num>(3)</num>
@@ -260,7 +260,14 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>The Mayor shall review the occupant's eligibility certification application. If the Mayor determines that the occupant has proposed to furnish a public benefit and that the tenant is otherwise eligible, the Mayor shall certify the tenant's eligibility to receive a rebate pursuant to this section.  The certification shall be made before the date of occupancy commencement or within 45 days after the eligibility certification application is received, whichever is later in time.</text>
+      <para>
+        <num>(A)</num>
+        <text>The Mayor shall review the occupant's eligibility certification application.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>If the Mayor determines that the occupant has proposed to furnish a public benefit and that the tenant is otherwise eligible, the Mayor may certify the tenant's eligibility to receive a rebate pursuant to this section.</text>
+      </para>
     </para>
     <para>
       <num>(3)</num>
@@ -274,6 +281,10 @@
       <num>(5)</num>
       <text>If at any time the Mayor determines that an occupant has become ineligible for a rebate under this section, either for failure to make substantial progress toward furnishing a public benefit or for some other reason, the Mayor immediately shall notify the Office of Tax and Revenue and thereafter the Office of Tax and Revenue shall not pay to the tenant any rebate pursuant to this section.</text>
     </para>
+  </para>
+  <para>
+    <num>(e-1)</num>
+    <text>This section does not establish a right to receive a tax rebate under this section, and the Mayor may decline to accept or review applications for certification at any point in time.</text>
   </para>
   <para>
     <num>(f)</num>
@@ -305,5 +316,12 @@
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2053|(c)|(1)" type="History"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2053|(c)|(2)" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2072" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§2082" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§2082">§ 2082 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§2082" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7126|(b)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7126|(b)">§ 7126(b) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7126|(b)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7126|(b)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2082|(a)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2082|(b)" type="History"/>
   </annotations>
 </section>

@@ -172,12 +172,12 @@
       <para codify:path="(5)">
         <num>(1)</num>
         <text>Paragraph (5) is repealed.</text>
-        <codify:repeal codified:doc="D.C. Code" codified:path="§1-325.171|(5)"/>
+        <codify:repeal codified:doc="D.C. Code" codified:path="§1-325.171"/>
       </para>
       <para codify:path="(6)">
         <num>(2)</num>
         <text>Paragraph (6) is amended by striking the phrase "H Street, N.E. Retail Priority Area" and inserting the phrase "H Street/Bladensburg Road/Benning Road, N.E., Corridor Retail Priority Area" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-325.171|(6)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-325.171">
           <find>H Street, N.E., Retail Priority Area</find>
           <replace>H Street/Bladensburg Road/Benning Road, N.E., Corridor Retail Priority Area</replace>
         </codify:find-replace>
@@ -186,7 +186,7 @@
     <para codify:path="§1-325.172|(c)|(3)">
       <num>(b)</num>
       <text>Section 3(c)(3) (D.C. Official Code § 1-325.172(c)(3)) is amended by striking the phrase "September 30, 2017" and inserting the phrase "September 30, 2018" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-325.172|(c)|(3)">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-325.172">
         <find>September 30, 2017</find>
         <replace>September 30, 2018</replace>
       </codify:find-replace>

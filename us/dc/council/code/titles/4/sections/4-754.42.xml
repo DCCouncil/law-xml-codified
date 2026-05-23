@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-754.42</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 13, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-754.42(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Administrative review.</heading>
   <para>
     <num>(a)</num>
@@ -93,8 +90,10 @@
     <annotation app="2018-02-28" doc="D.C. Law 22-65" eff="2018-02-28" path="§2|(dd)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-499" path="§11|(e)" codified:display="Note" app="2024-07-08" eff="2024-07-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-499" path="§11|(e)">§ 11(e) of Fiscal Year 2024 Revised Local Budget Adjustment Emergency Act of 2024 (D.C. Act 25-499, July 8, 2024, 71 DCR 7957)</cite>.</annotation>
     <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§11|(e)" type="History" display="false"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§5062|(e)" type="History" display="false"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§5062|(e)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§5062|(e)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§5062|(e)">§ 5062(e) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§5062|(e)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-208" path="§11|(e)" codified:display="Note" app="2024-09-18" eff="2024-09-18">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-208" path="§11|(e)">§ 11(e) of Fiscal Year 2024 Revised Local Budget Adjustment Temporary Act of 2024 (D.C. Law 25-208, Sept. 18, 2024, 71 DCR 9914)</cite>.</annotation>
+    <annotation app="2024-09-18" doc="D.C. Law 25-208" eff="2024-09-18" path="§11|(e)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§5062|(e)" type="History"/>
   </annotations>
 </section>

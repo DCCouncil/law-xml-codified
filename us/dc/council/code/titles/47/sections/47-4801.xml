@@ -28,16 +28,32 @@
     <text>“District of Columbia low-income housing tax credit” means the tax credit established by <cite path="§47-4802">§ 47-4802</cite> pursuant to the Low-Income Housing Tax Credit Program.</text>
   </para>
   <para>
+    <num>(5A)</num>
+    <text>"Eligible project" means a rental housing development in the District that includes:</text>
+    <para>
+      <num>(A)</num>
+      <text>More than 5 housing units; and</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Units that will be affordable to tenants at an income level no greater than 80% of MFI.</text>
+    </para>
+  </para>
+  <para>
     <num>(6)</num>
     <text>"Federal low-income housing tax credit" means a tax credit claimed pursuant to section 42 of the Internal Revenue Code of 1986, approved October 22, 1986 (100 Stat. 2085; 26 U.S.C. § 42) (“1986 Internal Revenue Code”).</text>
+  </para>
+  <para>
+    <num>(6A)</num>
+    <text>"MFI" means the median family income for a household in the Washington Metropolitan Statistical Area as set forth in the periodic calculation provided by the United States Department of Housing and Urban Development ("HUD"), adjusted for family size, without regard to any adjustments made by HUD for the purposes of the programs it administers.</text>
   </para>
   <para placeholder="Repealed">
     <num>(7)</num>
     <text>[Repealed].</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(8)</num>
-    <text>"Qualified project" means a rental housing development in the District that receives an allocation of federal low-income housing tax credits under 26 U.S.C. § 42(h)(1) or (4) after October 1, 2021, and with respect to which an extended low-income housing commitment pursuant to 26 U.S.C. § 42(h)(6)(B) between the owner of the rental housing development and the Department is executed on or after October 1, 2021.</text>
+    <text>[Repealed].</text>
   </para>
   <para>
     <num>(9)</num>
@@ -55,5 +71,10 @@
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7202|(b)|(4)" type="History"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7202|(b)|(5)" type="History"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2212|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§2162|(a)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§2162|(a)">§ 2162(a) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§2162|(a)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2162|(a)|(1)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2162|(a)|(2)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2162|(a)|(3)" type="History"/>
   </annotations>
 </section>

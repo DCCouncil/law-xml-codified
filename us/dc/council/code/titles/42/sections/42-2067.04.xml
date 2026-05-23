@@ -1,14 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-2067.04</num>
   <heading proof="needed">Duties of the Advisory Council.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>Each calendar year, the Advisory Council shall submit to the Council a 6-month preliminary report and an annual comprehensive report on:</text>
+    <para>
+      <num>(1)</num>
+      <text>Policy and legislative recommendations related to how the District can help stabilize, strengthen, and preserve existing LECs, as well as how the District can best support the formation of new LECs;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Funding options and sources to assist in the formation of new LECs and to provide technical support and assistance to LEC members and LEC boards in the District;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>How to establish appropriate government oversight to ensure that LEC boards have the necessary financial and structural management resources to help them succeed and prosper; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Any other identified needs or requirements for the successful formation and</text>
+    </para>
+    <aftertext proof="needed">preservation of LECs in the District.</aftertext>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§42-2067.04" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-2067.04">Applicability of <cite doc="D.C. Law 24-243" path="">D.C. Law 24-243</cite>: <cite doc="D.C. Law 24-243" path="§6">§ 6 of D.C. Law 24-243</cite> provided that the creation of this section by <cite doc="D.C. Law 24-243" path="§5">§ 5 of D.C. Law 24-243</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2023-02-23" doc="D.C. Law 24-243" eff="2023-02-23" path="" type="History" display="false"/>
-    <annotation app="2023-02-23" doc="D.C. Law 24-243" eff="2023-02-23" path="§6|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-243" eff="2023-02-23" path="§5" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-243" path="§5" codified:display="Note" app="2023-02-23" eff="2023-02-23">Applicability of <cite doc="D.C. Law 24-243" path="">D.C. Law 24-243</cite>: <cite doc="D.C. Law 24-243" path="§6">§ 6 of D.C. Law 24-243</cite> provided that the creation of this section by <cite doc="D.C. Law 24-243" path="§5">§ 5 of D.C. Law 24-243</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-02-23" doc="D.C. Law 24-243" eff="2023-02-23" path="§5" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-243" path="§5" codified:display="Note" app="2023-02-23" eff="2023-02-23">Applicability of <cite doc="D.C. Law 24-243" path="">D.C. Law 24-243</cite>: <cite doc="D.C. Law 24-243" path="§6">§ 6 of D.C. Law 24-243</cite> provided that the creation of this section by <cite doc="D.C. Law 24-243" path="§5">§ 5 of D.C. Law 24-243</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7283" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7283">§ 7283 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7283" type="History" display="false"/>
+    <annotation doc="D.C. Act 25-506" path="§7283" type="Applicability" history="false" app="2024-07-15" eff="2024-07-15"><cite doc="D.C. Act 25-506" path="§7283">Section 7283 of D.C. Act 25-506</cite> repealed <cite doc="D.C. Law 24-243" path="§6">section 6 of D.C. Law 24-243</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 6 of Law 24-243 has been implemented.
+        </annotation>
+    <annotation doc="D.C. Law 25-217" path="§7283" type="Applicability" history="false" app="2024-09-18" eff="2024-09-18"><cite doc="D.C.Law 25-218" path="§7283">Section 7283 of D.C. Law 25-218</cite> repealed <cite doc="D.C. Law 24-243" path="§6">section 6 of D.C. Law 24-243</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 6 of Law 24-243 has been implemented.
+        </annotation>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7283" type="History" display="false"/>
   </annotations>
 </section>

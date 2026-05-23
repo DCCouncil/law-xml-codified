@@ -706,6 +706,15 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>III-A</num>
+      <heading>Central Washington Activation Projects.</heading>
+      <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="II|F" type="History" display="false"/>
+      <xi:include href="./sections/47-870.xml"/>
+      <xi:include href="./sections/47-870.01.xml"/>
+      <xi:include href="./sections/47-870.02.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Condominium and Cooperative Trash Collection Tax Credit.</heading>
       <xi:include href="./sections/47-871.xml"/>
@@ -914,7 +923,8 @@
     <xi:include href="./sections/47-1099.10.xml"/>
     <xi:include href="./sections/47-1099.11.xml"/>
     <xi:include href="./sections/47-1099.12.xml"/>
-    <xi:include href="./sections/[47-1099.13].xml"/>
+    <xi:include href="./sections/47-1099.13.xml"/>
+    <xi:include href="./sections/47-1099.14.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1290,6 +1300,7 @@
       <xi:include href="./sections/47-1805.01.xml"/>
       <xi:include href="./sections/47-1805.02.xml"/>
       <xi:include href="./sections/47-1805.02a.xml"/>
+      <xi:include href="./sections/47-1805.02b.xml"/>
       <xi:include href="./sections/47-1805.03.xml"/>
       <xi:include href="./sections/47-1805.04.xml"/>
       <xi:include href="./sections/47-1805.05.xml"/>
@@ -1328,6 +1339,7 @@
       <xi:include href="./sections/47-1806.14.xml"/>
       <xi:include href="./sections/47-1806.15.xml"/>
       <xi:include href="./sections/47-1806.16.xml"/>
+      <xi:include href="./sections/47-1806.17.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -2903,6 +2915,7 @@
     <xi:include href="./sections/47-4678.xml"/>
     <xi:include href="./sections/47-4679.xml"/>
     <xi:include href="./sections/47-4680.xml"/>
+    <xi:include href="./sections/47-4681.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

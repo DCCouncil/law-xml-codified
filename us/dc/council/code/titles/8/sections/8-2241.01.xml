@@ -1,14 +1,69 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-2241.01</num>
   <heading proof="needed">Definitions.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>For purposes of this act, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>" Bird friendly materials" means a material or assembly that has been designed or treated to have a maximum material threat factor of 30.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Bird hazard installations" means monolithic glazing installations that provide a clear line of sight or mirrored surface on the exterior of buildings, including, awnings, handrails and guards, wind break panels, bus shelter enclosures, skywalk enclosures, and acoustic barriers made of glass or glass-like materials.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Commercial building" means income-producing property as identified under zoning classifications that would allow for such uses as office buildings, retail stores, restaurants, bars, taverns, and service facilities pursuant to Title 11 of the District of Columbia Municipal Regulations (11 DCMR § 100.1  <em>et seq</em>.).</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"Fly-through conditions" means one or more panels of glass or glass-like materials that provide a clear line of sight through such elements, creating the illusion of a void leading to the other side, including parallel glass or glass-like material elements when the distance between such elements is 60 feet or less, or a convergence of sides made of glass or glass-like materials creating a perpendicular, acute, or obtuse corner.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"Glass or glass-like materials" includes tempered glass, spandrel glass, plexiglass, mirrored products, polished metal, or other glass materials or materials that are transparent or highly reflective.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <para>
+        <num>(A)</num>
+        <text>"Institutional facility" means a facility owned or operated by an organization with a social, charitable, educational, or civic purpose. The term "institutional facility" includes schools, universities, laboratories, medical and healthcare facilities, residential care facilities and nursing homes, athletic facilities, penal institutions, galleries, performance venues, and museums.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The term "institutional facility" does not include churches, mosques, temples, or other houses of worship.</text>
+      </para>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>"Material threat factor" means a measure of a bird's ability to see and avoid a building material; provided, that such measure shall be in accordance with the American Bird Conservancy's Threat Factor Database or with the American Bird Conservancy's Bird-friendly Materials Evaluation Program test protocol.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>"Multi-unit residential building" means a residential building with 5 or more dwelling units.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>"Skywalk" means any above-grade enclosed walkway of any dimension that connects 2 or more buildings or parts of a building.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>"Substantially all" means 75% or more.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§8-2241.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-2241.01">Applicability of <cite doc="D.C. Law 24-337" path="">D.C. Law 24-337</cite>: <cite doc="D.C. Law 24-337" path="§6">§ 6 of D.C. Law 24-337</cite> provided that the creation of this section by <cite doc="D.C. Law 24-337" path="§2">§ 2 of D.C. Law 24-337</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 24-337" eff="2023-03-22" path="§6|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-337" eff="2023-03-22" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-337" eff="2023-03-22" path="§2" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 24-337" path="§2" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-337" path="">D.C. Law 24-337</cite>: <cite doc="D.C. Law 24-337" path="§6">§ 6 of D.C. Law 24-337</cite> provided that the creation of this section by <cite doc="D.C. Law 24-337" path="§2">§ 2 of D.C. Law 24-337</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-03-22" doc="D.C. Law 24-337" eff="2023-03-22" path="" type="History" display="false"/>
     <annotation app="2023-03-22" doc="D.C. Law 24-337" eff="2023-03-22" path="§2" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-337" path="§2" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-337" path="">D.C. Law 24-337</cite>: <cite doc="D.C. Law 24-337" path="§6">§ 6 of D.C. Law 24-337</cite> provided that the creation of this section by <cite doc="D.C. Law 24-337" path="§2">§ 2 of D.C. Law 24-337</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7287" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7287">§ 7287 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7287" type="History" display="false"/>
+    <annotation doc="D.C. Act 25-506" path="§7287" type="Applicability" history="false" app="2024-07-15" eff="2024-07-15"><cite doc="D.C. Act 25-506" path="§7287">Section 7287 of D.C. Act 25-506</cite> repealed <cite doc="D.C. Law 24-337" path="§6">section 6 of D.C. Law 24-337</cite> removing the applicability provision impacting this section. Therefore the amendment of this section by section 6 of Law 24-337 has been implemented.
+        </annotation>
+    <annotation doc="D.C. Law 25-217" path="§7287" type="Applicability" history="false" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-218" path="§7287">Section 7287 of D.C. Law 25-218</cite> repealed <cite doc="D.C. Law 24-337" path="§6">section 6 of D.C. Law 24-337</cite> removing the applicability provision impacting this section. Therefore the amendment of this section by section 6 of Law 24-337 has been implemented.
+        </annotation>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7287" type="History" display="false"/>
   </annotations>
 </section>

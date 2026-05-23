@@ -297,9 +297,52 @@
     <num>(k)</num>
     <text>The Department of Motor Vehicles shall, upon request, provide to the electric company a registered owner’s address, zip code, and make and model of electric vehicles registered in the District. This information shall be transferred to the electric company for use in planning for the availability and reliability of the electric power supply upon a vehicle being registered with the Department of Motor Vehicles; provided, that the electric company shall not publish or re-disclose to any persons, including affiliates of the electric company, information about the registered electric vehicle owner, nor can the transferred information be used for any purpose except as set forth in this section.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(l)</num>
-    <text>Not Funded.</text>
+    <para>
+      <num>(1)</num>
+      <text>Upon receipt of a report for a stolen motor vehicle registered in the District that MPD reasonably believes to be true, MPD shall transmit the following information to the District Department of Transportation ("DDOT"), the Department of Motor Vehicles ("DMV"), and the Department of Public Works ("DPW") within 5 business days:</text>
+      <para>
+        <num>(A)</num>
+        <text>The name, contact information, and driver's license number or identification card number of the stolen motor vehicle's owner;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The make, model, year, vehicle identification number, and plate number of the stolen motor vehicle; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The dates during which the motor vehicle was or is alleged to have been stolen.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>If, after transmitting information as described in paragraph (1) of this subsection, the MPD subsequently determines that it no longer reasonably believes a report of a stolen motor vehicle to be true, it shall notify the DMV of that determination within 5 business days.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>DDOT shall not issue a notice of infraction for a moving violation detected by the automated traffic enforcement system authorized pursuant to <cite path="§50-2209.01|(a)">§ 50-2209.01(a)</cite> if:</text>
+      <para>
+        <num>(A)</num>
+        <text>DDOT has received notice that the motor vehicle captured by the automated traffic enforcement system was stolen at the time of the violation as described in paragraph (1) of this subsection; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>MPD has not subsequently notified the DMV that it no longer reasonably believes the report of a stolen motor vehicle to be true.</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>DPW shall not issue a notice of infraction for any parking violation detected by a District agency if:</text>
+      <para>
+        <num>(A)</num>
+        <text>DPW has received notice that the motor vehicle was stolen at the time of the violation under paragraph (1) of this subsection; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>MPD has not subsequently notified DPW that it no longer reasonably believes the report of a stolen motor vehicle to be true.</text>
+      </para>
+    </para>
   </para>
   <annotations>
     <text type="Editor's Notes">Section 301 of <cite doc="D.C. Law 19-252">D.C. Law 19-252</cite> provided that the Mayor shall issue rules to implement the provisions of the act within 180 days of its effective date [Mar. 19, 2013].</text>
@@ -384,7 +427,12 @@
     <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§6152|(a)" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 25-161" path="§7" codified:display="Note" app="2024-04-20" eff="2024-04-20">Applicability of <cite doc="D.C. Law 25-161" path="">D.C. Law 25-161</cite>: <cite doc="D.C. Law 25-161" path="§8">§ 8 of D.C. Law 25-161</cite> provided that the change made to this section by <cite doc="D.C. Law 25-161" path="§7">§ 7 of D.C. Law 25-161</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§7" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 25-161" eff="2024-04-20" path="§8|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-161" eff="2024-04-20" path="§7" type="History"/>
+    <annotation doc="D.C. Act 25-506" path="§6082|(e)|(1)" type="Applicability" history="false" app="2024-07-15" eff="2024-07-15"><cite doc="D.C. Act 25-506" path="§6082|(e)">Section 6082(e) of D.C. Act 25-506</cite> amended <cite doc="D.C. Law 25-161" path="§8">section 8 of D.C. Law 25-161</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 7 of Law 25-161 has been implemented.
+            </annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§6082|(e)|(1)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§6082|(e)|(1)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§6082|(e)|(1)">§ 6082(e)(1) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation doc="D.C. Law 25-217" path="§6082|(e)|(1)" type="Applicability" history="false" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-218" path="§6082|(e)">Section 6082(e) of D.C. Law 25-218</cite> amended <cite doc="D.C. Law 25-161" path="§8">section 8 of D.C. Law 25-161</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 7 of Law 25-161 has been implemented.
+            </annotation>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6082|(e)|(1)" type="History" display="false"/>
   </annotations>
 </section>

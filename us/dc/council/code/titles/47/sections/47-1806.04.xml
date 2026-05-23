@@ -108,7 +108,7 @@
       </para>
       <para>
         <num>(B-3)</num>
-        <text>(B-3) If a return is filed for a full calendar or fiscal year beginning after December 31, 2025, an individual with a qualifying child who is allowed an earned income tax credit under section 32 of the Internal Revenue Code of 1986 shall be allowed a credit against the tax imposed by this chapter for the taxable year in an amount equal to 100% of the earned income tax credit allowed under section 32 of the Internal Revenue Code of 1986</text>
+        <text>If a return is filed for a full calendar or fiscal year beginning after December 31, 2028, an individual with a qualifying child who is allowed an earned income tax credit under section 32 of the Internal Revenue Code of 1986 shall be allowed a credit against the tax imposed by this chapter for the taxable year in an amount equal to 100% of the earned income tax credit allowed under section 32 of the Internal Revenue Code of 1986</text>
       </para>
       <para>
         <num>(C)</num>
@@ -159,10 +159,22 @@
         </para>
         <para>
           <num>(ii)</num>
-          <text>For taxable years beginning after December 31, 2022:</text>
+          <text>For the taxable year ending December 31, 2023:</text>
           <para>
             <num>(I)</num>
             <text>If the amount of the earned income tax credit allowed is at least $1,200, the entire amount of the earned income tax credit allowed shall be paid to the individual in 12 equal monthly payments; or</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>If the amount of the earned income tax credit allowed is less than $1,200, the entire amount of the earned income tax credit allowed shall be paid to the individual in one lump sum payment.</text>
+          </para>
+        </para>
+        <para>
+          <num>(ii-a)</num>
+          <text>(ii-a) For taxable years beginning after December 31, 2023:</text>
+          <para>
+            <num>(I)</num>
+            <text>If the amount of the earned income tax credit allowed is at least $1,200, the individual may elect, in the manner and form prescribed by the Chief Financial Officer, whether the entire amount of the earned income tax credit allowed shall be paid to the individual in either 12 equal monthly payments or one lump sum payment; or</text>
           </para>
           <para>
             <num>(II)</num>
@@ -177,9 +189,9 @@
           <num>(iv)</num>
           <text>Notwithstanding sub-subparagraphs (i) and (ii) of this subparagraph, the entire amount of a credit to be refunded shall be immediately subject to the offset provisions of <cite path="47|44|III">[subchapter III of Chapter 44 of this title]</cite>.</text>
         </para>
-        <para>
+        <para placeholder="Repealed">
           <num>(v)</num>
-          <text>The Chief Financial Officer shall send a notice to every individual whose refund, or any portion thereof, will be paid in monthly refund payments pursuant to sub-subparagraphs (i)(I) or (ii)(I) of this subparagraph.</text>
+          <text>[Repealed].</text>
         </para>
         <para>
           <num>(vi)</num>
@@ -301,5 +313,12 @@
     <annotation app="2022-10-17" doc="D.C. Act 24-561" eff="2022-10-17" path="§4" type="History" display="false"/>
     <annotation app="2022-12-13" doc="D.C. Law 24-195" eff="2022-12-13" path="§4|(a)" type="History"/>
     <annotation app="2022-12-13" doc="D.C. Law 24-195" eff="2022-12-13" path="§4|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7032" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7032">§ 7032 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7032" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7032|(a)|(1)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7032|(a)|(2)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7032|(b)|(1)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7032|(b)|(2)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7032|(b)|(3)" type="History"/>
   </annotations>
 </section>

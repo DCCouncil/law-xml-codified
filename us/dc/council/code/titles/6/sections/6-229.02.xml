@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>6-229.02</num>
-  <heading>Rent Supplement Program Project-Based Allocation Fund quarterly reporting.</heading>
+  <heading>Project-Based Rent Supplement Program quarterly reporting.</heading>
   <para>
     <num>(a)</num>
     <text>The Department of Housing and Community Development shall submit to the Council, within 30 days after the end of each fiscal quarter, a Project-Based Rent Supplement Program report.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>Each report shall include the following information with respect to the Rent Supplement Program Project-Based Allocation Fund:</text>
-    <para>
+    <text>Each report shall include the following information:</text>
+    <para placeholder="Repealed">
       <num>(1)</num>
-      <text>The total amount of money in the fund at the beginning and end of the reporting period;</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The amount of money in the fund transferred to the Authority for project-based voucher assistance during the reporting period, listed separately by the project for which the funds were awarded;</text>
+      <text>The amount of money transferred to the Authority for project-based voucher assistance during the reporting period, listed separately by the project for which the funds were awarded;</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>The amount of money in the fund awarded to projects that do not yet have a certificate of occupancy, listed separately by project;</text>
+      <text>The amount of money awarded to projects that do not yet have a certificate of occupancy, listed separately by project;</text>
     </para>
     <para>
       <num>(4)</num>
@@ -27,11 +27,19 @@
     </para>
     <para>
       <num>(5)</num>
-      <text>The amount of money expended from the fund during the reporting period on administrative costs, which shall contain a breakdown by category of expense.</text>
+      <text>The amount of money expended by the Department of Housing and Community Development during the reporting period on administrative costs related to the Project-Based Rent Supplement Program, which shall contain a breakdown by category of expense.</text>
     </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 13-105" type="History" path="§26d-2">May 9, 2000, D.C. Law 13-105, § 26d-2</annotation>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2042|(f)" prefix="as added" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§2022|(h)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§2022|(h)">§ 2022(h) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§2022|(h)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(h)|(2)|(B)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(h)|(2)|(C)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(h)|(2)|(D)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(h)|(2)|(E)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(h)|(2)|(A)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(h)|(1)" type="History"/>
   </annotations>
 </section>

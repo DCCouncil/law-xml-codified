@@ -1,21 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-2581.03</num>
-  <heading>Professional development on reading difficulties.</heading>
-  <para>
+  <heading>Required awareness training on reading difficulties.</heading>
+  <para placeholder="Repealed">
     <num>(a)</num>
-    <para>
-      <num>(1)</num>
-      <text>Beginning with School Year 2022-2023 and annually thereafter, each public school shall ensure that the number of educators equal to the number of general education teachers working with students in kindergarten through second grade at that school have completed professional development on reading difficulties.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The training required in paragraph (1) of this subsection shall be provided by OSSE, an LEA, or a third-party with an expertise in reading and reading difficulties, and shall comply with the standards set forth in <cite path="§38-2581.02|(a)|(1)">§ 38-2581.02(a)(1)</cite>.</text>
-    </para>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>Beginning with School Year 2022-2023 and annually thereafter, each educator employed by an LEA, including those who received training pursuant to subsection (a) of this section, shall complete awareness training on reading difficulties as provided by OSSE pursuant to <cite path="§38-2581.02|(a)|(2)">§ 38-2581.02(a)(2)</cite>.</text>
+    <text>Beginning with School Year 2024-25, and annually thereafter, each educator employed by an LEA by October 5 of a given school year shall complete awareness training on reading difficulties as provided or approved by OSSE.</text>
   </para>
   <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§38-2581.03" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-2581.03">Applicability of <cite doc="D.C. Law 23-191" path="">D.C. Law 23-191</cite>: <cite doc="D.C. Law 23-191" path="§301">§ 301 of D.C. Law 23-191</cite> provided that the creation of this section by <cite doc="D.C. Law 23-191" path="§103">§ 103 of D.C. Law 23-191</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
@@ -28,5 +21,10 @@
     <annotation doc="D.C. Law 24-45" path="§7195" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7195">Section 7195 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-191" path="§301">section 301 of D.C. Law 23-191</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-191 has been implemented.
         </annotation>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7195" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§4173|(a)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§4173|(a)">§ 4173(a) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4173|(a)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4173|(a)|(2)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4173|(a)|(3)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4173|(a)|(1)" type="History"/>
   </annotations>
 </section>

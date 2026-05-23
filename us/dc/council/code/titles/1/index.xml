@@ -1310,6 +1310,14 @@
         <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="V|B" type="History" display="false"/>
         <xi:include href="./sections/1-325.441.xml"/>
       </container>
+      <container>
+        <prefix>Part</prefix>
+        <num>TT</num>
+        <heading>Vitality Fund.</heading>
+        <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="II|B" type="History" display="false"/>
+        <xi:include href="./sections/1-325.451.xml"/>
+        <xi:include href="./sections/1-325.452.xml"/>
+      </container>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1384,6 +1392,7 @@
         <xi:include href="./sections/1-328.13.xml"/>
         <xi:include href="./sections/1-328.14.xml"/>
         <xi:include href="./sections/1-328.15.xml"/>
+        <xi:include href="./sections/1-328.15a.xml"/>
         <xi:include href="./sections/1-328.16.xml"/>
         <xi:include href="./sections/1-328.17.xml"/>
       </container>

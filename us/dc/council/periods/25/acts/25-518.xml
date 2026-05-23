@@ -24,7 +24,6 @@
     <text>The Housing Production Trust Fund Act of 1988, effective March 16, 1989 (D.C. Law 7-202; D.C. Official Code §§ 42-2801 <em>et seq.</em>), is amended by adding a new section 6 to read as follows:</text>
     <include>
       <section>
-        <codify:insert path="42|28|I" after="§42-2804" num-value="42-2805" history-prefix="as added" codified:doc="D.C. Code" codified:path="§42-2805"/>
         <num>6</num>
         <heading proof="needed">Net zero energy requirements for subsidized projects.</heading>
         <para>
@@ -58,19 +57,13 @@
       </section>
     </include>
     <aftertext>.</aftertext>
-    <codify:emergency-new-sec doc="D.C. Code" path="§42-2805" interim-path="§42-2804" perm-eff="2024-07-22" codified:doc="D.C. Code" codified:path="§42-2805" codified:display="Note"/>
-    <codify:insert doc="D.C. Code" path="§42-2805" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-2805">
-      <text>
-      *NOTE: This section was created by emergency legislation that will expire on October 20, 2024.*
-      </text>
-    </codify:insert>
+    <codify:emergency-new-sec doc="D.C. Code" path="§42-2805" interim-path="§42-2804" perm-eff="2024-09-18" codified:doc="D.C. Code" codified:path="§42-2805" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>
     <text>The Clean Energy DC Building Code Amendment Act of 2022, effective September 21, 2022 (D.C. Law 24-177; D.C. Official Code § 6-1453.01 <em>et seq.</em>), is amended by inserting a new section 2a to read as follows:</text>
     <include>
       <section>
-        <codify:insert path="6|14B" after="§6-1453.01" num-value="6-1453.02" history-prefix="as added" codified:doc="D.C. Code" codified:path="§6-1453.02"/>
         <num>2a</num>
         <heading proof="needed">Report on barriers to net zero energy ready affordable housing development.</heading>
         <para>
@@ -93,12 +86,7 @@
       </section>
     </include>
     <aftertext>.</aftertext>
-    <codify:emergency-new-sec doc="D.C. Code" path="§6-1453.02" interim-path="§6-1453.01" perm-eff="2024-07-22" codified:doc="D.C. Code" codified:path="§6-1453.02" codified:display="Note"/>
-    <codify:insert doc="D.C. Code" path="§6-1453.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-1453.02">
-      <text>
-      *NOTE: This section was created by emergency legislation that will expire on October 20, 2024.*
-      </text>
-    </codify:insert>
+    <codify:emergency-new-sec doc="D.C. Code" path="§6-1453.02" interim-path="§6-1453.01" perm-eff="2024-09-18" codified:doc="D.C. Code" codified:path="§6-1453.02" codified:display="Note"/>
   </section>
   <section codify:path="§6-1451.02|(a)">
     <num>4</num>
@@ -109,39 +97,21 @@
       <para codify:path="(A)">
         <num>(1)</num>
         <text>Subparagraph (A) is amended by striking the semicolon and inserting the phrase "; and" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-1451.02|(a)|(3)|(A)">
-          <find>;</find>
-          <replace>; and</replace>
-        </codify:find-replace>
       </para>
       <para codify:path="(B)">
         <num>(2)</num>
         <text>Subparagraph (B) is amended by striking the phrase "; and" and inserting a period in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-1451.02|(a)|(3)|(B)">
-          <find>; and</find>
-          <replace>.</replace>
-        </codify:find-replace>
       </para>
       <para codify:path="(C)">
         <num>(3)</num>
         <text>Subparagraph (C) is repealed.</text>
-        <codify:repeal codified:doc="D.C. Code" codified:path="§6-1451.02|(a)|(3)|(C)"/>
       </para>
     </para>
     <para codify:path="(6)">
       <num>(b)</num>
       <text>Paragraph (6) is amended by striking the phrase "shall maintain net zero energy compliance and fulfill" and inserting the phrase "shall fulfill" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-1451.02|(a)|(6)">
-        <find>shall maintain net zero energy compliance and fulfill</find>
-        <replace>shall fulfill</replace>
-      </codify:find-replace>
     </para>
     <codify:emergency doc="D.C. Code" path="§6-1451.02" codified:doc="D.C. Code" codified:path="§6-1451.02" codified:display="Note"/>
-    <codify:insert doc="D.C. Code" path="§6-1451.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-1451.02">
-      <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 20, 2024. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§6-1451.02(Perm)">Permanent Version</cite>.*
-      </text>
-    </codify:insert>
   </section>
   <section>
     <num>5</num>

@@ -80,6 +80,7 @@
       <xi:include href="./sections/38-191.xml"/>
       <xi:include href="./sections/38-192.xml"/>
       <xi:include href="./sections/38-192.01.xml"/>
+      <xi:include href="./sections/38-192.02.xml"/>
       <xi:include href="./sections/38-193.xml"/>
       <xi:include href="./sections/38-194.xml"/>
       <xi:include href="./sections/38-195.xml"/>
@@ -90,6 +91,13 @@
       <heading>My School DC EdFest.</heading>
       <annotation app="2015-10-22" doc="D.C. Law 21-36" eff="2015-10-22" path="IV" type="History" display="false"/>
       <xi:include href="./sections/38-196.01.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>III</num>
+      <heading>School Connect Pilot Program.</heading>
+      <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="IV|N" type="History" display="false"/>
+      <xi:include href="./sections/38-197.01.xml"/>
     </container>
     <annotation app="2015-10-22" doc="D.C. Law 21-36" eff="2015-10-22" path="IV" type="History" display="false"/>
   </container>
@@ -1529,6 +1537,8 @@
     <xi:include href="./sections/38-2261.xml"/>
     <xi:include href="./sections/38-2262.xml"/>
     <xi:include href="./sections/38-2263.xml"/>
+    <xi:include href="./sections/38-2264.xml"/>
+    <xi:include href="./sections/38-2265.xml"/>
   </container>
   <subheading>Subtitle VI. EDUCATION FOR HEARING IMPAIRED PERSONS.</subheading>
   <container>
@@ -1744,6 +1754,7 @@
     <xi:include href="./sections/38-2610.xml"/>
     <xi:include href="./sections/38-2611.xml"/>
     <xi:include href="./sections/38-2612.xml"/>
+    <xi:include href="./sections/38-2612.01.xml"/>
     <xi:include href="./sections/38-2613.xml"/>
     <xi:include href="./sections/38-2614.xml"/>
     <xi:include href="./sections/38-2615.xml"/>

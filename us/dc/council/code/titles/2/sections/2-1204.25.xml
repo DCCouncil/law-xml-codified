@@ -1,14 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>2-1204.25</num>
   <heading proof="needed">Public awareness campaign.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>The Mayor shall conduct a continuous public awareness campaign publicizing the requirements and benefits of <cite path="2|12|II-A|C">this part</cite>. The public awareness campaign shall include information on the potential benefits of open captioned movies to all moviegoers, including patrons who are not Deaf or hard of hearing.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The public awareness campaign shall, at minimum, utilize the following media for dissemination of information:</text>
+    <para>
+      <num>(1)</num>
+      <text>Office of Cable Television Programming;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Public service announcements; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>A dedicated public website.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>The Mayor shall disseminate guidance on clear communication of open captioned movie showings to news media, as defined in <cite path="§16-4701">§ 16-4701</cite>, for any news media organization that regularly publishes motion pictures showtimes for movie theaters in the District.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§2-1204.25" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1204.25">Applicability of <cite doc="D.C. Law 25-190" path="">D.C. Law 25-190</cite>: <cite doc="D.C. Law 25-190" path="§10">§ 10 of D.C. Law 25-190</cite> provided that the creation of this section by <cite doc="D.C. Law 25-190" path="§6">§ 6 of D.C. Law 25-190</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <codify:annotation doc="D.C. Code" path="§2-1204.25" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§2-1204.25"><cite doc="D.C. Act 25-506" path="§7292">Section 7292 of D.C. Act 25-506</cite> repealed <cite doc="D.C. Law 25-478" path="§10">section 10 of D.C. Law 25-478</cite> removing the applicability provision impacting this section. Therefore the amendment of this section by section 10 of Law 25-478 has been implemented.
+        </codify:annotation>
   <annotations>
     <annotation app="2024-07-19" doc="D.C. Law 25-190" eff="2024-07-19" path="" type="History" display="false"/>
-    <annotation app="2024-07-19" doc="D.C. Law 25-190" eff="2024-07-19" path="§10|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-190" eff="2024-07-19" path="§6" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 25-190" path="§6" codified:display="Note" app="2024-07-19" eff="2024-07-19">Applicability of <cite doc="D.C. Law 25-190" path="">D.C. Law 25-190</cite>: <cite doc="D.C. Law 25-190" path="§10">§ 10 of D.C. Law 25-190</cite> provided that the creation of this section by <cite doc="D.C. Law 25-190" path="§6">§ 6 of D.C. Law 25-190</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2024-07-19" doc="D.C. Law 25-190" eff="2024-07-19" path="§6" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 25-190" path="§6" codified:display="Note" app="2024-07-19" eff="2024-07-19">Applicability of <cite doc="D.C. Law 25-190" path="">D.C. Law 25-190</cite>: <cite doc="D.C. Law 25-190" path="§10">§ 10 of D.C. Law 25-190</cite> provided that the creation of this section by <cite doc="D.C. Law 25-190" path="§6">§ 6 of D.C. Law 25-190</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 25-190" path="§6" type="Applicability" history="false" app="2024-07-19" eff="2024-07-19"><cite doc="D.C. Act 25-506" path="§7292">Section 7292 of D.C. Act 25-506</cite> repealed <cite doc="D.C. Law 25-478" path="§10">section 10 of D.C. Law 25-478</cite> removing the applicability provision impacting this section. Therefore the amendment of this section by section 10 of Law 25-478 has been implemented.
+        </annotation>
+    <annotation app="2024-07-19" doc="D.C. Law 25-190" eff="2024-07-19" path="§6" type="History" display="false"/>
   </annotations>
 </section>

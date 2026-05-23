@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-309.14</num>
   <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 13, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-309.14(Perm)">Permanent Version</cite>.*
+      *NOTE: This section will expire on December 31, 2025.*
       </text>
   <heading>Advisory Neighborhood Commission Security Fund.</heading>
   <para>
@@ -47,6 +47,11 @@
   <para>
     <num>(h)</num>
     <text>This section shall expire on December 31, 2025.</text>
+    <codify:insert doc="D.C. Code" path="§1-309.14" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-309.14">
+      <text>
+      *NOTE: This section will expire on December 31, 2025.*
+      </text>
+    </codify:insert>
   </para>
   <annotations>
     <annotation doc="D.C. Law 1-21" type="History" path="§17">Oct. 10, 1975, D.C. Law 1-21, § 17</annotation>
@@ -64,9 +69,10 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-135">D.C. Law 13-135</cite>, in subsec. (a) inserted the second sentence relating to the Executive Director serving as a non-voting Trustee; in subsec. (b), rewrote the second sentence, which formerly read:</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-264.1.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§1-309.13">§ 1-309.13</cite>.</annotation>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§1102|(c)|(2)" type="History" display="false"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§1102|(c)|(1)" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§1102|(c)|(2)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§1102|(c)|(2)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§1102|(c)|(2)">§ 1102(c)(2) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§1102|(c)|(2)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1102|(c)|(2)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1102|(c)|(1)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1102|(c)|(2)" type="History"/>
   </annotations>
 </section>
