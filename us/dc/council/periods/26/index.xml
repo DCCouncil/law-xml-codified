@@ -34,6 +34,7 @@
     </collection>
     <collection name="pending">
       <heading>Acts pending congressional review</heading>
+      <xi:include href="./acts/26-5.xml"/>
     </collection>
   </collection>
   <collection name="budget">
