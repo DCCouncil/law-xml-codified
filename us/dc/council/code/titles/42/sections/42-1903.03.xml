@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>42-1903.03</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on July 21, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§42-1903.03(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Meetings; electronic notice.</heading>
   <para>
     <num>(a)</num>
@@ -178,9 +175,11 @@
     <annotation app="2024-07-19" doc="D.C. Law 25-195" eff="2024-07-19" path="§2" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-6" path="§2|(b)" codified:display="Note" app="2025-02-13" eff="2025-02-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-6" path="§2|(b)">§ 2(b) of Association Meeting Flexibility Emergency Amendment Act of 2025 (D.C. Act 26-6, Feb. 13, 2025, 72 DCR 1643)</cite>.</annotation>
     <annotation app="2025-02-13" doc="D.C. Act 26-6" eff="2025-02-13" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2025-04-22" doc="D.C. Act 26-53" eff="2025-04-22" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2025-04-22" doc="D.C. Act 26-53" eff="2025-04-22" path="§2|(a)" type="History"/>
-    <annotation app="2025-04-22" doc="D.C. Act 26-53" eff="2025-04-22" path="§2|(b)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-53" path="§2|(b)" codified:display="Note" app="2025-04-22" eff="2025-04-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-53" path="§2|(b)">§ 2(b) of Association Meeting Flexibility Congressional Review Emergency Amendment Act of 2025 (D.C. Act 26-53, Apr. 22, 2025, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2025-04-22" doc="D.C. Act 26-53" eff="2025-04-22" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-324" eff="2025-05-02" path="§301|(a)" type="History"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-324" eff="2025-05-02" path="§301|(b)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-2" path="§2" codified:display="Note" app="2025-05-03" eff="2025-05-03">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-2" path="§2">§ 2 of Association Meeting Flexibility Temporary Amendment Act of 2025 (D.C. Law 26-2, May 3, 2025, 72 DCR 3107)</cite>.</annotation>
+    <annotation app="2025-05-03" doc="D.C. Law 26-2" eff="2025-05-03" path="§2" type="History" display="false"/>
   </annotations>
 </section>
