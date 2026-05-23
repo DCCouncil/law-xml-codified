@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>13-336</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 25, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§13-336(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Service by publication on nonresidents, absent defendants, and unknown heirs or devisees.</heading>
   <para>
     <num>(a)</num>
@@ -47,11 +50,15 @@
     </para>
     <para>
       <num>(7)</num>
-      <text>actions for the enforcement of mechanics’ liens, and other liens against real or personal property within the District; and</text>
+      <text>actions for the enforcement of mechanics’ liens, and other liens against real or personal property within the District;</text>
     </para>
     <para>
       <num>(8)</num>
-      <text>actions that have for their immediate object the enforcement or establishment of any lawful right, claim, or demand to or against any real or personal property within the jurisdiction of the court.</text>
+      <text>actions that have for their immediate object the enforcement or establishment of any lawful right, claim, or demand to or against any real or personal property within the jurisdiction of the court; and</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>actions for the appointment of a vulnerable youth guardian under <cite path="16|23|VI">[subchapter VI of Chapter 23 of Title 16]</cite>.</text>
     </para>
   </para>
   <annotations>
@@ -61,5 +68,10 @@
     <annotation type="Prior Codifications">1981 Ed., § 13-336.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§13-335">§ 13-335</cite>, <cite path="§13-337">§ 13-337</cite>, and <cite path="§16-4808">§ 16-4808</cite>.</annotation>
     <annotation app="2017-04-04" doc="D.C. Law 21-238" eff="2017-04-04" path="§501|(a)" type="History"/>
+    <annotation app="2023-08-01" doc="D.C. Act 25-203" eff="2023-08-01" path="§2" type="History" display="false"/>
+    <annotation app="2023-08-01" doc="D.C. Act 25-203" eff="2023-08-01" path="§2|(a)" type="History"/>
+    <annotation app="2023-08-01" doc="D.C. Act 25-203" eff="2023-08-01" path="§2|(b)" type="History"/>
+    <annotation app="2023-08-01" doc="D.C. Act 25-203" eff="2023-08-01" path="§2|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-203" path="§2" codified:display="Note" app="2023-08-01" eff="2023-08-01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-203" path="§2">§ 2 of Vulnerable Youth Guardianship Protection Emergency Amendment Act of 2023 (D.C. Act 25-203, Aug. 1, 2023, 70 DCR 10758)</cite>.</annotation>
   </annotations>
 </section>

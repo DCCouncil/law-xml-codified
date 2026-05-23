@@ -29,17 +29,12 @@
       <para codify:path="(2)">
         <num>(1)</num>
         <text>Paragraph (2) is amended by striking the phrase "retailer or online retailer license" and inserting the phrase "retailer license" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.06|(d)|(2)">
-          <find>retailer or online retailer license</find>
-          <replace>retailer license</replace>
-        </codify:find-replace>
       </para>
       <para>
         <num>(2)</num>
         <text>A new paragraph (5) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§7-1671.06|(d)|(5)"/>
             <num>(5)</num>
             <text>Applications for additional licenses pursuant to paragraphs (1) through (3) of this subsection shall be filed with ABCA by the existing cultivation center or dispensary by May 1, 2024.</text>
           </para>
@@ -53,17 +48,12 @@
       <para>
         <num>(1)</num>
         <text>Subparagraph (F) is amended by striking the phrase "retailer or internet retailer license" and inserting the phrase "retailer license" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.06|(e)|(1)">
-          <find>retailer or internet retailer license</find>
-          <replace>retailer license</replace>
-        </codify:find-replace>
       </para>
       <para>
         <num>(2)</num>
         <text>A new subparagraph (G) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§7-1671.06|(e)|(1)|(G)"/>
             <num>(G)</num>
             <text>No licensee holding a cultivation center license shall hold an internet retailer license.</text>
           </para>
@@ -76,7 +66,6 @@
       <text>New subsections (w) and (x) are added to read as follows:</text>
       <include>
         <para>
-          <codify:insert codified:doc="D.C. Code" codified:path="§7-1671.06|(w)"/>
           <num>(w)</num>
           <para>
             <num>(1)</num>
@@ -96,7 +85,6 @@
           </para>
         </para>
         <para>
-          <codify:insert codified:doc="D.C. Code" codified:path="§7-1671.06|(x)"/>
           <num>(x)</num>
           <para>
             <num>(1)</num>
@@ -115,11 +103,6 @@
       <aftertext>.</aftertext>
     </para>
     <codify:emergency doc="D.C. Code" path="§7-1671.06" codified:doc="D.C. Code" codified:path="§7-1671.06" codified:display="Note"/>
-    <codify:insert doc="D.C. Code" path="§7-1671.06" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-1671.06">
-      <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on July 25, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§7-1671.06(Perm)">Permanent Version</cite>.*
-      </text>
-    </codify:insert>
   </section>
   <section>
     <num>3</num>

@@ -391,7 +391,7 @@
             <find>is inactive</find>
             <replace>[rewritten] is inactive</replace>
           </codify:find-replace>
-          <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§7-1671.01|(19)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.01|(19)">
             <find>ABRA</find>
             <replace>ABCA</replace>
           </codify:find-replace>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-241</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 29, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§32-241(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of <cite path="32|2|II">this subchapter</cite>, the term:</text>
   <para>
@@ -22,12 +25,20 @@
       <text>"DCIA" means the DC Infrastructure Academy established by the Mayor.</text>
     </para>
     <para>
+      <num>(2B)</num>
+      <text>"DOES" means the Department of Employment Services.</text>
+    </para>
+    <para>
       <num>(3)</num>
       <text>"Host employer" means a public or private employer that employs a summer youth jobs participant.</text>
     </para>
     <para>
       <num>(4)</num>
       <text>"In-school youth" shall have the same meaning provided in section 129(a)(1)(C) of the Workforce Innovation and Opportunity Act, approved July 22, 2014 (128 Stat. 1504; 29 U.S.C. § 3164(a)(1)(C)).</text>
+    </para>
+    <para>
+      <num>(4A)</num>
+      <text>"Middle school youth" means an individual who is between the ages of 9 and 13 years old.</text>
     </para>
     <para>
       <num>(5)</num>
@@ -59,5 +70,9 @@
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2142|(b)" prefix="as added" type="History"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2082|(a)|(1)" type="History"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2082|(a)|(2)" type="History"/>
+    <annotation app="2023-07-31" doc="D.C. Act 25-205" eff="2023-07-31" path="§2" type="History" display="false"/>
+    <annotation app="2023-07-31" doc="D.C. Act 25-205" eff="2023-07-31" path="§2|(1)" type="History"/>
+    <annotation app="2023-07-31" doc="D.C. Act 25-205" eff="2023-07-31" path="§2|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-205" path="§2" codified:display="Note" app="2023-07-31" eff="2023-07-31">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-205" path="§2">§ 2 of Middle School Career Exploration Pilot Emergency Amendment Act of 2023. (D.C. Act 25-205, July 31, 2023, 70 DCR 10765)</cite>.</annotation>
   </annotations>
 </section>

@@ -29,14 +29,12 @@
     <para>
       <num>(a)</num>
       <text>The existing text is designated as subsection (a).</text>
-      <codify:redesignate-para num-value="(a)" codified:doc="D.C. Code" codified:path="§16-5505"/>
     </para>
     <para>
       <num>(b)</num>
       <text>A new subsection (b) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert codified:doc="D.C. Code" codified:path="§16-5505"/>
           <num>(b)</num>
           <para>
             <num>(1)</num>
@@ -59,11 +57,6 @@
       <aftertext>.</aftertext>
     </para>
     <codify:temporary doc="D.C. Code" path="§16-5505" codified:doc="D.C. Code" codified:path="§16-5505" codified:display="Note"/>
-    <codify:insert doc="D.C. Code" path="§16-5505" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§16-5505">
-      <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on July 26, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§16-5505(Perm)">Permanent Version</cite>.*
-      </text>
-    </codify:insert>
   </section>
   <section>
     <num>3</num>

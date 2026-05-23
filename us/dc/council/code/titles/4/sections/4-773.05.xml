@@ -1,23 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
-  <reason>Expired as of December 29, 2022</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-773.05</num>
-  <heading>Contracting.</heading>
-  <text>Expired as of December 29, 2022.</text>
-  <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§4-771.01" expire="2022-12-21" codified:display="Note">For temporary (225 days) creation of § 4-773.05, see <cite doc="D.C. Law 24-234" path="§105">§ 105 of Migrant Services and Supports Temporary Amendment Act of 2022 (D.C. Law 24-234, Dec. 21, 2022, 69 DCR 13991)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§4-773.05" applicability="2022-12-21" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-773.05">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-234" path="§105">§ 105 of Migrant Services and Supports Temporary Amendment Act of 2022 (D.C. Law 24-234, Dec. 21, 2022, 69 DCR 13991)</cite>.</codify:annotation>
+  <text>
+      *NOTE: This section was created by emergency legislation that will expire on October 29, 2023.*
+      </text>
+  <heading proof="needed">Rulemaking.</heading>
+  <text>If the Mayor authorizes an expenditure pursuant to <cite path="§4-773.01">§ 4-773.01</cite>, the Mayor, pursuant to <cite path="2|5|I">subchapter I of Chapter 5 of Title 2</cite>[,] shall issue rules to implement the provisions of <cite path="4|7C">this chapter</cite>, which shall include the eligibility and termination criteria required by <cite path="§4-773.02|(a)">§ 4-773.02(a)</cite>.</text>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-771.01" expire="2023-07-27" codified:display="Note">For temporary (90 days) creation of § 4-773.05, see <cite doc="D.C. Act 25-193" path="§105">§ 105 of Migrant Services and Supports Extension Emergency Amendment Act of 2023 (D.C. Act 25-193, July 27, 2023, 70 DCR 10729)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-773.05" applicability="2023-07-27" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-773.05">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-193" path="§105">§ 105 of Migrant Services and Supports Extension Emergency Amendment Act of 2023 (D.C. Act 25-193, July 27, 2023, 70 DCR 10729)</cite>.</codify:annotation>
   <codify:insert doc="D.C. Code" path="§4-773.05" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-773.05">
     <text>
-      *NOTE: This section was created by temporary legislation that will expire on August 3, 2023.*
+      *NOTE: This section was created by emergency legislation that will expire on October 29, 2023.*
       </text>
   </codify:insert>
-  <codify:repeal doc="D.C. Code" path="§4-773.05" display-template="" codified:doc="D.C. Code" codified:path="§4-773.05"/>
   <annotations>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-553" path="§105" codified:display="Note" app="2022-12-21" eff="2022-09-30">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-553" path="§105">§ 105 of Migrant Services and Supports Emergency Amendment Act of 2022 (D.C. Act 24-553, Sept. 30, 2022, 0 DCR 0)</cite>.</annotation>
-    <annotation app="2022-12-21" doc="D.C. Act 24-553" eff="2022-09-30" path="§105" type="History" display="false"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-234" eff="2022-12-21" path="" type="History" display="false"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-234" eff="2022-12-21" path="§105" type="History" display="false"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-234" eff="2022-12-21" path="§105" type="History"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-234" eff="2022-12-21" path="§301" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-553" path="§105" codified:display="Note" app="2023-07-27" eff="2022-09-30">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-553" path="§105">§ 105 of Migrant Services and Supports Emergency Amendment Act of 2022 (D.C. Act 24-553, Sept. 30, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2023-07-27" doc="D.C. Act 24-553" eff="2022-09-30" path="§105" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-553" path="§106" codified:display="Note" app="2023-07-27" eff="2022-09-30">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-553" path="§106">§ 106 of Migrant Services and Supports Emergency Amendment Act of 2022 (D.C. Act 24-553, Sept. 30, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2023-07-27" doc="D.C. Act 24-553" eff="2022-09-30" path="§106" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-234" path="§105" codified:display="Note" app="2023-07-27" eff="2022-12-21">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-234" path="§105">§ 105 of Migrant Services and Supports Temporary Amendment Act of 2022 (D.C. Law 24-234, Dec. 21, 2022, 69 DCR 13991)</cite>.</annotation>
+    <annotation app="2023-07-27" doc="D.C. Law 24-234" eff="2022-12-21" path="§105" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-234" path="§106" codified:display="Note" app="2023-07-27" eff="2022-12-21">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-234" path="§106">§ 106 of Migrant Services and Supports Temporary Amendment Act of 2022 (D.C. Law 24-234, Dec. 21, 2022, 69 DCR 13991)</cite>.</annotation>
+    <annotation app="2023-07-27" doc="D.C. Law 24-234" eff="2022-12-21" path="§106" type="History" display="false"/>
+    <annotation doc="D.C. Act 25-69" path="§2|(c)" type="Emergency Legislation" history="false" codify:applicability="2023-07-28" app="2023-07-28" eff="2023-04-24">
+      For temporary (90 days) amendment of this section, see __________________.
+      </annotation>
+    <annotation app="2023-07-28" doc="D.C. Act 25-69" eff="2023-04-24" path="§2|(c)" type="History" display="false"/>
+    <annotation doc="D.C. Law 25-29" path="§2|(c)" type="Temporary Legislation" history="false" codify:applicability="2023-07-28" app="2023-07-28" eff="2023-07-20">
+      For temporary (2250 days) amendment of this section, see __________________.
+      </annotation>
+    <annotation app="2023-07-28" doc="D.C. Law 25-29" eff="2023-07-20" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2023-07-27" doc="D.C. Act 25-193" eff="2023-07-27" path="" type="History" display="false"/>
+    <annotation app="2023-07-27" doc="D.C. Act 25-193" eff="2023-07-27" path="§105" type="History" display="false"/>
+    <annotation app="2023-07-27" doc="D.C. Act 25-193" eff="2023-07-27" path="§105" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-193" path="§105" codified:display="Note" app="2023-07-27" eff="2023-07-27">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-193" path="§105">§ 105 of Migrant Services and Supports Extension Emergency Amendment Act of 2023 (D.C. Act 25-193, July 27, 2023, 70 DCR 10729)</cite>.</annotation>
   </annotations>
 </section>

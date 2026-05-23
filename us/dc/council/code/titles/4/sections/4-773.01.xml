@@ -2,12 +2,9 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-773.01</num>
   <text>
-      *NOTE: This section was created by temporary legislation that will expire on August 3, 2023.*
+      *NOTE: This section was created by emergency legislation that will expire on October 29, 2023.*
       </text>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on July 23, 2023. To view the text of this section after the expiration of the emergency legislation, click this link: <cite doc="D.C. Law 24-234" path="§101">Temporary Law Section</cite>.*
-      </text>
-  <heading>Migrant services and supports.</heading>
+  <heading proof="needed">Migrant services and supports.</heading>
   <para>
     <num undesignated="true">(a)</num>
     <text>The Mayor may establish an office and administer programs to provide time-limited services and supports to recent immigrants to the United States, including the following services and supports:</text>
@@ -24,11 +21,12 @@
       <text>Temporary shelter which:</text>
       <para>
         <num>(A)</num>
-        <text>May be provided in a congregate setting; provided, that families with minor children shall be prioritized to be housed in non-congregate shelter units; and</text>
+        <text>May be provided in a congregate setting; provided, that families with</text>
+        <text>minor children shall be prioritized to be housed in non-congregate shelter units; and</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>Is maintained in a safe, clean, and sanitary condition that meets all applicable District health, sanitation, fire, building, and zoning codes for residential dwellings;</text>
+        <text>Is maintained in a safe, clean, and sanitary condition that meets all applicable District health, sanitation, fire, building, and zoning codes for residential dwellings.</text>
       </para>
     </para>
     <para>
@@ -37,43 +35,50 @@
     </para>
     <para>
       <num>(5)</num>
-      <text>Relocation services, including:</text>
+      <text>Relocation services; including:</text>
       <para>
         <num>(A)</num>
         <text>Services associated with traveling to a secondary destination outside of the District; and</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>Services associated with settling recent immigrants in the District when a recent immigrant intends to make the District their permanent home.</text>
+        <text>Services associated with settling recent immigrants in the District when a person intends to make the District their permanent home.</text>
       </para>
     </para>
     <para>
       <num>(6)</num>
-      <text>Cash assistance for food and other necessities, transportation, relocation, and other identified needs; and</text>
+      <text>Cash assistance for food and other necessities, transportation, relocation, and</text>
+      <text>other identified needs; and</text>
     </para>
     <para>
       <num>(7)</num>
-      <text>Social and legal services and referrals to external social and legal service programs and providers.</text>
+      <text>Social and legal services and referrals to external social and legal service</text>
     </para>
+    <aftertext proof="needed">programs and providers.</aftertext>
   </para>
-  <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§4-771.01" expire="2022-12-21" codified:display="Note">For temporary (225 days) creation of § 4-773.01, see <cite doc="D.C. Law 24-234" path="§101">§ 101 of Migrant Services and Supports Temporary Amendment Act of 2022 (D.C. Law 24-234, Dec. 21, 2022, 69 DCR 13991)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§4-773.01" applicability="2022-12-21" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-773.01">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-234" path="§101">§ 101 of Migrant Services and Supports Temporary Amendment Act of 2022 (D.C. Law 24-234, Dec. 21, 2022, 69 DCR 13991)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-771.01" expire="2023-07-27" codified:display="Note">For temporary (90 days) creation of § 4-773.01, see <cite doc="D.C. Act 25-193" path="§101">§ 101 of Migrant Services and Supports Extension Emergency Amendment Act of 2023 (D.C. Act 25-193, July 27, 2023, 70 DCR 10729)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-773.01" applicability="2023-07-27" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-773.01">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-193" path="§101">§ 101 of Migrant Services and Supports Extension Emergency Amendment Act of 2023 (D.C. Act 25-193, July 27, 2023, 70 DCR 10729)</cite>.</codify:annotation>
   <codify:insert doc="D.C. Code" path="§4-773.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-773.01">
     <text>
-      *NOTE: This section was created by temporary legislation that will expire on August 3, 2023.*
+      *NOTE: This section was created by emergency legislation that will expire on October 29, 2023.*
       </text>
   </codify:insert>
   <annotations>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-553" path="§101" codified:display="Note" app="2022-12-21" eff="2022-09-30">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-553" path="§101">§ 101 of Migrant Services and Supports Emergency Amendment Act of 2022 (D.C. Act 24-553, Sept. 30, 2022, 0 DCR 0)</cite>.</annotation>
-    <annotation app="2022-12-21" doc="D.C. Act 24-553" eff="2022-09-30" path="§101" type="History" display="false"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-234" eff="2022-12-21" path="" type="History" display="false"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-234" eff="2022-12-21" path="§101" type="History" display="false"/>
-    <annotation app="2022-12-21" doc="D.C. Law 24-234" eff="2022-12-21" path="§101" type="History"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-234" path="§101" codified:display="Note" app="2022-12-21" eff="2022-12-21">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-234" path="§101">§ 101 of Migrant Services and Supports Temporary Amendment Act of 2022 (D.C. Law 24-234, Dec. 21, 2022, 69 DCR 13991)</cite>.</annotation>
-    <annotation app="2023-04-24" doc="D.C. Act 25-69" eff="2023-04-24" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2023-04-24" doc="D.C. Act 25-69" eff="2023-04-24" path="§2|(a)|(1)" type="History"/>
-    <annotation app="2023-04-24" doc="D.C. Act 25-69" eff="2023-04-24" path="§2|(a)|(2)" type="History"/>
-    <annotation app="2023-04-24" doc="D.C. Act 25-69" eff="2023-04-24" path="§2|(a)|(3)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-69" path="§2|(a)" codified:display="Note" app="2023-04-24" eff="2023-04-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-69" path="§2|(a)">§ 2(a) of Migrant Services Eligibility Clarification Emergency Amendment Act of 2023 (D.C. Act 25-69, Apr. 24, 2023, 70 DCR 6115)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-553" path="§101" codified:display="Note" app="2023-07-27" eff="2022-09-30">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-553" path="§101">§ 101 of Migrant Services and Supports Emergency Amendment Act of 2022 (D.C. Act 24-553, Sept. 30, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2023-07-27" doc="D.C. Act 24-553" eff="2022-09-30" path="§101" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-234" path="§101" codified:display="Note" app="2023-07-27" eff="2022-12-21">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-234" path="§101">§ 101 of Migrant Services and Supports Temporary Amendment Act of 2022 (D.C. Law 24-234, Dec. 21, 2022, 69 DCR 13991)</cite>.</annotation>
+    <annotation app="2023-07-27" doc="D.C. Law 24-234" eff="2022-12-21" path="§101" type="History" display="false"/>
+    <annotation doc="D.C. Act 25-69" path="§2|(a)" type="Emergency Legislation" history="false" codify:applicability="2023-07-28" app="2023-07-28" eff="2023-04-24">
+      For temporary (90 days) amendment of this section, see __________________.
+      </annotation>
+    <annotation app="2023-07-28" doc="D.C. Act 25-69" eff="2023-04-24" path="§2|(a)" type="History" display="false"/>
+    <annotation doc="D.C. Law 25-29" path="§2|(a)" type="Emergency Legislation" history="false" codify:applicability="2023-07-28" app="2023-07-28" eff="2023-07-20">
+      For temporary (2250 days) amendment of this section, see __________________.
+      </annotation>
+    <annotation app="2023-07-28" doc="D.C. Law 25-29" eff="2023-07-20" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2023-07-27" doc="D.C. Act 25-193" eff="2023-07-27" path="" type="History" display="false"/>
+    <annotation app="2023-07-27" doc="D.C. Act 25-193" eff="2023-07-27" path="§101" type="History" display="false"/>
+    <annotation app="2023-07-27" doc="D.C. Act 25-193" eff="2023-07-27" path="§101" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-193" path="§101" codified:display="Note" app="2023-07-27" eff="2023-07-27">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-193" path="§101">§ 101 of Migrant Services and Supports Extension Emergency Amendment Act of 2023 (D.C. Act 25-193, July 27, 2023, 70 DCR 10729)</cite>.</annotation>
   </annotations>
 </section>
