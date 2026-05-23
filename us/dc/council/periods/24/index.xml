@@ -3,6 +3,12 @@
   <heading>Council Period 24 (2021-2022)</heading>
   <text>RECENT ADDITIONS TO THE D.C. CODE</text>
   <text>
+    <cite doc="D.C. Act 24-215">• McMillan Townhomes Parcels, Commercial Parcels, and Multifamily Parcels Extension of Disposition Authority Emergency Amendment Act of 2021 (D.C. Act  24-215; Eff. Nov. 18, 2021)</cite>
+  </text>
+  <text>
+    <cite doc="D.C. Act 24-213">• Ward Redistricting Deadline Extension Emergency Amendment Act of 2021 (D.C. Act  24-213; Eff. Nov. 18, 2021)</cite>
+  </text>
+  <text>
     <cite doc="D.C. Act 24-211">• Fifty-Point Preference Clarification Emergency Amendment Act of 2021 (D.C. Act  24-211; Eff. Nov. 18, 2021)</cite>
   </text>
   <text>
@@ -41,6 +47,8 @@
   </collection>
   <collection name="emergency">
     <heading>Emergency Acts</heading>
+    <xi:include href="./acts/24-215.xml"/>
+    <xi:include href="./acts/24-213.xml"/>
     <xi:include href="./acts/24-211.xml"/>
     <xi:include href="./acts/24-210.xml"/>
     <xi:include href="./acts/24-209.xml"/>
