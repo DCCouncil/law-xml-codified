@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-771.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 15, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§8-771.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <para>
     <num undesignated="true">(a)</num>
@@ -18,7 +21,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>A product in which the only batteries used are supplied by a producer that:</text>
+        <text>A product in which the only batteries used, at the time of sale, are supplied by a producer that:</text>
         <para>
           <num>(i)</num>
           <text>Is a member of a battery stewardship organization that has an approved battery stewardship plan pursuant to <cite path="§8-771.03|(b)">§ 8-771.03(b)</cite> and is registered in accordance with <cite path="§8-771.04|(b)">§ 8-771.04(b)</cite>; and</text>
@@ -47,7 +50,7 @@
     </para>
     <para>
       <num>(5)</num>
-      <text>"Collection rate" means a percentage, by weight, that a battery stewardship organization collects that is calculated by dividing the total weight of batteries that were estimated to have been sold in the District by all producers participating in an approved battery stewardship plan during the previous 3 calendar years.</text>
+      <text>"Collection rate" means a percentage, by weight, that a battery stewardship organization collects that is calculated by dividing the total weight of primary and rechargeable batteries collected during a calendar year by the average annual weight of primary and rechargeable batteries that were estimated to have been sold in the District by all producers participating in an approved battery stewardship plan during the previous 3 calendar years.</text>
     </para>
     <para>
       <num>(6)</num>
@@ -78,11 +81,11 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>If there is no person to which subparagraph (A) of this paragraph applies, the owner or licensee of a brand under which a covered battery or covered battery-containing product is sold, offered for sale, or distributed in the District, whether or not the trademark is registered; or</text>
+        <text>If there is no person to which subparagraph (A) of this paragraph applies or if no contact information for the person is available, the owner or licensee of a brand under which a covered battery or covered battery-containing product is sold, offered for sale, or distributed for sale in the District, whether or not the trademark is registered; or</text>
       </para>
       <para>
         <num>(C)</num>
-        <text>If there is no person to which subparagraph (A) or (B) of this paragraph applies, a person that imports the covered battery or covered battery-containing product into the United States for sale or distribution in the District.</text>
+        <text>If there is no person to which subparagraph (A) or (B) of this paragraph applies or if no contact information for the person is available, a person that imports the covered battery or covered battery-containing product into the United States for sale or distribution for sale in the District.</text>
       </para>
     </para>
     <para>
@@ -118,5 +121,13 @@
     <annotation doc="D.C. Law 24-45" path="§7203" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7203">Section 7203 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore the creation of this section by §2(q) of Law 23-211 has been implemented.
         </annotation>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7203" type="History" display="false"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-559" eff="2022-10-17" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-559" eff="2022-10-17" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-559" eff="2022-10-17" path="§2|(a)|(2)" type="History"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-559" eff="2022-10-17" path="§2|(a)|(3)|(A)|(i)" type="History"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-559" eff="2022-10-17" path="§2|(a)|(3)|(A)|(ii)" type="History"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-559" eff="2022-10-17" path="§2|(a)|(3)|(B)|(i)" type="History"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-559" eff="2022-10-17" path="§2|(a)|(3)|(B)|(ii)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-559" path="§2|(a)" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-559" path="§2|(a)">§ 2(a) of Battery and Electronic Stewardship Emergency Amendment Act of 2022 (D.C. Act 24-559, Oct. 17, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

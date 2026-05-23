@@ -2,10 +2,13 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>§</prefix>
   <num>47-860</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 15, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-860(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Tax abatement for affordable housing in high-need affordable housing areas.</heading>
   <para>
     <num>(a)</num>
-    <text>Real property tax imposed by <cite path="§47-811">§ 47-811</cite> on real property certified as eligible pursuant to subsection (d) of this section shall be abated for the period set forth in subsection (c) of this section; provided, that:</text>
+    <text>Real property tax imposed by <cite path="§47-811">§ 47-811</cite> on real property certified as eligible pursuant to subsection (d) of this section shall be abated annually only up to the amount certified by the Mayor (subject to increases as authorized by subsection (b)(3) of this section) for the period set forth in subsection (c) of this section; provided, that:</text>
     <para>
       <num>(1)</num>
       <text>The real property is located in a high-need affordable housing area;</text>
@@ -139,5 +142,9 @@
     <annotation history="false" type="Emergency Legislation" path="§7132" codified:display="Note" app="2021-08-23" eff="2021-08-23" doc="D.C. Act 24-159">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§7132">§ 7132 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
     <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7132" type="History" display="false"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7132" type="History"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§7082|(b)" type="History" display="false"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-562" eff="2022-10-17" path="§2" type="History" display="false"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-562" eff="2022-10-17" path="§2" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-562" path="§2" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-562" path="§2">§ 2 of Tax Abatements for Affordable Housing in High-Need Areas Emergency Amendment Act of 2022 (D.C. Act 24-562, Oct. 17, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

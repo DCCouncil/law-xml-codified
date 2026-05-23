@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-205.37</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 15, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§4-205.37(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Standard for income and resource determination.</heading>
   <para>
     <num>(a)</num>
-    <text>The Mayor shall, in establishing the need of an individual for assistance, take into consideration all income and resources of such individual in excess of any amounts which may, under the provisions of this chapter, be legally disregarded.</text>
+    <text>The Mayor shall, in establishing the need of an individual for assistance, take into consideration all payments that are income and resources of such individual in excess of any amounts which may, under the provisions of this chapter, be legally disregarded.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -23,5 +26,8 @@
     <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 2(k) of Public Assistance Temporary Amendment Act of 1998 (<cite doc="D.C. Law 12-130">D.C. Law 12-130</cite>, July 24, 1998, law notification  45 DCR 6501).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 2(k) of Public Assistance Temporary Amendment Act of 1997 (<cite doc="D.C. Law 12-7">D.C. Law 12-7</cite>, August 1, 1997, law notification  44 DCR 4639).</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 3-205.37.</annotation>
+    <annotation app="2022-10-17" doc="D.C. Act 24-561" eff="2022-10-17" path="§2|(d)" type="History" display="false"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-561" eff="2022-10-17" path="§2|(d)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-561" path="§2|(d)" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-561" path="§2|(d)">§ 2(d) of Earned Income Tax Credit Expansion Clarification Emergency Amendment Act of 2022 (D.C. Act 24-561, Oct. 17, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

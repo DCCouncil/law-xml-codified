@@ -1,10 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>4-205.39</num>
+  <text>
+      *NOTE: This section was repealed by emergency legislation that will expire on January 15, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§4-205.39(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Earned income.</heading>
-  <text>Earned income includes income or resources in cash or in kind earned by an individual through the receipt of wages, salaries, commissions, or profit from activities in which he or she is self-employed.</text>
+  <text>Repealed.</text>
   <annotations>
     <annotation doc="D.C. Law 4-101" type="History" path="§539">Apr. 6, 1982, D.C. Law 4-101, § 539, 29 DCR 1060</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 3-205.39.</annotation>
+    <annotation app="2022-10-17" doc="D.C. Act 24-561" eff="2022-10-17" path="§2|(e)" type="History" display="false"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-561" eff="2022-10-17" path="§2|(e)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-561" path="§2|(e)" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-561" path="§2|(e)">§ 2(e) of Earned Income Tax Credit Expansion Clarification Emergency Amendment Act of 2022 (D.C. Act 24-561, Oct. 17, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
