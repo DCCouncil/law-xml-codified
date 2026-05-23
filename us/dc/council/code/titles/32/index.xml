@@ -78,7 +78,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>1D</num>
-    <heading>Wage and Hour Education Grants Program.</heading>
+    <heading>Workplace Rights Grant Program.<annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4152" type="History"/></heading>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="II" type="History" display="false"/>
     <xi:include href="./sections/32-171.01.xml"/>
     <xi:include href="./sections/32-171.02.xml"/>
@@ -306,9 +306,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>5A</num>
-    <text>
-      *NOTE: This chapter shall be repealed effective April 21, 2022.*
-      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7202" type="History" display="false"/></text>
+    <reason>Repealed</reason>
     <text>
       *NOTE: This chapter shall be repealed effective October 1, 2022.*
       <annotation app="2022-03-28" doc="D.C. Act 24-350" eff="2022-03-28" path="§2" type="History" display="false"/></text>
@@ -316,6 +314,7 @@
     <xi:include href="./sections/32-571.xml"/>
     <xi:include href="./sections/32-572.xml"/>
     <xi:include href="./sections/32-573.xml"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-209" eff="2021-03-16" path="§301" type="History"/>
     <annotation doc="D.C. Act 24-159" path="§7202" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7202">Section 7202 of D.C. Act 24-159</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the amendments to this section shall apply as of April 1, 2022.
         </annotation>
     <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7202" type="History" display="false"/>
