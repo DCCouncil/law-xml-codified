@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-1803.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on September 11, 2022. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-1803.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Gross income — Items included and excluded; “adjusted gross income” defined.</heading>
   <para>
     <num>(a)</num>
@@ -287,6 +290,10 @@
         <num>(QQ)</num>
         <text>The amount received by an individual pursuant to <cite path="§4-681.05">[§ 4-681.05]</cite>.</text>
       </para>
+      <para>
+        <num>(RR)</num>
+        <text>Grants awarded pursuant to <cite path="§1-328.04|(w)">§ 1-328.04(w)</cite>.</text>
+      </para>
     </para>
     <para>
       <num>(3)</num>
@@ -508,5 +515,8 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-239" path="§10|(a)" codified:display="Note" app="2021-12-13" eff="2021-12-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-239" path="§10|(a)">§ 10(a) of Child Wealth Building Congressional Review Emergency Act of 2021 (D.C. Act 24-239, Dec. 13, 2021, 68 DCR 013489)</cite>.</annotation>
     <annotation app="2021-12-13" doc="D.C. Act 24-239" eff="2021-12-13" path="§10|(a)" type="History" display="false"/>
     <annotation app="2022-02-18" doc="D.C. Law 24-53" eff="2022-02-18" path="§10|(a)" type="History"/>
+    <annotation app="2022-06-13" doc="D.C. Act 24-437" eff="2022-06-13" path="§3|(b)" type="History" display="false"/>
+    <annotation app="2022-06-13" doc="D.C. Act 24-437" eff="2022-06-13" path="§3|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-437" path="§3|(b)" codified:display="Note" app="2022-06-13" eff="2022-06-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-437" path="§3|(b)">§ 3(b) of Fiscal Year 2022 Second Revised Local Budget Adjustment Emergency Act of 2022 (D.C. Act 24-437, June 13, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
