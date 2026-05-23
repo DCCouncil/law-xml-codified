@@ -2,25 +2,16 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>§</prefix>
   <num>20-311</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 30, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§20-311(Perm)">Permanent Version</cite>.*
+      </text>
   <heading proof="needed">Nature of proceeding.</heading>
   <para>
     <num>(a)</num>
-    <text>Upon request for abbreviated probate contained in a petition for probate, the Register of Wills:</text>
-    <para>
-      <num>(1)</num>
-      <text>May admit a will to probate; and</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Shall appoint one or more personal representatives based on the statements contained in the petition for probate.</text>
-    </para>
+    <text>An abbreviated probate proceeding is a proceeding for probate of a will or a determination of a decedent's intestacy and for the appointment of a personal representative. This proceeding is instituted when an interested person files a petition for an abbreviated probate proceeding with the Court in accordance with the provisions of <cite path="§20-304">§ 20-304</cite>. This proceeding may be conducted without the prior notice required for formal probate under <cite path="§20-323">§ 20-323</cite>.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>The Register of Wills may require additional verified proof, which shall be filed in the proceeding.</text>
-  </para>
-  <para>
-    <num>(c)</num>
     <text>The finality of abbreviated probate shall be governed by <cite path="§20-331">§ 20-331</cite>.</text>
   </para>
   <annotations>
@@ -30,5 +21,8 @@
     <annotation type="Prior Codifications">1981 Ed., § 20-311.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§20-101">§ 20-101</cite>.</annotation>
     <annotation app="2025-03-21" doc="D.C. Law 25-302" eff="2025-03-21" path="§4|(f)" type="History"/>
+    <annotation app="2025-08-01" doc="D.C. Act 26-124" eff="2025-08-01" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2025-08-01" doc="D.C. Act 26-124" eff="2025-08-01" path="§2|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-124" path="§2|(a)" codified:display="Note" app="2025-08-01" eff="2025-08-01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-124" path="§2|(a)">§ 2(a) of Strengthening Probate Administration Emergency Amendment Act of 2025 (D.C. Act 26-124, Aug. 1, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

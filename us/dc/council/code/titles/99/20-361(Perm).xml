@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <prefix>§</prefix>
-  <num>20-361</num>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <num>20-361(Perm)</num>
+  <heading>Payment or delivery of small asset by affidavit.</heading>
   <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 30, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§20-361(Perm)">Permanent Version</cite>.*
+      *NOTE: This codification is <u><b>not</b></u> the most current. To see the current law, click this link <cite path="§20-361">Current Version</cite>*
       </text>
-  <heading proof="needed">Payment or delivery of small asset by affidavit.</heading>
   <para>
     <num>(a)</num>
     <text>Any person having possession of a small asset shall pay or deliver the small asset to the designated successor of the decedent upon being presented an affidavit made by all of the known successors stating:</text>
@@ -21,9 +20,9 @@
       <num>(3)</num>
       <text>No application for the appointment of a personal representative is pending or has been granted in any jurisdiction;</text>
     </para>
-    <para placeholder="Repealed">
+    <para>
       <num>(4)</num>
-      <text>[Repealed].</text>
+      <text>The decedent's will, if any, was duly admitted to probate;</text>
     </para>
     <para>
       <num>(5)</num>
@@ -78,7 +77,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>Notwithstanding the provisions of §§ <cite path="§28:3-403">28:3-403</cite>, <cite path="§28:3-417">28:3-417</cite>, and <cite path="§28:3-420">28:3-420</cite>, a financial institution accepting such check, draft, or other negotiable instrument presented for deposit in such manner is discharged from all claims for the amount accepted.</text>
+      <text>Notwithstanding the provisions of §§ <cite path="§28~3-403">28:3-403</cite>, <cite path="§28~3-147">28:3-417</cite>, and <cite path="§28~3-420">28:3-420</cite>, a financial institution accepting such check, draft, or other negotiable instrument presented for deposit in such manner is discharged from all claims for the amount accepted.</text>
     </para>
   </para>
   <para>
@@ -86,10 +85,6 @@
     <text>For purposes of subsection (a) of this section, a distributee shall have the same rights as a personal representative under <cite path="21|25">Chapter 25 of Title 21</cite> to access a digital asset of the decedent.</text>
   </para>
   <annotations>
-    <annotation app="2025-03-21" doc="D.C. Law 25-302" eff="2025-03-21" path="§4|(o)" type="History" display="false"/>
-    <annotation app="2025-03-21" doc="D.C. Law 25-302" eff="2025-03-21" path="§4|(o)" type="History"/>
-    <annotation app="2025-08-01" doc="D.C. Act 26-124" eff="2025-08-01" path="§2|(c)" type="History" display="false"/>
-    <annotation app="2025-08-01" doc="D.C. Act 26-124" eff="2025-08-01" path="§2|(c)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-124" path="§2|(c)" codified:display="Note" app="2025-08-01" eff="2025-08-01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-124" path="§2|(c)">§ 2(c) of Strengthening Probate Administration Emergency Amendment Act of 2025 (D.C. Act 26-124, Aug. 1, 2025, 0 DCR 0)</cite>.</annotation>
+    <annotation doc="D.C. Law 25-302" type="History" path="§4|(o)">Mar. 21, 2025, D.C. Law 25-302, § 4(o), 72 DCR 780</annotation>
   </annotations>
 </section>
