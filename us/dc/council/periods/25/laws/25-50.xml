@@ -7552,6 +7552,11 @@
           <para>
             <num>(1)</num>
             <text>Section 16-802(b) is amended by striking the date "January 1, 2025" and inserting the date "October 1, 2029" in its place.</text>
+            <codify:insert doc="D.C. Code" path="§16-802" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§16-802">
+              <text>
+      *NOTE: Amendment made to this section by section 7088(b) of D.C. Law 25-50 is applicable January 1, 2026.*
+      </text>
+            </codify:insert>
           </para>
           <para>
             <num>(2)</num>
@@ -7559,6 +7564,11 @@
             <para>
               <num>(A)</num>
               <text>Paragraph (1)(A) is amended striking the date "January 1, 2027" and inserting the date "October 1, 2029" in its place.</text>
+              <codify:insert doc="D.C. Code" path="§16-805" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§16-805">
+                <text>
+      *NOTE: Amendment made to this section by section 7088(b) of D.C. Law 25-50 is applicable January 1, 2026.*
+      </text>
+              </codify:insert>
             </para>
             <para>
               <num>(B)</num>
@@ -7582,7 +7592,7 @@
         <para>
           <num>(a)</num>
           <text>Paragraph (1) is amended by striking the phrase "shall apply upon the date of the inclusion of their fiscal affect in an approved budget and financial plan" and inserting the phrase "shall apply as of October 1, 2023" in its place.</text>
-          <codify:repeal doc="D.C. Law 24-305" path="§401|(a)|(1)" codified:doc="D.C. Code" codified:path="§2-1401.02|(10)"/>
+          <codify:repeal doc="D.C. Law 24-305" path="§401|(a)|(1)" display-template="" codified:doc="D.C. Code" codified:path="§2-1401.02|(10)"/>
           <codify:annotation doc="D.C. Code" path="§32-1071.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-1071.01"><cite doc="D.C.Law 25-50" path="§7090">Section 7090(a) of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-305" path="§401">section 401 of D.C. Law 24-305</cite> changing the applicability provision impacting this section to January 1, 2023.  Therefore the creation of this section by Law 24-305 has been implemented.
         </codify:annotation>
           <codify:annotation doc="D.C. Code" path="§32-1071.03" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-1071.03"><cite doc="D.C.Law 25-50" path="§7090">Section 7090(a) of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-305" path="§401">section 401 of D.C. Law 24-305</cite> changing the applicability provision impacting this section to January 1, 2023.  Therefore the creation of this section by Law 24-305 has been implemented.
@@ -7593,19 +7603,19 @@
         <para>
           <num>(b)</num>
           <text>Paragraph (2) is amended by striking the phrase "shall apply 120 calendar days after the date of inclusion of their fiscal effect in an approved budget and financial plan" and inserting the phrase "shall apply as of January 29, 2024" in its place.</text>
-          <codify:find-replace doc="D.C. Code" path="§32-1071.02" count="2" codified:doc="D.C. Code" codified:path="§32-1071.02">
+          <codify:find-replace doc="D.C. Code" path="§32-1071.02" count="2" display-template="" codified:doc="D.C. Code" codified:path="§32-1071.02">
             <find>Not Funded</find>
             <replace>Applicable Janaury 29, 2024</replace>
           </codify:find-replace>
           <codify:annotation doc="D.C. Code" path="§32-1071.02" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-1071.02"><cite doc="D.C.Law 25-50" path="§7090">Section 7090(b) of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-305" path="§401">section 401 of D.C. Law 24-305</cite> changing the applicability provision impacting this section to January 29, 2024.  Therefore the creation of this section by Law 24-305 shall be applicable January 29, 2024.
         </codify:annotation>
-          <codify:find-replace doc="D.C. Code" path="§32-1071.04" count="2" codified:doc="D.C. Code" codified:path="§32-1071.04">
+          <codify:find-replace doc="D.C. Code" path="§32-1071.04" count="2" display-template="" codified:doc="D.C. Code" codified:path="§32-1071.04">
             <find>Not Funded</find>
             <replace>Applicable Janaury 29, 2024</replace>
           </codify:find-replace>
           <codify:annotation doc="D.C. Code" path="§32-1071.04" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-1071.04"><cite doc="D.C.Law 25-50" path="§7090">Section 7090(b) of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-305" path="§401">section 401 of D.C. Law 24-305</cite> changing the applicability provision impacting this section to January 29, 2024.  Therefore the creation of this section by Law 24-305 shall be applicable January 29, 2024.
         </codify:annotation>
-          <codify:find-replace doc="D.C. Code" path="§32-1071.06" count="2" codified:doc="D.C. Code" codified:path="§32-1071.06">
+          <codify:find-replace doc="D.C. Code" path="§32-1071.06" count="2" display-template="" codified:doc="D.C. Code" codified:path="§32-1071.06">
             <find>Not Funded</find>
             <replace>Applicable Janaury 29, 2024</replace>
           </codify:find-replace>
@@ -7632,39 +7642,124 @@
         <num>7092</num>
         <text>Section 5 of the Preserving Our Kids' Equity Through Trusts and Fostering Stable Housing Opportunities Amendment Act of 2022, effective March 10, 2023 (D.C. Law 24-309, 70 DCR 662), is repealed.</text>
         <codify:repeal doc="D.C. Law 24-309" path="§5"/>
+        <codify:annotation doc="D.C. Code" path="§4-1303.12" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§4-1303.12"><cite doc="D.C.Law 25-50" path="§7092">Section 7092 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 24-309" path="§5">section 5 of D.C. Law 24-309</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 2(b) of Law 24-309 has been implemented.
+        </codify:annotation>
       </section>
       <section>
         <num>7093</num>
         <text>Section 301 of the High Need Healthcare Career Scholarship and Health Professional Loan Repayment Program Amendment Act of 2022, effective March 10, 2023 (D.C. Law 24-313; 70 DCR 600), is repealed.</text>
         <codify:repeal doc="D.C. Law 24-313" path="§301"/>
+        <codify:annotation doc="D.C. Code" path="§7-791.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-791.01"><cite doc="D.C.Law 25-50" path="§7093">Section 7093 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 24-313" path="§301">section 301 of D.C. Law 24-313</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 101 of Law 24-313 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§7-791.02" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-791.02"><cite doc="D.C.Law 25-50" path="§7093">Section 7093 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 24-313" path="§301">section 301 of D.C. Law 24-313</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 102 of Law 24-313 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§7-791.03" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-791.03"><cite doc="D.C.Law 25-50" path="§7093">Section 7093 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 24-313" path="§301">section 301 of D.C. Law 24-313</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 103 of Law 24-313 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§7-791.04" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-791.04"><cite doc="D.C.Law 25-50" path="§7093">Section 7093 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 24-313" path="§301">section 301 of D.C. Law 24-313</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 104 of Law 24-313 has been implemented.
+        </codify:annotation>
       </section>
       <section>
         <num>7094</num>
         <text>Section 4 of the Educator Background Check Streamlining Amendment Act of 2022, effective March 10, 2023 (D.C. Law 24-317, 70 DCR 851), is repealed.</text>
         <codify:repeal doc="D.C. Law 24-317" path="§4"/>
+        <codify:annotation doc="D.C. Code" path="§4-1302.07" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§4-1302.07"><cite doc="D.C.Law 25-50" path="§7094">Section 7094 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 24-317" path="§4">section 4 of D.C. Law 24-317</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 3(c) of Law 24-317 has been implemented.
+        </codify:annotation>
       </section>
       <section>
         <num>7095</num>
         <text>Section 3 of the Automated Traffic Enforcement System Revenue Designation Amendment Act of 2022, effective March 10, 2023 (D.C. Law 24-321; 70 DCR 615), is repealed.</text>
         <codify:repeal doc="D.C. Law 24-321" path="§3"/>
+        <codify:annotation doc="D.C. Code" path="§50-921.25" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§50-921.25"><cite doc="D.C.Law 25-50" path="§7095">Section 7095 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 24-321" path="§3">section 3 of D.C. Law 24-321</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 2 of Law 24-321 has been implemented.
+        </codify:annotation>
       </section>
       <section>
         <num>7096</num>
         <text>Section 6 of the Office of District Waterways Management Establishment Act of 2022, effective March 22, 2023 (D.C. Law 24-336; 70 DCR 1623), is repealed.</text>
         <codify:repeal doc="D.C. Law 24-336" path="§6"/>
+        <codify:annotation doc="D.C. Code" path="§8-191.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-191.01"><cite doc="D.C.Law 25-50" path="§7096">Section 7096 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 24-336" path="§6">section 6 of D.C. Law 24-336</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 2 of Law 24-336 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-191.02" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-191.02"><cite doc="D.C.Law 25-50" path="§7096">Section 7096 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 24-336" path="§6">section 6 of D.C. Law 24-336</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 3 of Law 24-336 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§8-191.03" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-191.03"><cite doc="D.C.Law 25-50" path="§7096">Section 7096 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 24-336" path="§6">section 6 of D.C. Law 24-336</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 4 of Law 24-336 has been implemented.
+        </codify:annotation>
       </section>
       <section>
         <num>7097</num>
         <text>Section 301(a)(1) of the Comprehensive Policing and Justice Reform Amendment Act of 2022, effective April 21, 2023 (D.C. Law 24-345; 70 DCR 953), is amended by striking the phrase "Sections 105, 125, 134, and 135, amendatory section 4c in section 138, and section 139 shall apply" and inserting the phrase "Sections 105, 134, and 135 shall apply" in its place.</text>
-        <codify:repeal doc="D.C. Law 24-345" path="§301|(a)|(1)" codified:doc="D.C. Code" codified:path="§1-301.176"/>
+        <codify:repeal doc="D.C. Law 24-345" path="§301|(a)|(1)" display-template="" codified:doc="D.C. Code" codified:path="§1-301.176"/>
         <codify:applicability doc="D.C. Law 24-345" path="§105" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1101|(3A)"/>
         <codify:applicability doc="D.C. Law 24-345" path="§134" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-534|(d-1)"/>
         <codify:applicability doc="D.C. Law 24-345" path="§135" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1116"/>
+        <codify:annotation doc="D.C. Code" path="§5-1101" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§5-1101"><cite doc="D.C.Law 25-50" path="§7097">Section 7097 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-345" path="§301|(a)|(1)">section 301(a)(1) of D.C. Law 24-345</cite> retaining the applicability provision impacting this section.  Therefore the amendment of this section by section 105(a) of Law 24-345 still has not been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§5-1102" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1102"><cite doc="D.C.Law 25-50" path="§7097">Section 7097 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-345" path="§301|(a)|(1)">section 301(a)(1) of D.C. Law 24-345</cite> retaining the applicability provision impacting this section.  Therefore the amendment of this section by section 105(b) of Law 24-345 still has not been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§5-1103" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1103"><cite doc="D.C.Law 25-50" path="§7097">Section 7097 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-345" path="§301|(a)|(1)">section 301(a)(1) of D.C. Law 24-345</cite> retaining the applicability provision impacting this section.  Therefore the amendment of this section by section 105(c) of Law 24-345 still has not been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§5-1104" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1104"><cite doc="D.C.Law 25-50" path="§7097">Section 7097 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-345" path="§301|(a)|(1)">section 301(a)(1) of D.C. Law 24-345</cite> retaining the applicability provision impacting this section.  Therefore the amendment of this section by section 105(d) of Law 24-345 still has not been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§5-1106" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1106"><cite doc="D.C.Law 25-50" path="§7097">Section 7097 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-345" path="§301|(a)|(1)">section 301(a)(1) of D.C. Law 24-345</cite> retaining the applicability provision impacting this section.  Therefore the amendment of this section by section 105(e) of Law 24-345 still has not been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§5-1107" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1107"><cite doc="D.C.Law 25-50" path="§7097">Section 7097 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-345" path="§301|(a)|(1)">section 301(a)(1) of D.C. Law 24-345</cite> retaining the applicability provision impacting this section.  Therefore the amendment of this section by section 105(f) of Law 24-345 still has not been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§5-1108" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1108"><cite doc="D.C.Law 25-50" path="§7097">Section 7097 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-345" path="§301|(a)|(1)">section 301(a)(1) of D.C. Law 24-345</cite> retaining the applicability provision impacting this section.  Therefore the amendment of this section by section 105(g) of Law 24-345 still has not been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§5-1109" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1109"><cite doc="D.C.Law 25-50" path="§7097">Section 7097 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-345" path="§301|(a)|(1)">section 301(a)(1) of D.C. Law 24-345</cite> retaining the applicability provision impacting this section.  Therefore the amendment of this section by section 105(h) of Law 24-345 still has not been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§5-1110" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1110"><cite doc="D.C.Law 25-50" path="§7097">Section 7097 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-345" path="§301|(a)|(1)">section 301(a)(1) of D.C. Law 24-345</cite> retaining the applicability provision impacting this section.  Therefore the amendment of this section by section 105(i) of Law 24-345 still has not been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§5-1111" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1111"><cite doc="D.C.Law 25-50" path="§7097">Section 7097 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-345" path="§301|(a)|(1)">section 301(a)(1) of D.C. Law 24-345</cite> retaining the applicability provision impacting this section.  Therefore the amendment of this section by section 105(j) of Law 24-345 still has not been implemented.
+        </codify:annotation>
+        <codify:marginalia display="through"/>
+        <codify:annotation doc="D.C. Code" path="§5-1112" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§5-1112"><cite doc="D.C.Law 25-50" path="§7097">Section 7097 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-345" path="§301|(a)|(1)">section 301(a)(1) of D.C. Law 24-345</cite> retaining the applicability provision impacting this section.  Therefore the amendment of this section by section 105(k) of Law 24-345 still has not been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§2-534" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§2-534"><cite doc="D.C.Law 25-50" path="§7097">Section 7097 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-345" path="§301|(a)|(1)">section 301(a)(1) of D.C. Law 24-345</cite> retaining the applicability provision impacting this section.  Therefore the amendment of this section by section 134 of Law 24-345 still has not been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§5-1116" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§5-1116"><cite doc="D.C.Law 25-50" path="§7097">Section 7097 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-345" path="§301|(a)|(1)">section 301(a)(1) of D.C. Law 24-345</cite> retaining the applicability provision impacting this section.  Therefore the creation of this section by section 135 of Law 24-345 still has not been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§5-1117" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§5-1117"><cite doc="D.C.Law 25-50" path="§7097">Section 7097 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-345" path="§301|(a)|(1)">section 301(a)(1) of D.C. Law 24-345</cite> retaining the applicability provision impacting this section.  Therefore the creation of this section by section 135 of Law 24-345 still has not been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§5-123.31" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§5-123.31"><cite doc="D.C.Law 25-50" path="§7097">Section 7097 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-345" path="§301|(a)|(1)">section 301(a)(1) of D.C. Law 24-345</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 125 of Law 24-345 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§5-123.32" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§5-123.32"><cite doc="D.C.Law 25-50" path="§7097">Section 7097 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-345" path="§301|(a)|(1)">section 301(a)(1) of D.C. Law 24-345</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 125 of Law 24-345 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§1-301.176" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§1-301.176"><cite doc="D.C.Law 25-50" path="§7097">Section 7097 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-345" path="§301|(a)|(1)">section 301(a)(1) of D.C. Law 24-345</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 138 of Law 24-345 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§1-609.03" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§1-609.03"><cite doc="D.C.Law 25-50" path="§7097">Section 7097 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-345" path="§301|(a)|(1)">section 301(a)(1) of D.C. Law 24-345</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 139 of Law 24-345 has been implemented.
+        </codify:annotation>
       </section>
       <section>
         <num>7098</num>
         <text>Section 5 of the Street Vendor Advancement Amendment Act of 2023, enacted on May 4, 2023 (D.C. Act 25-94; 70 DCR 6762), is repealed.</text>
         <codify:repeal doc="D.C. Law 25-21" path="§5"/>
+        <codify:annotation doc="D.C. Code" path="§7-742.11" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-742.11"><cite doc="D.C.Law 25-50" path="§7098">Section 7098 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 25-21" path="§5">section 5 of D.C. Law 25-21</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 2 of Law 25-21 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§7-742.12" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-742.12"><cite doc="D.C.Law 25-50" path="§7098">Section 7098 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 25-21" path="§5">section 5 of D.C. Law 25-21</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 2 of Law 25-21 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§7-742.13" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-742.13"><cite doc="D.C.Law 25-50" path="§7098">Section 7098 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 25-21" path="§5">section 5 of D.C. Law 25-21</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 2 of Law 25-21 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§37-131.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§37-131.01"><cite doc="D.C.Law 25-50" path="§7098">Section 7098 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 25-21" path="§5">section 5 of D.C. Law 25-21</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 3(a) of Law 25-21 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§37-131.02" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§37-131.02"><cite doc="D.C.Law 25-50" path="§7098">Section 7098 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 25-21" path="§5">section 5 of D.C. Law 25-21</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 3(b) of Law 25-21 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§37-131.06a" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§37-131.06a"><cite doc="D.C.Law 25-50" path="§7098">Section 7098 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 25-21" path="§5">section 5 of D.C. Law 25-21</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 3(c) of Law 25-21 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§37-131.06b" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§37-131.06b"><cite doc="D.C.Law 25-50" path="§7098">Section 7098 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 25-21" path="§5">section 5 of D.C. Law 25-21</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 3(c) of Law 25-21 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§37-131.06c" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§37-131.06c"><cite doc="D.C.Law 25-50" path="§7098">Section 7098 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 25-21" path="§5">section 5 of D.C. Law 25-21</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 3(c) of Law 25-21 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§37-131.07" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§37-131.07"><cite doc="D.C.Law 25-50" path="§7098">Section 7098 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 25-21" path="§5">section 5 of D.C. Law 25-21</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 3(d) of Law 25-21 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§37-131.08a" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§37-131.08a"><cite doc="D.C.Law 25-50" path="§7098">Section 7098 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 25-21" path="§5">section 5 of D.C. Law 25-21</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 3(f) of Law 25-21 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§37-131.08b" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§37-131.08b"><cite doc="D.C.Law 25-50" path="§7098">Section 7098 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 25-21" path="§5">section 5 of D.C. Law 25-21</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 3(f) of Law 25-21 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§37-131.08c" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§37-131.08c"><cite doc="D.C.Law 25-50" path="§7098">Section 7098 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 25-21" path="§5">section 5 of D.C. Law 25-21</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 3(f) of Law 25-21 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§37-131.08d" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§37-131.08d"><cite doc="D.C.Law 25-50" path="§7098">Section 7098 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 25-21" path="§5">section 5 of D.C. Law 25-21</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 3(f) of Law 25-21 has been implemented.
+        </codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§47-2002.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§47-2002.01"><cite doc="D.C.Law 25-50" path="§7098">Section 7098 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 25-21" path="§5">section 5 of D.C. Law 25-21</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 4 of Law 25-21 has been implemented.
+        </codify:annotation>
       </section>
     </container>
     <container>
