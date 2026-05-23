@@ -9,7 +9,7 @@
     <effective>2023-10-11</effective>
     <citations>
       <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/53760/Signed_Act/B25-0454-Signed_Act.pdf?Id=178032">D.C. Act 25-237</citation>
-      <citation type="register">0 DCR 0</citation>
+      <citation type="register">70 DCR 13794</citation>
     </citations>
     <history url="https://lims.dccouncil.us/Legislation/B25-0454">
       <vote date="2023-09-19" reading="Final"/>
@@ -58,13 +58,13 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-    </para>
-    <codify:emergency doc="D.C. Code" path="§7-2509.08" codified:doc="D.C. Code" codified:path="§7-2509.08" codified:display="Note"/>
-    <codify:insert doc="D.C. Code" path="§7-2509.08" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2509.08">
-      <text>
+      <codify:emergency doc="D.C. Code" path="§7-2509.08" codified:doc="D.C. Code" codified:path="§7-2509.08" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§7-2509.08" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2509.08">
+        <text>
       *NOTE: This section includes amendments by emergency legislation that will expire on January 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§7-2509.08(Perm)">Permanent Version</cite>.*
       </text>
-    </codify:insert>
+      </codify:insert>
+    </para>
   </section>
   <section>
     <num>3</num>

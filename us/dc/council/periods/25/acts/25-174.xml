@@ -26,10 +26,6 @@
     <para codify:path="(1)|(B)">
       <num>(a)</num>
       <text>Paragraph (1)(B) is amended by striking the phrase "immediate threat" and inserting the phrase "imminent threat" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§5-365.02|(a)|(1)|(B)">
-        <find>immediate threat</find>
-        <replace>imminent threat</replace>
-      </codify:find-replace>
     </para>
     <para codify:path="(2)">
       <num>(b)</num>
@@ -37,17 +33,12 @@
       <para codify:path="(A)">
         <num>(1)</num>
         <text>Subparagraph (A) is amended by striking the phrase "fleeing suspect," and inserting the phrase "fleeing suspect or suspects," in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§5-365.02|(a)|(2)|(A)">
-          <find>fleeing suspect,</find>
-          <replace>fleeing suspect or suspects,</replace>
-        </codify:find-replace>
       </para>
       <para codify:path="(B)">
         <num>(2)</num>
         <text>Subparagraph (B) is amended to read as follows</text>
         <include lvl="2">
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§5-365.02|(a)|(2)|(B)"/>
             <num>(B)</num>
             <text>Under the totality of the circumstances, not likely to cause death or serious bodily injury to any person, other than to the fleeing suspect or suspects; and</text>
           </para>
@@ -56,11 +47,6 @@
       </para>
     </para>
     <codify:emergency doc="D.C. Code" path="§5-365.02" codified:doc="D.C. Code" codified:path="§5-365.02" codified:display="Note"/>
-    <codify:insert doc="D.C. Code" path="§5-365.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-365.02">
-      <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 18, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§5-365.02(Perm)">Permanent Version</cite>.*
-      </text>
-    </codify:insert>
   </section>
   <section>
     <num>3</num>
