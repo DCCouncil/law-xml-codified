@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-1002</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 18, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-1002(Perm)">Past Permanent Version</cite>.*
+      </text>
   <heading>Real property — Exemptions.</heading>
   <text>Only the following real property shall be exempt from taxation in the District of Columbia:</text>
   <para>
@@ -314,7 +317,7 @@
     </para>
     <para>
       <num>(B)</num>
-      <text>For the purposes of this paragraph, the term "continuing care retirement community" means a continuing care facility, as defined in <cite path="§44-151.01|(3)">[§ 44-151.01(3)]</cite>, governed by <cite path="44|1A">[Chapter 1A of Title 44]</cite><em>; and</em></text>
+      <text>For the purposes of this paragraph, the term "continuing care retirement community" means a continuing care facility, as defined in <cite path="§44-151.01|(3)">[§ 44-151.01(3)]</cite>, governed by <cite path="44|1A">[Chapter 1A of Title 44]</cite><em>;</em></text>
     </para>
   </para>
   <para>
@@ -339,9 +342,17 @@
       </para>
       <para>
         <num>(iii)</num>
-        <text>Notwithstanding any other provision of law, if the property is not used as required by subparagraph (A) of this paragraph within the permitted period of time, the exemption shall be rescinded retroactive to the initial grant of the exemption, subject to the appeal provisions of <cite path="§47-1009">§ 47-1009</cite>.</text>
+        <text>Notwithstanding any other provision of law, if the property is not used as required by subparagraph (A) of this paragraph within the permitted period of time, the exemption shall be rescinded retroactive to the initial grant of the exemption, subject to the appeal provisions of <cite path="§47-1009">§ 47-1009</cite>; and</text>
       </para>
     </para>
+  </para>
+  <para>
+    <num>(34)</num>
+    <text>The real property (and any improvements thereon) described as Lot 47 in Square 455 so long as the Land Disposition Agreement—Ground Lease, by and among the District of Columbia Redevelopment Land Agency, the District of Columbia, and DC Arena, L.P., dated as of December 29, 1995, and recorded with the Recorder of Deeds on January 5, 1996, as instrument number 9600001285, as may be amended from time to time, remains in effect; and</text>
+  </para>
+  <para>
+    <num>(35)</num>
+    <text>The real property (and any improvements thereon) described as Lot 47 in Square 455 and Lot 884 in Square 454 (and any adjacent air space leased pursuant [to] <cite doc="D.C. Act 26-31" path="§4|(a)">section 4(a) of the Downtown Arena Revitalization Congressional Review Emergency Act of 2025, passed on emergency basis on March 4, 2025 (Enrolled version of Bill 26-146))</cite>, so long as the lease for such real property approved by <cite doc="D.C. Act 26-31" path="§2|(a)|(2)">section 2(a)(2) of the Downtown Arena Revitalization Congressional Review Emergency Act of 2025, passed on emergency basis on March 4, 2025 (Enrolled version of Bill 26-146)</cite>, as may be amended from time to time, remains in effect.</text>
   </para>
   <annotations>
     <text type="Editor's Notes">Section 7253 of <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> provided that the amendment by § 7252 of the act shall apply with respect to renewal contracts entered into before, on, or after July 14, 2014.</text>
@@ -492,5 +503,10 @@
     <annotation app="2023-02-23" doc="D.C. Law 24-256" eff="2023-02-23" path="§2|(d)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-653" path="§5|(a)|(3)" codified:display="Note" app="2024-12-17" eff="2024-12-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-653" path="§5|(a)|(3)">§ 5(a)(3) of Downtown Arena Revitalization Emergency Act of 2024 (D.C. Act 25-653, Dec. 17, 2024, 71 DCR 15803)</cite>.</annotation>
     <annotation app="2024-12-17" doc="D.C. Act 25-653" eff="2024-12-17" path="§5|(a)|(3)" type="History" display="false"/>
+    <annotation app="2025-03-20" doc="D.C. Act 26-31" eff="2025-03-20" path="§5|(a)" type="History" display="false"/>
+    <annotation app="2025-03-20" doc="D.C. Act 26-31" eff="2025-03-20" path="§5|(a)|(1)" type="History"/>
+    <annotation app="2025-03-20" doc="D.C. Act 26-31" eff="2025-03-20" path="§5|(a)|(2)" type="History"/>
+    <annotation app="2025-03-20" doc="D.C. Act 26-31" eff="2025-03-20" path="§5|(a)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-31" path="§5|(a)" codified:display="Note" app="2025-03-20" eff="2025-03-20">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-31" path="§5|(a)">§ 5(a) of Downtown Arena Revitalization Congressional Review Emergency Act of 2025 (D.C. Act 26-31, Mar. 20, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

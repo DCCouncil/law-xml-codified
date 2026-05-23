@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>42-1102</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 18, 2025. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§42-1102(Perm)">Past Permanent Version</cite>.*
+      </text>
   <heading>Deeds exempt from tax.</heading>
   <text>The following deeds shall be exempt from the tax imposed by this chapter:</text>
   <para>
@@ -209,7 +212,7 @@
   </para>
   <para>
     <num>(35)</num>
-    <text>Deeds to property transferred between the electric company and the District pursuant to <cite path="§34-1313.11|(c)">§ 34-1313.11(c)</cite>; and</text>
+    <text>Deeds to property transferred between the electric company and the District pursuant to <cite path="§34-1313.11|(c)">§ 34-1313.11(c)</cite>;</text>
   </para>
   <para>
     <num>(36)</num>
@@ -219,8 +222,12 @@
     </para>
     <para>
       <num>(B)</num>
-      <text>The amount of all taxes, fees, and deposits exempted under this paragraph and <cite path="§47-902|(28)">§ 47-902(28)</cite>, shall not exceed, in the aggregate, $420,840.</text>
+      <text>The amount of all taxes, fees, and deposits exempted under this paragraph and <cite path="§47-902|(28)">§ 47-902(28)</cite>, shall not exceed, in the aggregate, $420,840; and</text>
     </para>
+  </para>
+  <para>
+    <num>(37)</num>
+    <text>Deeds with respect to the real property (and any improvements thereon) described as Lot 47 in Square 455 or Lot 884 in Square 454 (and any adjacent air space leased pursuant [to] <cite doc="D.C. Act 26-31" path="§4|(a)">section 4(a) of the Downtown Arena Revitalization Congressional Review Emergency Act of 2025, passed on emergency basis on March 4, 2025 (Enrolled version of Bill 26-146))</cite>, to the extent such deed conveys an interest between the District and DC Arena L.P., or its designee, pursuant to the lease or purchase and sale agreement approved by <cite doc="D.C. Act 26-31" path="§2|(a)">section 2(a) of the Downtown Arena Revitalization Congressional Review Emergency Act of 2025, passed on emergency basis on March 4, 2025 (Enrolled version of Bill 26-146)</cite>, as may be amended from time to time, or a lease authorized by section 4(a) of the Downtown Arena Revitalization Congressional Review Emergency Act of 2025, passed on emergency basis on March 4, 2025 (Enrolled version of Bill 26-146).</text>
   </para>
   <annotations>
     <text type="Editor's Notes"><cite doc="D.C. Law 20-141">D.C. Law 20-141</cite> became effective on Dec. 4, 2014, but was repealed prior to its effective date by emergency D.C. Act 20-377, § 7114, eff. July 14, 2014,  61 DCR 7598, by emergency D.C. Act 20-449, § 7104, eff. October 10, 2014,  61 DCR 10915, by emergency D.C. Act 20-566, § 7104, eff. January 9, 2015,  62 DCR 884, and by D.C. Law (Act 20-424), § 7104,  61 DCR 9990.</text>
@@ -376,5 +383,10 @@
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7243|(c)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-653" path="§5|(d)" codified:display="Note" app="2024-12-17" eff="2024-12-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-653" path="§5|(d)">§ 5(d) of Downtown Arena Revitalization Emergency Act of 2024 (D.C. Act 25-653, Dec. 17, 2024, 71 DCR 15803)</cite>.</annotation>
     <annotation app="2024-12-17" doc="D.C. Act 25-653" eff="2024-12-17" path="§5|(d)" type="History" display="false"/>
+    <annotation app="2025-03-20" doc="D.C. Act 26-31" eff="2025-03-20" path="§5|(d)" type="History" display="false"/>
+    <annotation app="2025-03-20" doc="D.C. Act 26-31" eff="2025-03-20" path="§5|(d)|(1)" type="History"/>
+    <annotation app="2025-03-20" doc="D.C. Act 26-31" eff="2025-03-20" path="§5|(d)|(2)" type="History"/>
+    <annotation app="2025-03-20" doc="D.C. Act 26-31" eff="2025-03-20" path="§5|(d)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-31" path="§5|(d)" codified:display="Note" app="2025-03-20" eff="2025-03-20">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-31" path="§5|(d)">§ 5(d) of Downtown Arena Revitalization Congressional Review Emergency Act of 2025 (D.C. Act 26-31, Mar. 20, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
