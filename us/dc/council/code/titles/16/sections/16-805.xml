@@ -2,6 +2,9 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>§</prefix>
   <num>16-805</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 19, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§16-805(Perm)">Permanent Version</cite>.*
+      </text>
   <heading proof="needed">Automatic sealing of criminal records.</heading>
   <para>
     <num>(a)</num>
@@ -95,11 +98,11 @@
       <text>Related to citations, arrests, and charges sealed pursuant to subsection (a)(1) of this section:</text>
       <para>
         <num>(A)</num>
-        <text>For which the case was terminated by the prosecutor or otherwise reached a final disposition and did not result in a conviction or acquittal pursuant to <cite path="§24-501">§ 24-501</cite> prior to [March 10, 2023], shall be sealed by October 1, 2027, or within 90 days after termination of the case by the prosecutor or final disposition, whichever is later; and</text>
+        <text>For which the case was terminated by the prosecutor or otherwise reached a final disposition and did not result in a conviction or acquittal pursuant to <cite path="§24-501">§ 24-501</cite> on or before September 30, 2027, shall be sealed by October 1, 2027, or within 90 days after termination of the case by the prosecutor or final disposition, whichever is later; and</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>For which the case was terminated by the prosecutor or otherwise reached a final disposition and did not result in a conviction or acquittal pursuant to <cite path="§24-501">§ 24-501</cite> on or after [March 10, 2023], shall be sealed within 90 days after termination of the case by the prosecutor or final disposition, whichever is later; and</text>
+        <text>For which the case was terminated by the prosecutor or otherwise reached a final disposition and did not result in a conviction or acquittal pursuant to <cite path="§24-501">§ 24-501</cite> on or after October 1, 2027, shall be sealed by October 1, 2027, or within 90 days after termination of the case by the prosecutor or final disposition, whichever is later; and</text>
       </para>
     </para>
     <para codify:path="(2)">
@@ -134,5 +137,9 @@
     <annotation doc="D.C. Law 25-217" path="§7290|(a)" type="Applicability" history="false" display-template="" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-217" path="§7290">Section 7290(a) of D.C. Law 25-217</cite> amended <cite doc="D.C. Law 25-175" path="§40|(b)">section 40(b) of D.C. Law 25-175</cite>, amending <cite doc="D.C. Law 24-284" path="§301"> section 301 of D.C. Law 24-284</cite> making the amendment of this section by section 101(b) of D.C. Law 24-284 applicable as of  March 1, 2025.
         </annotation>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7290|(a)" type="History" display="false"/>
+    <annotation app="2025-03-21" doc="D.C. Act 26-34" eff="2025-03-21" path="§2" type="History" display="false"/>
+    <annotation app="2025-03-21" doc="D.C. Act 26-34" eff="2025-03-21" path="§2|(a)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Act 26-34" eff="2025-03-21" path="§2|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-34" path="§2" codified:display="Note" app="2025-03-21" eff="2025-03-21">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-34" path="§2">§ 2 of Second Chance Clarification Emergency Amendment Act of 2025 (D.C. Act 26-34, Mar. 21, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
