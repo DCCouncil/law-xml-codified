@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-301.30</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 15, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-301.30(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Vehicle inspection officers.</heading>
   <para>
     <num>(a)</num>
-    <text>Vehicle inspection officers shall undergo training on the rules and regulations governing private and public vehicles-for-hire and undergo yearly performance evaluations. Vehicle inspection officers shall be prohibited from making traffic stops of on-duty private or public vehicles-for-hire in the act of transporting a fare, unless there is reasonable suspicion of a violation, and shall act in accordance with all rules governing their duties, as established through rulemaking.</text>
+    <text>Vehicle inspection officers shall undergo training on the rules and regulations governing private and public vehicles-for-hire and carrier-for-hire vehicles and undergo yearly performance evaluations. Vehicle inspection officers shall be prohibited from making traffic stops of on-duty private or public vehicles-for-hire in the act of transporting a fare, or a carrier-for-hire vehicle in the act of transporting a parcel, food, or beverage, unless there is reasonable suspicion of a violation, and shall act in accordance with all rules governing their duties, as established through rulemaking.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -24,5 +27,9 @@
     <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-184">D.C. Law 19-184</cite> added this section.</annotation>
     <annotation type="Prior Codifications">2001 Ed., § 50-329.01.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§50-301.07">§ 50-301.07</cite>.</annotation>
+    <annotation app="2022-10-17" doc="D.C. Act 24-584" eff="2022-10-17" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-584" eff="2022-10-17" path="§2|(c)|(1)" type="History"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-584" eff="2022-10-17" path="§2|(c)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-584" path="§2|(c)" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-584" path="§2|(c)">§ 2(c) of Department of For Hire Vehicles Delivery Vehicle Traffic Enforcement Expansion Emergency Amendment Act of 2022 (D.C. Act 24-584, Oct. 17, 2022, 69 DCR 012718)</cite>.</annotation>
   </annotations>
 </section>
