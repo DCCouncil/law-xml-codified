@@ -327,22 +327,22 @@
         <text>Section 3 (D.C. Official Code § 48-652) is amended by adding new subsections (e), (f), (g), and (h) to read as follows:</text>
         <include lvl="2">
           <para>
-            <codify:replace path="(e)" codified:doc="D.C. Code" codified:path="§48-652|(e)"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§48-652|(e)"/>
             <num>(e)</num>
             <text>Any agreement that a third-party meal delivery platform enters into with a restaurant must contain a provision allowing a food delivery worker to use the restroom facilities of the restaurant when performing a delivery or pickup service at the restaurant.</text>
           </para>
           <para>
-            <codify:replace path="(f)" codified:doc="D.C. Code" codified:path="§48-652|(f)"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§48-652|(f)"/>
             <num>(f)</num>
             <text>A third-party meal delivery platform shall not exclude any restaurant with whom the third-party meal delivery platform has an agreement from the relevant search results of a customer within 4 miles of a restaurant.</text>
           </para>
           <para>
-            <codify:replace path="(g)" codified:doc="D.C. Code" codified:path="§48-652|(g)"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§48-652|(g)"/>
             <num>(g)</num>
             <text>A third-party meal delivery platform shall not reduce the delivery radius of any restaurant below 4 miles based on the level or percentage of commissions paid. Nothing in this section shall prohibit a third-party meal delivery platform from offering a larger delivery radius for a fee.</text>
           </para>
           <para>
-            <codify:insert after="(g)" num-value="(h)" codified:doc="D.C. Code" codified:path="§48-652|(h)"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§48-652|(h)"/>
             <num>(h)</num>
             <text>A third-party meal delivery platform shall not reduce the number of food delivery workers available to deliver online orders from a restaurant with whom the third-party meal delivery platform has an agreement based solely on the level or percentage of commission paid. Nothing in this section shall prohibit a third-party meal delivery platform from offering priority delivery services for a fee.</text>
           </para>
@@ -354,8 +354,8 @@
         <text>A new section 4a is added to read as follows:</text>
         <include lvl="4">
           <section>
-            <codify:insert doc="D.C. Code" path="48|6A" after="§48-653" num-value="48-653a" history-prefix="as added" codified:doc="D.C. Code" codified:path="§48-653a"/>
-            <num codify:value="48-653a">4a</num>
+            <codify:insert doc="D.C. Code" path="48|6A" after="§48-653" num-value="48-653.01" history-prefix="as added" codified:doc="D.C. Code" codified:path="§48-653.01"/>
+            <num>4a</num>
             <heading proof="needed">Restaurant disclosure requirement.</heading>
             <text>A third-party meal delivery platform shall disclose to a restaurant, in plain language, the fees, commissions, and charges associated with the contracted services in the agreement.</text>
           </section>
@@ -368,8 +368,8 @@
         <text>A new section 6a is added to read as follows:</text>
         <include lvl="4">
           <section>
-            <codify:insert doc="D.C. Code" path="48|6A" after="§48-655" num-value="48-655a" history-prefix="as added" codified:doc="D.C. Code" codified:path="§48-655a"/>
-            <num codify:value="48-655a">6a</num>
+            <codify:insert doc="D.C. Code" path="48|6A" after="§48-655" num-value="48-655.01" history-prefix="as added" codified:doc="D.C. Code" codified:path="§48-655.01"/>
+            <num>6a</num>
             <heading proof="needed">Report by Mayor.</heading>
             <para>
               <num>(a)</num>
@@ -471,7 +471,7 @@
         </include>
         <aftertext>.</aftertext>
         <annotation doc="D.C. Law 24-292" type="History" path="§6a">Mar. 10, 2023, D.C. Law 24-292, § 6a</annotation>
-        <codify:not-funded-anno doc="D.C. Code" path="§48-655a" applicability-path="§401" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§48-655a" codified:display="Note"/>
+        <codify:not-funded-anno doc="D.C. Code" path="§48-655.01" applicability-path="§401" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§48-655.01" codified:display="Note"/>
       </para>
     </section>
   </container>
@@ -486,7 +486,7 @@
         <num>(a)</num>
         <text>Section 201 and section 301(d) shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
         <codify:applicability doc="D.C. Law 25-162" path="§201" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-163"/>
-        <codify:applicability doc="D.C. Law 25-162" path="§301|(d)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§48-655a"/>
+        <codify:applicability doc="D.C. Law 25-162" path="§301|(d)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§48-655.01"/>
       </para>
       <para>
         <num>(b)</num>
