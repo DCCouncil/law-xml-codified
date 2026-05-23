@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>32-1503</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on May 4, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§32-1503(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Coverage.</heading>
   <para>
     <num>(a)</num>
@@ -19,14 +16,7 @@
   </para>
   <para>
     <num>(a-1)</num>
-    <para>
-      <num>(1)</num>
-      <text>Notwithstanding any other law, the payment or award of compensation under the workers' compensation law of any other state to an employee or his dependent shall not bar a claim for compensation under <cite path="32|15">this chapter</cite> for the same injury or death; provided, that any such award of compensation under <cite path="32|15">this chapter</cite> shall be reduced by the amount of compensation received or awarded under the workers' compensation law of any other state.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>This subsection shall apply to all claims under <cite path="32|15">this chapter</cite> that are pending as of June 28, 2022, and all claims under <cite path="32|15">this chapter</cite> filed after June 28, 2022.</text>
-    </para>
+    <text>No employee shall receive compensation under this chapter and at any time receive compensation under the workers’ compensation law of any other state for the same injury or death.</text>
   </para>
   <para>
     <num>(a-2)</num>
@@ -61,9 +51,8 @@
     <annotation type="Section References">This section is referenced in <cite path="§32-1504">§ 32-1504</cite>.</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-453" path="§2" codified:display="Note" app="2022-06-28" eff="2022-06-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-453" path="§2">§ 2 of Parity in Workers' Compensation Recovery Emergency Amendment Act of 2022 (D.C. Act 24-453, June 28, 2022, 69 DCR 007765)</cite>.</annotation>
     <annotation app="2022-06-28" doc="D.C. Act 24-453" eff="2022-06-28" path="§2" type="History" display="false"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-183" eff="2022-09-21" path="§2" type="History" display="false"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-183" eff="2022-09-21" path="§2" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-183" path="§2" codified:display="Note" app="2022-09-21" eff="2022-09-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-183" path="§2">§ 2 of Parity in Workers' Compensation Recovery Temporary Amendment Act of 2022 (D.C. Law 24-183, Sept. 21, 2022, 69 DCR 009338)</cite>.</annotation>
+    <annotation app="2022-09-21" doc="D.C. Law 24-183" eff="2022-09-21" path="§2" type="History" display="false"/>
     <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§16" type="History"/>
   </annotations>
 </section>
