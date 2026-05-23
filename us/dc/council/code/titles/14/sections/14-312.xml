@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>14-312</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on June 23, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§14-312(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Sexual assault counselors.</heading>
   <para>
     <num>(a)</num>
@@ -185,5 +188,7 @@
     <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="§107|(d)|(1)|(A)" type="History"/>
     <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="§107|(d)|(1)|(B)" type="History"/>
     <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="§107|(d)|(2)" type="History"/>
+    <annotation app="2024-03-25" doc="D.C. Act 25-426" eff="2024-03-25" path="§3|(c)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Act 25-426" path="§3|(c)" codified:display="Note" app="2024-03-25" eff="2024-03-25">For temporary (225 days) amendment of this section, see <cite doc="D.C. Act 25-426" path="§3|(c)">§ 3(c) of Comprehensive Policing and Justice Reform Technical Emergency Amendment Act of 2024 (D.C. Act 25-426, Mar. 25, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

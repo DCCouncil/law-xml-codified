@@ -1,27 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>50-2352.05</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 19, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-2352.05(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Preexisting testing or operation before testing permit availability.</heading>
-  <para>
-    <num>(a)</num>
-    <text>An entity operating or testing autonomous vehicles in the District before the Department makes an AV testing permit application available pursuant to<cite path="§50-2352.01">§ 50-2352.01</cite> may continue operating or testing autonomous vehicles in the District until 60 days after the permit application becomes available.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>Within 60 days after the Department makes an AV testing permit available, an entity operating or testing autonomous vehicles in the District pursuant to subsection (a) shall:</text>
-    <para>
-      <num>(1)</num>
-      <text>Apply for an AV testing permit; or</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Cease operating or testing autonomous vehicles in the District.</text>
-    </para>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>An entity who applies for an AV testing permit pursuant to subsection (b)(1) of this section may continue operating or testing autonomous vehicles in the District while its application is pending, but the entity shall immediately cease operating or testing autonomous vehicles in the District if its application is denied.</text>
-  </para>
+  <text>Repealed.</text>
   <annotations>
     <annotation doc="D.C. Law 19-278" type="History" path="§3e">Apr. 23, 2013, D.C. Law 19-278, § 3e</annotation>
     <annotation type="Applicability" doc="D.C. Law 23-156" path="§2|(c)" codified:display="Note" app="2020-12-23" eff="2020-12-23">Applicability of <cite doc="D.C. Law 23-156" path="">D.C. Law 23-156</cite>: <cite doc="D.C. Law 23-156" path="§3">§ 3 of D.C. Law 23-156</cite> provided that the creation of this section by <cite doc="D.C. Law 23-156" path="§2|(c)">§ 2(c) of D.C. Law 23-156</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
@@ -33,5 +18,8 @@
     <annotation doc="D.C. Law 24-45" path="§7186" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7186">Section 7186 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-156" path="§3">section 3 of D.C. Law 23-156</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-154 has been implemented.
         </annotation>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7186" type="History" display="false"/>
+    <annotation app="2024-03-21" doc="D.C. Act 25-420" eff="2024-03-21" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2024-03-21" doc="D.C. Act 25-420" eff="2024-03-21" path="§2|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-420" path="§2|(b)" codified:display="Note" app="2024-03-21" eff="2024-03-21">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-420" path="§2|(b)">§ 2(b) of Autonomous Vehicle Testing Permit Requirement Emergency Amendment Act of 2024 (D.C. Act 25-420, Mar. 21, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

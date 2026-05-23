@@ -1,28 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>48-651</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on March 29, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§48-651(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of <cite path="48|6A">this chapter</cite>, the term:</text>
   <para>
     <num undesignated="true">(a)</num>
     <para>
       <num>(1)</num>
-      <text>"Agreement" means the written contract between a restaurant and a third-party meal delivery service required by <cite path="48|6A">this chapter</cite>.</text>
+      <text>"Agreement" means the written contract between a restaurant and a third-party meal delivery platform required by <cite path="48|6A">this chapter</cite>.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>"Core delivery service" means a service that lists a restaurant and makes the restaurant discoverable on all third-party meal delivery platforms where a third-party meal delivery service lists restaurants and facilitates or performs the delivery through employees or independent contractors of the third-party meal delivery service of food or beverages from restaurants to customers. The term "core delivery service" does not include any other service that may be provided by a third-party meal delivery service to a restaurant, including advertising or other promotional services, search engine optimization, business consulting, or credit card processing.</text>
-    </para>
-    <para>
-      <num>(2A)</num>
-      <text>"Covered restaurant" means a restaurant that elects to receive only core delivery service.</text>
-    </para>
-    <para>
-      <num>(2B)</num>
-      <text>"Delivery radius" means the circular delivery area from around a restaurant within which customers can search for and order from a restaurant.</text>
+      <text>"Core delivery service" means a service that lists a restaurant and makes the restaurant discoverable on all modalities or platforms offered by a third-party meal delivery platform, including any website, mobile application, or other internet service where a third-party meal delivery platform lists restaurants and facilitates or performs the delivery through employees or independent contractors of the third-party meal delivery platform of food or beverages from restaurants to customers.  The term "core delivery service" does not include any other service that may be provided by a third-party meal delivery platform to a restaurant, including advertising or other promotional services, search engine optimization, business consulting, or credit card processing.</text>
     </para>
     <para>
       <num>(3)</num>
@@ -38,11 +27,7 @@
     </para>
     <para>
       <num>(6)</num>
-      <text>"Third-party meal delivery platform" means any website, mobile application, or other internet service that offers or arranges for the sale of food and beverages prepared by, and [] provides the same-day delivery or same-day pickup of food and beverages from, restaurants.</text>
-    </para>
-    <para>
-      <num>(6A)</num>
-      <text>"Third-party meal delivery service" means a person that operates a third-party meal delivery platform.</text>
+      <text>"Third-party meal delivery platform" means any website, mobile application, or other internet service that offers or arranges for the sale of food and beverages prepared by, and the same-day delivery, and the same-day delivery or same-day pickup of food and beverages from, restaurants.</text>
     </para>
     <para>
       <num>(7)</num>
@@ -62,12 +47,7 @@
     <annotation app="2023-05-24" doc="D.C. Act 25-108" eff="2023-05-24" path="§2|(b)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-199" path="§2|(b)" codified:display="Note" app="2023-07-26" eff="2023-07-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-199" path="§2|(b)">§ 2(b) of Food Delivery Fees Transparency Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-199, July 26, 2023, 70 DCR 10748)</cite>.</annotation>
     <annotation app="2023-07-26" doc="D.C. Act 25-199" eff="2023-07-26" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2023-08-17" doc="D.C. Law 25-38" eff="2023-08-17" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2023-08-17" doc="D.C. Law 25-38" eff="2023-08-17" path="§2|(b)|(1)" type="History"/>
-    <annotation app="2023-08-17" doc="D.C. Law 25-38" eff="2023-08-17" path="§2|(b)|(2)" type="History"/>
-    <annotation app="2023-08-17" doc="D.C. Law 25-38" eff="2023-08-17" path="§2|(b)|(3)" type="History"/>
-    <annotation app="2023-08-17" doc="D.C. Law 25-38" eff="2023-08-17" path="§2|(b)|(4)" type="History"/>
-    <annotation app="2023-08-17" doc="D.C. Law 25-38" eff="2023-08-17" path="§2|(b)|(5)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-38" path="§2|(b)" codified:display="Note" app="2023-08-17" eff="2023-08-17">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-38" path="§2|(b)">§ 2(b) of Food Delivery Fees Transparency Temporary Amendment Act of 2023 (D.C. Law 25-38, Aug. 17, 2023, 70 DCR 9412)</cite>.</annotation>
+    <annotation app="2023-08-17" doc="D.C. Law 25-38" eff="2023-08-17" path="§2|(b)" type="History" display="false"/>
   </annotations>
 </section>

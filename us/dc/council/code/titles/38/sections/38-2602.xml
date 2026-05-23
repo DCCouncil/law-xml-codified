@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-2602</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on April 24, 2024. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§38-2602(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Responsibilities.</heading>
   <para>
     <num>(a)</num>
@@ -742,13 +739,13 @@
   </para>
   <para>
     <num>(d)</num>
-    <para>
+    <para placeholder="Repealed">
       <num>(1)</num>
-      <text>OSSE shall establish a School Support Office ("Office") to implement and administer a school support program ("Program") beginning in School Year 2025-2026. The Program shall provide support and resources for continuous academic improvement to DCPS schools and District public charter schools whose academic performance is, at minimum, in the lowest 5% of all public schools in the District.</text>
+      <text>Not funded.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(2)</num>
-      <text>It shall be the goal of the Program to substantially improve academic outcomes within 5 years of a school entering the Program. Subject to appropriations, the Office shall provide local funding, in addition to any Formula or federal funding already available to low performing schools, to qualifying schools that participate in the Program.</text>
+      <text>Not funded.</text>
     </para>
     <para>
       <num>(3)</num>
@@ -805,6 +802,14 @@
         <num>(J)</num>
         <text>Discuss any additional items relevant to the needs of the Office or Program.</text>
       </para>
+    </para>
+    <para placeholder="Repealed">
+      <num>(4)</num>
+      <text>Not funded.</text>
+    </para>
+    <para placeholder="Repealed">
+      <num>(5)</num>
+      <text>Not funded.</text>
     </para>
   </para>
   <annotations>
@@ -958,8 +963,10 @@
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4052" type="History"/>
     <annotation app="2022-06-30" doc="D.C. Law 24-128" eff="2022-06-30" path="§2" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§4154|(b)" type="History"/>
-    <annotation app="2024-01-25" doc="D.C. Act 25-372" eff="2024-01-25" path="§2" type="History" display="false"/>
-    <annotation app="2024-01-25" doc="D.C. Act 25-372" eff="2024-01-25" path="§2" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-372" path="§2" codified:display="Note" app="2024-01-25" eff="2024-01-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-372" path="§2">§ 2 of School Improvement Emergency Amendment Act of 2024 (D.C. Act 25-372, Jan. 25, 2024, 71 DCR 1206)</cite>.</annotation>
+    <annotation app="2024-01-25" doc="D.C. Act 25-372" eff="2024-01-25" path="§2" type="History" display="false"/>
+    <annotation app="2024-03-23" doc="D.C. Law 25-147" eff="2024-03-23" path="§3" type="History" display="false"/>
+    <annotation app="2024-03-23" doc="D.C. Law 25-147" eff="2024-03-23" path="§2" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 25-147" path="§2" codified:display="Note" app="2024-03-23" eff="2024-03-23">Applicability of <cite doc="D.C. Law 25-147" path="">D.C. Law 25-147</cite>: <cite doc="D.C. Law 25-147" path="§3">§ 3 of D.C. Law 25-147</cite> provided that the creation of subsection (d) paragraphs (1), (2), (4), and (5) of this section by <cite doc="D.C. Law 25-147" path="§2">§ 2 of D.C. Law 25-147</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-2352.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 19, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-2352.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Autonomous Vehicle Testing Program.</heading>
   <para>
     <num>(a)</num>
@@ -88,7 +91,39 @@
   </para>
   <para>
     <num>(d)</num>
-    <text>A person shall not test or operate an autonomous vehicle on a District roadway without an AV testing permit, unless the preexisting testing period applies pursuant to <cite path="§50-2352.05">§ 50-2352.05</cite>.</text>
+    <text>A person or entity shall not test or operate an autonomous vehicle on a District roadway without an AV testing permit, unless the Department has not yet made an AV testing permit application available and:</text>
+    <para>
+      <num>(1)</num>
+      <text>There is a test operator physically present in the vehicle who is performing the dynamic driving task or is prepared to take over the dynamic driving task from the autonomous driving system;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The person or entity is in compliance with other local and federal laws and regulations; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The person or entity provides the Department with electronic notification at least 10 business days prior to commencing testing or operating in the District, including the following information with respect to operations in the District, the:</text>
+      <para>
+        <num>(A)</num>
+        <text>Number of autonomous vehicles;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Model, make, and type of autonomous vehicles;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Operator training and license information;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Geographic testing or operation locations; and</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Time period of testing or operation.</text>
+      </para>
+    </para>
   </para>
   <para>
     <num>(e)</num>
@@ -152,5 +187,8 @@
     <annotation doc="D.C. Law 24-45" path="§7186" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7186">Section 7186 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-156" path="§3">section 3 of D.C. Law 23-156</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-154 has been implemented.
         </annotation>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7186" type="History" display="false"/>
+    <annotation app="2024-03-21" doc="D.C. Act 25-420" eff="2024-03-21" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2024-03-21" doc="D.C. Act 25-420" eff="2024-03-21" path="§2|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-420" path="§2|(a)" codified:display="Note" app="2024-03-21" eff="2024-03-21">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-420" path="§2|(a)">§ 2(a) of Autonomous Vehicle Testing Permit Requirement Emergency Amendment Act of 2024 (D.C. Act 25-420, Mar. 21, 2024, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
