@@ -2,6 +2,9 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>42-3505.01</num>
   <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on June 9, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§42-3505.01(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
       *NOTE: This section includes amendments by temporary legislation that will expire on October 7, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§42-3505.01(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Evictions.</heading>
@@ -698,9 +701,9 @@
     <num>(r)</num>
     <text>No tenant shall be evicted from a rental unit unless the housing provider provides documentation to the court at the time of filing a writ of restitution demonstrating that the housing provider has a current business license for rental housing issued pursuant to <cite path="§47-2828|(c)|(1)">§ 47-2828(c)(1)</cite>.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(s)</num>
-    <text>No purchaser from a foreclosure auction or other auction shall issue a notice to quit or otherwise initiate an action for possession, ejectment, or their equivalents (or charge rent, fair use and occupancy, or their equivalents) against a current occupant, unless the purchaser has obtained the deed to the property. This subsection shall not alter the rights of tenants whose tenancies survive foreclosure.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(t)</num>
@@ -855,6 +858,7 @@
     <annotation app="2021-10-07" doc="D.C. Act 24-178" eff="2021-10-07" path="§2|(b)|(1)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-186" path="§2|(a)" codified:display="Note" app="2021-10-25" eff="2021-10-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-186" path="§2|(a)">§ 2(a) of Fairness in Renting Emergency Amendment Act of 2021 (D.C. Act 24-186, Oct. 25, 2021, 68 DCR 011333)</cite>.</annotation>
     <annotation app="2021-10-25" doc="D.C. Act 24-186" eff="2021-10-25" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="§5|(b)|(1)" type="History" display="false"/>
     <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="§5|(b)|(1)|(A)|(i)" type="History"/>
     <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="§5|(b)|(1)|(A)|(ii)" type="History"/>
     <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="§5|(b)|(1)|(A)|(iii)" type="History"/>
@@ -864,7 +868,6 @@
     <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="§5|(b)|(1)|(F)" type="History"/>
     <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="§5|(b)|(1)|(G)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-39" path="§5|(b)|(1)" codified:display="Note" app="2021-10-27" eff="2021-10-27">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-39" path="§5|(b)|(1)">§ 5(b)(1) of Public Emergency Extension and Eviction and Utility Moratorium Phasing Temporary Amendment Act of 2021 (D.C. Law 24-39, Oct. 27, 2021, 68 DCR 009487)</cite>.</annotation>
-    <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="§5|(b)|(1)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-231" path="§3|(b)" codified:display="Note" app="2021-12-13" eff="2021-12-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-231" path="§3|(b)">§ 3(b) of Tenant Safe Harbor Emergency Amendment Act of 2021 (D.C. Act 24-231, Dec. 13, 2021, 68 DCR 013238)</cite>.</annotation>
     <annotation app="2021-12-13" doc="D.C. Act 24-231" eff="2021-12-13" path="§3|(b)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-307" path="§2|(a)" codified:display="Note" app="2022-01-24" eff="2022-01-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-307" path="§2|(a)">§ 2(a) of Fairness in Renting Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-307, Jan. 24, 2022, 69 DCR 000635)</cite>.</annotation>
@@ -881,5 +884,6 @@
     <annotation app="2022-05-18" doc="D.C. Law 24-115" eff="2022-05-18" path="§3|(a)|(1)" type="History"/>
     <annotation app="2022-05-18" doc="D.C. Law 24-115" eff="2022-05-18" path="§3|(a)|(3)" type="History"/>
     <annotation app="2022-05-18" doc="D.C. Law 24-115" eff="2022-05-18" path="§3|(a)|(4)" type="History"/>
+    <annotation app="2022-05-18" doc="D.C. Law 24-115" eff="2022-05-18" path="§3|(a)|(2)" type="History"/>
   </annotations>
 </section>
