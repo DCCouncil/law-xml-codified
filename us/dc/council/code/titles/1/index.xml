@@ -1278,7 +1278,7 @@
         <prefix>Part</prefix>
         <num>RR</num>
         <heading>Early Childhood Educator Pay Equity Fund.</heading>
-        <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="V" type="History" display="false"/>
+        <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="V|K" type="History" display="false"/>
         <xi:include href="./sections/1-325.431.xml"/>
       </container>
     </container>
@@ -2761,12 +2761,12 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Ethics Act.</heading>
-      <xi:include href="./sections/1-1162.01.xml"/>
-      <xi:include href="./sections/1-1162.01a.xml"/>
       <container>
         <prefix>Part</prefix>
         <num>A</num>
         <heading>Board of Ethics and Government Accountability.</heading>
+        <xi:include href="./sections/1-1162.01.xml"/>
+        <xi:include href="./sections/1-1162.01a.xml"/>
         <xi:include href="./sections/1-1162.02.xml"/>
         <xi:include href="./sections/1-1162.03.xml"/>
         <xi:include href="./sections/1-1162.04.xml"/>
@@ -2828,11 +2828,11 @@
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Campaign Finance.</heading>
-      <xi:include href="./sections/1-1163.01.xml"/>
       <container>
         <prefix>Part</prefix>
         <num>A</num>
         <heading>Office of Campaign Finance.</heading>
+        <xi:include href="./sections/1-1163.01.xml"/>
         <xi:include href="./sections/1-1163.02.xml"/>
         <xi:include href="./sections/1-1163.02a.xml"/>
         <xi:include href="./sections/1-1163.02b.xml"/>
