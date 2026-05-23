@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-301.07</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on July 21, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-301.07(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Department of For-Hire Vehicles – duties; jurisdiction; powers.</heading>
   <para>
     <num>(a)</num>
@@ -12,7 +15,7 @@
   </para>
   <para>
     <num>(b-1)</num>
-    <text>The DFHV shall employ no fewer than 20 vehicle inspection officers to enforce the laws, rules, and regulations pertaining to public and private vehicles-for-hire. A primary function of vehicle inspection officers shall be to ensure the proper provision of service and to support safety through street enforcement efforts, including traffic stops of public and private vehicles-for-hire, pursuant to protocol prescribed by the DFHV.</text>
+    <text>The DFHV shall employ vehicle inspection officers to enforce the laws, rules, and regulations pertaining to vehicles-for-hire and carriers-for-hire. A primary function of vehicle inspection officers shall be to ensure the proper provision of service and to support safety through street enforcement efforts, including traffic stops of public and private vehicles-for-hire and carriers-for-hire, pursuant to protocol prescribed by the DFHV.</text>
   </para>
   <para>
     <num>(b-2)</num>
@@ -114,11 +117,11 @@
     </para>
     <para>
       <num>(19)</num>
-      <text>Establish any rule relating to the regulation and supervision of the public vehicle-for-hire industry not specifically delineated in this subchapter, so long as the rule is consistent with this subchapter and related to the furtherance and protection of the public interest in public vehicle-for-hire transportation; and</text>
+      <text>Establish any rule relating to the regulation and supervision of the public vehicle-for-hire industry not specifically delineated in this subchapter, so long as the rule is consistent with this subchapter and related to the furtherance and protection of the public interest in public vehicle-for-hire transportation;</text>
     </para>
-    <para placeholder="Not Funded">
+    <para>
       <num>(19A)</num>
-      <text>Not Funded.</text>
+      <text>Establish rules relating to the enforcement of traffic regulations against carrier-for-hire vehicles; and</text>
     </para>
     <para>
       <num>(20)</num>
@@ -234,5 +237,10 @@
     <annotation app="notfunded" doc="D.C. Law 25-301" eff="2025-03-21" path="§2|(c)|(2)" type="History"/>
     <annotation app="notfunded" doc="D.C. Law 25-301" eff="2025-03-21" path="§2|(c)|(3)|(A)" type="History"/>
     <annotation app="notfunded" doc="D.C. Law 25-301" eff="2025-03-21" path="§2|(c)|(3)|(B)" type="History"/>
+    <annotation app="2025-04-24" doc="D.C. Act 26-62" eff="2025-04-24" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2025-04-24" doc="D.C. Act 26-62" eff="2025-04-24" path="§2|(c)|(1)" type="History"/>
+    <annotation app="2025-04-24" doc="D.C. Act 26-62" eff="2025-04-24" path="§2|(c)|(2)|(A)" type="History"/>
+    <annotation app="2025-04-24" doc="D.C. Act 26-62" eff="2025-04-24" path="§2|(c)|(2)|(B)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-62" path="§2|(c)" codified:display="Note" app="2025-04-24" eff="2025-04-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-62" path="§2|(c)">§ 2(c) of Department of For-Hire Vehicles Delivery Vehicle Traffic Enforcement Expansion Emergency Amendment Act of 2025 (D.C. Act 26-62, Apr. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

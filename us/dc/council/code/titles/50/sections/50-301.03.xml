@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-301.03</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on July 21, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-301.03(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
   <para>
@@ -17,9 +20,9 @@
       <num>(3)</num>
       <text>“Capital City Plan” means the formal alphabetical and numerical pattern and layout of streets within the District’s 4 quadrants, the formal pattern and layout of avenues and circles within the District, and the formal system and pattern of addresses within the District.</text>
     </para>
-    <para placeholder="Not Funded">
+    <para>
       <num>(3A)</num>
-      <text>Not Funded.</text>
+      <text>"Carrier-for-hire" means a class of transportation service by which a network of private operators, couriers, or carriers provide delivery of parcels, food, or beverages in the District for compensation.</text>
     </para>
     <para placeholder="Not Funded">
       <num>(3B)</num>
@@ -243,7 +246,7 @@
     </para>
     <para>
       <num>(30B)</num>
-      <text>“Vehicle inspection officer” means a District employee trained in the laws, rules, and regulations governing public and private vehicle-for-hire service to ensure the proper provision of service and to support safety through street enforcement efforts, including traffic stops of public and private vehicles-for-hire, pursuant to protocol prescribed under this subchapter and by regulation.</text>
+      <text>“Vehicle inspection officer” means a District employee trained in the laws, rules, and regulations governing public and private vehicle-for-hire and carrier-for-hire service to ensure the proper provision of service and to support safety through street enforcement efforts, including traffic stops of public and private vehicles-for-hire and carrier-for-hire vehicles, pursuant to protocol prescribed under this subchapter and by regulation.</text>
     </para>
     <para>
       <num>(31)</num>
@@ -316,5 +319,10 @@
     <annotation app="notfunded" doc="D.C. Law 25-301" eff="2025-03-21" path="§2|(a)|(6)" type="History"/>
     <annotation app="notfunded" doc="D.C. Law 25-301" eff="2025-03-21" path="§2|(a)|(7)|(A)" type="History"/>
     <annotation app="notfunded" doc="D.C. Law 25-301" eff="2025-03-21" path="§2|(a)|(7)|(B)" type="History"/>
+    <annotation app="2025-04-24" doc="D.C. Act 26-62" eff="2025-04-24" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2025-04-24" doc="D.C. Act 26-62" eff="2025-04-24" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2025-04-24" doc="D.C. Act 26-62" eff="2025-04-24" path="§2|(a)|(2)|(A)" type="History"/>
+    <annotation app="2025-04-24" doc="D.C. Act 26-62" eff="2025-04-24" path="§2|(a)|(2)|(B)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-62" path="§2|(a)" codified:display="Note" app="2025-04-24" eff="2025-04-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-62" path="§2|(a)">§ 2(a) of Department of For-Hire Vehicles Delivery Vehicle Traffic Enforcement Expansion Emergency Amendment Act of 2025 (D.C. Act 26-62, Apr. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
