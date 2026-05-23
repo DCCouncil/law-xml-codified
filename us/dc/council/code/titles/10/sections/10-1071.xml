@@ -1,43 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>10-1071</num>
   <text>
       *NOTE: Pursuant to <cite doc="D.C. Law 25-50" path="§7085">section 7085 of D.C. Law 25-50,</cite> this section applies <b>only</b> with respect to public restrooms managed or maintained by the District of Columbia Public Library as of October 1, 2023.*
       </text>
   <heading proof="needed">Definitions.</heading>
-  <para>
-    <num>(a)</num>
-    <text>"Public bathroom" means a toilet facility on property owned or operated by the District, including a District-owned property leased by a private entity, and on property owned or operated by entities that have been awarded human care agreements with the District.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>"Period product" means a tampon or a sanitary pad made from certified organic cotton and which do not contain the following:</text>
-    <para>
-      <num>(1)</num>
-      <text>Synthetic fibers;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Plastics, including a plastic applicator;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Chlorine;</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>Fragrances; or</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>Other substances hazardous to user health.</text>
-    </para>
-  </para>
-  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§10-1071" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-1071">Applicability of <cite doc="D.C. Law 24-250" path="">D.C. Law 24-250</cite>: <cite doc="D.C. Law 24-250" path="§4">§ 4 of D.C. Law 24-250</cite> provided that the creation of this section by <cite doc="D.C. Law 24-250" path="§2">§ 2 of D.C. Law 24-250</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <text>Not Funded.</text>
   <annotations>
     <annotation app="2023-02-23" doc="D.C. Law 24-250" eff="2023-02-23" path="" type="History" display="false"/>
-    <annotation app="2023-02-23" doc="D.C. Law 24-250" eff="2023-02-23" path="§2" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-250" eff="2023-02-23" path="§4|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-250" eff="2023-02-23" path="§2" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-250" path="§2" codified:display="Note" app="2023-02-23" eff="2023-02-23">Applicability of <cite doc="D.C. Law 24-250" path="">D.C. Law 24-250</cite>: <cite doc="D.C. Law 24-250" path="§4">§ 4 of D.C. Law 24-250</cite> provided that the creation of this section by <cite doc="D.C. Law 24-250" path="§2">§ 2 of D.C. Law 24-250</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-02-23" doc="D.C. Law 24-250" eff="2023-02-23" path="§2" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7085" type="History" display="false"/>
     <annotation doc="D.C. Law 25-50" path="§7085" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7085">Section 7085 of D.C. Law 25-50</cite> modified <cite doc="D.C. Law 24-250" path="§4">section 4 of D.C. Law 24-250</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 2 of Law 24-250 has been implemented only with respect to public restrooms managed or maintained by the District of Columbia Public Library.
         </annotation>
