@@ -23,19 +23,11 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Workplace Safety During the COVID-19 Pandemic Temporary Amendment Act of 2021".</text>
-  <codify:insert doc="D.C. Code" path="32" after="1A" history="false" codified:doc="D.C. Code" codified:path="32|1A-i">
-    <container>
-      <prefix>Chapter</prefix>
-      <num>1A-i</num>
-      <heading>Workplace Safety Protections During a Public Health Emergency.</heading>
-    </container>
-  </codify:insert>
   <container>
     <prefix>TITLE</prefix>
     <num>I</num>
     <heading>Workplace Protections</heading>
     <section>
-      <codify:insert doc="D.C. Code" path="32|1A-i" num-value="32-141.01" codified:doc="D.C. Code" codified:path="§32-141.01"/>
       <num>101</num>
       <heading>Definitions.</heading>
       <para>
@@ -114,10 +106,8 @@
           <text>"Workplace health and safety practices related to COVID-19" means a workplace health and safety practice related to an employer's compliance with federal or District law or regulations or Mayor's Orders, a standard issued by OSHA, or a recommendation by the CDC or WHO intended to make the transmission of COVID-19 between persons less likely.</text>
         </para>
       </para>
-      <codify:temporary-new-sec doc="D.C. Code" path="§32-141.01" interim-path="§32-531.17" perm-eff="2021-05-13" codified:doc="D.C. Code" codified:path="§32-141.01" codified:display="Note"/>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="32|1A-i" num-value="32-141.02" codified:doc="D.C. Code" codified:path="§32-141.02"/>
       <num>102</num>
       <heading>Employer policies and workplace protections.</heading>
       <para>
@@ -135,10 +125,8 @@
           <text>An employer may not disclose the name of an employee whom the employer learns has tested positive for COVID-19 except to DOH or another District, state, or federal agency responsible for and engaged in contact tracing or the containment of community spread of COVID-19, or as otherwise required by law.</text>
         </para>
       </para>
-      <codify:temporary-new-sec doc="D.C. Code" path="§32-141.02" interim-path="§32-531.17" perm-eff="2021-05-13" codified:doc="D.C. Code" codified:path="§32-141.02" codified:display="Note"/>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="32|1A-i" num-value="32-141.03" codified:doc="D.C. Code" codified:path="§32-141.03"/>
       <num>103</num>
       <heading>Prohibited retaliation.</heading>
       <para>
@@ -258,10 +246,8 @@
           <text>Be required to self-quarantine.</text>
         </para>
       </para>
-      <codify:temporary-new-sec doc="D.C. Code" path="§32-141.03" interim-path="§32-531.17" perm-eff="2021-05-13" codified:doc="D.C. Code" codified:path="§32-141.03" codified:display="Note"/>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="32|1A-i" num-value="32-141.04" codified:doc="D.C. Code" codified:path="§32-141.04"/>
       <num>104</num>
       <heading>Enforcement by the Mayor.</heading>
       <para>
@@ -375,10 +361,8 @@
         <num>(e)</num>
         <text>Nothing in this subsection shall be interpreted as obligating the Mayor to impose fines on the District or a District agency for a violation of <code-cite doc="D.C. Code" path="32|1A-i">this title</code-cite>.</text>
       </para>
-      <codify:temporary-new-sec doc="D.C. Code" path="§32-141.04" interim-path="§32-531.17" perm-eff="2021-05-13" codified:doc="D.C. Code" codified:path="§32-141.04" codified:display="Note"/>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="32|1A-i" num-value="32-141.05" codified:doc="D.C. Code" codified:path="§32-141.05"/>
       <num>105</num>
       <heading>Enforcement by the Attorney General.</heading>
       <para>
@@ -416,10 +400,8 @@
           <text>Equitable relief as may be appropriate.</text>
         </para>
       </para>
-      <codify:temporary-new-sec doc="D.C. Code" path="§32-141.05" interim-path="§32-531.17" perm-eff="2021-05-13" codified:doc="D.C. Code" codified:path="§32-141.05" codified:display="Note"/>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="32|1A-i" num-value="32-141.06" codified:doc="D.C. Code" codified:path="§32-141.06"/>
       <num>106</num>
       <heading>Private right of action.</heading>
       <para>
@@ -446,10 +428,8 @@
         <num>(b)</num>
         <text>An employee need not exhaust administrative remedies before bringing suit pursuant to this section.</text>
       </para>
-      <codify:temporary-new-sec doc="D.C. Code" path="§32-141.06" interim-path="§32-531.17" perm-eff="2021-05-13" codified:doc="D.C. Code" codified:path="§32-141.06" codified:display="Note"/>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="32|1A-i" num-value="32-141.07" codified:doc="D.C. Code" codified:path="§32-141.07"/>
       <num>107</num>
       <heading>Notice.</heading>
       <para>
@@ -464,10 +444,8 @@
         <num>(c)</num>
         <text>An employer shall not be required to post in accordance with subsection (b) of this section if the Mayor has posted the rights to which an individual is entitled under <code-cite doc="D.C. Code" path="32|1A-i">this title</code-cite> on the website created pursuant to <code-cite doc="D.C. Code" path="§32-161">section 3 of the Tipped Wage Workers Fairness Amendment Act of 2018, effective December 13, 2018 (D.C. Law 22-196; D.C. Code § 32-161)</code-cite>.</text>
       </para>
-      <codify:temporary-new-sec doc="D.C. Code" path="§32-141.07" interim-path="§32-531.17" perm-eff="2021-05-13" codified:doc="D.C. Code" codified:path="§32-141.07" codified:display="Note"/>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="32|1A-i" num-value="32-141.08" codified:doc="D.C. Code" codified:path="§32-141.08"/>
       <num>108</num>
       <heading>Contact tracing.</heading>
       <para>
@@ -478,15 +456,13 @@
         <num>(b)</num>
         <text>An employer that agrees with DOH or another public health entity to notify particular employees, customers, or contractors that may have been exposed to a person infected with COVID-19 must undertake best efforts to make such notifications and must retain proof of such notification for one year from the date of such notification for inspection by DOH or other public health entity with which it entered into such an agreement.</text>
       </para>
-      <codify:temporary-new-sec doc="D.C. Code" path="§32-141.08" interim-path="§32-531.17" perm-eff="2021-05-13" codified:doc="D.C. Code" codified:path="§32-141.08" codified:display="Note"/>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="32|1A-i" num-value="32-141.09" codified:doc="D.C. Code" codified:path="§32-141.09"/>
       <num>109</num>
       <heading>Preemption.</heading>
       <text><code-cite doc="D.C. Code" path="32|1A-i">This title</code-cite> shall only apply to the conduct of employers and employees in the District to the extent it does not conflict with or is not preempted by a federal law or regulation or standard issued by OSHA.</text>
-      <codify:temporary-new-sec doc="D.C. Code" path="§32-141.09" interim-path="§32-531.17" perm-eff="2021-05-13" codified:doc="D.C. Code" codified:path="§32-141.09" codified:display="Note"/>
     </section>
+    <codify:temporary doc="D.C. Code" path="§32-531.17" action="that required employers to adopt and implement workplace safety policies that adhere to all applicable Mayor's Orders related to the COVID-19 public health emergency" codified:doc="D.C. Code" codified:path="§32-531.17" codified:display="Note"/>
   </container>
   <container>
     <prefix>TITLE</prefix>
@@ -511,7 +487,6 @@
         <text>A new section 2317 is added to read as follows:</text>
         <include>
           <section>
-            <codify:insert path="2|2|IX-A|B" num-value="2-218.17" history-prefix="as added" codified:doc="D.C. Code" codified:path="§2-218.17"/>
             <num>2317</num>
             <heading>Personal protective equipment grant program.</heading>
             <para>
@@ -565,18 +540,10 @@
         </include>
         <aftertext>.</aftertext>
         <annotation doc="D.C. Law 16-33" type="History" path="§2317">Oct. 20, 2005, D.C. Law 16-33, § 2317</annotation>
-        <codify:temporary-new-sec doc="D.C. Code" path="§2-218.17" interim-path="§2-218.15" perm-eff="2021-05-13" codified:doc="D.C. Code" codified:path="§2-218.17" codified:display="Note"/>
+        <codify:temporary doc="D.C. Code" path="§2-218.15" action="that, during the public health emergency, allows the Mayor to issue special grants or loans to eligible small businesses" codified:doc="D.C. Code" codified:path="§2-218.15" codified:display="Note"/>
       </para>
     </section>
-    <codify:insert doc="D.C. Code" path="7" after="23A" history="false" codified:doc="D.C. Code" codified:path="7|23A-ii">
-      <container>
-        <prefix>Chapter</prefix>
-        <num>23A-ii</num>
-        <heading>Authority of the Chief Procurement Officer During a Public Health Emergency.</heading>
-      </container>
-    </codify:insert>
     <section>
-      <codify:insert doc="D.C. Code" path="7|23A-ii" num-value="7-2336" codified:doc="D.C. Code" codified:path="§7-2336"/>
       <num>202</num>
       <heading>Authority of Chief Procurement Officer.</heading>
       <para>
@@ -618,7 +585,7 @@
           <text>"Public health emergency" means the Coronavirus ("COVID-19") public health emergency declared pursuant to Mayor's Order 2020-045, on March 11, 2020, and all subsequent extensions.</text>
         </para>
       </para>
-      <codify:temporary-new-sec doc="D.C. Code" path="§7-2336" interim-path="§7-2332" perm-eff="2021-05-13" codified:doc="D.C. Code" codified:path="§7-2336" codified:display="Note"/>
+      <codify:temporary doc="D.C. Code" path="§7-2332" action="that grants to the Chief Procurement Office the authority, during the public health emergency, and for 90 days thereafter, to enter into an indefinite-delivery/indefinite quantity contract for PPE, sanitization and cleaning products, related equipment, or other goods or supplies in furtherance of the District's COVID-19 recovery efforts" codified:doc="D.C. Code" codified:path="§7-2332" codified:display="Note"/>
     </section>
   </container>
   <container codify:doc="D.C. Code">
@@ -657,25 +624,16 @@
         <para codify:path="(i)">
           <num>(1)</num>
           <text>Sub-subparagraph (i) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-623.01|(5)|(B)|(i)">
-            <find>; and</find>
-            <replace>;</replace>
-          </codify:find-replace>
         </para>
         <para codify:path="(ii)">
           <num>(2)</num>
           <text>Sub-subparagraph (ii) is amend by striking the period and inserting the phrase "; and" in its place.</text>
-          <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§1-623.01|(5)|(B)|(ii)">
-            <find>.</find>
-            <replace>; and</replace>
-          </codify:find-replace>
         </para>
         <para>
           <num>(3)</num>
           <text>A new sub-subparagraph (iii) is added to read as follows:</text>
           <include lvl="3">
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§1-623.01|(5)|(B)|(iii)"/>
               <num>(iii)</num>
               <text>The contracting of COVID-19 (the disease caused by the novel Coronavirus SARS-CoV-2 or any of its recognized mutant variations) in the course of and within the scope of employment.</text>
             </para>
@@ -689,7 +647,6 @@
         <text>Section 2320 (D.C. Official Code § 1-623.20) is amended by adding a new subsection (a-1) to read as follows:</text>
         <include>
           <para>
-            <codify:insert path="§1-623.20" after="(a)" codified:doc="D.C. Code" codified:path="§1-623.20|(a-1)"/>
             <num>(a-1)</num>
             <text>The employer of an employee who has contracted COVID-19 (the disease caused by the novel Coronavirus SARS-CoV-2 or any of its recognized mutant variations) in the course of and within the scope of employment or whose contact with others in the course of and within the scope of employment makes the contracting of COVID-19 probable shall report the injury or probable injury to the Mayor in accordance with subsection (a) of this section.</text>
           </para>
@@ -707,22 +664,16 @@
         <para>
           <num>(1)</num>
           <text>Strike the phrase "includes an injury caused by the willful act of third persons directed against an employee because of his employment." and insert the phrase "includes:" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1501|(12)">
-            <find>includes an injury caused by the willful act of third persons directed against an employee because of his employment.</find>
-            <replace>includes:</replace>
-          </codify:find-replace>
         </para>
         <para>
           <num>(2)</num>
           <text>New subparagraphs (A) and (B) are added to read as follows:</text>
           <include lvl="2">
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§32-1501|(12)|(A)"/>
               <num>(A)</num>
               <text>An injury caused by the willful act of third persons directed against an employee because of his employment; and</text>
             </para>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§32-1501|(12)|(B)"/>
               <num>(B)</num>
               <text>The contracting of COVID-19 (the disease caused by the novel Coronavirus SARS-CoV-2 or any of its recognized mutant variations) in the course of and within the scope of employment.</text>
             </para>
@@ -736,7 +687,6 @@
         <text>Section 33 (D.C. Official Code § 32-1532) is amended by adding a new subsection (a-1) to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§32-1532|(a-1)"/>
             <num>(a-1)</num>
             <text>The employer of an employee who has contracted COVID-19 (the disease caused by the novel Coronavirus SARS-CoV-2 or any of its recognized mutant variations) in the course of and within the scope of employment or whose contact with others in the course of and within the scope of employment makes the contracting of COVID-19 probable shall report the injury or probable injury to the Mayor in accordance with subsection (a) of  this section.</text>
           </para>
@@ -756,25 +706,16 @@
       <para codify:path="(J)">
         <num>(a)</num>
         <text>Subparagraph (J) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-161|(a)|(1)|(J)">
-          <find>; and</find>
-          <replace>;</replace>
-        </codify:find-replace>
       </para>
       <para codify:path="(K)">
         <num>(b)</num>
         <text>Subparagraph (K) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-        <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§32-161|(a)|(1)|(K)">
-          <find>.</find>
-          <replace>; and</replace>
-        </codify:find-replace>
       </para>
       <para>
         <num>(c)</num>
         <text>A new subparagraph (L) is added to read as follows:</text>
         <include lvl="2">
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§32-161|(a)|(1)|(L)"/>
             <num>(L)</num>
             <text>The Workplace Safety During the COVID-19 Pandemic Temporary Amendment Act of 2021, passed on 2nd reading on March 2, 2021 (Engrossed version of Bill 24-59).</text>
           </para>
@@ -803,81 +744,6 @@
       <num>502</num>
       <heading>Fiscal impact statement.</heading>
       <text>The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact statement required by section 4a of the General Legislative Procedures Act of 1975, approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).</text>
-      <codify:insert doc="D.C. Code" path="§32-141.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-141.01">
-        <text>
-      *NOTE: This section was created by temporary legislation that will expire on December 24, 2021.*
-      </text>
-      </codify:insert>
-      <codify:insert doc="D.C. Code" path="§32-141.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-141.02">
-        <text>
-      *NOTE: This section was created by temporary legislation that will expire on December 24, 2021.*
-      </text>
-      </codify:insert>
-      <codify:insert doc="D.C. Code" path="§32-141.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-141.03">
-        <text>
-      *NOTE: This section was created by temporary legislation that will expire on December 24, 2021.*
-      </text>
-      </codify:insert>
-      <codify:insert doc="D.C. Code" path="§32-141.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-141.04">
-        <text>
-      *NOTE: This section was created by temporary legislation that will expire on December 24, 2021.*
-      </text>
-      </codify:insert>
-      <codify:insert doc="D.C. Code" path="§32-141.05" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-141.05">
-        <text>
-      *NOTE: This section was created by temporary legislation that will expire on December 24, 2021.*
-      </text>
-      </codify:insert>
-      <codify:insert doc="D.C. Code" path="§32-141.06" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-141.06">
-        <text>
-      *NOTE: This section was created by temporary legislation that will expire on December 24, 2021.*
-      </text>
-      </codify:insert>
-      <codify:insert doc="D.C. Code" path="§32-141.07" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-141.07">
-        <text>
-      *NOTE: This section was created by temporary legislation that will expire on December 24, 2021.*
-      </text>
-      </codify:insert>
-      <codify:insert doc="D.C. Code" path="§32-141.08" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-141.08">
-        <text>
-      *NOTE: This section was created by temporary legislation that will expire on December 24, 2021.*
-      </text>
-      </codify:insert>
-      <codify:insert doc="D.C. Code" path="§32-141.09" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-141.09">
-        <text>
-      *NOTE: This section was created by temporary legislation that will expire on December 24, 2021.*
-      </text>
-      </codify:insert>
-      <codify:insert doc="D.C. Code" path="§2-218.17" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-218.17">
-        <text>
-      *NOTE: This section was created by temporary legislation that will expire on December 24, 2021.*
-      </text>
-      </codify:insert>
-      <codify:insert doc="D.C. Code" path="§7-2336" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2336">
-        <text>
-      *NOTE: This section was created by temporary legislation that will expire on December 24, 2021.*
-      </text>
-      </codify:insert>
-      <codify:insert doc="D.C. Code" path="§1-623.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-623.01">
-        <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on December 24, 2021. To view the text of this section after the expiration of the temporary legislation, click this link: <cite doc="D.C. Code" path="§1-623.01(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
-      <codify:insert doc="D.C. Code" path="§1-623.20" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-623.20">
-        <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on December 24, 2021. To view the text of this section after the expiration of the temporary legislation, click this link: <cite doc="D.C. Code" path="§1-623.20(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
-      <codify:insert doc="D.C. Code" path="§32-1532" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1532">
-        <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on December 24, 2021. To view the text of this section after the expiration of the temporary legislation, click this link: <cite doc="D.C. Code" path="§32-1532(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
-      <codify:insert doc="D.C. Code" path="§32-161" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-161">
-        <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on December 24, 2021. To view the text of this section after the expiration of the temporary legislation, click this link: <cite doc="D.C. Code" path="§32-161(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </section>
     <section>
       <num>503</num>

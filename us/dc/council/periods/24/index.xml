@@ -3,6 +3,9 @@
   <heading>Council Period 24 (2021-2022)</heading>
   <text>RECENT ADDITIONS TO THE D.C. CODE</text>
   <text>
+    <cite doc="D.C. Act 24-264">• Ward Redistricting Emergency Amendment Act of 2021 (D.C. Act  24-264; Eff. Dec. 29, 2021)</cite>
+  </text>
+  <text>
     <cite doc="D.C. Act 24-263">• Public Service Commission Member Qualifications Congessional Review Emergency Amendment Act of 2021 (D.C. Act  24-263; Eff. Dec. 31, 2021)</cite>
   </text>
   <text>
@@ -48,6 +51,7 @@
   </collection>
   <collection name="emergency">
     <heading>Emergency Acts</heading>
+    <xi:include href="./acts/24-264.xml"/>
     <xi:include href="./acts/24-263.xml"/>
     <xi:include href="./acts/24-254.xml"/>
     <xi:include href="./acts/24-253.xml"/>
@@ -220,8 +224,11 @@
   </collection>
   <collection name="budget">
     <heading>Budget Legislation</heading>
+    <xi:include href="./laws/24-44.xml"/>
+    <xi:include href="./laws/24-43.xml"/>
     <xi:include href="./laws/24-29.xml"/>
     <xi:include href="./acts/24-175.xml"/>
+    <xi:include href="./acts/24-174.xml"/>
     <xi:include href="./acts/24-160.xml"/>
     <xi:include href="./acts/24-126.xml"/>
     <xi:include href="./acts/24-109.xml"/>
