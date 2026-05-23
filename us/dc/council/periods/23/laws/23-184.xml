@@ -517,7 +517,7 @@
           <para>
             <codify:insert codified:doc="D.C. Code" codified:path="§1-523.01|(f)|(70)"/>
             <num>(70)</num>
-            <text>The Commission on Poverty, established by section 2 of the Commission on Poverty Establishment Amendment Act of 2020, passed on 2nd reading on December 15, 2020 (Enrolled version of Bill 23-90).</text>
+            <text>The Commission on Poverty, established by <span codify:value="["/><code-cite doc="D.C. Code" path="§3-641.02">section 2 of the Commission on Poverty Establishment Amendment Act of 2020, passed on 2nd reading on December 15, 2020 (Enrolled version of Bill 23-90)</code-cite><span codify:value="]"/>.</text>
           </para>
         </include>
         <aftertext>.</aftertext>
