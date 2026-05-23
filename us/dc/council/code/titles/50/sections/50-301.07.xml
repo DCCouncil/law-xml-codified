@@ -1,13 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-301.07</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on February 26, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-301.07(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Department of For-Hire Vehicles – duties; jurisdiction; powers.</heading>
   <para>
     <num>(a)</num>
-    <text>The DFHV is charged with the continuance, further development, and improvement of the vehicle-for-hire industry within the District, and for the overall regulation of limousines, sedans, taxicabs, taxicab companies, taxicab fleets, and taxicab associations.</text>
+    <text>The DFHV is charged with the continuance, further development, and improvement of the vehicle-for-hire industry and carrier-for-hire industry within the District, and for the overall regulation of limousines, sedans, taxicabs, taxicab companies, taxicab fleets, and taxicab associations.</text>
   </para>
   <para placeholder="Repealed">
     <num>(b)</num>
@@ -15,7 +12,7 @@
   </para>
   <para>
     <num>(b-1)</num>
-    <text>The DFHV shall employ vehicle inspection officers to enforce the laws, rules, and regulations pertaining to vehicles-for-hire and carriers-for-hire. A primary function of vehicle inspection officers shall be to ensure the proper provision of service and to support safety through street enforcement efforts, including traffic stops of public and private vehicles-for-hire and carriers-for-hire, pursuant to protocol prescribed by the DFHV.</text>
+    <text>The DFHV shall employ vehicle inspection officers to enforce the laws, rules, and regulations pertaining to public and private vehicles-for-hire and carriers-for-hire. A primary function of vehicle inspection officers shall be to ensure the proper provision of service and to support safety through street enforcement efforts, including traffic stops of public and private vehicles-for-hire and carriers-for-hire, pursuant to protocol prescribed by the DFHV.</text>
   </para>
   <para>
     <num>(b-2)</num>
@@ -233,16 +230,14 @@
     <annotation type="Applicability" doc="D.C. Law 25-301" path="§2|(c)" codified:display="Note" app="2025-03-21" eff="2025-03-21">Applicability of <cite doc="D.C. Law 25-301" path="">D.C. Law 25-301</cite>: <cite doc="D.C. Law 25-301" path="§4">§ 4 of D.C. Law 25-301</cite> provided that the amendment to this section by <cite doc="D.C. Law 25-301" path="§2|(c)">§ 2(c) of D.C. Law 25-301</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-03-21" doc="D.C. Law 25-301" eff="2025-03-21" path="§2|(c)" type="History"/>
     <annotation app="2025-03-21" doc="D.C. Law 25-301" eff="2025-03-21" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-301" eff="2025-03-21" path="§2|(c)|(1)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 25-301" eff="2025-03-21" path="§2|(c)|(2)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 25-301" eff="2025-03-21" path="§2|(c)|(3)|(A)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 25-301" eff="2025-03-21" path="§2|(c)|(3)|(B)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-301" eff="2025-03-21" path="§2|(c)|(1)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-301" eff="2025-03-21" path="§2|(c)|(2)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-301" eff="2025-03-21" path="§2|(c)|(3)|(A)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-301" eff="2025-03-21" path="§2|(c)|(3)|(B)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-62" path="§2|(c)" codified:display="Note" app="2025-04-24" eff="2025-04-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-62" path="§2|(c)">§ 2(c) of Department of For-Hire Vehicles Delivery Vehicle Traffic Enforcement Expansion Emergency Amendment Act of 2025 (D.C. Act 26-62, Apr. 24, 2025, 72 DCR 5330)</cite>.</annotation>
     <annotation app="2025-04-24" doc="D.C. Act 26-62" eff="2025-04-24" path="§2|(c)" type="History" display="false"/>
-    <annotation app="2025-07-16" doc="D.C. Law 26-18" eff="2025-07-16" path="§2|(c)" type="History" display="false"/>
-    <annotation app="2025-07-16" doc="D.C. Law 26-18" eff="2025-07-16" path="§2|(c)|(1)" type="History"/>
-    <annotation app="2025-07-16" doc="D.C. Law 26-18" eff="2025-07-16" path="§2|(c)|(2)|(A)" type="History"/>
-    <annotation app="2025-07-16" doc="D.C. Law 26-18" eff="2025-07-16" path="§2|(c)|(2)|(B)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-18" path="§2|(c)" codified:display="Note" app="2025-07-16" eff="2025-07-16">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-18" path="§2|(c)">§ 2(c) of Department of For-Hire Vehicles Delivery Vehicle Traffic Enforcement Expansion Temporary Amendment Act of 2025 (D.C. Law 26-18, July 16, 2025, 72 DCR 6114)</cite>.</annotation>
+    <annotation app="2025-07-16" doc="D.C. Law 26-18" eff="2025-07-16" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7193" type="History" display="false"/>
   </annotations>
 </section>
