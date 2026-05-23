@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-751.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on September 26, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-751.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <para>
@@ -19,7 +22,7 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>“Health Professional Shortage Area” and “HPSA” mean a geographic area, population group, or facility in the District of Columbia designated by the United States Department of Health and Human Services as lacking a sufficient number of primary care, dental, or mental health professionals to provide care for residents of the area or community.</text>
+      <text>“Health Professional Shortage Area” and “HPSA” mean a geographic area, population group, or facility in the District of Columbia designated by the United States Department of Health and Human Services as lacking a sufficient number of primary care, dental, mental health, specialty, or sub-specialty professionals to provide care for residents of the area or community.</text>
     </para>
     <para>
       <num>(5)</num>
@@ -31,7 +34,11 @@
     </para>
     <para>
       <num>(7)</num>
-      <text>“Physician” means a graduate of an accredited medical school of allopathic or osteopathic medicine who has completed post-graduate training in specialties of family practice medicine, general internal medicine, general pediatrics, obstetrics/gynecology, psychiatry, osteopathic general practice.</text>
+      <text>"Physician" means a person who is licensed by the Board of Medicine to engage in the practice of medicine in the District and who is in good standing under such license.</text>
+    </para>
+    <para>
+      <num>(7A)</num>
+      <text>"Program" means the District of Columbia Health Professional Recruitment Program established by <cite path="§7-751.02">§ 7-751.02</cite>.</text>
     </para>
     <para>
       <num>(8)</num>
@@ -39,10 +46,10 @@
     </para>
     <para>
       <num>(9)</num>
-      <text>“Service obligation site” means:</text>
+      <text>"Service obligation site" means:</text>
       <para>
         <num>(A)</num>
-        <text>A nonprofit entity located in a Health Professional Shortage Area or a Medically Underserved Area within the District of Columbia that provides primary care, mental health, or dental services to District of Columbia residents regardless of their ability to pay;</text>
+        <text>A nonprofit entity located in a Health Professional Shortage Area or a Medically Underserved Area within the District that provides primary care, mental health, dental, or sub-specialty services to District residents regardless of their ability to pay;</text>
       </para>
       <para>
         <num>(B)</num>
@@ -50,10 +57,14 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>A Department of Mental Health program; or</text>
+        <text>A Department of Behavioral Health program;</text>
       </para>
       <para>
         <num>(D)</num>
+        <text>A private practice setting that serves residents of a Medically Underserved Area and accepts a minimum percentage or total number of patients, as determined by the Director, participating in Medicare, Medicaid, HealthCare Alliance, or a similar public insurance program at a threshold determined by the Department of Health; or</text>
+      </para>
+      <para>
+        <num>(E)</num>
         <text>Any other District program designated by the Director as a service obligation site.</text>
       </para>
     </para>
@@ -75,5 +86,11 @@
         </annotation>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7078" type="History" display="false"/>
     <annotation app="2021-12-29" doc="D.C. Law 24-46" eff="2021-12-29" path="§4|(d)" type="History"/>
+    <annotation app="2022-07-06" doc="D.C. Act 24-468" eff="2022-07-06" path="§202|(a)" type="History" display="false"/>
+    <annotation app="2022-07-06" doc="D.C. Act 24-468" eff="2022-07-06" path="§202|(a)|(1)" type="History"/>
+    <annotation app="2022-07-06" doc="D.C. Act 24-468" eff="2022-07-06" path="§202|(a)|(2)" type="History"/>
+    <annotation app="2022-07-06" doc="D.C. Act 24-468" eff="2022-07-06" path="§202|(a)|(3)" type="History"/>
+    <annotation app="2022-07-06" doc="D.C. Act 24-468" eff="2022-07-06" path="§202|(a)|(4)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-468" path="§202|(a)" codified:display="Note" app="2022-07-06" eff="2022-07-06">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-468" path="§202|(a)">§ 202(a) of High Need Healthcare Career Scholarship and Health Professional Loan Repayment Program Emergency Amendment Act of 2022 (D.C. Act 24-468, July 6, 2022, 69 DCR 008390)</cite>.</annotation>
   </annotations>
 </section>

@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-751.08</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on September 26, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-751.08(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Loan repayment.</heading>
   <para>
     <num>(a)</num>
-    <text>Physicians and dentists shall be eligible to have 100% of their total debt, not to exceed $120,000, repaid by the Program over 4 years of service. For each year of participation, the Program will repay loan amounts according to the following schedule:</text>
+    <text>Physicians and dentists who are full-time participants in the Program shall be eligible to have 100% of their total debt, not to exceed $120,000, repaid by the Program over 4 years of service. For each year of participation, the Program will repay loan amounts according to the following schedule:</text>
     <para>
       <num>(1)</num>
       <text>For the 1st year of service, 18% of their total debt, not to exceed $21,600;</text>
@@ -24,7 +27,7 @@
   </para>
   <para>
     <num>(a-1)</num>
-    <text>Physicians who specialize and practice in obstetrics and gynecology, psychiatry, or other medical specialties specifically identified by the Director shall be eligible to have 100% of their total debt, not to exceed $200,000, repaid by the Program over 4 years of service; provided, that the participants provide full-time service in Ward 7 or 8. For each year of participation, the Program will repay loan amounts according to the following schedule:</text>
+    <text>Physicians who are full-time participants in the Program and who specialize and practice in obstetrics and gynecology, psychiatry, or another medical specialty identified by the Director or who sub-specialize and practice in oncology, cardiology, neurology, infectious diseases, pulmonary diseases, nephrology, endocrinology, podiatry, ophthalmology, or another medical sub-specialty identified by the Director shall be eligible to have 100% of their total debt, not to exceed $200,000, repaid by the Program over 4 years of service; provided, that the participants provide full-time service in Ward 7 or 8. For each year of participation, the Program will repay loan amounts according the following schedule:</text>
     <para>
       <num>(1)</num>
       <text>For the first year of service, 18% of their total debt, not to exceed $36,000;</text>
@@ -44,7 +47,7 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>Other health professionals shall be eligible to have 100% of their total debt, not to exceed $66,000, repaid by the Program over 4 years of service. For each year of participation, the Program will repay loan amounts according to the following schedule:</text>
+    <text>Other health professionals who are full-time participants in the Program shall be eligible to have 100% of their total debt, not to exceed $66,000, repaid by the Program over 4 years of service. For each year of participation, the Program will repay loan amounts according to the following schedule:</text>
     <para>
       <num>(1)</num>
       <text>For the 1st year of service, 18% of their total debt, not to exceed $11,800;</text>
@@ -66,8 +69,26 @@
     <num>(c)</num>
     <text>The Director is permitted to increase the dollar amount of the total loan repayment annually to adjust for inflation. All quarterly disbursements shall be adjusted accordingly.</text>
   </para>
+  <para>
+    <num>(d)</num>
+    <text>Physicians and dentists who are part-time participants in the Program shall be eligible to have 100% of their total debt, not to exceed $60,000, repaid by the Program over 4 years of service. For each year of participation, the Program will repay loan amounts according to a schedule set by the Mayor.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>Physicians who are part-time participants in the Program and who specialize and practice in obstetrics and gynecology, psychiatry, or another medical specialty identified by the Director or who sub-specialize and practice in oncology, cardiology, neurology, infectious diseases, pulmonary diseases, nephrology, endocrinology, podiatry, ophthalmology, or another medical sub-specialty identified by the Director shall be eligible to have 100% of their total debt, not to exceed $100,000, repaid by the Program over 4 years of service; provided, that the participants provide part-time service in Ward 7 or 8. For each year of participation, the Program will repay loan amounts according to a schedule set by the Mayor.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>Other health professionals who are part-time participants in the Program shall be eligible to have 100% of their total debt, not to exceed $33,000, repaid by the Program over 4 years of service. For each year of participation, the Program will repay loan amounts according to a schedule set by the Mayor.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 16-71" type="History" path="§9">Mar. 8, 2006, D.C. Law 16-71, § 9, 53 DCR 61</annotation>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§5052|(b)" type="History"/>
+    <annotation app="2022-07-06" doc="D.C. Act 24-468" eff="2022-07-06" path="§202|(d)" type="History" display="false"/>
+    <annotation app="2022-07-06" doc="D.C. Act 24-468" eff="2022-07-06" path="§202|(d)|(1)" type="History"/>
+    <annotation app="2022-07-06" doc="D.C. Act 24-468" eff="2022-07-06" path="§202|(d)|(2)" type="History"/>
+    <annotation app="2022-07-06" doc="D.C. Act 24-468" eff="2022-07-06" path="§202|(d)|(3)" type="History"/>
+    <annotation app="2022-07-06" doc="D.C. Act 24-468" eff="2022-07-06" path="§202|(d)|(4)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-468" path="§202|(d)" codified:display="Note" app="2022-07-06" eff="2022-07-06">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-468" path="§202|(d)">§ 202(d) of High Need Healthcare Career Scholarship and Health Professional Loan Repayment Program Emergency Amendment Act of 2022 (D.C. Act 24-468, July 6, 2022, 69 DCR 008390)</cite>.</annotation>
   </annotations>
 </section>

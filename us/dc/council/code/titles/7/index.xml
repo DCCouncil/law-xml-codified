@@ -658,6 +658,15 @@
     <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="I|B" type="History" display="false"/>
     <xi:include href="./sections/7-781.xml"/>
   </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7F</num>
+    <heading>High-Need Healthcare Career Scholarship and Supports Program.</heading>
+    <annotation app="2022-07-06" doc="D.C. Act 24-468" eff="2022-07-06" path="I" type="History" display="false"/>
+    <xi:include href="./sections/7-791.01.xml"/>
+    <xi:include href="./sections/7-791.02.xml"/>
+    <xi:include href="./sections/7-791.03.xml"/>
+  </container>
   <subheading>Subtitle B. Child and Infant Screening; Early Intervention.</subheading>
   <container>
     <prefix>Chapter</prefix>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-751.03</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on September 26, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-751.03(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Administration of the Program.</heading>
   <para>
     <num>(a)</num>
@@ -30,7 +33,14 @@
     <num>(b)</num>
     <text>The Department of Health reserves the right to conduct regular inspections to ensure that all service obligations sites meet the definition as set forth in <cite path="§7-751.01|(9)">§ 7-751.01(9)</cite>.</text>
   </para>
+  <para>
+    <num>(c)</num>
+    <text>The Director may impose additional requirements regarding the location of private practices or the acceptance of insurance types among those practices, as the Director considers appropriate, to support the goal of an equitable distribution of healthcare providers among District residents.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 16-71" type="History" path="§4">Mar. 8, 2006, D.C. Law 16-71, § 4, 53 DCR 61</annotation>
+    <annotation app="2022-07-06" doc="D.C. Act 24-468" eff="2022-07-06" path="§202|(b)" type="History" display="false"/>
+    <annotation app="2022-07-06" doc="D.C. Act 24-468" eff="2022-07-06" path="§202|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-468" path="§202|(b)" codified:display="Note" app="2022-07-06" eff="2022-07-06">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-468" path="§202|(b)">§ 202(b) of High Need Healthcare Career Scholarship and Health Professional Loan Repayment Program Emergency Amendment Act of 2022 (D.C. Act 24-468, July 6, 2022, 69 DCR 008390)</cite>.</annotation>
   </annotations>
 </section>
