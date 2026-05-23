@@ -635,6 +635,7 @@
       <xi:include href="./sections/50-1501.03.xml"/>
       <xi:include href="./sections/50-1501.03a.xml"/>
       <xi:include href="./sections/50-1501.04.xml"/>
+      <xi:include href="./sections/50-1501.04a.xml"/>
       <xi:include href="./sections/50-1501.05.xml"/>
     </container>
     <container>
@@ -1154,10 +1155,8 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>III-B</num>
-      <reason>Not Funded</reason>
       <heading>Community Service Debt Repayment Program.</heading>
-      <annotation app="2018-10-30" doc="D.C. Law 22-175" eff="2018-10-30" path="§3|(a)|(8)" type="History" display="false"/>
-      <annotation app="notfunded" doc="D.C. Law 22-175" eff="2018-10-30" path="§2|(i)" type="History" display="false"/>
+      <annotation app="2018-10-30" doc="D.C. Law 22-175" eff="2018-10-30" path="§2|(i)" type="History" display="false"/>
       <xi:include href="./sections/50-2303.21.xml"/>
     </container>
     <container>
@@ -1243,6 +1242,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
+      <reason>Repealed</reason>
       <heading>Administrative Provisions.</heading>
       <xi:include href="./sections/50-2401.xml"/>
       <xi:include href="./sections/50-2402.xml"/>
@@ -1250,10 +1250,12 @@
       <xi:include href="./sections/50-2404.xml"/>
       <xi:include href="./sections/50-2405.xml"/>
       <xi:include href="./sections/50-2406.xml"/>
+      <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="§302|(f)" type="History"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
+      <reason>Repealed</reason>
       <heading>Removal and Disposition of Abandoned and Other Unlawfully Parked Vehicles.</heading>
       <xi:include href="./sections/50-2421.01.xml"/>
       <xi:include href="./sections/50-2421.02.xml"/>
@@ -1270,6 +1272,64 @@
       <xi:include href="./sections/50-2421.13.xml"/>
       <xi:include href="./sections/50-2421.14.xml"/>
       <xi:include href="./sections/50-2421.15.xml"/>
+      <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="§302|(g)" type="History"/>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>24A</num>
+    <heading>Parking Enforcement Modernization.</heading>
+    <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="" type="History" display="false"/>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>I</num>
+      <heading>General Provisions.</heading>
+      <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="I|A" type="History" display="false"/>
+      <xi:include href="./sections/50-2431.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>II</num>
+      <heading>Parking Enforcement Management Administration.</heading>
+      <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="I|B" type="History" display="false"/>
+      <xi:include href="./sections/50-2441.xml"/>
+      <xi:include href="./sections/50-2442.xml"/>
+      <xi:include href="./sections/50-2443.xml"/>
+      <xi:include href="./sections/50-2444.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>III</num>
+      <heading>Vehicle Immobilization and Impoundment.</heading>
+      <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="I|C" type="History" display="false"/>
+      <xi:include href="./sections/50-2451.xml"/>
+      <xi:include href="./sections/50-2452.xml"/>
+      <xi:include href="./sections/50-2453.xml"/>
+      <xi:include href="./sections/50-2454.xml"/>
+      <xi:include href="./sections/50-2455.xml"/>
+      <xi:include href="./sections/50-2456.xml"/>
+      <xi:include href="./sections/50-2457.xml"/>
+      <xi:include href="./sections/50-2458.xml"/>
+      <xi:include href="./sections/50-2459.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>IV</num>
+      <heading>Abandoned and Dangerous Vehicles.</heading>
+      <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="I|D" type="History" display="false"/>
+      <xi:include href="./sections/50-2461.xml"/>
+      <xi:include href="./sections/50-2462.xml"/>
+      <xi:include href="./sections/50-2463.xml"/>
+      <xi:include href="./sections/50-2464.xml"/>
+      <xi:include href="./sections/50-2465.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>V</num>
+      <heading>Rulemaking and Applicability.</heading>
+      <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="I|E" type="History" display="false"/>
+      <xi:include href="./sections/50-2471.xml"/>
+      <xi:include href="./sections/50-2472.xml"/>
     </container>
   </container>
   <container>

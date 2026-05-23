@@ -34,7 +34,7 @@
         <para>
           <num>(A)</num>
           <text>The lead-in language is amended by striking the phrase "at least 2 of the following apply" and inserting the phrase "at least one of the following applies" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2421.02|(1)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2421.02">
             <find>at least 2 of the following apply</find>
             <replace>at least one of the following applies</replace>
           </codify:find-replace>
@@ -42,14 +42,14 @@
         <para codify:path="(A)">
           <num>(B)</num>
           <text>Subparagraph (A) is repealed.</text>
-          <codify:repeal codified:doc="D.C. Code" codified:path="§50-2421.02|(1)|(A)"/>
+          <codify:repeal codified:doc="D.C. Code" codified:path="§50-2421.02"/>
         </para>
         <para codify:path="(D)">
           <num>(C)</num>
           <text>Subparagraph (D) is amended to read as follows:</text>
           <include lvl="2">
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§50-2421.02|(1)|(D)"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§50-2421.02"/>
               <num>(D)</num>
               <text>The vehicle does not display valid tags or a valid registration sticker; except, that a vehicle shall not be deemed an abandoned vehicle under this subparagraph solely because the vehicle displays expired tags or registration sticker, unless the tags or registration sticker expired at least one year before any enforcement action is taken under <code-cite doc="D.C. Code" path="50|24|II">this act</code-cite>, which shall be measured concurrently with the period of time required to establish that the vehicle is abandoned, as described in the lead-in language of this paragraph.</text>
             </para>
@@ -62,7 +62,7 @@
         <text>Paragraph (2) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§50-2421.02|(2)"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§50-2421.02"/>
             <num>(2)</num>
             <text>"Dangerous vehicle" means a motor vehicle, trailer, or semitrailer that, due to at least one of the following conditions existing for at least 24 hours, poses an imminent hazard to the public health, safety, or welfare:</text>
             <para>
@@ -80,7 +80,7 @@
       <para codify:path="(7)">
         <num>(3)</num>
         <text>Paragraph (7) is amended by striking the phrase "any 2" and inserting the word "any" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2421.02|(7)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2421.02">
           <find>any 2</find>
           <replace>any</replace>
         </codify:find-replace>
@@ -89,7 +89,7 @@
     <para codify:path="§50-2421.03|(1)">
       <num>(b)</num>
       <text>Section 3(1) (D.C. Official Code § 50-2421.03(1)) is amended by striking the semicolon and inserting the phrase "; except, that it shall be a defense to a violation under this paragraph if the vehicle owner filed a report, including the time and date of the event, with the Metropolitan Police Department or the vehicle owner's insurer about the damage to the vehicle, prior to receiving the Notice of Infraction;" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2421.03|(1)">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2421.03">
         <find>;</find>
         <replace>; except, that it shall be a defense to a violation under this paragraph if the vehicle owner filed a report, including the time and date of the event, with the Metropolitan Police Department or the vehicle owner's insurer about the damage to the vehicle, prior to receiving the Notice of Infraction;</replace>
       </codify:find-replace>
@@ -97,7 +97,7 @@
     <para codify:path="§50-2421.04|(e)">
       <num>(c)</num>
       <text>Section 4(e) (D.C. Official Code § 50-2421.04(e)) is amended by striking the phrase "prosecuted by the Office of the Corporation Counsel, and shall be punished by a fine of not more than the amount set forth in section 101 of the Criminal Fine Proportionality Amendment Act of 2012, passed on 2nd reading on November 1, 2012 (Enrolled version of Bill 19-214), imprisonment of not more than 90 days, or both" and inserting the phrase "subject to a civil fine of not more than $500" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2421.04|(e)">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2421.04">
         <find>prosecuted by the Office of the Corporation Counsel, and shall be punished by a fine of not more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, imprisonment of not more than 90 days, or both</find>
         <replace>subject to a civil fine of not more than $500</replace>
       </codify:find-replace>
@@ -108,7 +108,7 @@
       <para codify:path="(a)|(5)">
         <num>(1)</num>
         <text>Subsection (a)(5) is amended by striking the semicolon and inserting the phrase "; and" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2421.09|(a)|(5)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2421.09">
           <find>;</find>
           <replace>; and</replace>
         </codify:find-replace>
@@ -116,7 +116,7 @@
       <para codify:path="(c)">
         <num>(2)</num>
         <text>Subsection (c) is amended by striking the phrase "prosecuted by the Office of the Corporation Counsel, and shall be punished by a fine of not more than the amount set forth in section 101 of the Criminal Fine Proportionality Amendment Act of 2012, passed on 2nd reading on November 1, 2012 (Enrolled version of Bill 19-214), imprisonment of not more than 90 days, or both" and inserting the phrase "subject to a civil fine of not more than $500" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2421.09|(c)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2421.09">
           <find>prosecuted by the Office of the Corporation Counsel, and shall be punished by a fine of not more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, imprisonment of not more than 90 days, or both</find>
           <replace>subject to a civil fine of not more than $500</replace>
         </codify:find-replace>
@@ -125,7 +125,7 @@
     <para codify:path="§50-2421.10|(d)">
       <num>(e)</num>
       <text>Section 10(d) (D.C. Official Code § 50-2421.10(d)) is amended by striking the phrase "guilty of a misdemeanor prosecuted by the Office of the Corporation Counsel, and shall be subject to a fine for each offense of not more than the amount set forth in section 101 of the Criminal Fine Proportionality Amendment Act of 2012, passed on 2nd reading on November 1, 2012 (Enrolled version of Bill 19-214), imprisonment for a period not to exceed one year, or both" and inserting the phrase "subject to a civil fine of not more than $2,500" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2421.10|(d)">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2421.10">
         <find>guilty of a misdemeanor prosecuted by the Office of the Corporation Counsel, and shall be subject to a fine for each offense of not more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, imprisonment for a period not to exceed one year, or both</find>
         <replace>subject to a civil fine of not more than $2,500</replace>
       </codify:find-replace>

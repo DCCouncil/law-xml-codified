@@ -316,12 +316,12 @@
         <text>New paragraphs (8A) and (8B) are added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(8)" codified:doc="D.C. Code" codified:path="§50-2201.02|(8A)"/>
+            <codify:insert after="(8)"/>
             <num>(8A)</num>
             <text>"Immobilization device" means any device or mechanism that, when equipped to a motor vehicle, prevents the motor vehicle's operation but causes no damage to the motor vehicle unless the motor vehicle is moved while such device or mechanism is in place.</text>
           </para>
           <para>
-            <codify:insert after="(8A)" codified:doc="D.C. Code" codified:path="§50-2201.02|(8B)"/>
+            <codify:insert after="(8A)"/>
             <num>(8B)</num>
             <text>"Immobilization-eligible vehicle" means any unattended vehicle found parked on any public highway in the District of Columbia against which:</text>
             <para>
@@ -375,7 +375,7 @@
         <text>Paragraph (15) is repealed.</text>
         <codify:repeal codified:doc="D.C. Code" codified:path="§50-2201.02|(15)"/>
       </para>
-      <codify:not-funded-anno doc="D.C. Law 25-161" path="§4|(a)" applicability-path="§8" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.02|(8A)" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Law 25-161" path="§4|(a)" applicability-path="§8" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.02|(15)" codified:display="Note"/>
     </para>
     <para codify:path="§50-2201.03|(k)">
       <num>(b)</num>
@@ -385,7 +385,7 @@
         <text>Paragraph (1) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§50-2201.03|(k)|(1)"/>
+            <codify:replace/>
             <num>(1)</num>
             <text>The Mayor and the United States Park Police may take the following actions against an immobilization-eligible vehicle:</text>
             <para>
@@ -403,12 +403,12 @@
       <para codify:path="(5)">
         <num>(2)</num>
         <text>Paragraph (5) is amended by striking the period and inserting the phrase "; provided, that in the case of an immobilization or impoundment made pursuant to section 2(8B)(C), the owners shall also provide evidence of completion of a safe driving course created pursuant to section 9a(a) of the Motor Vehicle Services Fees and Driver Education Support Act of 1982, passed on 2nd reading on February 6, 2024 (Enrolled version of Bill 25-425)." in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2201.03|(k)|(5)">
+        <codify:find-replace count="1">
           <find>issued.</find>
           <replace>issued; provided, that in the case of an immobilization or impoundment made pursuant to <code-cite doc="D.C. Code" path="§50-2201.02|(8B)|(C)">section 2(8B)(C)</code-cite>, the owners shall also provide evidence of completion of a safe driving course created pursuant to <code-cite doc="D.C. Code" path="§50-1405.02|(a)">section 9a(a) of the Motor Vehicle Services Fees and Driver Education Support Act of 1982, passed on 2nd reading on February 6, 2024 (Enrolled version of Bill 25-425)</code-cite>.</replace>
         </codify:find-replace>
       </para>
-      <codify:not-funded-anno doc="D.C. Law 25-161" path="§4|(b)" applicability-path="§8" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.03|(k)|(1)" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Law 25-161" path="§4|(b)" applicability-path="§8" display-template=""/>
     </para>
     <para>
       <num>(c)</num>
@@ -1204,8 +1204,8 @@
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
       <codify:applicability doc="D.C. Law 25-161" path="§2" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-1405.02"/>
       <codify:applicability doc="D.C. Law 25-161" path="§3" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-1301.02|(3)|(C)"/>
-      <codify:applicability doc="D.C. Law 25-161" path="§4|(a)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.02|(8A)"/>
-      <codify:applicability doc="D.C. Law 25-161" path="§4|(b)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.03|(k)|(1)"/>
+      <codify:applicability doc="D.C. Law 25-161" path="§4|(a)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.02|(15)"/>
+      <codify:applicability doc="D.C. Law 25-161" path="§4|(b)" date="notfunded" history="false" display-template=""/>
       <codify:applicability doc="D.C. Law 25-161" path="§4|(d)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.05a"/>
       <codify:applicability doc="D.C. Law 25-161" path="§4|(f)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-1403.01"/>
       <codify:applicability doc="D.C. Law 25-161" path="§5" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2203.01"/>
