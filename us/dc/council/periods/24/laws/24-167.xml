@@ -8082,7 +8082,7 @@
           <text>A new subsection (a-1) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(a-1)" num-value="[(a-2)]" codified:doc="D.C. Code" codified:path="§47-850|[(a-2)]"/>
+              <codify:insert after="(a-1)" num-value="[(a-2)]" codified:doc="D.C. Code" codified:path="§47-850|(a-2)"/>
               <num>(a-1)</num>
               <para>
                 <num>(1)</num>
