@@ -131,7 +131,7 @@
         <text>Subsection (b) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace path="(b)" codified:doc="D.C. Code" codified:path="§8-651.07|(b)"/>
+            <codify:replace path="(b)" codified:doc="D.C. Code" codified:path="§8-651.07"/>
             <num>(b)</num>
             <para>
               <num>(1)</num>
@@ -170,7 +170,7 @@
         <text>A new subsection (b-1) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§8-651.07|(b-1)"/>
+            <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§8-651.07"/>
             <num>(b-1)</num>
             <text>The Mayor shall ensure that trees planted pursuant to this section are checked for survival at appropriate intervals to evaluate canopy replacement and inform future planting decisions.</text>
           </para>

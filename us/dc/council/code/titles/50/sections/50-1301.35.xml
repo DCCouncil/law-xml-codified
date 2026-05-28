@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-1301.35</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on January 1, 2027. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-1301.35(Perm)">Past Permanent Version</cite>.*
+      </text>
   <heading proof="needed">Definitions.</heading>
   <para>
     <num undesignated="true">(a)</num>
@@ -30,8 +33,10 @@
     <annotation type="Prior Codifications">1981 Ed., § 40-435.</annotation>
     <annotation type="Applicability" doc="D.C. Law 25-161" path="§3|(c)" codified:display="Note" app="2024-04-20" eff="2024-04-20">Applicability of <cite doc="D.C. Law 25-161" path="">D.C. Law 25-161</cite>: <cite doc="D.C. Law 25-161" path="§8">§ 8 of D.C. Law 25-161</cite> provided that the change made to this section by <cite doc="D.C. Law 25-161" path="§3|(c)">§ 3(c) of D.C. Law 25-161</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§3|(c)" type="History"/>
-    <annotation doc="D.C. Act 26-273" path="§2" type="Applicability" app="2026-03-04" eff="2026-03-04">Section 2 of <cite doc="D.C. Act 26-273" path="§2">D.C. Act 26-273</cite> provided that the amendments made to this section by <cite doc="D.C. Law 25-161" path="§3|(c)">section 3(c) of D.C. Law 25-161</cite> shall apply as of March 4, 2026. Therefore those amendments have been implemented.
+    <annotation app="2026-05-21" doc="D.C. Law 26-122" eff="2026-05-21" path="§2" type="History" display="false"/>
+    <annotation doc="D.C. Law 26-122" path="§2" type="Applicability" app="2026-05-21" eff="2026-05-21">Section 2 of <cite doc="D.C. Law 26-122" path="§2">D.C. Law 26-122</cite> provided that the amendments made to this section by <cite doc="D.C. Law 25-161" path="§3|(c)">section 3(c) of D.C. Law 25-161</cite> shall apply as of March 4, 2026. Therefore those amendments have been implemented.
          </annotation>
-    <annotation app="2026-03-04" doc="D.C. Act 26-273" eff="2026-03-04" path="§2" type="History"/>
+    <annotation app="2026-05-21" doc="D.C. Law 26-122" eff="2026-05-21" path="§2" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-122" path="§2" codified:display="Note" app="2026-05-21" eff="2026-05-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-122" path="§2">§ 2 of STEER Clarification Temporary Amendment Act of 2026 (D.C. Law 26-122, May 21, 2026, 73 DCR 5073)</cite>.</annotation>
   </annotations>
 </section>

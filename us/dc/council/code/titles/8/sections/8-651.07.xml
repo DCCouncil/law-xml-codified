@@ -1,61 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-651.07</num>
-  <heading>Tree Fund.</heading>
+  <heading proof="needed">Tree Fund.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established as a special fund the Tree Fund ("Fund"), which shall be administered by the Director in accordance with subsection (b) of this section.</text>
-  </para>
-  <para>
-    <num>(a-1)</num>
-    <text>Fees and penalties collected pursuant to <cite path="8|6B">this chapter</cite> or any rules established to implement <cite path="8|6B">this chapter</cite> shall be deposited into the Fund.</text>
+    <text>There is established as a special fund the Tree Fund ("Fund"), which shall be administered by the District Department of Transportation in accordance with subsection (c) of this section.</text>
   </para>
   <para>
     <num>(b)</num>
+    <text>All funds collected from the following sources shall be deposited into the Fund:</text>
     <para>
       <num>(1)</num>
-      <text>The Fund shall be used to:</text>
+      <text>Donations; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Fees and penalties collected pursuant to <cite path="8|6B">this chapter</cite> or any rule established pursuant to <cite path="8|6B">this chapter</cite>.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>Money in the Fund:</text>
+    <para>
+      <num>(1)</num>
+      <text>Shall be used for the following purposes:</text>
       <para>
         <num>(A)</num>
-        <text>Plant trees on public space and on District-owned land, including parks and school property; and</text>
+        <text>Tree planting in public space or District-owned land, including parks and school property; and</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>Provide income-contingent subsidies to assist District residents with costs related to the removal and replacement of hazardous trees.</text>
+        <text>Providing income-based subsidies to assist District residents with costs related to the removal and replacement of hazardous trees; and</text>
       </para>
     </para>
     <para>
       <num>(2)</num>
-      <text>The Fund may be used:</text>
+      <text>May be used for the following purposes:</text>
       <para>
         <num>(A)</num>
-        <text>In coordination with the District Department of the Environment, to support tree planting on private land;</text>
+        <text>Tree planting on private land, in coordination with the Department of Energy and Environment;</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>To conduct survival checks of replacement trees planted on public or private land; and</text>
+        <text>Conducting survival checks of trees planted on public or private land pursuant to paragraph (1)(A) of this subsection and subparagraph (A) of this paragraph; and</text>
       </para>
       <para>
         <num>(C)</num>
-        <text>For any associated costs incurred by the District in administering <cite path="8|6B">this chapter</cite>.</text>
+        <text>For any other costs associated with implementing <cite path="8|6B">this chapter</cite>, including administrative costs.</text>
       </para>
     </para>
   </para>
   <para>
-    <num>(b-1)</num>
+    <num>(d)</num>
     <text>The Mayor shall ensure that trees planted pursuant to this section are checked for survival at appropriate intervals to evaluate canopy replacement and inform future planting decisions.</text>
   </para>
-  <para placeholder="Repealed">
-    <num>(c)</num>
-    <text>Repealed.</text>
+  <para>
+    <num>(e)</num>
+    <text>Private voluntary donations to the Fund shall be tax deductible for purposes of District income and franchise taxes.</text>
   </para>
   <para>
-    <num>(c-1)</num>
-    <text>Any money remaining available in the Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
-  </para>
-  <para placeholder="Repealed">
-    <num>(d)</num>
-    <text>Repealed.</text>
+    <num>(f)</num>
+    <para>
+      <num>(1)</num>
+      <text>The money deposited into the Fund but not expended in a fiscal year shall not revert to the unassigned fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 14-309" type="History" path="§107">June 12, 2003, D.C. Law 14-309, § 107, 50 DCR 888</annotation>
@@ -83,5 +95,6 @@
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7129|(c)" type="History"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7129|(d)" type="History"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7129|(e)" type="History"/>
+    <annotation app="2026-05-21" doc="D.C. Law 26-113" eff="2026-05-21" path="§2|(d)" type="History"/>
   </annotations>
 </section>

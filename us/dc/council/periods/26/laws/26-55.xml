@@ -12276,7 +12276,7 @@
           <text>Subsection (a) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§8-651.07|(a)"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§8-651.07"/>
               <num>(a)</num>
               <text>There is established as a special fund the Tree Fund ("Fund"), which shall be administered by the Director in accordance with subsection (b) of this section.</text>
             </para>
@@ -12288,7 +12288,7 @@
           <text>A new subsection (a-1) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(a)" num-value="(a-1)" codified:doc="D.C. Code" codified:path="§8-651.07|(a-1)"/>
+              <codify:insert after="(a)" num-value="(a-1)" codified:doc="D.C. Code" codified:path="§8-651.07"/>
               <num>(a-1)</num>
               <text>Fees and penalties collected pursuant to <code-cite doc="D.C. Code" path="8|6B">this act</code-cite> or any rules established to implement <code-cite doc="D.C. Code" path="8|6B">this act</code-cite> shall be deposited into the Fund.</text>
             </para>
@@ -12298,14 +12298,14 @@
         <para codify:path="(c)">
           <num>(c)</num>
           <text>Subsection (c) is repealed.</text>
-          <codify:repeal codified:doc="D.C. Code" codified:path="§8-651.07|(c)"/>
+          <codify:repeal codified:doc="D.C. Code" codified:path="§8-651.07"/>
         </para>
         <para>
           <num>(d)</num>
           <text>A new subsection (c-1) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(c)" num-value="(c-1)" codified:doc="D.C. Code" codified:path="§8-651.07|(c-1)"/>
+              <codify:insert after="(c)" num-value="(c-1)" codified:doc="D.C. Code" codified:path="§8-651.07"/>
               <num>(c-1)</num>
               <text>Any money remaining available in the Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
             </para>
@@ -12315,7 +12315,7 @@
         <para codify:path="(d)">
           <num>(e)</num>
           <text>Subsection (d) is repealed.</text>
-          <codify:repeal codified:doc="D.C. Code" codified:path="§8-651.07|(d)"/>
+          <codify:repeal codified:doc="D.C. Code" codified:path="§8-651.07"/>
         </para>
       </section>
       <section codify:path="§8-113.05a|(d)">

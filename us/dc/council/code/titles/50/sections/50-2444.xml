@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-2444</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on January 1, 2027. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-2444(Perm)">Past Permanent Version</cite>.*
+      </text>
   <heading proof="needed">Directory of vehicle identification tags.</heading>
   <para>
     <num>(a)</num>
@@ -25,8 +28,9 @@
     <annotation doc="D.C. Law 26-55" path="§6072|(b)" type="Applicability" history="false" app="2025-12-06" eff="2025-12-06"><cite doc="D.C. Law 26-55" path="§6072|(b)">Section 6072(b) of D.C. Law 26-55</cite> repealed the applicability provision of <cite doc="D.C. Law 25-325" path="§114|(a)">section 114(a) of D.C. Law 25-325</cite> that impacted this section.  Therefore the amendment to this section by §114(a) of Law 25-325 has been implemented.
         </annotation>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§6072|(b)" type="History" display="false"/>
-    <annotation doc="D.C. Act 26-261" path="§2" type="Applicability" history="false" app="2026-02-13" eff="2026-02-13"><cite doc="D.C. Act 26-261" path="§2">Section 2 of D.C. Act 26-261</cite> amended the applicability provision of <cite doc="D.C. Law 25-325" path="§114|(b)">section 114(b) of D.C. Law 25-325</cite> that impacted this section.  Therefore the amendment to this section by §114(b) of Law 25-325 has been implemented.
+    <annotation app="2026-05-21" doc="D.C. Law 26-120" eff="2026-05-21" path="§2" type="History" display="false"/>
+    <annotation doc="D.C. Law 26-120" path="§2" type="Applicability" history="false" app="2026-05-21" eff="2026-05-21"><cite doc="D.C. Law 26-120" path="§2">Section 2 of D.C. Law 26-120</cite> amended the applicability provision of <cite doc="D.C. Law 25-325" path="§114|(b)">section 114(b) of D.C. Law 25-325</cite> that impacted this section.  Therefore the amendment to this section by §114(b) of Law 25-325 has been implemented.
         </annotation>
-    <annotation app="2026-02-13" doc="D.C. Act 26-261" eff="2026-02-13" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-120" path="§2" codified:display="Note" app="2026-05-21" eff="2026-05-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-120" path="§2">§ 2 of Parking Enforcement Modernization Technical Correction Temporary Amendment Act of 2026 (D.C. Law 26-120, May 21, 2026, 73 DCR 5749)</cite>.</annotation>
   </annotations>
 </section>

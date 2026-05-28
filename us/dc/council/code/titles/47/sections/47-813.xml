@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-813</num>
   <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on May 31, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-813(Perm)">Past Permanent Version</cite>.*
+      *NOTE: This section includes amendments by temporary legislation that will expire on January 1, 2027. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-813(Perm)">Past Permanent Version</cite>.*
       </text>
   <heading>Classes of property.</heading>
   <para>
@@ -1276,7 +1276,7 @@
         <text>Except as otherwise provided in this paragraph and subject to paragraphs (4) and (5) of this subsection, Class 1A Property shall be comprised of:</text>
         <para>
           <num>(i)</num>
-          <text>Residential real property that is improved and its legal use is for nontransient residential dwelling purposes, and that is not Class 1B Property; provided, that such property may be used to host transient guests pursuant to an unexpired short-term rental license endorsement issued pursuant to <cite path="§30-201.04">[§ 30-201.04]</cite>; or</text>
+          <text>Residential real property that is improved and its legal use is for nontransient residential dwelling purposes, and that is not Class 1B Property; provided, that such property may be used to host transient guests pursuant to an unexpired short-term rental license endorsement issued pursuant to <cite path="§30-201.04">§ 30-201.04</cite>; or</text>
         </para>
         <para>
           <num>(ii)</num>
@@ -1508,7 +1508,7 @@
     <num>(d-4)</num>
     <para>
       <num>(1)</num>
-      <text>If real property changes classification to Class 1A Property as defined in subsection (c-9)(2)(A)(ii) during the period:</text>
+      <text>If real property changes classification to Class 1A Property as defined in subsection (c-9)(2)(A)(ii) of this section during the period:</text>
       <para>
         <num>(A)</num>
         <text>October 1 through March 31 of the tax year, the newly reclassified Class 1A Property, or the portion thereof used exclusively for residential purposes if already improved or assessed under <cite path="§47-829">§ 47-829</cite>, shall be taxed at the Class 1A Property tax rate for the entire tax year; or</text>
@@ -1683,11 +1683,13 @@
     <annotation app="notfunded" doc="D.C. Law 26-41" eff="2025-10-01" path="§302|(b)|(2)|(B)" type="History"/>
     <annotation app="notfunded" doc="D.C. Law 26-41" eff="2025-10-01" path="§302|(b)|(3)" type="History"/>
     <annotation app="notfunded" doc="D.C. Law 26-41" eff="2025-10-01" path="§302|(b)|(4)" type="History"/>
-    <annotation app="2026-03-02" doc="D.C. Act 26-271" eff="2026-03-02" path="§2" type="History" display="false"/>
-    <annotation app="2026-03-02" doc="D.C. Act 26-271" eff="2026-03-02" path="§2|(a)|(1)" type="History"/>
-    <annotation app="2026-03-02" doc="D.C. Act 26-271" eff="2026-03-02" path="§2|(a)|(2)" type="History"/>
-    <annotation app="2026-03-02" doc="D.C. Act 26-271" eff="2026-03-02" path="§2|(b)" type="History"/>
-    <annotation app="2026-03-02" doc="D.C. Act 26-271" eff="2026-03-02" path="§2|(c)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-271" path="§2" codified:display="Note" app="2026-03-02" eff="2026-03-02">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-271" path="§2">§ 2 of Residential Building Permit Classification Emergency Amendment Act of 2026 (D.C. Act 26-271, Mar. 2, 2026, 73 DCR 3143)</cite>.</annotation>
+    <annotation app="2026-03-02" doc="D.C. Act 26-271" eff="2026-03-02" path="§2" type="History" display="false"/>
+    <annotation app="2026-05-21" doc="D.C. Law 26-119" eff="2026-05-21" path="§2" type="History" display="false"/>
+    <annotation app="2026-05-21" doc="D.C. Law 26-119" eff="2026-05-21" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2026-05-21" doc="D.C. Law 26-119" eff="2026-05-21" path="§2|(a)|(2)" type="History"/>
+    <annotation app="2026-05-21" doc="D.C. Law 26-119" eff="2026-05-21" path="§2|(b)" type="History"/>
+    <annotation app="2026-05-21" doc="D.C. Law 26-119" eff="2026-05-21" path="§2|(c)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-119" path="§2" codified:display="Note" app="2026-05-21" eff="2026-05-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-119" path="§2">§ 2 of Residential Building Permit Classification Temporary Amendment Act of 2026 (D.C. Law 26-119, May 21, 2026, 73 DCR 5745)</cite>.</annotation>
   </annotations>
 </section>
