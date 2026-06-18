@@ -160,7 +160,7 @@
     <para codify:path="(ix)">
       <num>(a)</num>
       <text>Sub-subparagraph (ix) is amended by striking the phrase "; or" and inserting a semicolon in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-2301|(9)|(A)|(ix)">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-2301|(9)|(A)">
         <find>; or</find>
         <replace>;</replace>
       </codify:find-replace>
@@ -168,7 +168,7 @@
     <para codify:path="(x)">
       <num>(b)</num>
       <text>Sub-subparagraph (x) is amended by striking the period and inserting the phrase "; or" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-2301|(9)|(A)|(x)">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-2301|(9)|(A)">
         <find>.</find>
         <replace>; or</replace>
       </codify:find-replace>
@@ -178,7 +178,7 @@
       <text>A new sub-subparagraph (xi) is added to read as follows:</text>
       <include lvl="3">
         <para>
-          <codify:insert after="(x)" num-value="(xi)" codified:doc="D.C. Code" codified:path="§16-2301|(9)|(A)|(xi)"/>
+          <codify:insert after="(x)" num-value="(xi)" codified:doc="D.C. Code" codified:path="§16-2301|(9)|(A)"/>
           <num>(xi)</num>
           <text>who has been subjected to, or is in imminent danger of being subjected to, female genital mutilation pursuant to <code-cite doc="D.C. Code" path="§22-1431|(b)">section 2(b) of the Female Genital Mutilation Prohibition Act of 2024, passed on 2nd reading on September 17, 2024 (Enrolled version of Bill 25-247)</code-cite>.</text>
         </para>

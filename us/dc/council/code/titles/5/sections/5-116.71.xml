@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>5-116.71</num>
   <text>
-      *NOTE: This section was created by emergency legislation that will expire on June 29, 2026.*
+      *NOTE: This section was created by temporary legislation that will expire on January 22, 2027.*
       </text>
   <heading proof="needed">Arrest report and probable cause affidavit transparency requirements.</heading>
   <para>
@@ -52,17 +52,19 @@
       <text>"Probable cause affidavit" means any affidavit prepared by a member of the Metropolitan Police Department to establish probable cause following a warrantless arrest.</text>
     </para>
   </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§5-116.51" expire="2026-03-31" codified:display="Note">For temporary (90 days) creation of § 5-116.71, see <cite doc="D.C. Act 26-290" path="§2">§ 2 of Full Accountability in Arrest Reporting Emergency Act of 2026 (D.C. Act 26-290, Mar. 31, 2026, 73 DCR 5882)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§5-116.71" applicability="2026-03-31" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§5-116.71">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-290" path="§2">§ 2 of Full Accountability in Arrest Reporting Emergency Act of 2026 (D.C. Act 26-290, Mar. 31, 2026, 73 DCR 5882)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§5-116.51" expire="2026-06-11" codified:display="Note">For temporary (225 days) creation of § 5-116.71, see <cite doc="D.C. Law 26-138" path="§2">§ 2 of Full Accountability in Arrest Reporting Temporary Act of 2026 (D.C. Law 26-138, June 11, 2026, 73 DCR 6810)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§5-116.71" applicability="2026-06-11" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§5-116.71">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 26-138" path="§2">§ 2 of Full Accountability in Arrest Reporting Temporary Act of 2026 (D.C. Law 26-138, June 11, 2026, 73 DCR 6810)</cite>.</codify:annotation>
   <codify:insert doc="D.C. Code" path="§5-116.71" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-116.71">
     <text>
-      *NOTE: This section was created by emergency legislation that will expire on June 29, 2026.*
+      *NOTE: This section was created by temporary legislation that will expire on January 22, 2027.*
       </text>
   </codify:insert>
   <annotations>
-    <annotation app="2026-03-31" doc="D.C. Act 26-290" eff="2026-03-31" path="" type="History" display="false"/>
-    <annotation app="2026-03-31" doc="D.C. Act 26-290" eff="2026-03-31" path="§2" type="History" display="false"/>
-    <annotation app="2026-03-31" doc="D.C. Act 26-290" eff="2026-03-31" path="§2" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-290" path="§2" codified:display="Note" app="2026-03-31" eff="2026-03-31">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-290" path="§2">§ 2 of Full Accountability in Arrest Reporting Emergency Act of 2026 (D.C. Act 26-290, Mar. 31, 2026, 73 DCR 5882)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-290" path="§2" codified:display="Note" app="2026-06-11" eff="2026-03-31">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-290" path="§2">§ 2 of Full Accountability in Arrest Reporting Emergency Act of 2026 (D.C. Act 26-290, Mar. 31, 2026, 73 DCR 5882)</cite>.</annotation>
+    <annotation app="2026-06-11" doc="D.C. Act 26-290" eff="2026-03-31" path="§2" type="History" display="false"/>
+    <annotation app="2026-06-11" doc="D.C. Law 26-138" eff="2026-06-11" path="" type="History" display="false"/>
+    <annotation app="2026-06-11" doc="D.C. Law 26-138" eff="2026-06-11" path="§2" type="History" display="false"/>
+    <annotation app="2026-06-11" doc="D.C. Law 26-138" eff="2026-06-11" path="§2" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-138" path="§2" codified:display="Note" app="2026-06-11" eff="2026-06-11">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 26-138" path="§2">§ 2 of Full Accountability in Arrest Reporting Temporary Act of 2026 (D.C. Law 26-138, June 11, 2026, 73 DCR 6810)</cite>.</annotation>
   </annotations>
 </section>
