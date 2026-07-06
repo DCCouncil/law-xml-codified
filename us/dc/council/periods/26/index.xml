@@ -5,6 +5,7 @@
     <heading>Permanent Laws</heading>
     <collection name="effective">
       <heading>Laws</heading>
+      <xi:include href="./laws/26-140.xml"/>
       <xi:include href="./laws/26-135.xml"/>
       <xi:include href="./laws/26-134.xml"/>
       <xi:include href="./laws/26-133.xml"/>
@@ -82,7 +83,6 @@
       <xi:include href="./acts/26-321.xml"/>
       <xi:include href="./acts/26-320.xml"/>
       <xi:include href="./acts/26-318.xml"/>
-      <xi:include href="./acts/26-317.xml"/>
     </collection>
   </collection>
   <collection name="emergency">
