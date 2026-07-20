@@ -57,16 +57,16 @@
     </para>
   </para>
   <annotations>
-    <annotation app="2018-07-17" doc="D.C. Law 22-137" eff="2018-07-17" path="" type="History" display="false"/>
-    <annotation app="2018-07-17" doc="D.C. Law 22-137" eff="2018-07-17" path="§4" type="History"/>
+    <annotation app="2018-07-17" doc="D.C. Law 22-137" eff="2018-07-17" path="" target-path="50" type="History" display="false"/>
+    <annotation app="2018-07-17" doc="D.C. Law 22-137" eff="2018-07-17" path="§4" target-path="50|1A" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-125" path="§2|(b)" codified:display="Note" app="2025-08-12" eff="2025-08-12">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-125" path="§2|(b)">§ 2(b) of Personal Delivery Device Weight Limit Emergency Amendment Act of 2025 (D.C. Act 26-125, Aug. 12, 2025, 72 DCR 8603)</cite>.</annotation>
-    <annotation app="2025-08-12" doc="D.C. Act 26-125" eff="2025-08-12" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2025-08-12" doc="D.C. Act 26-125" eff="2025-08-12" path="§2|(b)" target-path="§50-110.03" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-48" path="§2|(b)" codified:display="Note" app="2025-10-01" eff="2025-10-01">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-48" path="§2|(b)">§ 2(b) of Personal Delivery Device Weight Limit Temporary Amendment Act of 2025 (D.C. Law 26-48, Oct. 1, 2025, 72 DCR 8945)</cite>.</annotation>
-    <annotation app="2025-10-01" doc="D.C. Law 26-48" eff="2025-10-01" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2026-05-30" doc="D.C. Act 26-338" eff="2026-05-30" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2026-05-30" doc="D.C. Act 26-338" eff="2026-05-30" path="§2|(b)|(1)" type="History"/>
-    <annotation app="2026-05-30" doc="D.C. Act 26-338" eff="2026-05-30" path="§2|(b)|(2)" type="History"/>
-    <annotation app="2026-05-30" doc="D.C. Act 26-338" eff="2026-05-30" path="§2|(b)|(3)" type="History"/>
+    <annotation app="2025-10-01" doc="D.C. Law 26-48" eff="2025-10-01" path="§2|(b)" target-path="§50-110.03" type="History" display="false"/>
+    <annotation app="2026-05-30" doc="D.C. Act 26-338" eff="2026-05-30" path="§2|(b)" target-path="§50-110.03" type="History" display="false"/>
+    <annotation app="2026-05-30" doc="D.C. Act 26-338" eff="2026-05-30" path="§2|(b)|(1)" target-path="§50-110.03|(b)|(4)" type="History"/>
+    <annotation app="2026-05-30" doc="D.C. Act 26-338" eff="2026-05-30" path="§2|(b)|(2)" target-path="§50-110.03|(b)|(5)" type="History"/>
+    <annotation app="2026-05-30" doc="D.C. Act 26-338" eff="2026-05-30" path="§2|(b)|(3)" target-path="§50-110.03|(b)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-338" path="§2|(b)" codified:display="Note" app="2026-05-30" eff="2026-05-30">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-338" path="§2|(b)">§ 2(b) of Personal Delivery Device Weight Limit Emergency Amendment Act of 2026 (D.C. Act 26-338, May 30, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

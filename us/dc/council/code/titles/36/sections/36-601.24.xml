@@ -70,18 +70,19 @@
     <annotation doc="D.C. Law 3-172" type="History" path="§4">Mar. 10, 1981, D.C. Law 3-172, § 4, 27 DCR 4736</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 2-2524.</annotation>
     <annotation type="Prior Codifications">2001 Ed., § 3-1324</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(y)|(1)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(y)|(2)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(y)|(3)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(y)|(4)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(y)|(5)" type="History"/>
-    <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(b)" type="History"/>
-    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§6|(a)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(y)|(1)" target-path="§3-1324" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(y)|(2)" target-path="§3-1324" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(y)|(3)" target-path="§3-1324" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(y)|(4)" target-path="§3-1324" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(y)|(5)" target-path="§3-1324" type="History"/>
+    <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(a)" target-path="36" type="History" display="false"/>
+    <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(a)" target-path="36|6" type="History" display="false"/>
+    <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(b)" target-path="§36-601.24" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§6|(a)" target-path="36|6" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2073|(e)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2073|(e)|includes|2-2524">§ 2-2524 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2073|(e)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2073|(e)" target-path="§36-601.24" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§2073|(e)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§2073|(e)|includes|2-2524">§ 2-2524 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
-    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2073|(e)" type="History" display="false"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§2073|(e)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2073|(e)" target-path="§36-601.24" type="History" display="false"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§2073|(e)" target-path="§36-601.24" type="History"/>
   </annotations>
 </section>

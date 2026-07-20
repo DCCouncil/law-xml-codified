@@ -164,14 +164,14 @@
   </para>
   <annotations>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§5043" codified:display="Note" app="2022-09-21" eff="2022-07-13">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-470" path="§5043">§ 5043 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
-    <annotation app="2022-09-21" doc="D.C. Act 24-470" eff="2022-07-13" path="§5043" type="History" display="false"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="V" type="History" display="false"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§5043" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Act 24-470" eff="2022-07-13" path="§5043" target-path="§7-1234.02" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="V" target-path="7" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§5043" target-path="7|12C" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-558" path="§2" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-558" path="§2">§ 2 of Perinatal Mental Health Task Force Emergency Amendment Act of 2022 (D.C. Act 24-558, Oct. 17, 2022, 0 DCR 0)</cite>.</annotation>
-    <annotation app="2022-10-17" doc="D.C. Act 24-558" eff="2022-10-17" path="§2" type="History" display="false"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-558" eff="2022-10-17" path="§2" target-path="§7-1234.02" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-222" path="§2" codified:display="Note" app="2022-12-21" eff="2022-12-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-222" path="§2">§ 2 of Perinatal Mental Health Task Force Temporary Amendment Act of 2022 (D.C. Law 24-222, Dec. 21, 2022, 69 DCR 13971)</cite>.</annotation>
-    <annotation app="2022-12-21" doc="D.C. Law 24-222" eff="2022-12-21" path="§2" type="History" display="false"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-302" eff="2023-03-10" path="§3|(a)" type="History"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-302" eff="2023-03-10" path="§3|(b)" type="History"/>
+    <annotation app="2022-12-21" doc="D.C. Law 24-222" eff="2022-12-21" path="§2" target-path="§7-1234.02" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-302" eff="2023-03-10" path="§3|(a)" target-path="§7-1234.02|(b)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-302" eff="2023-03-10" path="§3|(b)" target-path="§7-1234.02|(c)|(7)" type="History"/>
   </annotations>
 </section>

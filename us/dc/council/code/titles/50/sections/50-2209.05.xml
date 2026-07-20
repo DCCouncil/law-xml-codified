@@ -32,16 +32,16 @@
   <annotations>
     <annotation doc="D.C. Law 11-198" type="History" path="§905">Apr. 9, 1997, D.C. Law 11-198, § 905</annotation>
     <annotation type="Applicability" codified:display="Note" app="2016-10-08" eff="2016-10-08" doc="D.C. Law 21-155" path="§801">Applicability of <cite doc="D.C. Law 21-155" path="">D.C. Law 21-155</cite>: <cite doc="D.C. Law 21-155" path="§901">§ 901 of D.C. Law 21-155</cite> provided that the creation of this section by <cite doc="D.C. Law 21-155" path="§801">§ 801 of D.C. Law 21-155</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="§801" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§6092" prefix="as added" type="History"/>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7023|(b)|(1)" type="History"/>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7023|(b)|(2)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="§801" target-path="|50|22|V|A" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§6092" prefix="as added" target-path="50|22|V|A" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7023|(b)|(1)" target-path="§50-2209.05" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7023|(b)|(2)" target-path="§50-2209.05" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-499" path="§14|(b)" codified:display="Note" app="2024-07-08" eff="2024-07-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-499" path="§14|(b)">§ 14(b) of Fiscal Year 2024 Revised Local Budget Adjustment Emergency Act of 2024 (D.C. Act 25-499, July 8, 2024, 71 DCR 7957)</cite>.</annotation>
-    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§14|(b)" type="History" display="false"/>
+    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§14|(b)" target-path="§50-2209.05" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§6054" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§6054">§ 6054 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§6054" type="History" display="false"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§6054" target-path="§50-2209.05" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-208" path="§14|(b)" codified:display="Note" app="2024-09-18" eff="2024-09-18">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-208" path="§14|(b)">§ 14(b) of Fiscal Year 2024 Revised Local Budget Adjustment Temporary Act of 2024 (D.C. Law 25-208, Sept. 18, 2024, 71 DCR 9914)</cite>.</annotation>
-    <annotation app="2024-09-18" doc="D.C. Law 25-208" eff="2024-09-18" path="§14|(b)" type="History" display="false"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6054" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-208" eff="2024-09-18" path="§14|(b)" target-path="§50-2209.05" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6054" target-path="§50-2209.05|(b)" type="History"/>
   </annotations>
 </section>

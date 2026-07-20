@@ -157,7 +157,7 @@
         <prefix>Part</prefix>
         <num>E</num>
         <heading>Grant for Inmate and Returning Citizen Assistance.</heading>
-        <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="III" type="History" display="false"/>
+        <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="III" target-path="24|2|II" type="History" display="false"/>
         <xi:include href="./sections/24-211.71.xml"/>
       </container>
     </container>
@@ -195,7 +195,7 @@
       <xi:include href="./sections/24-231.13.xml"/>
       <xi:include href="./sections/24-231.14.xml"/>
       <xi:include href="./sections/24-231.15.xml"/>
-      <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§15" type="History"/>
+      <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§15" target-path="24|2|IV" type="History"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -265,7 +265,7 @@
       <xi:include href="./sections/24-276.03.xml"/>
       <xi:include href="./sections/24-276.04.xml"/>
       <xi:include href="./sections/24-276.05.xml"/>
-      <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§20|(b)|(1)" type="History"/>
+      <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§20|(b)|(1)" target-path="24|2|VIII-A" type="History"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -344,7 +344,7 @@
     <prefix>Chapter</prefix>
     <num>4A</num>
     <heading>Clemency Board.</heading>
-    <annotation app="2018-12-13" doc="D.C. Law 22-197" eff="2018-12-13" path="" type="History" display="false"/>
+    <annotation app="2018-12-13" doc="D.C. Law 22-197" eff="2018-12-13" path="" target-path="24" type="History" display="false"/>
     <xi:include href="./sections/24-481.01.xml"/>
     <xi:include href="./sections/24-481.02.xml"/>
     <xi:include href="./sections/24-481.03.xml"/>
@@ -356,7 +356,7 @@
     <annotation doc="D.C. Law 22-197" path="II|A" type="Emergency Legislation" display-template="" history="false" app="2018-12-13" eff="2018-12-13">
           For temporary (90-day) creation of this chapter, see <cite doc="D.C. Act 22-434" path="§3112">§§ 3111 through 3118 of the Fiscal Year 2018 Budget Support Emergency Act of 2018, effective July 30, 2018 (D.C. Act 22-434; 65 DCR 8200)</cite>.
 </annotation>
-    <annotation app="2018-12-13" doc="D.C. Law 22-197" eff="2018-12-13" path="II|A" type="History" display="false"/>
+    <annotation app="2018-12-13" doc="D.C. Law 22-197" eff="2018-12-13" path="II|A" target-path="24|4A" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -499,7 +499,7 @@
       <prefix>Subchapter</prefix>
       <num>I-A</num>
       <heading>Conditions of Confinement of Juveniles.</heading>
-      <annotation app="2017-04-04" doc="D.C. Law 21-238" eff="2017-04-04" path="II" type="History" display="false"/>
+      <annotation app="2017-04-04" doc="D.C. Law 21-238" eff="2017-04-04" path="II" target-path="|24|9" type="History" display="false"/>
       <xi:include href="./sections/24-911.xml"/>
       <xi:include href="./sections/24-912.xml"/>
       <xi:include href="./sections/24-913.xml"/>

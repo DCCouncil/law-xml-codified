@@ -65,26 +65,27 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 14-309" type="History" path="§102">June 12, 2003, D.C. Law 14-309, § 102, 50 DCR 888</annotation>
-    <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§4|(b)" type="History" display="false"/>
-    <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(a)|(1)" type="History"/>
-    <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(a)|(2)" type="History"/>
+    <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§4|(b)" target-path="" type="History" display="false"/>
+    <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(a)|(1)" target-path="§102" type="History"/>
+    <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(a)|(2)" target-path="§102|(5)" type="History"/>
     <annotation path="§2|(a)" type="Editor's Notes" history="false" app="2016-07-01" eff="2016-07-01" doc="D.C. Law 21-133"><cite doc="D.C. Law 21-133" path="§4|(a)">Section 4(a) of D.C. Law 21-133</cite> provided that section 2(a), (b)(1), and (c) of Law 21-133 shall not apply to a person or nongovernmental entity who has an application for a Special Tree removal permit pending as of July 1, 20016.
       </annotation>
-    <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(a)" target-path="§102" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 21-133" path="§2|(a)" codified:display="Note" app="2016-07-01" eff="2016-07-01">Applicability of <cite doc="D.C. Law 21-133" path="">D.C. Law 21-133</cite>: <cite doc="D.C. Law 21-133" path="§4|(b)">§ 4(b) of D.C. Law 21-133</cite> provided that the change made to this section by <cite doc="D.C. Law 21-133" path="§2|(a)">§ 2(a) of D.C. Law 21-133</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(a)" type="History"/>
+    <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(a)" target-path="§8-651.02" type="History"/>
     <annotation doc="D.C. Law 21-160" path="§7012" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7012">Section 7012 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 21-133" path="§4|(b)">§ 4(b) of D.C. Law 21-133</cite>. Therefore the changes made to this section by D.C. Law 21-133 have been given effect.
         </annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7012" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7012" target-path="§2" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7012" target-path="§4|(b)" type="History" display="false"/>
     <annotation doc="D.C. Law 21-160" path="§7012" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08" display="false"><cite doc="D.C. Law 21-160" path="§7012">Section 7012 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 21-133" path="§4|(b)">§ 4(b) of D.C. Law 21-133</cite>. Therefore the changes made to this section by D.C. Law 21-133 have been given effect.
         </annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-104" path="§6122" codified:display="Note" app="2017-07-20" eff="2017-07-20">For temporary (90 days) amendment of section 4(a) of D.C. Law 21-133, see <cite doc="D.C. Act 22-104" path="§6122">§ 6122 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, July 20, 2017, 64 DCR 7032)</cite>.</annotation>
-    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§6122" type="History" display="false"/>
+    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§6122" target-path="§8-651.02" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§6122" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) amendment of section 4(a) of D.C. Law 21-133, see <cite doc="D.C. Act 22-167" path="§6122">§ 6122 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
-    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§6122" type="History" display="false"/>
+    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§6122" target-path="§8-651.02" type="History" display="false"/>
     <annotation doc="D.C. Law 22-33" path="§6122" type="Editor's Notes" history="false" app="2017-12-13" eff="2017-12-13"><cite doc="D.C. Law 22-33" path="§6122">Section 6122 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-133" path="§4|(a)">section 4(a) of D.C. Law 21-133</cite> to read as follows:
         </annotation>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§6122" type="History" display="false"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§6122" target-path="§8-651.02" type="History" display="false"/>
     <annotation doc="D.C. Law 22-33" path="§6122" type="Editor's Notes" history="false" app="2017-12-13" eff="2017-12-13">
       <include>
         <para>
@@ -101,8 +102,8 @@
         </para>
       </include>
     </annotation>
-    <annotation app="2022-08-16" doc="D.C. Law 24-152" eff="2022-08-16" path="§2|(a)|(1)" type="History"/>
-    <annotation app="2022-08-16" doc="D.C. Law 24-152" eff="2022-08-16" path="§2|(a)|(2)" type="History"/>
-    <annotation app="2026-05-21" doc="D.C. Law 26-113" eff="2026-05-21" path="§2|(a)" type="History"/>
+    <annotation app="2022-08-16" doc="D.C. Law 24-152" eff="2022-08-16" path="§2|(a)|(1)" target-path="§8-651.02" type="History"/>
+    <annotation app="2022-08-16" doc="D.C. Law 24-152" eff="2022-08-16" path="§2|(a)|(2)" target-path="§8-651.02" type="History"/>
+    <annotation app="2026-05-21" doc="D.C. Law 26-113" eff="2026-05-21" path="§2|(a)" target-path="§8-651.02|(5)" type="History"/>
   </annotations>
 </section>

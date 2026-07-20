@@ -32,14 +32,14 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 13-105" type="History" path="§26d-2">May 9, 2000, D.C. Law 13-105, § 26d-2</annotation>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2042|(f)" prefix="as added" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2042|(f)" prefix="as added" target-path="6|2|I" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§2022|(h)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§2022|(h)">§ 2022(h) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§2022|(h)" type="History" display="false"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(h)|(2)|(B)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(h)|(2)|(C)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(h)|(2)|(D)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(h)|(2)|(E)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(h)|(2)|(A)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(h)|(1)" type="History"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§2022|(h)" target-path="§6-229.02" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(h)|(2)|(B)" target-path="§6-229.02|(b)|(1)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(h)|(2)|(C)" target-path="§6-229.02|(b)|(2)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(h)|(2)|(D)" target-path="§6-229.02|(b)|(3)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(h)|(2)|(E)" target-path="§6-229.02|(b)|(5)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(h)|(2)|(A)" target-path="§6-229.02|(b)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(h)|(1)" target-path="§6-229.02" type="History"/>
   </annotations>
 </section>

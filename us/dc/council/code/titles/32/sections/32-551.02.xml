@@ -54,19 +54,19 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 21-160" type="History" path="§1153">Oct. 8, 2016, D.C. Law 21-160, § 1153</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="I|P" type="History" display="false"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2142|(c)" prefix="as added" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="I|P" target-path="|32|5" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2142|(c)" prefix="as added" target-path="32|5|V" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§4063|(b)" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§4063|(b)">§ 4063(b) of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4063|(b)" type="History" display="false"/>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4063|(b)|(1)|(A)" type="History"/>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4063|(b)|(1)|(B)" type="History"/>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4063|(b)|(2)|(A)" type="History"/>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4063|(b)|(2)|(B)" type="History"/>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4063|(b)|(3)|(A)" type="History"/>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4063|(b)|(3)|(B)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4063|(b)" target-path="§32-551.02" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4063|(b)|(1)|(A)" target-path="§32-551.02|(c)|(1)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4063|(b)|(1)|(B)" target-path="§32-551.02|(c)|(1)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4063|(b)|(2)|(A)" target-path="§32-551.02|(d)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4063|(b)|(2)|(B)" target-path="§32-551.02|(d)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4063|(b)|(3)|(A)" target-path="§32-551.02|(e)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4063|(b)|(3)|(B)" target-path="§32-551.02|(e)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§4013" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§4013">§ 4013 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§4013" type="History" display="false"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4013|(a)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4013|(b)" type="History"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§4013" target-path="§32-551.02" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4013|(a)" target-path="§32-551.02|(d)|(2)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4013|(b)" target-path="§32-551.02|(e)|(2)" type="History"/>
   </annotations>
 </section>

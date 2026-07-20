@@ -156,15 +156,16 @@
   </para>
   <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§4-555.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-555.01">Applicability of <cite doc="D.C. Law 22-118" path="">D.C. Law 22-118</cite>: <cite doc="D.C. Law 22-118" path="§301">§ 301 of D.C. Law 22-118</cite> provided that the creation of this section by <cite doc="D.C. Law 22-118" path="§101">§ 101 of D.C. Law 22-118</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="2018-07-03" doc="D.C. Law 22-118" eff="2018-07-03" path="" type="History" display="false"/>
-    <annotation app="2018-07-03" doc="D.C. Law 22-118" eff="2018-07-03" path="§101" type="History"/>
+    <annotation app="2018-07-03" doc="D.C. Law 22-118" eff="2018-07-03" path="" target-path="4|5" type="History" display="false"/>
+    <annotation app="2018-07-03" doc="D.C. Law 22-118" eff="2018-07-03" path="§101" target-path="4|5|III-A" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 22-118" path="§101" codified:display="Note" app="2018-07-03" eff="2018-07-03">Applicability of <cite doc="D.C. Law 22-118" path="">D.C. Law 22-118</cite>: <cite doc="D.C. Law 22-118" path="§301">§ 301 of D.C. Law 22-118</cite> provided that the creation of this section by <cite doc="D.C. Law 22-118" path="§101">§ 101 of D.C. Law 22-118</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2018-07-03" doc="D.C. Law 22-118" eff="2018-07-03" path="§101" target-path="§4-555.01" type="History"/>
     <annotation doc="D.C. Law 22-168" path="§7035" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§7035">Section 7035 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-118" path="§301">§ 301 of D.C. Law 22-118</cite> removing the applicability restriction impacting this section. Therefore the creation of this section by <cite doc="D.C. Law 22-118">D.C. Law 22-118</cite> has been given effect.
           </annotation>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7035" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§10|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§5" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7035" target-path="I" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§10|(a)" target-path="" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§5" target-path="§4-555.01|(10)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-348" path="§5" codified:display="Note" app="2023-04-21" eff="2023-04-21">Applicability of <cite doc="D.C. Law 24-348" path="">D.C. Law 24-348</cite>: <cite doc="D.C. Law 24-348" path="§10">§ 10 of D.C. Law 24-348</cite> provided that the change made to this section by <cite doc="D.C. Law 24-348" path="§5">§ 5 of D.C. Law 24-348</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§5" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§5" target-path="§4-555.01" type="History"/>
   </annotations>
 </section>

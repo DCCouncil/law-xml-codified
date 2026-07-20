@@ -21,12 +21,12 @@
   <annotations>
     <annotation doc="D.C. Law 15-331" type="History" path="§8">Apr. 12, 2005, D.C. Law 15-331, § 8, 52 DCR 1981</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§5212|(f)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§5212|(f)">§ 5212(f) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5212|(f)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5212|(f)" target-path="§7-2071.07" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§5212|(f)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§5212|(f)">§ 5212(f) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
-    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§5212|(f)" type="History" display="false"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5212|(f)|(1)|(A)" type="History"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5212|(f)|(1)|(B)" type="History"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5212|(f)|(2)" type="History"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5212|(f)|(3)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§5212|(f)" target-path="§7-2071.07" type="History" display="false"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5212|(f)|(1)|(A)" target-path="§7-2071.07|(a)" type="History"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5212|(f)|(1)|(B)" target-path="§7-2071.07|(a)" type="History"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5212|(f)|(2)" target-path="§7-2071.07|(c)" type="History"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5212|(f)|(3)" target-path="§7-2071.07|(d)" type="History"/>
   </annotations>
 </section>

@@ -66,10 +66,12 @@
     <annotation type="Effect of Amendments">“For the purposes of <cite path="7|23D|I">this subchapter</cite>, the term ‘automated external defibrillator’ or ‘AED’ or ‘defibrillator’ means a medical device heart monitor and defibrillator that:</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-217">D.C. Law 16-217</cite> rewrote this section, which formerly read:</annotation>
     <annotation type="Prior Codifications">2001 Ed., § 44-231</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3144|(a)|(1)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3144|(a)|(2)" type="History"/>
-    <annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="" type="History" display="false"/>
-    <annotation app="2024-12-17" doc="D.C. Law 25-254" eff="2024-12-17" path="§2|(a)|(1)" type="History"/>
-    <annotation app="2024-12-17" doc="D.C. Law 25-254" eff="2024-12-17" path="§2|(a)|(2)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3144|(a)|(1)" target-path="§2" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3144|(a)|(2)" target-path="§2" type="History"/>
+    <annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="" target-path="7" type="History" display="false"/>
+    <annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="" target-path="7|23D" type="History" display="false"/>
+    <annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="" target-path="§7-2371.01" type="History" display="false"/>
+    <annotation app="2024-12-17" doc="D.C. Law 25-254" eff="2024-12-17" path="§2|(a)|(1)" target-path="§7-2371.01" type="History"/>
+    <annotation app="2024-12-17" doc="D.C. Law 25-254" eff="2024-12-17" path="§2|(a)|(2)" target-path="§7-2371.01" type="History"/>
   </annotations>
 </section>

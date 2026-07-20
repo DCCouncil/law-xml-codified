@@ -42,8 +42,8 @@
     </para>
   </para>
   <annotations>
-    <annotation app="2015-02-26" doc="D.C. Law 20-154" eff="2015-02-26" path="I" type="History" display="false"/>
-    <annotation app="2015-02-26" doc="D.C. Law 20-154" eff="2015-02-26" path="§110" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(h)" type="History"/>
+    <annotation app="2015-02-26" doc="D.C. Law 20-154" eff="2015-02-26" path="I" target-path="8" type="History" display="false"/>
+    <annotation app="2015-02-26" doc="D.C. Law 20-154" eff="2015-02-26" path="§110" target-path="8|10A" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(h)" target-path="§8-1031.10|(c)" type="History"/>
   </annotations>
 </section>

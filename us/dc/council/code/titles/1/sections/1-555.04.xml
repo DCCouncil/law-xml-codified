@@ -8,10 +8,11 @@
   <reason>Repealed</reason>
   <text>Repealed.</text>
   <annotations>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="I" type="History" display="false"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§1025" type="History"/>
-    <annotation app="2021-11-03" doc="D.C. Law 24-44" eff="2021-11-03" path="§8|(a)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="I" target-path="1|5" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§1025" target-path="1|5|X" type="History"/>
+    <annotation app="2021-11-03" doc="D.C. Law 24-44" eff="2021-11-03" path="§8|(a)" target-path="1|5|X" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-44" path="§8|(a)" codified:display="Note" app="2021-11-03" eff="2021-11-03">For temporary (225 days) repeal of this section, see <cite doc="D.C. Law 24-44" path="§8|(a)">§ 8(a) of Fiscal Year 2021 Revised Local Budget and COVID Relief Adjustment Temporary Act of 2021 (D.C. Law 24-44, Nov. 3, 2021, 68 DCR 009690)</cite>.</annotation>
-    <annotation app="2021-11-03" doc="D.C. Law 24-44" eff="2021-11-03" path="§8|(a)" type="History" display="false"/>
+    <annotation app="2021-11-03" doc="D.C. Law 24-44" eff="2021-11-03" path="§8|(a)" target-path="1|5|X" type="History" display="false"/>
+    <annotation app="2021-11-03" doc="D.C. Law 24-44" eff="2021-11-03" path="§8|(a)" target-path="§1-555.04" type="History" display="false"/>
   </annotations>
 </section>

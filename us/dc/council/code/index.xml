@@ -72,12 +72,12 @@
   <xi:include href="./titles/50/index.xml"/>
   <xi:include href="./titles/51/index.xml"/>
   <xi:include href="./titles/99/index.xml"/>
-  <annotation app="2017-05-05" doc="Pub. L. 115-31" eff="2017-05-05" path="§907|(d)" type="History"/>
-  <annotation app="2021-04-27" doc="D.C. Law 23-275" eff="2021-04-27" path="§3|(k)" type="History"/>
-  <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" type="History" display="false"/>
-  <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§5|(a)" type="History" estimate="true"/>
-  <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" type="History" display="false"/>
-  <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§5|(b)" type="History" estimate="true"/>
-  <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" type="History" display="false"/>
-  <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§14|(b)" type="History"/>
+  <annotation app="2017-05-05" doc="Pub. L. 115-31" eff="2017-05-05" path="§907|(d)" target-path="" type="History"/>
+  <annotation app="2021-04-27" doc="D.C. Law 23-275" eff="2021-04-27" path="§3|(k)" target-path="" type="History"/>
+  <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" target-path="§5" type="History" display="false"/>
+  <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§5|(a)" target-path="(2)|(A)" type="History" estimate="true"/>
+  <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" target-path="§5" type="History" display="false"/>
+  <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§5|(b)" target-path="(3)" type="History" estimate="true"/>
+  <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" target-path="§14" type="History" display="false"/>
+  <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§14|(b)" target-path="" type="History"/>
 </document>

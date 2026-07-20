@@ -65,11 +65,11 @@
   <annotations>
     <annotation doc="D.C. Law 6-99" type="History" path="§621">Mar. 25, 1986, D.C. Law 6-99, § 621</annotation>
     <annotation doc="D.C. Law 15-172" type="History">as added July 8, 2004, D.C. Law 15-172, § 2(g), 51 DCR 4938</annotation>
-    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§3|(f)|(1)" type="History"/>
-    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ccc)|(1)|(A)" type="History"/>
-    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ccc)|(1)|(B)" type="History"/>
-    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ccc)|(2)|(A)" type="History"/>
-    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ccc)|(2)|(B)" type="History"/>
-    <annotation app="2025-06-10" doc="D.C. Law 26-7" eff="2025-06-10" path="§3|(c)|(8)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§3|(f)|(1)" target-path="§3-1206.21|(b)|(1)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ccc)|(1)|(A)" target-path="§3-1206.21|(a)|(2)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ccc)|(1)|(B)" target-path="§3-1206.21|(a)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ccc)|(2)|(A)" target-path="§3-1206.21|(b)|(4)|(A)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ccc)|(2)|(B)" target-path="§3-1206.21|(b)|(4)|(B)" type="History"/>
+    <annotation app="2025-06-10" doc="D.C. Law 26-7" eff="2025-06-10" path="§3|(c)|(8)" target-path="§3-1206.21" type="History"/>
   </annotations>
 </section>

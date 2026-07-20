@@ -5,10 +5,11 @@
   <reason>Not Funded</reason>
   <text>Not Funded.</text>
   <annotations>
-    <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="" type="History" display="false"/>
-    <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="§401" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-264" eff="2025-03-07" path="§104" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="" target-path="3" type="History" display="false"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="" target-path="3|14D" type="History" display="false"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="§401" target-path="§104" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 25-264" eff="2025-03-07" path="§104" target-path="3|14D|I" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 25-264" path="§104" codified:display="Note" app="2025-03-07" eff="2025-03-07">Applicability of <cite doc="D.C. Law 25-264" path="">D.C. Law 25-264</cite>: <cite doc="D.C. Law 25-264" path="§401">§ 401 of D.C. Law 25-264</cite> provided that the creation of this section by <cite doc="D.C. Law 25-264" path="§104">§ 104 of D.C. Law 25-264</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="§104" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="§104" target-path="§3-1464" type="History"/>
   </annotations>
 </section>

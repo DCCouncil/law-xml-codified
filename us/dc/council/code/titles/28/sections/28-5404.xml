@@ -60,25 +60,27 @@
   </para>
   <annotations>
     <annotation type="Applicability" doc="D.C. Law 23-187" path="§2|(c)" codified:display="Note" app="2021-03-16" eff="2021-03-16" display="false">Applicability of <cite doc="D.C. Law 23-187" path="">D.C. Law 23-187</cite>: <cite doc="D.C. Law 23-187" path="§3">§ 3 of D.C. Law 23-187</cite> provided that the creation of this section by <cite doc="D.C. Law 23-187" path="§2|(c)">§ 2(c) of D.C. Law 23-187</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2021-03-16" doc="D.C. Law 23-187" eff="2021-03-16" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-187" eff="2021-03-16" path="§2|(c)" target-path="§2|(c)" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-187" eff="2021-03-16" path="§2|(c)" target-path="28" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 23-187" path="§2|(c)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-187" path="">D.C. Law 23-187</cite>: <cite doc="D.C. Law 23-187" path="§3">§ 3 of D.C. Law 23-187</cite> provided that the creation of this section by <cite doc="D.C. Law 23-187" path="§2|(c)">§ 2(c) of D.C. Law 23-187</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2021-03-16" doc="D.C. Law 23-187" eff="2021-03-16" path="§2|(c)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-187" eff="2021-03-16" path="§2|(c)" target-path="§2|(c)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-187" eff="2021-03-16" path="§2|(c)" target-path="28|54" type="History"/>
     <annotation doc="D.C. Law 25-50" path="§7082" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7082">Section 7082 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 23-187" path="§3">section 3 of D.C. Law 23-187</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 2(c) of Law 23-187 has been implemented.
         </annotation>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7082" type="History" display="false"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7082" target-path="§28-5404" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-684" path="§2" codified:display="Note" app="2025-01-08" eff="2025-01-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-684" path="§2">§ 2 of Entertainment Establishment Employee Safety Emergency Amendment Act of 2024 (D.C. Act 25-684, Jan. 8, 2025, 72 DCR 339)</cite>.</annotation>
-    <annotation app="2025-01-08" doc="D.C. Act 25-684" eff="2025-01-08" path="§2" type="History" display="false"/>
+    <annotation app="2025-01-08" doc="D.C. Act 25-684" eff="2025-01-08" path="§2" target-path="§28-5404" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-293" path="§2" codified:display="Note" app="2025-03-07" eff="2025-03-07">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-293" path="§2">§ 2 of Entertainment Establishment Employee Safety Temporary Amendment Act of 2024 (D.C. Law 25-293, Mar. 7, 2025, 72 DCR 335)</cite>.</annotation>
-    <annotation app="2025-03-07" doc="D.C. Law 25-293" eff="2025-03-07" path="§2" type="History" display="false"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-293" eff="2025-03-07" path="§2" target-path="§28-5404" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-176" path="§2" codified:display="Note" app="2025-10-24" eff="2025-10-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-176" path="§2">§ 2 of Entertainment Establishment Employee Safety Extension Emergency Amendment Act of 2025 (D.C. Act 26-176, Oct. 24, 2025, 72 DCR 12391)</cite>.</annotation>
-    <annotation app="2025-10-24" doc="D.C. Act 26-176" eff="2025-10-24" path="§2" type="History" display="false"/>
-    <annotation app="2025-12-31" doc="D.C. Law 26-77" eff="2025-12-31" path="§2" type="History" display="false"/>
-    <annotation app="2025-12-31" doc="D.C. Law 26-77" eff="2025-12-31" path="§2|(a)" type="History"/>
-    <annotation app="2025-12-31" doc="D.C. Law 26-77" eff="2025-12-31" path="§2|(b)" type="History"/>
-    <annotation app="2025-12-31" doc="D.C. Law 26-77" eff="2025-12-31" path="§2|(c)" type="History"/>
+    <annotation app="2025-10-24" doc="D.C. Act 26-176" eff="2025-10-24" path="§2" target-path="§28-5404" type="History" display="false"/>
+    <annotation app="2025-12-31" doc="D.C. Law 26-77" eff="2025-12-31" path="§2" target-path="§28-5404" type="History" display="false"/>
+    <annotation app="2025-12-31" doc="D.C. Law 26-77" eff="2025-12-31" path="§2|(a)" target-path="§28-5404|(3)|(C)" type="History"/>
+    <annotation app="2025-12-31" doc="D.C. Law 26-77" eff="2025-12-31" path="§2|(b)" target-path="§28-5404|(4)" type="History"/>
+    <annotation app="2025-12-31" doc="D.C. Law 26-77" eff="2025-12-31" path="§2|(c)" target-path="§28-5404|(a)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-77" path="§2" codified:display="Note" app="2025-12-31" eff="2025-12-31">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-77" path="§2">§ 2 of Entertainment Establishment Employee Safety Extension Temporary Amendment Act of 2025 (D.C. Law 26-77, Dec. 31, 2025, 72 DCR 12880)</cite>.</annotation>
     <annotation doc="D.C. Law 26-77" path="§2" type="Applicability" app="2025-12-31" eff="2025-12-31"><cite doc="D.C. Law 26-77" path="§3">Section 3 of D.C. Law 26-77</cite> provided that the amendments made to this section by <cite doc="D.C. Law 26-77" path="§2">section 2</cite> of D.C. Law 26-77 shall apply as of October 18, 2025. 
          </annotation>
-    <annotation app="2025-12-31" doc="D.C. Law 26-77" eff="2025-12-31" path="§2" type="History"/>
+    <annotation app="2025-12-31" doc="D.C. Law 26-77" eff="2025-12-31" path="§2" target-path="§28-5404" type="History"/>
   </annotations>
 </section>

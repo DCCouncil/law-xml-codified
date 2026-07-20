@@ -35,8 +35,8 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 20-228" type="History" path="§301">Mar. 11, 2015, D.C. Law 20-228, §  301, 62 DCR 261</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§1042|(d)|(1)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§1042|(d)|(2)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§1042|(d)|(3)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§1042|(d)|(1)" target-path="§301|(a)|(1)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§1042|(d)|(2)" target-path="§301|(a)|(2)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§1042|(d)|(3)" target-path="§301|(a)" type="History"/>
   </annotations>
 </section>

@@ -41,10 +41,10 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-276">D.C. Law 16-276</cite> designated existing text as subsec. (a) and inserted subsec. (b).</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 45-2527.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§42-3502.05">§ 42-3502.05</cite>.</annotation>
-    <annotation app="2017-02-18" doc="D.C. Law 21-210" eff="2017-02-18" path="§2|(c)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-210" eff="2017-02-18" path="§2|(c)" target-path="§42-3502.17" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 25-308" path="§2|(b)" codified:display="Note" app="2025-03-21" eff="2025-03-21">Applicability of <cite doc="D.C. Law 25-308" path="">D.C. Law 25-308</cite>: <cite doc="D.C. Law 25-308" path="§4">§ 4 of D.C. Law 25-308</cite> provided that the amendment to this section by <cite doc="D.C. Law 25-308" path="§2|(b)">§ 2(b) of D.C. Law 25-308</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2025-03-21" doc="D.C. Law 25-308" eff="2025-03-21" path="§2|(b)" type="History"/>
-    <annotation app="2025-03-21" doc="D.C. Law 25-308" eff="2025-03-21" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-308" eff="2025-03-21" path="§2|(b)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-308" eff="2025-03-21" path="§2|(b)" target-path="§2|(b)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-308" eff="2025-03-21" path="§4|(a)" target-path="§2|(b)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 25-308" eff="2025-03-21" path="§2|(b)" target-path="§42-3502.17" type="History"/>
   </annotations>
 </section>

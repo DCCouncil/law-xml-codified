@@ -47,20 +47,20 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 13-254" type="History" path="§5e">Apr. 3, 2001, D.C. Law 13-254, § 5e </annotation>
-    <annotation app="2018-03-28" doc="D.C. Law 22-75" eff="2018-03-28" path="§3|(b)" prefix="as added" type="History"/>
+    <annotation app="2018-03-28" doc="D.C. Law 22-75" eff="2018-03-28" path="§3|(b)" prefix="as added" target-path="31|38B" type="History"/>
     <annotation doc="D.C. Law 22-75" path="§3" type="Emergency Legislation" history="false" app="2018-03-28" eff="2018-03-28">
       For temporary (90 days) creation of this section, see <cite doc="D.C. Act 22-266" path="§3|(b)">§ 3(b) of Defending Access to Women's Health Care Services Congressional Review Emergency Amendment Act of 2018 (D.C. Act 22-266, Feb. 21, 2018, 65 DCR 2119)</cite>.
     </annotation>
-    <annotation app="2018-03-28" doc="D.C. Law 22-75" eff="2018-03-28" path="§3" type="History" display="false"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-164" eff="2018-10-30" path="§303|(d)|(1)|(A)" type="History"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-164" eff="2018-10-30" path="§303|(d)|(1)|(B)" type="History"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-164" eff="2018-10-30" path="§303|(d)|(1)|(C)" type="History"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-164" eff="2018-10-30" path="§303|(d)|(1)|(D)" type="History"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-164" eff="2018-10-30" path="§303|(d)|(2)" type="History"/>
-    <annotation app="2020-10-20" doc="D.C. Law 23-135" eff="2020-10-20" path="" type="History" display="false"/>
-    <annotation app="2025-03-21" doc="D.C. Law 25-305" eff="2025-03-21" path="§3|(e)|(1)|(B)" type="History"/>
-    <annotation app="2025-03-21" doc="D.C. Law 25-305" eff="2025-03-21" path="§3|(e)|(1)|(C)" type="History"/>
-    <annotation app="2025-03-21" doc="D.C. Law 25-305" eff="2025-03-21" path="§3|(e)|(1)|(A)" type="History"/>
-    <annotation app="2025-03-21" doc="D.C. Law 25-305" eff="2025-03-21" path="§3|(e)|(2)" type="History"/>
+    <annotation app="2018-03-28" doc="D.C. Law 22-75" eff="2018-03-28" path="§3" target-path="§31-3834.05" type="History" display="false"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-164" eff="2018-10-30" path="§303|(d)|(1)|(A)" target-path="§31-3834.05|(a)|text" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-164" eff="2018-10-30" path="§303|(d)|(1)|(B)" target-path="§31-3834.05|(a)|(1)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-164" eff="2018-10-30" path="§303|(d)|(1)|(C)" target-path="§31-3834.05|(a)|(2)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-164" eff="2018-10-30" path="§303|(d)|(1)|(D)" target-path="§31-3834.05|(a)|(3)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-164" eff="2018-10-30" path="§303|(d)|(2)" target-path="§31-3834.05|(c)" type="History"/>
+    <annotation app="2020-10-20" doc="D.C. Law 23-135" eff="2020-10-20" path="" target-path="31" type="History" display="false"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-305" eff="2025-03-21" path="§3|(e)|(1)|(B)" target-path="§31-3834.05|(a)|(1)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-305" eff="2025-03-21" path="§3|(e)|(1)|(C)" target-path="§31-3834.05|(a)|(2)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-305" eff="2025-03-21" path="§3|(e)|(1)|(A)" target-path="§31-3834.05|(a)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-305" eff="2025-03-21" path="§3|(e)|(2)" target-path="§31-3834.05|(c)" type="History"/>
   </annotations>
 </section>

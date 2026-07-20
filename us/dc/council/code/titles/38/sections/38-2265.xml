@@ -91,9 +91,9 @@
   <annotations>
     <annotation doc="D.C. Law 24-167" type="History" path="§4116">Sept. 21, 2022, D.C. Law 24-167, § 4116</annotation>
     <annotation doc="D.C. Law 24-167" type="History" path="§4116" display="false">Sept. 21, 2022, D.C. Law 24-167, § 4116</annotation>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="IV|L" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="IV|L" target-path="38" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§4172|(b)" codified:display="Note" app="2024-09-18" eff="2024-07-15">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-506" path="§4172|(b)|includes|4116">§ 4116 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
-    <annotation app="2024-09-18" doc="D.C. Act 25-506" eff="2024-07-15" path="§4172|(b)" type="History" display="false"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4172|(b)" prefix="as added" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Act 25-506" eff="2024-07-15" path="§4172|(b)" target-path="§38-2265" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4172|(b)" prefix="as added" target-path="38|22D" type="History"/>
   </annotations>
 </section>

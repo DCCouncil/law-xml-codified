@@ -111,7 +111,7 @@
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Expenditures from the Public Housing and Structural Transformation Capital Account.</heading>
-      <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="II" type="History" display="false"/>
+      <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="II" target-path="6|2" type="History" display="false"/>
       <xi:include href="./sections/6-271.xml"/>
     </container>
   </container>
@@ -598,7 +598,7 @@
     <prefix>Chapter</prefix>
     <num>13A</num>
     <heading>Foreign-Government-Owned Real Property Task Force.</heading>
-    <annotation app="2019-03-22" doc="D.C. Law 22-254" eff="2019-03-22" path="" type="History" display="false"/>
+    <annotation app="2019-03-22" doc="D.C. Law 22-254" eff="2019-03-22" path="" target-path="6" type="History" display="false"/>
     <xi:include href="./sections/6-1331.xml"/>
   </container>
   <container>
@@ -637,7 +637,7 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>DCRA housing and building infractions.</heading>
-      <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="II" type="History" display="false"/>
+      <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="II" target-path="6|14" type="History" display="false"/>
       <xi:include href="./sections/6-1431.xml"/>
     </container>
   </container>
@@ -666,7 +666,7 @@
     <prefix>Chapter</prefix>
     <num>14B</num>
     <heading>Net-zero-energy Building Code Requirements.</heading>
-    <annotation app="2022-09-21" doc="D.C. Law 24-177" eff="2022-09-21" path="" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-177" eff="2022-09-21" path="" target-path="6" type="History" display="false"/>
     <xi:include href="./sections/6-1453.01.xml"/>
     <xi:include href="./sections/6-1453.02.xml"/>
   </container>
@@ -674,7 +674,7 @@
     <prefix>Chapter</prefix>
     <num>14C</num>
     <heading>Sound Level Reduction Design Requirements.</heading>
-    <annotation app="2025-03-28" doc="D.C. Law 25-318" eff="2025-03-28" path="" type="History" display="false"/>
+    <annotation app="2025-03-28" doc="D.C. Law 25-318" eff="2025-03-28" path="" target-path="6" type="History" display="false"/>
     <xi:include href="./sections/6-1455.01.xml"/>
     <xi:include href="./sections/6-1455.02.xml"/>
     <xi:include href="./sections/6-1455.03.xml"/>

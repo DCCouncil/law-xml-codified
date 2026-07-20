@@ -16,7 +16,8 @@
     <text>On the adjustment date, to the extent the priorities determined by <cite path="28|I|9">Article 9</cite> as amended by the 2024 Act modify the priorities established before April 20, 2024, the priorities of claims to Article 12 property and electronic money established before April 20, 2024 cease to apply.</text>
   </para>
   <annotations>
-    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(k)" type="History" display="false"/>
-    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(k)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(k)" target-path="28|I" type="History" display="false"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(k)" target-path="28|I|12" type="History" display="false"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(k)" target-path="28|I|12|2" type="History"/>
   </annotations>
 </section>

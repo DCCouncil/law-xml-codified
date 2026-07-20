@@ -24,8 +24,9 @@
   </para>
   <annotations>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-150" path="§13" codified:display="Note" app="2025-11-21" eff="2025-09-25">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-150" path="§13">§ 13 of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 72 DCR 10584)</cite>.</annotation>
-    <annotation app="2025-11-21" doc="D.C. Act 26-150" eff="2025-09-25" path="§13" type="History" display="false"/>
-    <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="" type="History" display="false"/>
-    <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="§13" type="History"/>
+    <annotation app="2025-11-21" doc="D.C. Act 26-150" eff="2025-09-25" path="§13" target-path="§10-1605.12" type="History" display="false"/>
+    <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="" target-path="10|16" type="History" display="false"/>
+    <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="" target-path="10|16|V" type="History" display="false"/>
+    <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="§13" target-path="10|16|V|A" type="History"/>
   </annotations>
 </section>

@@ -119,12 +119,12 @@
   <annotations>
     <annotation doc="D.C. Law 3-16" type="History" path="§11d">Sept. 19, 1979, D.C. Law 3-16, § 11d</annotation>
     <annotation doc="D.C. Law 3-16" type="History" path="§11d" display="false">Sept. 19, 1979, D.C. Law 3-16, § 11d</annotation>
-    <annotation app="2020-03-19" doc="D.C. Law 23-68" eff="2020-03-19" path="§5" prefix="as added" type="History"/>
+    <annotation app="2020-03-19" doc="D.C. Law 23-68" eff="2020-03-19" path="§5" prefix="as added" target-path="4|4" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Law 23-68" path="§5" codified:display="Note" app="2021-03-16" eff="2020-03-19">For temporary (90 days) creation of this section, see <cite doc="D.C. Law 23-68" path="§5">§ 5 of Fiscal Year 2020 Budget Support Clarification Amendment Act of 2019 (D.C. Law 23-68, Mar. 19, 2020, 67 DCR 743)</cite>.</annotation>
-    <annotation app="2021-03-16" doc="D.C. Law 23-68" eff="2020-03-19" path="§5" type="History" display="false"/>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7022|(b)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-68" eff="2020-03-19" path="§5" target-path="§4-410.04" type="History" display="false"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7022|(b)" target-path="§4-410.04" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-196" path="§2|(c)" codified:display="Note" app="2025-11-10" eff="2025-11-10">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-196" path="§2|(c)">§ 2(c) of Early Childhood Educator Pay Scales Emergency Amendment Act of 2025 (D.C. Act 26-196, Nov. 10, 2025, 72 DCR 12882)</cite>.</annotation>
-    <annotation app="2025-11-10" doc="D.C. Act 26-196" eff="2025-11-10" path="§2|(c)" type="History" display="false"/>
-    <annotation app="2026-03-18" doc="D.C. Law 26-100" eff="2026-03-18" path="§2|(d)" prefix="revived" type="History"/>
+    <annotation app="2025-11-10" doc="D.C. Act 26-196" eff="2025-11-10" path="§2|(c)" target-path="§4-410.04" type="History" display="false"/>
+    <annotation app="2026-03-18" doc="D.C. Law 26-100" eff="2026-03-18" path="§2|(d)" prefix="revived" target-path="§4-410.04" type="History"/>
   </annotations>
 </section>

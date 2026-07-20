@@ -143,17 +143,18 @@
   <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§37-131.08b" codified:display="Note" codified:doc="D.C. Code" codified:path="§37-131.08b">Applicability of <cite doc="D.C. Law 25-21" path="">D.C. Law 25-21</cite>: <cite doc="D.C. Law 25-21" path="§5">§ 5 of D.C. Law 25-21</cite> provided that the creation of this section by <cite doc="D.C. Law 25-21" path="§3|(f)">§ 3(f) of D.C. Law 25-21</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 18-71" type="History" path="§9b">Oct. 22, 2009, D.C. Law 18-71, § 9b</annotation>
-    <annotation app="2023-07-01" doc="D.C. Law 25-21" eff="2023-07-01" path="§3|(f)" prefix="as added" type="History"/>
+    <annotation app="2023-07-01" doc="D.C. Law 25-21" eff="2023-07-01" path="§3|(f)" prefix="as added" target-path="37|1A" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 25-21" path="§3|(f)" codified:display="Note" app="2023-07-01" eff="2023-07-01">Applicability of <cite doc="D.C. Law 25-21" path="">D.C. Law 25-21</cite>: <cite doc="D.C. Law 25-21" path="§5">§ 5 of D.C. Law 25-21</cite> provided that the creation of this section by <cite doc="D.C. Law 25-21" path="§3|(f)">§ 3(f) of D.C. Law 25-21</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2023-07-01" doc="D.C. Law 25-21" eff="2023-07-01" path="§3|(f)" type="History"/>
+    <annotation app="2023-07-01" doc="D.C. Law 25-21" eff="2023-07-01" path="§3|(f)" target-path="§37-131.08b" type="History"/>
     <annotation doc="D.C. Law 25-50" path="§7098" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7098">Section 7098 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 25-21" path="§5">section 5 of D.C. Law 25-21</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 3(f) of Law 25-21 has been implemented.
         </annotation>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7098" type="History" display="false"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7098" target-path="§37-131.08b" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2042|(b)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2042|(b)">§ 2042(b) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2042|(b)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2042|(b)" target-path="§37-131.08b" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§2042|(b)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§2042|(b)">§ 2042(b) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
-    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2042|(b)" type="History" display="false"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§2042|(b)|(1)" type="History"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§2042|(b)|(2)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2042|(b)" target-path="§37-131.08b" type="History" display="false"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§2042|(b)|(1)" target-path="§37-131.08b|(d)" type="History"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§2042|(b)|(1)" target-path="§37-131.08b|(e)" type="History"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§2042|(b)|(2)" target-path="§37-131.08b" type="History"/>
   </annotations>
 </section>

@@ -130,19 +130,20 @@
   <codify:annotation doc="D.C. Code" path="§[16-572.01]" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§[16-572.01]">Section 7172 of the Fiscal Year 2020 Budget Support Emergency Amendment Act of 2019 repealed <cite doc="D.C. Law 22-296" path="§3">§ 3(b) of D.C. Law 22-296</cite> removing the applicability restriction impacting this section. Therefore the creation of this section by <cite doc="D.C. Law 22-296">D.C. Law 22-296</cite> has been given effect.
       </codify:annotation>
   <annotations>
-    <annotation app="2019-04-11" doc="D.C. Law 22-296" eff="2019-04-11" path="§2|(c)" type="History"/>
+    <annotation app="2019-04-11" doc="D.C. Law 22-296" eff="2019-04-11" path="§2|(c)" target-path="16|5|III" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 22-296" path="§2|(c)" codified:display="Note" app="2019-04-11" eff="2019-04-11">Applicability of <cite doc="D.C. Law 22-296" path="">D.C. Law 22-296</cite>: <cite doc="D.C. Law 22-296" path="§3">§ 3 of D.C. Law 22-296</cite> provided that the change made to this section by <cite doc="D.C. Law 22-296" path="§2|(c)">§ 2(c) of D.C. Law 22-296</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2019-04-11" doc="D.C. Law 22-296" eff="2019-04-11" path="§2|(c)" target-path="§[16-572.01]" type="History"/>
     <annotation doc="D.C. Law 22-296" path="§2|(c)" type="Applicability" history="false" display-template="" app="2019-04-11" eff="2019-04-11">Section 7172 of the Fiscal Year 2020 Budget Support Emergency Amendment Act of 2019 repealed <cite doc="D.C. Law 22-296" path="§3">§ 3(b) of D.C. Law 22-296</cite> removing the applicability restriction impacting this section. Therefore the creation of this section by <cite doc="D.C. Law 22-296">D.C. Law 22-296</cite> has been given effect.
       </annotation>
-    <annotation app="2019-04-11" doc="D.C. Law 22-296" eff="2019-04-11" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2019-04-11" doc="D.C. Law 22-296" eff="2019-04-11" path="§2|(c)" target-path="§[16-572.01]" type="History" display="false"/>
     <annotation doc="D.C. Law 22-296" path="§3" type="Applicability" history="false" app="2019-04-11" eff="2019-04-11">
           Applicability of <cite doc="D.C. Law 22-296">D.C. Law 22-296</cite>: <cite doc="D.C. Law 23-16" path="§7172">§ 7172 of D.C. Law 23-16</cite> amended <cite doc="D.C. Law 22-296" path="§3">§ 3 of D.C. Law 22-296</cite> to remove the fiscal effect provision. Therefore the amendment of this section by <cite doc="D.C. Law 22-296">D.C. Law 22-296</cite> has been implemented.
         </annotation>
-    <annotation app="2019-04-11" doc="D.C. Law 22-296" eff="2019-04-11" path="§3" type="History" display="false"/>
+    <annotation app="2019-04-11" doc="D.C. Law 22-296" eff="2019-04-11" path="§3" target-path="§[16-572.01]" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" codified:display="Note" app="2019-07-22" eff="2019-07-22" path="§7172">For temporary (90 days) amendment of applicability provision of D.C. Law 22-296, see <cite doc="D.C. Act 23-91" path="§7172">§ 7172 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
-    <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7172" type="History" display="false"/>
+    <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7172" target-path="" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" codified:display="Note" app="2019-09-04" eff="2019-09-04" path="§7172">For temporary (90 days) amendment of applicability provision of D.C. Law 22-296, see <cite doc="D.C. Act 23-112" path="§7172">§ 7172 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
-    <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7172" type="History" display="false"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7172" type="History" display="false"/>
+    <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7172" target-path="" type="History" display="false"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7172" target-path="§3" type="History" display="false"/>
   </annotations>
 </section>

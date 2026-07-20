@@ -77,23 +77,24 @@
   <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 15-194" path="§653" codified:display="Note" codified:doc="D.C. Code" codified:path="§5-653">Applicability of <cite doc="D.C. Law 15-194" path="">D.C. Law 15-194</cite>: <cite doc="D.C. Law 15-194" path="§656">§ 656 of D.C. Law 15-194, as added by § 2 of D.C. Law 19-311</cite> provided that the the addition of this section by <cite doc="D.C. Law 15-194" path="§653">§ 653 of D.C. Law 15-194, as added by § 2 of D.C. Law 19-311</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-311">D.C. Law 19-311</cite> added this section.</annotation>
-    <annotation app="2004-09-30" doc="D.C. Law 15-194" eff="2004-09-30" path="VI" type="History" display="false"/>
+    <annotation app="2004-09-30" doc="D.C. Law 15-194" eff="2004-09-30" path="VI" target-path="5|6A" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 15-194" path="§653" codified:display="Note" app="2004-09-30" eff="2004-09-30">Applicability of <cite doc="D.C. Law 15-194" path="">D.C. Law 15-194</cite>: <cite doc="D.C. Law 15-194" path="§656">§ 656 of D.C. Law 15-194, as added by § 2 of D.C. Law 19-311</cite> provided that the the addition of this section by <cite doc="D.C. Law 15-194" path="§653">§ 653 of D.C. Law 15-194, as added by § 2 of D.C. Law 19-311</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2004-09-30" doc="D.C. Law 15-194" eff="2004-09-30" path="§653" type="History"/>
-    <annotation app="2013-05-01" doc="D.C. Law 19-311" eff="2013-05-01" path="§2" prefix="as added" type="History"/>
-    <annotation app="2013-05-01" doc="D.C. Law 19-311" eff="2013-05-01" path="" type="History" display="false"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3052|(b)|(1)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3052|(b)|(2)" type="History"/>
+    <annotation app="2004-09-30" doc="D.C. Law 15-194" eff="2004-09-30" path="§653" target-path="§653" type="History"/>
+    <annotation app="2004-09-30" doc="D.C. Law 15-194" eff="2004-09-30" path="§653" target-path="5|6A|II" type="History"/>
+    <annotation app="2013-05-01" doc="D.C. Law 19-311" eff="2013-05-01" path="§2" prefix="as added" target-path="VI|D" type="History"/>
+    <annotation app="2013-05-01" doc="D.C. Law 19-311" eff="2013-05-01" path="" target-path="VI" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3052|(b)|(1)" target-path="§653|(a)|(1)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3052|(b)|(2)" target-path="§653|(b)|(1)" type="History"/>
     <annotation doc="D.C. Law 21-160" path="§3052|(b)" history="false" type="Applicability" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§3052|(d)">Section 3052(d) of Law 21-160</cite> amended section 656 of D.C. Law 19-311, removing the applicability restriction affecting this section, therefore the creation of this section by <cite doc="D.C. Law 19-311" path="§2">section 2 of D.C. Law 19-311</cite> has been implemented. 
           </annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3052|(b)" type="History" display="false"/>
-    <annotation app="2019-05-10" doc="D.C. Law 22-313" eff="2019-05-10" path="§10|(b)|(1)" type="History"/>
-    <annotation app="2019-05-10" doc="D.C. Law 22-313" eff="2019-05-10" path="§10|(b)|(2)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3052|(b)" target-path="§5-653" type="History" display="false"/>
+    <annotation app="2019-05-10" doc="D.C. Law 22-313" eff="2019-05-10" path="§10|(b)|(1)" target-path="§5-653|(b)|text" type="History"/>
+    <annotation app="2019-05-10" doc="D.C. Law 22-313" eff="2019-05-10" path="§10|(b)|(2)" target-path="§5-653|(b)|(3)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-74" path="§5" codified:display="Note" app="2023-04-24" eff="2023-04-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-74" path="§5">§ 5 of Criminal Justice Coordinating Council Information Sharing Emergency Amendment Act of 2023 (D.C. Act 25-74, Apr. 24, 2023, 70 DCR 6126)</cite>.</annotation>
-    <annotation app="2023-04-24" doc="D.C. Act 25-74" eff="2023-04-24" path="§5" type="History" display="false"/>
+    <annotation app="2023-04-24" doc="D.C. Act 25-74" eff="2023-04-24" path="§5" target-path="§5-653" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-51" path="§5" codified:display="Note" app="2023-08-31" eff="2023-08-31">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-51" path="§5">§ 5 of Criminal Justice Coordinating Council Information Sharing Temporary Amendment Act of 2023 (D.C. Law 25-51, Aug. 31, 2023, 70 DCR 7933)</cite>.</annotation>
-    <annotation app="2023-08-31" doc="D.C. Law 25-51" eff="2023-08-31" path="§5" type="History" display="false"/>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§3002|(a)|(1)" type="History"/>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§3002|(a)|(2)" type="History"/>
+    <annotation app="2023-08-31" doc="D.C. Law 25-51" eff="2023-08-31" path="§5" target-path="§5-653" type="History" display="false"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§3002|(a)|(1)" target-path="§5-653|(a)|(1)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§3002|(a)|(2)" target-path="§5-653|(b)|(1)" type="History"/>
   </annotations>
 </section>

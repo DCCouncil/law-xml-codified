@@ -12,17 +12,17 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 4-97" type="History" path="§9a "/>
-    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§8|(a)" type="History" display="false"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§8|(a)" target-path="§2|includes|9a|(b)" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 25-161" path="§2" codified:display="Note" app="2024-04-20" eff="2024-04-20">Applicability of <cite doc="D.C. Law 25-161" path="">D.C. Law 25-161</cite>: <cite doc="D.C. Law 25-161" path="§8">§ 8 of D.C. Law 25-161</cite> provided that the creation of this section by <cite doc="D.C. Law 25-161" path="§2">§ 2 of D.C. Law 25-161</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§2" type="History"/>
-    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§2" prefix="as added" type="History"/>
-    <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="§302|(c)|(1)" type="History"/>
-    <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="§302|(c)|(2)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§2" target-path="§2" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§2" prefix="as added" target-path="50|14|III" type="History"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="§302|(c)|(1)" target-path="§2|includes|9a|(a)" type="History"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="§302|(c)|(2)" target-path="§2|includes|9a|(b)|(1)" type="History"/>
     <annotation doc="D.C. Act 26-146" path="§7186" type="Applicability" history="false" app="2025-09-03" eff="2025-09-03">Section 7186 of <cite doc="D.C. Act 26-146" path="§7186">D.C. Act 26-146</cite> amended Section 8 of <cite doc="D.C. Law 25-161" path="§8">D.C. Law 25-161</cite>, impacting the applicability limitation of this section. Therefore the creation of subsection (b) of this section by <cite doc="D.C. Law 25-161" path="§2">Section 2</cite> of D.C. Law 25-161 has not been implemented.</annotation>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7186" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7186" target-path="§50-1405.02" type="History" display="false"/>
     <annotation doc="D.C. Act 26-210" path="§7186" type="Applicability" history="false" app="2025-11-24" eff="2025-11-24">Section 7186 of <cite doc="D.C. Act 26-210" path="§7186">D.C. Act 26-210</cite> amended Section 8 of <cite doc="D.C. Law 25-161" path="§8">D.C. Law 25-161</cite>, impacting the applicability limitation of this section. Therefore the creation of subsection (b) of this section by <cite doc="D.C. Law 25-161" path="§2">Section 2</cite> of D.C. Law 25-161 has not been implemented.</annotation>
-    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7186" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7186" target-path="§50-1405.02" type="History" display="false"/>
     <annotation doc="D.C. Law 26-55" path="§7186" type="Applicability" history="false" app="2025-12-06" eff="2025-12-06">Section 7186 of <cite doc="D.C. Law 26-55" path="§7186">D.C. Law 26-55</cite> amended Section 8 of <cite doc="D.C. Law 25-161" path="§8">D.C. Law 25-161</cite>, impacting the applicability limitation of this section. Therefore the creation of subsection (b) of this section by <cite doc="D.C. Law 25-161" path="§2">Section 2</cite> of D.C. Law 25-161 has not been implemented.</annotation>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7186" type="History" display="false"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7186" target-path="§50-1405.02" type="History" display="false"/>
   </annotations>
 </section>

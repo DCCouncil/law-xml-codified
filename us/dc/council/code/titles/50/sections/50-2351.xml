@@ -77,21 +77,21 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 19-278" type="History" path="§2">Apr. 23, 2013, D.C. Law 19-278, § 2, 60 DCR 2119</annotation>
-    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(2)" type="History"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(1)" type="History"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(3)" type="History"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(4)" type="History"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(5)" type="History"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(6)" type="History"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(7)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(2)" target-path="§50-2351" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(1)" target-path="§50-2351|(1)|num" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(3)" target-path="§50-2351|(1C)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(4)" target-path="§50-2351" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(5)" target-path="§50-2351|(2)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(6)" target-path="§50-2351" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(7)" target-path="§50-2351" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-156" path="§2|(a)" codified:display="Note" app="2020-12-23" eff="2020-12-23">Applicability of <cite doc="D.C. Law 23-156" path="">D.C. Law 23-156</cite>: <cite doc="D.C. Law 23-156" path="§3">§ 3 of D.C. Law 23-156</cite> provided that the change made to this section by <cite doc="D.C. Law 23-156" path="§2|(a)">§ 2(a) of D.C. Law 23-156</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)" target-path="§50-2351" type="History"/>
     <annotation doc="D.C. Act 24-159" path="§7186" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7186">Section 7186 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-156" path="§3">section 3 of D.C. Law 23-156</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by Law 23-156 has been implemented.
         </annotation>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7186" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7186" target-path="§50-2351" type="History" display="false"/>
     <annotation doc="D.C. Law 24-45" path="§7186" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7186">Section 7186 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-156" path="§3">section 3 of D.C. Law 23-156</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by Law 23-156 has been implemented.
         </annotation>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7186" type="History" display="false"/>
-    <annotation app="2025-03-21" doc="D.C. Law 25-312" eff="2025-03-21" path="§6|(a)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7186" target-path="§50-2351" type="History" display="false"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-312" eff="2025-03-21" path="§6|(a)" target-path="§50-2351|(1D)" type="History"/>
   </annotations>
 </section>

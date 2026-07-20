@@ -164,7 +164,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>8</num>
-    <heading>Criminal Record Sealing and Expungement.<annotation app="2023-03-10" doc="D.C. Law 24-284" eff="2023-03-10" path="§101|(b)" type="History"/></heading>
+    <heading>Criminal Record Sealing and Expungement.<annotation app="2023-03-10" doc="D.C. Law 24-284" eff="2023-03-10" path="§101|(b)" target-path="16|8|heading" type="History"/></heading>
     <xi:include href="./sections/16-801.xml"/>
     <xi:include href="./sections/16-802.xml"/>
     <xi:include href="./sections/16-803.xml"/>
@@ -302,7 +302,7 @@
     <prefix>Chapter</prefix>
     <num>10A</num>
     <heading>Anti-Stalking Orders.</heading>
-    <annotation app="2021-04-27" doc="D.C. Law 23-275" eff="2021-04-27" path="§3|(j)" type="History" display="false"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-275" eff="2021-04-27" path="§3|(j)" target-path="16" type="History" display="false"/>
     <xi:include href="./sections/16-1061.xml"/>
     <xi:include href="./sections/16-1062.xml"/>
     <xi:include href="./sections/16-1063.xml"/>
@@ -616,7 +616,7 @@
       <prefix>Subchapter</prefix>
       <num>VI</num>
       <heading>Vulnerable Youth Guardian.</heading>
-      <annotation app="2024-07-19" doc="D.C. Law 25-188" eff="2024-07-19" path="" type="History" display="false"/>
+      <annotation app="2024-07-19" doc="D.C. Law 25-188" eff="2024-07-19" path="" target-path="16|23" type="History" display="false"/>
       <xi:include href="./sections/16-2399.01.xml"/>
       <xi:include href="./sections/16-2399.02.xml"/>
       <xi:include href="./sections/16-2399.03.xml"/>
@@ -680,7 +680,7 @@
     <prefix>Chapter</prefix>
     <num>28A</num>
     <heading>Calculating Economic Damages.</heading>
-    <annotation app="2023-02-23" doc="D.C. Law 24-235" eff="2023-02-23" path="" type="History" display="false"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-235" eff="2023-02-23" path="" target-path="16" type="History" display="false"/>
     <xi:include href="./sections/16-2851.xml"/>
   </container>
   <container>
@@ -707,7 +707,7 @@
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Partition of Real Property.</heading>
-      <annotation app="2023-02-23" doc="D.C. Law 24-239" eff="2023-02-23" path="§2|(b)" type="History" display="false"/>
+      <annotation app="2023-02-23" doc="D.C. Law 24-239" eff="2023-02-23" path="§2|(b)" target-path="16|29" type="History" display="false"/>
       <xi:include href="./sections/16-2931.xml"/>
       <xi:include href="./sections/16-2932.xml"/>
       <xi:include href="./sections/16-2933.xml"/>
@@ -1123,7 +1123,7 @@
     <prefix>Chapter</prefix>
     <num>56</num>
     <heading>Uniform Family Law Arbitration Act.</heading>
-    <annotation app="2023-03-10" doc="D.C. Law 24-286" eff="2023-03-10" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-286" eff="2023-03-10" path="§2|(b)" target-path="16" type="History" display="false"/>
     <xi:include href="./sections/16-5601.xml"/>
     <xi:include href="./sections/16-5602.xml"/>
     <xi:include href="./sections/16-5603.xml"/>

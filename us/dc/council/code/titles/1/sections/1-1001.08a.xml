@@ -172,7 +172,7 @@
   <annotations>
     <annotation type="History" doc="Stat. 84-1-ch862" path="§8a">Aug. 12, 1955, 69 Stat. 699, ch. 862, § 8a</annotation>
     <annotation type="Applicability" doc="D.C. Law 25-295" path="§2|(c)" codified:display="Note" app="2025-03-07" eff="2025-03-07">Applicability of <cite doc="D.C. Law 25-295" path="">D.C. Law 25-295</cite>: <cite doc="D.C. Law 25-295" path="§3">§ 3 of D.C. Law 25-295</cite> provided that the creation of this section by <cite doc="D.C. Law 25-295" path="§2|(c)">§ 2(c) of D.C. Law 25-295</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2025-03-07" doc="D.C. Law 25-295" eff="2025-03-07" path="§2|(c)" type="History"/>
-    <annotation app="2025-03-07" doc="D.C. Law 25-295" eff="2025-03-07" path="§2|(c)" prefix="as added" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-295" eff="2025-03-07" path="§2|(c)" target-path="§2|(c)" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-295" eff="2025-03-07" path="§2|(c)" prefix="as added" target-path="1|10|I" type="History"/>
   </annotations>
 </section>

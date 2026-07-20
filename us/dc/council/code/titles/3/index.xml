@@ -22,7 +22,7 @@
     <prefix>Chapter</prefix>
     <num>1A</num>
     <heading>Criminal Code Reform Commission.</heading>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="III" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="III" target-path="3" type="History" display="false"/>
     <xi:include href="./sections/3-151.xml"/>
     <xi:include href="./sections/3-152.xml"/>
     <xi:include href="./sections/3-153.xml"/>
@@ -78,12 +78,12 @@
       <xi:include href="./sections/3-328.xml"/>
       <xi:include href="./sections/3-329.xml"/>
       <xi:include href="./sections/3-330.xml"/>
-      <annotation app="2025-01-06" doc="D.C. Law 25-246" eff="2025-01-06" path="§2|(l)|(1)" type="History"/>
+      <annotation app="2025-01-06" doc="D.C. Law 25-246" eff="2025-01-06" path="§2|(l)|(1)" target-path="3|3|II" type="History"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
-      <heading>Public Safety at Stadiums and Armory.<annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7010" type="History"/></heading>
+      <heading>Public Safety at Stadiums and Armory.<annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7010" target-path="3|3|III|heading" type="History"/></heading>
       <xi:include href="./sections/3-341.xml"/>
       <xi:include href="./sections/3-342.xml"/>
       <xi:include href="./sections/3-342.01.xml"/>
@@ -185,7 +185,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>6A</num>
-    <heading>Commission on Poverty. [Expired]<annotation app="2021-03-16" doc="D.C. Law 23-184" eff="2021-03-16" path="" type="History"/></heading>
+    <heading>Commission on Poverty. [Expired]<annotation app="2021-03-16" doc="D.C. Law 23-184" eff="2021-03-16" path="" target-path="3|6A|heading" type="History"/></heading>
     <xi:include href="./sections/3-631.xml"/>
     <xi:include href="./sections/3-632.xml"/>
     <xi:include href="./sections/3-633.xml"/>
@@ -196,7 +196,7 @@
     <prefix>Chapter</prefix>
     <num>6A-i</num>
     <heading>Commission of Poverty.</heading>
-    <annotation app="2021-03-16" doc="D.C. Law 23-184" eff="2021-03-16" path="" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-184" eff="2021-03-16" path="" target-path="3" type="History" display="false"/>
     <xi:include href="./sections/3-641.01.xml"/>
     <xi:include href="./sections/3-641.02.xml"/>
     <xi:include href="./sections/3-641.03.xml"/>
@@ -205,10 +205,10 @@
     <xi:include href="./sections/3-641.06.xml"/>
     <annotation doc="D.C. Act 24-159" path="§7192" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7192">Section 7192 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-184" path="§301">section 301 of D.C. Law 23-184</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-184 has been implemented.
         </annotation>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7192" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7192" target-path="3|6A-i" type="History" display="false"/>
     <annotation doc="D.C. Law 24-45" path="§7192" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7192">Section 7192 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-184" path="§301">section 301 of D.C. Law 23-184</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-184 has been implemented.
         </annotation>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7192" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7192" target-path="3|6A-i" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -222,7 +222,7 @@
     <prefix>Chapter</prefix>
     <num>6C</num>
     <heading>Office of and Commission on Nightlife and Culture.</heading>
-    <annotation app="2018-12-13" doc="D.C. Law 22-191" eff="2018-12-13" path="" type="History" display="false"/>
+    <annotation app="2018-12-13" doc="D.C. Law 22-191" eff="2018-12-13" path="" target-path="3" type="History" display="false"/>
     <xi:include href="./sections/3-661.xml"/>
     <xi:include href="./sections/3-662.xml"/>
     <xi:include href="./sections/3-663.xml"/>
@@ -247,7 +247,7 @@
     <xi:include href="./sections/3-731.xml"/>
     <xi:include href="./sections/3-732.xml"/>
     <xi:include href="./sections/3-733.xml"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§1014" type="History"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§1014" target-path="3|7A" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -395,7 +395,7 @@
       <xi:include href="./sections/3-1205.23.xml"/>
       <xi:include href="./sections/3-1205.24.xml"/>
       <xi:include href="./sections/3-1205.25.xml"/>
-      <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(aa)" type="History" display="false"/>
+      <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(aa)" target-path="3|12|V" type="History" display="false"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -453,8 +453,8 @@
       <heading>Maternity Centers Certification; Operations Administration.</heading>
       <annotation doc="D.C. Law 23-97" type="Editor's Notes" history="false" app="2020-06-17" eff="2020-06-17" path="§5" display="false"><cite doc="D.C. Act" path="§5">Section 5 of D.C. Law 23-97</cite> provided that the Mayor, pursuant to <cite path="2|5">Chapter 5 of Title 2</cite>, shall issue rules to implement the provisions of D.C. Law 23-97.
     </annotation>
-      <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="§5" type="History" display="false"/>
-      <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="" type="History" display="false"/>
+      <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="§5" target-path="" type="History" display="false"/>
+      <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="" target-path="3|12" type="History" display="false"/>
       <xi:include href="./sections/3-1206.61.xml"/>
       <xi:include href="./sections/3-1206.62.xml"/>
       <xi:include href="./sections/3-1206.63.xml"/>
@@ -463,11 +463,11 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>VI-F</num>
-      <heading>Medicaid Reimbursement for Certified Professional Midwives and Doulas.<annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§5042|(e)" type="History"/></heading>
+      <heading>Medicaid Reimbursement for Certified Professional Midwives and Doulas.<annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§5042|(e)" target-path="3|12|VI-F|heading" type="History"/></heading>
       <annotation doc="D.C. Law 23-97" type="Editor's Notes" history="false" app="2020-06-17" eff="2020-06-17" path="§5" display="false"><cite doc="D.C. Act" path="§5">Section 5 of D.C. Law 23-97</cite> provided that the Mayor, pursuant to <cite path="2|5">Chapter 5 of Title 2</cite>, shall issue rules to implement the provisions of D.C. Law 23-97.
     </annotation>
-      <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="§5" type="History" display="false"/>
-      <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="" type="History" display="false"/>
+      <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="§5" target-path="" type="History" display="false"/>
+      <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="" target-path="3|12" type="History" display="false"/>
       <xi:include href="./sections/3-1206.71.xml"/>
       <xi:include href="./sections/3-1206.72.xml"/>
     </container>
@@ -533,13 +533,13 @@
       <xi:include href="./sections/3-1207.62.xml"/>
       <xi:include href="./sections/3-1207.63.xml"/>
       <xi:include href="./sections/3-1207.64.xml"/>
-      <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ggg)" type="History"/>
+      <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ggg)" target-path="3|12|VII-F" type="History"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VII-G</num>
       <heading>Qualifications for Licensure to Practice as a Behavior Analyst.</heading>
-      <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(hhh)" type="History" display="false"/>
+      <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(hhh)" target-path="3|12" type="History" display="false"/>
       <xi:include href="./sections/3-1207.71.xml"/>
     </container>
     <container>
@@ -590,18 +590,18 @@
       <prefix>Subchapter</prefix>
       <num>VIII-E</num>
       <heading>Qualifications for Licensure to Practice as a Professional Art Therapist.</heading>
-      <annotation app="2020-06-24" doc="D.C. Law 23-115" eff="2020-06-24" path="§2|(f)" type="History" display="false"/>
+      <annotation app="2020-06-24" doc="D.C. Law 23-115" eff="2020-06-24" path="§2|(f)" target-path="3|12" type="History" display="false"/>
       <xi:include href="./sections/3-1208.71.xml"/>
       <xi:include href="./sections/3-1208.72.xml"/>
       <annotation doc="D.C. Law 23-149" path="§7081" type="Applicability" history="false" app="2020-12-03" eff="2020-12-03"><cite doc="D.C. Law 23-149" path="§7081">Section 7081 of D.C. Law 23-149</cite> repealed <cite doc="D.C. Law 23-115" path="§3">section 3 of D.C. Law 23-115</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by Law 23-115 has been implemented.
         </annotation>
-      <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7081" type="History" display="false"/>
+      <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7081" target-path="3|12|VIII-E" type="History" display="false"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VIII-F</num>
       <heading>Categories and Qualifications Required for the Practice of Psychology.</heading>
-      <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ppp)" type="History" display="false"/>
+      <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ppp)" target-path="3|12" type="History" display="false"/>
       <xi:include href="./sections/3-1208.81.xml"/>
       <xi:include href="./sections/3-1208.82.xml"/>
       <xi:include href="./sections/3-1208.83.xml"/>
@@ -610,7 +610,7 @@
       <prefix>Subchapter</prefix>
       <num>VIII-G</num>
       <heading>Categories and Qualifications Required for the Practice of Medical Radiation Technology.</heading>
-      <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ppp)" type="History" display="false"/>
+      <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ppp)" target-path="3|12" type="History" display="false"/>
       <xi:include href="./sections/3-1208.91.xml"/>
       <xi:include href="./sections/3-1208.92.xml"/>
       <xi:include href="./sections/3-1208.93.xml"/>
@@ -698,12 +698,12 @@
     <prefix>Chapter</prefix>
     <num>12B</num>
     <heading>Interstate Medical Licensure Compact.</heading>
-    <annotation app="2018-06-05" doc="D.C. Law 22-109" eff="2018-06-05" path="" type="History" display="false"/>
+    <annotation app="2018-06-05" doc="D.C. Law 22-109" eff="2018-06-05" path="" target-path="3" type="History" display="false"/>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Compact Provisions.</heading>
-      <annotation app="2018-06-05" doc="D.C. Law 22-109" eff="2018-06-05" path="" type="History" display="false"/>
+      <annotation app="2018-06-05" doc="D.C. Law 22-109" eff="2018-06-05" path="" target-path="3|12B" type="History" display="false"/>
       <xi:include href="./sections/3-1271.01.xml"/>
       <xi:include href="./sections/3-1271.02.xml"/>
       <xi:include href="./sections/3-1271.03.xml"/>
@@ -733,7 +733,7 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>District Commissioners; Appropriations.</heading>
-      <annotation app="2018-06-05" doc="D.C. Law 22-109" eff="2018-06-05" path="" type="History" display="false"/>
+      <annotation app="2018-06-05" doc="D.C. Law 22-109" eff="2018-06-05" path="" target-path="3|12B" type="History" display="false"/>
       <xi:include href="./sections/3-1271.31.xml"/>
       <xi:include href="./sections/3-1271.32.xml"/>
     </container>
@@ -742,7 +742,7 @@
     <prefix>Chapter</prefix>
     <num>12C</num>
     <heading>Counseling Compact Commission.</heading>
-    <annotation app="2024-12-17" doc="D.C. Law 25-238" eff="2024-12-17" path="" type="History" display="false"/>
+    <annotation app="2024-12-17" doc="D.C. Law 25-238" eff="2024-12-17" path="" target-path="3" type="History" display="false"/>
     <xi:include href="./sections/3-1281.01.xml"/>
     <xi:include href="./sections/3-1281.02.xml"/>
     <xi:include href="./sections/3-1281.03.xml"/>
@@ -762,7 +762,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>13</num>
-    <heading>Lottery and Charitable Games Control Board. [Recodified]<annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(b)" type="History" display="false"/></heading>
+    <heading>Lottery and Charitable Games Control Board. [Recodified]<annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(b)" target-path="3|13|heading" type="History" display="false"/></heading>
     <xi:include href="./sections/3-1301.xml"/>
     <xi:include href="./sections/3-1302.xml"/>
     <xi:include href="./sections/3-1303.xml"/>
@@ -859,7 +859,7 @@
     <prefix>Chapter</prefix>
     <num>14C</num>
     <heading>Office on Caribbean Affairs.</heading>
-    <annotation app="2020-05-06" doc="D.C. Law 23-87" eff="2020-05-06" path="" type="History" display="false"/>
+    <annotation app="2020-05-06" doc="D.C. Law 23-87" eff="2020-05-06" path="" target-path="3" type="History" display="false"/>
     <xi:include href="./sections/3-1451.xml"/>
     <xi:include href="./sections/3-1452.xml"/>
   </container>
@@ -867,12 +867,12 @@
     <prefix>Chapter</prefix>
     <num>14D</num>
     <heading>Commission on Reparations.</heading>
-    <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="" type="History" display="false"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="" target-path="3" type="History" display="false"/>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Commission on Reparations.</heading>
-      <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="" type="History" display="false"/>
+      <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="" target-path="3|14D" type="History" display="false"/>
       <xi:include href="./sections/3-1461.xml"/>
       <xi:include href="./sections/3-1462.xml"/>
       <xi:include href="./sections/3-1463.xml"/>
@@ -885,14 +885,14 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Reparations Fund.</heading>
-      <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="" type="History" display="false"/>
+      <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="" target-path="3|14D" type="History" display="false"/>
       <xi:include href="./sections/3-1471.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Slavery Era Database Established.</heading>
-      <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="" type="History" display="false"/>
+      <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="" target-path="3|14D" type="History" display="false"/>
       <xi:include href="./sections/3-1481.xml"/>
     </container>
   </container>

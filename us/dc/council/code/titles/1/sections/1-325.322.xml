@@ -56,8 +56,10 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 20-155" type="History" path="§5143">Feb. 26, 2015, D.C. Law 20-155, §  5143, 61 DCR 9990</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§5052|(b)|(1)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§5052|(b)|(2)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§5052|(b)|(3)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§5052|(b)|(1)" target-path="§5143|(a)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§5052|(b)|(2)" target-path="§5143|(b)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§5052|(b)|(2)" target-path="§5143|(c)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§5052|(b)|(2)" target-path="§5143|(d)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§5052|(b)|(3)" target-path="§5143|(e)" type="History"/>
   </annotations>
 </section>

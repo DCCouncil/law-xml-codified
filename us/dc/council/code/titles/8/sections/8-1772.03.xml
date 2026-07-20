@@ -28,7 +28,8 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 19-252" type="History" path="§203">Mar. 19, 2013, D.C. Law 19-252, § 203, 59 DCR 14932</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6022|(c)" type="History"/>
-    <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6022|(c)" target-path="§203|(f)" type="History"/>
+    <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="" target-path="8|17M-i" type="History" display="false"/>
+    <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="" target-path="§8-1772.03" type="History" display="false"/>
   </annotations>
 </section>

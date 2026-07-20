@@ -31,20 +31,20 @@
     <text>Repealed.</text>
   </para>
   <annotations>
-    <annotation app="2015-10-22" doc="D.C. Law 21-36" eff="2015-10-22" path="IV" type="History" display="false"/>
-    <annotation app="2015-10-22" doc="D.C. Law 21-36" eff="2015-10-22" path="§4122" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4072|(a)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4072|(b)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="IV|H" type="History" display="false"/>
+    <annotation app="2015-10-22" doc="D.C. Law 21-36" eff="2015-10-22" path="IV" target-path="38|1B" type="History" display="false"/>
+    <annotation app="2015-10-22" doc="D.C. Law 21-36" eff="2015-10-22" path="§4122" target-path="38|1B|II" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4072|(a)" target-path="§4122|(f)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4072|(b)" target-path="§4122" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="IV|H" target-path="§4122" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-104" path="§4093" codified:display="Note" app="2017-07-20" eff="2017-07-20">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-104" path="§4093">§ 4093 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, July 20, 2017, 64 DCR 7032)</cite>.</annotation>
-    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§4093" type="History" display="false"/>
+    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§4093" target-path="§38-196.01" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§4093" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-167" path="§4093">§ 4093 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
-    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§4093" type="History" display="false"/>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§4093|(a)" type="History"/>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§4093|(b)" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4132" type="History" display="false"/>
+    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§4093" target-path="§38-196.01" type="History" display="false"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§4093|(a)" target-path="§38-196.01|(a)" type="History"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§4093|(b)" target-path="§38-196.01|(f)" type="History"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4132" target-path="§38-196.01" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7122|(b)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7122|(b)">§ 7122(b) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7122|(b)" type="History" display="false"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7122|(b)" type="History"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7122|(b)" target-path="§38-196.01" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7122|(b)" target-path="§38-196.01|(g)" type="History"/>
   </annotations>
 </section>

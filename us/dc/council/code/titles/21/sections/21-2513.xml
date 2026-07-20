@@ -32,7 +32,7 @@
     </para>
   </para>
   <annotations>
-    <annotation app="2021-03-16" doc="D.C. Law 23-189" eff="2021-03-16" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-189" eff="2021-03-16" path="§2|(b)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-189" eff="2021-03-16" path="§2|(a)" target-path="21" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-189" eff="2021-03-16" path="§2|(b)" target-path="21|25" type="History"/>
   </annotations>
 </section>

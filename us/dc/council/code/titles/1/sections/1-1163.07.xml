@@ -67,20 +67,20 @@
     <annotation type="Section References">This section is referenced in <cite path="§1-1001.16">§ 1-1001.16</cite>, <cite path="§1-1001.17">§ 1-1001.17</cite>, <cite path="§1-1163.08">§ 1-1163.08</cite>, <cite path="§1-1163.10">§ 1-1163.10</cite>, and <cite path="§1-1163.11">§ 1-1163.11</cite>.</annotation>
     <annotation doc="D.C. Law 21-160" path="§7009" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7009">Section 7009 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 20-79" path="§3">§ 3 of D.C. Law 20-79</cite>. Therefore the changes made to this section by D.C. Law 20-79 have been given effect.
         </annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7009" type="History" display="false"/>
-    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§6|(k)|(1)" type="History"/>
-    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§6|(k)|(2)" type="History"/>
-    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§6|(k)|(3)|(A)|(i)" type="History"/>
-    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§6|(k)|(3)|(A)|(ii)" type="History"/>
-    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§6|(k)|(3)|(B)" type="History"/>
-    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§6|(k)|(4)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7009" target-path="§1-1163.07" type="History" display="false"/>
+    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§6|(k)|(1)" target-path="§1-1163.07|(1)|(B)" type="History"/>
+    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§6|(k)|(2)" target-path="§1-1163.07|(4)" type="History"/>
+    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§6|(k)|(3)|(A)|(i)" target-path="§1-1163.07|(5)|(A)" type="History"/>
+    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§6|(k)|(3)|(A)|(ii)" target-path="§1-1163.07|(5)|(A)" type="History"/>
+    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§6|(k)|(3)|(B)" target-path="§1-1163.07|(5)|(B)" type="History"/>
+    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§6|(k)|(4)" target-path="§1-1163.07|(6)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 22-250" path="§6|(k)" codified:display="Note" app="2019-03-13" eff="2019-03-13">Applicability of <cite doc="D.C. Law 22-250" path="">D.C. Law 22-250</cite>: <cite doc="D.C. Law 22-250" path="§10">§ 10 of D.C. Law 22-250</cite> provided that the change made to this section by <cite doc="D.C. Law 22-250" path="§6|(k)">§ 6(k) of D.C. Law 22-250</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§6|(k)" type="History"/>
+    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§6|(k)" target-path="§1-1163.07" type="History"/>
     <annotation doc="D.C. Act 24-159" path="§7183" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7183">Section 7183 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 22-250" path="§10|(a)">section 10(a) of D.C. Law 22-250</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by Law 22-250 has been implemented.
             </annotation>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7183" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7183" target-path="§1-1163.07" type="History" display="false"/>
     <annotation doc="D.C. Law 24-45" path="§7183" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7183">Section 7183 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 22-250" path="§10|(a)">section 10(a) of D.C. Law 22-250</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by Law 22-250 has been implemented.
             </annotation>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7183" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7183" target-path="§1-1163.07" type="History" display="false"/>
   </annotations>
 </section>

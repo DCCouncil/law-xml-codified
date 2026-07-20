@@ -6,11 +6,11 @@
   <text>Not Funded.</text>
   <annotations>
     <annotation doc="D.C. Law 21-155" type="History" path="§302">Oct. 8, 2016, D.C. Law 21-155, § 302</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="" type="History" display="false"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§14|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-158" eff="2020-12-23" path="§7|(e)|(1)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-158" eff="2020-12-23" path="§7|(e)|(3)" prefix="as added" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="" target-path="50" type="History" display="false"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§14|(a)" target-path="§7|(e)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-158" eff="2020-12-23" path="§7|(e)|(1)" target-path="50|23D" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-158" eff="2020-12-23" path="§7|(e)|(3)" prefix="as added" target-path="50|23D" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-158" path="§7|(e)|(3)" codified:display="Note" app="2020-12-23" eff="2020-12-23">Applicability of <cite doc="D.C. Law 23-158" path="">D.C. Law 23-158</cite>: <cite doc="D.C. Law 23-158" path="§14">§ 14 of D.C. Law 23-158</cite> provided that the creation of this section by <cite doc="D.C. Law 23-158" path="§7|(e)|(3)">§ 7(e)(3) of D.C. Law 23-158</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§7|(e)|(3)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§7|(e)|(3)" target-path="§50-2382" type="History"/>
   </annotations>
 </section>

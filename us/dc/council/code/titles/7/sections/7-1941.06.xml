@@ -5,9 +5,9 @@
   <reason>Repealed</reason>
   <text>Repealed.</text>
   <annotations>
-    <annotation app="2018-05-05" doc="D.C. Law 22-97" eff="2018-05-05" path="" type="History" display="false"/>
-    <annotation app="2018-05-05" doc="D.C. Law 22-97" eff="2018-05-05" path="§7" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7093" type="History" display="false"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7093" type="History"/>
+    <annotation app="2018-05-05" doc="D.C. Law 22-97" eff="2018-05-05" path="" target-path="7" type="History" display="false"/>
+    <annotation app="2018-05-05" doc="D.C. Law 22-97" eff="2018-05-05" path="§7" target-path="7|19B" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7093" target-path="" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7093" target-path="" type="History"/>
   </annotations>
 </section>

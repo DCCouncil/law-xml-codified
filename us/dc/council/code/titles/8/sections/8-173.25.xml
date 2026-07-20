@@ -34,7 +34,8 @@
     </para>
   </para>
   <annotations>
-    <annotation app="2018-08-22" doc="D.C. Law 22-155" eff="2018-08-22" path="" type="History" display="false"/>
-    <annotation app="2018-08-22" doc="D.C. Law 22-155" eff="2018-08-22" path="§205" type="History"/>
+    <annotation app="2018-08-22" doc="D.C. Law 22-155" eff="2018-08-22" path="" target-path="8" type="History" display="false"/>
+    <annotation app="2018-08-22" doc="D.C. Law 22-155" eff="2018-08-22" path="" target-path="8|1B-i" type="History" display="false"/>
+    <annotation app="2018-08-22" doc="D.C. Law 22-155" eff="2018-08-22" path="§205" target-path="8|1B-i|II" type="History"/>
   </annotations>
 </section>

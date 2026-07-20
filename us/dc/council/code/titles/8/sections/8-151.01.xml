@@ -162,21 +162,22 @@
     <annotation type="Temporary Legislation">Section 902 of <cite doc="D.C. Law 18-222">D.C. Law 18-222</cite> rewrote subsec. (e) to read as follows:</annotation>
     <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> deleted “April 20, 2000” following “No. DC0000221, issued” in (15).</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-371">D.C. Law 17-371</cite> rewrote the section.</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6045|(a)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6045|(b)" type="History"/>
-    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§501|(a)" type="History" display="false"/>
-    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§101|(a)|(1)" type="History"/>
-    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§101|(a)|(2)" type="History"/>
-    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§101|(a)|(3)" type="History"/>
-    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§101|(a)|(4)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6045|(a)" target-path="§101" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6045|(b)" target-path="§101" type="History"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§501|(a)" target-path="" type="History" display="false"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§101|(a)|(1)" target-path="§8-151.01" type="History"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§101|(a)|(2)" target-path="§8-151.01" type="History"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§101|(a)|(3)" target-path="§8-151.01" type="History"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§101|(a)|(4)" target-path="§8-151.01" type="History"/>
     <annotation doc="D.C. Law 21-254" path="§101|(a)" type="Construction of Law" history="false" app="2017-04-07" eff="2017-04-07">
              Section 401 of Law 21-254 provided that Law 21-254 shall be construed, and the authority granted under it shall be exercised, in a manner consistent with applicable federal laws and regulations. 
         </annotation>
-    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§101|(a)" type="History" display="false"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§101|(a)" target-path="§8-151.01" type="History" display="false"/>
     <annotation type="Applicability" codified:display="Note" app="2017-04-07" eff="2017-04-07" doc="D.C. Law 21-254" path="§101|(a)">Applicability of <cite doc="D.C. Law 21-254" path="">D.C. Law 21-254</cite>: <cite doc="D.C. Law 21-254" path="§501">§ 501 of D.C. Law 21-254</cite> provided that the change made to this section by <cite doc="D.C. Law 21-254" path="§101|(a)">§ 101(a) of D.C. Law 21-254</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§101|(a)" type="History"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§6033|(a)" type="History" display="false"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§101|(a)" target-path="§8-151.01" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§6033|(a)" target-path="§501|(a)" type="History" display="false"/>
     <annotation doc="D.C. Law 22-168" path="§6033|(a)" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§6033">Section 6033 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 21-254" path="§501|(a)">§ 501(a) of D.C. Law 21-254</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-254">D.C. Law 21-254</cite> have been implemented.</annotation>
-    <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§131" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§6033|(a)" target-path="§8-151.01" type="History" display="false"/>
+    <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§131" target-path="§8-151.01|(5B)|(B)" type="History"/>
   </annotations>
 </section>

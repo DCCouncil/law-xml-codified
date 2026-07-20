@@ -13,13 +13,13 @@
   <annotations>
     <annotation doc="D.C. Law 19-278" type="History" path="§3g">Apr. 23, 2013, D.C. Law 19-278, § 3g</annotation>
     <annotation type="Applicability" doc="D.C. Law 23-156" path="§2|(c)" codified:display="Note" app="2020-12-23" eff="2020-12-23">Applicability of <cite doc="D.C. Law 23-156" path="">D.C. Law 23-156</cite>: <cite doc="D.C. Law 23-156" path="§3">§ 3 of D.C. Law 23-156</cite> provided that the creation of this section by <cite doc="D.C. Law 23-156" path="§2|(c)">§ 2(c) of D.C. Law 23-156</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(c)" type="History"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(c)" prefix="as added" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(c)" target-path="§2|(c)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(c)" prefix="as added" target-path="50|23A" type="History"/>
     <annotation doc="D.C. Act 24-159" path="§7186" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7186">Section 7186 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-156" path="§3">section 3 of D.C. Law 23-156</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-154 has been implemented.
         </annotation>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7186" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7186" target-path="§50-2352.07" type="History" display="false"/>
     <annotation doc="D.C. Law 24-45" path="§7186" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7186">Section 7186 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-156" path="§3">section 3 of D.C. Law 23-156</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-154 has been implemented.
         </annotation>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7186" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7186" target-path="§50-2352.07" type="History" display="false"/>
   </annotations>
 </section>

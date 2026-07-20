@@ -63,10 +63,10 @@
         </text>
   </para>
   <annotations>
-    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="VI" type="History" display="false"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="§604" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="VI" target-path="|50|22" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="§604" target-path="|50|22|II-A" type="History"/>
     <annotation doc="D.C. Law 21-155" type="Editor's Notes" path="§703" history="false" app="2016-10-08" eff="2016-10-08">For requirement of the issuance of rules to implement title 7 of Law 21-155, see <cite doc="D.C. Law 21-155">§ 703 of D.C. Law 21-155</cite>.
       </annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="§703" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="§703" target-path="§50-2204.01" type="History" display="false"/>
   </annotations>
 </section>

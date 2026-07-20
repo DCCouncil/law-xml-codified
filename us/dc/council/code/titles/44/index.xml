@@ -185,7 +185,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>2A</num>
-    <heading>Defibrillator Usage. [Recodified]<annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="" type="History"/></heading>
+    <heading>Defibrillator Usage. [Recodified]<annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="" target-path="44|2A|heading" type="History"/></heading>
     <xi:include href="./sections/44-231.xml"/>
     <xi:include href="./sections/44-232.xml"/>
     <xi:include href="./sections/44-232.01.xml"/>
@@ -270,7 +270,7 @@
     <prefix>Chapter</prefix>
     <num>4A</num>
     <heading>Health Care Facility Mammography Report.</heading>
-    <annotation app="2019-03-22" doc="D.C. Law 22-261" eff="2019-03-22" path="" type="History" display="false"/>
+    <annotation app="2019-03-22" doc="D.C. Law 22-261" eff="2019-03-22" path="" target-path="44" type="History" display="false"/>
     <xi:include href="./sections/44-431.xml"/>
     <xi:include href="./sections/44-432.xml"/>
   </container>
@@ -300,7 +300,8 @@
       <annotation doc="D.C. Law 2-66" type="Editor's Notes" history="false" app="1978-04-06" eff="1978-04-06" path="" display="false">
         This section was repealed by <cite doc="D.C. Law 6-26">section 4 of D.C. Law 6-26</cite>; however, pursuant to <cite doc="D.C. Law 6-26">section 6(b)</cite> of D.C. Law 6-26, the repeal will not apply until the Mayor issues rules for ambulatory surgical facilities. As of this date, the Mayor has not issued such rules. 
   </annotation>
-      <annotation app="1978-04-06" doc="D.C. Law 2-66" eff="1978-04-06" path="" type="History" display="false"/>
+      <annotation app="1978-04-06" doc="D.C. Law 2-66" eff="1978-04-06" path="" target-path="" type="History" display="false"/>
+      <annotation app="1978-04-06" doc="D.C. Law 2-66" eff="1978-04-06" path="" target-path="44|5" type="History" display="false"/>
       <container>
         <prefix>Part</prefix>
         <num>A</num>
@@ -308,7 +309,8 @@
         <annotation doc="D.C. Law 2-66" type="Editor's Notes" history="false" app="1978-04-06" eff="1978-04-06" path="" display="false">
         This section was repealed by <cite doc="D.C. Law 6-26">section 4 of D.C. Law 6-26</cite>; however, pursuant to <cite doc="D.C. Law 6-26">section 6(b)</cite> of D.C. Law 6-26, the repeal will not apply until the Mayor issues rules for ambulatory surgical facilities. As of this date, the Mayor has not issued such rules. 
   </annotation>
-        <annotation app="1978-04-06" doc="D.C. Law 2-66" eff="1978-04-06" path="" type="History" display="false"/>
+        <annotation app="1978-04-06" doc="D.C. Law 2-66" eff="1978-04-06" path="" target-path="" type="History" display="false"/>
+        <annotation app="1978-04-06" doc="D.C. Law 2-66" eff="1978-04-06" path="" target-path="44|5|I-A" type="History" display="false"/>
         <xi:include href="./sections/44-531.01.xml"/>
         <xi:include href="./sections/44-531.02.xml"/>
       </container>
@@ -319,7 +321,8 @@
         <annotation doc="D.C. Law 2-66" type="Editor's Notes" history="false" app="1978-04-06" eff="1978-04-06" path="" display="false">
         This section was repealed by <cite doc="D.C. Law 6-26">section 4 of D.C. Law 6-26</cite>; however, pursuant to <cite doc="D.C. Law 6-26">section 6(b)</cite> of D.C. Law 6-26, the repeal will not apply until the Mayor issues rules for ambulatory surgical facilities. As of this date, the Mayor has not issued such rules. 
   </annotation>
-        <annotation app="1978-04-06" doc="D.C. Law 2-66" eff="1978-04-06" path="" type="History" display="false"/>
+        <annotation app="1978-04-06" doc="D.C. Law 2-66" eff="1978-04-06" path="" target-path="" type="History" display="false"/>
+        <annotation app="1978-04-06" doc="D.C. Law 2-66" eff="1978-04-06" path="" target-path="44|5|I-A" type="History" display="false"/>
         <xi:include href="./sections/44-532.01.xml"/>
         <xi:include href="./sections/44-532.02.xml"/>
         <xi:include href="./sections/44-532.03.xml"/>
@@ -333,7 +336,8 @@
         <annotation doc="D.C. Law 2-66" type="Editor's Notes" history="false" app="1978-04-06" eff="1978-04-06" path="" display="false">
         This section was repealed by <cite doc="D.C. Law 6-26">section 4 of D.C. Law 6-26</cite>; however, pursuant to <cite doc="D.C. Law 6-26">section 6(b)</cite> of D.C. Law 6-26, the repeal will not apply until the Mayor issues rules for ambulatory surgical facilities. As of this date, the Mayor has not issued such rules. 
   </annotation>
-        <annotation app="1978-04-06" doc="D.C. Law 2-66" eff="1978-04-06" path="" type="History" display="false"/>
+        <annotation app="1978-04-06" doc="D.C. Law 2-66" eff="1978-04-06" path="" target-path="" type="History" display="false"/>
+        <annotation app="1978-04-06" doc="D.C. Law 2-66" eff="1978-04-06" path="" target-path="44|5|I-A" type="History" display="false"/>
         <xi:include href="./sections/44-533.01.xml"/>
         <xi:include href="./sections/44-533.02.xml"/>
         <xi:include href="./sections/44-533.03.xml"/>
@@ -348,7 +352,8 @@
         <annotation doc="D.C. Law 2-66" type="Editor's Notes" history="false" app="1978-04-06" eff="1978-04-06" path="" display="false">
         This section was repealed by <cite doc="D.C. Law 6-26">section 4 of D.C. Law 6-26</cite>; however, pursuant to <cite doc="D.C. Law 6-26">section 6(b)</cite> of D.C. Law 6-26, the repeal will not apply until the Mayor issues rules for ambulatory surgical facilities. As of this date, the Mayor has not issued such rules. 
   </annotation>
-        <annotation app="1978-04-06" doc="D.C. Law 2-66" eff="1978-04-06" path="" type="History" display="false"/>
+        <annotation app="1978-04-06" doc="D.C. Law 2-66" eff="1978-04-06" path="" target-path="" type="History" display="false"/>
+        <annotation app="1978-04-06" doc="D.C. Law 2-66" eff="1978-04-06" path="" target-path="44|5|I-A" type="History" display="false"/>
         <xi:include href="./sections/44-534.01.xml"/>
         <xi:include href="./sections/44-534.02.xml"/>
       </container>
@@ -359,7 +364,8 @@
         <annotation doc="D.C. Law 2-66" type="Editor's Notes" history="false" app="1978-04-06" eff="1978-04-06" path="" display="false">
         This section was repealed by <cite doc="D.C. Law 6-26">section 4 of D.C. Law 6-26</cite>; however, pursuant to <cite doc="D.C. Law 6-26">section 6(b)</cite> of D.C. Law 6-26, the repeal will not apply until the Mayor issues rules for ambulatory surgical facilities. As of this date, the Mayor has not issued such rules. 
   </annotation>
-        <annotation app="1978-04-06" doc="D.C. Law 2-66" eff="1978-04-06" path="" type="History" display="false"/>
+        <annotation app="1978-04-06" doc="D.C. Law 2-66" eff="1978-04-06" path="" target-path="" type="History" display="false"/>
+        <annotation app="1978-04-06" doc="D.C. Law 2-66" eff="1978-04-06" path="" target-path="44|5|I-A" type="History" display="false"/>
         <xi:include href="./sections/44-535.01.xml"/>
         <xi:include href="./sections/44-535.02.xml"/>
         <xi:include href="./sections/44-535.03.xml"/>
@@ -452,8 +458,8 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>V</num>
-      <heading>2016 - 2017 Medicaid Hospital Outpatient Supplemental Payment. [Expired]<annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="V|F" type="History" display="false"/></heading>
-      <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="V" type="History" display="false"/>
+      <heading>2016 - 2017 Medicaid Hospital Outpatient Supplemental Payment. [Expired]<annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="V|F" target-path="44|6A|V|heading" type="History" display="false"/></heading>
+      <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="V" target-path="44|6A" type="History" display="false"/>
       <xi:include href="./sections/44-663.01.xml"/>
       <xi:include href="./sections/44-663.02.xml"/>
       <xi:include href="./sections/44-663.03.xml"/>
@@ -467,8 +473,8 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>VI</num>
-      <heading>2016 - 2017 Medicaid Hospital Inpatient Rate Supplement. [Expired]<annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="V|F" type="History" display="false"/></heading>
-      <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="V" type="History" display="false"/>
+      <heading>2016 - 2017 Medicaid Hospital Inpatient Rate Supplement. [Expired]<annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="V|F" target-path="44|6A|VI|heading" type="History" display="false"/></heading>
+      <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="V" target-path="44|6A" type="History" display="false"/>
       <xi:include href="./sections/44-663.11.xml"/>
       <xi:include href="./sections/44-663.12.xml"/>
       <xi:include href="./sections/44-663.13.xml"/>
@@ -481,8 +487,8 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>VII</num>
-      <heading> Hospital Outpatient Supplemental Payment.<annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§5032" type="History"/></heading>
-      <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="V" type="History" display="false"/>
+      <heading> Hospital Outpatient Supplemental Payment.<annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§5032" target-path="44|6A|VII|heading" type="History"/></heading>
+      <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="V" target-path="44|6A" type="History" display="false"/>
       <xi:include href="./sections/44-664.01.xml"/>
       <xi:include href="./sections/44-664.02.xml"/>
       <xi:include href="./sections/44-664.03.xml"/>
@@ -496,8 +502,8 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>VIII</num>
-      <heading> Hospital Inpatient Rate Supplement.<annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§5032" type="History"/></heading>
-      <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="V" type="History" display="false"/>
+      <heading> Hospital Inpatient Rate Supplement.<annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§5032" target-path="44|6A|VIII|heading" type="History"/></heading>
+      <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="V" target-path="44|6A" type="History" display="false"/>
       <xi:include href="./sections/44-664.11.xml"/>
       <xi:include href="./sections/44-664.12.xml"/>
       <xi:include href="./sections/44-664.13.xml"/>
@@ -511,7 +517,7 @@
       <prefix>Subchapter</prefix>
       <num>IX</num>
       <heading>Medicaid Inpatient Hospital Directed Payment.</heading>
-      <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="V|C" type="History" display="false"/>
+      <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="V|C" target-path="44|6A" type="History" display="false"/>
       <xi:include href="./sections/44-665.01.xml"/>
       <xi:include href="./sections/44-665.02.xml"/>
       <xi:include href="./sections/44-665.03.xml"/>
@@ -526,7 +532,7 @@
       <prefix>Subchapter</prefix>
       <num>X</num>
       <heading>Medicaid Outpatient Hospital Directed Payment.</heading>
-      <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="V|D" type="History" display="false"/>
+      <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="V|D" target-path="44|6A" type="History" display="false"/>
       <xi:include href="./sections/44-665.11.xml"/>
       <xi:include href="./sections/44-665.12.xml"/>
       <xi:include href="./sections/44-665.13.xml"/>
@@ -542,7 +548,7 @@
     <prefix>Chapter</prefix>
     <num>6B</num>
     <heading>Medicaid Provider Reimbursement.</heading>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="V" type="History" display="false"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="V" target-path="44" type="History" display="false"/>
     <xi:include href="./sections/44-671.01.xml"/>
     <xi:include href="./sections/44-671.02.xml"/>
     <xi:include href="./sections/44-671.03.xml"/>
@@ -595,7 +601,7 @@
       <prefix>Subchapter</prefix>
       <num>III-A</num>
       <heading>Window Blind and Drape Cord Safety Notification.</heading>
-      <annotation app="2020-10-20" doc="D.C. Law 23-131" eff="2020-10-20" path="" type="History" display="false"/>
+      <annotation app="2020-10-20" doc="D.C. Law 23-131" eff="2020-10-20" path="" target-path="44|7" type="History" display="false"/>
       <xi:include href="./sections/44-761.xml"/>
       <xi:include href="./sections/44-762.xml"/>
     </container>
@@ -824,10 +830,10 @@
     <xi:include href="./sections/44-1158.xml"/>
     <xi:include href="./sections/44-1159.xml"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-434" path="§7204" codified:display="Note" app="2018-07-30" eff="2018-07-30">For temporary (90 days) repeal of this chapter, see <cite doc="D.C. Act 22-434" path="§7204">§ 7204 of Fiscal Year 2019 Budget Support Emergency Act of 2018 (D.C. Act 22-434, July 30, 2018, 65 DCR 8200)</cite>.</annotation>
-    <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§7204" type="History" display="false"/>
+    <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§7204" target-path="44|11A" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§7204" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) repeal of this chapter, see <cite doc="D.C. Act 22-458" path="§7204">§ 7204 of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
-    <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§7204" type="History" display="false"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7204" type="History"/>
+    <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§7204" target-path="44|11A" type="History" display="false"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7204" target-path="44|11A" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

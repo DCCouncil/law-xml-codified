@@ -55,10 +55,11 @@
     <annotation doc="D.C. Law 6-192" type="History">Feb. 24, 1987, D.C. Law 6-192, § 8, 33 DCR 7836</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 2-3307.1.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§3-1207.02">§ 3-1207.02</cite>.</annotation>
-    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ddd)|(1)|(B)" type="History"/>
-    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ddd)|(1)|(A)" type="History"/>
-    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ddd)|(2)|(B)" type="History"/>
-    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ddd)|(2)|(C)" type="History"/>
-    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ddd)|(2)|(A)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ddd)|(1)|(B)" target-path="§3-1207.01|(a)|(1)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ddd)|(1)|(B)" target-path="§3-1207.01|(a)|(2)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ddd)|(1)|(A)" target-path="§3-1207.01|(a)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ddd)|(2)|(B)" target-path="§3-1207.01|(c)|(1)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ddd)|(2)|(C)" target-path="§3-1207.01|(c)|(2)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ddd)|(2)|(A)" target-path="§3-1207.01|(c)" type="History"/>
   </annotations>
 </section>

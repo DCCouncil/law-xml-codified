@@ -31,8 +31,8 @@
   <annotations>
     <annotation doc="D.C. Law 13-107" type="History" path="§106b" display="false">May 9, 2000, D.C. Law 13-107, § 106b</annotation>
     <annotation doc="D.C. Law 13-107" type="History" path="§106b">May 9, 2000, D.C. Law 13-107, § 106b</annotation>
-    <annotation app="2026-04-29" doc="D.C. Act 26-316" eff="2026-04-29" path="§2" type="History" display="false"/>
-    <annotation app="2026-04-29" doc="D.C. Act 26-316" eff="2026-04-29" path="§2" prefix="as added" type="History"/>
+    <annotation app="2026-04-29" doc="D.C. Act 26-316" eff="2026-04-29" path="§2" target-path="§34-1506.02" type="History" display="false"/>
+    <annotation app="2026-04-29" doc="D.C. Act 26-316" eff="2026-04-29" path="§2" prefix="as added" target-path="34|15" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-316" path="§2" codified:display="Note" app="2026-04-29" eff="2026-04-29">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-316" path="§2|includes|106b">§ 106b of Rate Plan Vacatur Interim Protections Emergency Amendment Act of 2026 (D.C. Act 26-316, Apr. 29, 2026, 73 DCR 6842)</cite>.</annotation>
   </annotations>
 </section>

@@ -3,12 +3,12 @@
   <prefix>Title</prefix>
   <num>27A</num>
   <heading>Private Contractors and Subcontractors.</heading>
-  <annotation app="2013-11-05" doc="D.C. Law 20-34" eff="2013-11-05" path="" type="History" display="false"/>
+  <annotation app="2013-11-05" doc="D.C. Law 20-34" eff="2013-11-05" path="" target-path="" type="History" display="false"/>
   <container>
     <prefix>Chapter</prefix>
     <num>1</num>
     <heading>Private Contractors and Subcontractors Prompt Payment.</heading>
-    <annotation app="2013-11-05" doc="D.C. Law 20-34" eff="2013-11-05" path="" type="History" display="false"/>
+    <annotation app="2013-11-05" doc="D.C. Law 20-34" eff="2013-11-05" path="" target-path="27A" type="History" display="false"/>
     <xi:include href="./sections/27A-101.xml"/>
     <xi:include href="./sections/27A-102.xml"/>
     <xi:include href="./sections/27A-103.xml"/>
@@ -20,7 +20,7 @@
     <prefix>Chapter</prefix>
     <num>2</num>
     <heading>Contractor Indemnity.</heading>
-    <annotation app="2023-03-10" doc="D.C. Law 24-293" eff="2023-03-10" path="" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-293" eff="2023-03-10" path="" target-path="27A" type="History" display="false"/>
     <xi:include href="./sections/27A-201.xml"/>
     <xi:include href="./sections/27A-202.xml"/>
   </container>

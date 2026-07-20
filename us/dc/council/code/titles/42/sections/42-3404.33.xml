@@ -115,8 +115,9 @@
     <annotation doc="D.C. Law 3-86" type="History" path="§433">Sept. 10, 1980, D.C. Law 3-86, § 433</annotation>
     <annotation doc="D.C. Law 17-286" type="History">as added Dec. 24, 2008, D.C. Law 17-286, § 2, 55 DCR 11989</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§42-3404.36">§ 42-3404.36</cite>.</annotation>
-    <annotation app="2021-08-28" doc="D.C. Law 24-24" eff="2021-08-28" path="§2|(b)|(1)" type="History"/>
-    <annotation app="2021-08-28" doc="D.C. Law 24-24" eff="2021-08-28" path="§2|(b)|(2)" type="History"/>
-    <annotation app="2021-08-28" doc="D.C. Law 24-24" eff="2021-08-28" path="§2|(b)|(3)" type="History"/>
+    <annotation app="2021-08-28" doc="D.C. Law 24-24" eff="2021-08-28" path="§2|(b)|(1)" target-path="§42-3404.33|(b)|(1)" type="History"/>
+    <annotation app="2021-08-28" doc="D.C. Law 24-24" eff="2021-08-28" path="§2|(b)|(2)" target-path="§42-3404.33|(c)" type="History"/>
+    <annotation app="2021-08-28" doc="D.C. Law 24-24" eff="2021-08-28" path="§2|(b)|(2)" target-path="§42-3404.33|(d)" type="History"/>
+    <annotation app="2021-08-28" doc="D.C. Law 24-24" eff="2021-08-28" path="§2|(b)|(3)" target-path="§42-3404.33" type="History"/>
   </annotations>
 </section>

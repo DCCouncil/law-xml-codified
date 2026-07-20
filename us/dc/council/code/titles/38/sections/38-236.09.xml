@@ -208,30 +208,33 @@
     <annotation doc="D.C. Law 22-157" type="History">renumbered, § 209, Aug. 25, 2018, D.C. Law 22-157, § 2(b), (d), 65 DCR 7499</annotation>
     <annotation type="Prior Codifications">2001 Ed., § 38-236</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-104" path="§4144" codified:display="Note" app="2017-07-20" eff="2017-07-20">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-104" path="§4144">§ 4144 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, July 20, 2017, 64 DCR 7032)</cite>.</annotation>
-    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§4144" type="History" display="false"/>
+    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§4144" target-path="§38-236" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§4144" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-167" path="§4144">§ 4144 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
-    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§4144" type="History" display="false"/>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§4144" type="History" display="false"/>
+    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§4144" target-path="§38-236" type="History" display="false"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§4144" target-path="§38-236|(d)" type="History" display="false"/>
     <annotation doc="D.C. Law 22-33" path="§4144" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13"><cite doc="D.C. Law 22-33" path="§4150">Section 4150 of D.C. Law 22-33</cite> provided that the amendment made to this section shall apply as of June 27, 2017.
         </annotation>
-    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="" type="History" display="false"/>
-    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(1)|(A)" type="History" display="false"/>
-    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(1)|(B)|(i)" type="History" display="false"/>
-    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(1)|(B)|(ii)" type="History" display="false"/>
-    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(1)|(B)|(iii)" type="History" display="false"/>
-    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(1)|(B)|(iv)" type="History" display="false"/>
-    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(1)|(C)" type="History" display="false"/>
-    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(2)" type="History" display="false"/>
-    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(3)|(B)" type="History" display="false"/>
-    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(3)|(A)" type="History" display="false"/>
-    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(4)|(A)" type="History" display="false"/>
-    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(4)|(B)" type="History" display="false"/>
-    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(5)" type="History" display="false"/>
-    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(6)" type="History" display="false"/>
-    <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§148" type="History"/>
-    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§129|(b)|(1)" type="History"/>
-    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§129|(b)|(2)" type="History"/>
-    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§129|(b)|(3)" type="History"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§4144" target-path="§38-236" type="History" display="false"/>
+    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="" target-path="38|2|II" type="History" display="false"/>
+    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(1)|(A)" target-path="§38-236.09|(a)|(1)|(H)" type="History" display="false"/>
+    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(1)|(B)|(i)" target-path="§38-236.09|(a)|(2)|(A)" type="History" display="false"/>
+    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(1)|(B)|(ii)" target-path="§38-236.09|(a)|(2)|(C)" type="History" display="false"/>
+    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(1)|(B)|(iii)" target-path="§38-236.09|(a)|(2)|(D)" type="History" display="false"/>
+    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(1)|(B)|(iii)" target-path="§38-236.09|(a)|(2)|(E)" type="History" display="false"/>
+    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(1)|(B)|(iii)" target-path="§38-236.09|(a)|(2)|(F)" type="History" display="false"/>
+    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(1)|(B)|(iv)" target-path="§38-236.09|(a)|(2)" type="History" display="false"/>
+    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(1)|(C)" target-path="§38-236.09|(a)" type="History" display="false"/>
+    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(b)" target-path="§38-236.09|(a)" type="History" display="false"/>
+    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(2)" target-path="§38-236.09|(b)" type="History" display="false"/>
+    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(3)|(B)" target-path="§38-236.09|(c)" type="History" display="false"/>
+    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(3)|(A)" target-path="§38-236.09|(c)" type="History" display="false"/>
+    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(4)|(A)" target-path="§38-236.09|(d)" type="History" display="false"/>
+    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(4)|(B)" target-path="§38-236.09|(d)" type="History" display="false"/>
+    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(5)" target-path="§38-236.09|(e)" type="History" display="false"/>
+    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(d)|(6)" target-path="§38-236.09" type="History" display="false"/>
+    <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§148" target-path="§38-236.09|[(f)]" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§129|(b)|(1)" target-path="§38-236.09|(a)|(2)|(G)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§129|(b)|(2)" target-path="§38-236.09|(a)|(2)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§129|(b)|(3)" target-path="§38-236.09|(a)|(2)|(H)" type="History"/>
   </annotations>
 </section>

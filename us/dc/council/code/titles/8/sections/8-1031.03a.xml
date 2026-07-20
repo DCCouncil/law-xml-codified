@@ -156,20 +156,20 @@
   <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§8-1031.03a" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-1031.03a">Applicability of <cite doc="D.C. Law 23-211" path="">D.C. Law 23-211</cite>: <cite doc="D.C. Law 23-211" path="§6">§ 6 of D.C. Law 23-211</cite> provided that the creation of this section by <cite doc="D.C. Law 23-211" path="§2|(c)">§ 2(c) of D.C. Law 23-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 20-154" path="103a" type="History">Feb. 26, 2015, D.C. Law 20-154, § 103a</annotation>
-    <annotation app="2015-02-26" doc="D.C. Law 20-154" eff="2015-02-26" path="I" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(c)" prefix="as added" type="History"/>
+    <annotation app="2015-02-26" doc="D.C. Law 20-154" eff="2015-02-26" path="I" target-path="8" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(c)" prefix="as added" target-path="8|10A" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-211" path="§2|(c)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-211" path="">D.C. Law 23-211</cite>: <cite doc="D.C. Law 23-211" path="§6">§ 6 of D.C. Law 23-211</cite> provided that the creation of this section by <cite doc="D.C. Law 23-211" path="§2|(c)">§ 2(c) of D.C. Law 23-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(c)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(c)" target-path="§8-1031.03a" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§6062|(a)" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§6062|(a)">§ 6062(a) of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§6062|(a)" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§6062|(a)" target-path="§8-1031.03a" type="History" display="false"/>
     <annotation doc="D.C. Act 24-159" path="§7203" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7203">Section 7203 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore the creation of this section by §2(c) of Law 23-211 has been implemented.
         </annotation>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7203" type="History" display="false"/>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6062|(a)|(1)|(A)" type="History"/>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6062|(a)|(1)|(B)" type="History"/>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6062|(a)|(2)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7203" target-path="§8-1031.03a" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6062|(a)|(1)|(A)" target-path="§8-1031.03a|(a)|(1)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6062|(a)|(1)|(B)" target-path="§8-1031.03a|(a)|(3)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6062|(a)|(2)" target-path="§8-1031.03a|(e)|(1)" type="History"/>
     <annotation doc="D.C. Law 24-45" path="§7203" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7203">Section 7203 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore the creation of this section by §2(c) of Law 23-211 has been implemented.
         </annotation>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7203" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7203" target-path="§8-1031.03a" type="History" display="false"/>
   </annotations>
 </section>

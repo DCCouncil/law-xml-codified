@@ -74,24 +74,24 @@
   <annotations>
     <annotation doc="D.C. Law 24-177" type="History" path="§2">Sept. 21, 2022, D.C. Law 24-177, § 2, 69 DCR 11947</annotation>
     <annotation doc="D.C. Law 24-177" type="History" path="§2a" display="false">Mar. 16, 1989, D.C. Law 24-177, § 2a</annotation>
-    <annotation app="2022-09-21" doc="D.C. Law 24-177" eff="2022-09-21" path="" type="History" display="false"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-177" eff="2022-09-21" path="§2" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-177" eff="2022-09-21" path="" target-path="6" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-177" eff="2022-09-21" path="§2" target-path="6|14B" type="History"/>
     <annotation doc="D.C. Law 24-177" path="§4" type="Applicability" history="false" app="2022-09-21" eff="2022-09-21">
       Section 4 of D.C. Law 24-177 provided that this section shall apply October 1, 2023.
     </annotation>
-    <annotation app="2022-09-21" doc="D.C. Law 24-177" eff="2022-09-21" path="§4" type="History" display="false"/>
-    <annotation app="2025-11-24" doc="D.C. Act 26-207" eff="2025-11-24" path="§3" type="History" display="false"/>
-    <annotation app="2026-02-12" doc="D.C. Law 26-90" eff="2026-02-12" path="§3" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-177" eff="2022-09-21" path="§4" target-path="§6-1453.01" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-207" eff="2025-11-24" path="§3" target-path="§6-1453.01" type="History" display="false"/>
+    <annotation app="2026-02-12" doc="D.C. Law 26-90" eff="2026-02-12" path="§3" target-path="§6-1453.01" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-275" path="§3" codified:display="Note" app="2026-03-06" eff="2026-03-06">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-275" path="§3">§ 3 of Net Zero Modification and Preservation Emergency Amendment Act of 2026 (D.C. Act 26-275, Mar. 6, 2026, 73 DCR 3779)</cite>.</annotation>
-    <annotation app="2026-03-06" doc="D.C. Act 26-275" eff="2026-03-06" path="§3" type="History" display="false"/>
-    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§3" type="History" display="false"/>
-    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§3|(a)|(1)" type="History"/>
-    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§3|(a)|(2)|(A)" type="History"/>
-    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§3|(a)|(2)|(B)" type="History"/>
-    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§3|(a)|(2)|(C)" type="History"/>
-    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§3|(b)|(1)" type="History"/>
-    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§3|(b)|(2)" type="History"/>
-    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§3|(c)" type="History"/>
+    <annotation app="2026-03-06" doc="D.C. Act 26-275" eff="2026-03-06" path="§3" target-path="§6-1453.01" type="History" display="false"/>
+    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§3" target-path="§6-1453.01" type="History" display="false"/>
+    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§3|(a)|(1)" target-path="§6-1453.01|(a)" type="History"/>
+    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§3|(a)|(2)|(A)" target-path="§6-1453.01|(a)|(3)|(A)" type="History"/>
+    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§3|(a)|(2)|(B)" target-path="§6-1453.01|(a)|(3)|(B)" type="History"/>
+    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§3|(a)|(2)|(C)" target-path="§6-1453.01|(a)|(3)" type="History"/>
+    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§3|(b)|(1)" target-path="§6-1453.01|(b)|(1)" type="History"/>
+    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§3|(b)|(2)" target-path="§6-1453.01|(b)|(2)" type="History"/>
+    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§3|(c)" target-path="§6-1453.01|(c)|(1)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Law 26-123" path="§3" codified:display="Note" app="2026-05-21" eff="2026-05-21">For temporary (90 days) amendment of this section, see <cite doc="D.C. Law 26-123" path="§3">§ 3 of Net Zero Modification and Preservation Temporary Amendment Act of 2026 (D.C. Law 26-123, May 21, 2026, 73 DCR 5075)</cite>.</annotation>
   </annotations>
 </section>

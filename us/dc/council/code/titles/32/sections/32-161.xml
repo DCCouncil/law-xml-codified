@@ -222,34 +222,35 @@
   </para>
   <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§32-161" codified:display="Note" codified:doc="D.C. Code" codified:path="§32-161">Applicability of <cite doc="D.C. Law 22-196" path="">D.C. Law 22-196</cite>: <cite doc="D.C. Law 22-196" path="§8">§ 8 of D.C. Law 22-196</cite> provided that the creation of this section by <cite doc="D.C. Law 22-196" path="§3">§ 3 of D.C. Law 22-196</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="2018-12-13" doc="D.C. Law 22-196" eff="2018-12-13" path="" type="History" display="false"/>
-    <annotation app="2018-12-13" doc="D.C. Law 22-196" eff="2018-12-13" path="§3" type="History"/>
+    <annotation app="2018-12-13" doc="D.C. Law 22-196" eff="2018-12-13" path="" target-path="32" type="History" display="false"/>
+    <annotation app="2018-12-13" doc="D.C. Law 22-196" eff="2018-12-13" path="§3" target-path="32|1C" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 22-196" path="§3" codified:display="Note" app="2018-12-13" eff="2018-12-13">Applicability of <cite doc="D.C. Law 22-196" path="">D.C. Law 22-196</cite>: <cite doc="D.C. Law 22-196" path="§8">§ 8 of D.C. Law 22-196</cite> provided that the creation of this section by <cite doc="D.C. Law 22-196" path="§3">§ 3 of D.C. Law 22-196</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2018-12-13" doc="D.C. Law 22-196" eff="2018-12-13" path="§3" target-path="§32-161" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" path="§2102|(a)" codified:display="Note" app="2019-07-22" eff="2019-07-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-91" path="§2102|(a)">§ 2102(a) of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
-    <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§2102|(a)" type="History" display="false"/>
+    <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§2102|(a)" target-path="§32-161" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§2102|(a)" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-112" path="§2102|(a)">§ 2102(a) of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
-    <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§2102|(a)" type="History" display="false"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)|(1)|(A)" type="History"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)|(1)|(B)" type="History"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)|(2)|(A)" type="History"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)|(2)|(B)" type="History"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)|(2)|(C)" type="History"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)|(2)|(D)" type="History"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)|(2)|(E)" type="History"/>
+    <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§2102|(a)" target-path="§32-161" type="History" display="false"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)|(1)|(A)" target-path="3|(a)|(1)" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)|(1)|(B)" target-path="3|(a)|(3)|(A)" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)|(2)|(A)" target-path="3|(b)|(1)|text" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)|(2)|(B)" target-path="3|(b)|(1)|(A)" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)|(2)|(C)" target-path="3|(b)|(1)|(B)" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)|(2)|(D)" target-path="3|(b)|(1)|(C)" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)|(2)|(E)" target-path="3|(b)|(1)" type="History"/>
     <annotation doc="D.C. Law 23-16" path="§2102|(a)" type="Applicability" history="false" app="2019-09-11" eff="2019-09-11"><cite doc="D.C. Law 23-16" path="§2102|(a)">D.C. Law 23-16, § 2102(a),</cite> amended this section which is subject to appropriations pursuant to <cite doc="D.C. Law 22-196" path="§8">§ 8 of D.C. Law 22-196</cite>. Therefore the amendment made by D.C. Law 23-16 has not been implemented.
           </annotation>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)" type="History" display="false"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2132|(a)|(1)|(A)" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2132|(a)|(1)|(B)" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2132|(a)|(2)|(A)|(i)" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2132|(a)|(2)|(A)|(ii)" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2132|(a)|(2)|(B)" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)" target-path="§32-161" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2132|(a)|(1)|(A)" target-path="§32-161|(a)|(1)|text" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2132|(a)|(1)|(B)" target-path="§32-161|(a)|(1)|(F)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2132|(a)|(2)|(A)|(i)" target-path="§32-161|(b)|(1)|text" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2132|(a)|(2)|(A)|(ii)" target-path="§32-161|(b)|(1)|(B)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2132|(a)|(2)|(B)" target-path="§32-161|(b)|(2)" type="History"/>
     <annotation doc="D.C. Law 23-149" path="§7065" type="Applicability" history="false" app="2020-12-03" eff="2020-12-03"><cite doc="D.C. Law 23-149" path="§7065">Section 7065 of D.C. Law 23-149</cite> amended <cite doc="D.C. Law 22-196" path="§8">section 8 of D.C. Law 22-196</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by section 3 of Law 22-196 has been implemented.
         </annotation>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7065" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7065" target-path="§32-161" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-26" path="§401" codified:display="Note" app="2021-02-26" eff="2021-02-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-26" path="§401">§ 401 of Workplace Safety During the COVID-19 Pandemic Emergency Amendment Act of 2021 (D.C. Act 24-26, Feb. 26, 2021, 68 DCR 002616)</cite>.</annotation>
-    <annotation app="2021-02-26" doc="D.C. Act 24-26" eff="2021-02-26" path="§401" type="History" display="false"/>
+    <annotation app="2021-02-26" doc="D.C. Act 24-26" eff="2021-02-26" path="§401" target-path="§32-161" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-6" path="§401" codified:display="Note" app="2021-05-13" eff="2021-05-13">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-6" path="§401">§ 401 of Workplace Safety During the COVID-19 Pandemic Temporary Amendment Act of 2021 (D.C. Law 24-6, May 13, 2021, 68 DCR 003198)</cite>.</annotation>
-    <annotation app="2021-05-13" doc="D.C. Law 24-6" eff="2021-05-13" path="§401" type="History" display="false"/>
+    <annotation app="2021-05-13" doc="D.C. Law 24-6" eff="2021-05-13" path="§401" target-path="§32-161" type="History" display="false"/>
   </annotations>
 </section>

@@ -131,14 +131,18 @@
     <annotation doc="D.C. Law 20-147" type="History">Dec. 17, 2014, D.C. Law 20-147, § 3, 61 DCR 8310</annotation>
     <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-147">D.C. Law 20-147</cite> added the subsection designated herein as (b)(1)(L) and made related changes; and added (b)(1A).</annotation>
     <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-135">D.C. Law 20-135</cite> added “and property maintenance code” in (b)(1)(F); made a minor stylistic change in (b)(1)(J); and added (b)(1)(K).</annotation>
-    <annotation app="2020-06-24" doc="D.C. Law 23-112" eff="2020-06-24" path="§5|(a)" type="History"/>
-    <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="§501|(y)|(5)" type="History"/>
-    <annotation app="2023-02-23" doc="D.C. Law 24-238" eff="2023-02-23" path="§8|(a)|(1)" type="History"/>
-    <annotation app="2023-02-23" doc="D.C. Law 24-238" eff="2023-02-23" path="§8|(a)|(2)" type="History"/>
-    <annotation app="2023-02-23" doc="D.C. Law 24-238" eff="2023-02-23" path="§8|(a)|(3)" type="History"/>
-    <annotation app="2023-02-23" doc="D.C. Law 24-238" eff="2023-02-23" path="§8|(b)" type="History"/>
+    <annotation app="2020-06-24" doc="D.C. Law 23-112" eff="2020-06-24" path="§5|(a)" target-path="§42-3502.22|(b)" type="History"/>
+    <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="§501|(y)|(5)" target-path="§42-3502.22" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-238" eff="2023-02-23" path="§8|(a)|(1)" target-path="§42-3502.22|(b)|(1)|(K)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-238" eff="2023-02-23" path="§8|(a)|(2)" target-path="§42-3502.22|(b)|(1)|(L)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-238" eff="2023-02-23" path="§8|(a)|(3)" target-path="§42-3502.22|(b)|(1)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-238" eff="2023-02-23" path="§8|(b)" target-path="§42-3502.22|(b)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-238" path="§8" codified:display="Note" app="2023-02-23" eff="2023-02-23">Applicability of <cite doc="D.C. Law 24-238" path="">D.C. Law 24-238</cite>: <cite doc="D.C. Law 24-238" path="§9">§ 9 of D.C. Law 24-238</cite> provided that the change made to this section by <cite doc="D.C. Law 24-238" path="§8">§ 8 of D.C. Law 24-238</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2023-02-23" doc="D.C. Law 24-238" eff="2023-02-23" path="§8" type="History"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7206" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-238" eff="2023-02-23" path="§8" target-path="§42-3502.22" type="History"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7206" target-path="§42-3502.22|(b)|(1)|(K)" type="History"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7206" target-path="§42-3502.22|(b)|(1)|(L)" type="History"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7206" target-path="§42-3502.22|(b)|(1)|(M)" type="History"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7206" target-path="§42-3502.22|(b)|(1)|(N)" type="History"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7206" target-path="§42-3502.22|(b)|(1C)" type="History"/>
   </annotations>
 </section>

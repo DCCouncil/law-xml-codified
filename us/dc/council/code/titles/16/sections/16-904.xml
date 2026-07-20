@@ -55,8 +55,9 @@
     <annotation type="Prior Codifications">1973 Ed., § 16-904.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 16-904.</annotation>
     <annotation type="Cross References">Nonresident and absent defendants, service of process by publication, see <cite path="§13-336">§ 13-336</cite>.</annotation>
-    <annotation app="2024-01-26" doc="D.C. Law 25-115" eff="2024-01-26" path="§2|(a)|(1)" type="History"/>
-    <annotation app="2024-01-26" doc="D.C. Law 25-115" eff="2024-01-26" path="§2|(a)|(2)" type="History"/>
-    <annotation app="2025-03-21" doc="D.C. Law 25-311" eff="2025-03-21" path="§2|(a)" type="History"/>
+    <annotation app="2024-01-26" doc="D.C. Law 25-115" eff="2024-01-26" path="§2|(a)|(1)" target-path="§16-904|(a)" type="History"/>
+    <annotation app="2024-01-26" doc="D.C. Law 25-115" eff="2024-01-26" path="§2|(a)|(1)" target-path="§16-904|(b)" type="History"/>
+    <annotation app="2024-01-26" doc="D.C. Law 25-115" eff="2024-01-26" path="§2|(a)|(2)" target-path="§16-904|(c)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-311" eff="2025-03-21" path="§2|(a)" target-path="§16-904|(d)|(5)" type="History"/>
   </annotations>
 </section>

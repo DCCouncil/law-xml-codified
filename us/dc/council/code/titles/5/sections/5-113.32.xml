@@ -129,7 +129,7 @@
   <annotations>
     <annotation doc="D.C. Law 15-174" type="History" path="§102">July 15, 2004, D.C. Law 15-174, § 102, 51 DCR 3677</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§5-113.33">§ 5-113.33</cite>.</annotation>
-    <annotation app="2019-05-03" doc="D.C. Law 22-311" eff="2019-05-03" path="§2|(a)" type="History"/>
-    <annotation app="2019-05-03" doc="D.C. Law 22-311" eff="2019-05-03" path="§2|(b)" type="History"/>
+    <annotation app="2019-05-03" doc="D.C. Law 22-311" eff="2019-05-03" path="§2|(a)" target-path="§5-113.32|(a)" type="History"/>
+    <annotation app="2019-05-03" doc="D.C. Law 22-311" eff="2019-05-03" path="§2|(b)" target-path="§5-113.32|(b)|(7)" type="History"/>
   </annotations>
 </section>

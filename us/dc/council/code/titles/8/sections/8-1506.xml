@@ -9,8 +9,8 @@
     <annotation type="Prior Codifications">1981 Ed., § 6-3706.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§8-1502">§ 8-1502</cite> and <cite path="§8-1503">§ 8-1503</cite>.</annotation>
     <annotation type="Applicability" doc="D.C. Law 25-277" path="§10" codified:display="Note" app="2025-03-07" eff="2025-03-07">Applicability of <cite doc="D.C. Law 25-277" path="">D.C. Law 25-277</cite>: <cite doc="D.C. Law 25-277" path="§11">§ 11 of D.C. Law 25-277</cite> provided that the repeal of this section by <cite doc="D.C. Law 25-277" path="§10">§ 10 of D.C. Law 25-277</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2025-03-07" doc="D.C. Law 25-277" eff="2025-03-07" path="§10" type="History"/>
-    <annotation app="2025-03-07" doc="D.C. Law 25-277" eff="2025-03-07" path="§11|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-277" eff="2025-03-07" path="§10" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-277" eff="2025-03-07" path="§10" target-path="§10" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-277" eff="2025-03-07" path="§11|(a)" target-path="§10" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 25-277" eff="2025-03-07" path="§10" target-path="8|15" type="History"/>
   </annotations>
 </section>

@@ -109,24 +109,24 @@
     <text>Repealed.</text>
   </para>
   <annotations>
-    <annotation app="1978-09-12" doc="D.C. Law 2-103" eff="1978-09-12" path="§3a" type="History"/>
-    <annotation app="2016-07-01" doc="D.C. Law 21-139" eff="2016-07-01" path="§2" prefix="as added" type="History"/>
+    <annotation app="1978-09-12" doc="D.C. Law 2-103" eff="1978-09-12" path="§3a" target-path="42|26|I" type="History"/>
+    <annotation app="2016-07-01" doc="D.C. Law 21-139" eff="2016-07-01" path="§2" prefix="as added" target-path="" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§2062|(a)" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§2062|(a)">§ 2062(a) of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§2062|(a)" type="History" display="false"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§2062|(a)|(1)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§2062|(a)|(2)" type="History"/>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2022|(a)" type="History"/>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2022|(b)" type="History"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§2062|(a)" target-path="§42-2602.01" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§2062|(a)|(1)" target-path="§42-2602.01|(a)|(2)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§2062|(a)|(2)" target-path="§42-2602.01" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2022|(a)" target-path="§42-2602.01|(a)|(2)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2022|(b)" target-path="§42-2602.01|(e)|(1)|(B)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-356" path="§2" codified:display="Note" app="2024-01-10" eff="2024-01-10">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-356" path="§2">§ 2 of Home Purchase Assistance Program Protection Emergency Amendment Act of 2023 (D.C. Act 25-356, Jan. 10, 2024, 71 DCR 851)</cite>.</annotation>
-    <annotation app="2024-01-10" doc="D.C. Act 25-356" eff="2024-01-10" path="§2" type="History" display="false"/>
+    <annotation app="2024-01-10" doc="D.C. Act 25-356" eff="2024-01-10" path="§2" target-path="§42-2602.01" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-150" path="§2" codified:display="Note" app="2024-03-23" eff="2024-03-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-150" path="§2">§ 2 of Home Purchase Assistance Program Protection Temporary Amendment Act of 2024 (D.C. Law 25-150, Mar. 23, 2024, 71 DCR 1450)</cite>.</annotation>
-    <annotation app="2024-03-23" doc="D.C. Law 25-150" eff="2024-03-23" path="§2" type="History" display="false"/>
+    <annotation app="2024-03-23" doc="D.C. Law 25-150" eff="2024-03-23" path="§2" target-path="§42-2602.01" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-434" path="§2" codified:display="Note" app="2024-04-01" eff="2024-04-01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-434" path="§2">§ 2 of Home Purchase Assistance Program Protection Congressional Review Emergency Amendment Act of 2024 (D.C. Act 25-434, Apr. 1, 2024, 71 DCR 4111)</cite>.</annotation>
-    <annotation app="2024-04-01" doc="D.C. Act 25-434" eff="2024-04-01" path="§2" type="History" display="false"/>
+    <annotation app="2024-04-01" doc="D.C. Act 25-434" eff="2024-04-01" path="§2" target-path="§42-2602.01" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§2152|(b)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§2152|(b)">§ 2152(b) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§2152|(b)" type="History" display="false"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2152|(b)|(1)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2152|(b)|(2)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2152|(b)|(3)" type="History"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§2152|(b)" target-path="§42-2602.01" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2152|(b)|(1)" target-path="§42-2602.01|(d)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2152|(b)|(2)" target-path="§42-2602.01|(e)|(1)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2152|(b)|(3)" target-path="§42-2602.01|(g)" type="History"/>
   </annotations>
 </section>

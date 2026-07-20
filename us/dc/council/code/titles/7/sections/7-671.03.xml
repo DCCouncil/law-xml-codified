@@ -111,19 +111,20 @@
   </para>
   <codify:annotation applicability="effective" type="Applicability" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-671.03">Applicability of <cite doc="D.C. Law 22-111" path="">D.C. Law 22-111</cite>: <cite doc="D.C. Law 22-111" path="§10">§ 10 of D.C. Law 22-111</cite> provided that the creation of this section by <cite doc="D.C. Law 22-111" path="§4">§ 4 of D.C. Law 22-111</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="2018-06-05" doc="D.C. Law 22-111" eff="2018-06-05" path="" type="History" display="false"/>
-    <annotation app="2018-06-05" doc="D.C. Law 22-111" eff="2018-06-05" path="§4" type="History"/>
+    <annotation app="2018-06-05" doc="D.C. Law 22-111" eff="2018-06-05" path="" target-path="7" type="History" display="false"/>
+    <annotation app="2018-06-05" doc="D.C. Law 22-111" eff="2018-06-05" path="§4" target-path="7|6C" type="History"/>
     <annotation type="Applicability" codified:display="Note" app="2018-06-05" eff="2018-06-05" doc="D.C. Law 22-111" path="§4">Applicability of <cite doc="D.C. Law 22-111" path="">D.C. Law 22-111</cite>: <cite doc="D.C. Law 22-111" path="§10">§ 10 of D.C. Law 22-111</cite> provided that the creation of this section by <cite doc="D.C. Law 22-111" path="§4">§ 4 of D.C. Law 22-111</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2018-06-05" doc="D.C. Law 22-111" eff="2018-06-05" path="§4" target-path="7|6C|7-671.03" type="History"/>
     <annotation doc="D.C. Law 22-168" path="§7033" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§7033">Section 7033 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-111" path="§10">§ 10 of D.C. Law 22-111</cite> removing the applicability restriction impacting this section. Therefore the creation of this section by <cite doc="D.C. Law 22-111">D.C. Law 22-111</cite> has been given effect.
           </annotation>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7033" type="History" display="false"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7033" target-path="§7-671.03" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" path="§3062|(b)" codified:display="Note" app="2019-07-22" eff="2019-07-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-91" path="§3062|(b)">§ 3062(b) of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
-    <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§3062|(b)" type="History" display="false"/>
+    <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§3062|(b)" target-path="§7-671.03" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§3062|(b)" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-112" path="§3062|(b)">§ 3062(b) of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
-    <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§3062|(b)" type="History" display="false"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§3062|(b)|(1)" type="History"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§3062|(b)|(2)" type="History"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§3062|(b)|(3)" type="History"/>
-    <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§107|(c)" type="History"/>
+    <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§3062|(b)" target-path="§7-671.03" type="History" display="false"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§3062|(b)|(1)" target-path="§7-671.03|(b)|(9)" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§3062|(b)|(2)" target-path="§7-671.03|(b)|(10)" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§3062|(b)|(3)" target-path="§7-671.03|(b)" type="History"/>
+    <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§107|(c)" target-path="§7-671.03|(b)|(10)" type="History"/>
   </annotations>
 </section>

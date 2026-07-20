@@ -126,7 +126,7 @@
   <annotations>
     <annotation doc="D.C. Law 20-139" type="History">Nov. 20, 2014, D.C. Law 20-139, § 101(c), 61 DCR 5913</annotation>
     <annotation doc="D.C. Law 23-57" path="§9|(b)" type="Applicability" history="false" display-template="" app="2020-03-03" eff="2020-03-03"><cite doc="D.C. Law 23-57" path="§9|(b)">Section 9(b) of D.C. Law 23-57</cite> provided that the changes made to this section by <cite doc="D.C. Law 23-57" path="§8|(d)">section 8(d) of D.C. Law 23-57</cite> shall apply as of March 3, 2020.</annotation>
-    <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§9|(b)" type="History" display="false"/>
-    <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§8|(d)" type="History"/>
+    <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§9|(b)" target-path="§8|(d)" type="History" display="false"/>
+    <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§8|(d)" target-path="§23-1909" type="History"/>
   </annotations>
 </section>

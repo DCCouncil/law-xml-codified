@@ -300,28 +300,28 @@
   <annotations>
     <annotation doc="D.C. Law 21-36" type="History">Oct. 22, 2015, D.C. Law 21-36, § 2172(b), 62 DCR 10905</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) addition of this section, see § 2172(b) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§2002|(b)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§2002|(b)" target-path="§47-4665" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-104" path="§7232|(c)" codified:display="Note" app="2017-07-20" eff="2017-07-20">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-104" path="§7232|(c)">§ 7232(c) of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, July 20, 2017, 64 DCR 7032)</cite>.</annotation>
-    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7232|(c)" type="History" display="false"/>
+    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7232|(c)" target-path="§47-4665" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§7232|(c)" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-167" path="§7232|(c)">§ 7232(c) of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
-    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7232|(c)" type="History" display="false"/>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7232|(c)|(1)|(A)" type="History"/>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7232|(c)|(1)|(B)" type="History"/>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7232|(c)|(2)" type="History"/>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7232|(c)|(3)|(B)" type="History"/>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7232|(c)|(3)|(A)" type="History"/>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7232|(c)|(4)" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2053|(a)" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2053|(b)" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2053|(c)|(1)" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2053|(c)|(2)" type="History"/>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2072" type="History"/>
+    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7232|(c)" target-path="§47-4665" type="History" display="false"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7232|(c)|(1)|(A)" target-path="§47-4665|(b)" type="History"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7232|(c)|(1)|(B)" target-path="§47-4665|(b)" type="History"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7232|(c)|(2)" target-path="§47-4665|(c)" type="History"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7232|(c)|(3)|(B)" target-path="§47-4665|(d)|text" type="History"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7232|(c)|(3)|(A)" target-path="§47-4665|(d)" type="History"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7232|(c)|(4)" target-path="§47-4665|(e)|(1)|(B)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2053|(a)" target-path="§47-4665|(b)|text" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2053|(b)" target-path="§47-4665|(c)|(1)|text" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2053|(c)|(1)" target-path="§47-4665|(f)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2053|(c)|(2)" target-path="§47-4665|(f)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2072" target-path="§47-4665|(a)|(7)|(A)|(iii)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§2082" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§2082">§ 2082 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§2082" type="History" display="false"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§2082" target-path="§47-4665" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7126|(b)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7126|(b)">§ 7126(b) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7126|(b)" type="History" display="false"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7126|(b)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2082|(a)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2082|(b)" type="History"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7126|(b)" target-path="§47-4665" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7126|(b)" target-path="§47-4665|(c)|(2)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2082|(a)" target-path="§47-4665|(e)|(2)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2082|(b)" target-path="§47-4665" type="History"/>
   </annotations>
 </section>

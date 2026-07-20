@@ -146,22 +146,22 @@
     </para>
   </para>
   <annotations>
-    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="I" type="History" display="false"/>
-    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§128" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="I" target-path="5" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§128" target-path="5|3E" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-174" path="§2" codified:display="Note" app="2023-07-20" eff="2023-07-20">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-174" path="§2">§ 2 of Law Enforcement Vehicular Pursuit Clarification Emergency Amendment Act of 2023 (D.C. Act 25-174, July 20, 2023, 70 DCR 10356)</cite>.</annotation>
-    <annotation app="2023-07-20" doc="D.C. Act 25-174" eff="2023-07-20" path="§2" type="History" display="false"/>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§8002|(e)|(3)" type="History"/>
+    <annotation app="2023-07-20" doc="D.C. Act 25-174" eff="2023-07-20" path="§2" target-path="§5-365.02" type="History" display="false"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§8002|(e)|(3)" target-path="§5-365.02" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-256" path="§2" codified:display="Note" app="2023-10-16" eff="2023-10-16">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-256" path="§2">§ 2 of Law Enforcement Vehicular Pursuit Clarification Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-256, Oct. 16, 2023, 70 DCR 13847)</cite>.</annotation>
-    <annotation app="2023-10-16" doc="D.C. Act 25-256" eff="2023-10-16" path="§2" type="History" display="false"/>
+    <annotation app="2023-10-16" doc="D.C. Act 25-256" eff="2023-10-16" path="§2" target-path="§5-365.02" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-82" path="§2" codified:display="Note" app="2023-11-28" eff="2023-11-28">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-82" path="§2">§ 2 of Law Enforcement Vehicular Pursuit Clarification Temporary Amendment Act of 2023 (D.C. Law 25-82, Nov. 28, 2023, 70 DCR 13730)</cite>.</annotation>
-    <annotation app="2023-11-28" doc="D.C. Law 25-82" eff="2023-11-28" path="§2" type="History" display="false"/>
+    <annotation app="2023-11-28" doc="D.C. Law 25-82" eff="2023-11-28" path="§2" target-path="§5-365.02" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§10|(c)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§10|(c)">§ 10(c) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§10|(c)" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§10|(c)" target-path="§5-365.02" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-490" path="§10|(c)" codified:display="Note" app="2024-06-07" eff="2024-06-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-490" path="§10|(c)">§ 10(c) of Secure DC Omnibus Congressional Review Emergency Amendment Act of 2024 (D.C. Act 25-490, June 7, 2024, 71 DCR 7006)</cite>.</annotation>
-    <annotation app="2024-06-07" doc="D.C. Act 25-490" eff="2024-06-07" path="§10|(c)" type="History" display="false"/>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§13|(c)|(1)|(A)" type="History"/>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§13|(c)|(1)|(B)|(i)" type="History"/>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§13|(c)|(1)|(B)|(ii)" type="History"/>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§13|(c)|(2)" type="History"/>
+    <annotation app="2024-06-07" doc="D.C. Act 25-490" eff="2024-06-07" path="§10|(c)" target-path="§5-365.02" type="History" display="false"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§13|(c)|(1)|(A)" target-path="§5-365.02|(a)|(1)|(B)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§13|(c)|(1)|(B)|(i)" target-path="§5-365.02|(a)|(2)|(A)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§13|(c)|(1)|(B)|(ii)" target-path="§5-365.02|(a)|(2)|(B)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§13|(c)|(2)" target-path="§5-365.02|(c)" type="History"/>
   </annotations>
 </section>

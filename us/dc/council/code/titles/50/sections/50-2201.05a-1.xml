@@ -117,17 +117,17 @@
   <annotations>
     <annotation type="History" doc="Stat. 68-2-ch443" path="§10a-1">Mar. 3, 1925, 43 Stat. 1124, ch. 443, § 10a-1</annotation>
     <annotation type="Applicability" doc="D.C. Law 25-161" path="§4|(e)" codified:display="Note" app="2024-04-20" eff="2024-04-20">Applicability of <cite doc="D.C. Law 25-161" path="">D.C. Law 25-161</cite>: <cite doc="D.C. Law 25-161" path="§8">§ 8 of D.C. Law 25-161</cite> provided that the creation of this section by <cite doc="D.C. Law 25-161" path="§4|(e)">§ 4(e) of D.C. Law 25-161</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§4|(e)" type="History"/>
-    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§4|(e)" prefix="as added" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§4|(e)" target-path="§4|(e)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§4|(e)" prefix="as added" target-path="50|22|I|A" type="History"/>
     <annotation doc="D.C. Act 25-506" path="§6082|(c)|(5)" type="Applicability" history="false" app="2024-07-15" eff="2024-07-15"><cite doc="D.C. Act 25-506" path="§6082|(e)">Section 6082(e) of D.C. Act 25-506</cite> amended <cite doc="D.C. Law 25-161" path="§8">section 8 of D.C. Law 25-161</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 4(e) of Law 25-161 has been implemented.
             </annotation>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§6082|(c)|(5)" type="History" display="false"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§6082|(c)|(5)" target-path="§50-2201.05a-1" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§6082|(c)|(5)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§6082|(c)|(5)">§ 6082(c)(5) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6082|(c)|(5)|(A)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6082|(c)|(5)|(B)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6082|(c)|(5)|(C)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6082|(c)|(5)|(A)" target-path="§50-2201.05a-1|(b)|(2)|(B)|(ii)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6082|(c)|(5)|(B)" target-path="§50-2201.05a-1|(c)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6082|(c)|(5)|(C)" target-path="§50-2201.05a-1|(e)" type="History"/>
     <annotation doc="D.C. Law 25-217" path="§6082|(c)|(5)" type="Applicability" history="false" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-217" path="§6082|(e)">Section 6082(e) of D.C. Law 25-217</cite> amended <cite doc="D.C. Law 25-161" path="§8">section 8 of D.C. Law 25-161</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 4(e) of Law 25-161 has been implemented.
             </annotation>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6082|(c)|(5)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6082|(c)|(5)" target-path="§50-2201.05a-1" type="History" display="false"/>
   </annotations>
 </section>

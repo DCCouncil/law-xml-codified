@@ -90,17 +90,17 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>My School DC EdFest.</heading>
-      <annotation app="2015-10-22" doc="D.C. Law 21-36" eff="2015-10-22" path="IV" type="History" display="false"/>
+      <annotation app="2015-10-22" doc="D.C. Law 21-36" eff="2015-10-22" path="IV" target-path="38|1B" type="History" display="false"/>
       <xi:include href="./sections/38-196.01.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>School Connect Pilot Program.</heading>
-      <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="IV|N" type="History" display="false"/>
+      <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="IV|N" target-path="38|1B" type="History" display="false"/>
       <xi:include href="./sections/38-197.01.xml"/>
     </container>
-    <annotation app="2015-10-22" doc="D.C. Law 21-36" eff="2015-10-22" path="IV" type="History" display="false"/>
+    <annotation app="2015-10-22" doc="D.C. Law 21-36" eff="2015-10-22" path="IV" target-path="38|1B" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -160,7 +160,7 @@
       <container>
         <prefix>Part</prefix>
         <num>B</num>
-        <heading>Report. [Recodified]<annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(a)" type="History"/></heading>
+        <heading>Report. [Recodified]<annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§2|(a)" target-path="38|2|II|B|heading" type="History"/></heading>
         <xi:include href="./sections/38-235.xml"/>
         <xi:include href="./sections/38-236.xml"/>
       </container>
@@ -168,7 +168,7 @@
         <prefix>Part</prefix>
         <num>C</num>
         <heading>Student Discipline.</heading>
-        <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="" type="History" display="false"/>
+        <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="" target-path="38|2|II" type="History" display="false"/>
         <xi:include href="./sections/38-236.01.xml"/>
         <xi:include href="./sections/38-236.02.xml"/>
         <xi:include href="./sections/38-236.03.xml"/>
@@ -190,7 +190,7 @@
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Students' Right to Home or Hospital Instruction.</heading>
-      <annotation app="2021-03-16" doc="D.C. Law 23-204" eff="2021-03-16" path="" type="History" display="false"/>
+      <annotation app="2021-03-16" doc="D.C. Law 23-204" eff="2021-03-16" path="" target-path="38|2" type="History" display="false"/>
       <xi:include href="./sections/38-251.01.xml"/>
       <xi:include href="./sections/38-251.02.xml"/>
       <xi:include href="./sections/38-251.03.xml"/>
@@ -204,10 +204,10 @@
       <xi:include href="./sections/38-251.11.xml"/>
       <annotation doc="D.C. Act 24-159" path="§7201" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7201">Section 7201 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-204" path="§12">section 12 of D.C. Law 23-204</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-204 has been implemented.
         </annotation>
-      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7201" type="History" display="false"/>
+      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7201" target-path="38|2|IV" type="History" display="false"/>
       <annotation doc="D.C. Law 24-45" path="§7201" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7201">Section 7201 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-204" path="§12">section 12 of D.C. Law 23-204</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-204 has been implemented.
         </annotation>
-      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7201" type="History" display="false"/>
+      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7201" target-path="38|2|IV" type="History" display="false"/>
     </container>
   </container>
   <container>
@@ -307,7 +307,7 @@
     <prefix>Chapter</prefix>
     <num>3B</num>
     <heading>Office of the Student Advocate.</heading>
-    <annotation app="2014-02-22" doc="D.C. Law 20-76" eff="2014-02-22" path="" type="History" display="false"/>
+    <annotation app="2014-02-22" doc="D.C. Law 20-76" eff="2014-02-22" path="" target-path="38" type="History" display="false"/>
     <xi:include href="./sections/38-371.xml"/>
     <xi:include href="./sections/38-372.xml"/>
     <xi:include href="./sections/38-373.xml"/>
@@ -317,7 +317,7 @@
     <prefix>Chapter</prefix>
     <num>3C</num>
     <heading>Access to Advanced Placement Tests by Non-enrollees.</heading>
-    <annotation app="2023-02-23" doc="D.C. Law 24-252" eff="2023-02-23" path="" type="History" display="false"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-252" eff="2023-02-23" path="" target-path="38" type="History" display="false"/>
     <xi:include href="./sections/38-381.xml"/>
   </container>
   <container>
@@ -341,7 +341,7 @@
     <prefix>Chapter</prefix>
     <num>4A</num>
     <heading>Community Access to Recreational Spaces within Public Schools.</heading>
-    <annotation app="2019-02-22" doc="D.C. Law 22-210" eff="2019-02-22" path="" type="History" display="false"/>
+    <annotation app="2019-02-22" doc="D.C. Law 22-210" eff="2019-02-22" path="" target-path="38" type="History" display="false"/>
     <xi:include href="./sections/38-431.xml"/>
     <xi:include href="./sections/38-432.xml"/>
     <xi:include href="./sections/38-433.xml"/>
@@ -351,7 +351,7 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
-    <num>4B<annotation app="2019-02-22" doc="D.C. Law 22-210" eff="2019-02-22" path="" type="History"/></num>
+    <num>4B<annotation app="2019-02-22" doc="D.C. Law 22-210" eff="2019-02-22" path="" target-path="38|4A|num" type="History"/></num>
     <heading>Office of Public Education Facilities Modernization.</heading>
     <container>
       <prefix>Subchapter</prefix>
@@ -387,7 +387,7 @@
     <prefix>Chapter</prefix>
     <num>5A</num>
     <heading>Student Access to Period Products.</heading>
-    <annotation app="2022-03-15" doc="D.C. Law 24-92" eff="2022-03-15" path="" type="History" display="false"/>
+    <annotation app="2022-03-15" doc="D.C. Law 24-92" eff="2022-03-15" path="" target-path="38" type="History" display="false"/>
     <xi:include href="./sections/38-531.01.xml"/>
     <xi:include href="./sections/38-531.02.xml"/>
     <xi:include href="./sections/38-531.03.xml"/>
@@ -449,8 +449,8 @@
       <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>School Health Innovations Grant Program.</heading>
-      <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7095" type="History" display="false"/>
-      <annotation app="2018-05-05" doc="D.C. Law 22-98" eff="2018-05-05" path="" type="History" display="false"/>
+      <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7095" target-path="" type="History" display="false"/>
+      <annotation app="2018-05-05" doc="D.C. Law 22-98" eff="2018-05-05" path="" target-path="38|6" type="History" display="false"/>
       <xi:include href="./sections/38-671.01.xml"/>
       <xi:include href="./sections/38-671.02.xml"/>
       <xi:include href="./sections/38-671.03.xml"/>
@@ -494,8 +494,8 @@
       <xi:include href="./sections/38-751.04.xml"/>
       <xi:include href="./sections/38-751.05.xml"/>
       <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§4183" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 24-159" path="§4183">§ 4183 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
-      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4183" type="History" display="false"/>
-      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4183" type="History"/>
+      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4183" target-path="38|7B|I" type="History" display="false"/>
+      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4183" target-path="38|7B|I" type="History"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -573,7 +573,7 @@
     <prefix>Chapter</prefix>
     <num>7E</num>
     <heading>District of Columbia Education Research Practice Partnership.</heading>
-    <annotation app="2019-03-28" doc="D.C. Law 22-268" eff="2019-03-28" path="" type="History" display="false"/>
+    <annotation app="2019-03-28" doc="D.C. Law 22-268" eff="2019-03-28" path="" target-path="38" type="History" display="false"/>
     <xi:include href="./sections/38-785.01.xml"/>
     <xi:include href="./sections/38-785.02.xml"/>
     <xi:include href="./sections/38-785.03.xml"/>
@@ -601,7 +601,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
-      <heading>Definitions; Healthy Schools Initiatives.<annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§4052|(a)" type="History"/></heading>
+      <heading>Definitions; Healthy Schools Initiatives.<annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§4052|(a)" target-path="38|8A|I|heading" type="History"/></heading>
       <xi:include href="./sections/38-821.01.xml"/>
       <xi:include href="./sections/38-821.02.xml"/>
     </container>
@@ -682,12 +682,12 @@
     <prefix>Chapter</prefix>
     <num>8B</num>
     <heading>Public Schools Digital Privacy and Equity.</heading>
-    <annotation app="2017-02-18" doc="D.C. Law 21-218" eff="2017-02-18" path="" type="History" display="false"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-218" eff="2017-02-18" path="" target-path="|38" type="History" display="false"/>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Protection of Students Digital Privacy.</heading>
-      <annotation app="2017-02-18" doc="D.C. Law 21-218" eff="2017-02-18" path="" type="History" display="false"/>
+      <annotation app="2017-02-18" doc="D.C. Law 21-218" eff="2017-02-18" path="" target-path="38|8B" type="History" display="false"/>
       <xi:include href="./sections/38-831.01.xml"/>
       <xi:include href="./sections/38-831.02.xml"/>
       <xi:include href="./sections/38-831.03.xml"/>
@@ -699,7 +699,7 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Student Technology Equity.</heading>
-      <annotation app="2022-12-13" doc="D.C. Law 24-191" eff="2022-12-13" path="" type="History" display="false"/>
+      <annotation app="2022-12-13" doc="D.C. Law 24-191" eff="2022-12-13" path="" target-path="38|8B" type="History" display="false"/>
       <xi:include href="./sections/38-831.21.xml"/>
     </container>
   </container>
@@ -720,7 +720,7 @@
     <prefix>Chapter</prefix>
     <num>8D</num>
     <heading>Personal Wireless Communication Devices in Primary and Secondary Schools.</heading>
-    <annotation app="2025-09-10" doc="D.C. Law 26-39" eff="2025-09-10" path="" type="History" display="false"/>
+    <annotation app="2025-09-10" doc="D.C. Law 26-39" eff="2025-09-10" path="" target-path="38" type="History" display="false"/>
     <xi:include href="./sections/38-851.01.xml"/>
     <xi:include href="./sections/38-851.02.xml"/>
     <xi:include href="./sections/38-851.03.xml"/>
@@ -782,7 +782,7 @@
     <prefix>Chapter</prefix>
     <num>9B</num>
     <heading>School Obligation to Prevent Student-on-Student Sexual Harassment, Sexual Assault, and Dating Violence.</heading>
-    <annotation app="2019-04-11" doc="D.C. Law 22-294" eff="2019-04-11" path="" type="History" display="false"/>
+    <annotation app="2019-04-11" doc="D.C. Law 22-294" eff="2019-04-11" path="" target-path="38" type="History" display="false"/>
     <xi:include href="./sections/38-952.01.xml"/>
     <xi:include href="./sections/38-952.02.xml"/>
   </container>
@@ -945,7 +945,7 @@
       <prefix>Subchapter</prefix>
       <num>IX</num>
       <heading>Pathways to Behavioral Health Degrees.</heading>
-      <annotation app="2024-01-23" doc="D.C. Law 25-104" eff="2024-01-23" path="" type="History" display="false"/>
+      <annotation app="2024-01-23" doc="D.C. Law 25-104" eff="2024-01-23" path="" target-path="38|12" type="History" display="false"/>
       <xi:include href="./sections/38-1209.01.xml"/>
       <xi:include href="./sections/38-1209.02.xml"/>
       <xi:include href="./sections/38-1209.03.xml"/>
@@ -1016,7 +1016,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>15</num>
-    <heading>Nurses Training Corps. [Repealed].<annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4121" type="History"/></heading>
+    <heading>Nurses Training Corps. [Repealed].<annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4121" target-path="38|15|heading" type="History"/></heading>
     <xi:include href="./sections/38-1501.xml"/>
     <xi:include href="./sections/38-1502.xml"/>
     <xi:include href="./sections/38-1503.xml"/>
@@ -1244,7 +1244,7 @@
       <prefix>Subchapter</prefix>
       <num>II-A</num>
       <heading>Public Charter School Teacher Compensation.</heading>
-      <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="IV" type="History" display="false"/>
+      <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="IV" target-path="38|18A" type="History" display="false"/>
       <xi:include href="./sections/38-1834.01.xml"/>
       <xi:include href="./sections/38-1834.02.xml"/>
     </container>
@@ -1504,7 +1504,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>22A</num>
-    <heading>Housing Support for Teachers Program. [Repealed]<annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7042" type="History"/></heading>
+    <heading>Housing Support for Teachers Program. [Repealed]<annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7042" target-path="38|22A|heading" type="History"/></heading>
     <reason>Repealed</reason>
     <xi:include href="./sections/38-2231.xml"/>
     <xi:include href="./sections/38-2232.xml"/>
@@ -1516,26 +1516,26 @@
     <xi:include href="./sections/38-2238.xml"/>
     <xi:include href="./sections/38-2239.xml"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-104" path="§7042" codified:display="Note" app="2017-07-20" eff="2017-07-20">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-104" path="§7042">§ 7042 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, July 20, 2017, 64 DCR 7032)</cite>.</annotation>
-    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7042" type="History" display="false"/>
+    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7042" target-path="38|22A" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§7042" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-167" path="§7042">§ 7042 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
-    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7042" type="History" display="false"/>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7042" type="History"/>
+    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7042" target-path="38|22A" type="History" display="false"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7042" target-path="38|22A" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>22B</num>
     <heading>Early Childhood Educator Equitable Compensation Task Force.</heading>
     <reason>Repealed</reason>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="I|J" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="I|J" target-path="38" type="History" display="false"/>
     <xi:include href="./sections/38-2241.xml"/>
     <xi:include href="./sections/38-2242.xml"/>
-    <annotation app="2026-03-18" doc="D.C. Law 26-100" eff="2026-03-18" path="§4" type="History"/>
+    <annotation app="2026-03-18" doc="D.C. Law 26-100" eff="2026-03-18" path="§4" target-path="38|22B" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>22C</num>
     <heading>"Grow Your Own" Teacher Preparation Support Program.</heading>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="IV|R" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="IV|R" target-path="38" type="History" display="false"/>
     <xi:include href="./sections/38-2251.xml"/>
     <xi:include href="./sections/38-2252.xml"/>
     <xi:include href="./sections/38-2253.xml"/>
@@ -1546,7 +1546,7 @@
     <prefix>Chapter</prefix>
     <num>22D</num>
     <heading>Structured Literacy Action Plan.</heading>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="IV|L" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="IV|L" target-path="38" type="History" display="false"/>
     <xi:include href="./sections/38-2261.xml"/>
     <xi:include href="./sections/38-2262.xml"/>
     <xi:include href="./sections/38-2263.xml"/>
@@ -1731,7 +1731,7 @@
     <prefix>Chapter</prefix>
     <num>25D</num>
     <heading>Prevention of Reading Difficulties.</heading>
-    <annotation app="2021-03-16" doc="D.C. Law 23-191" eff="2021-03-16" path="" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-191" eff="2021-03-16" path="" target-path="38" type="History" display="false"/>
     <xi:include href="./sections/38-2581.01.xml"/>
     <xi:include href="./sections/38-2581.02.xml"/>
     <xi:include href="./sections/38-2581.03.xml"/>
@@ -1741,10 +1741,10 @@
     <xi:include href="./sections/38-2581.07.xml"/>
     <annotation doc="D.C. Act 24-159" path="§7195" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7195">Section 7195 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-191" path="§301">section 301 of D.C. Law 23-191</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-191 has been implemented.
         </annotation>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7195" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7195" target-path="38|25D" type="History" display="false"/>
     <annotation doc="D.C. Law 24-45" path="§7195" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7195">Section 7195 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-191" path="§301">section 301 of D.C. Law 23-191</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-191 has been implemented.
         </annotation>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7195" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7195" target-path="38|25D" type="History" display="false"/>
   </container>
   <subheading>Subtitle VIII. State Level Agencies and Activities.</subheading>
   <container>
@@ -1786,12 +1786,12 @@
     <prefix>Chapter</prefix>
     <num>26A-i</num>
     <heading>District of Columbia State Athletics Commission and State Athletic Association.</heading>
-    <annotation app="2017-04-07" doc="D.C. Law 21-263" eff="2017-04-07" path="" type="History" display="false"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-263" eff="2017-04-07" path="" target-path="38" type="History" display="false"/>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Short Title and Definitions.</heading>
-      <annotation app="2017-04-07" doc="D.C. Law 21-263" eff="2017-04-07" path="" type="History" display="false"/>
+      <annotation app="2017-04-07" doc="D.C. Law 21-263" eff="2017-04-07" path="" target-path="38|26A-i" type="History" display="false"/>
       <xi:include href="./sections/38-2661.01.xml"/>
       <xi:include href="./sections/38-2661.02.xml"/>
     </container>
@@ -1799,7 +1799,7 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>District of Columbia State Athletics Commission. </heading>
-      <annotation app="2017-04-07" doc="D.C. Law 21-263" eff="2017-04-07" path="" type="History" display="false"/>
+      <annotation app="2017-04-07" doc="D.C. Law 21-263" eff="2017-04-07" path="" target-path="38|26A-i" type="History" display="false"/>
       <xi:include href="./sections/38-2661.11.xml"/>
       <xi:include href="./sections/38-2661.12.xml"/>
       <xi:include href="./sections/38-2661.13.xml"/>
@@ -1809,7 +1809,7 @@
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>District of Columbia State Athletics Association. </heading>
-      <annotation app="2017-04-07" doc="D.C. Law 21-263" eff="2017-04-07" path="" type="History" display="false"/>
+      <annotation app="2017-04-07" doc="D.C. Law 21-263" eff="2017-04-07" path="" target-path="38|26A-i" type="History" display="false"/>
       <xi:include href="./sections/38-2661.21.xml"/>
       <xi:include href="./sections/38-2661.22.xml"/>
       <xi:include href="./sections/38-2661.23.xml"/>
@@ -1821,13 +1821,13 @@
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Interscholastic Athletics Programs Rules. </heading>
-      <annotation app="2017-04-07" doc="D.C. Law 21-263" eff="2017-04-07" path="" type="History" display="false"/>
+      <annotation app="2017-04-07" doc="D.C. Law 21-263" eff="2017-04-07" path="" target-path="38|26A-i" type="History" display="false"/>
       <xi:include href="./sections/38-2661.31.xml"/>
     </container>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-104" path="§7033" codified:display="Note" app="2017-07-20" eff="2017-07-20">For temporary (90 days) repeal of § 301 of D.C. Law 21-263, see <cite doc="D.C. Act 22-104" path="§7033">§ 7033 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, July 20, 2017, 64 DCR 7032)</cite>.</annotation>
-    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7033" type="History" display="false"/>
+    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7033" target-path="38|26A-i" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§7033" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) repeal of § 301 of D.C. Law 21-263, see <cite doc="D.C. Act 22-167" path="§7033">§ 7033 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
-    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7033" type="History" display="false"/>
+    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7033" target-path="38|26A-i" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1874,10 +1874,10 @@
     <xi:include href="./sections/38-2758.xml"/>
     <xi:include href="./sections/38-2759.xml"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-104" path="§7058" codified:display="Note" app="2017-07-20" eff="2017-07-20">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-104" path="§7058">§ 7058 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, July 20, 2017, 64 DCR 7032)</cite>.</annotation>
-    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7058" type="History" display="false"/>
+    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7058" target-path="38|27B" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§7058" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-167" path="§7058">§ 7058 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
-    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7058" type="History" display="false"/>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7058" type="History"/>
+    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7058" target-path="38|27B" type="History" display="false"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7058" target-path="38|27B" type="History"/>
   </container>
   <subheading>Subtitle X. School Funding and Spending.</subheading>
   <container>
@@ -1909,7 +1909,7 @@
     <prefix>Chapter</prefix>
     <num>28A</num>
     <heading>Additional Requirements for the Submission of the Annual Budget for the District of Columbia Public Schools.</heading>
-    <annotation app="2023-03-10" doc="D.C. Law 24-300" eff="2023-03-10" path="" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-300" eff="2023-03-10" path="" target-path="38" type="History" display="false"/>
     <xi:include href="./sections/38-2851.01.xml"/>
     <xi:include href="./sections/38-2851.02.xml"/>
     <xi:include href="./sections/38-2851.03.xml"/>
@@ -1963,14 +1963,14 @@
     <prefix>Chapter</prefix>
     <num>29A-i</num>
     <heading>District of Columbia Public Schools Contracting and Spending.</heading>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="IV" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="IV" target-path="38" type="History" display="false"/>
     <xi:include href="./sections/38-2955.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>29A-ii</num>
     <heading>Student Activity Funds for theatrical and music performances.</heading>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4071" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4071" target-path="38" type="History" display="false"/>
     <xi:include href="./sections/38-2961.xml"/>
   </container>
   <container>
@@ -2013,7 +2013,7 @@
     <prefix>Chapter</prefix>
     <num>29D</num>
     <heading>Duke Ellington School of the Arts New Funding and Organization Model.</heading>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4251" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4251" target-path="38" type="History" display="false"/>
     <xi:include href="./sections/38-2991.xml"/>
     <xi:include href="./sections/38-2992.xml"/>
   </container>
@@ -2060,14 +2060,14 @@
     <prefix>Chapter</prefix>
     <num>34</num>
     <heading>Universal Street Safety Education.</heading>
-    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="V" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="V" target-path="38" type="History" display="false"/>
     <xi:include href="./sections/38-3401.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>35</num>
     <heading>Sexual Misconduct Reporting for Higher Education Institutions.</heading>
-    <annotation app="2026-03-19" doc="D.C. Law 26-101" eff="2026-03-19" path="" type="History" display="false"/>
+    <annotation app="2026-03-19" doc="D.C. Law 26-101" eff="2026-03-19" path="" target-path="38" type="History" display="false"/>
     <xi:include href="./sections/38-3501.xml"/>
     <xi:include href="./sections/38-3502.xml"/>
     <xi:include href="./sections/38-3503.xml"/>

@@ -60,16 +60,16 @@
   <annotations>
     <annotation doc="D.C. Law 17-136" type="History" path="§2">Mar. 26, 2008, D.C. Law 17-136, § 2, 55 DCR 1685</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-434" path="§2172" codified:display="Note" app="2018-07-30" eff="2018-07-30">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-434" path="§2172">§ 2172 of Fiscal Year 2019 Budget Support Emergency Act of 2018 (D.C. Act 22-434, July 30, 2018, 65 DCR 8200)</cite>.</annotation>
-    <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§2172" type="History" display="false"/>
+    <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§2172" target-path="§2-214.01" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§2172" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-458" path="§2172">§ 2172 of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
-    <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§2172" type="History" display="false"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§2172|(a)" type="History"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§2172|(b)" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2043|(a)|(1)" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2043|(a)|(2)" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2043|(a)|(3)" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2043|(b)|(1)" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2043|(b)|(2)" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2043|(b)|(3)" type="History"/>
+    <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§2172" target-path="§2-214.01" type="History" display="false"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§2172|(a)" target-path="§2-214.01|(b)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§2172|(b)" target-path="§2-214.01" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2043|(a)|(1)" target-path="§2-214.01|(a)|(2)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2043|(a)|(2)" target-path="§2-214.01|(a)|(3)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2043|(a)|(3)" target-path="§2-214.01|(a)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2043|(b)|(1)" target-path="§2-214.01|(b-1)|(1)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2043|(b)|(2)" target-path="§2-214.01|(b-1)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2043|(b)|(3)" target-path="§2-214.01|(b-1)|(2)" type="History"/>
   </annotations>
 </section>

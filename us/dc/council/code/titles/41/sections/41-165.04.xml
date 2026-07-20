@@ -6,9 +6,9 @@
   <annotations>
     <annotation doc="D.C. Law 24-45" type="History" path="§7093">Nov. 13, 2021, D.C. Law 24-45, § 7093, 68 DCR 010163</annotation>
     <annotation doc="D.C. Law 24-45" type="History" path="§7093a" display="false">Nov. 13, 2021, D.C. Law 24-45, § 7093a</annotation>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="" type="History" display="false"/>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="VII|A" type="History" display="false"/>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7093" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§6002" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="" target-path="41" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="VII|A" target-path="41|1A" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7093" target-path="41|1A|XV" type="History"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§6002" target-path="§41-165.04" type="History" display="false"/>
   </annotations>
 </section>

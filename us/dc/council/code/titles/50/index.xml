@@ -18,7 +18,7 @@
     <prefix>Chapter</prefix>
     <num>1A</num>
     <heading>Personal Delivery Device Program.</heading>
-    <annotation app="2018-07-17" doc="D.C. Law 22-137" eff="2018-07-17" path="" type="History" display="false"/>
+    <annotation app="2018-07-17" doc="D.C. Law 22-137" eff="2018-07-17" path="" target-path="50" type="History" display="false"/>
     <xi:include href="./sections/50-110.01.xml"/>
     <xi:include href="./sections/50-110.02.xml"/>
     <xi:include href="./sections/50-110.03.xml"/>
@@ -188,7 +188,7 @@
     <prefix>Chapter</prefix>
     <num>5A</num>
     <heading>Bicycle Consumer Protection.</heading>
-    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="" target-path="50" type="History" display="false"/>
     <xi:include href="./sections/50-531.xml"/>
     <xi:include href="./sections/50-532.xml"/>
     <xi:include href="./sections/50-533.xml"/>
@@ -243,7 +243,7 @@
     <prefix>Chapter</prefix>
     <num>7B</num>
     <heading>Transportation Electrification Program and Regional Participation in Greenhouse Gas Emissions Reduction.</heading>
-    <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="V" type="History" display="false"/>
+    <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="V" target-path="50" type="History" display="false"/>
     <xi:include href="./sections/50-741.xml"/>
     <xi:include href="./sections/50-742.xml"/>
   </container>
@@ -281,7 +281,7 @@
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Mobile Customer Service Center Program.</heading>
-      <annotation app="2018-01-25" doc="D.C. Law 22-49" eff="2018-01-25" path="" type="History" display="false"/>
+      <annotation app="2018-01-25" doc="D.C. Law 22-49" eff="2018-01-25" path="" target-path="50|9" type="History" display="false"/>
       <xi:include href="./sections/50-915.xml"/>
     </container>
   </container>
@@ -363,7 +363,7 @@
       <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>Transit Subsidies for District Residents.</heading>
-      <annotation app="2023-03-22" doc="D.C. Law 24-335" eff="2023-03-22" path="§2|(b)" type="History" display="false"/>
+      <annotation app="2023-03-22" doc="D.C. Law 24-335" eff="2023-03-22" path="§2|(b)" target-path="50|9A" type="History" display="false"/>
       <xi:include href="./sections/50-921.81.xml"/>
       <xi:include href="./sections/50-921.82.xml"/>
       <xi:include href="./sections/50-921.83.xml"/>
@@ -719,13 +719,13 @@
     <prefix>Chapter</prefix>
     <num>15C</num>
     <heading>Personal Delivery Device Pilot Program.</heading>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="VI" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="VI" target-path="50" type="History" display="false"/>
     <xi:include href="./sections/50-1551.xml"/>
     <xi:include href="./sections/50-1552.xml"/>
     <xi:include href="./sections/50-1553.xml"/>
     <xi:include href="./sections/50-1554.xml"/>
     <xi:include href="./sections/50-1555.xml"/>
-    <annotation app="2018-07-17" doc="D.C. Law 22-137" eff="2018-07-17" path="§7|(c)" type="History"/>
+    <annotation app="2018-07-17" doc="D.C. Law 22-137" eff="2018-07-17" path="§7|(c)" target-path="50|15C" type="History"/>
   </container>
   <subheading>Subtitle V. Non-Motorized Vehicles.</subheading>
   <container>
@@ -776,7 +776,8 @@
       <xi:include href="./sections/50-1633.xml"/>
       <xi:include href="./sections/50-1634.xml"/>
       <annotation type="Applicability" doc="D.C. Law 25-301" path="§3|(c)" codified:display="Note" app="2025-03-21" eff="2025-03-21">Applicability of <cite doc="D.C. Law 25-301" path="">D.C. Law 25-301</cite>: <cite doc="D.C. Law 25-301" path="§4">§ 4 of D.C. Law 25-301</cite> provided that the repeal of this section by <cite doc="D.C. Law 25-301" path="§3|(c)">§ 3(c) of D.C. Law 25-301</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-      <annotation app="2025-03-21" doc="D.C. Law 25-301" eff="2025-03-21" path="§3|(c)" type="History"/>
+      <annotation app="2025-03-21" doc="D.C. Law 25-301" eff="2025-03-21" path="§3|(c)" target-path="§3|(c)" type="History"/>
+      <annotation app="2025-03-21" doc="D.C. Law 25-301" eff="2025-03-21" path="§3|(c)" target-path="50|16|II" type="History"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -849,7 +850,7 @@
     <prefix>Chapter</prefix>
     <num>18A</num>
     <heading>Major Crash Review Task Force.</heading>
-    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="VIII" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="VIII" target-path="|50" type="History" display="false"/>
     <xi:include href="./sections/50-1831.xml"/>
   </container>
   <container>
@@ -896,7 +897,7 @@
     <prefix>Chapter</prefix>
     <num>19B</num>
     <heading>Open Access to Data and Information.</heading>
-    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="" target-path="50" type="History" display="false"/>
     <xi:include href="./sections/50-1951.01.xml"/>
     <xi:include href="./sections/50-1951.02.xml"/>
     <xi:include href="./sections/50-1951.03.xml"/>
@@ -913,7 +914,7 @@
     <xi:include href="./sections/50-2001.xml"/>
     <xi:include href="./sections/50-2002.xml"/>
     <xi:include href="./sections/50-2003.xml"/>
-    <annotation app="2022-02-18" doc="D.C. Law 24-51" eff="2022-02-18" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2022-02-18" doc="D.C. Law 24-51" eff="2022-02-18" path="§2|(b)" target-path="50|20" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -994,14 +995,14 @@
       <prefix>Subchapter</prefix>
       <num>II-A</num>
       <heading>Aggressive Driving.</heading>
-      <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="VI" type="History" display="false"/>
+      <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="VI" target-path="|50|22" type="History" display="false"/>
       <xi:include href="./sections/50-2204.01.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II-B</num>
       <heading>Motor Vehicle Collision Recovery.</heading>
-      <annotation app="2016-11-26" doc="D.C. Law 21-167" eff="2016-11-26" path="" type="History" display="false"/>
+      <annotation app="2016-11-26" doc="D.C. Law 21-167" eff="2016-11-26" path="" target-path="50|22" type="History" display="false"/>
       <xi:include href="./sections/50-2204.51.xml"/>
       <xi:include href="./sections/50-2204.52.xml"/>
       <xi:include href="./sections/50-2204.53.xml"/>
@@ -1087,7 +1088,7 @@
         <xi:include href="./sections/50-2209.03.xml"/>
         <xi:include href="./sections/50-2209.04.xml"/>
         <annotation type="Applicability" codified:display="Note" app="2016-10-08" eff="2016-10-08" doc="D.C. Law 21-155" path="§801">Applicability of <cite doc="D.C. Law 21-155" path="">D.C. Law 21-155</cite>: <cite doc="D.C. Law 21-155" path="§901">§ 901 of D.C. Law 21-155</cite> provided that the creation of this section by <cite doc="D.C. Law 21-155" path="§801">§ 801 of D.C. Law 21-155</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-        <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="§801" type="History"/>
+        <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="§801" target-path="|50|22|V|A" type="History"/>
         <xi:include href="./sections/50-2209.05.xml"/>
       </container>
       <container>
@@ -1158,7 +1159,7 @@
       <prefix>Subchapter</prefix>
       <num>III-B</num>
       <heading>Community Service Debt Repayment Program.</heading>
-      <annotation app="2018-10-30" doc="D.C. Law 22-175" eff="2018-10-30" path="§2|(i)" type="History" display="false"/>
+      <annotation app="2018-10-30" doc="D.C. Law 22-175" eff="2018-10-30" path="§2|(i)" target-path="50|23" type="History" display="false"/>
       <xi:include href="./sections/50-2303.21.xml"/>
     </container>
     <container>
@@ -1215,13 +1216,13 @@
       <xi:include href="./sections/50-2361.31.xml"/>
       <xi:include href="./sections/50-2361.32.xml"/>
     </container>
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="" type="History" display="false"/>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="" target-path="|50" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>23C</num>
     <heading>Bicycle and Pedestrian Priority Areas.</heading>
-    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="" target-path="50" type="History" display="false"/>
     <xi:include href="./sections/50-2371.xml"/>
     <xi:include href="./sections/50-2372.xml"/>
   </container>
@@ -1229,12 +1230,12 @@
     <prefix>Chapter</prefix>
     <num>23D</num>
     <heading>Complete Streets.</heading>
-    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="" target-path="50" type="History" display="false"/>
     <xi:include href="./sections/50-2381.xml"/>
     <xi:include href="./sections/50-2382.xml"/>
     <xi:include href="./sections/50-2383.xml"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§14|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-158" eff="2020-12-23" path="§7|(e)|(1)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§14|(a)" target-path="§7|(e)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-158" eff="2020-12-23" path="§7|(e)|(1)" target-path="50|23D" type="History"/>
   </container>
   <subheading>Subtitle VIII. Vehicles On Public And Private Space.</subheading>
   <container>
@@ -1252,7 +1253,7 @@
       <xi:include href="./sections/50-2404.xml"/>
       <xi:include href="./sections/50-2405.xml"/>
       <xi:include href="./sections/50-2406.xml"/>
-      <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="§302|(f)" type="History"/>
+      <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="§302|(f)" target-path="50|24|I" type="History"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1274,26 +1275,26 @@
       <xi:include href="./sections/50-2421.13.xml"/>
       <xi:include href="./sections/50-2421.14.xml"/>
       <xi:include href="./sections/50-2421.15.xml"/>
-      <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="§302|(g)" type="History"/>
+      <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="§302|(g)" target-path="50|24|II" type="History"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>24A</num>
     <heading>Parking Enforcement Modernization.</heading>
-    <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="" type="History" display="false"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="" target-path="50" type="History" display="false"/>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>General Provisions.</heading>
-      <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="I|A" type="History" display="false"/>
+      <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="I|A" target-path="50|24A" type="History" display="false"/>
       <xi:include href="./sections/50-2431.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Parking Enforcement Management Administration.</heading>
-      <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="I|B" type="History" display="false"/>
+      <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="I|B" target-path="50|24A" type="History" display="false"/>
       <xi:include href="./sections/50-2441.xml"/>
       <xi:include href="./sections/50-2442.xml"/>
       <xi:include href="./sections/50-2443.xml"/>
@@ -1303,7 +1304,7 @@
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Vehicle Immobilization and Impoundment.</heading>
-      <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="I|C" type="History" display="false"/>
+      <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="I|C" target-path="50|24A" type="History" display="false"/>
       <xi:include href="./sections/50-2451.xml"/>
       <xi:include href="./sections/50-2452.xml"/>
       <xi:include href="./sections/50-2453.xml"/>
@@ -1318,7 +1319,7 @@
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Abandoned and Dangerous Vehicles.</heading>
-      <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="I|D" type="History" display="false"/>
+      <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="I|D" target-path="50|24A" type="History" display="false"/>
       <xi:include href="./sections/50-2461.xml"/>
       <xi:include href="./sections/50-2462.xml"/>
       <xi:include href="./sections/50-2463.xml"/>
@@ -1329,7 +1330,7 @@
       <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>Rulemaking and Applicability.</heading>
-      <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="I|E" type="History" display="false"/>
+      <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="I|E" target-path="50|24A" type="History" display="false"/>
       <xi:include href="./sections/50-2471.xml"/>
       <xi:include href="./sections/50-2472.xml"/>
     </container>
@@ -1376,8 +1377,8 @@
     <num>25A-i</num>
     <heading>Daytime School Parking Zones.</heading>
     <annotation type="Applicability" doc="D.C. Law 22-226" codified:display="Note" app="2019-02-22" eff="2019-02-22" path="§2" display="false">Applicability of <cite doc="D.C. Law 22-226" path="">D.C. Law 22-226</cite>: <cite doc="D.C. Law 22-226" path="§3">§ 3 of D.C. Law 22-226</cite> provided that the creation of this section by <cite doc="D.C. Law 22-226" path="§2">§ 2 of D.C. Law 22-226</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2019-02-22" doc="D.C. Law 22-226" eff="2019-02-22" path="§2" type="History" display="false"/>
-    <annotation app="2019-02-22" doc="D.C. Law 22-226" eff="2019-02-22" path="" type="History" display="false"/>
+    <annotation app="2019-02-22" doc="D.C. Law 22-226" eff="2019-02-22" path="§2" target-path="" type="History" display="false"/>
+    <annotation app="2019-02-22" doc="D.C. Law 22-226" eff="2019-02-22" path="" target-path="50" type="History" display="false"/>
     <xi:include href="./sections/50-2541.xml"/>
   </container>
   <container>
@@ -1391,7 +1392,7 @@
     <prefix>Chapter</prefix>
     <num>25C</num>
     <heading>Residential Parking Permit Exclusion.</heading>
-    <annotation app="2021-03-15" doc="D.C. Law 23-230" eff="2021-03-15" path="" type="History" display="false"/>
+    <annotation app="2021-03-15" doc="D.C. Law 23-230" eff="2021-03-15" path="" target-path="50" type="History" display="false"/>
     <xi:include href="./sections/50-2561.xml"/>
   </container>
   <container>
@@ -1453,7 +1454,7 @@
       <prefix>Subchapter</prefix>
       <num>VI</num>
       <heading>Pilot Passenger Loading Zone Program.</heading>
-      <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="VI|M" type="History" display="false"/>
+      <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="VI|M" target-path="50|26" type="History" display="false"/>
       <xi:include href="./sections/50-2661.xml"/>
       <xi:include href="./sections/50-2662.xml"/>
     </container>
@@ -1461,7 +1462,7 @@
       <prefix>Subchapter</prefix>
       <num>VII</num>
       <heading>Southwest Waterfront Park Bus Prohibition.</heading>
-      <annotation app="2019-03-28" doc="D.C. Law 22-272" eff="2019-03-28" path="" type="History" display="false"/>
+      <annotation app="2019-03-28" doc="D.C. Law 22-272" eff="2019-03-28" path="" target-path="50|26" type="History" display="false"/>
       <xi:include href="./sections/50-2671.xml"/>
     </container>
   </container>

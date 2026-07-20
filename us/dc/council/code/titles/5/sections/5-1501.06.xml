@@ -243,24 +243,24 @@
   <annotations>
     <annotation doc="D.C. Law 19-18" type="History" path="§7">Aug. 17, 2011, D.C. Law 19-18, § 7, 58 DCR 5403</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§5-1501.04">§ 5-1501.04</cite> and <cite path="§50-1904">§ 50-1904</cite>.</annotation>
-    <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§501|(e)|(1)" type="History"/>
-    <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§501|(e)|(2)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§10|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(4)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(9)|(C)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(13)|(B)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(13)|(C)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(13)|(D)|(i)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(13)|(D)|(ii)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(13)|(D)|(iii)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(14)|(B)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(14)|(C)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(14)|(D)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(14)|(E)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(14)|(F)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(14)|(A)" type="History"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§501|(e)|(1)" target-path="§5-1501.06|(b)" type="History"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§501|(e)|(2)" target-path="§5-1501.06" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§10|(a)" target-path="" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(4)" target-path="§5-1501.06" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(9)|(C)" target-path="§5-1501.06|(d)|(3)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(13)|(B)" target-path="§5-1501.06|(h)|(2)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(13)|(C)" target-path="§5-1501.06|(h)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(13)|(D)|(i)" target-path="§5-1501.06|(h)|(3)|(H)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(13)|(D)|(ii)" target-path="§5-1501.06|(h)|(3)|(I)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(13)|(D)|(iii)" target-path="§5-1501.06|(h)|(3)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(14)|(B)" target-path="§5-1501.06|(i)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(14)|(C)" target-path="§5-1501.06|(i)|(2)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(14)|(D)" target-path="§5-1501.06|(i)|(3)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(14)|(E)" target-path="§5-1501.06|(i)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(14)|(F)" target-path="§5-1501.06|(i)|(4)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(14)|(A)" target-path="§5-1501.06|(i)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-348" path="§2|(i)" codified:display="Note" app="2023-04-21" eff="2023-04-21">Applicability of <cite doc="D.C. Law 24-348" path="">D.C. Law 24-348</cite>: <cite doc="D.C. Law 24-348" path="§10">§ 10 of D.C. Law 24-348</cite> provided that the change made to this section by <cite doc="D.C. Law 24-348" path="§2|(i)">§ 2(i) of D.C. Law 24-348</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(1)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)" target-path="§5-1501.06" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(1)" target-path="§5-1501.06" type="History"/>
   </annotations>
 </section>

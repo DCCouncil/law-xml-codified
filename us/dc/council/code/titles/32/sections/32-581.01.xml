@@ -263,26 +263,27 @@
     </para>
   </para>
   <annotations>
-    <annotation app="2021-03-16" doc="D.C. Law 23-209" eff="2021-03-16" path="" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-209" eff="2021-03-16" path="§101" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-209" eff="2021-03-16" path="" target-path="32" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-209" eff="2021-03-16" path="§101" target-path="32|5B" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-209" path="§101" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-209" path="">D.C. Law 23-209</cite>: <cite doc="D.C. Law 23-209" path="§302">§ 302 of D.C. Law 23-209</cite> provided that the creation of this section by <cite doc="D.C. Law 23-209" path="§101">§ 101 of D.C. Law 23-209</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-209" eff="2021-03-16" path="§101" target-path="§32-581.01" type="History"/>
     <annotation doc="D.C. Act 24-159" path="§7202" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7202">Section 7202 of D.C. Act 24-159</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the creation of this section shall apply as of April 1, 2022.
         </annotation>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7202" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7202" target-path="32|5B" type="History" display="false"/>
     <annotation doc="D.C. Law 24-45" path="§7202" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7202">Section 7202 of D.C. Law 24-45</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the creation of this section shall apply as of April 1, 2022.
         </annotation>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7202" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7202" target-path="32|5B" type="History" display="false"/>
     <annotation doc="D.C. Act 24-350" path="§2" type="Applicability" history="false" app="2022-03-28" eff="2022-03-28"><cite doc="D.C. Act 24-350" path="§2">Section 2 of D.C. Act 24-350</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the creation of this section shall apply as of October 1, 2022.
         </annotation>
-    <annotation app="2022-03-28" doc="D.C. Act 24-350" eff="2022-03-28" path="§2" type="History" display="false"/>
+    <annotation app="2022-03-28" doc="D.C. Act 24-350" eff="2022-03-28" path="§2" target-path="32|5B" type="History" display="false"/>
     <annotation doc="D.C. Act 24-455" path="§2" type="Applicability" history="false" app="2022-06-28" eff="2022-06-28"><cite doc="D.C. Act 24-455" path="§2">Section 2 of D.C. Act 24-455</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the creation of this section shall apply as of October 1, 2022.
         </annotation>
-    <annotation app="2022-06-28" doc="D.C. Act 24-455" eff="2022-06-28" path="§2" type="History" display="false"/>
+    <annotation app="2022-06-28" doc="D.C. Act 24-455" eff="2022-06-28" path="§2" target-path="32|5B" type="History" display="false"/>
     <annotation doc="D.C. Law 24-132" path="§2" type="Applicability" history="false" app="2022-06-30" eff="2022-06-30"><cite doc="D.C. Law 24-132" path="§2">Section 2 of D.C. Law 24-132</cite> amended <cite doc="D.C. Law 23-209" path="§302">section 302 of D.C. Law 23-209</cite> to provided that the creation of of this section shall apply as of October 1, 2022.
         </annotation>
-    <annotation app="2022-06-30" doc="D.C. Law 24-132" eff="2022-06-30" path="§2" type="History" display="false"/>
+    <annotation app="2022-06-30" doc="D.C. Law 24-132" eff="2022-06-30" path="§2" target-path="32|5B" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-552" path="§2|(a)" codified:display="Note" app="2022-08-15" eff="2022-08-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-552" path="§2|(a)|includes|I|101">§ 101 of Non-Compete Clarification Emergency Amendment Act of 2022 (D.C. Act 24-552, Aug. 15, 2022, 0 DCR 0)</cite>.</annotation>
-    <annotation app="2022-08-15" doc="D.C. Act 24-552" eff="2022-08-15" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-175" eff="2022-09-21" path="§2|(a)" type="History"/>
+    <annotation app="2022-08-15" doc="D.C. Act 24-552" eff="2022-08-15" path="§2|(a)" target-path="§32-581.01" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-175" eff="2022-09-21" path="§2|(a)" target-path="§32-581.01" type="History"/>
   </annotations>
 </section>

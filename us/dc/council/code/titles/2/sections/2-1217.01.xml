@@ -311,15 +311,16 @@
     <annotation type="Section References">This section is referenced in <cite path="§2-1217.33a">§ 2-1217.33a</cite>, <cite path="§2-1217.34a">§ 2-1217.34a</cite>, <cite path="§2-1217.71">§ 2-1217.71</cite>, <cite path="§6-1002">§ 6-1002</cite>, <cite path="§9-1111.15">§ 9-1111.15</cite>, and <cite path="§47-857.02">§ 47-857.02</cite>.</annotation>
     <annotation type="Cross References">National capital region transportation, funding, Metrorail/Metrobus account, excluded funds, see <cite path="§9-1111.15">§ 9-1111.15</cite>.</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-104" path="§7202|(a)" codified:display="Note" app="2017-07-20" eff="2017-07-20">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-104" path="§7202|(a)">§ 7202(a) of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, July 20, 2017, 64 DCR 7032)</cite>.</annotation>
-    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7202|(a)" type="History" display="false"/>
+    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7202|(a)" target-path="§2-1217.01" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§7202|(a)" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-167" path="§7202|(a)">§ 7202(a) of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
-    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7202|(a)" type="History" display="false"/>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7202|(a)|(1)" type="History"/>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7202|(a)|(2)" type="History"/>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7202|(a)|(3)" type="History"/>
+    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7202|(a)" target-path="§2-1217.01" type="History" display="false"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7202|(a)|(1)" target-path="§2-1217.01|(3)" type="History"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7202|(a)|(2)" target-path="§2-1217.01|(4)" type="History"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7202|(a)|(3)" target-path="§2-1217.01|(25)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§2012|(a)" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§2012|(a)">§ 2012(a) of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§2012|(a)" type="History" display="false"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§2012|(a)|(1)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§2012|(a)|(2)" type="History"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§2012|(a)" target-path="§2-1217.01" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§2012|(a)|(1)" target-path="§2-1217.01" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§2012|(a)|(2)" target-path="§2-1217.01|(22)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§2012|(a)|(2)" target-path="§2-1217.01|(23)" type="History"/>
   </annotations>
 </section>

@@ -21,16 +21,18 @@
   </para>
   <annotations>
     <annotation type="Applicability" doc="D.C. Law 23-187" path="§2|(c)" codified:display="Note" app="2021-03-16" eff="2021-03-16" display="false">Applicability of <cite doc="D.C. Law 23-187" path="">D.C. Law 23-187</cite>: <cite doc="D.C. Law 23-187" path="§3">§ 3 of D.C. Law 23-187</cite> provided that the creation of this section by <cite doc="D.C. Law 23-187" path="§2|(c)">§ 2(c) of D.C. Law 23-187</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2021-03-16" doc="D.C. Law 23-187" eff="2021-03-16" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-187" eff="2021-03-16" path="§2|(c)" target-path="§2|(c)" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-187" eff="2021-03-16" path="§2|(c)" target-path="28" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 23-187" path="§2|(c)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-187" path="">D.C. Law 23-187</cite>: <cite doc="D.C. Law 23-187" path="§3">§ 3 of D.C. Law 23-187</cite> provided that the creation of this section by <cite doc="D.C. Law 23-187" path="§2|(c)">§ 2(c) of D.C. Law 23-187</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2021-03-16" doc="D.C. Law 23-187" eff="2021-03-16" path="§2|(c)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-187" eff="2021-03-16" path="§2|(c)" target-path="§2|(c)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-187" eff="2021-03-16" path="§2|(c)" target-path="28|54" type="History"/>
     <annotation doc="D.C. Law 25-50" path="§7082" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7082">Section 7082 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 23-187" path="§3">section 3 of D.C. Law 23-187</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by section 2(c) of Law 23-187 has been implemented.
         </annotation>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7082" type="History" display="false"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7082" target-path="§28-5402" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§27" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§27">§ 27 of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§27" type="History" display="false"/>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§27" target-path="§28-5402" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-490" path="§27" codified:display="Note" app="2024-06-07" eff="2024-06-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-490" path="§27">§ 27 of Secure DC Omnibus Congressional Review Emergency Amendment Act of 2024 (D.C. Act 25-490, June 7, 2024, 71 DCR 7006)</cite>.</annotation>
-    <annotation app="2024-06-07" doc="D.C. Act 25-490" eff="2024-06-07" path="§27" type="History" display="false"/>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§34" type="History"/>
+    <annotation app="2024-06-07" doc="D.C. Act 25-490" eff="2024-06-07" path="§27" target-path="§28-5402" type="History" display="false"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§34" target-path="§28-5402" type="History"/>
   </annotations>
 </section>

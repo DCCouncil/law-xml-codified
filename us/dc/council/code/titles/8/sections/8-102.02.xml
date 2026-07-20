@@ -44,8 +44,8 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 18-55" type="History" path="§3">Sept. 23, 2009, D.C. Law 18-55, § 3, 56 DCR 5703</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6033|(a)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6033|(b)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6033|(c)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6033|(a)" target-path="3|(c)|(1)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6033|(b)" target-path="3|(c)|(2)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6033|(c)" target-path="3|(c)|(3)" type="History"/>
   </annotations>
 </section>

@@ -112,12 +112,12 @@
     <annotation doc="D.C. Law 2-109" type="History" path="§4">Sept. 22, 1978, D.C. Law 2-109, § 4, 25 DCR 1456</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 2-2603.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 2-803.</annotation>
-    <annotation app="2023-03-10" doc="D.C. Law 24-303" eff="2023-03-10" path="§2|(b)|(1)" type="History"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-303" eff="2023-03-10" path="§2|(b)|(2)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-303" eff="2023-03-10" path="§2|(b)|(1)" target-path="§3-703|(a)|(1)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-303" eff="2023-03-10" path="§2|(b)|(2)" target-path="§3-703" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-303" path="§2|(b)" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-303" path="">D.C. Law 24-303</cite>: <cite doc="D.C. Law 24-303" path="§4">§ 4 of D.C. Law 24-303</cite> provided that the change made to this section by <cite doc="D.C. Law 24-303" path="§2|(b)">§ 2(b) of D.C. Law 24-303</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2023-03-10" doc="D.C. Law 24-303" eff="2023-03-10" path="§2|(b)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-303" eff="2023-03-10" path="§2|(b)" target-path="§3-703" type="History"/>
     <annotation doc="D.C. Law 25-50" path="§7089" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7089">Section 7089 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 24-303" path="§3">section 3 of D.C. Law 24-303</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 2(b) of Law 24-303 has been implemented.
         </annotation>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7089" type="History" display="false"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7089" target-path="§3-703" type="History" display="false"/>
   </annotations>
 </section>

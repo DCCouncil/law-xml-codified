@@ -84,7 +84,7 @@
     <prefix>Chapter</prefix>
     <num>1A</num>
     <heading>Safe Fields and Playgrounds.</heading>
-    <annotation app="2019-04-11" doc="D.C. Law 22-293" eff="2019-04-11" path="" type="History" display="false"/>
+    <annotation app="2019-04-11" doc="D.C. Law 22-293" eff="2019-04-11" path="" target-path="10" type="History" display="false"/>
     <xi:include href="./sections/10-171.01.xml"/>
     <xi:include href="./sections/10-171.02.xml"/>
     <xi:include href="./sections/10-171.03.xml"/>
@@ -301,12 +301,12 @@
     <prefix>Chapter</prefix>
     <num>5B</num>
     <heading>Department of Buildings.</heading>
-    <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
+    <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="" target-path="10" type="History" display="false"/>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Establishment of the Department of Buildings.</heading>
-      <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
+      <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="" target-path="10|5B" type="History" display="false"/>
       <xi:include href="./sections/10-561.01.xml"/>
       <xi:include href="./sections/10-561.02.xml"/>
       <xi:include href="./sections/10-561.03.xml"/>
@@ -320,7 +320,7 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Agency Planning and Reporting Requirements.</heading>
-      <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
+      <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="" target-path="10|5B" type="History" display="false"/>
       <xi:include href="./sections/10-562.01.xml"/>
       <xi:include href="./sections/10-562.02.xml"/>
     </container>
@@ -328,14 +328,14 @@
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Agency Redesignation and Transition.</heading>
-      <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
+      <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="" target-path="10|5B" type="History" display="false"/>
       <xi:include href="./sections/10-563.01.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Rulemaking Authority; Savings Clause.</heading>
-      <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
+      <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="" target-path="10|5B" type="History" display="false"/>
       <xi:include href="./sections/10-564.01.xml"/>
       <xi:include href="./sections/10-564.02.xml"/>
     </container>
@@ -344,7 +344,7 @@
     <prefix>Chapter</prefix>
     <num>5C</num>
     <heading>Proactive Inspection of Multifamily Rental Housing.</heading>
-    <annotation app="2024-03-23" doc="D.C. Law 25-141" eff="2024-03-23" path="" type="History" display="false"/>
+    <annotation app="2024-03-23" doc="D.C. Law 25-141" eff="2024-03-23" path="" target-path="10" type="History" display="false"/>
     <xi:include href="./sections/10-571.01.xml"/>
     <xi:include href="./sections/10-571.02.xml"/>
     <xi:include href="./sections/10-571.03.xml"/>
@@ -393,7 +393,7 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Environmental Assessment of Public Buildings.</heading>
-      <annotation app="2017-04-01" doc="D.C. Law 21-237" eff="2017-04-01" path="" type="History" display="false"/>
+      <annotation app="2017-04-01" doc="D.C. Law 21-237" eff="2017-04-01" path="" target-path="|10|7" type="History" display="false"/>
       <xi:include href="./sections/10-711.xml"/>
       <xi:include href="./sections/10-712.xml"/>
     </container>
@@ -401,14 +401,14 @@
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>School and Park Facilities and Grounds 311 System.</heading>
-      <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="VI|H" type="History" display="false"/>
+      <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="VI|H" target-path="10|7" type="History" display="false"/>
       <xi:include href="./sections/10-721.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Online permitting for school facilities.</heading>
-      <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="VI|L" type="History" display="false"/>
+      <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="VI|L" target-path="10|7" type="History" display="false"/>
       <xi:include href="./sections/10-722.xml"/>
     </container>
   </container>
@@ -497,7 +497,7 @@
     <prefix>Chapter</prefix>
     <num>10B</num>
     <heading>Public Restroom Facilities Installation and Promotion.</heading>
-    <annotation app="2019-04-11" doc="D.C. Law 22-280" eff="2019-04-11" path="" type="History" display="false"/>
+    <annotation app="2019-04-11" doc="D.C. Law 22-280" eff="2019-04-11" path="" target-path="10" type="History" display="false"/>
     <xi:include href="./sections/10-1051.xml"/>
     <xi:include href="./sections/10-1052.xml"/>
     <xi:include href="./sections/10-1053.xml"/>
@@ -506,19 +506,19 @@
     <xi:include href="./sections/10-1053.03.xml"/>
     <xi:include href="./sections/10-1054.xml"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" path="§7166" codified:display="Note" app="2019-07-22" eff="2019-07-22">For temporary (90 days) repeal of applicability provision of D.C. Law 22-280, see <cite doc="D.C. Act 23-91" path="§7166">§ 7166 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
-    <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7166" type="History" display="false"/>
+    <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7166" target-path="10|10B" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§7166" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) repeal of applicability provision of D.C. Law 22-280, see <cite doc="D.C. Act 23-112" path="§7166">§ 7166 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
-    <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7166" type="History" display="false"/>
+    <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7166" target-path="10|10B" type="History" display="false"/>
     <annotation doc="D.C. Law 23-16" path="§7166" type="Applicability" history="false" app="2019-09-11" eff="2019-09-11">
           Applicability of <cite doc="D.C. Law 22-280">D.C. Law 22-280</cite>: <cite doc="D.C. Law 23-16" path="§7166">§ 7166 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-280" path="§5">§ 5 of D.C. Law 22-280</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-280">D.C. Law 22-280</cite> has been implemented.
         </annotation>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7166" type="History" display="false"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7166" target-path="10|10B" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>10C</num>
     <heading>Free-for-use Period Products in Women's and Gender-neutral Bathrooms.</heading>
-    <annotation app="2023-02-23" doc="D.C. Law 24-250" eff="2023-02-23" path="" type="History" display="false"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-250" eff="2023-02-23" path="" target-path="10" type="History" display="false"/>
     <xi:include href="./sections/10-1071.xml"/>
     <xi:include href="./sections/10-1072.xml"/>
     <xi:include href="./sections/10-1073.xml"/>
@@ -632,12 +632,12 @@
     <prefix>Chapter</prefix>
     <num>11B</num>
     <heading>Amplified Sound Mitigation.</heading>
-    <annotation app="2025-03-21" doc="D.C. Law 25-313" eff="2025-03-21" path="" type="History" display="false"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-313" eff="2025-03-21" path="" target-path="10" type="History" display="false"/>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Public Space Amplified Sound License.</heading>
-      <annotation app="2025-03-21" doc="D.C. Law 25-313" eff="2025-03-21" path="" type="History" display="false"/>
+      <annotation app="2025-03-21" doc="D.C. Law 25-313" eff="2025-03-21" path="" target-path="10|11B" type="History" display="false"/>
       <xi:include href="./sections/10-1183.01.xml"/>
       <xi:include href="./sections/10-1183.02.xml"/>
       <xi:include href="./sections/10-1183.03.xml"/>
@@ -648,7 +648,7 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Noise Control Enforecment and Coordination.</heading>
-      <annotation app="2025-03-21" doc="D.C. Law 25-313" eff="2025-03-21" path="" type="History" display="false"/>
+      <annotation app="2025-03-21" doc="D.C. Law 25-313" eff="2025-03-21" path="" target-path="10|11B" type="History" display="false"/>
       <xi:include href="./sections/10-1185.01.xml"/>
     </container>
   </container>
@@ -856,7 +856,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>16</num>
-    <heading>Sports Facilities.<annotation app="2007-07-12" doc="D.C. Law 17-12" eff="2007-07-12" path="§2" type="History"/></heading>
+    <heading>Sports Facilities.<annotation app="2007-07-12" doc="D.C. Law 17-12" eff="2007-07-12" path="§2" target-path="10|16|heading" type="History"/></heading>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
@@ -911,7 +911,7 @@
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Verizon Center.</heading>
-      <annotation app="2007-07-12" doc="D.C. Law 17-12" eff="2007-07-12" path="" type="History" display="false"/>
+      <annotation app="2007-07-12" doc="D.C. Law 17-12" eff="2007-07-12" path="" target-path="10|16" type="History" display="false"/>
       <xi:include href="./sections/10-1604.01.xml"/>
       <xi:include href="./sections/10-1604.02.xml"/>
       <xi:include href="./sections/10-1604.03.xml"/>
@@ -931,12 +931,12 @@
       <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>Robert F. Kennedy Campus Redevelopment.</heading>
-      <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="" type="History" display="false"/>
+      <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="" target-path="10|16" type="History" display="false"/>
       <container>
         <prefix>Part</prefix>
         <num>A</num>
         <heading>General.</heading>
-        <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="" type="History" display="false"/>
+        <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="" target-path="10|16|V" type="History" display="false"/>
         <xi:include href="./sections/10-1605.01.xml"/>
         <xi:include href="./sections/10-1605.02.xml"/>
         <xi:include href="./sections/10-1605.03.xml"/>
@@ -956,7 +956,7 @@
         <prefix>Part</prefix>
         <num>B</num>
         <heading>RFK Campus Infrastructure Fund.</heading>
-        <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="" type="History" display="false"/>
+        <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="" target-path="10|16|V" type="History" display="false"/>
         <xi:include href="./sections/10-1605.31.xml"/>
       </container>
     </container>
@@ -992,7 +992,7 @@
     <prefix>Chapter</prefix>
     <num>20</num>
     <heading>Use of District Buildings.</heading>
-    <annotation app="2010-03-03" doc="D.C. Law 18-111" eff="2010-03-03" path="" type="History" display="false"/>
+    <annotation app="2010-03-03" doc="D.C. Law 18-111" eff="2010-03-03" path="" target-path="10" type="History" display="false"/>
     <xi:include href="./sections/10-2001.xml"/>
     <xi:include href="./sections/10-2002.xml"/>
     <xi:include href="./sections/10-2003.xml"/>

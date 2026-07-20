@@ -869,102 +869,104 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-39">D.C. Law 15-39</cite>, in subsec. (b), made nonsubstantive changes in pars. (4) and (5), and added par. (6)</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§38-208">§ 38-208</cite>, <cite path="§38-302">§ 38-302</cite>, <cite path="§38-771.02">§ 38-771.02</cite>, <cite path="§38-2602.01">§ 38-2602.01</cite>, and <cite path="§38-2603">§ 38-2603</cite>.</annotation>
     <annotation type="Cross References">Testing integrity, <cite path="§38-771.01">§ 38-771.01</cite> et seq.</annotation>
-    <annotation app="2016-03-09" doc="D.C. Law 21-77" eff="2016-03-09" path="§3|(b)|(1)" type="History"/>
-    <annotation app="2016-03-09" doc="D.C. Law 21-77" eff="2016-03-09" path="§3|(b)|(2)" type="History"/>
-    <annotation app="2016-03-09" doc="D.C. Law 21-77" eff="2016-03-09" path="§3|(b)|(3)" type="History"/>
-    <annotation app="2016-06-17" doc="D.C. Law 21-120" eff="2016-06-17" path="§3|(a)" type="History"/>
-    <annotation app="2016-06-17" doc="D.C. Law 21-120" eff="2016-06-17" path="§3|(b)" type="History"/>
-    <annotation app="2016-06-17" doc="D.C. Law 21-120" eff="2016-06-17" path="§3|(c)" type="History"/>
+    <annotation app="2016-03-09" doc="D.C. Law 21-77" eff="2016-03-09" path="§3|(b)|(1)" target-path="§3|(b)|(23)" type="History"/>
+    <annotation app="2016-03-09" doc="D.C. Law 21-77" eff="2016-03-09" path="§3|(b)|(2)" target-path="§3|(b)|(24)" type="History"/>
+    <annotation app="2016-03-09" doc="D.C. Law 21-77" eff="2016-03-09" path="§3|(b)|(3)" target-path="§3|(b)" type="History"/>
+    <annotation app="2016-06-17" doc="D.C. Law 21-120" eff="2016-06-17" path="§3|(a)" target-path="§3|(b)|(23)" type="History"/>
+    <annotation app="2016-06-17" doc="D.C. Law 21-120" eff="2016-06-17" path="§3|(b)" target-path="§3|(b)|(24)|(F)" type="History"/>
+    <annotation app="2016-06-17" doc="D.C. Law 21-120" eff="2016-06-17" path="§3|(c)" target-path="§3|(b)" type="History"/>
     <annotation type="Applicability" codified:display="Note" app="2016-06-17" eff="2016-06-17" doc="D.C. Law 21-120" path="§3">Applicability of <cite doc="D.C. Law 21-120" path="">D.C. Law 21-120</cite>: <cite doc="D.C. Law 21-120" path="§4">§ 4 of D.C. Law 21-120</cite> provided that the change made to this section by <cite doc="D.C. Law 21-120" path="§3">§ 3 of D.C. Law 21-120</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2016-06-17" doc="D.C. Law 21-120" eff="2016-06-17" path="§3" type="History"/>
+    <annotation app="2016-06-17" doc="D.C. Law 21-120" eff="2016-06-17" path="§3" target-path="§3|(b)" type="History"/>
     <annotation doc="D.C. Law 21-160" path="§7002" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7002">Section 7002 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 21-77" path="§4">section 4 of D.C. Law 21-77</cite>. Therefore the changes made to this section by D.C. Law 21-177 have been given effect.
         </annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7002" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7002" target-path="§3" type="History" display="false"/>
     <annotation doc="D.C. Law 21-160" path="§4142" type="Editor's Notes" history="false" app="2016-10-08" eff="2016-10-08">
           Section 4142 of D.C. Law 21-160 provided for Office of the State Superintendent of Education reporting requirements.
         </annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4142" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4142" target-path="§38-2602" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-104" path="§4042" codified:display="Note" app="2017-07-20" eff="2017-07-20">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-104" path="§4042">§ 4042 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, July 20, 2017, 64 DCR 7032)</cite>.</annotation>
-    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§4042" type="History" display="false"/>
+    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§4042" target-path="§38-2602" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-104" path="§4052" codified:display="Note" app="2017-07-20" eff="2017-07-20">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-104" path="§4052">§ 4052 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, July 20, 2017, 64 DCR 7032)</cite>.</annotation>
-    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§4052" type="History" display="false"/>
+    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§4052" target-path="§38-2602" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-104" path="§4094" codified:display="Note" app="2017-07-20" eff="2017-07-20">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-104" path="§4094">§ 4094 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, July 20, 2017, 64 DCR 7032)</cite>.</annotation>
-    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§4094" type="History" display="false"/>
+    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§4094" target-path="§38-2602" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-104" path="§4122" codified:display="Note" app="2017-07-20" eff="2017-07-20">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-104" path="§4122">§ 4122 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, July 20, 2017, 64 DCR 7032)</cite>.</annotation>
-    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§4122" type="History" display="false"/>
+    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§4122" target-path="§38-2602" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-104" path="§7013" codified:display="Note" app="2017-07-20" eff="2017-07-20">For temporary (90 days) repeal of § 4 of D.C. Law 21-120, see <cite doc="D.C. Act 22-104" path="§7013">§ 7013 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, July 20, 2017, 64 DCR 7032)</cite>.</annotation>
-    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7013" type="History" display="false"/>
+    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7013" target-path="§38-2602" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§4042" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-167" path="§4042">§ 4042 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
-    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§4042" type="History" display="false"/>
+    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§4042" target-path="§38-2602" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§4052" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-167" path="§4052">§ 4052 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
-    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§4052" type="History" display="false"/>
+    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§4052" target-path="§38-2602" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§4094" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-167" path="§4094">§ 4094 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
-    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§4094" type="History" display="false"/>
+    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§4094" target-path="§38-2602" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§4122" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-167" path="§4122">§ 4122 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
-    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§4122" type="History" display="false"/>
+    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§4122" target-path="§38-2602" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§7013" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) repeal of § 4 of D.C. Law 21-120, see <cite doc="D.C. Act 22-167" path="§7013">§ 7013 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
-    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7013" type="History" display="false"/>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§4094" type="History"/>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§4122" type="History"/>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§4052|(a)" type="History"/>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§4052|(b)" type="History"/>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§4052|(c)" type="History"/>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§4042" type="History"/>
+    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7013" target-path="§38-2602" type="History" display="false"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§4094" target-path="§38-2602|(b)" type="History"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§4122" target-path="§38-2602|(b)|(24)" type="History"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§4052|(a)" target-path="§38-2602|(b)|[(27)]|(B)" type="History"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§4052|(b)" target-path="§38-2602|(b)|[(28)]|(E)|(iii)" type="History"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§4052|(c)" target-path="§38-2602|(b)" type="History"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§4042" target-path="§38-2602|(c)|(1)" type="History"/>
     <annotation doc="D.C. Law 22-33" path="§7013" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13"><cite doc="D.C. Law 22-33" path="§7013">Section 7013 of D.C. Law 22-33</cite> repealed <cite doc="D.C. Law 21-120" path="§4">§ 4 of D.C. Law 21-120</cite>. Therefore the amendment of this section by <cite doc="D.C. Law 21-120">D.C. Law 21-120</cite> has been implemented.</annotation>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7013" type="History" display="false"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7013" target-path="§38-2602" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-434" path="§4063" codified:display="Note" app="2018-07-30" eff="2018-07-30">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-434" path="§4063">§ 4063 of Fiscal Year 2019 Budget Support Emergency Act of 2018 (D.C. Act 22-434, July 30, 2018, 65 DCR 8200)</cite>.</annotation>
-    <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§4063" type="History" display="false"/>
+    <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§4063" target-path="§38-2602" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-434" path="§4064|(b)" codified:display="Note" app="2018-07-30" eff="2018-07-30">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-434" path="§4064|(b)">§ 4064(b) of Fiscal Year 2019 Budget Support Emergency Act of 2018 (D.C. Act 22-434, July 30, 2018, 65 DCR 8200)</cite>.</annotation>
-    <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§4064|(b)" type="History" display="false"/>
-    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§3|(d)|(1)" type="History"/>
-    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§3|(d)|(2)" type="History"/>
-    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§3|(d)|(3)" type="History"/>
+    <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§4064|(b)" target-path="§38-2602" type="History" display="false"/>
+    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§3|(d)|(1)" target-path="§38-2602|(b)|[(28)]" type="History"/>
+    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§3|(d)|(2)" target-path="§38-2602|(b)|(29)" type="History"/>
+    <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§3|(d)|(3)" target-path="§38-2602|(b)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§4063" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-458" path="§4063">§ 4063 of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
-    <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§4063" type="History" display="false"/>
+    <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§4063" target-path="§38-2602" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§4064|(b)" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-458" path="§4064|(b)">§ 4064(b) of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
-    <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§4064|(b)" type="History" display="false"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§4063|(a)" type="History"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§4063|(b)" type="History"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§4063|(c)" type="History"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§4063|(d)" type="History"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§4063|(e)" type="History"/>
-    <annotation app="2019-04-11" doc="D.C. Law 22-291" eff="2019-04-11" path="§4|(b)|(1)|(A)" type="History"/>
-    <annotation app="2019-04-11" doc="D.C. Law 22-291" eff="2019-04-11" path="§4|(b)|(1)|(B)" type="History"/>
-    <annotation app="2019-04-11" doc="D.C. Law 22-291" eff="2019-04-11" path="§4|(b)|(1)|(C)" type="History"/>
-    <annotation app="2019-04-11" doc="D.C. Law 22-291" eff="2019-04-11" path="§4|(b)|(2)" type="History"/>
-    <annotation app="2019-04-11" doc="D.C. Law 22-291" eff="2019-04-11" path="§4|(b)|(3)" type="History"/>
-    <annotation app="2019-04-11" doc="D.C. Law 22-291" eff="2019-04-11" path="§4|(b)|(4)" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§4053" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§4022|(a)" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§4022|(b)" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§4022|(c)" type="History"/>
+    <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§4064|(b)" target-path="§38-2602" type="History" display="false"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§4063|(a)" target-path="§38-2602|(b)|[(25)]|num" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§4063|(b)" target-path="§38-2602|(b)|[(26)]|num" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§4063|(b)" target-path="§38-2602|(b)|[(27)]|num" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§4063|(b)" target-path="§38-2602|(b)|[(28)]|num" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§4063|(c)" target-path="§38-2602|(b)|(28)|(E)|(iii)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§4063|(d)" target-path="§38-2602|(b)|(29)|(D)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§4063|(e)" target-path="§38-2602|(b)|(30)" type="History"/>
+    <annotation app="2019-04-11" doc="D.C. Law 22-291" eff="2019-04-11" path="§4|(b)|(1)|(A)" target-path="§38-2602|(b)|(28)|(C)|(iv)" type="History"/>
+    <annotation app="2019-04-11" doc="D.C. Law 22-291" eff="2019-04-11" path="§4|(b)|(1)|(B)" target-path="§38-2602|(b)|(28)|(C)|(v)" type="History"/>
+    <annotation app="2019-04-11" doc="D.C. Law 22-291" eff="2019-04-11" path="§4|(b)|(1)|(C)" target-path="§38-2602|(b)|(28)|(C)" type="History"/>
+    <annotation app="2019-04-11" doc="D.C. Law 22-291" eff="2019-04-11" path="§4|(b)|(2)" target-path="§38-2602|(b)|(29)|(D)" type="History"/>
+    <annotation app="2019-04-11" doc="D.C. Law 22-291" eff="2019-04-11" path="§4|(b)|(3)" target-path="§38-2602|(b)|(30)" type="History"/>
+    <annotation app="2019-04-11" doc="D.C. Law 22-291" eff="2019-04-11" path="§4|(b)|(4)" target-path="§38-2602|(b)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§4053" target-path="§38-2602|(b)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§4022|(a)" target-path="§38-2602|(b)|(30)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§4022|(b)" target-path="§38-2602|(b)|(31)|(C)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§4022|(c)" target-path="§38-2602|(b)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§4052" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§4052">§ 4052 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4052" type="History" display="false"/>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4052" type="History"/>
-    <annotation app="2022-06-30" doc="D.C. Law 24-128" eff="2022-06-30" path="§2" type="History"/>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§4154|(b)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4052" target-path="§38-2602" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4052" target-path="§38-2602|(b)" type="History"/>
+    <annotation app="2022-06-30" doc="D.C. Law 24-128" eff="2022-06-30" path="§2" target-path="§38-2602|(b)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§4154|(b)" target-path="§38-2602|(b)|(23)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-372" path="§2" codified:display="Note" app="2024-01-25" eff="2024-01-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-372" path="§2">§ 2 of School Improvement Emergency Amendment Act of 2024 (D.C. Act 25-372, Jan. 25, 2024, 71 DCR 1206)</cite>.</annotation>
-    <annotation app="2024-01-25" doc="D.C. Act 25-372" eff="2024-01-25" path="§2" type="History" display="false"/>
-    <annotation app="2024-03-23" doc="D.C. Law 25-147" eff="2024-03-23" path="§3" type="History" display="false"/>
-    <annotation app="2024-03-23" doc="D.C. Law 25-147" eff="2024-03-23" path="§2" type="History"/>
+    <annotation app="2024-01-25" doc="D.C. Act 25-372" eff="2024-01-25" path="§2" target-path="§38-2602" type="History" display="false"/>
+    <annotation app="2024-03-23" doc="D.C. Law 25-147" eff="2024-03-23" path="§3" target-path="§38-2602|(d)|(2)" type="History" display="false"/>
+    <annotation app="2024-03-23" doc="D.C. Law 25-147" eff="2024-03-23" path="§2" target-path="§38-2602" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 25-147" path="§2" codified:display="Note" app="2024-03-23" eff="2024-03-23">Applicability of <cite doc="D.C. Law 25-147" path="">D.C. Law 25-147</cite>: <cite doc="D.C. Law 25-147" path="§3">§ 3 of D.C. Law 25-147</cite> provided that the creation of subsection (d) paragraphs (1), (2), (4), and (5) of this section by <cite doc="D.C. Law 25-147" path="§2">§ 2 of D.C. Law 25-147</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-154" path="§2" codified:display="Note" app="2024-04-10" eff="2024-04-10">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-154" path="§2">§ 2 of School Improvement Temporary Amendment Act of 2024 (D.C. Law 25-154, Apr. 10, 2024, 71 DCR 2088)</cite>.</annotation>
-    <annotation app="2024-04-10" doc="D.C. Law 25-154" eff="2024-04-10" path="§2" type="History" display="false"/>
+    <annotation app="2024-04-10" doc="D.C. Law 25-154" eff="2024-04-10" path="§2" target-path="§38-2602" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§4222" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§4222">§ 4222 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4222" type="History" display="false"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4222|(a)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4222|(b)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4222|(c)" type="History"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4222" target-path="§38-2602" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4222|(a)" target-path="§38-2602|(b)|(31)|(C)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4222|(b)" target-path="§38-2602|(b)|(32)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4222|(c)" target-path="§38-2602|(b)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§4042" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§4042">§ 4042 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4042" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4042" target-path="§38-2602" type="History" display="false"/>
     <annotation doc="D.C. Act 26-146" path="§7185|(a)|(1)" type="Applicability" history="false" app="2025-09-03" eff="2025-09-03">Section 7185 of <cite doc="D.C. Act 26-146" path="§7185">D.C. Act 26-146</cite> amended Section 3(a) of <cite doc="D.C. Law 25-147" path="§3|(a)">D.C. Law 25-147</cite>. Therefore the amendment made to paragraph (d)(2) of this section by <cite doc="D.C. Law 25-147" path="§2">Section 2</cite> of D.C. Law 25-147 has not been implemented.</annotation>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7185|(a)|(1)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7185|(a)|(1)" target-path="§38-2602" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§4042" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§4042">§ 4042 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
-    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§4042" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§4042" target-path="§38-2602" type="History" display="false"/>
     <annotation doc="D.C. Act 26-210" path="§7185|(a)|(1)" type="Applicability" history="false" app="2025-11-24" eff="2025-11-24">Section 7185 of <cite doc="D.C. Act 26-210" path="§7185">D.C. Act 26-210</cite> amended Section 3(a) of <cite doc="D.C. Law 25-147" path="§3|(a)">D.C. Law 25-147</cite>. Therefore the amendment made to paragraph (d)(2) of this section by <cite doc="D.C. Law 25-147" path="§2">Section 2</cite> of D.C. Law 25-147 has not been implemented.</annotation>
-    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7185|(a)|(1)" type="History" display="false"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§4042" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7185|(a)|(1)" target-path="§38-2602" type="History" display="false"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§4042" target-path="§38-2602|(b)|(24)" type="History"/>
     <annotation doc="D.C. Law 26-55" path="§7185|(a)|(1)" type="Applicability" history="false" app="2025-12-06" eff="2025-12-06">Section 7185 of <cite doc="D.C. Law 26-55" path="§7185">D.C. Law 26-55</cite> amended Section 3(a) of <cite doc="D.C. Law 25-147" path="§3|(a)">D.C. Law 25-147</cite>. Therefore the amendment made to paragraph (d)(2) of this section by <cite doc="D.C. Law 25-147" path="§2">Section 2</cite> of D.C. Law 25-147 has not been implemented.</annotation>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7185|(a)|(1)" type="History" display="false"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7185|(a)|(1)" target-path="§38-2602" type="History" display="false"/>
   </annotations>
 </section>

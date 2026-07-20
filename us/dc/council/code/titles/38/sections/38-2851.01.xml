@@ -52,20 +52,20 @@
   </para>
   <annotations>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-722" path="§102" codified:display="Note" app="2023-03-10" eff="2023-01-10">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-722" path="§102">§ 102 of Schools First in Budgeting Emergency Amendment Act of 2022 (D.C. Act 24-722, Jan. 10, 2023, 70 DCR 516)</cite>.</annotation>
-    <annotation app="2023-03-10" doc="D.C. Act 24-722" eff="2023-01-10" path="§102" type="History" display="false"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-300" eff="2023-03-10" path="" type="History" display="false"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-300" eff="2023-03-10" path="§102" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Act 24-722" eff="2023-01-10" path="§102" target-path="§38-2851.01" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-300" eff="2023-03-10" path="" target-path="38" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-300" eff="2023-03-10" path="§102" target-path="38|28A" type="History"/>
     <annotation doc="D.C. Act 25-172" path="§4202|(a)" type="Applicability" history="false" app="2023-07-14" eff="2023-07-14">
             Section 4203 of D.C. Act 25-172 provided that the changes made to this section by section 4202(a) D.C. Act 25-172 shall apply as of July 1, 2023.
           </annotation>
-    <annotation app="2023-07-14" doc="D.C. Act 25-172" eff="2023-07-14" path="§4202|(a)" type="History" display="false"/>
+    <annotation app="2023-07-14" doc="D.C. Act 25-172" eff="2023-07-14" path="§4202|(a)" target-path="§38-2851.01" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-172" path="§4202|(a)" codified:display="Note" app="2023-07-14" eff="2023-07-14">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-172" path="§4202|(a)">§ 4202(a) of Fiscal Year 2024 Budget Support Emergency Act of 2023 (D.C. Act 25-172, July 14, 2023, 70 DCR 9933)</cite>.</annotation>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§4202|(a)|(2)" type="History"/>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§4202|(a)|(1)" type="History"/>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§4202|(a)|(3)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§4202|(a)|(2)" target-path="§38-2851.01|(a)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§4202|(a)|(1)" target-path="§38-2851.01|(a)|(1)|num" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§4202|(a)|(3)" target-path="§38-2851.01|(a)" type="History"/>
     <annotation doc="D.C. Law 25-50" path="§4202|(a)" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06">
             Section 4203 of D.C. Law 25-50 provided that the changes made to this section by section 4202(a) D.C. Law 25-50 shall apply as of July 1, 2023.
           </annotation>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§4202|(a)" type="History" display="false"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§4202|(a)" target-path="§38-2851.01" type="History" display="false"/>
   </annotations>
 </section>

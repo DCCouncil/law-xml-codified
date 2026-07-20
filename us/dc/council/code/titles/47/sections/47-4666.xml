@@ -60,11 +60,11 @@
     <replace>[subchapter]</replace>
   </codify:find-replace>
   <annotations>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7092|(b)" type="History"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7092|(b)" target-path="47|46" type="History"/>
     <annotation doc="D.C. Law 22-33" path="§7092|(b)" type="Emergency Legislation" history="false" app="2017-12-13" eff="2017-12-13">
           For temporary (90-day) creation of this section, see <cite doc="D.C. Act 22-104" path="§7092|(b)">§ 7092(b) of the Fiscal Year 2018 Budget Support Emergency Act of 2017, effective July 20, 2017 (D.C. Act 22-104; 64 DCR 7032)</cite>.
         </annotation>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7092|(b)" type="History" display="false"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7092|(b)" target-path="§47-4666" type="History" display="false"/>
     <annotation doc="D.C. Law 22-33" path="§7092|(b)" type="Emergency Legislation" history="false" app="2017-12-13" eff="2017-12-13">
           For temporary (90-day) creation of this section, see <cite doc="D.C. Act 22-167" path="§7092|(b)">§ 7092(b) of the Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017, effective October 24, 2017 (D.C. Act 22-167; 64 DCR 10802)</cite>.
         </annotation>
@@ -72,6 +72,6 @@
                 For temporary (90 days) Business Improvement Districts tax exemption, see <cite doc="D.C. Act 22-182" path="§2|(b)">§ 2 of the Business Improvement Districts Tax Exemption Emergency Amendment Act of 2017 (D.C. Act 22-182, Nov. 22, 2017, 64 DCR 12296</cite>).
               </annotation>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 22-53" path="§2|(b)" codified:display="Note" app="2018-01-27" eff="2018-01-27">For temporary (225 days) addition of § 47-4667, see <cite doc="D.C. Law 22-53" path="§2|(b)">§ 2(b) of Business Improvement Districts Tax Exemption Temporary Amendment Act of 2017 (D.C. Law 22-53, Jan. 27, 2018, 64 DCR 12553)</cite>.</annotation>
-    <annotation app="2018-01-27" doc="D.C. Law 22-53" eff="2018-01-27" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2018-01-27" doc="D.C. Law 22-53" eff="2018-01-27" path="§2|(b)" target-path="§47-4666" type="History" display="false"/>
   </annotations>
 </section>

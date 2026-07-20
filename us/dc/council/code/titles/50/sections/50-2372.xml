@@ -138,21 +138,21 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 21-155" type="History" path="§202">Oct. 8, 2016, D.C. Law 21-155, § 202</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="" type="History" display="false"/>
-    <annotation app="2025-03-21" doc="D.C. Law 25-312" eff="2025-03-21" path="§7|(a)" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="" target-path="50" type="History" display="false"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-312" eff="2025-03-21" path="§7|(a)" target-path="§3|(b)|includes|202|(e)|(1)" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 25-312" path="§3|(b)" codified:display="Note" app="2025-03-21" eff="2025-03-21">Applicability of <cite doc="D.C. Law 25-312" path="">D.C. Law 25-312</cite>: <cite doc="D.C. Law 25-312" path="§7">§ 7 of D.C. Law 25-312</cite> provided that the creation of this section by <cite doc="D.C. Law 25-312" path="§3|(b)">§ 3(b) of D.C. Law 25-312</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2025-03-21" doc="D.C. Law 25-312" eff="2025-03-21" path="§3|(b)" type="History"/>
-    <annotation app="2025-03-21" doc="D.C. Law 25-312" eff="2025-03-21" path="§3|(b)" prefix="as added" type="History"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§6112|(a)" type="History"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§6112|(b)|(1)" type="History"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§6112|(b)|(2)" type="History"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§6112|(c)" type="History"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§6112|(d)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-312" eff="2025-03-21" path="§3|(b)" target-path="§3|(b)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-312" eff="2025-03-21" path="§3|(b)" prefix="as added" target-path="50|23C" type="History"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§6112|(a)" target-path="§3|(b)|includes|202|(b)|(1)" type="History"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§6112|(b)|(1)" target-path="§3|(b)|includes|202|(d)|(3)" type="History"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§6112|(b)|(2)" target-path="§3|(b)|includes|202|(d)|(3)" type="History"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§6112|(c)" target-path="§3|(b)|includes|202|(e)" type="History"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§6112|(d)" target-path="§3|(b)|includes|202|(f)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-233" path="§3" codified:display="Note" app="2025-12-19" eff="2025-12-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-233" path="§3">§ 3 of Streatery Program Emergency Amendment Act of 2025 (D.C. Act 26-233, Dec. 19, 2025, 73 DCR 59)</cite>.</annotation>
-    <annotation app="2025-12-19" doc="D.C. Act 26-233" eff="2025-12-19" path="§3" type="History" display="false"/>
-    <annotation app="2026-03-06" doc="D.C. Law 26-97" eff="2026-03-06" path="§3" type="History" display="false"/>
-    <annotation app="2026-03-06" doc="D.C. Law 26-97" eff="2026-03-06" path="§3|(a)" type="History"/>
-    <annotation app="2026-03-06" doc="D.C. Law 26-97" eff="2026-03-06" path="§3|(b)" type="History"/>
+    <annotation app="2025-12-19" doc="D.C. Act 26-233" eff="2025-12-19" path="§3" target-path="§50-2372" type="History" display="false"/>
+    <annotation app="2026-03-06" doc="D.C. Law 26-97" eff="2026-03-06" path="§3" target-path="§50-2372" type="History" display="false"/>
+    <annotation app="2026-03-06" doc="D.C. Law 26-97" eff="2026-03-06" path="§3|(a)" target-path="§50-2372|(b)" type="History"/>
+    <annotation app="2026-03-06" doc="D.C. Law 26-97" eff="2026-03-06" path="§3|(b)" target-path="§50-2372|(c)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-97" path="§3" codified:display="Note" app="2026-03-06" eff="2026-03-06">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-97" path="§3">§ 3 of Streatery Program Temporary Amendment Act of 2025 (D.C. Law 26-97, Mar. 6, 2026, 73 DCR 443)</cite>.</annotation>
   </annotations>
 </section>

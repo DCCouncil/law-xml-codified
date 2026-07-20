@@ -85,7 +85,7 @@
     <prefix>Chapter</prefix>
     <num>3A</num>
     <heading>Insurer Corporate Governance Annual Report.</heading>
-    <annotation app="2021-09-22" doc="D.C. Law 24-26" eff="2021-09-22" path="" type="History" display="false"/>
+    <annotation app="2021-09-22" doc="D.C. Law 24-26" eff="2021-09-22" path="" target-path="31" type="History" display="false"/>
     <xi:include href="./sections/31-331.xml"/>
     <xi:include href="./sections/31-332.xml"/>
     <xi:include href="./sections/31-333.xml"/>
@@ -463,7 +463,7 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Interstate Insurance Product Regulation Compact.</heading>
-      <annotation app="2019-02-22" doc="D.C. Law 22-213" eff="2019-02-22" path="" type="History" display="false"/>
+      <annotation app="2019-02-22" doc="D.C. Law 22-213" eff="2019-02-22" path="" target-path="31|13B" type="History" display="false"/>
       <xi:include href="./sections/31-1392.01.xml"/>
       <xi:include href="./sections/31-1392.02.xml"/>
     </container>
@@ -658,12 +658,12 @@
     <xi:include href="./sections/31-2351.12.xml"/>
     <xi:include href="./sections/31-2351.13.xml"/>
   </container>
-  <subheading>Subtitle II-B. Appraisal Management Companies.<annotation app="2021-03-16" doc="D.C. Law 23-206" eff="2021-03-16" path="" type="History"/></subheading>
+  <subheading>Subtitle II-B. Appraisal Management Companies.<annotation app="2021-03-16" doc="D.C. Law 23-206" eff="2021-03-16" path="" target-path="31" type="History"/></subheading>
   <container>
     <prefix>Chapter</prefix>
     <num>23R</num>
     <heading>Appraisal Management Company Regulation.</heading>
-    <annotation app="2021-03-16" doc="D.C. Law 23-206" eff="2021-03-16" path="" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-206" eff="2021-03-16" path="" target-path="31" type="History" display="false"/>
     <xi:include href="./sections/31-2361.01.xml"/>
     <xi:include href="./sections/31-2361.02.xml"/>
     <xi:include href="./sections/31-2361.03.xml"/>
@@ -995,7 +995,7 @@
     <prefix>Chapter</prefix>
     <num>31E</num>
     <heading>Health Benefits Plans Behavioral Health Parity.</heading>
-    <annotation app="2019-03-13" doc="D.C. Law 22-242" eff="2019-03-13" path="" type="History" display="false"/>
+    <annotation app="2019-03-13" doc="D.C. Law 22-242" eff="2019-03-13" path="" target-path="31" type="History" display="false"/>
     <xi:include href="./sections/31-3175.01.xml"/>
     <xi:include href="./sections/31-3175.02.xml"/>
     <xi:include href="./sections/31-3175.03.xml"/>
@@ -1047,7 +1047,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
-      <heading>Definitions.<annotation app="2019-03-22" doc="D.C. Law 22-266" eff="2019-03-22" path="§2|(a)" type="History" display="false"/></heading>
+      <heading>Definitions.<annotation app="2019-03-22" doc="D.C. Law 22-266" eff="2019-03-22" path="§2|(a)" target-path="31|33|I|heading" type="History" display="false"/></heading>
       <xi:include href="./sections/31-3301.01.xml"/>
     </container>
     <container>
@@ -1306,7 +1306,7 @@
     <prefix>Chapter</prefix>
     <num>38C</num>
     <heading>Health Insurer Requirement to Provide a Special Enrollment Period for a Pregnant Individual.</heading>
-    <annotation app="2020-10-20" doc="D.C. Law 23-135" eff="2020-10-20" path="" type="History" display="false"/>
+    <annotation app="2020-10-20" doc="D.C. Law 23-135" eff="2020-10-20" path="" target-path="31" type="History" display="false"/>
     <xi:include href="./sections/31-3841.01.xml"/>
     <xi:include href="./sections/31-3841.02.xml"/>
   </container>
@@ -1328,14 +1328,14 @@
     <prefix>Chapter</prefix>
     <num>38E</num>
     <heading>Medically Necessary Foods Coverage.</heading>
-    <annotation app="2022-09-21" doc="D.C. Law 24-168" eff="2022-09-21" path="" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-168" eff="2022-09-21" path="" target-path="31" type="History" display="false"/>
     <xi:include href="./sections/31-3871.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>38F</num>
     <heading>Prior Authorization by a Utilization Review Entity.</heading>
-    <annotation app="2024-01-17" doc="D.C. Law 25-100" eff="2024-01-17" path="" type="History" display="false"/>
+    <annotation app="2024-01-17" doc="D.C. Law 25-100" eff="2024-01-17" path="" target-path="31" type="History" display="false"/>
     <xi:include href="./sections/31-3875.01.xml"/>
     <xi:include href="./sections/31-3875.02.xml"/>
     <xi:include href="./sections/31-3875.03.xml"/>
@@ -1453,7 +1453,7 @@
     <prefix>Chapter</prefix>
     <num>41A</num>
     <heading>Risk Management and Own Risk and Solvency Assessment.</heading>
-    <annotation app="2019-03-28" doc="D.C. Law 22-269" eff="2019-03-28" path="" type="History" display="false"/>
+    <annotation app="2019-03-28" doc="D.C. Law 22-269" eff="2019-03-28" path="" target-path="31" type="History" display="false"/>
     <xi:include href="./sections/31-4121.01.xml"/>
     <xi:include href="./sections/31-4121.02.xml"/>
     <xi:include href="./sections/31-4121.03.xml"/>
@@ -2053,5 +2053,5 @@
     <xi:include href="./sections/31-6208.xml"/>
     <xi:include href="./sections/31-6209.xml"/>
   </container>
-  <annotation app="2020-10-20" doc="D.C. Law 23-135" eff="2020-10-20" path="" type="History" display="false"/>
+  <annotation app="2020-10-20" doc="D.C. Law 23-135" eff="2020-10-20" path="" target-path="31" type="History" display="false"/>
 </container>

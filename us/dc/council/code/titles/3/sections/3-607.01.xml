@@ -29,17 +29,17 @@
   <annotations>
     <annotation doc="D.C. Law 1-20" type="History" path="§8a">Oct. 8, 1975, D.C. Law 1-20, § 8a</annotation>
     <annotation type="Applicability" doc="D.C. Law 22-228" path="§2|(h)" codified:display="Note" app="2019-02-22" eff="2019-02-22">Applicability of <cite doc="D.C. Law 22-228" path="">D.C. Law 22-228</cite>: <cite doc="D.C. Law 22-228" path="§3">§ 3 of D.C. Law 22-228</cite> provided that the creation of this section by <cite doc="D.C. Law 22-228" path="§2|(h)">§ 2(h) of D.C. Law 22-228</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2019-02-22" doc="D.C. Law 22-228" eff="2019-02-22" path="§2|(h)" type="History"/>
-    <annotation app="2019-02-22" doc="D.C. Law 22-228" eff="2019-02-22" path="§2|(h)" prefix="as added" type="History"/>
+    <annotation app="2019-02-22" doc="D.C. Law 22-228" eff="2019-02-22" path="§2|(h)" target-path="§2|(h)" type="History"/>
+    <annotation app="2019-02-22" doc="D.C. Law 22-228" eff="2019-02-22" path="§2|(h)" prefix="as added" target-path="3|6" type="History"/>
     <annotation doc="D.C. Law 23-149" type="Applicability" history="false" app="2020-12-03" eff="2020-12-03" path="§7067"><cite doc="D.C. Law 23-149" path="§7067">Section 7067 of D.C. Law 23-149</cite> repealed <cite doc="D.C. Law 22-228" path="§3">section 3 of D.C. Law 22-228</cite> that provided that the amendment of this section by D.C. Law 22-210 is subject to the inclusion of the law' fiscal effect in an approved budget and financial plan.  Therefore that amendment has been implemented.
         </annotation>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7067" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7067" target-path="" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7081|(b)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7081|(b)">§ 7081(b) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7081|(b)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7081|(b)" target-path="§3-607.01" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§7081|(b)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§7081|(b)">§ 7081(b) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
-    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7081|(b)" type="History" display="false"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7081|(b)|(1)" type="History"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7081|(b)|(2)" type="History"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7081|(b)|(3)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7081|(b)" target-path="§3-607.01" type="History" display="false"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7081|(b)|(1)" target-path="§3-607.01|heading" type="History"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7081|(b)|(2)" target-path="§3-607.01|(a)" type="History"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7081|(b)|(3)" target-path="§3-607.01|(d)" type="History"/>
   </annotations>
 </section>

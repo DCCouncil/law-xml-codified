@@ -88,29 +88,29 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 15-205" type="History" path="§6019a">Dec. 7, 2004, D.C. Law 15-205, § 6019a</annotation>
-    <annotation app="2019-03-13" doc="D.C. Law 22-241" eff="2019-03-13" path="§2" prefix="as added" type="History"/>
+    <annotation app="2019-03-13" doc="D.C. Law 22-241" eff="2019-03-13" path="§2" prefix="as added" target-path="34|21A" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 22-241" path="§2" codified:display="Note" app="2019-03-13" eff="2019-03-13">Applicability of <cite doc="D.C. Law 22-241" path="">D.C. Law 22-241</cite>: <cite doc="D.C. Law 22-241" path="§5">§ 5 of D.C. Law 22-241</cite> provided that the creation of this section by <cite doc="D.C. Law 22-241" path="§2">§ 2 of D.C. Law 22-241</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2019-03-13" doc="D.C. Law 22-241" eff="2019-03-13" path="§2" type="History"/>
+    <annotation app="2019-03-13" doc="D.C. Law 22-241" eff="2019-03-13" path="§2" target-path="§34-2158" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" path="§7161" codified:display="Note" app="2019-07-22" eff="2019-07-22">For temporary (90 days) repeal of applicability provision of D.C. Law 22-241, see <cite doc="D.C. Act 23-91" path="§7161">§ 7161 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
-    <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7161" type="History" display="false"/>
+    <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7161" target-path="§34-2158" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§7161" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) repeal of applicability provision of D.C. Law 22-241, see <cite doc="D.C. Act 23-112" path="§7161">§ 7161 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
-    <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7161" type="History" display="false"/>
+    <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7161" target-path="§34-2158" type="History" display="false"/>
     <annotation doc="D.C. Law 23-16" path="§7161" type="Applicability" history="false" app="2019-09-11" eff="2019-09-11">
           Applicability of <cite doc="D.C. Law 22-241">D.C. Law 22-241</cite>: <cite doc="D.C. Law 23-16" path="§7161">§ 7161 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-241" path="§5">§ 5 of D.C. Law 22-241</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-241">D.C. Law 22-241</cite> has been implemented.
         </annotation>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7161" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-229" eff="2021-03-16" path="§3|(a)|(1)|(A)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-229" eff="2021-03-16" path="§3|(a)|(1)|(B)|(ii)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-229" eff="2021-03-16" path="§3|(a)|(1)|(B)|(i)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-229" eff="2021-03-16" path="§3|(a)|(1)|(C)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-229" eff="2021-03-16" path="§3|(a)|(2)" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7161" target-path="§34-2158" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-229" eff="2021-03-16" path="§3|(a)|(1)|(A)" target-path="§34-2158|(a)|(1)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-229" eff="2021-03-16" path="§3|(a)|(1)|(B)|(ii)" target-path="§34-2158|(a)|(2)|(C)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-229" eff="2021-03-16" path="§3|(a)|(1)|(B)|(i)" target-path="§34-2158|(a)|(2)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-229" eff="2021-03-16" path="§3|(a)|(1)|(C)" target-path="§34-2158|(a)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-229" eff="2021-03-16" path="§3|(a)|(2)" target-path="§34-2158" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-229" path="§3|(a)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-229" path="">D.C. Law 23-229</cite>: <cite doc="D.C. Law 23-229" path="§5">§ 5 of D.C. Law 23-229</cite> provided that the creation of subsection (d)(1) of this section by <cite doc="D.C. Law 23-229" path="§3|(a)">§ 3(a) of D.C. Law 23-229</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2021-03-16" doc="D.C. Law 23-229" eff="2021-03-16" path="§3|(a)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-229" eff="2021-03-16" path="§3|(a)" target-path="§34-2158" type="History"/>
     <annotation doc="D.C. Act 24-159" path="§7204" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7204">Section 7204 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-229" path="§5">section 5 of D.C. Law 23-229</cite> that impacted this section.  Therefore the amendment of this section by §3(a)(2) of Law 23-229 has been implemented.
         </annotation>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7204" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7204" target-path="§34-2158" type="History" display="false"/>
     <annotation doc="D.C. Law 24-45" path="§7204" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7204">Section 7204 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-229" path="§5">section 5 of D.C. Law 23-229</cite> that impacted this section.  Therefore the amendment of this section by §3(a)(2) of Law 23-229 has been implemented.
         </annotation>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7204" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7204" target-path="§34-2158" type="History" display="false"/>
   </annotations>
 </section>

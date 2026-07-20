@@ -70,8 +70,8 @@
     <text>The Director shall determine whether each impounded vehicle has been reported to law enforcement agencies as stolen and shall record the vehicle identification number for each impounded vehicle in a database format that can be accessed by law enforcement personnel.</text>
   </para>
   <annotations>
-    <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="" type="History" display="false"/>
-    <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="I|C" type="History" display="false"/>
-    <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="§125" type="History"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="" target-path="50" type="History" display="false"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="I|C" target-path="50|24A" type="History" display="false"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-325" eff="2025-05-02" path="§125" target-path="50|24A|III" type="History"/>
   </annotations>
 </section>

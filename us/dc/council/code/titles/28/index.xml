@@ -999,12 +999,12 @@
       <prefix>Article</prefix>
       <num>12</num>
       <heading>Controllable Electronic Records.</heading>
-      <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(k)" type="History" display="false"/>
+      <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(k)" target-path="28|I" type="History" display="false"/>
       <container>
         <prefix>Part</prefix>
         <num>1</num>
         <heading>General Provisions.</heading>
-        <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(k)" type="History" display="false"/>
+        <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(k)" target-path="28|I|12" type="History" display="false"/>
         <xi:include href="./sections/28~12-101.xml"/>
         <xi:include href="./sections/28~12-102.xml"/>
         <xi:include href="./sections/28~12-103.xml"/>
@@ -1017,7 +1017,7 @@
         <prefix>Part</prefix>
         <num>2</num>
         <heading>Transitional Provisions for Articles 9 and 12.</heading>
-        <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(k)" type="History" display="false"/>
+        <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(k)" target-path="28|I|12" type="History" display="false"/>
         <xi:include href="./sections/28~12-201.xml"/>
         <xi:include href="./sections/28~12-202.xml"/>
         <xi:include href="./sections/28~12-203.xml"/>
@@ -1098,7 +1098,7 @@
     <prefix>Chapter</prefix>
     <num>29A</num>
     <heading>Uniform Special Deposits.</heading>
-    <annotation app="2026-02-03" doc="D.C. Law 26-84" eff="2026-02-03" path="" type="History" display="false"/>
+    <annotation app="2026-02-03" doc="D.C. Law 26-84" eff="2026-02-03" path="" target-path="28" type="History" display="false"/>
     <xi:include href="./sections/28-2951.xml"/>
     <xi:include href="./sections/28-2952.xml"/>
     <xi:include href="./sections/28-2953.xml"/>
@@ -1235,7 +1235,7 @@
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Public Health Emergency Credit Alert.</heading>
-      <annotation app="2023-12-20" doc="D.C. Law 25-86" eff="2023-12-20" path="§2|(c)" type="History" display="false"/>
+      <annotation app="2023-12-20" doc="D.C. Law 25-86" eff="2023-12-20" path="§2|(c)" target-path="28|38" type="History" display="false"/>
       <xi:include href="./sections/28-3871.xml"/>
     </container>
   </container>
@@ -1519,14 +1519,15 @@
     <xi:include href="./sections/28-5302.xml"/>
     <xi:include href="./sections/28-5303.xml"/>
     <xi:include href="./sections/28-5304.xml"/>
-    <annotation app="2017-04-22" doc="D.C. Law 21-280" eff="2017-04-22" path="§6|(c)" type="History"/>
+    <annotation app="2017-04-22" doc="D.C. Law 21-280" eff="2017-04-22" path="§6|(c)" target-path="28" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>54</num>
     <heading>Cashless Retail Prohibition.</heading>
     <annotation type="Applicability" doc="D.C. Law 23-187" path="§2|(c)" codified:display="Note" app="2021-03-16" eff="2021-03-16" display="false">Applicability of <cite doc="D.C. Law 23-187" path="">D.C. Law 23-187</cite>: <cite doc="D.C. Law 23-187" path="§3">§ 3 of D.C. Law 23-187</cite> provided that the creation of this section by <cite doc="D.C. Law 23-187" path="§2|(c)">§ 2(c) of D.C. Law 23-187</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2021-03-16" doc="D.C. Law 23-187" eff="2021-03-16" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-187" eff="2021-03-16" path="§2|(c)" target-path="§2|(c)" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-187" eff="2021-03-16" path="§2|(c)" target-path="28" type="History" display="false"/>
     <xi:include href="./sections/28-5401.xml"/>
     <xi:include href="./sections/28-5402.xml"/>
     <xi:include href="./sections/28-5403.xml"/>

@@ -119,7 +119,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>9A</num>
-    <heading>Abuse, Neglect, and Financial Exploitation of Vulnerable Adults and Elderly Persons.<annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§302|(a)" type="History"/></heading>
+    <heading>Abuse, Neglect, and Financial Exploitation of Vulnerable Adults and Elderly Persons.<annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§302|(a)" target-path="22|9A|heading" type="History"/></heading>
     <xi:include href="./sections/22-931.xml"/>
     <xi:include href="./sections/22-932.xml"/>
     <xi:include href="./sections/22-933.xml"/>
@@ -241,7 +241,7 @@
     <prefix>Chapter</prefix>
     <num>14A</num>
     <heading>Female Genital Mutilation.</heading>
-    <annotation app="2025-04-18" doc="D.C. Law 25-322" eff="2025-04-18" path="" type="History" display="false"/>
+    <annotation app="2025-04-18" doc="D.C. Law 25-322" eff="2025-04-18" path="" target-path="22" type="History" display="false"/>
     <xi:include href="./sections/22-1431.xml"/>
   </container>
   <container>
@@ -301,7 +301,7 @@
       <xi:include href="./sections/22-1716.xml"/>
       <xi:include href="./sections/22-1717.xml"/>
       <xi:include href="./sections/22-1718.xml"/>
-      <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(a)" type="History"/>
+      <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(a)" target-path="22|17|II" type="History"/>
     </container>
   </container>
   <container>
@@ -349,8 +349,8 @@
     <heading>Ivory and Horn Trafficking.</heading>
     <annotation doc="D.C. Law 23-149" type="Applicability" history="false" app="2020-12-03" eff="2020-12-03" path="§7082" display="false"><cite doc="D.C. Law 23-149" path="§7082">Section 7082 of D.C. Law 23-149</cite> repealed <cite doc="D.C. Law 23-126" path="§6">section 6 of D.C. Law 23-126</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by Law 23-126 has been implemented.
         </annotation>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7082" type="History" display="false"/>
-    <annotation app="2020-08-06" doc="D.C. Law 23-126" eff="2020-08-06" path="" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7082" target-path="" type="History" display="false"/>
+    <annotation app="2020-08-06" doc="D.C. Law 23-126" eff="2020-08-06" path="" target-path="22" type="History" display="false"/>
     <xi:include href="./sections/22-1861.xml"/>
     <xi:include href="./sections/22-1862.xml"/>
     <xi:include href="./sections/22-1863.xml"/>
@@ -981,7 +981,7 @@
     <prefix>Chapter</prefix>
     <num>42C</num>
     <heading>Comprehensive Public Safety Plan.</heading>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="" type="History" display="false"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="" target-path="22" type="History" display="false"/>
     <xi:include href="./sections/22-4271.xml"/>
   </container>
   <subheading>Subtitle V. Harbor, Game and Fish Laws.</subheading>

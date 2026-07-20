@@ -109,18 +109,21 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-378">D.C. Law 18-378</cite>, in subsec. (b)(1), substituted “<cite path="29|4">Chapter 4 of Title 29</cite>” for “<cite path="29|3">Chapter 3 of Title 29</cite> or organized in the District of Columbia as a religious or not-for-profit organization”.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 2-2523.</annotation>
     <annotation type="Prior Codifications">2001 Ed., § 3-1323</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(x)|(1)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(x)|(2)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(x)|(3)|(A)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(x)|(3)|(B)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(x)|(4)" type="History"/>
-    <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(b)" type="History"/>
-    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§6|(a)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(x)|(1)" target-path="§3-1323|(a)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(x)|(2)" target-path="§3-1323|(b)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(x)|(3)|(A)" target-path="§3-1323|(b-1)|(1)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(x)|(3)|(B)" target-path="§3-1323|(b-1)|(2)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(x)|(3)|(B)" target-path="§3-1323|(b-1)|(3)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(x)|(4)" target-path="§3-1323|(c)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(x)|(4)" target-path="§3-1323|(d)" type="History"/>
+    <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(a)" target-path="36" type="History" display="false"/>
+    <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(a)" target-path="36|6" type="History" display="false"/>
+    <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(b)" target-path="§36-601.23" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§6|(a)" target-path="36|6" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2073|(d)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2073|(d)">§ 2073(d) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2073|(d)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2073|(d)" target-path="§36-601.23" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§2073|(d)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§2073|(d)">§ 2073(d) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
-    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2073|(d)" type="History" display="false"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§2073|(d)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2073|(d)" target-path="§36-601.23" type="History" display="false"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§2073|(d)" target-path="§36-601.23" type="History"/>
   </annotations>
 </section>

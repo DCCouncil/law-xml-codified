@@ -107,13 +107,16 @@
     <annotation type="Cross References">National capital region transportation, revenues deposited in general fund and allocated to metrorail/metrobus account, see <cite path="§9-1111.15">§ 9-1111.15</cite>.</annotation>
     <annotation type="Cross References">Motor vehicles and traffic, biennial inspection fund, see <cite path="§50-1102">§ 50-1102</cite>.</annotation>
     <annotation type="Cross References">Building restrictions and regulations, fire safety, fees from hauling permits deposited in highway fund, see <cite path="§6-703.01">§ 6-703.01</cite>.</annotation>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7132|(a)|(1)" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7132|(a)|(2)" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7132|(a)|(3)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7132|(a)|(1)" target-path="§47-2301|(a)|(1)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7132|(a)|(1)" target-path="§47-2301|(a)|(2)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7132|(a)|(1)" target-path="§47-2301|(a)|(3)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7132|(a)|(1)" target-path="§47-2301|(a)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7132|(a)|(2)" target-path="§47-2301" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7132|(a)|(3)" target-path="§47-2301|(c)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7113" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7113">§ 7113 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7113" type="History" display="false"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7113|(a)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7113|(b)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7113|(c)" type="History"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7113" target-path="§47-2301" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7113|(a)" target-path="§47-2301|(a-1)|(1)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7113|(b)" target-path="§47-2301|(c)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7113|(c)" target-path="§47-2301" type="History"/>
   </annotations>
 </section>

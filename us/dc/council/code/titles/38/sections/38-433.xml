@@ -5,16 +5,18 @@
   <reason>Repealed</reason>
   <text>Repealed.</text>
   <annotations>
-    <annotation app="2019-02-22" doc="D.C. Law 22-210" eff="2019-02-22" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-210" eff="2019-02-22" path="§4" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7066|(b)" type="History" display="false"/>
+    <annotation app="2019-02-22" doc="D.C. Law 22-210" eff="2019-02-22" path="" target-path="38" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 22-210" eff="2019-02-22" path="§4" target-path="38|4A" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7066|(b)" target-path="§4" type="History" display="false"/>
     <annotation doc="D.C. Law 23-149" path="§7066|(b)" type="Applicability" history="false" app="2020-12-03" eff="2020-12-03"><cite doc="D.C. Law 23-149" path="§7066|(b)">Section 7066(b) of D.C. Law 23-149</cite> amended <cite doc="D.C. Law 22-210" path="§4">section 4 of D.C. Law 22-196</cite> and provided that the creation of this section by § 4 of D.C. Law 22-210 is subject to the inclusion of the law's fiscal effect in an approved budget and financial plan.  Therefore, the creation of this section by section 2 of Law 22-210 has not been implemented.
                 </annotation>
-    <annotation app="notfunded" doc="D.C. Law 23-149" eff="2020-12-03" path="§7066|(a)" type="History" estimate="true"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7066|(b)" target-path="§38-433" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7066|(b)" target-path="§7066|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-149" eff="2020-12-03" path="§7066|(a)" target-path="§38-433|(b)" type="History" estimate="true"/>
     <annotation doc="D.C. Act 24-470" path="§7063" type="Emergency Legislation" history="false" app="2022-07-13" eff="2022-07-13">
           For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 24-470" path="§7063">§ 7063 of D.C. Act 24-470</cite>.
         </annotation>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§7063" type="History" display="false"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7063" type="History"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§7063" target-path="§38-433" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7063" target-path="§38-433" type="History"/>
   </annotations>
 </section>

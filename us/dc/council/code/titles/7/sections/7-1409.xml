@@ -7,27 +7,30 @@
   <text>Repealed.</text>
   <annotations>
     <annotation doc="D.C. Law 14-18" type="History" path="§6">July 12, 2001, D.C. Law 14-18, § 7d</annotation>
-    <annotation app="2017-12-13" doc="D.C. Law 22-35" eff="2017-12-13" path="§2" prefix="as added" type="History"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-35" eff="2017-12-13" path="§2" prefix="as added" target-path="7|14" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 22-35" path="§2" codified:display="Note" app="2017-12-13" eff="2017-12-13">Applicability of <cite doc="D.C. Law 22-35" path="">D.C. Law 22-35</cite>: <cite doc="D.C. Law 22-35" path="§3">§ 3 of D.C. Law 22-35</cite> provided that the creation of this section by <cite doc="D.C. Law 22-35" path="§2">§ 2 of D.C. Law 22-35</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2017-12-13" doc="D.C. Law 22-35" eff="2017-12-13" path="§2" type="History"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-35" eff="2017-12-13" path="§2" target-path="§7-1409" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-434" path="§5022" codified:display="Note" app="2018-07-30" eff="2018-07-30">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-434" path="§5022">§ 5022 of Fiscal Year 2019 Budget Support Emergency Act of 2018 (D.C. Act 22-434, July 30, 2018, 65 DCR 8200)</cite>.</annotation>
-    <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§5022" type="History" display="false"/>
+    <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§5022" target-path="§7-1409" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§5022" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-458" path="§5022">§ 5022 of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
-    <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§5022" type="History" display="false"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§5022|(b)|(2)" type="History"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§5022|(b)|(1)" type="History"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§5022|(a)" type="History"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§5022|(c)" type="History"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§5023" type="History" display="false"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7062" type="History" display="false"/>
+    <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§5022" target-path="§7-1409" type="History" display="false"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§5022|(b)|(2)" target-path="§7-1409|(a)|(7)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§5022|(b)|(2)" target-path="§7-1409|(a)|(8)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§5022|(b)|(1)" target-path="§7-1409|(a)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§5022|(a)" target-path="§7-1409" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§5022|(c)" target-path="§7-1409" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§5023" target-path="§7-1409|(b)" type="History" display="false"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§5023" target-path="§7-1409" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7062" target-path="§5023" type="History" display="false"/>
     <annotation doc="D.C. Law 23-149" path="§7062" type="Applicability" history="false" app="2020-12-03" eff="2020-12-03"><cite doc="D.C. Law 22-168" path="§5023">Section 5023 of D.C. Law 22-168</cite> amended <cite doc="D.C. Law 22-35" path="§3|(a)">section 3(a) of D.C. Law 22-35</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by section 2 of Law 22-35 has been implemented, except for subsection (b).
         </annotation>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7062" target-path="§7-1409" type="History" display="false"/>
     <annotation doc="D.C. Law 23-149" path="§7062" type="Applicability" history="false" app="2020-12-03" eff="2020-12-03"><cite doc="D.C. Law 23-149" path="§7062">Section 7062 of D.C. Law 23-149</cite> repealed <cite doc="D.C. Law 22-35" path="§3">section 3 of D.C. Law 22-35</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by section 2 of Law 22-35 has been implemented.
         </annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§5043|(b)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§5043|(b)">§ 5043(b) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5043|(b)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5043|(b)" target-path="§7-1409" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§5043|(b)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§5043|(b)">§ 5043(b) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
-    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§5043|(b)" type="History" display="false"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5043|(b)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§5043|(b)" target-path="§7-1409" type="History" display="false"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5043|(b)" target-path="§7-1409" type="History"/>
   </annotations>
 </section>

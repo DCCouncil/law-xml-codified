@@ -215,67 +215,69 @@
     <annotation type="Section References">This section is referenced in <cite path="§5-401.01">§ 5-401.01</cite>, <cite path="§7-2341.03">§ 7-2341.03</cite>, <cite path="§7-2341.07">§ 7-2341.07</cite>, and <cite path="§7-2341.23">§ 7-2341.23</cite>.</annotation>
     <annotation type="Cross References">District of Columbia, territorial area, see <cite path="§1-101">§ 1-101</cite>.</annotation>
     <annotation type="Cross References">District of Columbia Residential, Commercial, and Institutional Structures Fire Protection Study Commission, see <cite path="§3-1101">§ 3-1101</cite> et seq.</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3072|(a)|(1)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3072|(a)|(2)|(B)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3072|(a)|(2)|(C)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3072|(a)|(2)|(A)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3143" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3072|(a)|(3)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3072|(a)|(1)" target-path="§1|(a)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3072|(a)|(2)|(B)" target-path="§1|(b)|(1)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3072|(a)|(2)|(C)" target-path="§1|(b)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3072|(a)|(2)|(A)" target-path="§1|(b)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3143" target-path="§1" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3072|(a)|(3)" target-path="§1" type="History"/>
     <annotation doc="D.C. Law 21-160" path="§3073" type="Expiration of Law" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§3072|(a)|(2)|(C)">Section 3073 of D.C. Law 21-160</cite> provided that paragraphs (2) and (3) of subsection (a) and subsections (d) through (h) of this section shall expire on September 30, 2019.
         </annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3073" type="History" display="false"/>
-    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§501|(a)" type="History" display="false"/>
-    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§301|(a)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3073" target-path="§5-401" type="History" display="false"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§501|(a)" target-path="" type="History" display="false"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§301|(a)" target-path="§5-401|(c)" type="History"/>
     <annotation doc="D.C. Law 21-254" path="§301|(a)" type="Construction of Law" history="false" app="2017-04-07" eff="2017-04-07">
              Section 401 of Law 21-254 provided that Law 21-254 shall be construed, and the authority granted under it shall be exercised, in a manner consistent with applicable federal laws and regulations. 
         </annotation>
-    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§301|(a)" type="History" display="false"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§301|(a)" target-path="§5-401" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 21-254" path="§301|(a)" codified:display="Note" app="2017-04-07" eff="2017-04-07">Applicability of <cite doc="D.C. Law 21-254" path="">D.C. Law 21-254</cite>: <cite doc="D.C. Law 21-254" path="§501">§ 501 of D.C. Law 21-254</cite> provided that the creation of this section by <cite doc="D.C. Law 21-254" path="§301|(a)">§ 301(a) of D.C. Law 21-254</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§301|(a)" target-path="§5-401" type="History"/>
     <annotation doc="D.C. Law 21-254" path="§501|(e)" type="Applicability" history="false" app="2017-04-07" eff="2017-04-07">
          Section 501(e) of D.C. Law 21-254 provided that the changes made to this section by D.C. Law 21-254 shall apply on the date the requirements of § 8-151.08a have been met.
         </annotation>
-    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§501|(e)" type="History" display="false"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§501|(e)" target-path="§5-401" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-434" path="§3062" codified:display="Note" app="2018-07-30" eff="2018-07-30">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-434" path="§3062">§ 3062 of Fiscal Year 2019 Budget Support Emergency Act of 2018 (D.C. Act 22-434, July 30, 2018, 65 DCR 8200)</cite>.</annotation>
-    <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§3062" type="History" display="false"/>
+    <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§3062" target-path="§5-401" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§3062" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-458" path="§3062">§ 3062 of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
-    <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§3062" type="History" display="false"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§6033|(a)" type="History" display="false"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3062|(a)|(1)" type="History"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3062|(a)|(2)" type="History"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3062|(a)|(3)" type="History"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3062|(a)|(4)" type="History"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3062|(b)" type="History"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3062|(c)" type="History"/>
+    <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§3062" target-path="§5-401" type="History" display="false"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§6033|(a)" target-path="§501|(a)" type="History" display="false"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3062|(a)|(1)" target-path="§5-401|(d)|text" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3062|(a)|(2)" target-path="§5-401|(d)|(10)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3062|(a)|(3)" target-path="§5-401|(d)|(11)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3062|(a)|(4)" target-path="§5-401|(d)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3062|(b)" target-path="§5-401|(e)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3062|(c)" target-path="§5-401|(f)" type="History"/>
     <annotation path="§3063" type="Expiration of Law" history="false" app="2018-10-30" eff="2018-10-30" doc="D.C. Law 22-168"><cite doc="D.C. Law 22-168" path="§3063">Section 3063 of D.C. Law 22-168</cite> amended <cite doc="D.C. Law 21-160" path="§3073">section 3073 of D.C. Law 21-160</cite> proving that section 3072(a)(2)(C) and (3) of D.C. Law 21-160 shall expire on September 30, 2021.
         </annotation>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3063" type="History" display="false"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3063" target-path="§5-401" type="History" display="false"/>
     <annotation doc="D.C. Law 22-168" path="§6033|(a)" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§6033">Section 6033 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 21-254" path="§501|(a)">§ 501(a) of D.C. Law 21-254</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-254">D.C. Law 21-254</cite> have been implemented.</annotation>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§6033|(a)" target-path="§5-401" type="History" display="false"/>
     <annotation doc="D.C. Law 23-149" path="§3022" type="Expiration of Law" history="false" app="2020-12-03" eff="2020-12-03">
           Section 3022 of D.C. Law 23-149 changed the expiration date provided in section 3073 of D.C. Law 21-160 from September 30, 2019 to September 30, 2023.
         </annotation>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§3022" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§3022" target-path="§5-401" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§3012" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§3012">§ 3012 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3012" type="History" display="false"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3012" target-path="§5-401" type="History" display="false"/>
     <annotation doc="D.C. Act 24-470" path="§3013" type="Expiration of Law" history="false" app="2022-07-13" eff="2022-07-13"><cite doc="D.C. Act 24-470" path="§3013">Section 3013 of D.C. Act 24-470</cite> revived paragraphs (2) and (3) of subsection (b) and subsections (d) through (h) of this section.
         </annotation>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3013" type="History" display="false"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(a)|(1)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(a)|(2)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(a)|(3)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(a)|(4)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(a)|(5)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(a)|(6)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(a)|(7)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(a)|(8)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(a)|(9)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(b)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(c)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(d)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(e)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(f)|(2)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(f)|(1)" type="History"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3013" target-path="§5-401" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(a)|(1)" target-path="§5-401|(d)|text" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(a)|(2)" target-path="§5-401|(d)|(3)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(a)|(3)" target-path="§5-401|(d)|(5)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(a)|(4)" target-path="§5-401|(d)|(6)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(a)|(5)" target-path="§5-401|(d)|(7)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(a)|(6)" target-path="§5-401|(d)|(9)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(a)|(7)" target-path="§5-401|(d)|(10)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(a)|(8)" target-path="§5-401|(d)|(11)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(a)|(9)" target-path="§5-401|(d)|(12)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(b)" target-path="§5-401|(e)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(c)" target-path="§5-401" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(d)" target-path="§5-401|(f)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(e)" target-path="§5-401|(g)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(f)|(2)" target-path="§5-401|(h)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3012|(f)|(1)" target-path="§5-401|(h)|(1)|num" type="History"/>
     <annotation doc="D.C. Law 24-167" path="§3013" type="Expiration of Law" history="false" app="2022-09-21" eff="2022-09-21"><cite doc="D.C. Law 24-167" path="§3013">Section 3013 of D.C. Law 24-167</cite> revived paragraphs (2) and (3) of subsection (b) and subsections (d) through (h) of this section.
         </annotation>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3013" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3013" target-path="§5-401" type="History" display="false"/>
   </annotations>
 </section>

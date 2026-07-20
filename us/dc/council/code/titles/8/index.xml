@@ -321,12 +321,12 @@
     <prefix>Chapter</prefix>
     <num>1B-i</num>
     <heading>Green Finance Authority.</heading>
-    <annotation app="2018-08-22" doc="D.C. Law 22-155" eff="2018-08-22" path="" type="History" display="false"/>
+    <annotation app="2018-08-22" doc="D.C. Law 22-155" eff="2018-08-22" path="" target-path="8" type="History" display="false"/>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
-      <heading>Declaration of Public Purpose and Definitions.<annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="§202|(a)" type="History"/></heading>
-      <annotation app="2018-08-22" doc="D.C. Law 22-155" eff="2018-08-22" path="" type="History" display="false"/>
+      <heading>Declaration of Public Purpose and Definitions.<annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="§202|(a)" target-path="8|1B-i|I|heading" type="History"/></heading>
+      <annotation app="2018-08-22" doc="D.C. Law 22-155" eff="2018-08-22" path="" target-path="8|1B-i" type="History" display="false"/>
       <xi:include href="./sections/8-173.01.xml"/>
       <xi:include href="./sections/8-173.02.xml"/>
     </container>
@@ -334,7 +334,7 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Green Finance Authority Establishment.</heading>
-      <annotation app="2018-08-22" doc="D.C. Law 22-155" eff="2018-08-22" path="" type="History" display="false"/>
+      <annotation app="2018-08-22" doc="D.C. Law 22-155" eff="2018-08-22" path="" target-path="8|1B-i" type="History" display="false"/>
       <xi:include href="./sections/8-173.21.xml"/>
       <xi:include href="./sections/8-173.22.xml"/>
       <xi:include href="./sections/8-173.23.xml"/>
@@ -346,7 +346,7 @@
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Operations of the Green Finance Authority.</heading>
-      <annotation app="2018-08-22" doc="D.C. Law 22-155" eff="2018-08-22" path="" type="History" display="false"/>
+      <annotation app="2018-08-22" doc="D.C. Law 22-155" eff="2018-08-22" path="" target-path="8|1B-i" type="History" display="false"/>
       <xi:include href="./sections/8-173.31.xml"/>
       <xi:include href="./sections/8-173.32.xml"/>
     </container>
@@ -354,7 +354,7 @@
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Financial Affairs of the Green Finance Authority.</heading>
-      <annotation app="2018-08-22" doc="D.C. Law 22-155" eff="2018-08-22" path="" type="History" display="false"/>
+      <annotation app="2018-08-22" doc="D.C. Law 22-155" eff="2018-08-22" path="" target-path="8|1B-i" type="History" display="false"/>
       <xi:include href="./sections/8-173.41.xml"/>
       <xi:include href="./sections/8-173.42.xml"/>
       <xi:include href="./sections/8-173.43.xml"/>
@@ -369,7 +369,7 @@
       <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>Public Accountability.</heading>
-      <annotation app="2018-08-22" doc="D.C. Law 22-155" eff="2018-08-22" path="" type="History" display="false"/>
+      <annotation app="2018-08-22" doc="D.C. Law 22-155" eff="2018-08-22" path="" target-path="8|1B-i" type="History" display="false"/>
       <xi:include href="./sections/8-173.51.xml"/>
       <xi:include href="./sections/8-173.52.xml"/>
       <xi:include href="./sections/8-173.53.xml"/>
@@ -379,7 +379,7 @@
       <prefix>Subchapter</prefix>
       <num>VI</num>
       <heading>Miscellaneous Provisions.</heading>
-      <annotation app="2018-08-22" doc="D.C. Law 22-155" eff="2018-08-22" path="" type="History" display="false"/>
+      <annotation app="2018-08-22" doc="D.C. Law 22-155" eff="2018-08-22" path="" target-path="8|1B-i" type="History" display="false"/>
       <xi:include href="./sections/8-173.61.xml"/>
       <xi:include href="./sections/8-173.62.xml"/>
       <xi:include href="./sections/8-173.63.xml"/>
@@ -390,7 +390,7 @@
     <prefix>Chapter</prefix>
     <num>1C</num>
     <heading>Commission on Climate Change and Resiliency.</heading>
-    <annotation app="2017-02-18" doc="D.C. Law 21-185" eff="2017-02-18" path="" type="History" display="false"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-185" eff="2017-02-18" path="" target-path="8" type="History" display="false"/>
     <xi:include href="./sections/8-181.01.xml"/>
     <xi:include href="./sections/8-181.02.xml"/>
     <xi:include href="./sections/8-181.03.xml"/>
@@ -401,7 +401,7 @@
     <prefix>Chapter</prefix>
     <num>1C-i</num>
     <heading>Youth Advisory Council on Climate Change and Environmental Conservation. [Not Funded]</heading>
-    <annotation app="2025-12-31" doc="D.C. Law 26-62" eff="2025-12-31" path="" type="History" display="false"/>
+    <annotation app="2025-12-31" doc="D.C. Law 26-62" eff="2025-12-31" path="" target-path="8" type="History" display="false"/>
     <xi:include href="./sections/8-183.01.xml"/>
     <xi:include href="./sections/8-183.02.xml"/>
   </container>
@@ -409,7 +409,7 @@
     <prefix>Chapter</prefix>
     <num>1D</num>
     <heading>Office of District Waterways Management.</heading>
-    <annotation app="2023-03-22" doc="D.C. Law 24-336" eff="2023-03-22" path="" type="History" display="false"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-336" eff="2023-03-22" path="" target-path="8" type="History" display="false"/>
     <xi:include href="./sections/8-191.01.xml"/>
     <xi:include href="./sections/8-191.02.xml"/>
     <xi:include href="./sections/8-191.03.xml"/>
@@ -495,7 +495,7 @@
     <prefix>Chapter</prefix>
     <num>3A</num>
     <heading>Green Yards Recognition Program.</heading>
-    <annotation app="2017-03-11" doc="D.C. Law 21-222" eff="2017-03-11" path="" type="History" display="false"/>
+    <annotation app="2017-03-11" doc="D.C. Law 21-222" eff="2017-03-11" path="" target-path="8" type="History" display="false"/>
     <xi:include href="./sections/8-351.xml"/>
     <xi:include href="./sections/8-352.xml"/>
     <xi:include href="./sections/8-353.xml"/>
@@ -567,7 +567,7 @@
     <prefix>Chapter</prefix>
     <num>5A</num>
     <heading>Nonwoven Disposable Products.</heading>
-    <annotation app="2017-03-11" doc="D.C. Law 21-220" eff="2017-03-11" path="" type="History" display="false"/>
+    <annotation app="2017-03-11" doc="D.C. Law 21-220" eff="2017-03-11" path="" target-path="|8" type="History" display="false"/>
     <xi:include href="./sections/8-521.xml"/>
     <xi:include href="./sections/8-522.xml"/>
     <xi:include href="./sections/8-523.xml"/>
@@ -729,9 +729,9 @@
   <container>
     <prefix>Chapter</prefix>
     <num>7C</num>
-    <heading>Trash Compactor Grant Program. [Repealed]<annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7163" type="History"/></heading>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7163" type="History" display="false"/>
-    <annotation app="2015-03-11" doc="D.C. Law 20-223" eff="2015-03-11" path="" type="History" display="false"/>
+    <heading>Trash Compactor Grant Program. [Repealed]<annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7163" target-path="8|7C|heading" type="History"/></heading>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7163" target-path="" type="History" display="false"/>
+    <annotation app="2015-03-11" doc="D.C. Law 20-223" eff="2015-03-11" path="" target-path="8" type="History" display="false"/>
     <xi:include href="./sections/8-751.xml"/>
     <xi:include href="./sections/8-752.xml"/>
     <xi:include href="./sections/8-753.xml"/>
@@ -740,14 +740,14 @@
     <prefix>Chapter</prefix>
     <num>7D</num>
     <heading>Compost Drop-Off Program.</heading>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="VI" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="VI" target-path="8" type="History" display="false"/>
     <xi:include href="./sections/8-761.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>7E</num>
     <heading>Battery Producer Responsibility.</heading>
-    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" target-path="8" type="History" display="false"/>
     <xi:include href="./sections/8-771.01.xml"/>
     <xi:include href="./sections/8-771.02.xml"/>
     <xi:include href="./sections/8-771.03.xml"/>
@@ -827,7 +827,7 @@
     <prefix>Chapter</prefix>
     <num>10A</num>
     <heading>Solid Waste Reduction and Recovery.</heading>
-    <annotation app="2015-02-26" doc="D.C. Law 20-154" eff="2015-02-26" path="I" type="History" display="false"/>
+    <annotation app="2015-02-26" doc="D.C. Law 20-154" eff="2015-02-26" path="I" target-path="8" type="History" display="false"/>
     <xi:include href="./sections/8-1031.01.xml"/>
     <xi:include href="./sections/8-1031.02.xml"/>
     <xi:include href="./sections/8-1031.03.xml"/>
@@ -860,7 +860,7 @@
     <prefix>Chapter</prefix>
     <num>10B</num>
     <heading>Extended Manufacturer Responsibility for Electronic Waste.</heading>
-    <annotation app="2015-02-26" doc="D.C. Law 20-154" eff="2015-02-26" path="I" type="History" display="false"/>
+    <annotation app="2015-02-26" doc="D.C. Law 20-154" eff="2015-02-26" path="I" target-path="8" type="History" display="false"/>
     <xi:include href="./sections/8-1041.01.xml"/>
     <xi:include href="./sections/8-1041.02.xml"/>
     <xi:include href="./sections/8-1041.03.xml"/>
@@ -878,7 +878,7 @@
     <prefix>Chapter</prefix>
     <num>10B-i</num>
     <heading>Office of the Clean City.</heading>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§6122" type="History" display="false"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§6122" target-path="8" type="History" display="false"/>
     <xi:include href="./sections/8-1045.xml"/>
   </container>
   <container>
@@ -912,22 +912,22 @@
     <xi:include href="./sections/8-1076.xml"/>
     <xi:include href="./sections/8-1077.xml"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-104" path="§7056" codified:display="Note" app="2017-07-20" eff="2017-07-20">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-104" path="§7056">§ 7056 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, July 20, 2017, 64 DCR 7032)</cite>.</annotation>
-    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7056" type="History" display="false"/>
+    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7056" target-path="8|10D" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§7056" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-167" path="§7056">§ 7056 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
-    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7056" type="History" display="false"/>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7056" type="History"/>
+    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7056" target-path="8|10D" type="History" display="false"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7056" target-path="8|10D" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>10E</num>
     <heading>Clean Curbs Pilot Program.</heading>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="VI" type="History" display="false"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="VI" target-path="8" type="History" display="false"/>
     <xi:include href="./sections/8-1090.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>11</num>
-    <heading>Multi-Material Recycling Systems. [Repealed]<annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6035" type="History"/></heading>
+    <heading>Multi-Material Recycling Systems. [Repealed]<annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6035" target-path="8|11|heading" type="History"/></heading>
     <xi:include href="./sections/8-1101.xml"/>
     <xi:include href="./sections/8-1102.xml"/>
   </container>
@@ -1032,15 +1032,15 @@
     <xi:include href="./sections/8-1505.xml"/>
     <xi:include href="./sections/8-1506.xml"/>
     <annotation type="Applicability" doc="D.C. Law 25-277" path="§10" codified:display="Note" app="2025-03-07" eff="2025-03-07">Applicability of <cite doc="D.C. Law 25-277" path="">D.C. Law 25-277</cite>: <cite doc="D.C. Law 25-277" path="§11">§ 11 of D.C. Law 25-277</cite> provided that the repeal of this section by <cite doc="D.C. Law 25-277" path="§10">§ 10 of D.C. Law 25-277</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2025-03-07" doc="D.C. Law 25-277" eff="2025-03-07" path="§10" type="History"/>
-    <annotation app="2025-03-07" doc="D.C. Law 25-277" eff="2025-03-07" path="§11|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-277" eff="2025-03-07" path="§10" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-277" eff="2025-03-07" path="§10" target-path="§10" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-277" eff="2025-03-07" path="§11|(a)" target-path="§10" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 25-277" eff="2025-03-07" path="§10" target-path="8|15" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>15A</num>
     <heading>Management of Disposable Food Service Ware.</heading>
-    <annotation app="2014-12-17" doc="D.C. Law 20-142" eff="2014-12-17" path="IV" type="History" display="false"/>
+    <annotation app="2014-12-17" doc="D.C. Law 20-142" eff="2014-12-17" path="IV" target-path="8" type="History" display="false"/>
     <xi:include href="./sections/8-1531.xml"/>
     <xi:include href="./sections/8-1532.xml"/>
     <xi:include href="./sections/8-1533.xml"/>
@@ -1053,7 +1053,7 @@
     <prefix>Chapter</prefix>
     <num>15B</num>
     <heading>Radiation Protection.</heading>
-    <annotation app="2025-03-07" doc="D.C. Law 25-277" eff="2025-03-07" path="" type="History" display="false"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-277" eff="2025-03-07" path="" target-path="8" type="History" display="false"/>
     <xi:include href="./sections/8-1551.xml"/>
     <xi:include href="./sections/8-1552.xml"/>
     <xi:include href="./sections/8-1553.xml"/>
@@ -1105,7 +1105,7 @@
     <prefix>Chapter</prefix>
     <num>17A</num>
     <heading>Natural Resources Conservation.</heading>
-    <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="" type="History" display="false"/>
+    <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="" target-path="8" type="History" display="false"/>
     <xi:include href="./sections/8-1731.01.xml"/>
     <xi:include href="./sections/8-1731.02.xml"/>
     <xi:include href="./sections/8-1731.03.xml"/>
@@ -1131,7 +1131,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>17M-i</num>
-    <heading>Commercial and Local Government Property Energy Conservation.<annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="" type="History"/></heading>
+    <heading>Commercial and Local Government Property Energy Conservation.<annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="" target-path="8|17M-i|heading" type="History"/></heading>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
@@ -1145,7 +1145,7 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Building Energy Performance Standards and Benchmarking.</heading>
-      <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="III" type="History" display="false"/>
+      <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="III" target-path="8|17M-i" type="History" display="false"/>
       <xi:include href="./sections/8-1772.21.xml"/>
       <xi:include href="./sections/8-1772.22.xml"/>
       <xi:include href="./sections/8-1772.23.xml"/>
@@ -1154,12 +1154,12 @@
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Sustainable Energy Infrastructure Capacity Building and Pipeline Program.</heading>
-      <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="" type="History" display="false"/>
+      <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="" target-path="8|17M-i" type="History" display="false"/>
       <xi:include href="./sections/8-1772.31.xml"/>
       <xi:include href="./sections/8-1772.32.xml"/>
       <xi:include href="./sections/8-1772.33.xml"/>
     </container>
-    <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="" type="History" display="false"/>
+    <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="" target-path="8|17M-i" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1199,7 +1199,7 @@
     <prefix>Chapter</prefix>
     <num>17N-i</num>
     <heading>Solar energy Collection Devices for Cooperative Associations.</heading>
-    <annotation app="2018-07-17" doc="D.C. Law 22-142" eff="2018-07-17" path="" type="History" display="false"/>
+    <annotation app="2018-07-17" doc="D.C. Law 22-142" eff="2018-07-17" path="" target-path="8" type="History" display="false"/>
     <xi:include href="./sections/8-1774.51.xml"/>
   </container>
   <container>
@@ -1357,7 +1357,7 @@
       <prefix>Subchapter</prefix>
       <num>VII</num>
       <heading>Dogs allowed in outdoor dining areas of food establishments.</heading>
-      <annotation app="2018-05-05" doc="D.C. Law 22-91" eff="2018-05-05" path="" type="History" display="false"/>
+      <annotation app="2018-05-05" doc="D.C. Law 22-91" eff="2018-05-05" path="" target-path="8|18" type="History" display="false"/>
       <xi:include href="./sections/8-1865.01.xml"/>
       <xi:include href="./sections/8-1865.02.xml"/>
     </container>
@@ -1475,7 +1475,7 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Game and Fish.</heading>
-      <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="" type="History" display="false"/>
+      <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="" target-path="8|22" type="History" display="false"/>
       <xi:include href="./sections/8-2221.01.xml"/>
       <xi:include href="./sections/8-2221.02.xml"/>
       <xi:include href="./sections/8-2221.03.xml"/>
@@ -1514,12 +1514,12 @@
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Fishing.</heading>
-      <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="" type="History" display="false"/>
+      <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="" target-path="8|22" type="History" display="false"/>
       <container>
         <prefix>Part</prefix>
         <num>A</num>
         <heading>Authorizing Fishing Licensure by Private Entities.</heading>
-        <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="" type="History" display="false"/>
+        <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="" target-path="8|22|III" type="History" display="false"/>
         <xi:include href="./sections/8-2231.01.xml"/>
         <xi:include href="./sections/8-2231.02.xml"/>
         <xi:include href="./sections/8-2231.03.xml"/>
@@ -1531,7 +1531,7 @@
         <prefix>Part</prefix>
         <num>B</num>
         <heading>Establishing and Clarifying Fishing Authorities.</heading>
-        <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="" type="History" display="false"/>
+        <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="" target-path="8|22|III" type="History" display="false"/>
         <xi:include href="./sections/8-2231.11.xml"/>
         <xi:include href="./sections/8-2231.12.xml"/>
       </container>
@@ -1540,7 +1540,7 @@
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Migratory Local Wildlife Protection.</heading>
-      <annotation app="2023-03-22" doc="D.C. Law 24-337" eff="2023-03-22" path="" type="History" display="false"/>
+      <annotation app="2023-03-22" doc="D.C. Law 24-337" eff="2023-03-22" path="" target-path="8|22" type="History" display="false"/>
       <xi:include href="./sections/8-2241.01.xml"/>
       <xi:include href="./sections/8-2241.02.xml"/>
       <xi:include href="./sections/8-2241.03.xml"/>

@@ -116,14 +116,14 @@
   <annotations>
     <annotation doc="D.C. Law 20-66" type="History" path="§6">Feb. 22, 2014, D.C. Law 20-66, § 6, 61 DCR 7</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§48-853.02">§ 48-853.02</cite>.</annotation>
-    <annotation app="2019-04-11" doc="D.C. Law 22-288" eff="2019-04-11" path="§401|(c)" type="History"/>
+    <annotation app="2019-04-11" doc="D.C. Law 22-288" eff="2019-04-11" path="§401|(c)" target-path="§48-853.05|(b)|(5)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" codified:display="Note" app="2019-07-22" eff="2019-07-22" path="§7168">For temporary (90 days) repeal of applicability provision of D.C. Law 22-288, see <cite doc="D.C. Act 23-91" path="§7168">§ 7168 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
-    <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7168" type="History" display="false"/>
+    <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7168" target-path="" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" codified:display="Note" app="2019-09-04" eff="2019-09-04" path="§7168">For temporary (90 days) repeal of applicability provision of D.C. Law 22-288, see <cite doc="D.C. Act 23-112" path="§7168">§ 7168 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
-    <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7168" type="History" display="false"/>
-    <annotation app="2024-02-15" doc="D.C. Law 25-125" eff="2024-02-15" path="§2|(a)|(1)" type="History"/>
-    <annotation app="2024-02-15" doc="D.C. Law 25-125" eff="2024-02-15" path="§2|(a)|(2)" type="History"/>
-    <annotation app="2024-02-15" doc="D.C. Law 25-125" eff="2024-02-15" path="§2|(a)|(3)" type="History"/>
-    <annotation app="2024-02-15" doc="D.C. Law 25-125" eff="2024-02-15" path="§2|(b)" type="History"/>
+    <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7168" target-path="" type="History" display="false"/>
+    <annotation app="2024-02-15" doc="D.C. Law 25-125" eff="2024-02-15" path="§2|(a)|(1)" target-path="§48-853.05|(c)|(1)|(F)" type="History"/>
+    <annotation app="2024-02-15" doc="D.C. Law 25-125" eff="2024-02-15" path="§2|(a)|(2)" target-path="§48-853.05|(c)|(1)|(G)|(ii)" type="History"/>
+    <annotation app="2024-02-15" doc="D.C. Law 25-125" eff="2024-02-15" path="§2|(a)|(3)" target-path="§48-853.05|(c)|(1)" type="History"/>
+    <annotation app="2024-02-15" doc="D.C. Law 25-125" eff="2024-02-15" path="§2|(b)" target-path="§48-853.05|(c)" type="History"/>
   </annotations>
 </section>

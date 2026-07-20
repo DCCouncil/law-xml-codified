@@ -84,10 +84,13 @@
   </para>
   <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§31-3875.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§31-3875.01">Applicability of <cite doc="D.C. Law 25-100" path="">D.C. Law 25-100</cite>: <cite doc="D.C. Law 25-100" path="§301">§ 301 of D.C. Law 25-100</cite> provided that the creation of paragraphs (5) and (10)(C)and (D) of this section by <cite doc="D.C. Law 25-100" path="§101">§ 101 of D.C. Law 25-100</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="2020-10-20" doc="D.C. Law 23-135" eff="2020-10-20" path="" type="History" display="false"/>
-    <annotation app="2024-01-17" doc="D.C. Law 25-100" eff="2024-01-17" path="" type="History" display="false"/>
-    <annotation app="2024-01-17" doc="D.C. Law 25-100" eff="2024-01-17" path="§301|(a)" type="History" display="false"/>
-    <annotation app="2024-01-17" doc="D.C. Law 25-100" eff="2024-01-17" path="§101" type="History"/>
+    <annotation app="2020-10-20" doc="D.C. Law 23-135" eff="2020-10-20" path="" target-path="31" type="History" display="false"/>
+    <annotation app="2024-01-17" doc="D.C. Law 25-100" eff="2024-01-17" path="" target-path="31" type="History" display="false"/>
+    <annotation app="2024-01-17" doc="D.C. Law 25-100" eff="2024-01-17" path="§301|(a)" target-path="§101|(5)" type="History" display="false"/>
+    <annotation app="2024-01-17" doc="D.C. Law 25-100" eff="2024-01-17" path="§301|(a)" target-path="§101|(10)|(C)" type="History" display="false"/>
+    <annotation app="2024-01-17" doc="D.C. Law 25-100" eff="2024-01-17" path="§301|(a)" target-path="§101|(10)|(D)" type="History" display="false"/>
+    <annotation app="2024-01-17" doc="D.C. Law 25-100" eff="2024-01-17" path="§101" target-path="31|38F" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 25-100" path="§101" codified:display="Note" app="2024-01-17" eff="2024-01-17">Applicability of <cite doc="D.C. Law 25-100" path="">D.C. Law 25-100</cite>: <cite doc="D.C. Law 25-100" path="§301">§ 301 of D.C. Law 25-100</cite> provided that the creation of paragraphs (5) and (10)(C)and (D) of this section by <cite doc="D.C. Law 25-100" path="§101">§ 101 of D.C. Law 25-100</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2024-01-17" doc="D.C. Law 25-100" eff="2024-01-17" path="§101" target-path="§31-3875.01" type="History"/>
   </annotations>
 </section>

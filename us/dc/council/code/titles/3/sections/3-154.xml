@@ -42,16 +42,16 @@
     <annotation type="Expiration of Law">
             Section 3127 of D.C. Law 21-160 provided that this section shall expire on October 1, 2018.
           </annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="III" type="History" display="false"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3125" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="III" target-path="3" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3125" target-path="3|1A" type="History"/>
     <annotation doc="D.C. Law 22-168" path="§3002|(b)" type="Expiration of Law" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§3002|(b)">Section 3002(b) of D.C. Law 22-168</cite> amended <cite doc="D.C. Law 21-160" path="§3127">section 3127 of D.C. Law 21-160</cite> providing that this section shall expire on October 1, 2019.
            </annotation>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3002|(b)" type="History" display="false"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§3002|(d)|(1)" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§3002|(d)|(2)" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§3002|(d)|(3)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3002|(b)" target-path="§3-154" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§3002|(d)|(1)" target-path="§3-154|(a)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§3002|(d)|(2)" target-path="§3-154|(b)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§3002|(d)|(3)" target-path="§3-154" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§3012|(b)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§3012|(b)">§ 3012(b) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§3012|(b)" type="History" display="false"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§3012|(b)" type="History"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§3012|(b)" target-path="§3-154" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§3012|(b)" target-path="§3-154|(c)" type="History"/>
   </annotations>
 </section>

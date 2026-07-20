@@ -49,7 +49,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>2</num>
-    <heading>Government Contracts and Business Development.<annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="II|Q" type="History" display="false"/></heading>
+    <heading>Government Contracts and Business Development.<annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="II|Q" target-path="2|2|heading" type="History" display="false"/></heading>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
@@ -260,7 +260,7 @@
         <prefix>Part</prefix>
         <num>D-i</num>
         <heading>Programs for equity impact enterprises.</heading>
-        <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="II" type="History" display="false"/>
+        <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="II" target-path="2|2|IX-A" type="History" display="false"/>
         <xi:include href="./sections/2-218.77.xml"/>
       </container>
       <container>
@@ -338,7 +338,7 @@
       <prefix>Subchapter</prefix>
       <num>XI-A</num>
       <heading>Reimbursement of indirect costs to non-profit organizations.</heading>
-      <annotation app="2021-03-16" doc="D.C. Law 23-185" eff="2021-03-16" path="" type="History" display="false"/>
+      <annotation app="2021-03-16" doc="D.C. Law 23-185" eff="2021-03-16" path="" target-path="2|2" type="History" display="false"/>
       <xi:include href="./sections/2-222.01.xml"/>
       <xi:include href="./sections/2-222.02.xml"/>
       <xi:include href="./sections/2-222.03.xml"/>
@@ -444,7 +444,7 @@
     <prefix>Chapter</prefix>
     <num>2B</num>
     <heading>Equitable Impact Assistance for Local Businesses.</heading>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="II" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="II" target-path="2" type="History" display="false"/>
     <xi:include href="./sections/2-281.01.xml"/>
     <xi:include href="./sections/2-281.02.xml"/>
     <xi:include href="./sections/2-281.03.xml"/>
@@ -874,24 +874,24 @@
       <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>Vendors participating in WIC.</heading>
-      <annotation app="2019-03-22" doc="D.C. Law 22-255" eff="2019-03-22" path="" type="History" display="false"/>
+      <annotation app="2019-03-22" doc="D.C. Law 22-255" eff="2019-03-22" path="" target-path="2|3B" type="History" display="false"/>
       <xi:include href="./sections/2-381.51.xml"/>
       <xi:include href="./sections/2-381.52.xml"/>
       <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" path="§7163" codified:display="Note" app="2019-07-22" eff="2019-07-22">For temporary (90 days) repeal of applicability provision of D.C. Law 22-255, see <cite doc="D.C. Act 23-91" path="§7163">§ 7163 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
-      <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7163" type="History" display="false"/>
+      <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7163" target-path="2|3B|V" type="History" display="false"/>
       <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§7163" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) repeal of applicability provision of D.C. Law 22-255, see <cite doc="D.C. Act 23-112" path="§7163">§ 7163 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
-      <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7163" type="History" display="false"/>
+      <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7163" target-path="2|3B|V" type="History" display="false"/>
       <annotation doc="D.C. Law 23-16" path="§7163" type="Applicability" history="false" app="2019-09-11" eff="2019-09-11">
           Applicability of <cite doc="D.C. Law 22-255">D.C. Law 22-255</cite>: <cite doc="D.C. Law 23-16" path="§7163">§ 7163 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-255" path="§4">§ 4 of D.C. Law 22-255</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-255">D.C. Law 22-255</cite> has been implemented.
         </annotation>
-      <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7163" type="History" display="false"/>
+      <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7163" target-path="2|3B|V" type="History" display="false"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>3D</num>
     <heading>Business Recovery Task Force.</heading>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="" target-path="2" type="History" display="false"/>
     <xi:include href="./sections/2-393.01.xml"/>
     <xi:include href="./sections/2-393.02.xml"/>
     <xi:include href="./sections/2-393.03.xml"/>
@@ -1016,17 +1016,17 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>V</num>
-      <heading>Open Government Office. [Repealed]<annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§1084|(e)" type="History"/></heading>
+      <heading>Open Government Office. [Repealed]<annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§1084|(e)" target-path="2|5|V|heading" type="History"/></heading>
       <reason>Repealed</reason>
       <xi:include href="./sections/2-591.xml"/>
       <xi:include href="./sections/2-592.xml"/>
       <xi:include href="./sections/2-593.xml"/>
       <xi:include href="./sections/2-594.xml"/>
       <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-434" path="§1084|(e)" codified:display="Note" app="2018-07-30" eff="2018-07-30">For temporary (90 days) repeal of this subchapter, see <cite doc="D.C. Act 22-434" path="§1084|(e)">§ 1084(e) of Fiscal Year 2019 Budget Support Emergency Act of 2018 (D.C. Act 22-434, July 30, 2018, 65 DCR 8200)</cite>.</annotation>
-      <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§1084|(e)" type="History" display="false"/>
+      <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§1084|(e)" target-path="2|5|V" type="History" display="false"/>
       <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§1084|(e)" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) repeal of this subchapter, see <cite doc="D.C. Act 22-458" path="§1084|(e)">§ 1084(e) of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
-      <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§1084|(e)" type="History" display="false"/>
-      <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§1084|(e)" type="History"/>
+      <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§1084|(e)" target-path="2|5|V" type="History" display="false"/>
+      <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§1084|(e)" target-path="2|5|V" type="History"/>
     </container>
   </container>
   <container>
@@ -1068,7 +1068,7 @@
       <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>Uniform Electronic Legal Material Act.</heading>
-      <annotation app="2017-04-07" doc="D.C. Law 21-251" eff="2017-04-07" path="" type="History" display="false"/>
+      <annotation app="2017-04-07" doc="D.C. Law 21-251" eff="2017-04-07" path="" target-path="|2|6" type="History" display="false"/>
       <xi:include href="./sections/2-651.01.xml"/>
       <xi:include href="./sections/2-651.02.xml"/>
       <xi:include href="./sections/2-651.03.xml"/>
@@ -1227,7 +1227,7 @@
         <heading>Office of Motion Picture and Television Development. [Repealed]</heading>
         <xi:include href="./sections/2-1204.01.xml"/>
         <xi:include href="./sections/2-1204.02.xml"/>
-        <annotation app="2024-07-19" doc="D.C. Law 25-190" eff="2024-07-19" path="§10|(a)" type="History" display="false"/>
+        <annotation app="2024-07-19" doc="D.C. Law 25-190" eff="2024-07-19" path="§10|(a)" target-path="2|12|II-A|A" type="History" display="false"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -1246,7 +1246,7 @@
         <prefix>Part</prefix>
         <num>C</num>
         <heading>Open Movie Captioning Requirement.</heading>
-        <annotation app="2024-07-19" doc="D.C. Law 25-190" eff="2024-07-19" path="" type="History" display="false"/>
+        <annotation app="2024-07-19" doc="D.C. Law 25-190" eff="2024-07-19" path="" target-path="2|12|II-A" type="History" display="false"/>
         <xi:include href="./sections/2-1204.21.xml"/>
         <xi:include href="./sections/2-1204.22.xml"/>
         <xi:include href="./sections/2-1204.23.xml"/>
@@ -1295,7 +1295,7 @@
       <prefix>Subchapter</prefix>
       <num>IV-B</num>
       <heading>Made in DC Program.</heading>
-      <annotation app="2016-07-01" doc="D.C. Law 21-135" eff="2016-07-01" path="" type="History" display="false"/>
+      <annotation app="2016-07-01" doc="D.C. Law 21-135" eff="2016-07-01" path="" target-path="2|12" type="History" display="false"/>
       <xi:include href="./sections/2-1208.31.xml"/>
       <xi:include href="./sections/2-1208.32.xml"/>
       <xi:include href="./sections/2-1208.33.xml"/>
@@ -1349,13 +1349,13 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>V-C</num>
-      <heading>Incarceration to Incorporation Entrepreneurship Program. [Repealed]<annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7182" type="History"/></heading>
+      <heading>Incarceration to Incorporation Entrepreneurship Program. [Repealed]<annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7182" target-path="2|12|V-C|heading" type="History"/></heading>
       <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" codified:display="Note" app="2019-07-22" eff="2019-07-22" path="§7182" display="false">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 23-91" path="§7182">§ 7182 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
-      <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7182" type="History" display="false"/>
+      <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7182" target-path="" type="History" display="false"/>
       <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" codified:display="Note" app="2019-09-04" eff="2019-09-04" path="§7182" display="false">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 23-112" path="§7182">§ 7182 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
-      <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7182" type="History" display="false"/>
-      <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7182" type="History" display="false"/>
-      <annotation app="2016-10-08" doc="D.C. Law 21-159" eff="2016-10-08" path="" type="History" display="false"/>
+      <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7182" target-path="" type="History" display="false"/>
+      <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7182" target-path="" type="History" display="false"/>
+      <annotation app="2016-10-08" doc="D.C. Law 21-159" eff="2016-10-08" path="" target-path="2|12" type="History" display="false"/>
       <xi:include href="./sections/2-1210.51.xml"/>
       <xi:include href="./sections/2-1210.52.xml"/>
       <xi:include href="./sections/2-1210.53.xml"/>
@@ -1366,21 +1366,21 @@
       <prefix>Subchapter</prefix>
       <num>V-D</num>
       <heading>Kennedy Street, N.W., Economic Development and Small Business Revitalization Advisory Committee.</heading>
-      <annotation app="2017-02-18" doc="D.C. Law 21-184" eff="2017-02-18" path="" type="History" display="false"/>
+      <annotation app="2017-02-18" doc="D.C. Law 21-184" eff="2017-02-18" path="" target-path="|2|12" type="History" display="false"/>
       <xi:include href="./sections/2-1210.61.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>V-E</num>
       <heading>Neighborhood Prosperity Initiative.</heading>
-      <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="II|B" type="History" display="false"/>
+      <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="II|B" target-path="2|12" type="History" display="false"/>
       <xi:include href="./sections/2-1210.71.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>V-F</num>
       <heading>SSBCI-Venture Capital Program.</heading>
-      <annotation app="2023-02-23" doc="D.C. Law 24-259" eff="2023-02-23" path="" type="History" display="false"/>
+      <annotation app="2023-02-23" doc="D.C. Law 24-259" eff="2023-02-23" path="" target-path="2|12" type="History" display="false"/>
       <xi:include href="./sections/2-1210.81.xml"/>
     </container>
     <container>
@@ -1434,14 +1434,14 @@
       <prefix>Subchapter</prefix>
       <num>VI-B</num>
       <heading>Prohibition on Grocery Store Restrictive Covenants.</heading>
-      <annotation app="2018-07-17" doc="D.C. Law 22-138" eff="2018-07-17" path="" type="History" display="false"/>
+      <annotation app="2018-07-17" doc="D.C. Law 22-138" eff="2018-07-17" path="" target-path="2|12" type="History" display="false"/>
       <xi:include href="./sections/2-1212.61.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VI-C</num>
       <heading>East End Grocery Incentive.</heading>
-      <annotation app="2019-04-11" doc="D.C. Law 22-284" eff="2019-04-11" path="" type="History" display="false"/>
+      <annotation app="2019-04-11" doc="D.C. Law 22-284" eff="2019-04-11" path="" target-path="2|12" type="History" display="false"/>
       <xi:include href="./sections/2-1212.71.xml"/>
       <xi:include href="./sections/2-1212.72.xml"/>
       <xi:include href="./sections/2-1212.73.xml"/>
@@ -1608,19 +1608,19 @@
         <container>
           <prefix>Subpart</prefix>
           <num>6</num>
-          <heading>Union Market District. [Repealed]<annotation app="2018-02-15" doc="D.C. Law 22-58" eff="2018-02-15" path="§15" type="History"/></heading>
+          <heading>Union Market District. [Repealed]<annotation app="2018-02-15" doc="D.C. Law 22-58" eff="2018-02-15" path="§15" target-path="2|12|IX|B|6|heading" type="History"/></heading>
           <reason>Repealed</reason>
           <xi:include href="./sections/2-1217.36a.xml"/>
           <xi:include href="./sections/2-1217.36b.xml"/>
           <xi:include href="./sections/2-1217.36c.xml"/>
           <xi:include href="./sections/2-1217.36d.xml"/>
-          <annotation app="2018-02-15" doc="D.C. Law 22-58" eff="2018-02-15" path="§15" type="History"/>
+          <annotation app="2018-02-15" doc="D.C. Law 22-58" eff="2018-02-15" path="§15" target-path="2|12|IX|B|6" type="History"/>
         </container>
         <container>
           <prefix>Subpart</prefix>
           <num>6A</num>
           <heading>Union Market.</heading>
-          <annotation app="2018-02-15" doc="D.C. Law 22-58" eff="2018-02-15" path="" type="History" display="false"/>
+          <annotation app="2018-02-15" doc="D.C. Law 22-58" eff="2018-02-15" path="" target-path="2|12|IX|B" type="History" display="false"/>
           <xi:include href="./sections/2-1217.36e.xml"/>
           <xi:include href="./sections/2-1217.36f.xml"/>
           <xi:include href="./sections/2-1217.36g.xml"/>
@@ -1639,7 +1639,7 @@
           <prefix>Subpart</prefix>
           <num>7</num>
           <heading>Bryant Street.</heading>
-          <annotation app="2017-04-07" doc="D.C. Law 21-262" eff="2017-04-07" path="" type="History" display="false"/>
+          <annotation app="2017-04-07" doc="D.C. Law 21-262" eff="2017-04-07" path="" target-path="2|12|IX|B" type="History" display="false"/>
           <xi:include href="./sections/2-1217.37a.xml"/>
           <xi:include href="./sections/2-1217.37b.xml"/>
           <xi:include href="./sections/2-1217.37c.xml"/>
@@ -1658,19 +1658,19 @@
         <container>
           <prefix>Subpart</prefix>
           <num>8</num>
-          <heading>High unemployment areas. [Repealed]<annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7104" type="History"/></heading>
+          <heading>High unemployment areas. [Repealed]<annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7104" target-path="2|12|IX|B|8|heading" type="History"/></heading>
           <reason>Repealed</reason>
           <reason>Not Funded</reason>
-          <annotation app="notfunded" doc="D.C. Law 22-85" eff="2018-04-25" path="§301|(a)" type="History" display="false"/>
-          <annotation app="notfunded" doc="D.C. Law 22-85" eff="2018-04-25" path="" type="History" display="false"/>
+          <annotation app="notfunded" doc="D.C. Law 22-85" eff="2018-04-25" path="§301|(a)" target-path="" type="History" display="false"/>
+          <annotation app="notfunded" doc="D.C. Law 22-85" eff="2018-04-25" path="" target-path="2|12|IX|B" type="History" display="false"/>
           <xi:include href="./sections/2-1217.38.xml"/>
-          <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7104" type="History"/>
+          <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7104" target-path="2|12|IX|B|8" type="History"/>
         </container>
         <container>
           <prefix>Subpart</prefix>
           <num>9</num>
           <heading>Rhode Island Avenue Project.</heading>
-          <annotation app="2019-03-22" doc="D.C. Law 22-263" eff="2019-03-22" path="" type="History" display="false"/>
+          <annotation app="2019-03-22" doc="D.C. Law 22-263" eff="2019-03-22" path="" target-path="2|12|IX|B" type="History" display="false"/>
           <xi:include href="./sections/2-1217.39a.xml"/>
           <xi:include href="./sections/2-1217.39b.xml"/>
           <xi:include href="./sections/2-1217.39c.xml"/>
@@ -1687,19 +1687,19 @@
           <xi:include href="./sections/2-1217.39n.xml"/>
           <xi:include href="./sections/2-1217.39o.xml"/>
           <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" path="§7165" codified:display="Note" app="2019-07-22" eff="2019-07-22">For temporary (90 days) repeal of applicability provision of D.C. Law 22-263, see <cite doc="D.C. Act 23-91" path="§7165">§ 7165 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
-          <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7165" type="History" display="false"/>
+          <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7165" target-path="2|12|IX|B|9" type="History" display="false"/>
           <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§7165" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) repeal of applicability provision of D.C. Law 22-263, see <cite doc="D.C. Act 23-112" path="§7165">§ 7165 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
-          <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7165" type="History" display="false"/>
+          <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7165" target-path="2|12|IX|B|9" type="History" display="false"/>
           <annotation doc="D.C. Law 23-16" path="§7165" type="Applicability" history="false" app="2019-09-11" eff="2019-09-11">
           Applicability of <cite doc="D.C. Law 22-263">D.C. Law 22-263</cite>: <cite doc="D.C. Law 23-16" path="§7165">§ 7165 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-263" path="§16">§ 16 of D.C. Law 22-263</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-263">D.C. Law 22-263</cite> has been implemented.
         </annotation>
-          <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7165" type="History" display="false"/>
+          <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7165" target-path="2|12|IX|B|9" type="History" display="false"/>
         </container>
         <container>
           <prefix>Subpart</prefix>
           <num>10</num>
           <heading>Reunion Square.</heading>
-          <annotation app="2021-03-16" doc="D.C. Law 23-202" eff="2021-03-16" path="" type="History" display="false"/>
+          <annotation app="2021-03-16" doc="D.C. Law 23-202" eff="2021-03-16" path="" target-path="2|12|IX|B" type="History" display="false"/>
           <xi:include href="./sections/2-1217.40a.xml"/>
           <xi:include href="./sections/2-1217.40b.xml"/>
           <xi:include href="./sections/2-1217.40c.xml"/>
@@ -2040,7 +2040,7 @@
       <prefix>Subchapter</prefix>
       <num>XV</num>
       <heading>Walter Reed Development</heading>
-      <annotation app="2016-05-18" doc="D.C. Law 21-119" eff="2016-05-18" path="" type="History" display="false"/>
+      <annotation app="2016-05-18" doc="D.C. Law 21-119" eff="2016-05-18" path="" target-path="2|12" type="History" display="false"/>
       <xi:include href="./sections/2-1227.01.xml"/>
       <xi:include href="./sections/2-1227.02.xml"/>
       <xi:include href="./sections/2-1227.03.xml"/>
@@ -2053,7 +2053,7 @@
       <prefix>Subchapter</prefix>
       <num>XVI</num>
       <heading>Interactive Wayfinding Kiosks.</heading>
-      <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="II" type="History" display="false"/>
+      <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="II" target-path="2|12" type="History" display="false"/>
       <xi:include href="./sections/2-1228.01.xml"/>
       <xi:include href="./sections/2-1228.02.xml"/>
       <xi:include href="./sections/2-1228.03.xml"/>
@@ -2150,7 +2150,7 @@
     <prefix>Chapter</prefix>
     <num>13D</num>
     <heading>Office on African American Affairs.</heading>
-    <annotation app="2018-02-17" doc="D.C. Law 22-59" eff="2018-02-17" path="" type="History" display="false"/>
+    <annotation app="2018-02-17" doc="D.C. Law 22-59" eff="2018-02-17" path="" target-path="2" type="History" display="false"/>
     <xi:include href="./sections/2-1398.01.xml"/>
     <xi:include href="./sections/2-1398.02.xml"/>
   </container>
@@ -2254,17 +2254,17 @@
           <prefix>Part</prefix>
           <num>J</num>
           <heading>Health Care Professionals.</heading>
-          <annotation app="2020-05-06" doc="D.C. Law 23-90" eff="2020-05-06" path="§2|(b)|(2)" type="History" display="false"/>
+          <annotation app="2020-05-06" doc="D.C. Law 23-90" eff="2020-05-06" path="§2|(b)|(2)" target-path="2|14|A|II" type="History" display="false"/>
           <xi:include href="./sections/2-1402.91.xml"/>
           <xi:include href="./sections/2-1402.92.xml"/>
           <annotation type="Applicability" doc="D.C. Law 23-90" path="§2|(b)|(2)" codified:display="Note" app="2020-05-06" eff="2020-05-06">Applicability of <cite doc="D.C. Law 23-90" path="">D.C. Law 23-90</cite>: <cite doc="D.C. Law 23-90" path="§3">§ 3 of D.C. Law 23-90</cite> provided that the creation of this section by <cite doc="D.C. Law 23-90" path="§2|(b)|(2)">§ 2(b)(2) of D.C. Law 23-90</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-          <annotation app="2020-05-06" doc="D.C. Law 23-90" eff="2020-05-06" path="§2|(b)|(2)" type="History"/>
+          <annotation app="2020-05-06" doc="D.C. Law 23-90" eff="2020-05-06" path="§2|(b)|(2)" target-path="2|14|A|II|J" type="History"/>
         </container>
         <container>
           <prefix>Part</prefix>
           <num>K</num>
           <heading>Long-Term Care Facilities.</heading>
-          <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="" type="History" display="false"/>
+          <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="" target-path="2|14|A|II" type="History" display="false"/>
           <xi:include href="./sections/2-1402.101.xml"/>
           <xi:include href="./sections/2-1402.102.xml"/>
           <xi:include href="./sections/2-1402.103.xml"/>
@@ -2338,7 +2338,7 @@
     <prefix>Chapter</prefix>
     <num>14A</num>
     <heading>Human Rights Sanctuary - Right to Bodily Autonomy.</heading>
-    <annotation app="2023-02-23" doc="D.C. Law 24-257" eff="2023-02-23" path="" type="History" display="false"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-257" eff="2023-02-23" path="" target-path="2" type="History" display="false"/>
     <xi:include href="./sections/2-1461.01.xml"/>
     <xi:include href="./sections/2-1461.02.xml"/>
   </container>
@@ -2346,7 +2346,7 @@
     <prefix>Chapter</prefix>
     <num>14B</num>
     <heading>Office of Racial Equity and Commission on Racial Equality, Social Justice, and Economic Inclusion.</heading>
-    <annotation app="2021-03-16" doc="D.C. Law 23-181" eff="2021-03-16" path="" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-181" eff="2021-03-16" path="" target-path="2" type="History" display="false"/>
     <xi:include href="./sections/2-1471.01.xml"/>
     <xi:include href="./sections/2-1471.02.xml"/>
     <xi:include href="./sections/2-1471.03.xml"/>
@@ -2444,7 +2444,7 @@
       <prefix>Subchapter</prefix>
       <num>I-D</num>
       <heading>Youth Mentorship and Family Engagement.</heading>
-      <annotation app="2025-03-21" doc="D.C. Law 25-306" eff="2025-03-21" path="I" type="History" display="false"/>
+      <annotation app="2025-03-21" doc="D.C. Law 25-306" eff="2025-03-21" path="I" target-path="2|15" type="History" display="false"/>
       <xi:include href="./sections/2-1518.01.xml"/>
       <xi:include href="./sections/2-1518.02.xml"/>
       <xi:include href="./sections/2-1518.03.xml"/>
@@ -2511,10 +2511,10 @@
       <xi:include href="./sections/2-1553.xml"/>
       <xi:include href="./sections/2-1554.xml"/>
       <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-104" path="§7032" codified:display="Note" app="2017-07-20" eff="2017-07-20">For temporary (90 days) repeal of § 12 of D.C. Law 21-261, see <cite doc="D.C. Act 22-104" path="§7032">§ 7032 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, July 20, 2017, 64 DCR 7032)</cite>.</annotation>
-      <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7032" type="History" display="false"/>
+      <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7032" target-path="2|15|III-A" type="History" display="false"/>
       <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§7032" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) repeal of § 12 of D.C. Law 21-261, see <cite doc="D.C. Act 22-167" path="§7032">§ 7032 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
-      <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7032" type="History" display="false"/>
-      <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7032" type="History" display="false"/>
+      <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7032" target-path="2|15|III-A" type="History" display="false"/>
+      <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7032" target-path="2|15|III-A" type="History" display="false"/>
       <annotation doc="D.C. Law 22-33" path="§7032" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13"><cite doc="D.C. Law 22-33" path="§7032">Section 7032 of D.C. Law 22-33</cite> repealed <cite doc="D.C. Law 21-261" path="§12">§ 12 of D.C. Law 21-261</cite>. Therefore the repeal of this section by <cite doc="D.C. Law 21-261">D.C. Law 21-261</cite> has been implemented.
             </annotation>
     </container>
@@ -2522,7 +2522,7 @@
       <prefix>Subchapter</prefix>
       <num>III-B</num>
       <heading>Office of Out of School Time Grants and Youth Outcomes.</heading>
-      <annotation app="2017-04-07" doc="D.C. Law 21-261" eff="2017-04-07" path="" type="History" display="false"/>
+      <annotation app="2017-04-07" doc="D.C. Law 21-261" eff="2017-04-07" path="" target-path="|2|15" type="History" display="false"/>
       <xi:include href="./sections/2-1555.01.xml"/>
       <xi:include href="./sections/2-1555.02.xml"/>
       <xi:include href="./sections/2-1555.03.xml"/>
@@ -2532,12 +2532,12 @@
       <xi:include href="./sections/2-1555.07.xml"/>
       <xi:include href="./sections/2-1555.08.xml"/>
       <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-104" path="§7032" codified:display="Note" app="2017-07-20" eff="2017-07-20">For temporary (90 days) repeal of § 12 of D.C. Law 21-261, see <cite doc="D.C. Act 22-104" path="§7032">§ 7032 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, July 20, 2017, 64 DCR 7032)</cite>.</annotation>
-      <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7032" type="History" display="false"/>
+      <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7032" target-path="2|15|III-B" type="History" display="false"/>
       <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§7032" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) repeal of § 12 of D.C. Law 21-261, see <cite doc="D.C. Act 22-167" path="§7032">§ 7032 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
-      <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7032" type="History" display="false"/>
+      <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7032" target-path="2|15|III-B" type="History" display="false"/>
       <annotation doc="D.C. Law 22-33" path="§7032" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13"><cite doc="D.C. Law 22-33" path="§7032">Section 7032 of D.C. Law 22-33</cite> repealed <cite doc="D.C. Law 21-261" path="§12">§ 12 of D.C. Law 21-261</cite>. Therefore the creation of this section by <cite doc="D.C. Law 21-261">D.C. Law 21-261</cite> has been implemented.
             </annotation>
-      <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7032" type="History" display="false"/>
+      <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7032" target-path="2|15|III-B" type="History" display="false"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -2595,10 +2595,10 @@
       <num>VIII</num>
       <heading>Students in the Care of D.C. Coordinating Committee.</heading>
       <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" codified:display="Note" app="2019-07-22" eff="2019-07-22" path="§7176" display="false">For temporary (90 days) repeal of applicability provision of D.C. Law 22-303, see <cite doc="D.C. Act 23-91" path="§7176">§ 7176 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
-      <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7176" type="History" display="false"/>
+      <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7176" target-path="" type="History" display="false"/>
       <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" codified:display="Note" app="2019-09-04" eff="2019-09-04" path="§7176" display="false">For temporary (90 days) repeal of applicability provision of D.C. Law 22-303, see <cite doc="D.C. Act 23-112" path="§7176">§ 7176 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
-      <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7176" type="History" display="false"/>
-      <annotation app="2019-04-11" doc="D.C. Law 22-303" eff="2019-04-11" path="" type="History" display="false"/>
+      <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7176" target-path="" type="History" display="false"/>
+      <annotation app="2019-04-11" doc="D.C. Law 22-303" eff="2019-04-11" path="" target-path="2|15" type="History" display="false"/>
       <xi:include href="./sections/2-1599.01.xml"/>
       <xi:include href="./sections/2-1599.02.xml"/>
       <xi:include href="./sections/2-1599.03.xml"/>
@@ -2608,7 +2608,7 @@
       <annotation doc="D.C. Law 23-16" path="§7176" type="Applicability" history="false" app="2019-09-11" eff="2019-09-11">
           Applicability of <cite doc="D.C. Law 22-303">D.C. Law 22-303</cite>: <cite doc="D.C. Law 23-16" path="§7176">§ 7176 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-303" path="§9">§ 9 of D.C. Law 22-303</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-303">D.C. Law 22-303</cite> has been implemented.
         </annotation>
-      <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7176" type="History" display="false"/>
+      <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7176" target-path="2|15|VIII" type="History" display="false"/>
     </container>
   </container>
   <container>
@@ -2628,17 +2628,17 @@
     <prefix>Chapter</prefix>
     <num>16A</num>
     <heading>Criminal History Reports.</heading>
-    <annotation app="2023-03-10" doc="D.C. Law 24-284" eff="2023-03-10" path="" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-284" eff="2023-03-10" path="" target-path="2" type="History" display="false"/>
     <xi:include href="./sections/2-1651.xml"/>
     <xi:include href="./sections/2-1652.xml"/>
     <xi:include href="./sections/2-1653.xml"/>
     <xi:include href="./sections/2-1654.xml"/>
     <annotation doc="D.C. Law 25-50" path="§7088|(a)" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7088">Section 7088 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-284" path="§301">section 301 of D.C. Law 24-284</cite> changing the applicability provision impacting this section to January 1, 2026.  Therefore the creation of this section by Law 24-284 will be implemented on January 1, 2026.
         </annotation>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7088|(a)" type="History" display="false"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7088|(a)" target-path="2|16A" type="History" display="false"/>
     <annotation doc="D.C. Law 25-175" path="§40|(b)" type="Applicability" history="false" app="2024-06-08" eff="2024-06-08"><cite doc="D.C.Law 25-175" path="§40|(b)">Section 40(b) of D.C. Law 25-175</cite> amended <cite doc="D.C. Law 24-284" path="§301">section 301 of D.C. Law 24-284</cite> changing the applicability provision impacting this section to October 1, 2024.  Therefore the creation of this section by Law 24-284 will be implemented on October 1, 2024.
         </annotation>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§40|(b)" type="History" display="false"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§40|(b)" target-path="2|16A" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -2667,12 +2667,12 @@
     <num>17A</num>
     <heading>Improving Efficiencies in Data Collection, Information Sharing, and Information Resources Management.</heading>
     <reason>Repealed</reason>
-    <annotation app="2019-03-22" doc="D.C. Law 22-264" eff="2019-03-22" path="" type="History" display="false"/>
+    <annotation app="2019-03-22" doc="D.C. Law 22-264" eff="2019-03-22" path="" target-path="2" type="History" display="false"/>
     <xi:include href="./sections/2-1731.xml"/>
     <xi:include href="./sections/2-1732.xml"/>
     <xi:include href="./sections/2-1733.xml"/>
     <xi:include href="./sections/2-1734.xml"/>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7169" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7169" target-path="2|17A" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

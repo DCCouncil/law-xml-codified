@@ -33,15 +33,15 @@
   <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§2-1402.101" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1402.101">Applicability of <cite doc="D.C. Law 23-154" path="">D.C. Law 23-154</cite>: <cite doc="D.C. Law 23-154" path="§4">§ 4 of D.C. Law 23-154</cite> provided that the creation of this section by <cite doc="D.C. Law 23-154" path="§3">§ 3 of D.C. Law 23-154</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 2-38" type="History" path="§293">Dec. 13, 1977, D.C. Law 2-38, title II, § 293</annotation>
-    <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="" type="History" display="false"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="§3" prefix="as added" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="" target-path="2|14|A|II" type="History" display="false"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="§3" prefix="as added" target-path="2|14|A|II|K" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-154" path="§3" codified:display="Note" app="2020-12-23" eff="2020-12-23">Applicability of <cite doc="D.C. Law 23-154" path="">D.C. Law 23-154</cite>: <cite doc="D.C. Law 23-154" path="§4">§ 4 of D.C. Law 23-154</cite> provided that the creation of this section by <cite doc="D.C. Law 23-154" path="§3">§ 3 of D.C. Law 23-154</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="§3" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="§3" target-path="§2-1402.101" type="History"/>
     <annotation doc="D.C. Act 24-159" path="§7185" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7185">Section 7185 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-154" path="§4">section 4 of D.C. Law 23-154</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-154 has been implemented.
         </annotation>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7185" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7185" target-path="§3" type="History" display="false"/>
     <annotation doc="D.C. Law 24-45" path="§7185" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7185">Section 7185 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-154" path="§4">section 4 of D.C. Law 23-154</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-154 has been implemented.
         </annotation>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7185" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7185" target-path="§3" type="History" display="false"/>
   </annotations>
 </section>

@@ -153,28 +153,28 @@
       <prefix>Subchapter</prefix>
       <num>IV-B</num>
       <heading>Official Fish of the District of Columbia.</heading>
-      <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="" type="History" display="false"/>
+      <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="" target-path="1|1" type="History" display="false"/>
       <xi:include href="./sections/1-166.01.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>IV-C</num>
       <heading>Official Amphipod of the District of Columbia.</heading>
-      <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="" type="History" display="false"/>
+      <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="" target-path="1|1" type="History" display="false"/>
       <xi:include href="./sections/1-166.51.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>IV-C-i</num>
       <heading>Official Amphibian of the District of Columbia.</heading>
-      <annotation app="2024-12-17" doc="D.C. Law 25-251" eff="2024-12-17" path="§2" type="History" display="false"/>
+      <annotation app="2024-12-17" doc="D.C. Law 25-251" eff="2024-12-17" path="§2" target-path="1|1" type="History" display="false"/>
       <xi:include href="./sections/1-166.71.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>IV-D</num>
       <heading>Official Music of the District of Columbia.</heading>
-      <annotation app="2020-04-11" doc="D.C. Law 23-71" eff="2020-04-11" path="" type="History" display="false"/>
+      <annotation app="2020-04-11" doc="D.C. Law 23-71" eff="2020-04-11" path="" target-path="1|1" type="History" display="false"/>
       <xi:include href="./sections/1-167.01.xml"/>
       <xi:include href="./sections/1-167.02.xml"/>
     </container>
@@ -182,7 +182,7 @@
       <prefix>Subchapter</prefix>
       <num>IV-E</num>
       <heading>Official State Mammal of the District of Columbia.</heading>
-      <annotation app="2020-12-23" doc="D.C. Law 23-160" eff="2020-12-23" path="" type="History" display="false"/>
+      <annotation app="2020-12-23" doc="D.C. Law 23-160" eff="2020-12-23" path="" target-path="1|1" type="History" display="false"/>
       <xi:include href="./sections/1-167.31.xml"/>
     </container>
     <container>
@@ -207,8 +207,8 @@
       <num>VII</num>
       <heading>Juneteenth History and Planning Commission.</heading>
       <reason>Not Funded</reason>
-      <annotation app="notfunded" doc="D.C. Law 24-179" eff="2022-09-21" path="§3|(a)" type="History" display="false"/>
-      <annotation app="notfunded" doc="D.C. Law 24-179" eff="2022-09-21" path="" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 24-179" eff="2022-09-21" path="§3|(a)" target-path="" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 24-179" eff="2022-09-21" path="" target-path="1|1" type="History" display="false"/>
       <xi:include href="./sections/1-185.01.xml"/>
     </container>
   </container>
@@ -697,7 +697,7 @@
       <container>
         <prefix>Part</prefix>
         <num>K</num>
-        <heading>District of Columbia Auditor Compliance Unit. [Repealed]<annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§1102" type="History"/></heading>
+        <heading>District of Columbia Auditor Compliance Unit. [Repealed]<annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§1102" target-path="1|3|I|K|heading" type="History"/></heading>
         <xi:include href="./sections/1-301.181.xml"/>
         <xi:include href="./sections/1-301.182.xml"/>
         <xi:include href="./sections/1-301.183.xml"/>
@@ -715,7 +715,7 @@
         <prefix>Part</prefix>
         <num>M</num>
         <heading>Office of Resilience and Recovery.</heading>
-        <annotation app="2020-05-06" doc="D.C. Law 23-84" eff="2020-05-06" path="" type="History" display="false"/>
+        <annotation app="2020-05-06" doc="D.C. Law 23-84" eff="2020-05-06" path="" target-path="1|3|I" type="History" display="false"/>
         <xi:include href="./sections/1-301.201.xml"/>
         <xi:include href="./sections/1-301.202.xml"/>
       </container>
@@ -945,7 +945,7 @@
         <prefix>Part</prefix>
         <num>C</num>
         <heading>Successor in Interest.</heading>
-        <annotation app="2022-08-10" doc="D.C. Law 24-148" eff="2022-08-10" path="" type="History" display="false"/>
+        <annotation app="2022-08-10" doc="D.C. Law 24-148" eff="2022-08-10" path="" target-path="1|3|V" type="History" display="false"/>
         <xi:include href="./sections/1-309.51.xml"/>
       </container>
     </container>
@@ -1047,7 +1047,7 @@
       <container>
         <prefix>Part</prefix>
         <num>G</num>
-        <heading>Fee Collection Incentive Fund. [Repealed.]<annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7103" type="History"/></heading>
+        <heading>Fee Collection Incentive Fund. [Repealed.]<annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7103" target-path="1|3|XI|G|heading" type="History"/></heading>
         <xi:include href="./sections/1-325.61.xml"/>
       </container>
       <container>
@@ -1173,7 +1173,7 @@
       <container>
         <prefix>Part</prefix>
         <num>Y</num>
-        <heading>WMATA Momentum Fund. [Repealed.]<annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7104" type="History"/></heading>
+        <heading>WMATA Momentum Fund. [Repealed.]<annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7104" target-path="1|3|XI|Y|heading" type="History"/></heading>
         <xi:include href="./sections/1-325.241.xml"/>
       </container>
       <container>
@@ -1215,7 +1215,7 @@
       <container>
         <prefix>Part</prefix>
         <num>FF</num>
-        <heading>WMATA Operations Support Fund. [Repealed.]<annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7105" type="History"/></heading>
+        <heading>WMATA Operations Support Fund. [Repealed.]<annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7105" target-path="1|3|XI|FF|heading" type="History"/></heading>
         <xi:include href="./sections/1-325.311.xml"/>
       </container>
       <container>
@@ -1245,84 +1245,84 @@
         <prefix>Part</prefix>
         <num>JJ</num>
         <heading>Housing Preservation Fund.</heading>
-        <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="II" type="History" display="false"/>
+        <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="II" target-path="1|3|XI" type="History" display="false"/>
         <xi:include href="./sections/1-325.351.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>KK</num>
         <heading>St. Elizabeths East Campus Redevelopment Fund.</heading>
-        <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="II" type="History" display="false"/>
+        <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="II" target-path="1|3|XI" type="History" display="false"/>
         <xi:include href="./sections/1-325.361.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>KK-i</num>
         <heading>New Hospital at St. Elizabeths Startup Reserve Fund.</heading>
-        <annotation app="2020-10-20" doc="D.C. Law 23-138" eff="2020-10-20" path="II" type="History" display="false"/>
+        <annotation app="2020-10-20" doc="D.C. Law 23-138" eff="2020-10-20" path="II" target-path="1|3|XI" type="History" display="false"/>
         <xi:include href="./sections/1-325.365.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>LL</num>
         <heading>Ward 7 and Ward 8 Entrepreneur Grant Fund.</heading>
-        <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="II" type="History" display="false"/>
+        <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="II" target-path="1|3|XI" type="History" display="false"/>
         <xi:include href="./sections/1-325.371.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>MM</num>
         <heading>Product Stewardship Fund.</heading>
-        <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§6003|(d)" type="History" display="false"/>
+        <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§6003|(d)" target-path="1|3|XI" type="History" display="false"/>
         <xi:include href="./sections/1-325.381.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>NN</num>
         <heading>Subrogation Fund.</heading>
-        <annotation app="2018-07-03" doc="D.C. Law 22-122" eff="2018-07-03" path="" type="History" display="false"/>
+        <annotation app="2018-07-03" doc="D.C. Law 22-122" eff="2018-07-03" path="" target-path="1|3|XI" type="History" display="false"/>
         <xi:include href="./sections/1-325.391.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>OO</num>
         <heading>Washington Metropolitan Area Transit Authority Dedicated Financing Fund.</heading>
-        <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="VI|A" type="History" display="false"/>
+        <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="VI|A" target-path="1|3|XI" type="History" display="false"/>
         <xi:include href="./sections/1-325.401.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>PP</num>
         <heading>Audit Engagement Fund.</heading>
-        <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="I" type="History" display="false"/>
+        <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="I" target-path="1|3|XI" type="History" display="false"/>
         <xi:include href="./sections/1-325.411.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>QQ</num>
         <heading>SNAP Reinvestment Fund.</heading>
-        <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="V|G" type="History" display="false"/>
+        <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="V|G" target-path="1|3|XI" type="History" display="false"/>
         <xi:include href="./sections/1-325.421.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>RR</num>
         <heading>Early Childhood Educator Pay Equity Fund.</heading>
-        <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="V|K" type="History" display="false"/>
+        <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="V|K" target-path="1|3|XI" type="History" display="false"/>
         <xi:include href="./sections/1-325.431.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>SS</num>
         <heading>Opioid Abatement Fund.</heading>
-        <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="V|B" type="History" display="false"/>
+        <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="V|B" target-path="1|3|XI" type="History" display="false"/>
         <xi:include href="./sections/1-325.441.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>TT</num>
         <heading>Vitality Fund.</heading>
-        <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="II|B" type="History" display="false"/>
+        <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="II|B" target-path="1|3|XI" type="History" display="false"/>
         <xi:include href="./sections/1-325.451.xml"/>
         <xi:include href="./sections/1-325.452.xml"/>
       </container>
@@ -1500,13 +1500,13 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>XVIII</num>
-      <heading>Expenditure Commission. [Repealed]<annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7106" type="History"/></heading>
+      <heading>Expenditure Commission. [Repealed]<annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7106" target-path="1|3|XVIII|heading" type="History"/></heading>
       <reason>Repealed</reason>
-      <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="VII" type="History" display="false"/>
+      <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="VII" target-path="1|3" type="History" display="false"/>
       <xi:include href="./sections/1-361.01.xml"/>
       <xi:include href="./sections/1-361.02.xml"/>
       <xi:include href="./sections/1-361.03.xml"/>
-      <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7106" type="History"/>
+      <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7106" target-path="1|3|XVIII" type="History"/>
     </container>
   </container>
   <container>
@@ -1539,7 +1539,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>I-A</num>
-      <heading>Residency Requirements for Government Employees and Residency Preferences for Applicants.<annotation app="2019-05-23" doc="D.C. Law 22-315" eff="2019-05-23" path="§2" type="History" display="false"/></heading>
+      <heading>Residency Requirements for Government Employees and Residency Preferences for Applicants.<annotation app="2019-05-23" doc="D.C. Law 22-315" eff="2019-05-23" path="§2" target-path="1|5|I-A|heading" type="History" display="false"/></heading>
       <xi:include href="./sections/1-515.01.xml"/>
       <xi:include href="./sections/1-515.02.xml"/>
       <xi:include href="./sections/1-515.03.xml"/>
@@ -1609,14 +1609,14 @@
       <prefix>Subchapter</prefix>
       <num>VIII-A</num>
       <heading>Student loan repayment assistance for Council employees.</heading>
-      <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="I|D" type="History" display="false"/>
+      <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="I|D" target-path="1|5" type="History" display="false"/>
       <xi:include href="./sections/1-545.01.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VIII-B</num>
       <heading>Data Collection and Reporting of Sexual Harassment Complaints of District Government Employees.</heading>
-      <annotation app="2022-09-21" doc="D.C. Law 24-171" eff="2022-09-21" path="" type="History" display="false"/>
+      <annotation app="2022-09-21" doc="D.C. Law 24-171" eff="2022-09-21" path="" target-path="1|5" type="History" display="false"/>
       <xi:include href="./sections/1-546.01.xml"/>
       <xi:include href="./sections/1-546.02.xml"/>
       <xi:include href="./sections/1-546.03.xml"/>
@@ -1625,7 +1625,7 @@
       <prefix>Subchapter</prefix>
       <num>IX</num>
       <heading>Bonus Pay and Special Awards Pay.</heading>
-      <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="I" type="History" display="false"/>
+      <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="I" target-path="1|5" type="History" display="false"/>
       <xi:include href="./sections/1-551.01.xml"/>
       <xi:include href="./sections/1-551.02.xml"/>
       <xi:include href="./sections/1-551.03.xml"/>
@@ -1638,21 +1638,21 @@
       <num>X</num>
       <heading>Freeze on Pay Increases and Benefits from October 1, 2020 through September 30, 2021.</heading>
       <reason>Repealed</reason>
-      <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="I" type="History" display="false"/>
+      <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="I" target-path="1|5" type="History" display="false"/>
       <xi:include href="./sections/1-555.01.xml"/>
       <xi:include href="./sections/1-555.02.xml"/>
       <xi:include href="./sections/1-555.03.xml"/>
       <xi:include href="./sections/1-555.04.xml"/>
       <xi:include href="./sections/1-555.05.xml"/>
-      <annotation app="2021-11-03" doc="D.C. Law 24-44" eff="2021-11-03" path="§8|(a)" type="History"/>
+      <annotation app="2021-11-03" doc="D.C. Law 24-44" eff="2021-11-03" path="§8|(a)" target-path="1|5|X" type="History"/>
       <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-44" path="§8|(a)" codified:display="Note" app="2021-11-03" eff="2021-11-03">For temporary (225 days) repeal of this section, see <cite doc="D.C. Law 24-44" path="§8|(a)">§ 8(a) of Fiscal Year 2021 Revised Local Budget and COVID Relief Adjustment Temporary Act of 2021 (D.C. Law 24-44, Nov. 3, 2021, 68 DCR 009690)</cite>.</annotation>
-      <annotation app="2021-11-03" doc="D.C. Law 24-44" eff="2021-11-03" path="§8|(a)" type="History" display="false"/>
+      <annotation app="2021-11-03" doc="D.C. Law 24-44" eff="2021-11-03" path="§8|(a)" target-path="1|5|X" type="History" display="false"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>XI</num>
       <heading>District of Columbia Auditor Compensation.</heading>
-      <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="I" type="History" display="false"/>
+      <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="I" target-path="1|5" type="History" display="false"/>
       <xi:include href="./sections/1-556.01.xml"/>
     </container>
   </container>
@@ -1747,7 +1747,7 @@
       <prefix>Subchapter</prefix>
       <num>VII-B</num>
       <heading>Transgender and Non-Binary Employment Study.</heading>
-      <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="II" type="History" display="false"/>
+      <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="II" target-path="1|6" type="History" display="false"/>
       <xi:include href="./sections/1-607.61.xml"/>
       <xi:include href="./sections/1-607.62.xml"/>
     </container>
@@ -1866,20 +1866,20 @@
       <prefix>Subchapter</prefix>
       <num>X-C</num>
       <heading>Government Appenticeships.</heading>
-      <annotation app="2019-02-22" doc="D.C. Law 22-211" eff="2019-02-22" path="§2|(d)" type="History" display="false"/>
+      <annotation app="2019-02-22" doc="D.C. Law 22-211" eff="2019-02-22" path="§2|(d)" target-path="1|6" type="History" display="false"/>
       <xi:include href="./sections/1-610.81.xml"/>
       <xi:include href="./sections/1-610.82.xml"/>
       <xi:include href="./sections/1-610.83.xml"/>
       <xi:include href="./sections/1-610.84.xml"/>
       <xi:include href="./sections/1-610.85.xml"/>
       <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" path="§7156" codified:display="Note" app="2019-07-22" eff="2019-07-22">For temporary (90 days) repeal of applicability provision of D.C. Law 22-211, see <cite doc="D.C. Act 23-91" path="§7156">§ 7156 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
-      <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7156" type="History" display="false"/>
+      <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7156" target-path="1|6|X-C" type="History" display="false"/>
       <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§7156" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) repeal of applicability provision of D.C. Law 22-211, see <cite doc="D.C. Act 23-112" path="§7156">§ 7156 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
-      <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7156" type="History" display="false"/>
+      <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7156" target-path="1|6|X-C" type="History" display="false"/>
       <annotation doc="D.C. Law 23-16" path="§7156" type="Applicability" history="false" display-template="" app="2019-09-11" eff="2019-09-11">
           Applicability of <cite doc="D.C. Law 22-211">D.C. Law 22-211</cite>: <cite doc="D.C. Law 23-16" path="§7156">§ 7156 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-211" path="§4">§ 4 of D.C. Law 22-211</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-211">D.C. Law 22-211</cite> has been implemented.
         </annotation>
-      <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7156" type="History" display="false"/>
+      <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7156" target-path="1|6|X-C" type="History" display="false"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1956,10 +1956,10 @@
       <xi:include href="./sections/1-612.36.xml"/>
       <xi:include href="./sections/1-612.37.xml"/>
       <xi:include href="./sections/1-612.38.xml"/>
-      <annotation app="2022-12-21" doc="D.C. Law 24-212" eff="2022-12-21" path="§2|(m)" type="History"/>
+      <annotation app="2022-12-21" doc="D.C. Law 24-212" eff="2022-12-21" path="§2|(m)" target-path="1|6|XII-A" type="History"/>
       <annotation doc="D.C. Law 24-212" path="§2|(m)" type="Applicability" history="false" app="2022-12-21" eff="2022-12-21"><cite doc="D.C. Law 24-212" path="§3">Section 3 of D.C. Law 24-212</cite> provided that the amendments made to this section by D.C. Law 24-212 shall apply as of January 1, 2023.
       </annotation>
-      <annotation app="2022-12-21" doc="D.C. Law 24-212" eff="2022-12-21" path="§2|(m)" type="History" display="false"/>
+      <annotation app="2022-12-21" doc="D.C. Law 24-212" eff="2022-12-21" path="§2|(m)" target-path="1|6|XII-A" type="History" display="false"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -2131,7 +2131,7 @@
       <prefix>Subchapter</prefix>
       <num>XX-E</num>
       <heading>Medical Marijuana Program Patient Employment Protections.</heading>
-      <annotation app="2021-04-27" doc="D.C. Law 23-276" eff="2021-04-27" path="" type="History" display="false"/>
+      <annotation app="2021-04-27" doc="D.C. Law 23-276" eff="2021-04-27" path="" target-path="1|6" type="History" display="false"/>
       <xi:include href="./sections/1-620.61.xml"/>
       <xi:include href="./sections/1-620.62.xml"/>
     </container>
@@ -2965,7 +2965,7 @@
         <prefix>Part</prefix>
         <num>C-i</num>
         <heading>Fair Elections Program.</heading>
-        <annotation app="2018-05-05" doc="D.C. Law 22-94" eff="2018-05-05" path="§2|(b)|(5)" type="History" display="false"/>
+        <annotation app="2018-05-05" doc="D.C. Law 22-94" eff="2018-05-05" path="§2|(b)|(5)" target-path="1|11A|III" type="History" display="false"/>
         <xi:include href="./sections/1-1163.32a.xml"/>
         <xi:include href="./sections/1-1163.32b.xml"/>
         <xi:include href="./sections/1-1163.32c.xml"/>
@@ -3025,7 +3025,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>12</num>
-    <heading>Notaries Public. [Repealed]<annotation app="2018-12-04" doc="D.C. Law 22-189" eff="2018-12-04" path="§34|(b)" type="History"/></heading>
+    <heading>Notaries Public. [Repealed]<annotation app="2018-12-04" doc="D.C. Law 22-189" eff="2018-12-04" path="§34|(b)" target-path="1|12|heading" type="History"/></heading>
     <xi:include href="./sections/1-1201.xml"/>
     <xi:include href="./sections/1-1202.xml"/>
     <xi:include href="./sections/1-1203.xml"/>
@@ -3048,7 +3048,7 @@
     <prefix>Chapter</prefix>
     <num>12A</num>
     <heading>Revised Uniform Law on Notarial Acts.</heading>
-    <annotation app="2018-12-04" doc="D.C. Law 22-189" eff="2018-12-04" path="" type="History" display="false"/>
+    <annotation app="2018-12-04" doc="D.C. Law 22-189" eff="2018-12-04" path="" target-path="1" type="History" display="false"/>
     <xi:include href="./sections/1-1231.01.xml"/>
     <xi:include href="./sections/1-1231.02.xml"/>
     <xi:include href="./sections/1-1231.03.xml"/>

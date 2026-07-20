@@ -80,14 +80,14 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 18-371" type="History" path="§413">Apr. 8, 2011, D.C. Law 18-371, § 413, 58 DCR 1185</annotation>
-    <annotation app="2019-04-11" doc="D.C. Law 22-294" eff="2019-04-11" path="§401" type="History"/>
-    <annotation app="2024-04-20" doc="D.C. Law 25-159" eff="2024-04-20" path="§2|(a)" type="History"/>
-    <annotation app="2024-04-20" doc="D.C. Law 25-159" eff="2024-04-20" path="§2|(b)" type="History"/>
-    <annotation app="2024-04-20" doc="D.C. Law 25-159" eff="2024-04-20" path="§2|(c)" type="History"/>
+    <annotation app="2019-04-11" doc="D.C. Law 22-294" eff="2019-04-11" path="§401" target-path="§2-354.13|(17)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-159" eff="2024-04-20" path="§2|(a)" target-path="§2-354.13|(16)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-159" eff="2024-04-20" path="§2|(b)" target-path="§2-354.13|(17)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-159" eff="2024-04-20" path="§2|(c)" target-path="§2-354.13" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§2072" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§2072">§ 2072 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§2072" type="History" display="false"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2072|(a)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2072|(b)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2072|(c)" type="History"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§2072" target-path="§2-354.13" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2072|(a)" target-path="§2-354.13|(16)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2072|(b)" target-path="§2-354.13|(17)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2072|(c)" target-path="§2-354.13|(18)" type="History"/>
   </annotations>
 </section>

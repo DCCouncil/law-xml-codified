@@ -53,7 +53,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
-      <heading>Student Fares. [Repealed]<annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§6049" type="History"/></heading>
+      <heading>Student Fares. [Repealed]<annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§6049" target-path="35|2|II|heading" type="History"/></heading>
       <xi:include href="./sections/35-231.xml"/>
       <xi:include href="./sections/35-232.xml"/>
       <xi:include href="./sections/35-233.xml"/>
@@ -66,7 +66,7 @@
       <prefix>Subchapter</prefix>
       <num>II-A</num>
       <heading>Student, Foster Youth, Summer Youth Employee, and Adult Learner Transit Subsidies.</heading>
-      <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="VI" type="History" display="false"/>
+      <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="VI" target-path="35|2" type="History" display="false"/>
       <xi:include href="./sections/35-241.xml"/>
       <xi:include href="./sections/35-242.xml"/>
       <xi:include href="./sections/35-243.xml"/>
@@ -111,9 +111,9 @@
     <prefix>Chapter</prefix>
     <num>3A</num>
     <heading>Rail Advisory Board.</heading>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§6033|(a)" type="History" display="false"/>
-    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§501|(a)" type="History" display="false"/>
-    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="" type="History" display="false"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§6033|(a)" target-path="§501|(a)" type="History" display="false"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§501|(a)" target-path="" type="History" display="false"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="" target-path="35" type="History" display="false"/>
     <xi:include href="./sections/35-331.xml"/>
     <xi:include href="./sections/35-332.xml"/>
     <xi:include href="./sections/35-333.xml"/>

@@ -132,11 +132,11 @@
     <annotation type="Emergency Legislation">For temporary (90 day) enactments, see §§ 211 to 213 of Enhanced Crime Prevention and Abatement Emergency Amendment Act of 2006 (D.C. Act 16-446, July 21, 2006,  53 DCR 6477).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition of <cite path="§2-1553">§ 2-1553</cite>, see § 1402 of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002,  49 DCR 8026).</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 6-2183.</annotation>
-    <annotation app="2026-07-02" doc="D.C. Law 26-140" eff="2026-07-02" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 26-140" eff="2026-07-02" path="§2|(d)|(1)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 26-140" eff="2026-07-02" path="§2|(d)|(2)" type="History"/>
+    <annotation app="2026-07-02" doc="D.C. Law 26-140" eff="2026-07-02" path="§4|(a)" target-path="§2|(d)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 26-140" eff="2026-07-02" path="§2|(d)|(1)" target-path="§2-1543|(c)|(2)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-140" eff="2026-07-02" path="§2|(d)|(2)" target-path="§2-1543|(c)|(3)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 26-140" path="§2|(d)" codified:display="Note" app="2026-07-02" eff="2026-07-02">Applicability of <cite doc="D.C. Law 26-140" path="">D.C. Law 26-140</cite>: <cite doc="D.C. Law 26-140" path="§4|(a)">§ 4(a) of D.C. Law 26-140</cite> provided that the amendment to this section by <cite doc="D.C. Law 26-140" path="§2|(d)">§ 2(d) of D.C. Law 26-140</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2026-07-02" doc="D.C. Law 26-140" eff="2026-07-02" path="§2|(d)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 26-140" eff="2026-07-02" path="§2|(d)" type="History" display="false"/>
+    <annotation app="2026-07-02" doc="D.C. Law 26-140" eff="2026-07-02" path="§2|(d)" target-path="§2-1543" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-140" eff="2026-07-02" path="§2|(d)" target-path="§2-1543" type="History" display="false"/>
   </annotations>
 </section>

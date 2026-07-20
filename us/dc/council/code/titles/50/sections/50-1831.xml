@@ -51,10 +51,10 @@
     </para>
   </para>
   <annotations>
-    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="VIII" type="History" display="false"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="§802" type="History"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§7|(f)|(1)" type="History"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§7|(f)|(2)" type="History"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§7|(f)|(3)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="VIII" target-path="|50" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="§802" target-path="|50|18A" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§7|(f)|(1)" target-path="§50-1831|(a)|(5)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§7|(f)|(2)" target-path="§50-1831|(a)|(6)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§7|(f)|(3)" target-path="§50-1831|(a)" type="History"/>
   </annotations>
 </section>

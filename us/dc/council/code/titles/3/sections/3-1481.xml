@@ -133,7 +133,8 @@
     </para>
   </para>
   <annotations>
-    <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="" type="History" display="false"/>
-    <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="§301" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="" target-path="3" type="History" display="false"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="" target-path="3|14D" type="History" display="false"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="§301" target-path="3|14D|III" type="History"/>
   </annotations>
 </section>

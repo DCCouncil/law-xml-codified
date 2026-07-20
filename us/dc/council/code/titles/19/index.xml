@@ -397,12 +397,12 @@
     <prefix>Chapter</prefix>
     <num>17</num>
     <heading>Uniform Powers of Appointment Code.</heading>
-    <annotation app="2025-03-07" doc="D.C. Law 25-265" eff="2025-03-07" path="§2" type="History" display="false"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-265" eff="2025-03-07" path="§2" target-path="19" type="History" display="false"/>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>General Provisions.</heading>
-      <annotation app="2025-03-07" doc="D.C. Law 25-265" eff="2025-03-07" path="§2" type="History" display="false"/>
+      <annotation app="2025-03-07" doc="D.C. Law 25-265" eff="2025-03-07" path="§2" target-path="19|17" type="History" display="false"/>
       <xi:include href="./sections/19-1701.01.xml"/>
       <xi:include href="./sections/19-1701.02.xml"/>
       <xi:include href="./sections/19-1701.03.xml"/>
@@ -412,7 +412,7 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Creation, Revocation, and Amendment of Power of Appointment.</heading>
-      <annotation app="2025-03-07" doc="D.C. Law 25-265" eff="2025-03-07" path="§2" type="History" display="false"/>
+      <annotation app="2025-03-07" doc="D.C. Law 25-265" eff="2025-03-07" path="§2" target-path="19|17" type="History" display="false"/>
       <xi:include href="./sections/19-1702.01.xml"/>
       <xi:include href="./sections/19-1702.02.xml"/>
       <xi:include href="./sections/19-1702.03.xml"/>
@@ -424,7 +424,7 @@
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Exercise of Power of Appointment.</heading>
-      <annotation app="2025-03-07" doc="D.C. Law 25-265" eff="2025-03-07" path="§2" type="History" display="false"/>
+      <annotation app="2025-03-07" doc="D.C. Law 25-265" eff="2025-03-07" path="§2" target-path="19|17" type="History" display="false"/>
       <xi:include href="./sections/19-1703.01.xml"/>
       <xi:include href="./sections/19-1703.02.xml"/>
       <xi:include href="./sections/19-1703.03.xml"/>
@@ -444,7 +444,7 @@
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Disclaimer or Release; Contract to Appoint or Not to Appoint.</heading>
-      <annotation app="2025-03-07" doc="D.C. Law 25-265" eff="2025-03-07" path="§2" type="History" display="false"/>
+      <annotation app="2025-03-07" doc="D.C. Law 25-265" eff="2025-03-07" path="§2" target-path="19|17" type="History" display="false"/>
       <xi:include href="./sections/19-1704.01.xml"/>
       <xi:include href="./sections/19-1704.02.xml"/>
       <xi:include href="./sections/19-1704.03.xml"/>
@@ -457,7 +457,7 @@
       <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>Rights of Powerholder's Creditors in Appointive Property.</heading>
-      <annotation app="2025-03-07" doc="D.C. Law 25-265" eff="2025-03-07" path="§2" type="History" display="false"/>
+      <annotation app="2025-03-07" doc="D.C. Law 25-265" eff="2025-03-07" path="§2" target-path="19|17" type="History" display="false"/>
       <xi:include href="./sections/19-1705.01.xml"/>
       <xi:include href="./sections/19-1705.02.xml"/>
       <xi:include href="./sections/19-1705.03.xml"/>
@@ -467,7 +467,7 @@
       <prefix>Subchapter</prefix>
       <num>VI</num>
       <heading>Miscellaneous Provisions.</heading>
-      <annotation app="2025-03-07" doc="D.C. Law 25-265" eff="2025-03-07" path="§2" type="History" display="false"/>
+      <annotation app="2025-03-07" doc="D.C. Law 25-265" eff="2025-03-07" path="§2" target-path="19|17" type="History" display="false"/>
       <xi:include href="./sections/19-1706.01.xml"/>
       <xi:include href="./sections/19-1706.02.xml"/>
       <xi:include href="./sections/19-1706.03.xml"/>
@@ -477,7 +477,7 @@
     <prefix>Chapter</prefix>
     <num>19</num>
     <heading>Uniform Trust Decanting Code.</heading>
-    <annotation app="2025-03-07" doc="D.C. Law 25-266" eff="2025-03-07" path="§2" type="History" display="false"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-266" eff="2025-03-07" path="§2" target-path="19" type="History" display="false"/>
     <xi:include href="./sections/19-1901.xml"/>
     <xi:include href="./sections/19-1902.xml"/>
     <xi:include href="./sections/19-1903.xml"/>
@@ -512,7 +512,7 @@
     <prefix>Chapter</prefix>
     <num>21</num>
     <heading>Uniform Directed Trust Code.</heading>
-    <annotation app="2025-03-21" doc="D.C. Law 25-298" eff="2025-03-21" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-298" eff="2025-03-21" path="§2|(c)" target-path="19" type="History" display="false"/>
     <xi:include href="./sections/19-2101.xml"/>
     <xi:include href="./sections/19-2102.xml"/>
     <xi:include href="./sections/19-2103.xml"/>
@@ -536,7 +536,7 @@
     <prefix>Chapter</prefix>
     <num>23</num>
     <heading>Uniform Community Property Disposition at Death Code.</heading>
-    <annotation app="2025-03-07" doc="D.C. Law 25-270" eff="2025-03-07" path="§2" type="History" display="false"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-270" eff="2025-03-07" path="§2" target-path="19" type="History" display="false"/>
     <xi:include href="./sections/19-2301.xml"/>
     <xi:include href="./sections/19-2302.xml"/>
     <xi:include href="./sections/19-2303.xml"/>

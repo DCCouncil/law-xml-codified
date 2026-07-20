@@ -45,23 +45,24 @@
   <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 15-194" path="§652" codified:display="Note" codified:doc="D.C. Code" codified:path="§5-652">Applicability of <cite doc="D.C. Law 15-194" path="">D.C. Law 15-194</cite>: <cite doc="D.C. Law 15-194" path="§656">§ 656 of D.C. Law 15-194, as added by § 2 of D.C. Law 19-311</cite> provided that the the addition of this section by <cite doc="D.C. Law 15-194" path="§652">§ 652 of D.C. Law 15-194, as added by § 2 of D.C. Law 19-311</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-311">D.C. Law 19-311</cite> added this section.</annotation>
-    <annotation app="2004-09-30" doc="D.C. Law 15-194" eff="2004-09-30" path="VI" type="History" display="false"/>
+    <annotation app="2004-09-30" doc="D.C. Law 15-194" eff="2004-09-30" path="VI" target-path="5|6A" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 15-194" path="§652" codified:display="Note" app="2004-09-30" eff="2004-09-30">Applicability of <cite doc="D.C. Law 15-194" path="">D.C. Law 15-194</cite>: <cite doc="D.C. Law 15-194" path="§656">§ 656 of D.C. Law 15-194, as added by § 2 of D.C. Law 19-311</cite> provided that the the addition of this section by <cite doc="D.C. Law 15-194" path="§652">§ 652 of D.C. Law 15-194, as added by § 2 of D.C. Law 19-311</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2004-09-30" doc="D.C. Law 15-194" eff="2004-09-30" path="§652" type="History"/>
+    <annotation app="2004-09-30" doc="D.C. Law 15-194" eff="2004-09-30" path="§652" target-path="§652" type="History"/>
+    <annotation app="2004-09-30" doc="D.C. Law 15-194" eff="2004-09-30" path="§652" target-path="5|6A|II" type="History"/>
     <annotation doc="D.C. Law 15-194" path="§656" history="false" type="Applicability" app="2004-09-30" eff="2004-09-30"><cite doc="D.C. Law 22-33" path="§7007">Section 7007 of Law 22-33</cite> amended section 656 of D.C. Law 19-311, retaining the applicability restriction affecting this section, therefore the creation of this section by <cite doc="D.C. Law 19-311" path="§2">§ 2 of D.C. Law 19-311</cite> has not been implemented. 
             </annotation>
-    <annotation app="2004-09-30" doc="D.C. Law 15-194" eff="2004-09-30" path="§656" type="History" display="false"/>
-    <annotation app="2013-05-01" doc="D.C. Law 19-311" eff="2013-05-01" path="§2" prefix="as added" type="History"/>
-    <annotation app="2013-05-01" doc="D.C. Law 19-311" eff="2013-05-01" path="" type="History" display="false"/>
-    <annotation app="2013-05-01" doc="D.C. Law 19-311" eff="2013-05-01" path="§2" prefix="as added" type="History" display="false"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3052|(d)" type="History" display="false"/>
+    <annotation app="2004-09-30" doc="D.C. Law 15-194" eff="2004-09-30" path="§656" target-path="§5-652" type="History" display="false"/>
+    <annotation app="2013-05-01" doc="D.C. Law 19-311" eff="2013-05-01" path="§2" prefix="as added" target-path="VI|D" type="History"/>
+    <annotation app="2013-05-01" doc="D.C. Law 19-311" eff="2013-05-01" path="" target-path="VI" type="History" display="false"/>
+    <annotation app="2013-05-01" doc="D.C. Law 19-311" eff="2013-05-01" path="§2" prefix="as added" target-path="VI|D" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3052|(d)" target-path="§656" type="History" display="false"/>
     <annotation doc="D.C. Law 21-160" path="§3052|(a)|(2)" history="false" type="Applicability" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§3052|(d)">Section 3052(d) of Law 21-160</cite> amended section 656 of D.C. Law 19-311, retaining the applicability restriction affecting this section, therefore the creation of this section by <cite doc="D.C. Law 19-311" path="§2">§ 2 of D.C. Law 19-311</cite> has not been implemented. 
             </annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3052|(a)|(2)" type="History" display="false"/>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7007" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3052|(a)|(2)" target-path="§5-652" type="History" display="false"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7007" target-path="§656" type="History" display="false"/>
     <annotation doc="D.C. Law 22-168" path="§7013" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§7013">Section 7013 of D.C. Law 22-168</cite> amended <cite doc="D.C. Law 15-194" path="§301">§ 656(c) of D.C. Law 15-194</cite> revising the applicability provision. Therefore the creation of this section by <cite doc="D.C. Law 15-194">D.C. Law 15-194</cite> has been implemented.</annotation>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7013" type="History" display="false"/>
-    <annotation app="2019-05-10" doc="D.C. Law 22-313" eff="2019-05-10" path="§10|(a)|(1)" type="History"/>
-    <annotation app="2019-05-10" doc="D.C. Law 22-313" eff="2019-05-10" path="§10|(a)|(2)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7013" target-path="§5-652" type="History" display="false"/>
+    <annotation app="2019-05-10" doc="D.C. Law 22-313" eff="2019-05-10" path="§10|(a)|(1)" target-path="§5-652|(b)|text" type="History"/>
+    <annotation app="2019-05-10" doc="D.C. Law 22-313" eff="2019-05-10" path="§10|(a)|(2)" target-path="§5-652|(b)|(2)" type="History"/>
   </annotations>
 </section>

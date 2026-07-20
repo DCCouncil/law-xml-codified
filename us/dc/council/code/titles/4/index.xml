@@ -390,7 +390,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>2A</num>
-    <heading>Grandparent and Close Relative Caregivers Pilot Programs.<annotation app="2019-11-26" doc="D.C. Law 23-32" eff="2019-11-26" path="" type="History"/></heading>
+    <heading>Grandparent and Close Relative Caregivers Pilot Programs.<annotation app="2019-11-26" doc="D.C. Law 23-32" eff="2019-11-26" path="" target-path="4|2A|heading" type="History"/></heading>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
@@ -408,7 +408,7 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Close Relative Caregivers Pilot Program.</heading>
-      <annotation app="2019-11-26" doc="D.C. Law 23-32" eff="2019-11-26" path="" type="History" display="false"/>
+      <annotation app="2019-11-26" doc="D.C. Law 23-32" eff="2019-11-26" path="" target-path="4|2A" type="History" display="false"/>
       <xi:include href="./sections/4-251.21.xml"/>
       <xi:include href="./sections/4-251.22.xml"/>
       <xi:include href="./sections/4-251.23.xml"/>
@@ -417,7 +417,7 @@
       <xi:include href="./sections/4-251.26.xml"/>
       <xi:include href="./sections/4-251.27.xml"/>
     </container>
-    <annotation app="2019-11-26" doc="D.C. Law 23-32" eff="2019-11-26" path="" type="History" display="false"/>
+    <annotation app="2019-11-26" doc="D.C. Law 23-32" eff="2019-11-26" path="" target-path="4|2A" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -451,7 +451,7 @@
     <prefix>Chapter</prefix>
     <num>2D</num>
     <heading>Career Mobility Action Plan Program.</heading>
-    <annotation app="2023-03-10" doc="D.C. Law 24-287" eff="2023-03-10" path="" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-287" eff="2023-03-10" path="" target-path="4" type="History" display="false"/>
     <xi:include href="./sections/4-281.01.xml"/>
     <xi:include href="./sections/4-281.02.xml"/>
     <xi:include href="./sections/4-281.03.xml"/>
@@ -536,7 +536,7 @@
     <prefix>Chapter</prefix>
     <num>4A</num>
     <heading>Diaper Affordability and Access.</heading>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="V" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="V" target-path="4" type="History" display="false"/>
     <xi:include href="./sections/4-431.xml"/>
     <xi:include href="./sections/4-432.xml"/>
   </container>
@@ -607,7 +607,7 @@
       <prefix>Subchapter</prefix>
       <num>III-A</num>
       <heading>Crime Victims' Address Confidentiality.</heading>
-      <annotation app="2018-07-03" doc="D.C. Law 22-118" eff="2018-07-03" path="" type="History" display="false"/>
+      <annotation app="2018-07-03" doc="D.C. Law 22-118" eff="2018-07-03" path="" target-path="4|5" type="History" display="false"/>
       <xi:include href="./sections/4-555.01.xml"/>
       <xi:include href="./sections/4-555.02.xml"/>
       <xi:include href="./sections/4-555.03.xml"/>
@@ -646,14 +646,14 @@
       <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>Office of Victim Services and Justice Grants Transparency.</heading>
-      <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="III" type="History" display="false"/>
+      <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="III" target-path="4|5" type="History" display="false"/>
       <xi:include href="./sections/4-571.01.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VI</num>
       <heading>Office of Victim Services and Justice Grants.</heading>
-      <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="" type="History" display="false"/>
+      <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="" target-path="4|5" type="History" display="false"/>
       <xi:include href="./sections/4-581.01.xml"/>
       <xi:include href="./sections/4-581.02.xml"/>
     </container>
@@ -689,7 +689,7 @@
     <prefix>Chapter</prefix>
     <num>6B</num>
     <heading>Healthy Early Childhood Development Programs.</heading>
-    <annotation app="2018-10-30" doc="D.C. Law 22-179" eff="2018-10-30" path="" type="History" display="false"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-179" eff="2018-10-30" path="" target-path="4" type="History" display="false"/>
     <xi:include href="./sections/4-651.01.xml"/>
     <xi:include href="./sections/4-651.02.xml"/>
     <xi:include href="./sections/4-651.03.xml"/>
@@ -707,7 +707,7 @@
     <prefix>Chapter</prefix>
     <num>6C</num>
     <heading>Office of the Ombudsperson for Children.</heading>
-    <annotation app="2021-04-05" doc="D.C. Law 23-270" eff="2021-04-05" path="" type="History" display="false"/>
+    <annotation app="2021-04-05" doc="D.C. Law 23-270" eff="2021-04-05" path="" target-path="4" type="History" display="false"/>
     <xi:include href="./sections/4-671.01.xml"/>
     <xi:include href="./sections/4-671.02.xml"/>
     <xi:include href="./sections/4-671.03.xml"/>
@@ -722,16 +722,16 @@
     <xi:include href="./sections/4-671.12.xml"/>
     <annotation doc="D.C. Act 24-159" path="§7208" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7208">Section 7208 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-270" path="§301">section 301 of D.C. Law 23-270</cite> that impacted this section.  Therefore the creation of this section by Law 23-270 has been implemented.
         </annotation>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7208" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7208" target-path="4|6C" type="History" display="false"/>
     <annotation doc="D.C. Law 24-45" path="§7208" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7208">Section 7208 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-270" path="§301">section 301 of D.C. Law 23-270</cite> that impacted this section.  Therefore the creation of this section by Law 23-270 has been implemented.
         </annotation>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7208" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7208" target-path="4|6C" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>6D</num>
     <heading>Building Child Wealth.</heading>
-    <annotation app="2022-02-18" doc="D.C. Law 24-53" eff="2022-02-18" path="" type="History" display="false"/>
+    <annotation app="2022-02-18" doc="D.C. Law 24-53" eff="2022-02-18" path="" target-path="4" type="History" display="false"/>
     <xi:include href="./sections/4-681.01.xml"/>
     <xi:include href="./sections/4-681.02.xml"/>
     <xi:include href="./sections/4-681.03.xml"/>
@@ -931,7 +931,7 @@
     <prefix>Chapter</prefix>
     <num>10A</num>
     <heading>Heirs' Property Legal Assistance.</heading>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="II" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="II" target-path="4" type="History" display="false"/>
     <xi:include href="./sections/4-1051.xml"/>
   </container>
   <container>
@@ -1089,7 +1089,7 @@
         <prefix>Part</prefix>
         <num>C-iv</num>
         <heading>Statements of Rights and Responsibilities for Foster Parents.</heading>
-        <annotation app="2017-02-18" doc="D.C. Law 21-217" eff="2017-02-18" path="§2|(a)" type="History" display="false"/>
+        <annotation app="2017-02-18" doc="D.C. Law 21-217" eff="2017-02-18" path="§2|(a)" target-path="|4|13|I" type="History" display="false"/>
         <xi:include href="./sections/4-1303.81.xml"/>
         <xi:include href="./sections/4-1303.82.xml"/>
         <xi:include href="./sections/4-1303.83.xml"/>
@@ -1254,7 +1254,7 @@
     <prefix>Chapter</prefix>
     <num>15A</num>
     <heading>Background Check Fingerprinting Authority and Rap Back Program.</heading>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="III" type="History" display="false"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="III" target-path="4" type="History" display="false"/>
     <xi:include href="./sections/4-1551.01.xml"/>
     <xi:include href="./sections/4-1551.02.xml"/>
     <xi:include href="./sections/4-1551.03.xml"/>
@@ -1272,7 +1272,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>17</num>
-    <heading>Access to Justice Initiative.<annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§3071" type="History"/></heading>
+    <heading>Access to Justice Initiative.<annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§3071" target-path="4|17|heading" type="History"/></heading>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
@@ -1286,14 +1286,14 @@
       <container>
         <prefix>Part</prefix>
         <num>A</num>
-        <heading>Establishment.<annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§3071" type="History"/></heading>
+        <heading>Establishment.<annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§3071" target-path="4|17|II|A|heading" type="History"/></heading>
         <xi:include href="./sections/4-1702.01.xml"/>
         <xi:include href="./sections/4-1702.02.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>B</num>
-        <heading>Funding.<annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§3071" type="History"/></heading>
+        <heading>Funding.<annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§3071" target-path="4|17|II|B|heading" type="History"/></heading>
         <xi:include href="./sections/4-1703.01.xml"/>
       </container>
       <container>
@@ -1312,7 +1312,7 @@
         <prefix>Part</prefix>
         <num>D</num>
         <heading>Client Privilege for Coordinated Intake and Referral.</heading>
-        <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§3042|(b)" type="History" display="false"/>
+        <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§3042|(b)" target-path="4|17|II" type="History" display="false"/>
         <xi:include href="./sections/4-1705.01.xml"/>
       </container>
     </container>
@@ -1321,7 +1321,7 @@
     <prefix>Chapter</prefix>
     <num>18</num>
     <heading>Access to Justice -- Civil Legal Counsel Projects Program.</heading>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="III" type="History" display="false"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="III" target-path="4" type="History" display="false"/>
     <xi:include href="./sections/4-1801.xml"/>
     <xi:include href="./sections/4-1802.xml"/>
     <xi:include href="./sections/4-1803.xml"/>
@@ -1332,14 +1332,14 @@
     <prefix>Chapter</prefix>
     <num>19</num>
     <heading>Immigrant Legal Services Program.</heading>
-    <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="III" type="History" display="false"/>
+    <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="III" target-path="4" type="History" display="false"/>
     <xi:include href="./sections/4-1901.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>20</num>
     <heading>Direct Services to Individuals with Intellectual and Developmental Disabilities.</heading>
-    <annotation app="2020-04-16" doc="D.C. Law 23-77" eff="2020-04-16" path="" type="History" display="false"/>
+    <annotation app="2020-04-16" doc="D.C. Law 23-77" eff="2020-04-16" path="" target-path="4" type="History" display="false"/>
     <xi:include href="./sections/4-2001.xml"/>
     <xi:include href="./sections/4-2002.xml"/>
     <xi:include href="./sections/4-2003.xml"/>
@@ -1352,7 +1352,7 @@
     <prefix>Chapter</prefix>
     <num>21</num>
     <heading>Community Legal Education and Resources Grant Program.</heading>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="I|G" type="History" display="false"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="I|G" target-path="4" type="History" display="false"/>
     <xi:include href="./sections/4-2101.xml"/>
   </container>
 </container>

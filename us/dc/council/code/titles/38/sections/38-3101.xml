@@ -94,17 +94,20 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-320">D.C. Law 17-320</cite> added subsec. (f-1).</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-20">D.C. Law 17-20</cite> rewrote subsec. (f), which had read as follows: “(f) At least one crossing guard shall be placed at elementary schools. Crossing guards shall be placed at middle or junior high schools, and high schools where deemed necessary by the Metropolitan Police Department.”</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§5-132.02">§ 5-132.02</cite>.</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4112|(a)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4112|(b)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4112|(c)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4112|(d)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4112|(e)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4112|(f)" type="History"/>
-    <annotation app="2023-03-10" doc="D.C. Law 24-285" eff="2023-03-10" path="§2|(a)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4112|(a)" target-path="§2|(a)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4112|(b)" target-path="§2" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4112|(c)" target-path="§2|(b)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4112|(c)" target-path="§2|(c)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4112|(c)" target-path="§2|(d)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4112|(d)" target-path="§2" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4112|(c)" target-path="§2|(e)|(2)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4112|(e)" target-path="§2|(f)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4112|(f)" target-path="§2|(f-1)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-285" eff="2023-03-10" path="§2|(a)" target-path="§38-3101" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-285" path="§2|(a)" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-285" path="">D.C. Law 24-285</cite>: <cite doc="D.C. Law 24-285" path="§4">§ 4 of D.C. Law 24-285</cite> provided that the change made to this section by <cite doc="D.C. Law 24-285" path="§2|(a)">§ 2(a) of D.C. Law 24-285</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6122|(a)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6122|(a)" target-path="§38-3101|(1)|(B)" type="History"/>
     <annotation doc="D.C. Law 25-50" path="§6123|(a)" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§6123">Section 6123 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-285" path="§4">section 4 of D.C. Law 24-285</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 2(a) of Law 24-285 has been implemented.
         </annotation>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6123|(a)" type="History" display="false"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6123|(a)" target-path="§38-3101" type="History" display="false"/>
   </annotations>
 </section>

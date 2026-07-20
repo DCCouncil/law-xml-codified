@@ -126,10 +126,11 @@
   <annotations>
     <annotation doc="D.C. Law 16-237" type="History">Mar. 8, 2007, D.C. Law 16-237, § 2(c), 54 DCR 393</annotation>
     <annotation type="Editor's Notes">Section 3 of <cite doc="D.C. Law 16-237">D.C. Law 16-237</cite> provided: “This act shall apply as of July 1, 2007.”</annotation>
-    <annotation app="2020-06-17" doc="D.C. Law 23-98" eff="2020-06-17" path="§2|(a)|(3)|(A)" type="History"/>
-    <annotation app="2020-06-17" doc="D.C. Law 23-98" eff="2020-06-17" path="§2|(a)|(3)|(B)" type="History"/>
-    <annotation app="2020-06-17" doc="D.C. Law 23-98" eff="2020-06-17" path="§2|(a)|(3)|(C)" type="History"/>
-    <annotation app="2020-06-17" doc="D.C. Law 23-98" eff="2020-06-17" path="§2|(a)|(3)|(D)" type="History"/>
-    <annotation app="2020-06-17" doc="D.C. Law 23-98" eff="2020-06-17" path="§2|(a)|(3)|(E)" type="History"/>
+    <annotation app="2020-06-17" doc="D.C. Law 23-98" eff="2020-06-17" path="§2|(a)|(3)|(A)" target-path="§28-3851|(a)|(1)" type="History"/>
+    <annotation app="2020-06-17" doc="D.C. Law 23-98" eff="2020-06-17" path="§2|(a)|(3)|(B)" target-path="§28-3851|(a)" type="History"/>
+    <annotation app="2020-06-17" doc="D.C. Law 23-98" eff="2020-06-17" path="§2|(a)|(3)|(C)" target-path="§28-3851|(a)|(2)" type="History"/>
+    <annotation app="2020-06-17" doc="D.C. Law 23-98" eff="2020-06-17" path="§2|(a)|(3)|(D)" target-path="§28-3851|(a)" type="History"/>
+    <annotation app="2020-06-17" doc="D.C. Law 23-98" eff="2020-06-17" path="§2|(a)|(3)|(E)" target-path="§28-3851|(a)|(3)|(A)" type="History"/>
+    <annotation app="2020-06-17" doc="D.C. Law 23-98" eff="2020-06-17" path="§2|(a)|(3)|(E)" target-path="§28-3851|(a)|(3)" type="History"/>
   </annotations>
 </section>

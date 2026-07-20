@@ -135,14 +135,14 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 13-315" type="History" path="§7c">Feb. 25, 2010, D.C. Law 13-315, § 7c</annotation>
-    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§3|(h)" prefix="as added" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§3|(h)" prefix="as added" target-path="7|16B" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-627" path="§4|(f)" codified:display="Note" app="2024-11-13" eff="2024-11-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-627" path="§4|(f)">§ 4(f) of Medical Cannabis Clarification and Program Enforcement Emergency Amendment Act of 2024 (D.C. Act 25-627, Nov. 13, 2024, 71 DCR 14129)</cite>.</annotation>
-    <annotation app="2024-11-13" doc="D.C. Act 25-627" eff="2024-11-13" path="§4|(f)" type="History" display="false"/>
-    <annotation app="2024-12-17" doc="D.C. Law 25-255" eff="2024-12-17" path="§4|(f)|(1)|(A)" type="History"/>
-    <annotation app="2024-12-17" doc="D.C. Law 25-255" eff="2024-12-17" path="§4|(f)|(1)|(B)" type="History"/>
-    <annotation app="2024-12-17" doc="D.C. Law 25-255" eff="2024-12-17" path="§4|(f)|(2)" type="History"/>
-    <annotation app="2024-12-17" doc="D.C. Law 25-255" eff="2024-12-17" path="§4|(f)|(3)|(A)" type="History"/>
-    <annotation app="2024-12-17" doc="D.C. Law 25-255" eff="2024-12-17" path="§4|(f)|(3)|(B)" type="History"/>
-    <annotation app="2024-12-17" doc="D.C. Law 25-255" eff="2024-12-17" path="§4|(f)|(4)" type="History"/>
+    <annotation app="2024-11-13" doc="D.C. Act 25-627" eff="2024-11-13" path="§4|(f)" target-path="§7-1671.06c" type="History" display="false"/>
+    <annotation app="2024-12-17" doc="D.C. Law 25-255" eff="2024-12-17" path="§4|(f)|(1)|(A)" target-path="§7-1671.06c|(a)|(1)|(B)" type="History"/>
+    <annotation app="2024-12-17" doc="D.C. Law 25-255" eff="2024-12-17" path="§4|(f)|(1)|(B)" target-path="§7-1671.06c|(a)|(1)|(D)" type="History"/>
+    <annotation app="2024-12-17" doc="D.C. Law 25-255" eff="2024-12-17" path="§4|(f)|(2)" target-path="§7-1671.06c|(b)|(3)" type="History"/>
+    <annotation app="2024-12-17" doc="D.C. Law 25-255" eff="2024-12-17" path="§4|(f)|(3)|(A)" target-path="§7-1671.06c|(c)|(2)" type="History"/>
+    <annotation app="2024-12-17" doc="D.C. Law 25-255" eff="2024-12-17" path="§4|(f)|(3)|(B)" target-path="§7-1671.06c|(c)|(3)" type="History"/>
+    <annotation app="2024-12-17" doc="D.C. Law 25-255" eff="2024-12-17" path="§4|(f)|(4)" target-path="§7-1671.06c|(e)|(2)" type="History"/>
   </annotations>
 </section>

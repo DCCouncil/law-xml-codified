@@ -28,8 +28,9 @@
     <text>The 2024 Act does not affect an action, case, or proceeding commenced before April 20, 2024.</text>
   </para>
   <annotations>
-    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(k)" type="History" display="false"/>
-    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(k)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§8002|(c)|(7)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(k)" target-path="28|I" type="History" display="false"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(k)" target-path="28|I|12" type="History" display="false"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-158" eff="2024-04-20" path="§2|(k)" target-path="28|I|12|2" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§8002|(c)|(7)" target-path="§28:12-202|(c)" type="History"/>
   </annotations>
 </section>

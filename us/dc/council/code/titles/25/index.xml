@@ -381,7 +381,7 @@
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Licensee Use of Security.</heading>
-      <annotation app="2022-06-30" doc="D.C. Law 24-127" eff="2022-06-30" path="§2|(g)|(1)" type="History" display="false"/>
+      <annotation app="2022-06-30" doc="D.C. Law 24-127" eff="2022-06-30" path="§2|(g)|(1)" target-path="25|8" type="History" display="false"/>
       <xi:include href="./sections/25-836.xml"/>
     </container>
   </container>
@@ -415,7 +415,7 @@
     <xi:include href="./sections/25-1008.xml"/>
     <xi:include href="./sections/25-1009.xml"/>
   </container>
-  <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(a)" type="History"/>
-  <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(b)" type="History"/>
-  <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(c)" type="History"/>
+  <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(a)" target-path="25" type="History"/>
+  <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(b)" target-path="25" type="History"/>
+  <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(c)" target-path="25" type="History"/>
 </container>

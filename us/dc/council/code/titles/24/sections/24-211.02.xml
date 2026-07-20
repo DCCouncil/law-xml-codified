@@ -161,85 +161,86 @@
     <annotation type="Prior Codifications">1973 Ed., § 24-442.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 24-442.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§24-101">§ 24-101</cite>, <cite path="§24-101">§ 24-101</cite>a, and <cite path="§24-251.01">§ 24-251.01</cite>.</annotation>
-    <annotation app="2017-04-04" doc="D.C. Law 21-238" eff="2017-04-04" path="§305|(a)" type="History"/>
-    <annotation app="2017-04-04" doc="D.C. Law 21-238" eff="2017-04-04" path="§305|(b)" type="History"/>
-    <annotation app="2017-04-04" doc="D.C. Law 21-238" eff="2017-04-04" path="§305|(c)" type="History"/>
+    <annotation app="2017-04-04" doc="D.C. Law 21-238" eff="2017-04-04" path="§305|(a)" target-path="§24-211.02|(b)|(4)" type="History"/>
+    <annotation app="2017-04-04" doc="D.C. Law 21-238" eff="2017-04-04" path="§305|(b)" target-path="§24-211.02|(b)|(5)" type="History"/>
+    <annotation app="2017-04-04" doc="D.C. Law 21-238" eff="2017-04-04" path="§305|(c)" target-path="§24-211.02|(b)" type="History"/>
     <annotation type="Applicability" codified:display="Note" app="2017-04-04" eff="2017-04-04" doc="D.C. Law 21-238" path="§305">Applicability of <cite doc="D.C. Law 21-238" path="">D.C. Law 21-238</cite>: <cite doc="D.C. Law 21-238" path="§701">§ 701 of D.C. Law 21-238</cite> provided that the change made to this section by <cite doc="D.C. Law 21-238" path="§305">§ 305 of D.C. Law 21-238</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2017-04-04" doc="D.C. Law 21-238" eff="2017-04-04" path="§305" type="History"/>
+    <annotation app="2017-04-04" doc="D.C. Law 21-238" eff="2017-04-04" path="§305" target-path="§24-211.02|(b)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-104" path="§7026" codified:display="Note" app="2017-07-20" eff="2017-07-20">For temporary (90 days) amendment of § 701|(a) of D.C. Law 21-238, see <cite doc="D.C. Act 22-104" path="§7026">§ 7026 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, July 20, 2017, 64 DCR 7032)</cite>.</annotation>
-    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7026" type="History" display="false"/>
+    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7026" target-path="§24-211.02" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§7026" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) amendment of § 701|(a) of D.C. Law 21-238, see <cite doc="D.C. Act 22-167" path="§7026">§ 7026 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
-    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7026" type="History" display="false"/>
+    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7026" target-path="§24-211.02" type="History" display="false"/>
     <annotation doc="D.C. Law 22-168" path="§7016" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, removing the applicability restriction impacting this section. Therefore the changes made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have been implemented.
             </annotation>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7016" type="History" display="false"/>
-    <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§1201|(a)" type="History"/>
-    <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§1201|(b)" type="History"/>
-    <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§1201|(c)" type="History"/>
-    <annotation app="2021-04-27" doc="D.C. Law 23-277" eff="2021-04-27" path="§4|(a)|(2)" type="History"/>
-    <annotation app="2021-04-27" doc="D.C. Law 23-277" eff="2021-04-27" path="§4|(a)|(3)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7016" target-path="§24-211.02" type="History" display="false"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§1201|(a)" target-path="§24-211.02|(b)|(5)" type="History"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§1201|(b)" target-path="§24-211.02|(b)|(9)" type="History"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§1201|(c)" target-path="§24-211.02|(b)" type="History"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-277" eff="2021-04-27" path="§4|(a)|(2)" target-path="§24-211.02|(b)|(9)" type="History"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-277" eff="2021-04-27" path="§4|(a)|(2)" target-path="§24-211.02|(b)|(10)" type="History"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-277" eff="2021-04-27" path="§4|(a)|(3)" target-path="§24-211.02|(b)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-277" path="§4|(a)" codified:display="Note" app="2021-04-27" eff="2021-04-27">Applicability of <cite doc="D.C. Law 23-277" path="">D.C. Law 23-277</cite>: <cite doc="D.C. Law 23-277" path="§5">§ 5 of D.C. Law 23-277</cite> provided that the change made to this section by <cite doc="D.C. Law 23-277" path="§4|(a)">§ 4(a) of D.C. Law 23-277</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2021-04-27" doc="D.C. Law 23-277" eff="2021-04-27" path="§4|(a)" type="History"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-277" eff="2021-04-27" path="§4|(a)" target-path="§24-211.02" type="History"/>
     <annotation doc="D.C. Act 24-159" path="§7211" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7211">Section 7211 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-277" path="§5">section 5 of D.C. Law 23-277</cite> that impacted this section.  Therefore the amendment of this section by Law 23-277 has been implemented.
         </annotation>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7211" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7211" target-path="§24-211.02" type="History" display="false"/>
     <annotation doc="D.C. Law 24-45" path="§7211" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7211">Section 7211 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-277" path="§5">section 5 of D.C. Law 23-277</cite> that impacted this section.  Therefore the amendment of this section by Law 23-277 has been implemented.
         </annotation>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7211" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7211" target-path="§24-211.02" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 24-344" path="§10|(a)" codified:display="Note" app="2023-04-21" eff="2023-04-21">Applicability of <cite doc="D.C. Law 24-344" path="">D.C. Law 24-344</cite>: <cite doc="D.C. Law 24-344" path="§26">§ 26 of D.C. Law 24-344</cite> provided that the change made to this section by <cite doc="D.C. Law 24-344" path="§10|(a)">§ 10(a) of D.C. Law 24-344</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§26|(a)" type="History" display="false"/>
-    <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§10|(a)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-344" eff="2023-04-21" path="§10|(a)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§26|(a)" target-path="§10|(a)" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§10|(a)" target-path="§24-211.02" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-344" eff="2023-04-21" path="§10|(a)" target-path="§24-211.02" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-130" path="§2" codified:display="Note" app="2023-06-27" eff="2023-06-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-130" path="§2">§ 2 of Special Education for Young Adults in the Custody of the Department of Corrections Emergency Amendment Act of 2023 (D.C. Act 25-130, June 27, 2023, 70 DCR 7944)</cite>.</annotation>
-    <annotation app="2023-06-27" doc="D.C. Act 25-130" eff="2023-06-27" path="§2" type="History" display="false"/>
+    <annotation app="2023-06-27" doc="D.C. Act 25-130" eff="2023-06-27" path="§2" target-path="§24-211.02" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-62" path="§2" codified:display="Note" app="2023-10-05" eff="2023-10-05">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-62" path="§2">§ 2 of Special Education for Young Adults in the Custody of the Department of Corrections Temporary Amendment Act of 2023 (D.C. Law 25-62, Oct. 5, 2023, 70 DCR 9689)</cite>.</annotation>
-    <annotation app="2023-10-05" doc="D.C. Law 25-62" eff="2023-10-05" path="§2" type="History" display="false"/>
+    <annotation app="2023-10-05" doc="D.C. Law 25-62" eff="2023-10-05" path="§2" target-path="§24-211.02" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-230" path="§2" codified:display="Note" app="2023-10-11" eff="2023-10-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-230" path="§2">§ 2 of Special Education for Young Adults in the Custody of the Department of Corrections Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-230, Oct. 11, 2023, 70 DCR 13771)</cite>.</annotation>
-    <annotation app="2023-10-11" doc="D.C. Act 25-230" eff="2023-10-11" path="§2" type="History" display="false"/>
+    <annotation app="2023-10-11" doc="D.C. Act 25-230" eff="2023-10-11" path="§2" target-path="§24-211.02" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-446" path="§2" codified:display="Note" app="2024-04-15" eff="2024-04-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-446" path="§2">§ 2 of Special Education for Young Adults in the Custody of the Department of Corrections Emergency Amendment Act of 2024 (D.C. Act 25-446, Apr. 15, 2024, 71 DCR 4635)</cite>.</annotation>
-    <annotation app="2024-04-15" doc="D.C. Act 25-446" eff="2024-04-15" path="§2" type="History" display="false"/>
+    <annotation app="2024-04-15" doc="D.C. Act 25-446" eff="2024-04-15" path="§2" target-path="§24-211.02" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-504" path="§2" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-504" path="§2">§ 2 of Special Education for Young Adults in the Custody of the Department of Corrections Congressional Review Emergency Amendment Act of 2024 (D.C. Act 25-504, July 15, 2024, 71 DCR 8401)</cite>.</annotation>
-    <annotation app="2024-07-15" doc="D.C. Act 25-504" eff="2024-07-15" path="§2" type="History" display="false"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-504" eff="2024-07-15" path="§2" target-path="§24-211.02" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-203" path="§2|(e)" codified:display="Note" app="2024-08-30" eff="2024-08-30">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-203" path="§2|(e)">§ 2(e) of Special Education for Young Adults in the Custody of the Department of Corrections Temporary Amendment Act of 2024 (D.C. Law 25-203, Aug. 30, 2024, 71 DCR 6760)</cite>.</annotation>
-    <annotation app="2024-08-30" doc="D.C. Law 25-203" eff="2024-08-30" path="§2|(e)" type="History" display="false"/>
+    <annotation app="2024-08-30" doc="D.C. Law 25-203" eff="2024-08-30" path="§2|(e)" target-path="§24-211.02" type="History" display="false"/>
     <annotation doc="D.C. Law 25-203" path="§3" type="Applicability" history="false" app="2024-08-30" eff="2024-08-30">
       Applicability of D.C. Law 25-203: § 3 of Law 25-203 amends § 2 within § 10(a) of D.C. Law 24-344 which is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.
     </annotation>
-    <annotation app="2024-08-30" doc="D.C. Law 25-203" eff="2024-08-30" path="§3" type="History" display="false"/>
+    <annotation app="2024-08-30" doc="D.C. Law 25-203" eff="2024-08-30" path="§3" target-path="§24-211.02" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-42" path="§2|(e)" codified:display="Note" app="2025-04-11" eff="2025-04-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-42" path="§2|(e)">§ 2(e) of Special Education for Young Adults in the Custody of the Department of Corrections Emergency Amendment Act of 2025 (D.C. Act 26-42, Apr. 11, 2025, 72 DCR 4548)</cite>.</annotation>
-    <annotation app="2025-04-11" doc="D.C. Act 26-42" eff="2025-04-11" path="§2|(e)" type="History" display="false"/>
+    <annotation app="2025-04-11" doc="D.C. Act 26-42" eff="2025-04-11" path="§2|(e)" target-path="§24-211.02" type="History" display="false"/>
     <annotation doc="D.C. Act 26-42" path="§3" type="Applicability" history="false" app="2025-04-11" eff="2025-04-11">
       Applicability of D.C. Act 26-42: <cite doc="D.C. Act 26-42" path="§3">§ 3 of D.C. Act 26-42</cite> amends § 2 within § 10(a) of D.C. Law 24-344 which is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.
     </annotation>
-    <annotation app="2025-04-11" doc="D.C. Act 26-42" eff="2025-04-11" path="§3" type="History" display="false"/>
+    <annotation app="2025-04-11" doc="D.C. Act 26-42" eff="2025-04-11" path="§3" target-path="§24-211.02" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-84" path="§2" codified:display="Note" app="2025-06-25" eff="2025-06-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-84" path="§2">§ 2 of Special Education for Young Adults in the Custody of the Department of Corrections Congressional Review Emergency Amendment Act of 2025 (D.C. Act 26-84, June 25, 2025, 72 DCR 7525)</cite>.</annotation>
-    <annotation app="2025-06-25" doc="D.C. Act 26-84" eff="2025-06-25" path="§2" type="History" display="false"/>
+    <annotation app="2025-06-25" doc="D.C. Act 26-84" eff="2025-06-25" path="§2" target-path="§24-211.02" type="History" display="false"/>
     <annotation doc="D.C. Act 26-84" path="§3" type="Applicability" history="false" app="2025-06-25" eff="2025-06-25">
       Applicability of D.C. Act 26-84: <cite doc="D.C. Act 26-84" path="§3">§ 3 of D.C. Act 26-84</cite> amends § 2 within § 10(a) of D.C. Law 24-344 which is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.
     </annotation>
-    <annotation app="2025-06-25" doc="D.C. Act 26-84" eff="2025-06-25" path="§3" type="History" display="false"/>
+    <annotation app="2025-06-25" doc="D.C. Act 26-84" eff="2025-06-25" path="§3" target-path="§24-211.02" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-36" path="§2" codified:display="Note" app="2025-08-29" eff="2025-08-29">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-36" path="§2">§ 2 of Special Education for Young Adults in the Custody of the Department of Corrections Temporary Amendment Act of 2025 (D.C. Law 26-36, Aug. 29, 2025, 72 DCR 6451)</cite>.</annotation>
-    <annotation app="2025-08-29" doc="D.C. Law 26-36" eff="2025-08-29" path="§2" type="History" display="false"/>
+    <annotation app="2025-08-29" doc="D.C. Law 26-36" eff="2025-08-29" path="§2" target-path="§24-211.02" type="History" display="false"/>
     <annotation doc="D.C. Law 26-36" path="§3" type="Applicability" history="false" app="2025-08-29" eff="2025-08-29">
       Applicability of D.C. Act 26-84: <cite doc="D.C. Act 26-84" path="§3">§ 3 of D.C. Act 26-84</cite> amends § 2 within § 10(a) of D.C. Law 24-344 which is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.
     </annotation>
-    <annotation app="2025-08-29" doc="D.C. Law 26-36" eff="2025-08-29" path="§3" type="History" display="false"/>
+    <annotation app="2025-08-29" doc="D.C. Law 26-36" eff="2025-08-29" path="§3" target-path="§24-211.02" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-154" path="§2" codified:display="Note" app="2025-10-03" eff="2025-10-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-154" path="§2">§ 2 of Special Education for Young Adults in the Custody of the Department of Corrections Second Emergency Amendment Act of 2025 (D.C. Act 26-154, Oct. 3, 2025, 72 DCR 10904)</cite>.</annotation>
-    <annotation app="2025-10-03" doc="D.C. Act 26-154" eff="2025-10-03" path="§2" type="History" display="false"/>
+    <annotation app="2025-10-03" doc="D.C. Act 26-154" eff="2025-10-03" path="§2" target-path="§24-211.02" type="History" display="false"/>
     <annotation doc="D.C. Act 26-154" path="§3" type="Applicability" history="false" app="2025-10-03" eff="2025-10-03">
       Applicability of D.C. Act 26-154: <cite doc="D.C. Act 26-154" path="§3">§ 3 of D.C. Act 26-154</cite> amends § 2 within § 10(a) of D.C. Law 24-344 which is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.
     </annotation>
-    <annotation app="2025-10-03" doc="D.C. Act 26-154" eff="2025-10-03" path="§3" type="History" display="false"/>
-    <annotation app="2026-01-29" doc="D.C. Law 26-82" eff="2026-01-29" path="§2" type="History" display="false"/>
-    <annotation app="2026-01-29" doc="D.C. Law 26-82" eff="2026-01-29" path="§2|(a)" type="History"/>
-    <annotation app="2026-01-29" doc="D.C. Law 26-82" eff="2026-01-29" path="§2|(b)" type="History"/>
-    <annotation app="2026-01-29" doc="D.C. Law 26-82" eff="2026-01-29" path="§2|(c)" type="History"/>
-    <annotation app="2026-01-29" doc="D.C. Law 26-82" eff="2026-01-29" path="§2|(d)" type="History"/>
-    <annotation app="2026-01-29" doc="D.C. Law 26-82" eff="2026-01-29" path="§2|(e)" type="History"/>
+    <annotation app="2025-10-03" doc="D.C. Act 26-154" eff="2025-10-03" path="§3" target-path="§24-211.02" type="History" display="false"/>
+    <annotation app="2026-01-29" doc="D.C. Law 26-82" eff="2026-01-29" path="§2" target-path="§24-211.02" type="History" display="false"/>
+    <annotation app="2026-01-29" doc="D.C. Law 26-82" eff="2026-01-29" path="§2|(a)" target-path="§24-211.02|(b)|(9)" type="History"/>
+    <annotation app="2026-01-29" doc="D.C. Law 26-82" eff="2026-01-29" path="§2|(b)" target-path="§24-211.02|(b)|(10)" type="History"/>
+    <annotation app="2026-01-29" doc="D.C. Law 26-82" eff="2026-01-29" path="§2|(c)" target-path="§24-211.02|(b)|[(11)]" type="History"/>
+    <annotation app="2026-01-29" doc="D.C. Law 26-82" eff="2026-01-29" path="§2|(d)" target-path="§24-211.02|(b)|(11)" type="History"/>
+    <annotation app="2026-01-29" doc="D.C. Law 26-82" eff="2026-01-29" path="§2|(e)" target-path="§24-211.02|(b)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-82" path="§2" codified:display="Note" app="2026-01-29" eff="2026-01-29">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-82" path="§2">§ 2 of Special Education for Young Adults in the Custody of the Department of Corrections Second Temporary Amendment Act of 2025 (D.C. Law 26-82, Jan. 29, 2026, 72 DCR 13866)</cite>.</annotation>
     <annotation doc="D.C. Law 26-82" path="§3" type="Applicability" history="false" app="2026-01-29" eff="2026-01-29">
       Applicability of D.C. Law 26-82: <cite doc="D.C. Law 26-82" path="§3">§ 3 of D.C. Law 26-82</cite> amends § 2 within <cite doc="D.C. Law 24-344" path="§10|(a)">§ 10(a) of D.C. Law 24-344</cite> which is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.
     </annotation>
-    <annotation app="2026-01-29" doc="D.C. Law 26-82" eff="2026-01-29" path="§3" type="History" display="false"/>
+    <annotation app="2026-01-29" doc="D.C. Law 26-82" eff="2026-01-29" path="§3" target-path="§24-211.02" type="History" display="false"/>
   </annotations>
 </section>

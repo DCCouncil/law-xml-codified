@@ -202,22 +202,22 @@
     </para>
   </para>
   <annotations>
-    <annotation app="2017-04-01" doc="D.C. Law 21-237" eff="2017-04-01" path="" type="History" display="false"/>
-    <annotation app="2017-04-01" doc="D.C. Law 21-237" eff="2017-04-01" path="§3" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(1)|(B)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(1)|(C)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(1)|(A)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(1)|(D)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(2)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(3)" type="History"/>
+    <annotation app="2017-04-01" doc="D.C. Law 21-237" eff="2017-04-01" path="" target-path="|10|7" type="History" display="false"/>
+    <annotation app="2017-04-01" doc="D.C. Law 21-237" eff="2017-04-01" path="§3" target-path="|10|7|II" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(1)|(B)" target-path="§10-712|(a)|(11)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(1)|(C)" target-path="§10-712|(a)|(12)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(1)|(A)" target-path="§10-712|(a)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(1)|(D)" target-path="§10-712|(a)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(2)" target-path="§10-712" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(3)" target-path="§10-712" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-233" path="§2|(b)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-233" path="">D.C. Law 23-233</cite>: <cite doc="D.C. Law 23-233" path="§4">§ 4 of D.C. Law 23-233</cite> provided that the change made to this section by <cite doc="D.C. Law 23-233" path="§2|(b)">§ 2(b) of D.C. Law 23-233</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)" target-path="§10-712" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§1032|(b)" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§1032|(b)">§ 1032(b) of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§1032|(b)" type="History" display="false"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§1032|(b)|(1)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§1032|(b)|(2)" type="History"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§1032|(b)" target-path="§10-712" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§1032|(b)|(1)" target-path="§10-712|(b-1)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§1032|(b)|(2)" target-path="§10-712|(d-1)" type="History"/>
     <annotation doc="D.C. Law 24-167" path="§7136" type="Applicability" history="false" app="2022-09-21" eff="2022-09-21"><cite doc="D.C. Law 24-167" path="§7136">Section 7136 of D.C. Law 24-167</cite> amended <cite doc="D.C. Law 23-233" path="§4">section 4 of D.C. Law 23-233</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 2(b) of Law 23-233 adding subsection (b-1) has been implemented.
         </annotation>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7136" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7136" target-path="§10-712" type="History" display="false"/>
   </annotations>
 </section>

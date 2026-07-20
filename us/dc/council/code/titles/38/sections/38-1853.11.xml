@@ -80,10 +80,11 @@
   <annotations>
     <annotation doc="Pub. L. 112-10" type="History" path="§3011">Apr. 15, 2011, 125 Stat. 209, Pub. L. 112-10, Div. C, § 3011</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§38-1853.04">§ 38-1853.04</cite>.</annotation>
-    <annotation app="2017-05-05" doc="Pub. L. 115-31" eff="2017-05-05" path="§908|(b)" type="History" display="false"/>
-    <annotation app="2017-05-05" doc="Pub. L. 115-31" eff="2017-05-05" path="§909|(b)|(2)" type="History"/>
-    <annotation app="2017-05-05" doc="Pub. L. 115-31" eff="2017-05-05" path="§909|(b)|(1)" type="History"/>
-    <annotation app="2017-05-05" doc="Pub. L. 115-31" eff="2017-05-05" path="§909|(a)" type="History"/>
+    <annotation app="2017-05-05" doc="Pub. L. 115-31" eff="2017-05-05" path="§908|(b)" target-path="§38-1853.11|(a)|(1)" type="History" display="false"/>
+    <annotation app="2017-05-05" doc="Pub. L. 115-31" eff="2017-05-05" path="§909|(b)|(2)" target-path="§38-1853.11" type="History"/>
+    <annotation app="2017-05-05" doc="Pub. L. 115-31" eff="2017-05-05" path="§909|(b)|(1)" target-path="§38-1853.11|(b)|num" type="History"/>
+    <annotation app="2017-05-05" doc="Pub. L. 115-31" eff="2017-05-05" path="§909|(a)" target-path="§38-1853.11|(b)" type="History"/>
+    <annotation app="2017-05-05" doc="Pub. L. 115-31" eff="2017-05-05" path="§909|(b)|(1)" target-path="§38-1853.11|(c)|num" type="History"/>
     <annotation doc="Pub. L. 115-31" path="§910" type="Editor's Notes" history="false" app="2017-05-05" eff="2017-05-05">
       Section 910 of Div. E, Title IX, of Public Law 115-31 provided that: Not later than the beginning of the 2018-2019 school year, the Secretary of Education and the Mayor of the District of Columbia shall revise the memorandum of understanding which is in effect under section 3012(d) of the Scholarships for Opportunity and Results Act as of the day before the date of the enactment of this title to address the following:
         (a)
@@ -94,6 +95,6 @@
          (3)
           The need to ensure that District of Columbia public schools and District of Columbia public charter schools meet the requirements under such Act to comply with all reasonable requests for information necessary to carry out the evaluations required under section 3009(a) of such Act.
         </annotation>
-    <annotation app="2017-05-05" doc="Pub. L. 115-31" eff="2017-05-05" path="§910" type="History" display="false"/>
+    <annotation app="2017-05-05" doc="Pub. L. 115-31" eff="2017-05-05" path="§910" target-path="§38-1853.11" type="History" display="false"/>
   </annotations>
 </section>

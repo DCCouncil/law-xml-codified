@@ -35,10 +35,10 @@
   </para>
   <annotations>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-404" path="§1012" codified:display="Note" app="2020-12-03" eff="2020-08-19">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-404" path="§1012">§ 1012 of Fiscal Year 2021 Budget Support Emergency Act of 2020 (D.C. Act 23-404, Aug. 19, 2020, 67 DCR 10098)</cite>.</annotation>
-    <annotation app="2020-12-03" doc="D.C. Act 23-404" eff="2020-08-19" path="§1012" type="History" display="false"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="I" type="History" display="false"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§1012" type="History"/>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§5062" type="History" display="false"/>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§5102" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Act 23-404" eff="2020-08-19" path="§1012" target-path="§1-325.411" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="I" target-path="1|3|XI" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§1012" target-path="1|3|XI|PP" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§5062" target-path="§1-325.411" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§5102" target-path="§1-325.411" type="History" display="false"/>
   </annotations>
 </section>

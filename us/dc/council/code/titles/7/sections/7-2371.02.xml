@@ -48,17 +48,18 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-362">D.C. Law 17-362</cite>, in subsec. (b), designated the existing text as par. (1), inserted “Except as provided in paragraph (2) of this subsection,” and added par. (2).</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§44-232.01">§ 44-232.01</cite> and <cite path="§44-234">§ 44-234</cite>.</annotation>
     <annotation type="Prior Codifications">2001 Ed., § 44-232</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3144|(b)|(1)|(A)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3144|(b)|(1)|(B)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3144|(b)|(2)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3144|(b)|(3)" type="History"/>
-    <annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3144|(b)|(1)|(A)" target-path="§3|(a)|(1)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3144|(b)|(1)|(B)" target-path="§3|(a)|(3)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3144|(b)|(2)" target-path="§3|(b)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3144|(b)|(3)" target-path="§3|(c)" type="History"/>
+    <annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="" target-path="7" type="History" display="false"/>
+    <annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="" target-path="7|23D" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§3002|(a)" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§3002|(a)">§ 3002(a) of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3002|(a)" type="History" display="false"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3002|(a)|(1)|(A)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3002|(a)|(1)|(B)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3002|(a)|(1)|(C)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3002|(a)|(2)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3002|(a)|(3)" type="History"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3002|(a)" target-path="§7-2371.02" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3002|(a)|(1)|(A)" target-path="§7-2371.02|(a)|(2)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3002|(a)|(1)|(B)" target-path="§7-2371.02|(a)|(3)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3002|(a)|(1)|(C)" target-path="§7-2371.02|(a)|(4)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3002|(a)|(2)" target-path="§7-2371.02" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3002|(a)|(3)" target-path="§7-2371.02|(c)" type="History"/>
   </annotations>
 </section>

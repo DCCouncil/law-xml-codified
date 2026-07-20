@@ -13,14 +13,14 @@
   <annotations>
     <annotation doc="D.C. Law 6-99" type="History" path="§522">Mar. 25, 1986, D.C. Law 6-99, § 522</annotation>
     <annotation doc="D.C. Law 16-222" type="History">as added Mar. 6, 2007, D.C. Law 16-222, § 2, 53 DCR 10219</annotation>
-    <annotation app="2021-03-16" doc="D.C. Law 23-205" eff="2021-03-16" path="§3|(i)" type="History"/>
-    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(aa)" type="History" display="false"/>
-    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(tt)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-205" eff="2021-03-16" path="§3|(i)" target-path="§3-1205.22" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(aa)" target-path="3|12|V" type="History" display="false"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(tt)" target-path="§3-1205.22|(a)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§5072" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§5072">§ 5072 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
-    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5072" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5072" target-path="§3-1205.22" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§5072" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§5072">§ 5072 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
-    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§5072" type="History" display="false"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5072|(a)" type="History"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5072|(b)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§5072" target-path="§3-1205.22" type="History" display="false"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5072|(a)" target-path="§3-1205.22|(b)" type="History"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5072|(b)" target-path="§3-1205.22|(b)" type="History"/>
   </annotations>
 </section>

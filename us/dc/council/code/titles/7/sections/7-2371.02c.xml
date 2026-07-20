@@ -146,15 +146,17 @@
   </para>
   <annotations>
     <annotation type="Prior Codifications">2001 Ed., § 44-232.03</annotation>
-    <annotation app="2001-04-27" doc="D.C. Law 13-278" eff="2001-04-27" path="§3c" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3144|(c)" prefix="as added" type="History"/>
-    <annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="" type="History" display="false"/>
-    <annotation app="2024-12-17" doc="D.C. Law 25-254" eff="2024-12-17" path="§2|(b)|(1)|(B)" type="History"/>
-    <annotation app="2024-12-17" doc="D.C. Law 25-254" eff="2024-12-17" path="§2|(b)|(1)|(C)" type="History"/>
-    <annotation app="2024-12-17" doc="D.C. Law 25-254" eff="2024-12-17" path="§2|(b)|(1)|(D)" type="History"/>
-    <annotation app="2024-12-17" doc="D.C. Law 25-254" eff="2024-12-17" path="§2|(b)|(1)|(E)" type="History"/>
-    <annotation app="2024-12-17" doc="D.C. Law 25-254" eff="2024-12-17" path="§2|(b)|(1)|(A)" type="History"/>
-    <annotation app="2024-12-17" doc="D.C. Law 25-254" eff="2024-12-17" path="§2|(b)|(2)" type="History"/>
-    <annotation app="2024-12-17" doc="D.C. Law 25-254" eff="2024-12-17" path="§2|(b)|(3)" type="History"/>
+    <annotation app="2001-04-27" doc="D.C. Law 13-278" eff="2001-04-27" path="§3c" target-path="44|2A" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3144|(c)" prefix="as added" target-path="" type="History"/>
+    <annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="" target-path="7" type="History" display="false"/>
+    <annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="" target-path="7|23D" type="History" display="false"/>
+    <annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="" target-path="§7-2371.02c" type="History" display="false"/>
+    <annotation app="2024-12-17" doc="D.C. Law 25-254" eff="2024-12-17" path="§2|(b)|(1)|(B)" target-path="§7-2371.02c|(a)|(1)" type="History"/>
+    <annotation app="2024-12-17" doc="D.C. Law 25-254" eff="2024-12-17" path="§2|(b)|(1)|(C)" target-path="§7-2371.02c|(a)|(2)" type="History"/>
+    <annotation app="2024-12-17" doc="D.C. Law 25-254" eff="2024-12-17" path="§2|(b)|(1)|(D)" target-path="§7-2371.02c|(a)|(3)" type="History"/>
+    <annotation app="2024-12-17" doc="D.C. Law 25-254" eff="2024-12-17" path="§2|(b)|(1)|(E)" target-path="§7-2371.02c|(a)|(7)" type="History"/>
+    <annotation app="2024-12-17" doc="D.C. Law 25-254" eff="2024-12-17" path="§2|(b)|(1)|(A)" target-path="§7-2371.02c|(a)" type="History"/>
+    <annotation app="2024-12-17" doc="D.C. Law 25-254" eff="2024-12-17" path="§2|(b)|(2)" target-path="§7-2371.02c" type="History"/>
+    <annotation app="2024-12-17" doc="D.C. Law 25-254" eff="2024-12-17" path="§2|(b)|(3)" target-path="§7-2371.02c|(b)" type="History"/>
   </annotations>
 </section>

@@ -43,7 +43,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
-      <heading>Uniform Notarial Acts. [Repealed]<annotation app="2018-12-04" doc="D.C. Law 22-189" eff="2018-12-04" path="§34|(a)" type="History"/></heading>
+      <heading>Uniform Notarial Acts. [Repealed]<annotation app="2018-12-04" doc="D.C. Law 22-189" eff="2018-12-04" path="§34|(a)" target-path="42|1|II|heading" type="History"/></heading>
       <reason>Repealed</reason>
       <xi:include href="./sections/42-141.xml"/>
       <xi:include href="./sections/42-142.xml"/>
@@ -53,7 +53,7 @@
       <xi:include href="./sections/42-146.xml"/>
       <xi:include href="./sections/42-147.xml"/>
       <xi:include href="./sections/42-148.xml"/>
-      <annotation app="2018-12-04" doc="D.C. Law 22-189" eff="2018-12-04" path="§34|(a)" type="History"/>
+      <annotation app="2018-12-04" doc="D.C. Law 22-189" eff="2018-12-04" path="§34|(a)" target-path="42|1|II" type="History"/>
     </container>
   </container>
   <container>
@@ -522,7 +522,7 @@
     <prefix>Chapter</prefix>
     <num>16A</num>
     <heading>Uniform Unlawful Restrictions in Land Records.</heading>
-    <annotation app="2024-08-14" doc="D.C. Law 25-201" eff="2024-08-14" path="I" type="History" display="false"/>
+    <annotation app="2024-08-14" doc="D.C. Law 25-201" eff="2024-08-14" path="I" target-path="42" type="History" display="false"/>
     <xi:include href="./sections/42-1621.xml"/>
     <xi:include href="./sections/42-1622.xml"/>
     <xi:include href="./sections/42-1623.xml"/>
@@ -537,7 +537,7 @@
     <prefix>Chapter</prefix>
     <num>16B</num>
     <heading>Uniform Commercial Real Estate Receivership.</heading>
-    <annotation app="2025-03-07" doc="D.C. Law 25-269" eff="2025-03-07" path="" type="History" display="false"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-269" eff="2025-03-07" path="" target-path="42" type="History" display="false"/>
     <xi:include href="./sections/42-1641.xml"/>
     <xi:include href="./sections/42-1642.xml"/>
     <xi:include href="./sections/42-1643.xml"/>
@@ -570,7 +570,7 @@
     <prefix>Chapter</prefix>
     <num>16C</num>
     <heading>Tangled Title Disclosure.</heading>
-    <annotation app="2025-10-01" doc="D.C. Law 26-41" eff="2025-10-01" path="" type="History" display="false"/>
+    <annotation app="2025-10-01" doc="D.C. Law 26-41" eff="2025-10-01" path="" target-path="42" type="History" display="false"/>
     <xi:include href="./sections/42-1681.xml"/>
     <xi:include href="./sections/42-1682.xml"/>
   </container>
@@ -810,7 +810,7 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Limited-Equity Cooperative Task Force.</heading>
-      <annotation app="2018-07-03" doc="D.C. Law 22-119" eff="2018-07-03" path="" type="History" display="false"/>
+      <annotation app="2018-07-03" doc="D.C. Law 22-119" eff="2018-07-03" path="" target-path="42" type="History" display="false"/>
       <xi:include href="./sections/42-2061.xml"/>
       <xi:include href="./sections/42-2062.xml"/>
       <xi:include href="./sections/42-2063.xml"/>
@@ -821,20 +821,20 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Limited Equity Cooperative Advisory Council Act.</heading>
-      <annotation app="2023-02-23" doc="D.C. Law 24-243" eff="2023-02-23" path="" type="History" display="false"/>
+      <annotation app="2023-02-23" doc="D.C. Law 24-243" eff="2023-02-23" path="" target-path="42|20A" type="History" display="false"/>
       <xi:include href="./sections/42-2067.01.xml"/>
       <xi:include href="./sections/42-2067.02.xml"/>
       <xi:include href="./sections/42-2067.03.xml"/>
       <xi:include href="./sections/42-2067.04.xml"/>
       <xi:include href="./sections/42-2067.05.xml"/>
     </container>
-    <annotation app="2023-02-23" doc="D.C. Law 24-243" eff="2023-02-23" path="" type="History" display="false"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-243" eff="2023-02-23" path="" target-path="42|20A" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>20B</num>
     <heading>Common Interest Community Repairs.</heading>
-    <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="II" type="History" display="false"/>
+    <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="II" target-path="42" type="History" display="false"/>
     <xi:include href="./sections/42-2071.xml"/>
     <xi:include href="./sections/42-2072.xml"/>
     <xi:include href="./sections/42-2073.xml"/>
@@ -844,7 +844,7 @@
     <prefix>Chapter</prefix>
     <num>20C</num>
     <heading>Relief for River East at Grandview Condominium Owners.</heading>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="II|N" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="II|N" target-path="42" type="History" display="false"/>
     <xi:include href="./sections/42-2081.xml"/>
     <xi:include href="./sections/42-2082.xml"/>
     <xi:include href="./sections/42-2083.xml"/>
@@ -901,8 +901,8 @@
       <num>IV</num>
       <heading>Office-to-Affordable-Housing Task Force.</heading>
       <annotation doc="D.C. Law 22-168" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30" path="§7032" display="false"><cite doc="D.C. Law 22-168" path="§7031">Section 7031 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-103" path="§6">section 6 of D.C. Law 22-103</cite> amending the applicability restriction impacting this section. Therefore the creation of this section by <cite doc="D.C. Law 22-103">D.C. Law 22-103</cite> has been implemented.</annotation>
-      <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7032" type="History" display="false"/>
-      <annotation app="2018-06-05" doc="D.C. Law 22-103" eff="2018-06-05" path="" type="History" display="false"/>
+      <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7032" target-path="" type="History" display="false"/>
+      <annotation app="2018-06-05" doc="D.C. Law 22-103" eff="2018-06-05" path="" target-path="42|21A" type="History" display="false"/>
       <xi:include href="./sections/42-2161.01.xml"/>
       <xi:include href="./sections/42-2161.02.xml"/>
       <xi:include href="./sections/42-2161.03.xml"/>
@@ -926,7 +926,7 @@
     <prefix>Chapter</prefix>
     <num>22A</num>
     <heading>Reentry Housing and Services Program.</heading>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="II" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="II" target-path="42" type="History" display="false"/>
     <xi:include href="./sections/42-2231.xml"/>
     <xi:include href="./sections/42-2232.xml"/>
   </container>
@@ -964,7 +964,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>25</num>
-    <heading>District Government Employee Housing Assistance.<annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="II" type="History"/></heading>
+    <heading>District Government Employee Housing Assistance.<annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="II" target-path="42|25|heading" type="History"/></heading>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
@@ -982,10 +982,10 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Negotiated Employee Affordable Housing.</heading>
-      <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="II" type="History" display="false"/>
+      <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="II" target-path="42|25" type="History" display="false"/>
       <xi:include href="./sections/42-2521.xml"/>
     </container>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="II" type="History" display="false"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="II" target-path="42|25" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1168,7 +1168,7 @@
     <prefix>Chapter</prefix>
     <num>28E</num>
     <heading>Affordable Housing Loan Fund Authorization.</heading>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="II" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="II" target-path="42" type="History" display="false"/>
     <xi:include href="./sections/42-2858.01.xml"/>
   </container>
   <container>
@@ -1190,7 +1190,7 @@
     <prefix>Chapter</prefix>
     <num>30A</num>
     <heading>Single Family Home Rehabilitation Program.</heading>
-    <annotation app="2025-10-01" doc="D.C. Law 26-41" eff="2025-10-01" path="I" type="History" display="false"/>
+    <annotation app="2025-10-01" doc="D.C. Law 26-41" eff="2025-10-01" path="I" target-path="42" type="History" display="false"/>
     <xi:include href="./sections/42-3021.xml"/>
     <xi:include href="./sections/42-3022.xml"/>
   </container>
@@ -1374,7 +1374,7 @@
     <prefix>Chapter</prefix>
     <num>32B</num>
     <heading>Lead Plumbing Disclosure Requirements by Dwelling Unit Owners.</heading>
-    <annotation app="2019-03-13" doc="D.C. Law 22-241" eff="2019-03-13" path="" type="History" display="false"/>
+    <annotation app="2019-03-13" doc="D.C. Law 22-241" eff="2019-03-13" path="" target-path="42" type="History" display="false"/>
     <xi:include href="./sections/42-3271.xml"/>
   </container>
   <container>
@@ -1500,7 +1500,7 @@
     <prefix>Chapter</prefix>
     <num>34A</num>
     <heading>STAY DC Improvements.</heading>
-    <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="" type="History" display="false"/>
+    <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="" target-path="42" type="History" display="false"/>
     <xi:include href="./sections/42-3411.01.xml"/>
   </container>
   <container>
@@ -1599,14 +1599,14 @@
       <prefix>Subchapter</prefix>
       <num>V-A</num>
       <heading>Payment of Rent Beyond 5 Days After Due Date.</heading>
-      <annotation app="2016-12-08" doc="D.C. Law 21-172" eff="2016-12-08" path="" type="History" display="false"/>
+      <annotation app="2016-12-08" doc="D.C. Law 21-172" eff="2016-12-08" path="" target-path="|42|35" type="History" display="false"/>
       <xi:include href="./sections/42-3505.31.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>V-B</num>
       <heading>Other Housing Provider Actions During Tenancies.</heading>
-      <annotation app="2017-02-18" doc="D.C. Law 21-210" eff="2017-02-18" path="§2|(d)" type="History" display="false"/>
+      <annotation app="2017-02-18" doc="D.C. Law 21-210" eff="2017-02-18" path="§2|(d)" target-path="|42|35" type="History" display="false"/>
       <xi:include href="./sections/42-3505.51.xml"/>
       <xi:include href="./sections/42-3505.52.xml"/>
       <xi:include href="./sections/42-3505.53.xml"/>
@@ -1682,7 +1682,7 @@
     <prefix>Chapter</prefix>
     <num>35B</num>
     <heading>Fair Criminal Record Screening for Housing.</heading>
-    <annotation app="2017-04-07" doc="D.C. Law 21-259" eff="2017-04-07" path="" type="History" display="false"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-259" eff="2017-04-07" path="" target-path="42" type="History" display="false"/>
     <xi:include href="./sections/42-3541.01.xml"/>
     <xi:include href="./sections/42-3541.02.xml"/>
     <xi:include href="./sections/42-3541.03.xml"/>
@@ -1694,25 +1694,25 @@
     <xi:include href="./sections/42-3541.09.xml"/>
     <xi:include href="./sections/42-3541.10.xml"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-104" path="§7031" codified:display="Note" app="2017-07-20" eff="2017-07-20">For temporary (90 days) repeal of § 11 of D.C. Law 21-259, see <cite doc="D.C. Act 22-104" path="§7031">§ 7031 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, July 20, 2017, 64 DCR 7032)</cite>.</annotation>
-    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7031" type="History" display="false"/>
+    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7031" target-path="42|35B" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§7031" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) repeal of § 11 of D.C. Law 21-259, see <cite doc="D.C. Act 22-167" path="§7031">§ 7031 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
-    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7031" type="History" display="false"/>
+    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7031" target-path="42|35B" type="History" display="false"/>
     <annotation doc="D.C. Law 22-33" path="§7031" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13"><cite doc="D.C. Law 22-33" path="§7031">Section 7031 of D.C. Law 22-33</cite> repealed <cite doc="D.C. Law 21-259" path="§11">§ 11 of D.C. Law 21-259</cite>. Therefore the creation of this section by <cite doc="D.C. Law 21-259">D.C. Law 21-259</cite> has been implemented.
             </annotation>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7031" type="History" display="false"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7031" target-path="42|35B" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>35C</num>
     <heading>Bedbug Control.</heading>
     <reason>Repealed</reason>
-    <annotation app="2023-02-23" doc="D.C. Law 24-238" eff="2023-02-23" path="" type="History" display="false"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-238" eff="2023-02-23" path="" target-path="42" type="History" display="false"/>
     <xi:include href="./sections/42-3551.01.xml"/>
     <xi:include href="./sections/42-3551.02.xml"/>
     <xi:include href="./sections/42-3551.03.xml"/>
     <xi:include href="./sections/42-3551.04.xml"/>
     <xi:include href="./sections/42-3551.05.xml"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7206" type="History"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7206" target-path="42|35C" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

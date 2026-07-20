@@ -37,11 +37,11 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 16-51" type="History" path="§108">Feb. 15, 2006, D.C. Law 16-51, § 108, 52 DCR 10812</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6045|(b)" type="History"/>
-    <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="§401|(c)|(1)" type="History"/>
-    <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="§401|(c)|(2)" type="History"/>
-    <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="§401|(c)|(3)" type="History"/>
-    <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="§401|(c)|(4)" type="History"/>
-    <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="§401|(c)|(5)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6045|(b)" target-path="§108" type="History"/>
+    <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="§401|(c)|(1)" target-path="§8-151.08|(2)" type="History"/>
+    <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="§401|(c)|(2)" target-path="§8-151.08|(5)" type="History"/>
+    <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="§401|(c)|(3)" target-path="§8-151.08|(6)" type="History"/>
+    <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="§401|(c)|(4)" target-path="§8-151.08|(7)" type="History"/>
+    <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="§401|(c)|(5)" target-path="§8-151.08" type="History"/>
   </annotations>
 </section>

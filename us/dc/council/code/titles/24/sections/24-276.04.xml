@@ -32,10 +32,10 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 20-280" type="History" path="§204">July 25, 2015, D.C. Law 20-280, §  204, 62 DCR 1495</annotation>
-    <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§20|(b)|(1)" type="History"/>
-    <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§20|(d)|(1)" type="History"/>
-    <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§20|(d)|(2)" type="History"/>
-    <annotation app="2025-05-02" doc="D.C. Law 25-326" eff="2025-05-02" path="§3|(b)|(2)" type="History"/>
-    <annotation app="2025-05-02" doc="D.C. Law 25-326" eff="2025-05-02" path="§3|(b)|(1)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§20|(b)|(1)" target-path="24|2|VIII-A" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§20|(d)|(1)" target-path="§24-276.04|(1)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§20|(d)|(2)" target-path="§24-276.04|(2)" type="History"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-326" eff="2025-05-02" path="§3|(b)|(2)" target-path="§24-276.04" type="History"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-326" eff="2025-05-02" path="§3|(b)|(1)" target-path="§24-276.04" type="History"/>
   </annotations>
 </section>

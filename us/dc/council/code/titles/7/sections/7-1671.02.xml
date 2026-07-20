@@ -90,46 +90,46 @@
   <annotations>
     <annotation doc="D.C. Law 13-315" type="History" path="§3">Feb. 25, 2010, D.C. Law 13-315, § 3</annotation>
     <annotation doc="D.C. Law 18-210" type="History">as added July 27, 2010, D.C. Law 18-210, § 2, 57 DCR 4798</annotation>
-    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(b)|(1)|(B)" type="History"/>
-    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(b)|(2)|(A)" type="History"/>
-    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(b)|(1)|(A)" type="History"/>
-    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(b)|(3)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(b)|(1)|(B)" target-path="§7-1671.02|(c)|(1)|(A)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(b)|(2)|(A)" target-path="§7-1671.02|(c)|(1)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(b)|(1)|(A)" target-path="§7-1671.02|(c)|(1)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(b)|(3)" target-path="§7-1671.02|(c)|(2)" type="History"/>
     <annotation type="Applicability" codified:display="Note" app="2017-02-18" eff="2017-02-18" doc="D.C. Law 21-209" path="§2|(b)">Applicability of <cite doc="D.C. Law 21-209" path="">D.C. Law 21-209</cite>: <cite doc="D.C. Law 21-209" path="§4">§ 4 of D.C. Law 21-209</cite> provided that the change made to this section by <cite doc="D.C. Law 21-209" path="§2|(b)">§ 2(b) of D.C. Law 21-209</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(b)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(b)" target-path="§7-1671.02|(c)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-104" path="§7022" codified:display="Note" app="2017-07-20" eff="2017-07-20">For temporary (90 days) repeal of § 4 of D.C. Law 21-209, see <cite doc="D.C. Act 22-104" path="§7022">§ 7022 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, July 20, 2017, 64 DCR 7032)</cite>.</annotation>
-    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7022" type="History" display="false"/>
+    <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7022" target-path="§7-1671.02" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§7022" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) repeal of § 4 of D.C. Law 21-209, see <cite doc="D.C. Act 22-167" path="§7022">§ 7022 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
-    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7022" type="History" display="false"/>
+    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7022" target-path="§7-1671.02" type="History" display="false"/>
     <annotation doc="D.C. Law 22-33" path="§7022" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13"><cite doc="D.C. Law 22-33" path="§7022">Section 7022 of D.C. Law 22-33</cite> repealed <cite doc="D.C. Law 21-209" path="§4">§ 4 of D.C. Law 21-209</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-209">D.C. Law 21-209</cite> have been implemented.
             </annotation>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7022" type="History" display="false"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§5012|(b)|(1)" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§5012|(b)|(2)" type="History"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7022" target-path="§7-1671.02" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§5012|(b)|(1)" target-path="§7-1671.02|(c)|(1)|(B)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§5012|(b)|(2)" target-path="§7-1671.02|(d)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-206" path="§2|(a)" codified:display="Note" app="2021-11-05" eff="2021-11-05">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-206" path="§2|(a)">§ 2(a) of Medical Marijuana Patient Access Emergency Amendment Act of 2021 (D.C. Act 24-206, Nov. 5, 2021, 68 DCR 012188)</cite>.</annotation>
-    <annotation app="2021-11-05" doc="D.C. Act 24-206" eff="2021-11-05" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2021-11-05" doc="D.C. Act 24-206" eff="2021-11-05" path="§2|(a)" target-path="§7-1671.02" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-323" path="§2|(a)" codified:display="Note" app="2022-02-11" eff="2022-02-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-323" path="§2|(a)">§ 2(a) of Medical Marijuana Patient Access Extension Emergency Amendment Act of 2022 (D.C. Act 24-323, Feb. 11, 2022, 69 DCR 001268)</cite>.</annotation>
-    <annotation app="2022-02-11" doc="D.C. Act 24-323" eff="2022-02-11" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2022-02-11" doc="D.C. Act 24-323" eff="2022-02-11" path="§2|(a)" target-path="§7-1671.02" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-78" path="§2|(a)" codified:display="Note" app="2022-02-24" eff="2022-02-24">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-78" path="§2|(a)">§ 2(a) of Medical Marijuana Patient Access Temporary Amendment Act of 2021 (D.C. Law 24-78, Feb. 24, 2022, 69 DCR 000204)</cite>.</annotation>
-    <annotation app="2022-02-24" doc="D.C. Law 24-78" eff="2022-02-24" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2022-02-24" doc="D.C. Law 24-78" eff="2022-02-24" path="§2|(a)" target-path="§7-1671.02" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-400" path="§2|(a)" codified:display="Note" app="2022-05-09" eff="2022-05-09">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-400" path="§2|(a)">§ 2(a) of Medical Marijuana Patient Access Extension Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-400, May 9, 2022, 69 DCR 5035)</cite>.</annotation>
-    <annotation app="2022-05-09" doc="D.C. Act 24-400" eff="2022-05-09" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2022-05-09" doc="D.C. Act 24-400" eff="2022-05-09" path="§2|(a)" target-path="§7-1671.02" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-122" path="§2|(a)" codified:display="Note" app="2022-05-18" eff="2022-05-18">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-122" path="§2|(a)">§ 2(a) of Medical Marijuana Patient Access Extension Temporary Amendment Act of 2022 (D.C. Law 24-122, May 18, 2022, 69 DCR 002670)</cite>.</annotation>
-    <annotation app="2022-05-18" doc="D.C. Law 24-122" eff="2022-05-18" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2022-05-18" doc="D.C. Law 24-122" eff="2022-05-18" path="§2|(a)" target-path="§7-1671.02" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-469" path="§2|(a)" codified:display="Note" app="2022-07-06" eff="2022-07-06">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-469" path="§2|(a)">§ 2(a) of Medical Marijuana Self-Certification Emergency Amendment Act of 2022 (D.C. Act 24-469, July 6, 2022, 69 DCR 008396)</cite>.</annotation>
-    <annotation app="2022-07-06" doc="D.C. Act 24-469" eff="2022-07-06" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2022-07-06" doc="D.C. Act 24-469" eff="2022-07-06" path="§2|(a)" target-path="§7-1671.02" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-187" path="§2|(a)" codified:display="Note" app="2022-09-21" eff="2022-09-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-187" path="§2|(a)">§ 2(a) of Medical Marijuana Self-Certification Temporary Amendment Act of 2022 (D.C. Law 24-187, Sept. 21, 2022, 69 DCR 009942)</cite>.</annotation>
-    <annotation app="2022-09-21" doc="D.C. Law 24-187" eff="2022-09-21" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-187" eff="2022-09-21" path="§2|(a)" target-path="§7-1671.02" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-565" path="§2|(b)" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-565" path="§2|(b)">§ 2(b) of Medical Marijuana Patient Access Extension Second Emergency Amendment Act of 2022 (D.C. Act 24-565, Oct. 17, 2022, 0 DCR 0)</cite>.</annotation>
-    <annotation app="2022-10-17" doc="D.C. Act 24-565" eff="2022-10-17" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2022-10-17" doc="D.C. Act 24-565" eff="2022-10-17" path="§2|(b)" target-path="§7-1671.02" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-229" path="§2|(b)" codified:display="Note" app="2022-12-21" eff="2022-12-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-229" path="§2|(b)">§ 2(b) of Medical Marijuana Patient Access Extension Second Temporary Amendment Act of 2022 (D.C. Law 24-229, Dec. 21, 2022, 69 DCR 13901)</cite>.</annotation>
-    <annotation app="2022-12-21" doc="D.C. Law 24-229" eff="2022-12-21" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§3|(b)|(1)" type="History"/>
-    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§3|(b)|(2)" type="History"/>
-    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§3|(b)|(3)" type="History"/>
-    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§3|(b)|(4)" type="History"/>
-    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§3|(b)|(5)" type="History"/>
-    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§3|(b)|(6)" type="History"/>
-    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§3|(b)|(7)" type="History"/>
-    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§3|(b)|(8)" type="History"/>
+    <annotation app="2022-12-21" doc="D.C. Law 24-229" eff="2022-12-21" path="§2|(b)" target-path="§7-1671.02" type="History" display="false"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§3|(b)|(1)" target-path="§7-1671.02|heading" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§3|(b)|(2)" target-path="§7-1671.02|(a)" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§3|(b)|(3)" target-path="§7-1671.02|(b)" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§3|(b)|(4)" target-path="§7-1671.02" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§3|(b)|(5)" target-path="§7-1671.02|(c)" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§3|(b)|(6)" target-path="§7-1671.02" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§3|(b)|(7)" target-path="§7-1671.02|(d)" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§3|(b)|(8)" target-path="§7-1671.02|(e)" type="History"/>
   </annotations>
 </section>

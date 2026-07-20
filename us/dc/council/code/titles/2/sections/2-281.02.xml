@@ -38,16 +38,18 @@
     <text>Repealed.</text>
   </para>
   <annotations>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="II" type="History" display="false"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2163" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="II" target-path="2" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2163" target-path="2|2B" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-61" path="§2|(b)" codified:display="Note" app="2021-05-03" eff="2021-05-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-61" path="§2|(b)">§ 2(b) of Equitable Impact Assistance for Local Businesses Emergency Amendment Act of 2021 (D.C. Act 24-61, May 3, 2021, 68 DCR 004821)</cite>.</annotation>
-    <annotation app="2021-05-03" doc="D.C. Act 24-61" eff="2021-05-03" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2021-05-03" doc="D.C. Act 24-61" eff="2021-05-03" path="§2|(b)" target-path="§2-281.02" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-11" path="§2|(b)" codified:display="Note" app="2021-07-28" eff="2021-07-28">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-11" path="§2|(b)">§ 2(b) of Equitable Impact Assistance for Local Businesses Temporary Amendment Act of 2021 (D.C. Law 24-11, July 28, 2021, 68 DCR 005829)</cite>.</annotation>
-    <annotation app="2021-07-28" doc="D.C. Law 24-11" eff="2021-07-28" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2202|(b)" type="History"/>
+    <annotation app="2021-07-28" doc="D.C. Law 24-11" eff="2021-07-28" path="§2|(b)" target-path="§2-281.02" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2202|(b)" target-path="§2-281.02|(a)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2202|(b)" target-path="§2-281.02|(b)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2202|(b)" target-path="§2-281.02|(c)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§2033" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§2033">§ 2033 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§2033" type="History" display="false"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§2033|(a)" type="History"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§2033|(b)" type="History"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§2033" target-path="§2-281.02" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§2033|(a)" target-path="§2-281.02|(a)|(3)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§2033|(b)" target-path="§2-281.02|(a)" type="History"/>
   </annotations>
 </section>

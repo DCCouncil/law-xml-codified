@@ -41,7 +41,7 @@
     <prefix>Chapter</prefix>
     <num>3A</num>
     <heading>Food Policy Council.</heading>
-    <annotation app="2015-03-10" doc="D.C. Law 20-191" eff="2015-03-10" path="" type="History" display="false"/>
+    <annotation app="2015-03-10" doc="D.C. Law 20-191" eff="2015-03-10" path="" target-path="48" type="History" display="false"/>
     <xi:include href="./sections/48-311.xml"/>
     <xi:include href="./sections/48-312.xml"/>
     <xi:include href="./sections/48-313.xml"/>
@@ -68,10 +68,10 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Local Food Economy Study.</heading>
-      <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="VI" type="History" display="false"/>
+      <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="VI" target-path="48|4" type="History" display="false"/>
       <xi:include href="./sections/48-411.xml"/>
     </container>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="VI" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="VI" target-path="48|4" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -112,7 +112,7 @@
     <prefix>Chapter</prefix>
     <num>6A</num>
     <heading>Third-party Food Delivery.</heading>
-    <annotation app="2023-03-10" doc="D.C. Law 24-292" eff="2023-03-10" path="" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-292" eff="2023-03-10" path="" target-path="48" type="History" display="false"/>
     <xi:include href="./sections/48-651.xml"/>
     <xi:include href="./sections/48-652.xml"/>
     <xi:include href="./sections/48-653.xml"/>
@@ -316,7 +316,7 @@
       <num>II</num>
       <heading>Safe Disposal of Controlled Substances.</heading>
       <reason>Repealed</reason>
-      <annotation app="2019-04-11" doc="D.C. Law 22-285" eff="2019-04-11" path="" type="History" display="false"/>
+      <annotation app="2019-04-11" doc="D.C. Law 22-285" eff="2019-04-11" path="" target-path="48|8F" type="History" display="false"/>
       <xi:include href="./sections/48-852.01.xml"/>
       <xi:include href="./sections/48-852.02.xml"/>
       <xi:include href="./sections/48-852.03.xml"/>
@@ -324,7 +324,7 @@
       <xi:include href="./sections/48-852.05.xml"/>
       <xi:include href="./sections/48-852.06.xml"/>
       <xi:include href="./sections/48-852.07.xml"/>
-      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7173" type="History"/>
+      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7173" target-path="48|8F|II" type="History"/>
     </container>
   </container>
   <container>
@@ -349,7 +349,7 @@
     <prefix>Chapter</prefix>
     <num>8H</num>
     <heading>Specialty Drug Copayment Limitation.</heading>
-    <annotation app="2017-04-07" doc="D.C. Law 21-248" eff="2017-04-07" path="" type="History" display="false"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-248" eff="2017-04-07" path="" target-path="48" type="History" display="false"/>
     <xi:include href="./sections/48-855.01.xml"/>
     <xi:include href="./sections/48-855.02.xml"/>
     <xi:include href="./sections/48-855.02a.xml"/>
@@ -477,7 +477,7 @@
     <prefix>Chapter</prefix>
     <num>9C</num>
     <heading>Entheogenic Plant and Fungus Policy.</heading>
-    <annotation app="2021-03-16" doc="D.C. Law 23-268" eff="2021-03-16" path="" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-268" eff="2021-03-16" path="" target-path="48" type="History" display="false"/>
     <xi:include href="./sections/48-921.51.xml"/>
     <xi:include href="./sections/48-921.52.xml"/>
     <xi:include href="./sections/48-921.53.xml"/>

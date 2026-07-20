@@ -44,8 +44,8 @@
   <annotations>
     <annotation doc="D.C. Law 13-281" type="History" path="§503">Apr. 27, 2001, D.C. Law 13-281, § 503, 48 DCR 1888</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§42-3651.04">§ 42-3651.04</cite>, <cite path="§42-3651.05">§ 42-3651.05</cite>, and <cite path="§42-3651.07">§ 42-3651.07</cite>.</annotation>
-    <annotation app="2021-03-16" doc="D.C. Law 23-207" eff="2021-03-16" path="§2|(c)|(1)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-207" eff="2021-03-16" path="§2|(c)|(2)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-207" eff="2021-03-16" path="§2|(c)|(3)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-207" eff="2021-03-16" path="§2|(c)|(1)" target-path="§42-3651.03|(a)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-207" eff="2021-03-16" path="§2|(c)|(2)" target-path="§42-3651.03" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-207" eff="2021-03-16" path="§2|(c)|(3)" target-path="§42-3651.03|(b)" type="History"/>
   </annotations>
 </section>

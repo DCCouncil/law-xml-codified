@@ -38,10 +38,11 @@
   <annotations>
     <annotation doc="D.C. Law 19-252" type="History" path="§201">Mar. 19, 2013, D.C. Law 19-252, § 201, 59 DCR 14932</annotation>
     <annotation type="Editor's Notes">Section 301 of <cite doc="D.C. Law 19-252">D.C. Law 19-252</cite> provided that the Mayor shall issue rules to implement the provisions of the act within 180 days of its effective date [March 19, 2013].</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6022|(a)|(1)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6022|(a)|(2)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6022|(a)|(3)" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6022|(a)|(4)" type="History"/>
-    <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6022|(a)|(1)" target-path="§201|(2)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6022|(a)|(2)" target-path="§201|(3)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6022|(a)|(3)" target-path="§201" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6022|(a)|(4)" target-path="§201|(5)" type="History"/>
+    <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="" target-path="8|17M-i" type="History" display="false"/>
+    <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="" target-path="§8-1772.01|text" type="History" display="false"/>
   </annotations>
 </section>

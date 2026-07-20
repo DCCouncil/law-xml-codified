@@ -76,9 +76,11 @@
   <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 25-326" path="§2|includes|10" codified:display="Note" codified:doc="D.C. Code" codified:path="§24-211.10">Applicability of <cite doc="D.C. Law 25-326" path="">D.C. Law 25-326</cite>: <cite doc="D.C. Law 25-326" path="§4">§ 4 of D.C. Law 25-326</cite> provided that the creation of subsections (c), (e), and (g) in this section by <cite doc="D.C. Law 25-326" path="§2">§ 2 of D.C. Law 25-326</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation type="History" doc="Stat. 79-2-ch507" path="§10">June 27, 1946, 60 Stat. 320, ch. 507, § 10</annotation>
-    <annotation app="2025-05-02" doc="D.C. Law 25-326" eff="2025-05-02" path="§4|(a)" type="History" display="false"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-326" eff="2025-05-02" path="§4|(a)" target-path="§2|includes|10|(c)" type="History" display="false"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-326" eff="2025-05-02" path="§4|(a)" target-path="§2|includes|10|(e)" type="History" display="false"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-326" eff="2025-05-02" path="§4|(a)" target-path="§2|includes|10|(g)" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 25-326" path="§2" codified:display="Note" app="2025-05-02" eff="2025-05-02">Applicability of <cite doc="D.C. Law 25-326" path="">D.C. Law 25-326</cite>: <cite doc="D.C. Law 25-326" path="§4">§ 4 of D.C. Law 25-326</cite> provided that the creation of subsections (c), (e), and (g) in this section by <cite doc="D.C. Law 25-326" path="§2">§ 2 of D.C. Law 25-326</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2025-05-02" doc="D.C. Law 25-326" eff="2025-05-02" path="§2" type="History"/>
-    <annotation app="2025-05-02" doc="D.C. Law 25-326" eff="2025-05-02" path="§2" prefix="as added" type="History"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-326" eff="2025-05-02" path="§2" target-path="§2|includes|10" type="History"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-326" eff="2025-05-02" path="§2" prefix="as added" target-path="24|2|II|A" type="History"/>
   </annotations>
 </section>

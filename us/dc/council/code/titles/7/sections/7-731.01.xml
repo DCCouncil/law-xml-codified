@@ -62,10 +62,10 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 14-28" type="History" path="§4902a">Oct. 3, 2001, D.C. Law 14-28, § 4902a</annotation>
-    <annotation app="2019-04-11" doc="D.C. Law 22-291" eff="2019-04-11" path="§2" prefix="as added" type="History"/>
-    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§9|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-332" eff="2023-03-22" path="§4" type="History"/>
+    <annotation app="2019-04-11" doc="D.C. Law 22-291" eff="2019-04-11" path="§2" prefix="as added" target-path="7|7A|I" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§9|(a)" target-path="4" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-332" eff="2023-03-22" path="§4" target-path="§7-731.01|(a)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-332" path="§4" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-332" path="">D.C. Law 24-332</cite>: <cite doc="D.C. Law 24-332" path="§9">§ 9 of D.C. Law 24-332</cite> provided that the change made to this section by <cite doc="D.C. Law 24-332" path="§4">§ 4 of D.C. Law 24-332</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§4" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§4" target-path="§7-731.01" type="History"/>
   </annotations>
 </section>

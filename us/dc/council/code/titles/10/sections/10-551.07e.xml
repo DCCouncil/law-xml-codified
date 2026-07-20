@@ -147,25 +147,26 @@
   <annotations>
     <annotation doc="D.C. Law 19-21" type="History" path="§1028e">Sept. 14, 2011, D.C. Law 19-21, § 1028e</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§1022" codified:display="Note" app="2022-09-21" eff="2022-07-13">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-470" path="§1022">§ 1022 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
-    <annotation app="2022-09-21" doc="D.C. Act 24-470" eff="2022-07-13" path="§1022" type="History" display="false"/>
-    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§1022" prefix="as added" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Act 24-470" eff="2022-07-13" path="§1022" target-path="§10-551.07e" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§1022" prefix="as added" target-path="10|5A" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-650" path="§2" codified:display="Note" app="2022-11-21" eff="2022-11-21">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-650" path="§2">§ 2 of Protecting Security-Sensitive Dashboard Data Emergency Amendment Act of 2022 (D.C. Act 24-650, Nov. 21, 2022, 0 DCR 0)</cite>.</annotation>
-    <annotation app="2022-11-21" doc="D.C. Act 24-650" eff="2022-11-21" path="§2" type="History" display="false"/>
+    <annotation app="2022-11-21" doc="D.C. Act 24-650" eff="2022-11-21" path="§2" target-path="§10-551.07e" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-270" path="§2" codified:display="Note" app="2023-02-23" eff="2023-02-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-270" path="§2">§ 2 of Protecting Security-Sensitive Dashboard Data Temporary Amendment Act of 2022 (D.C. Law 24-270, Feb. 23, 2023, 69 DCR 14756)</cite>.</annotation>
-    <annotation app="2023-02-23" doc="D.C. Law 24-270" eff="2023-02-23" path="§2" type="History" display="false"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-270" eff="2023-02-23" path="§2" target-path="§10-551.07e" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-28" path="§2" codified:display="Note" app="2023-02-24" eff="2023-02-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-28" path="§2">§ 2 of Protecting Security-Sensitive Dashboard Data Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-28, Feb. 24, 2023, 70 DCR 2961)</cite>.</annotation>
-    <annotation app="2023-02-24" doc="D.C. Act 25-28" eff="2023-02-24" path="§2" type="History" display="false"/>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§1032|(a)" type="History"/>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§1032|(b)" type="History"/>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§1032|(c)" type="History"/>
+    <annotation app="2023-02-24" doc="D.C. Act 25-28" eff="2023-02-24" path="§2" target-path="§10-551.07e" type="History" display="false"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§1032|(a)" target-path="§10-551.07e|(a)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§1032|(b)" target-path="§10-551.07e|(b)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§1032|(c)" target-path="§10-551.07e" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§1072|(a)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§1072|(a)">§ 1072(a) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§1072|(a)" type="History" display="false"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1072|(a)|(1)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1072|(a)|(2)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1072|(a)|(3)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1072|(a)|(4)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1072|(a)|(5)|(A)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1072|(a)|(5)|(B)" type="History"/>
-    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1072|(a)|(6)" type="History"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§1072|(a)" target-path="§10-551.07e" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1072|(a)|(1)" target-path="§10-551.07e|(a)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1072|(a)|(2)" target-path="§10-551.07e|(b)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1072|(a)|(2)" target-path="§10-551.07e|(c)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1072|(a)|(3)" target-path="§10-551.07e|(d)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1072|(a)|(4)" target-path="§10-551.07e" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1072|(a)|(5)|(A)" target-path="§10-551.07e|(e)|(2)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1072|(a)|(5)|(B)" target-path="§10-551.07e|(e)|(3)|(A)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1072|(a)|(6)" target-path="§10-551.07e" type="History"/>
   </annotations>
 </section>

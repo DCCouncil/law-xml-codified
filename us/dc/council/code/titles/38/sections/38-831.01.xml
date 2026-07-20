@@ -103,10 +103,11 @@
     </para>
   </para>
   <annotations>
-    <annotation app="2017-02-18" doc="D.C. Law 21-218" eff="2017-02-18" path="" type="History" display="false"/>
-    <annotation app="2017-02-18" doc="D.C. Law 21-218" eff="2017-02-18" path="§2" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-218" eff="2017-02-18" path="" target-path="|38" type="History" display="false"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-218" eff="2017-02-18" path="" target-path="38|8B" type="History" display="false"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-218" eff="2017-02-18" path="§2" target-path="|38|8B|I" type="History"/>
     <annotation doc="D.C. Law 22-268" path="§202" type="Editor's Notes" history="false" app="2019-03-28" eff="2019-03-28"><cite doc="D.C. Law 22-268" path="§202">Section 202 of D.C. Law 22-268</cite> provided that: (a) No later than 180 days after the effective date of D.C. Law 22-268 (March 28, 2019), the District of Columbia Auditor shall initiate an audit of data-management and data-collection practices of public local education agencies, including the Office of the State Superintendent of Education, the Office of the Deputy Mayor for Education, and the Public Charter School Board; and (b) the Auditor shall issue a report to the Mayor and Council on data-management and data-collection practices and policies of the entities described in subsection (a) of this section.
       </annotation>
-    <annotation app="2019-03-28" doc="D.C. Law 22-268" eff="2019-03-28" path="§202" type="History" display="false"/>
+    <annotation app="2019-03-28" doc="D.C. Law 22-268" eff="2019-03-28" path="§202" target-path="§38-831.01" type="History" display="false"/>
   </annotations>
 </section>

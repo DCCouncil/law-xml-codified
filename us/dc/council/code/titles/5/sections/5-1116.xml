@@ -6,15 +6,17 @@
   <text>Not Funded.</text>
   <annotations>
     <annotation doc="D.C. Law 12-208" type="History" path="§17">Mar. 26, 1999, D.C. Law 12-208, § 17, 45 DCR 8107</annotation>
-    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§301|(a)|(1)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-345" eff="2023-04-21" path="§135" prefix="as added" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§301|(a)|(1)" target-path="§135" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-345" eff="2023-04-21" path="§135" prefix="as added" target-path="5|11|I" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-345" path="§135" codified:display="Note" app="2023-04-21" eff="2023-04-21">Applicability of <cite doc="D.C. Law 24-345" path="">D.C. Law 24-345</cite>: <cite doc="D.C. Law 24-345" path="§301">§ 301 of D.C. Law 24-345</cite> provided that the creation of this section by <cite doc="D.C. Law 24-345" path="§135">§ 135 of D.C. Law 24-345</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§135" type="History"/>
-    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7097" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§135" target-path="§5-1116" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7097" target-path="§135" type="History" display="false"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7097" target-path="§301|(a)|(1)" type="History" display="false"/>
     <annotation doc="D.C. Law 25-50" path="§7097" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7097">Section 7097 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-345" path="§301|(a)|(1)">section 301(a)(1) of D.C. Law 24-345</cite> retaining the applicability provision impacting this section.  Therefore the creation of this section by section 135 of Law 24-345 still has not been implemented.
         </annotation>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7097" target-path="§5-1116" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 25-175" path="§14|(b)" codified:display="Note" app="2024-06-08" eff="2024-06-08">Applicability of <cite doc="D.C. Law 25-175" path="">D.C. Law 25-175</cite>: <cite doc="D.C. Law 25-175" path="§45">§ 45 of D.C. Law 25-175</cite> provided that the amendment of this section by <cite doc="D.C. Law 25-175" path="§14|(b)">§ 14(b) of D.C. Law 25-175</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" type="History" display="false"/>
-    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§14|(b)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" target-path="§14" type="History" display="false"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§14|(b)" target-path="§5-1116" type="History"/>
   </annotations>
 </section>

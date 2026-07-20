@@ -51,7 +51,7 @@
     </para>
   </para>
   <annotations>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="II" type="History" display="false"/>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2092" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="II" target-path="42" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2092" target-path="42|22A" type="History"/>
   </annotations>
 </section>
