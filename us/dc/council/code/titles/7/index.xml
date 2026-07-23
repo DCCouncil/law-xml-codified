@@ -947,6 +947,16 @@
       <xi:include href="./sections/7-1142.02.xml"/>
       <xi:include href="./sections/7-1142.03.xml"/>
     </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>III</num>
+      <heading>Place-Based Substance Use Disorder Outreach Program.</heading>
+      <reason>Not Funded</reason>
+      <annotation app="2026-07-18" doc="D.C. Law 26-142" eff="2026-07-18" path="§3|(a)" target-path="§2" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 26-142" eff="2026-07-18" path="§2" target-path="7|11C" type="History" display="false"/>
+      <xi:include href="./sections/7-1143.01.xml"/>
+      <xi:include href="./sections/7-1143.02.xml"/>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
