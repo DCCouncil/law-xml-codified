@@ -2,11 +2,27 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-904</num>
   <heading>Consideration; basis for computation of tax.</heading>
-  <text>Where no price or amount is paid or required to be paid for real property or where such price or amount is nominal, the consideration for the deed to such property, shall, for purposes of the tax imposed by this chapter, be construed to be the fair market value of the real property, and the tax shall be based upon such fair market value. In any such case, the return required to be filed with the deed shall contain such information as to the fair market value of the real property as the Mayor shall require. Whenever, in the opinion of the Mayor, a return does not contain sufficient information as to the fair market value of such real property, the Mayor is authorized to make a determination thereof from the best information available.</text>
+  <para>
+    <num>(a)</num>
+    <text>Where no price or amount is paid or required to be paid for real property or where such price or amount is nominal, the consideration for the deed to such property, shall, for purposes of the tax imposed by this chapter, be construed to be the fair market value of the real property, and the tax shall be based upon such fair market value. In any such case, the return required to be filed with the deed shall contain such information as to the fair market value of the real property as the Mayor shall require. Whenever, in the opinion of the Mayor, a return does not contain sufficient information as to the fair market value of such real property, the Mayor is authorized to make a determination thereof from the best information available.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>The transferor or transferee of real property, or an interest therein, may, pursuant to <cite path="§47-825.01a|(d)">§ 47-825.01a(d)</cite>, file a petition for review of the determination of fair market value under subsection (a) of this section. The notice of final determination issued by the Office of Tax and Revenue on the petition for review may be appealed to the Real Property Tax Appeals Commission for the District of Columbia as provided in <cite path="§47-825.01a|(e)">§ 47-825.01a(e)</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A transferor or transferee aggrieved by a fair market value determination under subsection (a) of this section may appeal the determination to the Superior Court as provided in <cite path="§47-825.01a|(g)">§ 47-825.01a(g)</cite>.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 3-92" type="History">Sept. 13, 1980, D.C. Law 3-92, § 404, 27 DCR 3390</annotation>
     <annotation doc="D.C. Law 11-254" type="History">enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 47-904.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§47-901">§ 47-901</cite>.</annotation>
+    <annotation app="2026-07-18" doc="D.C. Law 26-147" eff="2026-07-18" path="§3|(b)|(2)" target-path="§47-904" type="History"/>
+    <annotation app="2026-07-18" doc="D.C. Law 26-147" eff="2026-07-18" path="§3|(b)|(1)" target-path="§47-904" type="History"/>
   </annotations>
 </section>
