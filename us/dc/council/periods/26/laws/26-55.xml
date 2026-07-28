@@ -5988,7 +5988,7 @@
       <section>
         <num>5062</num>
         <text>The District of Columbia Public Assistance Act of 1982, effective April 6, 1982 (D.C. Law 4-101; D.C. Official Code § 4-201.01 <em>et seq.</em>), is amended as follows:</text>
-        <para codify:path="§4-205.11a">
+        <para codify:path="§4-205.11a" codify:applicability="notfunded">
           <num>(a)</num>
           <text>Section 511a (D.C. Official Code § 4-205.11a) is amended as follows:</text>
           <para codify:path="(a)">
@@ -6055,16 +6055,18 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:annotation history="false" doc="D.C. Law 26-55" path="§5062|(a)" type="Applicability" codified:doc="D.C. Code" codified:path="§4-205.11a|(a)">Section 5063 of D.C. Law 26-55 provided that the amendments made to this section by section 5062 of D.C. Law 26-55 shall apply as of October 1, 2026. Therefore, the amendments made to this section by section 5062 of D.C. Law 26-55 have not been implemented.</codify:annotation>
         </para>
-        <para codify:path="§4-205.18|(e)">
+        <para codify:path="§4-205.18|(e)" codify:applicability="notfunded">
           <num>(b)</num>
           <text>Section 518(e) (D.C. Official Code § 4-205.18(e)) is amended by striking the phrase "shall exceed 6%" and inserting the phrase "shall exceed 25%" in its place.</text>
           <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-205.18|(e)">
             <find>shall exceed 6%</find>
             <replace>shall exceed 25%</replace>
           </codify:find-replace>
+          <codify:annotation history="false" doc="D.C. Law 26-55" path="§5062|(b)" type="Applicability" codified:doc="D.C. Code" codified:path="§4-205.18|(e)">Section 5063 of D.C. Law 26-55 provided that the amendments made to this section by section 5062 of D.C. Law 26-55 shall apply as of October 1, 2026. Therefore, the amendments made to this section by section 5062 of D.C. Law 26-55 have not been implemented.</codify:annotation>
         </para>
-        <para codify:path="§4-205.19f|(g)">
+        <para codify:path="§4-205.19f|(g)" codify:applicability="notfunded">
           <num>(c)</num>
           <text>Section 519f(g) (D.C. Official Code § 4-205.19f(g)) is amended as follows:</text>
           <para>
@@ -6085,8 +6087,9 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:annotation history="false" doc="D.C. Law 26-55" path="§5062|(c)" type="Applicability" codified:doc="D.C. Code" codified:path="§4-205.19f|(g)|(1)">Section 5063 of D.C. Law 26-55 provided that the amendments made to this section by section 5062 of D.C. Law 26-55 shall apply as of October 1, 2026. Therefore, the amendments made to this section by section 5062 of D.C. Law 26-55 have not been implemented.</codify:annotation>
         </para>
-        <para codify:path="§4-205.52">
+        <para codify:path="§4-205.52" codify:applicability="notfunded">
           <num>(d)</num>
           <text>Section 552 (D.C. Official Code § 4-205.52) is amended by adding a new subsection (c-4) to read as follows:</text>
           <include>
@@ -6113,12 +6116,25 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:annotation history="false" doc="D.C. Law 26-55" path="§5062|(d)" type="Applicability" codified:doc="D.C. Code" codified:path="§4-205.52|(c-4)">Section 5063 of D.C. Law 26-55 provided that the amendments made to this section by section 5062 of D.C. Law 26-55 shall apply as of October 1, 2026. Therefore, the amendments made to this section by section 5062 of D.C. Law 26-55 have not been implemented.</codify:annotation>
         </para>
       </section>
       <section>
         <num>5063</num>
         <heading proof="needed">Applicability.</heading>
         <text>Section 5062 shall apply as of October 1, 2026.</text>
+        <codify:applicability doc="D.C. Law 26-55" path="§5062|(a)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-205.11a|(a)"/>
+        <codify:find-replace path="§4-205.11a" count="2" codified:doc="D.C. Code" codified:path="§4-205.11a">
+          <find>Not Funded.</find>
+          <replace>[Applicable on October 1, 2026.]</replace>
+        </codify:find-replace>
+        <codify:applicability doc="D.C. Law 26-55" path="§5062|(b)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-205.18|(e)"/>
+        <codify:applicability doc="D.C. Law 26-55" path="§5062|(c)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-205.19f|(g)|(1)"/>
+        <codify:applicability doc="D.C. Law 26-55" path="§5062|(d)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-205.52|(c-4)"/>
+        <codify:find-replace path="§4-205.52" count="1" codified:doc="D.C. Code" codified:path="§4-205.52">
+          <find>Not Funded.</find>
+          <replace>[Applicable on October 1, 2026.]</replace>
+        </codify:find-replace>
       </section>
     </container>
     <container>

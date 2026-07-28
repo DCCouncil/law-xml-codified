@@ -255,5 +255,21 @@
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7162|(b)|(1)|(B)" target-path="§47-1005.03|(f)|(1)|(F)" type="History"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7162|(b)|(2)" target-path="§47-1005.03|(f)|(2)" type="History"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7162|(b)|(3)" target-path="§47-1005.03|(f)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 26-141" path="§3" codified:display="Note" app="2026-07-18" eff="2026-07-18">Applicability of <cite doc="D.C. Law 26-141" path="">D.C. Law 26-141</cite>: <cite doc="D.C. Law 26-141" path="§4">§ 4 of D.C. Law 26-141</cite> provided that the note added to this section by <cite doc="D.C. Law 26-141" path="§3">§ 3 of D.C. Law 26-141</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2026-07-18" doc="D.C. Law 26-141" eff="2026-07-18" path="§3" target-path="§47-1005.03" type="History"/>
+    <annotation doc="D.C. Law 26-141" path="" type="Editor's Notes" history="false" app="2026-07-18" eff="2026-07-18">
+      <text>Sections 2 and 3 of <cite doc="D.C. Law 26-141" path="2">D.C. Law 26-141</cite> provided:</text>
+      <include>
+        <section>
+          <num>2</num>
+          <text>Notwithstanding <cite path="§47-1005.03|(b)">D.C. Official Code § 47-1005.03(b)</cite>, if the Office of Tax and Revenue certifies that the real property located at 2607 Connecticut Avenue NW, and known for tax and assessment purposes as Lot 151 in Square 2204 ("Property"), meets each of the requirements for property tax exemption under <cite path="§47-1005.03|(b)|(1)">D.C. Official Code § 47-1005.03(b)(1)</cite>-<cite path="§47-1005.03|(b)|(6)">(6)</cite> by September 30, 2026, all real property and recordation taxes assessed, including any accrued interest and penalties, with respect to the Property beginning on January 23, 2023, shall be forgiven, and any payments made shall be refunded to the person who made the payment; provided, that the total refund shall not exceed $506,627.</text>
+        </section>
+        <section>
+          <num>3</num>
+          <text>Notwithstanding <cite path="§47-1005.03|(b)">D.C. Official Code § 47-1005.03(b)</cite>, if the Office of Tax and Revenue certifies that the real property located at 4111 Kansas Avenue, NW, and known for tax and assessment purposes as Lots 2001 through 2045 in Square 2910 ("Property"), meets each of the requirements for property tax exemption under <cite path="§47-1005.03|(b)|(1)">D.C. Official Code § 47-1005.03(b)(1)</cite>-<cite path="§47-1005.03|(b)|(6)">(6)</cite> within 48 months after SOME Inc., acquired the Property, all real property and recordation taxes assessed, including any accrued interest and penalties, with respect to the Property beginning on May 21, 2022, shall be forgiven, and any payments made shall be refunded to the person who made the payment.</text>
+        </section>
+      </include>
+    </annotation>
+    <annotation app="2026-07-18" doc="D.C. Law 26-141" eff="2026-07-18" path="" target-path="§47-1005.03" type="History" display="false"/>
   </annotations>
 </section>

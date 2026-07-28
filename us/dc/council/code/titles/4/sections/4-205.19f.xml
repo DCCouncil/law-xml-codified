@@ -36,17 +36,25 @@
   </para>
   <para>
     <num>(g)</num>
-    <para placeholder="Repealed">
+    <para>
       <num>(1)</num>
-      <text>Repealed.</text>
+      <text>For the purposes of this subsection, an assistance unit's TANF benefits shall consist of the following portions:</text>
+      <para>
+        <num>(A)</num>
+        <text>80% is designated for the child or children of the assistance unit; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>20% is designated for the adult member or members of the assistance unit.</text>
+      </para>
     </para>
-    <para placeholder="Repealed">
+    <para>
       <num>(2)</num>
-      <text>Repealed.</text>
+      <text>No sanction under <cite path="4|2|V">this subchapter</cite>, or regulations implementing <cite path="4|2|V">this subchapter</cite>, shall reduce the portion of an assistant unit's TANF benefits that is designated for the child or children of the assistance unit.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>The Department of Human Services shall reduce an assistance unit's TANF benefit by 25% when a TANF recipient is found to be in noncompliance with <cite path="4|2|V">this subchapter</cite> or regulations implementing <cite path="4|2|V">this subchapter</cite>.</text>
+      <text>The Department of Human Services shall impose a 30% reduction of the portion of the assistance unit's TANF benefits designated for the adult member or members of the assistance unit when a TANF recipient is found to be in noncompliance with <cite path="4|2|V">this subchapter</cite>, or regulations implementing <cite path="4|2|V">this subchapter</cite>.</text>
     </para>
   </para>
   <annotations>
@@ -70,8 +78,11 @@
     <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5062|(c)" target-path="§4-205.19f" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§5062|(c)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§5062|(c)">§ 5062(c) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
     <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§5062|(c)" target-path="§4-205.19f" type="History" display="false"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5062|(c)|(1)" target-path="§4-205.19f|(g)|(1)" type="History"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5062|(c)|(1)" target-path="§4-205.19f|(g)|(2)" type="History"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5062|(c)|(2)" target-path="§4-205.19f|(g)|(3)" type="History"/>
+    <annotation history="false" doc="D.C. Law 26-55" path="§5062|(c)" type="Applicability" app="2025-12-06" eff="2025-12-06">Section 5063 of D.C. Law 26-55 provided that the amendments made to this section by section 5062 of D.C. Law 26-55 shall apply as of October 1, 2026. Therefore, the amendments made to this section by section 5062 of D.C. Law 26-55 have not been implemented.</annotation>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5062|(c)" target-path="§5062|(c)" type="History" display="false"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5063" target-path="§5062|(c)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 26-55" eff="2025-12-06" path="§5062|(c)|(1)" target-path="§4-205.19f|(g)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-55" eff="2025-12-06" path="§5062|(c)|(1)" target-path="§4-205.19f|(g)|(2)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-55" eff="2025-12-06" path="§5062|(c)|(2)" target-path="§4-205.19f|(g)|(3)" type="History"/>
   </annotations>
 </section>

@@ -27,7 +27,7 @@
   </para>
   <para>
     <num>(e)</num>
-    <text>Nothing in this section shall be interpreted to preclude the Mayor from sanctioning any or all members of an assistance unit for failure to comply with TANF program rules, if such sanction is otherwise permitted under this <cite path="4|2">this chapter</cite>; provided, that no sanction under <cite path="4|2|V">this subchapter</cite>, or regulations implementing <cite path="4|2|V">this subchapter</cite>, shall exceed 25% of the assistance unit's TANF benefits.</text>
+    <text>Nothing in this section shall be interpreted to preclude the Mayor from sanctioning any or all members of an assistance unit for failure to comply with TANF program rules, if such sanction is otherwise permitted under this <cite path="4|2">this chapter</cite>; provided, that no sanction under <cite path="4|2|V">this subchapter</cite>, or regulations implementing <cite path="4|2|V">this subchapter</cite>, shall exceed 6% of the assistance unit's TANF benefits.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 4-101" type="History" path="§518">Apr. 6, 1982, D.C. Law 4-101, § 518, 29 DCR 1060</annotation>
@@ -54,6 +54,9 @@
     <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5062|(b)" target-path="§4-205.18" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§5062|(b)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§5062|(b)">§ 5062(b) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
     <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§5062|(b)" target-path="§4-205.18" type="History" display="false"/>
-    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5062|(b)" target-path="§4-205.18|(e)" type="History"/>
+    <annotation history="false" doc="D.C. Law 26-55" path="§5062|(b)" type="Applicability" app="2025-12-06" eff="2025-12-06">Section 5063 of D.C. Law 26-55 provided that the amendments made to this section by section 5062 of D.C. Law 26-55 shall apply as of October 1, 2026. Therefore, the amendments made to this section by section 5062 of D.C. Law 26-55 have not been implemented.</annotation>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5062|(b)" target-path="§5062|(b)" type="History" display="false"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5063" target-path="§5062|(b)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 26-55" eff="2025-12-06" path="§5062|(b)" target-path="§4-205.18|(e)" type="History"/>
   </annotations>
 </section>
