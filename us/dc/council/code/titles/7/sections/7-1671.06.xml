@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-1671.06</num>
   <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on August 13, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§7-1671.06(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 28, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§7-1671.06(Perm)">Permanent Version</cite>.*
       </text>
   <heading proof="needed">Cultivation centers, manufacturers, retailers, internet retailers, and testing laboratories.</heading>
   <para>
@@ -255,7 +255,7 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>A certificate of occupancy for the proposed location;</text>
+        <text>A zoning certificate or certificate of occupancy for the proposed location;</text>
       </para>
       <para>
         <num>(D)</num>
@@ -268,7 +268,7 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>The holder of a conditional license shall not engage in purchasing, possessing, cultivating, manufacturing, or selling of medical cannabis or cannabis products.</text>
+      <text>The holder of a conditional license shall not engage in purchasing, possessing, cultivating, manufacturing, or selling of medical cannabis, cannabis products, or Schedule I substances.</text>
     </para>
     <para>
       <num>(4)</num>
@@ -383,7 +383,14 @@
     <num>(q)</num>
     <para>
       <num>(1)</num>
-      <text>A retailer or internet retailer shall not locate within any residential district or within 400 feet of a preschool, primary or secondary school, or recreation center; except, that a license holder or an applicant who has applied prior to December 17, 2024, may be permitted to locate within 300 feet of a preschool, primary or secondary school, or recreation center.</text>
+      <para>
+        <num>(A)</num>
+        <text>A retailer or internet retailer shall not locate within any residential district or within 400 feet of a preschool, primary or secondary school, or recreation center; except, that a license holder or an applicant who has applied prior to December 17, 2024, shall not be permitted to locate within 300 feet of a preschool, primary or secondary school, or recreation center.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Notwithstanding subparagraph (A) of this paragraph, an unlicensed establishment license holder or applicant that applied for a retailer or internet retailer license during the 90-calendar-day open application period set forth in <cite path="§7-1671.06a|(a)|(1)">§ 7-1671.06a(a)(1)</cite> shall be permitted to locate within 300 feet of a preschool, primary or secondary school, or recreation center where the main entrance to the preschool, primary school or secondary school, or recreation center is actually on or occupies ground zoned commercial or industrial according to the official atlases of the Zoning Commission of the District of Columbia.</text>
+      </para>
     </para>
     <para>
       <num>(2)</num>
@@ -849,15 +856,17 @@
     <annotation app="2025-10-23" doc="D.C. Act 26-172" eff="2025-10-23" path="§3" target-path="§7-1671.06" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-58" path="§3" codified:display="Note" app="2025-12-11" eff="2025-12-11">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-58" path="§3">§ 3 of Streatery Program Endorsement Extension and Medical Cannabis Clarification Temporary Amendment Act of 2025 (D.C. Law 26-58, Dec. 11, 2025, 0 DCR 0)</cite>.</annotation>
     <annotation app="2025-12-11" doc="D.C. Law 26-58" eff="2025-12-11" path="§3" target-path="§7-1671.06" type="History" display="false"/>
-    <annotation app="2025-12-31" doc="D.C. Law 26-71" eff="2025-12-31" path="§2" target-path="§7-1671.06" type="History" display="false"/>
-    <annotation app="2025-12-31" doc="D.C. Law 26-71" eff="2025-12-31" path="§2|(a)|(1)" target-path="§7-1671.06|(k)|(1)" type="History"/>
-    <annotation app="2025-12-31" doc="D.C. Law 26-71" eff="2025-12-31" path="§2|(a)|(2)" target-path="§7-1671.06|(k)|(2)" type="History"/>
-    <annotation app="2025-12-31" doc="D.C. Law 26-71" eff="2025-12-31" path="§2|(a)|(3)" target-path="§7-1671.06|(k)|(4)" type="History"/>
-    <annotation app="2025-12-31" doc="D.C. Law 26-71" eff="2025-12-31" path="§2|(b)" target-path="§7-1671.06|(k-1)" type="History"/>
-    <annotation app="2025-12-31" doc="D.C. Law 26-71" eff="2025-12-31" path="§2|(c)" target-path="§7-1671.06|(l)" type="History"/>
-    <annotation doc="D.C. Law 26-71" path="§2" type="Applicability" app="2025-12-31" eff="2025-12-31"><cite doc="D.C. Law 26-71" path="§3">Section 3 of D.C. Law 26-71</cite> provided that the amendments made to this section by <cite doc="D.C. Law 26-71" path="§2">section 2</cite> of D.C. Law 26-71 shall apply as of June 28, 2025. 
-         </annotation>
-    <annotation app="2025-12-31" doc="D.C. Law 26-71" eff="2025-12-31" path="§2" target-path="§7-1671.06" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-71" path="§2" codified:display="Note" app="2025-12-31" eff="2025-12-31">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-71" path="§2">§ 2 of Medical Cannabis Conditional Licensure Extension Temporary Amendment Act of 2025 (D.C. Law 26-71, Dec. 31, 2025, 72 DCR 12862)</cite>.</annotation>
+    <annotation app="2025-12-31" doc="D.C. Law 26-71" eff="2025-12-31" path="§2" target-path="§7-1671.06" type="History" display="false"/>
+    <annotation app="2026-07-30" doc="D.C. Act 26-391" eff="2026-07-30" path="§2|(b)" target-path="§7-1671.06" type="History" display="false"/>
+    <annotation app="2026-07-30" doc="D.C. Act 26-391" eff="2026-07-30" path="§2|(b)|(1)|(A)" target-path="§7-1671.06|(k)|(1)" type="History"/>
+    <annotation app="2026-07-30" doc="D.C. Act 26-391" eff="2026-07-30" path="§2|(b)|(1)|(B)|(ii)" target-path="§7-1671.06|(k)|(2)|(C)" type="History"/>
+    <annotation app="2026-07-30" doc="D.C. Act 26-391" eff="2026-07-30" path="§2|(b)|(1)|(B)|(i)" target-path="§7-1671.06|(k)|(2)" type="History"/>
+    <annotation app="2026-07-30" doc="D.C. Act 26-391" eff="2026-07-30" path="§2|(b)|(1)|(C)" target-path="§7-1671.06|(k)|(3)" type="History"/>
+    <annotation app="2026-07-30" doc="D.C. Act 26-391" eff="2026-07-30" path="§2|(b)|(1)|(D)" target-path="§7-1671.06|(k)|(4)" type="History"/>
+    <annotation app="2026-07-30" doc="D.C. Act 26-391" eff="2026-07-30" path="§2|(b)|(2)" target-path="§7-1671.06|(k-1)" type="History"/>
+    <annotation app="2026-07-30" doc="D.C. Act 26-391" eff="2026-07-30" path="§2|(b)|(3)" target-path="§7-1671.06|(l)" type="History"/>
+    <annotation app="2026-07-30" doc="D.C. Act 26-391" eff="2026-07-30" path="§2|(b)|(4)" target-path="§7-1671.06|(q)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-391" path="§2|(b)" codified:display="Note" app="2026-07-30" eff="2026-07-30">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-391" path="§2|(b)">§ 2(b) of Medical Cannabis Licensing and Unlicensed Establishment Enforcement Clarification Emergency Amendment Act of 2026 (D.C. Act 26-391, July 30, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

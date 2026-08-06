@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>6-1451.01</num>
   <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on January 1, 2027. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§6-1451.01(Perm)">Past Permanent Version</cite>.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 28, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§6-1451.01(Perm)">Past Permanent Version</cite>.*
       </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
@@ -16,7 +16,7 @@
   </para>
   <para>
     <num>(2A)</num>
-    <text>"Aquatic center" means a structure intended for swimming or recreational bathing that contains water over 24 inches deep and includes the pool, decks, surrounding structure, locker rooms, electrical and mechanical rooms, and IT controls that support the pool.</text>
+    <text>"Aquatic center" means a structure intended for swimming or recreational bathing that contains water over 24 inches deep and includes the pool, decks, and surrounding structure, locker rooms, electrical and mechanical rooms, and IT controls that support the pool.</text>
   </para>
   <para>
     <num>(2B)</num>
@@ -28,7 +28,7 @@
   </para>
   <para>
     <num>(3A)</num>
-    <text>"Building Codes" means the portions of the Construction Codes designated as the Building Code and the Existing Building Code.</text>
+    <text>"Building Codes" means the portions of the Construction Codes designated as the Building Code, the Energy Conservation Code, and the Existing Building Code.</text>
   </para>
   <para>
     <num>(4)</num>
@@ -48,7 +48,7 @@
   </para>
   <para>
     <num>(6)</num>
-    <text>"Construction Codes" shall have the same meaning as in section 2(2) of the Construction Codes Approval and Amendments Act of 1986, effective March 21, 1987 (D.C. Law 6-216; D.C. Official Code § 6-1401(2)).</text>
+    <text>"Construction Codes" shall have the same meaning as in <cite path="§6-1401|(2)">§ 6-1401(2)</cite>.</text>
   </para>
   <para>
     <num>(7)</num>
@@ -328,19 +328,21 @@
     <annotation app="notfunded" doc="D.C. Law 25-262" eff="2025-03-07" path="§4|(a)" target-path="§6-1451.01" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-275" path="§2|(a)" codified:display="Note" app="2026-03-06" eff="2026-03-06">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-275" path="§2|(a)">§ 2(a) of Net Zero Modification and Preservation Emergency Amendment Act of 2026 (D.C. Act 26-275, Mar. 6, 2026, 73 DCR 3779)</cite>.</annotation>
     <annotation app="2026-03-06" doc="D.C. Act 26-275" eff="2026-03-06" path="§2|(a)" target-path="§6-1451.01" type="History" display="false"/>
-    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§2|(a)" target-path="§6-1451.01" type="History" display="false"/>
-    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§2|(a)|(1)" target-path="§6-1451.01|(1)" type="History"/>
-    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§2|(a)|(3)" target-path="§6-1451.01" type="History"/>
-    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§2|(a)|(2)" target-path="§6-1451.01|(2A)|num" type="History"/>
-    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§2|(a)|(4)" target-path="§6-1451.01" type="History"/>
-    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§2|(a)|(5)" target-path="§6-1451.01|(6)" type="History"/>
-    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§2|(a)|(5)" target-path="§6-1451.01|(7)" type="History"/>
-    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§2|(a)|(6)" target-path="§6-1451.01|(8)" type="History"/>
-    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§2|(a)|(7)" target-path="§6-1451.01|(14)" type="History"/>
-    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§2|(a)|(8)" target-path="§6-1451.01|(22)" type="History"/>
-    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§2|(a)|(9)" target-path="§6-1451.01" type="History"/>
-    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§2|(a)|(10)" target-path="§6-1451.01" type="History"/>
-    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§2|(a)|(11)" target-path="§6-1451.01|(40A)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-123" path="§2|(a)" codified:display="Note" app="2026-05-21" eff="2026-05-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-123" path="§2|(a)">§ 2(a) of Net Zero Modification and Preservation Temporary Amendment Act of 2026 (D.C. Law 26-123, May 21, 2026, 73 DCR 5075)</cite>.</annotation>
+    <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§2|(a)" target-path="§6-1451.01" type="History" display="false"/>
+    <annotation app="2026-07-30" doc="D.C. Act 26-394" eff="2026-07-30" path="§2|(a)" target-path="§6-1451.01" type="History" display="false"/>
+    <annotation app="2026-07-30" doc="D.C. Act 26-394" eff="2026-07-30" path="§2|(a)|(1)" target-path="§6-1451.01|(1)" type="History"/>
+    <annotation app="2026-07-30" doc="D.C. Act 26-394" eff="2026-07-30" path="§2|(a)|(3)" target-path="§6-1451.01" type="History"/>
+    <annotation app="2026-07-30" doc="D.C. Act 26-394" eff="2026-07-30" path="§2|(a)|(2)" target-path="§6-1451.01|(2A)|num" type="History"/>
+    <annotation app="2026-07-30" doc="D.C. Act 26-394" eff="2026-07-30" path="§2|(a)|(4)" target-path="§6-1451.01" type="History"/>
+    <annotation app="2026-07-30" doc="D.C. Act 26-394" eff="2026-07-30" path="§2|(a)|(5)" target-path="§6-1451.01|(6)" type="History"/>
+    <annotation app="2026-07-30" doc="D.C. Act 26-394" eff="2026-07-30" path="§2|(a)|(5)" target-path="§6-1451.01|(7)" type="History"/>
+    <annotation app="2026-07-30" doc="D.C. Act 26-394" eff="2026-07-30" path="§2|(a)|(6)" target-path="§6-1451.01|(8)" type="History"/>
+    <annotation app="2026-07-30" doc="D.C. Act 26-394" eff="2026-07-30" path="§2|(a)|(7)" target-path="§6-1451.01|(14)" type="History"/>
+    <annotation app="2026-07-30" doc="D.C. Act 26-394" eff="2026-07-30" path="§2|(a)|(8)" target-path="§6-1451.01|(22)" type="History"/>
+    <annotation app="2026-07-30" doc="D.C. Act 26-394" eff="2026-07-30" path="§2|(a)|(9)" target-path="§6-1451.01" type="History"/>
+    <annotation app="2026-07-30" doc="D.C. Act 26-394" eff="2026-07-30" path="§2|(a)|(10)" target-path="§6-1451.01" type="History"/>
+    <annotation app="2026-07-30" doc="D.C. Act 26-394" eff="2026-07-30" path="§2|(a)|(11)" target-path="§6-1451.01|(40A)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-394" path="§2|(a)" codified:display="Note" app="2026-07-30" eff="2026-07-30">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-394" path="§2|(a)">§ 2(a) of Net Zero Continuity Emergency Amendment Act of 2026 (D.C. Act 26-394, July 30, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

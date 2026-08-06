@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-579</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on March 14, 2027. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§2-579(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Enforcement; authority.</heading>
   <para>
     <num>(a)</num>
-    <text>The Office of Open Government may bring a lawsuit in the Superior Court of the District of Columbia for injunctive or declaratory relief for any violation of this subchapter before or after the meeting in question takes place; provided, that the Council shall adopt its own rules for enforcement related to Council meetings. Nothing in this subchapter shall:</text>
+    <text>The Office of Open Government may bring a lawsuit in the Superior Court of the District of Columbia for injunctive or declaratory relief for any violation of this subchapter before or after the meeting in question takes place; provided, that the Council shall adopt its own rules for enforcement related to meetings and gatherings of councilmembers. Nothing in this subchapter shall:</text>
     <para>
       <num>(1)</num>
       <text>Be construed to create or imply a private cause of action for a violation of this subchapter; or</text>
@@ -66,5 +69,8 @@
     <annotation app="2025-07-22" doc="D.C. Act 26-110" eff="2025-07-22" path="§2|(e)" target-path="§2-579" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-24" path="§2|(e)" codified:display="Note" app="2025-08-16" eff="2025-08-16">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-24" path="§2|(e)">§ 2(e) of Open Meetings Clarification Temporary Amendment Act of 2025 (D.C. Law 26-24, Aug. 16, 2025, 72 DCR 7532)</cite>.</annotation>
     <annotation app="2025-08-16" doc="D.C. Law 26-24" eff="2025-08-16" path="§2|(e)" target-path="§2-579" type="History" display="false"/>
+    <annotation app="2026-08-01" doc="D.C. Law 26-153" eff="2026-08-01" path="§2|(e)" target-path="§2-579" type="History" display="false"/>
+    <annotation app="2026-08-01" doc="D.C. Law 26-153" eff="2026-08-01" path="§2|(e)" target-path="§2-579|(a)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-153" path="§2|(e)" codified:display="Note" app="2026-08-01" eff="2026-08-01">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-153" path="§2|(e)">§ 2(e) of Open Meetings Clarification Temporary Amendment Act of 2026 (D.C. Law 26-153, Aug. 1, 2026, 73 DCR 8185)</cite>.</annotation>
   </annotations>
 </section>
