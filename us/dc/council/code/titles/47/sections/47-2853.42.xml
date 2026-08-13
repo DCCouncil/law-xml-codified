@@ -1,39 +1,71 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>47-2853.42</num>
-  <heading>Eligibility requirements.</heading>
-  <text>An applicant for licensure as a certified public accountant shall establish to the satisfaction of the Board of Accountancy that the applicant:</text>
-  <para placeholder="Repealed">
-    <num>(1)</num>
-    <text>[Repealed].</text>
-  </para>
-  <para placeholder="Repealed">
-    <num>(2)</num>
-    <text>[Repealed].</text>
-  </para>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 8, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-2853.42(Perm)">Permanent Version</cite>.*
+      </text>
+  <heading proof="needed">Eligibility requirements.</heading>
   <para>
-    <num>(3)</num>
-    <text>Has passed an examination in accounting and auditing and such related subjects as the Board shall determine to be appropriate;</text>
-  </para>
-  <para>
-    <num>(4)</num>
+    <num>(a)</num>
+    <text>An applicant for licensure as a certified public accountant shall establish to the satisfaction of the Board that the applicant:</text>
     <para>
-      <num>(A)</num>
-      <text>Holds a baccalaureate degree with a concentration in accounting conferred by a college or university recognized by the Board or holds that which the Board determines to be substantially the equivalent thereof; or</text>
+      <num>(1)</num>
+      <text>Has passed an examination in accounting and auditing and such related subjects as the Board shall determine to be appropriate;</text>
     </para>
     <para>
-      <num>(B)</num>
-      <text>Holds a baccalaureate degree acceptable to the Board supplemented with the equivalent of an accounting concentration including related courses in other areas of business administration; and</text>
+      <num>(2)</num>
+      <para>
+        <num>(A)</num>
+        <text>Holds a baccalaureate or post-baccalaureate degree with a concentration in accounting conferred by a college or university acceptable to the Board or holds a degree the Board determines to be substantially equivalent thereto; or.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Holds a baccalaureate degree conferred by a college or university acceptable to the Board supplemented with the equivalent of an accounting concentration, which may include related courses in other areas of business administration;</text>
+      </para>
     </para>
     <para>
-      <num>(C)</num>
-      <text>For applicants receiving a baccalaureate degree after January 1, 2000, in addition to meeting the requirements of either subparagraphs (A) or (B) of this paragraph, possesses 150 semester hours of college education; and</text>
+      <num>(3)</num>
+      <text>Has completed the following years of relevant experience:</text>
+      <para>
+        <num>(A)</num>
+        <text>Two years for an applicant who holds a baccalaureate degree described in paragraph (2) of this subsection, of which one year may be substituted by having completed an additional 30 semester credit hours above the minimum hours required for a baccalaureate degree; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>One year for an applicant who holds a post-baccalaureate degree as described in paragraph (2)(A) of this subsection; and</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Meets any other requirements established by rule.</text>
     </para>
   </para>
   <para>
-    <num>(5)</num>
-    <text>Meets any other requirements established by rule to ensure that the applicant has the proper training, experience, and qualifications to practice as a certified public accountant.</text>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>For purposes of this section, the term "relevant experience" means providing services or advice representing the skills needed at the time of licensure to serve the public as a certified public accountant.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Relevant experience includes providing any type of business services or advice using accounting, attest, compilation, management advisory, financial advisory, tax, or consulting skills, to the extent such experience has been verified by a person licensed as a certified public accountant.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Whether the experience of an applicant constitutes relevant experience shall be determined by the Board.</text>
+    </para>
   </para>
+  <para>
+    <num>(c)</num>
+    <text>The Mayor, pursuant to <cite path="2|5|I">[subchapter I of Chapter 5 of Title 2]</cite>, may establish additional licensure requirements by rule to ensure that the applicant has the proper training, experience, and qualifications to practice as a certified public accountant.</text>
+  </para>
+  <codify:emergency doc="D.C. Code" path="§47-2853.42" codified:doc="D.C. Code" codified:path="§47-2853.42" codified:display="Note"/>
+  <codify:insert doc="D.C. Code" path="§47-2853.42" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-2853.42">
+    <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 8, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-2853.42(Perm)">Permanent Version</cite>.*
+      </text>
+  </codify:insert>
   <annotations>
     <annotation doc="D.C. Law 12-261" type="History">Apr. 20, 1999, D.C. Law 12-261, § 1002, 46 DCR 3142</annotation>
     <annotation doc="D.C. Law 16-130" type="History">June 16, 2006, D.C. Law 16-130, § 2(c), 53 DCR 4718</annotation>
@@ -48,5 +80,8 @@
     <annotation app="2017-04-15" doc="D.C. Law 21-276" eff="2017-04-15" path="§2|(c)|(3)" target-path="§47-2853.42|(4)|(C)" type="History"/>
     <annotation app="2017-04-15" doc="D.C. Law 21-276" eff="2017-04-15" path="§2|(c)|(4)" target-path="§47-2853.42" type="History"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-205" eff="2021-03-16" path="§4|(f)" target-path="§47-2853.42|(1)" type="History"/>
+    <annotation app="2026-08-10" doc="D.C. Act 26-399" eff="2026-08-10" path="§3|(b)|(2)" target-path="§47-2853.42" type="History" display="false"/>
+    <annotation app="2026-08-10" doc="D.C. Act 26-399" eff="2026-08-10" path="§3|(b)|(2)" target-path="§47-2853.42" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-399" path="§3|(b)|(2)" codified:display="Note" app="2026-08-10" eff="2026-08-10">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-399" path="§3|(b)|(2)|includes|47-2853.42">§ 47-2853.42 of Business Licensing Reform and Accountancy Practice Emergency Amendment Act of 2026 (D.C. Act 26-399, Aug. 10, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

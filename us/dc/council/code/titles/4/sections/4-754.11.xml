@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-754.11</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 8, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-754.11(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Client rights.</heading>
   <para>
     <num>(a)</num>
@@ -31,7 +34,7 @@
     </para>
     <para>
       <num>(7)</num>
-      <text>Confidential treatment by the Department and providers of personal, social, legal, financial, educational, and medical records and information related to a client or any member of a client’s family, whether obtained from the client or from any other source, in a manner consistent with the confidentiality requirements of District and federal law;</text>
+      <text>Confidential treatment by the Department and providers of personal, social, legal, financial, educational, and medical records and information related to a client or any member of a client’s family, whether obtained from the client or from any other source, in a manner consistent with the confidentiality requirements of District and federal law, subject to the authorized uses and mandatory disclosures of such records and information in accordance with <cite path="7|2B">Chapter 2B of Title 7</cite>;</text>
     </para>
     <para>
       <num>(8)</num>
@@ -189,5 +192,8 @@
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-208" path="§11|(b)" codified:display="Note" app="2024-09-18" eff="2024-09-18">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-208" path="§11|(b)">§ 11(b) of Fiscal Year 2024 Revised Local Budget Adjustment Temporary Act of 2024 (D.C. Law 25-208, Sept. 18, 2024, 71 DCR 9914)</cite>.</annotation>
     <annotation app="2024-09-18" doc="D.C. Law 25-208" eff="2024-09-18" path="§11|(b)" target-path="§4-754.11" type="History" display="false"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§5062|(b)" target-path="§4-754.11|(a)|(18)" type="History"/>
+    <annotation app="2026-08-10" doc="D.C. Act 26-409" eff="2026-08-10" path="§2|(a)" target-path="§4-754.11" type="History" display="false"/>
+    <annotation app="2026-08-10" doc="D.C. Act 26-409" eff="2026-08-10" path="§2|(a)" target-path="§4-754.11|(a)|(7)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-409" path="§2|(a)" codified:display="Note" app="2026-08-10" eff="2026-08-10">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-409" path="§2|(a)">§ 2(a) of Health and Human Service Programs and Benefits Eligibility and Delivery Data-Sharing Clarifications Emergency Amendment Act of 2026 (D.C. Act 26-409, Aug. 10, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

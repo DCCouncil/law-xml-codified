@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-309.10</num>
   <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on August 13, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-309.10(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 8, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-309.10(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Advisory Neighborhood Commissions — Duties and responsibilities; notice; great weight; access to documents; reports; contributions.</heading>
   <para>
@@ -209,7 +209,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>Pursuant to subsection (d) of this section, the Department of Licensing and Consumer Protection shall give great weight to the Commission's recommendations when determining whether to grant or renew the licenses.</text>
+      <text>Pursuant to subsection (d) of this section, the Department of Licensing and Consumer Protection shall give great weight to the Commission's recommendations when determining whether to grant or renew the license.</text>
     </para>
   </para>
   <annotations>
@@ -306,11 +306,10 @@
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§2|(d)" target-path="§1-309.10" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-165" path="§2" codified:display="Note" app="2025-10-23" eff="2025-10-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-165" path="§2">§ 2 of Revised Business Licensing Reform Emergency Amendment Act of 2025 (D.C. Act 26-165, Oct. 23, 2025, 0 DCR 0)</cite>.</annotation>
     <annotation app="2025-10-23" doc="D.C. Act 26-165" eff="2025-10-23" path="§2" target-path="§1-309.10" type="History" display="false"/>
-    <annotation app="2025-12-31" doc="D.C. Law 26-78" eff="2025-12-31" path="§2" target-path="§1-309.10" type="History" display="false"/>
-    <annotation app="2025-12-31" doc="D.C. Law 26-78" eff="2025-12-31" path="§2" target-path="§1-309.10|(q)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-78" path="§2" codified:display="Note" app="2025-12-31" eff="2025-12-31">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-78" path="§2">§ 2 of Revised Business Licensing Reform Temporary Amendment Act of 2025 (D.C. Law 26-78, Dec. 31, 2025, 72 DCR 12889)</cite>.</annotation>
-    <annotation doc="D.C. Law 26-78" path="§2" type="Applicability" app="2025-12-31" eff="2025-12-31"><cite doc="D.C. Law 26-78" path="§4">Section 4 of D.C. Law 26-78</cite> provided that the amendments made to this section by <cite doc="D.C. Law 26-78" path="§2">section 2</cite> of D.C. Law 26-78 shall apply as of October 1, 2025. 
-         </annotation>
-    <annotation app="2025-12-31" doc="D.C. Law 26-78" eff="2025-12-31" path="§2" target-path="§1-309.10" type="History"/>
+    <annotation app="2025-12-31" doc="D.C. Law 26-78" eff="2025-12-31" path="§2" target-path="§1-309.10" type="History" display="false"/>
+    <annotation app="2026-08-10" doc="D.C. Act 26-399" eff="2026-08-10" path="§2" target-path="§1-309.10" type="History" display="false"/>
+    <annotation app="2026-08-10" doc="D.C. Act 26-399" eff="2026-08-10" path="§2" target-path="§1-309.10|(q)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-399" path="§2" codified:display="Note" app="2026-08-10" eff="2026-08-10">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-399" path="§2">§ 2 of Business Licensing Reform and Accountancy Practice Emergency Amendment Act of 2026 (D.C. Act 26-399, Aug. 10, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

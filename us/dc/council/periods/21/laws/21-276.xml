@@ -81,12 +81,12 @@
       <para codify:path="(2)">
         <num>(2)</num>
         <text>Paragraph (2) is repealed.</text>
-        <codify:repeal codified:doc="D.C. Code" codified:path="§47-2853.42|(2)"/>
+        <codify:repeal codified:doc="D.C. Code" codified:path="§47-2853.42"/>
       </para>
       <para codify:path="(4)|(C)">
         <num>(3)</num>
         <text>Paragraph (4)(C) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.42|(4)|(C)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.42">
           <find>n.</find>
           <replace>n; and</replace>
         </codify:find-replace>
@@ -96,7 +96,7 @@
         <text>A new paragraph (5) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(4)" codified:doc="D.C. Code" codified:path="§47-2853.42|(5)"/>
+            <codify:insert after="(4)" codified:doc="D.C. Code" codified:path="§47-2853.42"/>
             <num>(5)</num>
             <text>Meets any other requirements established by rule to ensure that the applicant has the proper training, experience, and qualifications to practice as a certified public accountant.</text>
           </para>
@@ -429,7 +429,7 @@
         <para codify:path="(1)">
           <num>(B)</num>
           <text>Paragraph (1) is amended by striking the phrase "valid license" and inserting the phrase "valid, unrestricted license" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.49|(b)|(1)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.49|(b)">
             <find>valid license</find>
             <replace>valid, unrestricted license</replace>
           </codify:find-replace>
