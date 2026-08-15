@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-191.02</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on August 13, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§8-191.02(Perm)">Permanent Version</cite>.*
-      </text>
   <heading proof="needed">Establishment of the District Waterways Advisory Commission; composition; duties.</heading>
   <para>
     <num>(a)</num>
@@ -16,7 +13,7 @@
       <text>The Commission shall be comprised of 14 voting members appointed as follows:</text>
       <para>
         <num>(A)</num>
-        <text>Seven members appointed by the Mayor, with the advice and consent of the Council, pursuant to <cite path="§1-523.01|(f)">§ 1-523.01(f)</cite>, one of whom shall be designated as Chairperson.  Each appointee shall have experience in at least one of the following areas:</text>
+        <text>Seven members appointed by the Mayor, with the advice and consent of the Council, pursuant to <cite path="§1-523.01|(e)">§ 1-523.01(e)</cite>, one of whom shall be designated as Chairperson.  Each appointee shall have experience in at least one of the following areas:</text>
         <para>
           <num>(i)</num>
           <text>Public safety;</text>
@@ -105,15 +102,11 @@
     </para>
     <para>
       <num>(9)</num>
-      <text>The Public Service Commission;</text>
+      <text>The Public Service Commission; and</text>
     </para>
     <para>
       <num>(10)</num>
-      <text>The Department of Housing and Community Development; and</text>
-    </para>
-    <para>
-      <num>(11)</num>
-      <text>The Department of Parks and Recreation.</text>
+      <text>The Department of Housing and Community Development.</text>
     </para>
   </para>
   <para>
@@ -146,7 +139,7 @@
   </para>
   <para>
     <num>(f)</num>
-    <text>The Commission shall meet at least once every 2 months until the first Advisory Plan developed pursuant to <cite path="§8-191.03">§ 8-191.03</cite> is published and at least quarterly thereafter.</text>
+    <text>The Commission shall meet at least once every month until the first Advisory Plan developed pursuant to <cite path="§8-191.03">§ 8-191.03</cite> is published and at least quarterly thereafter.</text>
   </para>
   <para>
     <num>(g)</num>
@@ -173,15 +166,7 @@
     <annotation app="2025-03-07" doc="D.C. Law 25-283" eff="2025-03-07" path="§2|(a)" target-path="§8-191.02" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-173" path="§2|(a)" codified:display="Note" app="2025-10-23" eff="2025-10-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-173" path="§2|(a)">§ 2(a) of Office of District Waterways Management Establishment Emergency Amendment Act of 2025 (D.C. Act 26-173, Oct. 23, 2025, 0 DCR 0)</cite>.</annotation>
     <annotation app="2025-10-23" doc="D.C. Act 26-173" eff="2025-10-23" path="§2|(a)" target-path="§8-191.02" type="History" display="false"/>
-    <annotation app="2025-12-31" doc="D.C. Law 26-75" eff="2025-12-31" path="§2|(a)" target-path="§8-191.02" type="History" display="false"/>
-    <annotation app="2025-12-31" doc="D.C. Law 26-75" eff="2025-12-31" path="§2|(a)|(1)" target-path="§8-191.02|(b)|(1)|(A)" type="History"/>
-    <annotation app="2025-12-31" doc="D.C. Law 26-75" eff="2025-12-31" path="§2|(a)|(2)|(A)" target-path="§8-191.02|(c)|(9)" type="History"/>
-    <annotation app="2025-12-31" doc="D.C. Law 26-75" eff="2025-12-31" path="§2|(a)|(2)|(B)" target-path="§8-191.02|(c)|(10)" type="History"/>
-    <annotation app="2025-12-31" doc="D.C. Law 26-75" eff="2025-12-31" path="§2|(a)|(2)|(C)" target-path="§8-191.02|(c)" type="History"/>
-    <annotation app="2025-12-31" doc="D.C. Law 26-75" eff="2025-12-31" path="§2|(a)|(3)" target-path="§8-191.02|(f)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-75" path="§2|(a)" codified:display="Note" app="2025-12-31" eff="2025-12-31">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-75" path="§2|(a)">§ 2(a) of Office of District Waterways Management Establishment Temporary Amendment Act of 2025 (D.C. Law 26-75, Dec. 31, 2025, 72 DCR 12872)</cite>.</annotation>
-    <annotation doc="D.C. Law 26-75" path="§2|(a)" type="Applicability" app="2025-12-31" eff="2025-12-31"><cite doc="D.C. Law 26-75" path="§4">Section 4 of D.C. Law 26-75</cite> provided that the amendments made to this section by <cite doc="D.C. Law 26-75" path="§2|(a)">section 2(a)</cite> of D.C. Law 26-75 shall apply as of  October 18, 2025. 
-         </annotation>
-    <annotation app="2025-12-31" doc="D.C. Law 26-75" eff="2025-12-31" path="§2|(a)" target-path="§8-191.02" type="History"/>
+    <annotation app="2025-12-31" doc="D.C. Law 26-75" eff="2025-12-31" path="§2|(a)" target-path="§8-191.02" type="History" display="false"/>
   </annotations>
 </section>
