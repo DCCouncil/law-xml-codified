@@ -5856,7 +5856,7 @@
         <para codify:path="§2-576|(3)">
           <num>(c)</num>
           <text>Section 406(3) (D.C. Official Code § 2-576(3)) is amended by striking the phrase "subsection, notice" and inserting the phrase "subsection, except for meetings of boards of trustees for public charter schools, notice" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-576|(3)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-576|(a)|(3)">
             <find>subsection, notice</find>
             <replace>subsection, except for meetings of boards of trustees for public charter schools, notice</replace>
           </codify:find-replace>

@@ -1,17 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Act 26-363">
-  <num type="bill">26-331</num>
-  <num type="act">26-363</num>
-  <heading type="short">Harmony Park Designation Act of 2026</heading>
-  <heading type="long">To officially designate the triangle park in Reservation 160 as Harmony Park.</heading>
+<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 26-171">
+  <num type="law">26-171</num>
+  <num type="act">26-364</num>
+  <num type="bill">26-431</num>
+  <heading type="short">Rodney Wright Basketball Court Designation Act of 2026</heading>
+  <heading type="long">To officially designate the basketball court at the Marvin Gaye Recreation Center, located at 61st Street, NE, as the Rodney Wright Basketball Court.</heading>
   <meta>
-    <introduced>2025-07-14</introduced>
-    <effective projected="true">2026-09-18</effective>
+    <introduced>2025-10-16</introduced>
+    <effective>2026-08-20</effective>
     <citations>
-      <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/58170/Signed_Act/B26-0331-Signed_Act.pdf?Id=242236">D.C. Act 26-363</citation>
-      <citation type="register">73 DCR 9398</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/60548/Signed_Act/B26-0431-Signed_Act.pdf?Id=242237">D.C. Law 26-171</citation>
+      <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/60548/Signed_Act/B26-0431-Signed_Act.pdf?Id=242237">D.C. Act 26-364</citation>
+      <citation type="register">73 DCR 9400</citation>
     </citations>
-    <history url="https://lims.dccouncil.gov/Legislation/B26-0331">
+    <history url="https://lims.dccouncil.gov/Legislation/B26-0431">
       <vote date="2026-06-02" reading="First"/>
       <vote date="2026-06-23" reading="Final"/>
       <enacted>2026-07-01</enacted>
@@ -19,10 +21,10 @@
       <committee>Committee of the Whole</committee>
     </history>
   </meta>
-  <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Harmony Park Designation Act of 2026".</text>
+  <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Rodney Wright Basketball Court Designation Act of 2026".</text>
   <section>
     <num>2</num>
-    <text>Pursuant to sections 401 and 422 of the Street and Alley Closing and Acquisition Procedures Act of 1982, effective March 10, 1983 (D.C. Law 4-201; D.C. Official Code §§ 9-204.01, and 9-204.22), the Council designates the triangle park in Reservation 160, as depicted in the plat in the committee report, as "Harmony Park".</text>
+    <text>Pursuant to sections 401 and 422 of the Street and Alley Closing and Acquisition Procedures Act of 1982, effective March 10, 1983 (D.C. Law 4-201; D.C. Official Code §§ 9-204.01, and 9-204.22), the Council designates the basketball court at the Marvin Gaye Recreation Center, located at 61st Street, NE, as depicted in the plat in the committee report, as the "Rodney Wright Basketball Court".</text>
   </section>
   <section>
     <num>3</num>
