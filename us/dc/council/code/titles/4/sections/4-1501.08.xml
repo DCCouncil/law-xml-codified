@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-1501.08</num>
   <heading>Confidentiality of information to be maintained.</heading>
-  <text>All criminal background records received by the Mayor shall be confidential and are for the exclusive use of making employment-related determinations under this chapter. The records shall not be released or otherwise disclosed to any person except when:</text>
+  <text>All criminal background records received, pursuant to <cite path="4|15">this chapter</cite>, by the Mayor or a private entity that is a covered child or youth services provider shall be confidential and are for the exclusive use of making employment-related determinations under this chapter. The records shall not be released or otherwise disclosed to any person except when:</text>
   <para>
     <num>(1)</num>
     <text>Required as one component of an application for employment with any covered child or youth services provider under this chapter;</text>
@@ -17,7 +17,7 @@
   </para>
   <para>
     <num>(4)</num>
-    <text>Authorized by the written consent of the person being investigated; or</text>
+    <text>Authorized by the written consent of the person being investigated, including to satisfy a criminal history or traffic records check required by another jurisdiction; or</text>
   </para>
   <para>
     <num>(5)</num>
@@ -36,5 +36,7 @@
     <annotation type="Temporary Legislation">For temporary (225 day) addition, see § 207 of the Child and Youth, Safety and Health Omnibus Temporary Amendment Act of 2003 (<cite doc="D.C. Law 15-2">D.C. Law 15-2</cite>, May 3, 2003, law notification  50 DCR 3782).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) addition, see § 207 of the Child and Youth, Safety and Health Omnibus Temporary Amendment Act of 2002 (<cite doc="D.C. Law 14-164">D.C. Law 14-164</cite>, June 25, 2002, law notification  49 DCR 6500).</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§4-1501.10">§ 4-1501.10</cite>.</annotation>
+    <annotation app="2026-08-14" doc="D.C. Law 26-160" eff="2026-08-14" path="§2|(c)|(2)" target-path="§4-1501.08|(4)" type="History"/>
+    <annotation app="2026-08-14" doc="D.C. Law 26-160" eff="2026-08-14" path="§2|(c)|(1)" target-path="§4-1501.08" type="History"/>
   </annotations>
 </section>

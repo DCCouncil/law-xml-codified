@@ -9,6 +9,14 @@
       <num>(1)</num>
       <text>"Certified Public Accountant" means a person licensed in the District as a Certified Public Accountant in the District pursuant to 17 DCMR § 2500, <em>et seq.</em>, or any successor regulations.</text>
     </para>
+    <para placeholder="Not Funded">
+      <num>(1A)</num>
+      <text>Not Funded.</text>
+    </para>
+    <para placeholder="Not Funded">
+      <num>(1B)</num>
+      <text>Not Funded.</text>
+    </para>
     <para>
       <num>(2)</num>
       <text>"Indirect costs" shall have the same meaning as provided in 2 C.F.R. § 200.56, or any successor regulations.</text>
@@ -29,5 +37,10 @@
   <annotations>
     <annotation app="2021-03-16" doc="D.C. Law 23-185" eff="2021-03-16" path="" target-path="2|2" type="History" display="false"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-185" eff="2021-03-16" path="§2" target-path="2|2|XI-A" type="History"/>
+    <annotation app="2026-08-14" doc="D.C. Law 26-158" eff="2026-08-14" path="§3|(a)" target-path="§2|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 26-158" eff="2026-08-14" path="§2|(a)|(1)" target-path="§2-222.01|(a)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-158" eff="2026-08-14" path="§2|(a)|(2)" target-path="§2-222.01|(2)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 26-158" path="§2|(a)" codified:display="Note" app="2026-08-14" eff="2026-08-14">Applicability of <cite doc="D.C. Law 26-158" path="">D.C. Law 26-158</cite>: <cite doc="D.C. Law 26-158" path="§3">§ 3 of D.C. Law 26-158</cite> provided that the amendment to this section by <cite doc="D.C. Law 26-158" path="§2|(a)">§ 2(a) of D.C. Law 26-158</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2026-08-14" doc="D.C. Law 26-158" eff="2026-08-14" path="§2|(a)" target-path="§2-222.01" type="History"/>
   </annotations>
 </section>

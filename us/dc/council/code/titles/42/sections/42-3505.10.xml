@@ -77,11 +77,14 @@
     <num>(b-2)</num>
     <para>
       <num>(1)</num>
-      <text>A housing provider shall not charge a fee to a prospective tenant before move-in, during a tenancy, or after move-out for services required of the housing provider to maintain a unit in a condition consistent with the implied warranty of habitability and with Titles 12 and 14 of the District of Columbia Municipal Regulations, or substantially similar subsequent regulations; except, that nothing in this subsection prohibits a housing provider from withholding a tenant's security deposit to replace damaged items if the tenant has caused damage to the unit beyond the standard of ordinary wear and tear as defined in <cite path="§42-3502.17|(c)|(3)">§ 42-3502.17(c)(3)</cite>.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>A housing provider shall not charge a tenant a professional cleaning fee so long as the tenant returns the premises to the housing provider in a condition within the standard of ordinary wear and tear as defined in <cite path="§42-3502.17|(c)|(3)">§ 42-3502.17(c)(3)</cite>.</text>
+      <para>
+        <num>(A)</num>
+        <text>A housing provider shall not charge a fee to a prospective tenant before move-in, during a tenancy, or after move-out for services required of the housing provider to maintain a housing accommodation or rental unit in a condition consistent with the implied warranty of habitability and with Titles 12 and 14 of the District of Columbia Municipal Regulations, or substantially similar subsequent regulations, including any fee charged to tenants for services or facilities related to utilities, trash, locks, administrative fees for third-party billing, or other services or facilities required to be provided.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Notwithstanding sub-paragraph (A) of this paragraph, nothing in this subsection shall prohibit a housing provider from withholding a tenant's security deposit to replace damaged items if the tenant has caused damage to the unit beyond the standard of ordinary wear and tear as defined in <cite path="§42-3502.17">§ 42-3502.17</cite>.</text>
+      </para>
     </para>
   </para>
   <para placeholder="Not Funded">
@@ -294,5 +297,6 @@
     <annotation app="2025-03-21" doc="D.C. Law 25-308" eff="2025-03-21" path="§2|(c)|(2)" target-path="§2|(c)" type="History"/>
     <annotation app="2025-03-21" doc="D.C. Law 25-308" eff="2025-03-21" path="§4|(a)" target-path="§2|(c)" type="History" display="false"/>
     <annotation app="notfunded" doc="D.C. Law 25-308" eff="2025-03-21" path="§2|(c)|(2)" target-path="§42-3505.10" type="History"/>
+    <annotation app="2026-08-14" doc="D.C. Law 26-156" eff="2026-08-14" path="§2|(b)|(1)" target-path="§42-3505.10|(b-2)" type="History"/>
   </annotations>
 </section>

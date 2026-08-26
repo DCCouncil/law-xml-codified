@@ -22,6 +22,10 @@
       <text>As calculated with a percentage rate and base amount, determined by a certified public accountant using the nonprofit organization's audited financial statements from the immediately preceding fiscal year, pursuant to the OMB Uniform Guidance, and certified in writing by the certified public accountant.</text>
     </para>
   </para>
+  <para placeholder="Not Funded">
+    <num>(a-1)</num>
+    <text>Not Funded.</text>
+  </para>
   <para>
     <num>(b)</num>
     <text>If the funding for a grant or contract comes from a federal agency, indirect costs shall be compensated consistent with the requirements for pass-through entities in 2 C.F.R. § 200.331, or any successor regulations.</text>
@@ -41,5 +45,15 @@
   <annotations>
     <annotation app="2021-03-16" doc="D.C. Law 23-185" eff="2021-03-16" path="" target-path="2|2" type="History" display="false"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-185" eff="2021-03-16" path="§3" target-path="2|2|XI-A" type="History"/>
+    <annotation app="2026-08-14" doc="D.C. Law 26-158" eff="2026-08-14" path="§3|(a)" target-path="§2|(b)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 26-158" eff="2026-08-14" path="§2|(b)|(1)|(B)" target-path="§2-222.02|(a)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-158" eff="2026-08-14" path="§2|(b)|(1)|(C)" target-path="§2-222.02|(a)|(3)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-158" eff="2026-08-14" path="§2|(b)|(1)|(D)" target-path="§2-222.02|(a)|(4)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-158" eff="2026-08-14" path="§2|(b)|(1)|(A)" target-path="§2-222.02|(a)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-158" eff="2026-08-14" path="§2|(b)|(2)" target-path="§2-222.02" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-158" eff="2026-08-14" path="§2|(b)|(3)" target-path="§2-222.02|(c)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 26-158" eff="2026-08-14" path="§2|(b)|(4)" target-path="§2-222.02|(e)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 26-158" path="§2|(b)" codified:display="Note" app="2026-08-14" eff="2026-08-14">Applicability of <cite doc="D.C. Law 26-158" path="">D.C. Law 26-158</cite>: <cite doc="D.C. Law 26-158" path="§3">§ 3 of D.C. Law 26-158</cite> provided that the amendment to this section by <cite doc="D.C. Law 26-158" path="§2|(b)">§ 2(b) of D.C. Law 26-158</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2026-08-14" doc="D.C. Law 26-158" eff="2026-08-14" path="§2|(b)" target-path="§2-222.02" type="History"/>
   </annotations>
 </section>
