@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 26-172">
+<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 26-172" codify:doc="D.C. Code">
   <num type="law">26-172</num>
   <num type="act">26-365</num>
   <num type="bill">26-438</num>
@@ -32,7 +32,7 @@
     <para>
       <num>(b)</num>
       <text>Title I is amended as follows:</text>
-      <para>
+      <para codify:path="§44-401|(a)">
         <num>(1)</num>
         <text>Section 2 (D.C. Code § 44-401) is amended by adding a new paragraph (10A) to read as follows:</text>
         <include lvl="1">
@@ -43,7 +43,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <para>
+      <para codify:path="§44-405">
         <num>(2)</num>
         <text>Section 6 (D.C. Official Code 44-405) is amended by adding a new subsection (a-2) to read as follows:</text>
         <include>
@@ -90,11 +90,12 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <para>
+      <para codify:path="§44-406">
         <num>(3)</num>
         <text>Section 7 (D.C. Code 44-406) is amended by adding a new subsection (e) to read as follows:</text>
         <include>
           <para>
+            <codify:insert after="(d)" num-value="(e)" codified:doc="D.C. Code" codified:path="§44-406|(e)"/>
             <num>(e)</num>
             <text>A health care facility-FAP shall establish a financial assistance policy in accordance with title II to remain in good standing for its certificate of need.</text>
           </para>

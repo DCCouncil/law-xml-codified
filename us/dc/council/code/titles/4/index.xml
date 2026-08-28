@@ -115,6 +115,23 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>IV-A</num>
+      <heading>District Workers with Disabilities Program.</heading>
+      <annotation app="2026-08-20" doc="D.C. Law 26-173" eff="2026-08-20" path="" target-path="4|2" type="History" display="false"/>
+      <xi:include href="./sections/4-204.81.xml"/>
+      <xi:include href="./sections/4-204.82.xml"/>
+      <xi:include href="./sections/4-204.83.xml"/>
+      <xi:include href="./sections/4-204.84.xml"/>
+      <xi:include href="./sections/4-204.85.xml"/>
+      <xi:include href="./sections/4-204.86.xml"/>
+      <xi:include href="./sections/4-204.87.xml"/>
+      <xi:include href="./sections/4-204.88.xml"/>
+      <xi:include href="./sections/4-204.89.xml"/>
+      <xi:include href="./sections/4-204.90.xml"/>
+      <xi:include href="./sections/4-204.91.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>Public Assistance Programs.</heading>
       <xi:include href="./sections/4-205.01.xml"/>
