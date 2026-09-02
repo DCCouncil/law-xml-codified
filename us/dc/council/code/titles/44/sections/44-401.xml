@@ -248,6 +248,10 @@
         </para>
       </para>
     </para>
+    <para placeholder="Not Funded">
+      <num>(10A)</num>
+      <text>Not Funded.</text>
+    </para>
     <para>
       <num>(11)</num>
       <text>“Health Maintenance Organization” (“HMO”) means a private organization which is a qualifying HMO under federal regulations or has been determined to be an HMO pursuant to rules issued by the SHPDA in accordance with this chapter.</text>
@@ -422,5 +426,9 @@
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5002|(a)" target-path="§44-401|(19)" type="History"/>
     <annotation doc="D.C. Law 26-55" path="§7197" type="Applicability" history="false" app="2025-12-06" eff="2025-12-06">Section 7197 of <cite doc="D.C. Law 26-55" path="§7197">D.C. Law 26-55</cite> repealed Section 4 of <cite doc="D.C. Law 26-7" path="§4">D.C. Law 26-7</cite>, thus removing the applicability limitation. Therefore the amendments to this section by <cite doc="D.C. Law 26-7" path="§2|(a)">§2(a) of D.C. Law 26-7</cite> have been implemented.</annotation>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7197" target-path="§44-401" type="History" display="false"/>
+    <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§6|(a)" target-path="§2" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 26-172" eff="2026-08-20" path="§2|(b)|(1)" target-path="§44-401|(a)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 26-172" path="§2|(b)|(1)" codified:display="Note" app="2026-08-20" eff="2026-08-20">Applicability of <cite doc="D.C. Law 26-172" path="">D.C. Law 26-172</cite>: <cite doc="D.C. Law 26-172" path="§6|(a)">§ 6(a) of D.C. Law 26-172</cite> provided that the amendment to this section by <cite doc="D.C. Law 26-172" path="§2|(b)|(1)">§ 2(b)(1) of D.C. Law 26-172</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§2|(b)|(1)" target-path="§44-401" type="History"/>
   </annotations>
 </section>

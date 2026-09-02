@@ -126,9 +126,9 @@
     <num>(d)</num>
     <text>A conversion or acquiring of effective control, as defined in <cite path="§44-401|(1)">§ 44-401(1)</cite>, of a nonprofit HCF shall not be approved by the Attorney General for the District of Columbia unless charitable assets of the HCF have been adequately protected pursuant to the provisions of the Healthcare Entity Conversion Act of 1997.</text>
   </para>
-  <para>
+  <para placeholder="Not Funded">
     <num>(e)</num>
-    <text>A health care facility-FAP shall establish a financial assistance policy in accordance with title II to remain in good standing for its certificate of need.</text>
+    <text>Not Funded.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 11-191" type="History" path="§7">Apr. 9, 1997, D.C. Law 11-191, § 7, 43 DCR 4535</annotation>
@@ -145,6 +145,9 @@
     <annotation app="2019-02-25" doc="D.C. Act 23-10" eff="2019-02-25" path="§2" target-path="§44-406" type="History" display="false"/>
     <annotation app="2019-04-11" doc="D.C. Law 22-290" eff="2019-04-11" path="§101|(b)" target-path="§44-406|(c)" type="History"/>
     <annotation app="2020-03-10" doc="D.C. Law 23-60" eff="2020-03-10" path="§2|(b)" target-path="§44-406|(b)" type="History"/>
+    <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§6|(a)" target-path="§2" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 26-172" eff="2026-08-20" path="§2|(b)|(3)" target-path="§44-406" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 26-172" path="§2|(b)|(3)" codified:display="Note" app="2026-08-20" eff="2026-08-20">Applicability of <cite doc="D.C. Law 26-172" path="">D.C. Law 26-172</cite>: <cite doc="D.C. Law 26-172" path="§6|(a)">§ 6(a) of D.C. Law 26-172</cite> provided that the amendment to this section by <cite doc="D.C. Law 26-172" path="§2|(b)|(3)">§ 2(b)(3) of D.C. Law 26-172</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§2|(b)|(3)" target-path="§44-406" type="History"/>
   </annotations>
 </section>

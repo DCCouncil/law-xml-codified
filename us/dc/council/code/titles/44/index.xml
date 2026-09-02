@@ -265,6 +265,18 @@
     <xi:include href="./sections/44-420.01.xml"/>
     <xi:include href="./sections/44-421.xml"/>
     <xi:include href="./sections/44-422.xml"/>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>II</num>
+      <heading>Financial Assistance and Medical Debt. [Not Funded]</heading>
+      <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="" target-path="44|4" type="History" display="false"/>
+      <xi:include href="./sections/44-423.xml"/>
+      <xi:include href="./sections/44-424.xml"/>
+      <xi:include href="./sections/44-425.xml"/>
+      <xi:include href="./sections/44-426.xml"/>
+      <xi:include href="./sections/44-427.xml"/>
+      <xi:include href="./sections/44-428.xml"/>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
