@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-328.11</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-328.11(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <para>
     <num undesignated="true">(a)</num>
@@ -8,6 +11,18 @@
     <para>
       <num>(1)</num>
       <text>“Candidate” shall have the same meaning as provided in <cite path="§1-1161.01|(6)">§ 1-1161.01(6)</cite>.</text>
+    </para>
+    <para>
+      <num>(1A)</num>
+      <text>"Confidential information" means:</text>
+      <para>
+        <num>(A)</num>
+        <text>Individually identifying information of a victim of domestic violence, sexual assault, or human trafficking, such as first and last name, home or other physical address, contact information, social security number, driver's license number, passport number, student identification number, and date of birth; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Information exchanged between a victim and a domestic violence counselor during the course of the counselor providing counseling, support, and assistance to a victim, including all records kept by the counselor and the domestic violence service provider concerning services provided to the victim.</text>
+      </para>
     </para>
     <para>
       <num>(2)</num>
@@ -124,5 +139,8 @@
     <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§1052|(a)" target-path="§1-328.11" type="History" display="false"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1052|(a)|(1)" target-path="§1-328.11|(a)" type="History"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1052|(a)|(2)" target-path="§1-328.11|(a)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1092|(a)" target-path="§1-328.11" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1092|(a)" target-path="§1-328.11|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§1092|(a)" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§1092|(a)">§ 1092(a) of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

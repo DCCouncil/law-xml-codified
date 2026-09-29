@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-612.04</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-612.04(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <para>
     <num undesignated="true">(a)</num>
@@ -31,14 +34,21 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>"Eligible employee" means a District government employee, including an employee of an independent agency; except, that the term "eligible employee" does not include:</text>
       <para>
         <num>(A)</num>
-        <text>A temporary employee appointed for less than 90 days; or</text>
+        <text>"Eligible employee" means a District government employee, including an employee of an independent agency; provided, that, for the purposes of using qualifying family leave or qualifying medical leave, the term "eligible employee" means a District government employee, including an employee of an independent agency, who has worked for the District government for at least 180 days, without a break in service, as of the date on which the qualifying family leave or qualifying medical leave will be taken.</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>An employee with intermittent employment.</text>
+        <text>The term "eligible employee" shall not include:</text>
+        <para>
+          <num>(i)</num>
+          <text>A temporary employee appointed for fewer than 90 days; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>An employee with intermittent employment.</text>
+        </para>
       </para>
     </para>
     <para>
@@ -54,7 +64,7 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>An individual to whom an eligible employee is related by domestic partnership or marriage;</text>
+        <text>A spouse or domestic partner;</text>
       </para>
       <para>
         <num>(D)</num>
@@ -155,5 +165,9 @@
     <annotation doc="D.C. Law 24-212" path="§2|(c)" type="Applicability" history="false" app="2022-12-21" eff="2022-12-21"><cite doc="D.C. Law 24-212" path="§3">Section 3 of D.C. Law 24-212</cite> provided that the amendments made to this section by D.C. Law 24-212 shall apply as of January 1, 2023.
       </annotation>
     <annotation app="2022-12-21" doc="D.C. Law 24-212" eff="2022-12-21" path="§2|(c)" target-path="§1-612.04" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1022|(a)" target-path="§1-612.04" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1022|(a)|(1)" target-path="§1-612.04|(4)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1022|(a)|(2)" target-path="§1-612.04|(5)|(C)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§1022|(a)" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§1022|(a)">§ 1022(a) of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

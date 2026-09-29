@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-1162.27</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-1162.27(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Persons required to register.</heading>
   <para>
     <num>(a)</num>
@@ -10,11 +13,11 @@
     <num>(b)</num>
     <para>
       <num>(1)</num>
-      <text>Except as provided in paragraph (2) of this subsection, the registration fee for lobbyists shall be $350.</text>
+      <text>Except as provided in paragraph (2) of this subsection, the registration fee for lobbyists shall be $500.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The registration fee for lobbyists who lobby solely for nonprofit organizations shall be $100. For the purposes of this paragraph, the term "nonprofit organization" means an organization exempt from taxation under section 501(c)(3) of the Internal Revenue Code of 1986, approved October 22, 1986 (68A Stat. 163; 26 U.S.C. § 501(c)(3)).</text>
+      <text>The registration fee for lobbyists who lobby solely for nonprofit organizations shall be $250. For the purposes of this paragraph, the term "nonprofit organization" means an organization exempt from taxation under section 501(c)(3) or (4) of the Internal Revenue Code of 1986, approved October 22, 1986 (68A Stat. 163; 26 U.S.C. § 501(c)(3) or (4)).</text>
     </para>
   </para>
   <para>
@@ -29,7 +32,31 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>The funds in the Lobbyist Fund shall be used by the Board solely for the purpose of administering and enforcing this title.</text>
+      <text>The funds in the Lobbyist Fund shall be used by the Board as follows:</text>
+      <para>
+        <num>(A)</num>
+        <text>The registration fee for lobbyists collected pursuant to subsection (b)(1) of this section shall be used as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>$350 of each registration fee shall be used solely for the purpose of administering and enforcing <cite path="1|11A|II">this subchapter</cite>; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>$150 of each registration fee shall be transferred to local funds.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The registration fee for lobbyists for nonprofit organizations collected pursuant to subsection (b)(2) of this section shall be used as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>$100 of each registration fee shall be used solely for the purpose of administering and enforcing <cite path="1|11A|II">this subchapter</cite>; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>$150 of each registration fee shall be transferred to local funds.</text>
+        </para>
+      </para>
     </para>
     <para>
       <num>(4)</num>
@@ -63,5 +90,11 @@
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7108|(a)" target-path="§1-1162.27|(c)|(1)" type="History"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7108|(b)" target-path="§1-1162.27|(c)|(2)" type="History"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7108|(c)" target-path="§1-1162.27|(c)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1032|(a)" target-path="§1-1162.27" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1032|(a)|(1)|(A)" target-path="§1-1162.27|(b)|(1)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1032|(a)|(1)|(B)|(i)" target-path="§1-1162.27|(b)|(2)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1032|(a)|(1)|(B)|(ii)" target-path="§1-1162.27|(b)|(2)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1032|(a)|(2)" target-path="§1-1162.27|(c)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§1032|(a)" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§1032|(a)">§ 1032(a) of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

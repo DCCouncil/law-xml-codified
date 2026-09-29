@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-301.86c</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-301.86c(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Attorney General Restitution Fund.</heading>
   <para>
     <num>(a)</num>
@@ -11,11 +14,11 @@
     <text>Revenue from the following shall be deposited into the Fund:</text>
     <para>
       <num>(1)</num>
-      <text>Awards of restitution for property lost or damages suffered by consumers for which the District is responsible for distribution made under court orders, judgments, or settlements in actions or investigations under <cite path="§28-3909|(a)">§ 28-3909(a)</cite>;</text>
+      <text>Recoveries the Attorney General obtains as settlements or awards that include restitution, disgorgement, damages, or other monetary relief for individuals or entities for which the District is responsible for distribution, as well as recoveries of any related costs of distribution, and any other recoveries in such amounts as may be necessary to distribute any monetary relief for individuals or entities for which the District is responsible for distribution; and</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(2)</num>
-      <text>Awards on behalf of aggrieved employees for which the District is responsible for distribution made under court orders, judgments, or settlements in actions or investigations under <cite path="§32-1306|(a)|(2)|(A)|(iii)">§ 32-1306(a)(2)(A)(iii)</cite> and;</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(3)</num>
@@ -27,7 +30,7 @@
     <text>Money in the Fund shall be used for the following purposes:</text>
     <para>
       <num>(1)</num>
-      <text>The payment of awards as required by a court orders, judgments, or settlements in actions or investigations" OAG conducts under <cite path="§28-3909|(a)">§ 28-3909(a)</cite> or <cite path="§32-1306|(a)|(2)|(A)|(iii)">§ 32-1306(a)(2)(A)(iii)</cite>;</text>
+      <text>The payment of awards to individuals and entities as required by court orders, judgments, or settlements in actions or investigations OAG conducts;</text>
     </para>
     <para>
       <num>(2)</num>
@@ -40,7 +43,7 @@
   </para>
   <para>
     <num>(d)</num>
-    <text>Before the OAG authorizes any payments from the Fund to an individual under this section, the Office of the Chief Financial Officer shall determine whether the individual owes any amount to the District and deduct the amount owed from the award to the individual, if any.</text>
+    <text>Before OAG authorizes any payments from the Fund in excess of $100 to an individual or entity under this section, the Office of the Chief Financial Officer shall determine whether the individual or entity owes any amount to the District and deduct the amount owed from the award to the individual or entity, if any.</text>
   </para>
   <para>
     <num>(e)</num>
@@ -49,27 +52,27 @@
       <text>Upon receipt of revenue resulting from an award under this section, OAG shall conduct a claims procedure to:</text>
       <para>
         <num>(A)</num>
-        <text>Locate each person entitled to receive an award; and</text>
+        <text>Locate each individual or entity entitled to receive an award; and</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>Distribute the awarded amounts to these individuals, minus any amounts deducted under subsection (d) of this section.</text>
+        <text>Distribute the awarded amounts to these individuals and entities, minus any amounts deducted under subsection (d) of this section.</text>
       </para>
     </para>
     <para>
       <num>(2)</num>
-      <text>At the conclusion of the claims procedure under paragraph (1) of this subsection or the time period for payment designated by a court order, judgment, or settlement, and if not otherwise directed by the court order, judgment, or settlement, OAG may apply any part of the award to the costs and expenses related to maintaining the Fund and conducting the claims process under subsection (c)(2) of this section.</text>
+      <text>If not otherwise directed by the court order, judgment, or settlement, OAG may apply any part of the award to the costs and expenses related to maintaining the Fund and conducting the claims process under subsection (c)(2) of this section, including payments to claims administrators.</text>
     </para>
     <para>
       <num>(3)</num>
       <text>After paragraphs (1) and (2) of this subsection have been completed, any excess funds shall be treated as follows:</text>
       <para>
         <num>(A)</num>
-        <text>Any excess funds remaining from an award that are designated to named individuals shall be treated as unclaimed property pursuant to <cite path="41|1A">Chapter 1A of Title 41</cite>; and</text>
+        <text>Any excess funds remaining from an award that are designated to named individuals or entities in the court or administrative order, judgment, or settlement shall be treated as unclaimed property pursuant to <cite path="41|1A">Chapter 1A of Title 41</cite>; and</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>Any other excess funds remaining from an award shall remain in the Fund and may be used, in an amount not to exceed $500,000 each fiscal year, for any purpose provided for in subsection (c) of this section.</text>
+        <text>Any other excess funds remaining from an award shall remain in the Fund and may be used, in an amount not to exceed $1 million each fiscal year, for any purpose provided for in subsection (c) of this section.</text>
       </para>
     </para>
   </para>
@@ -91,6 +94,10 @@
   <para placeholder="Repealed">
     <num>(h)</num>
     <text>Repealed.</text>
+  </para>
+  <para>
+    <num>(i)</num>
+    <text>All assets and liabilities of the Vulnerable Adult and Elderly Person Exploitation Restitution Fund are transferred to the Fund.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 18-160" type="History" path="§106c">May 27, 2010, D.C. Law 18-160, § 106c</annotation>
@@ -118,5 +125,17 @@
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§1002|(b)|(1)|(B)" target-path="§1-301.86c|(b)|(2)" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§1002|(b)|(2)" target-path="§1-301.86c|(c)|(1)" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§1002|(b)|(3)" target-path="§1-301.86c|(e)|(3)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1072|(b)" target-path="§1-301.86c" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1072|(b)|(1)|(A)" target-path="§1-301.86c|(b)|(1)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1072|(b)|(1)|(B)" target-path="§1-301.86c|(b)|(2)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1072|(b)|(2)" target-path="§1-301.86c|(c)|(1)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1072|(b)|(3)" target-path="§1-301.86c|(d)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1072|(b)|(4)|(A)|(i)" target-path="§1-301.86c|(e)|(1)|(A)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1072|(b)|(4)|(A)|(ii)" target-path="§1-301.86c|(e)|(1)|(B)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1072|(b)|(4)|(B)" target-path="§1-301.86c|(e)|(2)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1072|(b)|(4)|(C)|(i)" target-path="§1-301.86c|(e)|(3)|(A)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1072|(b)|(4)|(C)|(ii)" target-path="§1-301.86c|(e)|(3)|(B)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1072|(b)|(5)" target-path="§1-301.86c" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§1072|(b)" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§1072|(b)">§ 1072(b) of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

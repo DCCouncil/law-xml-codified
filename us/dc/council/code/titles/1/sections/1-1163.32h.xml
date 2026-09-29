@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-1163.32h</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-1163.32h(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Remitting funds and donating equipment.</heading>
   <para>
     <num>(a)</num>
@@ -21,7 +24,18 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>If a participating candidate's certification is revoked pursuant to <cite path="§1-1163.32c|(c)|(2)">section 332c(c)(2)</cite>, <cite path="§1-1163.32c|(c)|(3)">(3)</cite>, or, due to fraudulent activities, <cite path="§1-1163.32c|(c)|(5)">(5)</cite>, the participating candidate shall be personally liable for any expended base amount or matching payments.</text>
+      <para>
+        <num>(A)</num>
+        <text>If a participating candidate's certification is revoked pursuant to <cite path="§1-1163.32c|(c)|(2)">§ 1-1163.32c(c)(2)</cite>, <cite path="§1-1163.32c|(c)|(3)">(3)</cite>, or <cite path="§1-1163.32c|(c)|(4)">(4)</cite> or, due to fraudulent activities, <cite path="§1-1163.32c|(c)|(5)">§ 1-1163.32c(c)(5)</cite>, the participating candidate shall be personally liable for any expended base amount or matching payments.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Upon the application of a participating candidate, the Campaign Finance Board may reduce in whole or in part the participating candidate's personal liability under subparagraph (A) of this paragraph; provided, that the participating candidate terminated his or her candidacy for good cause not within the candidate's control, such as health reasons, and not due to the candidate's low standing in polls, limited success in raising funds for his or her candidacy, or low expectations of electoral success or similar electoral reasons, or for political reasons, which shall not be considered good cause.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A candidate applying for relief under subparagraph (B) of this paragraph shall provide sufficient documentation in support of the candidate's claim including medical records, financial statements, and any other documentation required by the Office of Campaign Finance.</text>
+      </para>
     </para>
   </para>
   <para>
@@ -67,5 +81,8 @@
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§1042|(o)|(2)" target-path="§1-1163.32h|(a)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§1042|(o)|(3)" target-path="§1-1163.32h|(b)|(1)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§1042|(o)|(4)" target-path="§1-1163.32h|(d)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1052" target-path="§1-1163.32h" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1052" target-path="§1-1163.32h|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§1052" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§1052">§ 1052 of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

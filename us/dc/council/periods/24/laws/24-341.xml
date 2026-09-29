@@ -2486,7 +2486,7 @@
       <para codify:path="§38-203|(i)|(B)">
         <num>(a)</num>
         <text>Section 2(i)(B) of Article II (D.C. Official Code § 38-203(i)(B)) is amended by striking the phrase "to section 2(a-1) or (a-2) of An Act To provide for the mandatory reporting by physicians and institutions in the District of Columbia of certain physical abuse of children, approved November 6, 1966 (80 Stat. 1354; D.C. Official Code § 4-1321.02(a-1) and (a-2))" and inserting the phrase "to section 2(b)(1)(B) of An Act To provide for the mandatory reporting by physicians and institutions in the District of Columbia of certain physical abuse of children, approved November 6, 1966 (80 Stat. 1354; D.C. Official Code § 4-1321.02(b)(1)(B))" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-203|(i)|(B)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-203|(i)">
           <find>to <cite path="§4-1321.02|(a-1)">§ 4-1321.02(a-1)</cite> and (a-2)</find>
           <replace>to section <code-cite doc="D.C. Code" path="§4-1321.02|(b)|(1)|(B)">2(b)(1)(B) of An Act To provide for the mandatory reporting by physicians and institutions in the District of Columbia of certain physical abuse of children, approved November 6, 1966 (80 Stat. 1354; D.C. Official Code § 4-1321.02(b)(1)(B))</code-cite></replace>
         </codify:find-replace>

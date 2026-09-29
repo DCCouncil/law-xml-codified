@@ -5801,7 +5801,7 @@
               <para>
                 <codify:insert codified:doc="D.C. Code" codified:path="§38-2903|(b)"/>
                 <num>(b)</num>
-                <text>By December 31, 2018, and annually thereafter, the Mayor shall transmit to the Council the algorithm that will be used to determine the next fiscal year's Formula foundation level, which shall include variables for the cost of teachers and other classroom-based personnel and for both school-based and non-school-based administrative personnel.  The Office of the State Superintendent of Education shall publish the algorithm on its website.</text>
+                <text>By December 31, 2018, and annually thereafter, the Mayor shall transmit to the Council the algorithm that will be used to determine the next fiscal year's Formula foundation level, which shall include variables for the cost of teachers and other classroom-based personnel and for both school-based and non-school-based administrative personnel. The Office of the State Superintendent of Education shall publish the algorithm on its website.</text>
               </para>
             </include>
             <aftertext>.</aftertext>
@@ -6569,7 +6569,7 @@
         <para codify:path="(28)|(E)|(iii)">
           <num>(c)</num>
           <text>Newly redesignated paragraph (28)(E)(iii) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2602|(b)|(28)|(E)|(iii)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2602|(b)|(28)">
             <find>;</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -9507,8 +9507,8 @@
         <para codify:path="(8)">
           <num>(a)</num>
           <text>Paragraph (8) is repealed.</text>
-          <codify:repeal codified:doc="D.C. Code" codified:path="§47-1803.03|(b)"/>
-          <codify:find-replace path="§47-1803.03|(b)|(8)" count="1" codified:doc="D.C. Code" codified:path="§47-1803.03|(b)">
+          <codify:repeal codified:doc="D.C. Code" codified:path="§47-1803.03|(b)|(8)"/>
+          <codify:find-replace path="§47-1803.03|(b)|(8)" count="1" codified:doc="D.C. Code" codified:path="§47-1803.03|(b)|(8)">
             <find>[Repealed]</find>
             <replace>Repealed</replace>
           </codify:find-replace>
@@ -9518,7 +9518,7 @@
           <text>A new paragraph (9) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§47-1803.03|(b)"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§47-1803.03|(b)|(9)"/>
               <num>(9)</num>
               <text>A deduction allowed under section 199A of the Internal Revenue Code of 1986 (26 U.S.C. § 199A).</text>
             </para>

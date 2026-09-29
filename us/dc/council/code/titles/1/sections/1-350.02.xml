@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-350.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-350.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Responsibility of District agencies to transfer and refer delinquent debt to the Central Collection Unit for collection.</heading>
   <para>
     <num>(a)</num>
@@ -23,15 +26,15 @@
     <text>The Office of the Attorney General may, in its discretion, transfer and refer delinquent debts associated with settlements and judgments to the Central Collection Unit for collection. Beginning in Fiscal Year 2022 and for each fiscal year thereafter:</text>
     <para>
       <num>(1)</num>
-      <text>Funds collected by the Central Collection Unit arising out of delinquent debts associated with settlements and judgments transferred and referred to the Central Collection Unit by the Office of the Attorney General for collection, net of costs and fees, shall be deposited into the Litigation Support Fund established by <cite path="§1-301.86b">§ 1-301.86b</cite>, within 60 days;</text>
+      <text>Funds collected by the Central Collection Unit arising out of delinquent debts associated with settlements and judgments that are transferred or referred to the Central Collection Unit by the Office of the Attorney General for collection and that are eligible for deposit into the Litigation Support Fund pursuant to <cite path="§1-301.86b">§ 1-301.86b</cite>, shall be deposited into the Litigation Support Fund, net of costs and fees, within 60 days; and</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Funds collected by the Central Collection Unit arising out of delinquent debts payable as restitution pursuant to a court order, judgment, or settlement under §§ <cite path="§28-3909">28-3909</cite> and <cite path="§32-1306|(a)|(2)|(A)|(iii)">32-1306(a)(2)(A)(iii)</cite>, transferred and referred to the Central Collection Unit by the Office of the Attorney General for collection shall be deposited into the Attorney General Restitution Fund established by <cite path="§1-301.86c">§ 1-301.86c</cite>, within 60 days; and</text>
+      <text>Funds collected by the Central Collection Unit arising out of delinquent debts payable as restitution, disgorgement, damages, or other monetary relief for individuals or entities for which the District is responsible for distribution pursuant to a court order, judgment, or settlement under §§ <cite path="§28-3909">28-3909</cite> and <cite path="§32-1306|(a)|(2)|(A)|(iii)">32-1306(a)(2)(A)(iii)</cite>, transferred and referred to the Central Collection Unit by the Office of the Attorney General for collection shall be deposited into the Attorney General Restitution Fund established by <cite path="§1-301.86c">§ 1-301.86c</cite>, within 60 days.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(3)</num>
-      <text>Funds collected by the Central Collection Unit arising out of delinquent debts payable as restitution pursuant to a court order, judgment, or settlement in any action or investigation brought to enforce <cite path="§22-933.01">§ 22-933.01</cite>, transferred and referred to the Central Collection Unit by the Office of the Attorney General for collection shall be deposited into the Vulnerable Adult and Elderly Person Exploitation Restitution Fund established by <cite path="§1-301.86d">§ 1-301.86d</cite>, within 60 days.</text>
+      <text>Repealed.</text>
     </para>
   </para>
   <para>
@@ -51,7 +54,11 @@
     <text>A transfer and referral of a delinquent debt to the Central Collection Unit shall include all documentation and information relating to the delinquent debt, including:</text>
     <para>
       <num>(1)</num>
-      <text>Documents that verify the existence and amount of the delinquent debt; (2) The name and last known address of the delinquent debtor; and</text>
+      <text>Documents that verify the existence and amount of the delinquent debt;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The name and last known address of the delinquent debtor; and</text>
     </para>
     <para>
       <num>(3)</num>
@@ -83,5 +90,11 @@
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§1082|(a)|(2)" target-path="§1-350.02" type="History"/>
     <annotation app="2022-12-21" doc="D.C. Law 24-215" eff="2022-12-21" path="§2|(a)|(1)" target-path="§1-350.02|(a)" type="History"/>
     <annotation app="2022-12-21" doc="D.C. Law 24-215" eff="2022-12-21" path="§2|(a)|(2)" target-path="§1-350.02" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1073" target-path="§1-350.02" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1073|(a)" target-path="§1-350.02|(a-4)|(1)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1073|(b)|(1)" target-path="§1-350.02|(a-4)|(2)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1073|(b)|(2)" target-path="§1-350.02|(a-4)|(2)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1073|(c)" target-path="§1-350.02|(a-4)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§1073" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§1073">§ 1073 of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

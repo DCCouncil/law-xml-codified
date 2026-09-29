@@ -131,7 +131,7 @@
         <para codify:path="(iv)">
           <num>(A)</num>
           <text>Sub-subparagraph (iv) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2602|(b)|(28)|(C)|(iv)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2602|(b)|(28)">
             <find>; and</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -139,7 +139,7 @@
         <para codify:path="(v)">
           <num>(B)</num>
           <text>Sub-subparagraph (v) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-          <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§38-2602|(b)|(28)|(C)|(v)">
+          <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§38-2602|(b)|(28)">
             <find>.</find>
             <replace>; and</replace>
           </codify:find-replace>
@@ -149,7 +149,7 @@
           <text>A new sub-subparagraph (vi) is added to read as follows:</text>
           <include lvl="2">
             <para>
-              <codify:insert after="(v)" codified:doc="D.C. Code" codified:path="§38-2602|(b)|(28)|(C)|(vi)"/>
+              <codify:insert after="(v)" codified:doc="D.C. Code" codified:path="§38-2602|(b)|(28)"/>
               <num>(vi)</num>
               <text>Sexual orientation.</text>
             </para>

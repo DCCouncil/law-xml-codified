@@ -2624,7 +2624,6 @@
                   <num>(b)</num>
                   <text>Beginning on or after January 1, 2018, and on or after January 1 of every year thereafter, there shall be published in the District of Columbia Register a schedule of the fine amounts for each infraction listed in sections 3301 through 3313 of Title 16 of the District of Columbia Municipal Regulations (16 DCMR § 3301 through 16 DCMR § 3313), as adjusted according to the most recent Consumer Price Index for All Urban Consumers in the Washington Metropolitan Statistical area, as published by the United States Bureau of Labor Statistics.</text>
                 </para>
-                <annotation doc="D.C. Law 6-216" type="History" path="§11">Mar. 21, 1987, D.C. Law 6-216, § 11 [11a]</annotation>
               </section>
             </container>
           </include>
@@ -4949,7 +4948,7 @@
         <para codify:path="[(28)]|(E)|(iii)">
           <num>(b)</num>
           <text>Paragraph (28) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2602|(b)|(28)|(E)|(iii)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2602|(b)|(28)">
             <find>discipline.</find>
             <replace>discipline; and</replace>
           </codify:find-replace>
@@ -5544,7 +5543,7 @@
         <para codify:path="§38-271.03|(e)">
           <num>(a)</num>
           <text>Section 103(e) (D.C. Official Code § 38-271.03(e)) is amended by striking the date "September 15" and inserting the date "December 30" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-271.03|(e)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-271.03">
             <find>September 15</find>
             <replace>December 30</replace>
           </codify:find-replace>
@@ -9343,7 +9342,7 @@
           <para codify:path="(d)">
             <num>(1)</num>
             <text>Subsection (d) is amended by striking the phrase "Until § 47-181(c)(I) is implemented," and inserting the phrase "Until § 47-181(c)(9) is implemented," in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-1806.02">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-1806.02|(d)">
               <find>Until <cite path="§47-181|(c)|(1)">§  47-181(c)(1)</cite> is implemented,</find>
               <replace>Until <cite path="§47-181|(c)|(9)">§ 47-181(c)(9)</cite> is implemented,</replace>
             </codify:find-replace>
@@ -9351,7 +9350,7 @@
           <para codify:path="(e)">
             <num>(2)</num>
             <text>Subsection (e) is amended by striking the phrase "Until § 47-181(c)(I) is implemented," and inserting the phrase "Until § 47-181(c)(9) is implemented," in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-1806.02">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-1806.02|(e)">
               <find>Until <cite path="§47-181|(c)|(1)">§  47-181(c)(1)</cite> is implemented,</find>
               <replace>Until <cite path="§47-181|(c)|(9)">§ 47-181(c)(9)</cite> is implemented,</replace>
             </codify:find-replace>
@@ -9362,7 +9361,7 @@
             <para codify:path="(1)">
               <num>(A)</num>
               <text>Paragraph (1) is amended by striking the phrase "December 31, 2012," and inserting the phrase "December 31, 2012, but before January 1, 2018," in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-1806.02">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-1806.02|(i)|(1)">
                 <find>December 31, 2012,</find>
                 <replace>December 31, 2012, but before January 1, 2018,</replace>
               </codify:find-replace>
@@ -9372,7 +9371,7 @@
               <text>Paragraph (2) is amended to read as follows:</text>
               <include lvl="1">
                 <para>
-                  <codify:replace codified:doc="D.C. Code" codified:path="§47-1806.02"/>
+                  <codify:replace codified:doc="D.C. Code" codified:path="§47-1806.02|(i)|(2)"/>
                   <num>(2)</num>
                   <text>For taxable years beginning after December 31, 2017,  the personal exemption amount prescribed in section 151 of the Internal Revenue Code of 1986 without reduction for the phaseout of section 151(d)(3) of the Internal Revenue Code of 1986.</text>
                 </para>

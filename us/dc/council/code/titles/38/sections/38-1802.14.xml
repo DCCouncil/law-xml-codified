@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>38-1802.14</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§38-1802.14(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Public Charter School Board.</heading>
   <para>
     <num>(a)</num>
@@ -151,8 +154,8 @@
   </para>
   <para>
     <num>(f)</num>
-    <heading>Audit. —</heading>
-    <text>The Board shall maintain its accounts according to Generally Accepted Accounting Principles. The Board shall provide for an audit of the financial statements of the Board by an independent certified public accountant in accordance with Government auditing standards for financial audits issued by the Comptroller General. The findings and recommendations of any such audit shall be forwarded to the Mayor, the Council of the District of Columbia, and the Office of the Chief Financial Officer of the District of Columbia.</text>
+    <heading>Audits, inspections, and investigations. —</heading>
+    <text>The Board shall maintain its accounts according to Generally Accepted Accounting Principles. The Board shall provide for an audit of the financial statements of the Board by an independent certified public accountant in accordance with Government auditing standards for financial audits issued by the Comptroller General. The findings and recommendations of any such audit shall be forwarded to the Mayor, the Council of the District of Columbia, and the Office of the Chief Financial Officer of the District of Columbia. The Inspector General of the District of Columbia may conduct oversight of the Board and related activities, including audits, inspections, and investigations, in accordance with the authority granted by, and subject to the limitations set forth in, <cite path="§1-301.115a">§ 1-301.115a</cite>.</text>
   </para>
   <para>
     <num>(g)</num>
@@ -313,5 +316,9 @@
     <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7199" target-path="§38-1802.14" type="History" display="false"/>
     <annotation doc="D.C. Law 26-55" path="§7199" type="Applicability" history="false" app="2025-12-06" eff="2025-12-06">Section 7199 of <cite doc="D.C. Law 26-55" path="§7199">D.C. Law 26-55</cite> repealed Section 3 of <cite doc="D.C. Law 26-38" path="§3">D.C. Law 26-38</cite>, thus removing the applicability limitation. Therefore the amendment to this section by <cite doc="D.C. Law 26-38" path="§2|(b)">§2(b) of D.C. Law 26-38</cite> has been implemented.</annotation>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7199" target-path="§38-1802.14" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1082" target-path="§38-1802.14" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1082|(a)" target-path="§38-1802.14|(f)|heading" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1082|(b)" target-path="§38-1802.14|(f)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§1082" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§1082">§ 1082 of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

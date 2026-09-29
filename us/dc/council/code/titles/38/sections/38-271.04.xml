@@ -2,10 +2,10 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>38-271.04</num>
   <heading>Annual capacity audit.</heading>
-  <text>The Mayor shall submit to the Council by December 30 of each year, beginning in 2008, a capacity audit of pre-k programs for all sectors, to be used by OSSE to determine the:</text>
-  <para>
+  <text>The Mayor shall submit to the Council by May 15 of each year, a capacity audit of pre-k programs for all sectors, to be used by OSSE to determine the:</text>
+  <para placeholder="Repealed">
     <num>(1)</num>
-    <text>Number of children for whom pre-k is not available and whose parents would send them to pre-k but for the lack of availability;</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(2)</num>
@@ -25,5 +25,7 @@
     <annotation doc="D.C. Law 22-33" path="§4145|(b)" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13"><cite doc="D.C. Law 22-33" path="§4150">Section 4150 of D.C. Law 22-33</cite> provided that the amendment made to this section shall apply as of June 27, 2017.
         </annotation>
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§4145|(b)" target-path="§38-271.04" type="History" display="false"/>
+    <annotation app="2026-09-15" doc="D.C. Law 26-178" eff="2026-09-15" path="§11|(b)|(2)" target-path="§38-271.04|(1)" type="History"/>
+    <annotation app="2026-09-15" doc="D.C. Law 26-178" eff="2026-09-15" path="§11|(b)|(1)" target-path="§38-271.04" type="History"/>
   </annotations>
 </section>

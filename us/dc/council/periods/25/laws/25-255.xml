@@ -27,7 +27,7 @@
   <section codify:path="§1-301.86b|(b)|[(6)]">
     <num>2</num>
     <text>Section 106b(b)(6) of the Attorney General for the District of Columbia Clarification and Elected Term Amendment Act of 2010, effective October 22, 2015 (D.C. Law 21-36; D.C. Official Code § 1-301.86b(b)(6)), is amended by striking the phrase "pursuant to D.C. Official Code § 47-2844(a-2)(1B)" and inserting the phrase "pursuant to section 9 of the Legalization of Marijuana for Medical Treatment Initiative of 1999, effective July 27, 2010 (D.C. Law 18-210; D.C. Official Code § 7-1671.08)" in its place.</text>
-    <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-301.86b|(b)|[(6)]">
+    <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-301.86b|(b)|(6)">
       <find>pursuant to <code-cite doc="D.C. Code" path="§47-2844|(a-2)|(1B)">D.C. Official Code § 47-2844(a-2)(1B)</code-cite></find>
       <replace>pursuant to <code-cite doc="D.C. Code" path="§7-1671.08">section 9 of the Legalization of Marijuana for Medical Treatment Initiative of 1999, effective July 27, 2010 (D.C. Law 18-210; D.C. Official Code § 7-1671.08)</code-cite></replace>
     </codify:find-replace>

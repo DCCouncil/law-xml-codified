@@ -1,19 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code" placeholder="Repealed">
   <num>38-159</num>
   <heading>Public school enrollment census.</heading>
-  <para>
-    <num>(a)</num>
-    <text>The State Education Office and the District of Columbia Public Schools shall hire an independent contractor to perform a census of the enrolled students in the D.C. Public Schools as well as the school employees, their job classifications, and duties.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>The independent contractor shall count the number of students enrolled in the District of Columbia Public Schools. The count shall include the information specified in <cite path="§38-1804.02|(b)">§ 38-1804.02(b)</cite>.</text>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>The independent contractor shall submit the census report to the Council, Mayor, and the Financial Authority on or before January 1, 1999, and in subsequent years as needed.</text>
-  </para>
+  <reason>Repealed</reason>
+  <text>Repealed.</text>
   <annotations>
     <annotation doc="D.C. Law 12-175" type="History" path="§702">Mar. 26, 1999, D.C. Law 12-175, § 702, 45 DCR 7193</annotation>
     <annotation doc="D.C. Law 13-176" type="History">Oct. 21, 2000, D.C. Law 13-176, § 8(d), 47 DCR 6835</annotation>
@@ -30,5 +20,6 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-176">D.C. Law 13-176</cite>, in subsec. (a), substituted “State Education Office” for “Board of Education”.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 31-2853.42a.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§38-2602">§ 38-2602</cite>.</annotation>
+    <annotation app="2026-09-15" doc="D.C. Law 26-178" eff="2026-09-15" path="§7" target-path="§38-159" type="History"/>
   </annotations>
 </section>

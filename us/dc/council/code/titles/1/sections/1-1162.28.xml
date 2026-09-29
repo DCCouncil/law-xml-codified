@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-1162.28</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-1162.28(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Exceptions.</heading>
   <para>
     <num>(a)</num>
@@ -11,15 +14,15 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>A publisher or working member of the press, radio, or television who, in the ordinary course of business, disseminates news or editorial comment to the general public;</text>
+      <text>A publisher or working member of the press, radio, or television who, in the ordinary course of business, disseminates news or editorial comment to the general public; or</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>A candidate, member, or member-elect of an Advisory Neighborhood Commission; or</text>
+      <text>A candidate, member, or member-elect of an Advisory Neighborhood Commission.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(4)</num>
-      <text>An entity specified in <cite path="§47-1802.01|(4)" proof="true">§ 47-1802.01(4)</cite>, whose activities do not consist of lobbying, the result of which shall inure to the financial gain or benefit of the entity.</text>
+      <text>Repealed.</text>
     </para>
   </para>
   <para>
@@ -29,5 +32,10 @@
   <annotations>
     <annotation doc="D.C. Law 19-124" type="History" path="§228">Apr. 27, 2012, D.C. Law 19-124, § 228, 59 DCR 1862</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§1-1162.27">§ 1-1162.27</cite> and <cite path="§1-1162.31">§ 1-1162.31</cite>.</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1032|(b)" target-path="§1-1162.28" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1032|(b)|(1)" target-path="§1-1162.28|(a)|(2)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1032|(b)|(2)" target-path="§1-1162.28|(a)|(3)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1032|(b)|(3)" target-path="§1-1162.28|(a)|(4)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§1032|(b)" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§1032|(b)">§ 1032(b) of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
