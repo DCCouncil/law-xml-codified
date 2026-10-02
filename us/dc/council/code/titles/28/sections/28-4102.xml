@@ -1,16 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>28-4102</num>
-  <heading>Overcharging.</heading>
+  <heading proof="needed">Overcharging.</heading>
   <para>
     <num>(a)</num>
-    <text>It shall be unlawful for any person to charge more than the normal average retail price for any merchandise or service sold during an emergency that resulted from a natural disaster, if an emergency has been declared pursuant to subsection (b) of this section.</text>
+    <text>Except as provided in subsection (a-1) of this section, it shall be unlawful for any person to charge more than that person's normal retail price for any goods or services sold during an emergency resulting from a natural disaster declared pursuant to subsection (b) of this section, or during a public emergency declared pursuant to <cite path="§7-2304">§ 7-2304</cite>.</text>
+  </para>
+  <para>
+    <num>(a-1)</num>
+    <text>A person may charge more than the normal retail price for any goods or services sold during an emergency resulting from a natural disaster declared pursuant to subsection (b) of this section, or during a public emergency declared pursuant to <cite path="§7-2304">§ 7-2304</cite>, if:</text>
+    <para>
+      <num>(1)</num>
+      <text>The price increase is directly attributable to additional costs imposed on the person by the supplier of goods; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The price increase is directly attributable to additional costs for labor or materials used to provide the service or produce the goods.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
     <para>
       <num>(1)</num>
-      <text>Within 48 hours of a natural disaster, the Mayor may declare, for not more than 30 calendar days, a state of emergency for the purposes of this act. The Mayor shall prepare an emergency declaration that shall include a description of the existence, nature, extent, and duration of the emergency.</text>
+      <text>Within 48 hours of a natural disaster, the Mayor may declare, for not more than 30 calendar days, a state of emergency for the purposes of this chapter. The Mayor shall prepare an emergency declaration that shall include a description of the existence, nature, extent, and duration of the emergency.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -54,5 +67,6 @@
     <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§306|(c)" target-path="§28-4102" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-9" path="§306|(d)" codified:display="Note" app="2021-06-24" eff="2021-06-24">For temporary (225 days) creation of a provision dealing with stockpiling, see <cite doc="D.C. Law 24-9" path="§306|(d)">§ 306(d) of Coronavirus Support Temporary Amendment Act of 2021 (D.C. Law 24-9, June 24, 2021, 68 DCR 004824)</cite>.</annotation>
     <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§306|(d)" target-path="§28-4102" type="History" display="false"/>
+    <annotation app="2026-09-25" doc="D.C. Law 26-180" eff="2026-09-25" path="§2|(c)" target-path="§28-4102" type="History"/>
   </annotations>
 </section>

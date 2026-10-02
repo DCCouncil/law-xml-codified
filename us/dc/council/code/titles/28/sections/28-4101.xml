@@ -1,27 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>28-4101</num>
-  <heading>Definitions.</heading>
-  <text>For the purposes of this chapter, the term:</text>
+  <heading proof="needed">Definitions.</heading>
   <para>
-    <num>(1)</num>
-    <text>“Natural disaster” means the actual or imminent consequence of any disaster, catastrophe, or emergency, including fire, other than a fire caused by human error or arson, flood, earthquake, storm, or other serious act of nature, which threatens the health, safety, or welfare of persons or causes damage to property in the District of Columbia.</text>
-  </para>
-  <para>
-    <num>(2)</num>
-    <text>“Normal average retail price” means:</text>
+    <num undesignated="true">(a)</num>
+    <text>For the purposes of this chapter, the term:</text>
     <para>
-      <num>(A)</num>
-      <text>In the case of services, not more than 10% more than the price at which similar services were sold or offered in the Washington Metropolitan Area during the 90-day period that preceded an emergency that resulted from a natural disaster, if an emergency is declared pursuant to <cite path="§28-4102|(b)">§ 28-4102(b)</cite>; or</text>
+      <num>(1)</num>
+      <text>"Goods and services" shall include:</text>
+      <para>
+        <num>(A)</num>
+        <text>Consumer goods and services used, bought, or rendered primarily for personal, family, or household purposes;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Essential medical supplies and services used for the care, cure, mitigation, treatment, or prevention of any illnesses or diseases; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Any other essential goods and services used to promote the health or welfare of the public.</text>
+      </para>
     </para>
     <para>
-      <num>(B)</num>
-      <text>In the case of merchandise, the price equal to the wholesale cost plus a retail mark-up that is the same percentage over wholesale cost as the retail mark-up for similar merchandise sold in the Washington Metropolitan Area during the 90-day period that immediately preceded an emergency that resulted from a natural disaster, if an emergency has been declared pursuant to <cite path="§28-4102|(b)">§ 28-4102(b)</cite>.</text>
+      <num>(2)</num>
+      <text>"Natural disaster" means the actual or imminent consequence of any disaster, catastrophe, or emergency, including fire (other than a fire caused by human error or arson), flood, earthquake, storm, or other serious act of nature, which threatens the health, safety, or welfare of persons or causes widespread damage to property in the District of Columbia.</text>
     </para>
-  </para>
-  <para>
-    <num>(3)</num>
-    <text>“Person” means a corporation, firm, agency, company, association, organization, partnership, society, joint stock company, or an individual.</text>
+    <para>
+      <num>(3)</num>
+      <para>
+        <num>(A)</num>
+        <text>"Normal retail price" means not more than 10% more than the price at which the same or similar goods and services were sold in the District of Columbia during the 90-day period that immediately preceded a natural disaster, if an emergency is declared pursuant to <cite path="§28-4102|(b)">§ 28-4102(b)</cite>, or the circumstances giving rise to a public emergency, if a public emergency is declared pursuant to <cite path="§7-2304">§ 7-2304</cite>.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Notwithstanding subparagraph (A) of this paragraph, for calendar year 2027 and thereafter, "normal retail price" means:</text>
+        <para>
+          <num>(i)</num>
+          <text>For a rental vehicle, not more than 10% more than the price at which a person charged for the same or a similar rental vehicle during the same week of the same months of the prior year. For purposes of this sub-subparagraph, the term "rental vehicle" shall have the same meaning as set forth in <cite path="§50-1505.01|(8)">§ 50-1505.01(8)</cite>; and</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>For a hotel room in a hotel that is at least 95% occupied, not more than 10% more than the price at which a person charged for the same or a similar room during the same week of the same month of the most recent year for which there was an average hotel room occupancy of 95%. For purposes of this sub-subparagraph, the term "hotel room" means any room or suite of rooms at a facility affording sleeping accommodations to transient guests.</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Notwithstanding subparagraphs (A) and (B) of this paragraph, if a person did not sell goods and services in the District of Columbia during the 90-day period that preceded a natural disaster, if an emergency is declared pursuant to <cite path="§28-4102|(b)">§ 28-4102(b)</cite>, or the circumstances giving rise to a public emergency, if a public emergency is declared pursuant to <cite path="§7-2304">§ 7-2304</cite>, that person may not charge a price that is more than 50 percent greater than the actual price the person paid to the manufacturer or distributor for the good or service.</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"Person" means a corporation, firm, agency, company, association, organization, partnership, society, joint stock company, or an individual.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"Public emergency" shall have the same meaning as set forth in <cite path="§7-2301|(3)">§ 7-2301(3).</cite></text>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 9-80" type="History">Mar. 20, 1992, D.C. Law 9-80, § 2, 39 DCR 675</annotation>
@@ -34,5 +69,6 @@
     <annotation app="2021-06-07" doc="D.C. Act 24-96" eff="2021-06-07" path="§306|(b)" target-path="§28-4101" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-9" path="§306|(b)" codified:display="Note" app="2021-06-24" eff="2021-06-24">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-9" path="§306|(b)">§ 306(b) of Coronavirus Support Temporary Amendment Act of 2021 (D.C. Law 24-9, June 24, 2021, 68 DCR 004824)</cite>.</annotation>
     <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§306|(b)" target-path="§28-4101" type="History" display="false"/>
+    <annotation app="2026-09-25" doc="D.C. Law 26-180" eff="2026-09-25" path="§2|(b)" target-path="§28-4101" type="History"/>
   </annotations>
 </section>

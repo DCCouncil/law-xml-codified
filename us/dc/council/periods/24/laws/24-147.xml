@@ -872,7 +872,7 @@
         <para>
           <num>(1)</num>
           <text>Subsection (e-1) is amended by striking the word "Represent" and inserting the word "represent" in its place.</text>
-          <codify:find-replace doc="D.C. Code" path="§28-3904|(e-1)" count="1" codified:doc="D.C. Code" codified:path="§28-3904|(e-1)">
+          <codify:find-replace doc="D.C. Code" path="§28-3904|(e-1)" count="1" codified:doc="D.C. Code" codified:path="§28-3904">
             <find>[r]epresent</find>
             <replace>represent</replace>
           </codify:find-replace>
@@ -880,7 +880,7 @@
         <para>
           <num>(2)</num>
           <text>Subsection (f-1) is amended by striking the word "Use" and inserting the word "use" in its place.</text>
-          <codify:find-replace doc="D.C. Code" path="§28-3904|(f-1)" count="1" codified:doc="D.C. Code" codified:path="§28-3904|(f-1)">
+          <codify:find-replace doc="D.C. Code" path="§28-3904|(f-1)" count="1" codified:doc="D.C. Code" codified:path="§28-3904">
             <find>[u]se</find>
             <replace>use</replace>
           </codify:find-replace>
@@ -888,7 +888,7 @@
         <para>
           <num>(3)</num>
           <text>Subsection (x) is amended by striking the phrase "sections 28:2-312 through 318 of the District of Columbia Official Code" and inserting the phrase "sections 28-2-312 through 28-2-318" in its place.</text>
-          <codify:find-replace doc="D.C. Code" path="§28-3904|(x)" count="1" codified:doc="D.C. Code" codified:path="§28-3904|(x)">
+          <codify:find-replace doc="D.C. Code" path="§28-3904|(x)" count="1" codified:doc="D.C. Code" codified:path="§28-3904">
             <find>sections 28:2-312 through 318 of the District of Columbia Official Code</find>
             <replace>sections 28:2-312 through 28:2-318</replace>
           </codify:find-replace>

@@ -1247,6 +1247,7 @@
     <xi:include href="./sections/28-3901.xml"/>
     <xi:include href="./sections/28-3902.xml"/>
     <xi:include href="./sections/28-3903.xml"/>
+    <xi:include href="./sections/28-3903a.xml"/>
     <xi:include href="./sections/28-3904.xml"/>
     <xi:include href="./sections/28-3905.xml"/>
     <xi:include href="./sections/28-3906.xml"/>
@@ -1285,6 +1286,7 @@
     <heading>Natural Disaster Consumer Protection.</heading>
     <xi:include href="./sections/28-4101.xml"/>
     <xi:include href="./sections/28-4102.xml"/>
+    <xi:include href="./sections/28-4102.01.xml"/>
     <xi:include href="./sections/28-4103.xml"/>
   </container>
   <container>
@@ -1533,5 +1535,20 @@
     <xi:include href="./sections/28-5402.xml"/>
     <xi:include href="./sections/28-5403.xml"/>
     <xi:include href="./sections/28-5404.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>55</num>
+    <heading>Sale and Resale of Live Event Tickets. [Applicable on January 1, 2027]</heading>
+    <annotation app="2026-09-25" doc="D.C. Law 26-181" eff="2026-09-25" path="" target-path="28" type="History" display="false"/>
+    <xi:include href="./sections/28-5501.xml"/>
+    <xi:include href="./sections/28-5502.xml"/>
+    <xi:include href="./sections/28-5503.xml"/>
+    <xi:include href="./sections/28-5504.xml"/>
+    <xi:include href="./sections/28-5505.xml"/>
+    <xi:include href="./sections/28-5506.xml"/>
+    <xi:include href="./sections/28-5507.xml"/>
+    <xi:include href="./sections/28-5508.xml"/>
+    <xi:include href="./sections/28-5509.xml"/>
   </container>
 </container>

@@ -2127,6 +2127,17 @@
       </container>
       <container>
         <prefix>Part</prefix>
+        <num>F-ii</num>
+        <heading>Glazier Licensing and Certification.</heading>
+        <annotation app="2026-09-25" doc="D.C. Law 26-182" eff="2026-09-25" path="" target-path="47|28|I-B" type="History" display="false"/>
+        <xi:include href="./sections/47-2853.100.xml"/>
+        <xi:include href="./sections/47-2853.100a.xml"/>
+        <xi:include href="./sections/47-2853.100b.xml"/>
+        <xi:include href="./sections/47-2853.100c.xml"/>
+        <xi:include href="./sections/47-2853.100d.xml"/>
+      </container>
+      <container>
+        <prefix>Part</prefix>
         <num>G</num>
         <heading>Interior Designers.</heading>
         <xi:include href="./sections/47-2853.101.xml"/>
@@ -2438,6 +2449,17 @@
         <xi:include href="./sections/47-2889.06.xml"/>
         <xi:include href="./sections/47-2889.07.xml"/>
         <xi:include href="./sections/47-2889.08.xml"/>
+      </container>
+      <container>
+        <prefix>Part</prefix>
+        <num>H</num>
+        <heading>Ticket Resellers and Secondary Ticket Exchanges. [Applicable on January 1, 2027]</heading>
+        <annotation app="2026-09-25" doc="D.C. Law 26-181" eff="2026-09-25" path="" target-path="47|28|IV" type="History" display="false"/>
+        <xi:include href="./sections/47-2890.01.xml"/>
+        <xi:include href="./sections/47-2890.02.xml"/>
+        <xi:include href="./sections/47-2890.03.xml"/>
+        <xi:include href="./sections/47-2890.04.xml"/>
+        <xi:include href="./sections/47-2890.05.xml"/>
       </container>
     </container>
   </container>

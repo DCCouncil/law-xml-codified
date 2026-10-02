@@ -1,14 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-301.88d</num>
-  <heading>Authority to issue subpoenas in investigation of consumer protection matters.</heading>
+  <heading proof="needed">Authority to issue subpoenas in investigation of consumer protection matters.</heading>
   <para>
     <num>(a)</num>
-    <text>The Attorney General, or his or her designee, shall have the authority to issue subpoenas for the production of documents and materials or for the attendance and testimony of witnesses under oath, or both, related to an investigation into unfair, deceptive, unconscionable, or fraudulent trade practices by or between a merchant or consumer, as defined in <cite path="§28-3901">§ 28-3901</cite>.</text>
+    <text>In an investigation into unfair, deceptive, unconscionable, or fraudulent trade practices by or between a merchant or consumer, as defined in <cite path="§28-3901">§ 28-3901</cite>, the Attorney General, or the Attorney General's designee, may:</text>
+    <para>
+      <num>(1)</num>
+      <text>Subpoena individuals or corporate representatives;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Administer oaths;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Examine individuals or corporate representatives under oath;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Require sworn answers in writing to written interrogatories; or</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Compel production of records, books, papers, contracts, and other documents, verified by a sworn certificate of completion.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
-    <text>Subpoenas issued pursuant to subsection (a) of this section or <cite path="§28-3910">§ 28-3910</cite> shall contain the following:</text>
+    <text>Subpoenas or interrogatories issued pursuant to subsection (a) of this section or <cite path="§28-3910">§ 28-3910</cite> shall contain the following:</text>
     <para>
       <num>(1)</num>
       <text>The name of the person from whom testimony is sought or the documents or materials requested;</text>
@@ -27,11 +47,11 @@
     </para>
     <para>
       <num>(5)</num>
-      <text>A short, plain statement of the recipient’s rights and the procedure for enforcing and contesting the subpoena; and</text>
+      <text>A short, plain statement of the recipient's rights and the procedure for enforcing and contesting the subpoena; and</text>
     </para>
     <para>
       <num>(6)</num>
-      <text>The signature of the Attorney General, Chief Deputy Attorney General, Deputy Attorney General, or Assistant Deputy Attorney General approving the subpoena request.</text>
+      <text>The signature of the Attorney General, or the Attorney General's designee, approving the subpoena request.</text>
     </para>
   </para>
   <para>
@@ -40,24 +60,29 @@
   </para>
   <para>
     <num>(d)</num>
-    <text>In the case of refusal to obey a subpoena issued under this section, the Attorney General may petition the Superior Court of the District of Columbia for an order requiring compliance. Any failure to obey the order of the court may be treated by the court as contempt.</text>
+    <text>In the case of refusal to comply fully with a subpoena or interrogatories issued under this section, the Attorney General may petition the Superior Court of the District of Columbia for an order requiring complete compliance and, where appropriate, imposing a fine payable to the District. In assessing any fine for incomplete or inadequate compliance with the subpoena, the court shall consider the income and assets of the person or entity being fined to ensure that the monetary fine meaningfully deters inadequate compliance. Any failure to obey the order of the court may be treated by the court as contempt.</text>
   </para>
   <para>
     <num>(e)</num>
-    <text>Any person to whom a subpoena has been issued under this section or pursuant to <cite path="§28-3910">§ 28-3910</cite> may exercise the privileges enjoyed by all witnesses. A person to whom a subpoena has been issued may move to quash or modify the subpoena in the Superior Court of the District of Columbia on grounds including:</text>
+    <text>Any person to whom a subpoena has been issued under this section or pursuant to <cite path="§28-3910">§ 28-3910</cite> may exercise the privileges enjoyed by all witnesses, and may move to quash or modify the subpoena in the Superior Court of the District of Columbia on grounds including:</text>
     <para>
       <num>(1)</num>
-      <text>The Attorney General failed to follow or satisfy the procedures set forth in this section for the issuance of a subpoena; or</text>
+      <text>The Attorney General failed to follow or satisfy the procedures set forth in this section; or</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Any grounds that exist under statute or common law for quashing or modifying a subpoena.</text>
+      <text>Any grounds that exist under statute or common law for quashing or modifying a subpoena or request for interrogatories.</text>
     </para>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>In any action in the Superior Court of the District of Columbia pertaining to a subpoena issued under this section, or pursuant to <cite path="§28-3910">§ 28-3910</cite>, the Attorney General shall be entitled to recover the costs of the action and reasonable attorneys' fees.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 18-160" type="History" path="§110a">May 27, 2010, D.C. Law 18-160, §  110a [108d]</annotation>
     <annotation doc="D.C. Law 21-36" type="History">as added Oct. 22, 2015, D.C. Law 21-36, § 1032(c), 62 DCR 10905</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) addition of this section, see § 1032(c) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
     <annotation type="Prior Codifications">2001 Ed., § 1-301.89c</annotation>
+    <annotation app="2026-09-26" doc="D.C. Law 26-187" eff="2026-09-26" path="§2|(a)" target-path="§1-301.88d" type="History"/>
   </annotations>
 </section>

@@ -1,14 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>28-3910</num>
   <heading>Investigatory powers of Attorney General for the District of Columbia.</heading>
   <para>
     <num>(a)</num>
-    <text>In the course of an investigation to determine whether to seek relief under <cite path="§28-3909">section 28-3909</cite>, the Attorney General for the District of Columbia may subpoena witnesses, administer oaths, examine an individual under oath, and compel production of records, books, papers, contracts, and other documents. Information obtained under this section is not admissible in a later criminal proceeding against the person who provides the evidence.</text>
+    <para>
+      <num>(1)</num>
+      <text>In the course of an investigation to determine whether to seek relief under <cite path="§28-3909">§ 28-3909</cite>, the Attorney General for the District of Columbia may:</text>
+      <para>
+        <num>(A)</num>
+        <text>Subpoena witnesses;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Administer oaths;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Examine an individual under oath;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Require sworn answers in writing to written interrogatories; and</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Compel production of records, books, papers, contracts, and other documents, verified by a sworn certificate of completion.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Service of any demand document issued under this section may be made by first-class mail, electronic mail, or any other method reasonably calculated to give actual notice; provided, that the Superior Court of the District of Columbia may exercise jurisdiction over the recipient to compel a response consistent with the due process clause of the Constitution of the United States.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Information obtained under this section shall not be admissible in a later criminal proceeding against the person who provides the information or evidence, except with respect to sworn statements that are themselves the basis for a subsequent perjury prosecution.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
-    <text>A subpoena issued pursuant to subsection (a) of this section shall be issued in accordance with [<cite path="§1-301.89c">§  1-301.89c</cite>].</text>
+    <text>A subpoena or request for interrogatories issued pursuant to subsection (a) of this section shall be issued in accordance with <cite path="§1-301.88d">§ 1-301.88d</cite>.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 13-172" type="History">Oct. 19, 2000, D.C. Law 13-172, § 1402(f), 47 DCR 6308</annotation>
@@ -36,5 +68,6 @@
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 22-172" path="§2|(b)" codified:display="Note" app="2018-10-30" eff="2018-10-30">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 22-172" path="§2|(b)">§ 2(b) of At-Risk Tenant Protection Clarifying Temporary Amendment Act of 2018 (D.C. Law 22-172, Oct. 30, 2018, 65 DCR 9540)</cite>.</annotation>
     <annotation app="2018-10-30" doc="D.C. Law 22-172" eff="2018-10-30" path="§2|(b)" target-path="§28-3910" type="History" display="false"/>
     <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§145" target-path="§28-3910" type="History"/>
+    <annotation app="2026-09-26" doc="D.C. Law 26-187" eff="2026-09-26" path="§4|(k)" target-path="§28-3910" type="History"/>
   </annotations>
 </section>

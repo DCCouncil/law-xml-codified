@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-2853.49</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on November 8, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-2853.49(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Practice privilege.</heading>
   <para>
     <num>(a)</num>
@@ -25,13 +22,13 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>Satisfied experience requirements equivalent to those set forth in <cite path="§47-2853.42|(a)|(3)">§ 47-2853.42(a)(3)</cite>.".</text>
+        <text>Satisfied experience requirements equivalent to those set forth in <cite path="§47-2853.42|(a)|(3)">§ 47-2853.42(a)(3)</cite>.</text>
       </para>
     </para>
   </para>
   <para>
     <num>(b)</num>
-    <text>An individual whose principal place of business is not in the District, who is licensed as a CPA in good standing in another state or territory of the United States, and who had practice privileges in the District under the version of this section that was in effect immediately prior to August 10, 2026, shall continue to have all privileges of a licensee in the District without the need to obtain a license under <cite path="§47-2853.42">§ 47-2853.42</cite> regardless of whether the individual meets the requirements of this section on August 10, 2026.</text>
+    <text>An individual whose principal place of business is not in the District, who is licensed as a CPA in good standing in another state or territory of the United States, and who had practice privileges in the District under the version of this section that was in effect immediately prior to [September 25, 2026], shall continue to have all privileges of a licensee in the District without the need to obtain a license under § 47-2853.42 regardless of whether the individual meets the requirements of this section on [September 25, 2026].</text>
   </para>
   <para>
     <num>(c)</num>
@@ -83,11 +80,11 @@
     <annotation app="2017-04-15" doc="D.C. Law 21-276" eff="2017-04-15" path="§2|(h)|(3)|(A)" target-path="§47-2853.49|(f)" type="History"/>
     <annotation app="2017-04-15" doc="D.C. Law 21-276" eff="2017-04-15" path="§2|(h)|(3)|(B)" target-path="§47-2853.49|(f)" type="History"/>
     <annotation app="2017-04-15" doc="D.C. Law 21-276" eff="2017-04-15" path="§2|(h)|(4)" target-path="§47-2853.49|(g)" type="History"/>
-    <annotation app="2026-08-10" doc="D.C. Act 26-399" eff="2026-08-10" path="§3|(b)|(3)" target-path="§47-2853.49" type="History" display="false"/>
-    <annotation app="2026-08-10" doc="D.C. Act 26-399" eff="2026-08-10" path="§3|(b)|(3)|(A)" target-path="§47-2853.49|heading" type="History"/>
-    <annotation app="2026-08-10" doc="D.C. Act 26-399" eff="2026-08-10" path="§3|(b)|(3)|(B)" target-path="§47-2853.49|(a)" type="History"/>
-    <annotation app="2026-08-10" doc="D.C. Act 26-399" eff="2026-08-10" path="§3|(b)|(3)|(B)" target-path="§47-2853.49|(b)" type="History"/>
-    <annotation app="2026-08-10" doc="D.C. Act 26-399" eff="2026-08-10" path="§3|(b)|(3)|(C)" target-path="§47-2853.49|(d)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-399" path="§3|(b)|(3)" codified:display="Note" app="2026-08-10" eff="2026-08-10">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-399" path="§3|(b)|(3)">§ 3(b)(3) of Business Licensing Reform and Accountancy Practice Emergency Amendment Act of 2026 (D.C. Act 26-399, Aug. 10, 2026, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2026-08-10" doc="D.C. Act 26-399" eff="2026-08-10" path="§3|(b)|(3)" target-path="§47-2853.49" type="History" display="false"/>
+    <annotation app="2026-09-25" doc="D.C. Law 26-183" eff="2026-09-25" path="§3|(b)|(3)|(A)" target-path="§47-2853.49|heading" type="History"/>
+    <annotation app="2026-09-25" doc="D.C. Law 26-183" eff="2026-09-25" path="§3|(b)|(3)|(B)" target-path="§47-2853.49|(a)" type="History"/>
+    <annotation app="2026-09-25" doc="D.C. Law 26-183" eff="2026-09-25" path="§3|(b)|(3)|(B)" target-path="§47-2853.49|(b)" type="History"/>
+    <annotation app="2026-09-25" doc="D.C. Law 26-183" eff="2026-09-25" path="§3|(b)|(3)|(C)" target-path="§47-2853.49|(d)" type="History"/>
   </annotations>
 </section>

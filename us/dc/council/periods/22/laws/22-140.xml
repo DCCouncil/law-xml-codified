@@ -84,7 +84,7 @@
       <para codify:path="(hh)">
         <num>(3)</num>
         <text>Subsection (hh) is amended by striking the word "or".</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§28-3904|(hh)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§28-3904">
           <find>or</find>
           <replace/>
         </codify:find-replace>
@@ -92,7 +92,7 @@
       <para codify:path="(ii)">
         <num>(4)</num>
         <text>Subsection (ii) is amended by striking the period and inserting the phrase "; or" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§28-3904|(ii)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§28-3904">
           <find><cite doc="D.C. Code" path="28|53">Chapter 53 of this title</cite>.</find>
           <replace><cite doc="D.C. Code" path="28|53">Chapter 53 of this title</cite>; or</replace>
         </codify:find-replace>
@@ -102,7 +102,7 @@
         <text>A new subsection (jj) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(ii)" codified:doc="D.C. Code" codified:path="§28-3904|(jj)"/>
+            <codify:insert after="(ii)" codified:doc="D.C. Code" codified:path="§28-3904"/>
             <num>(jj)</num>
             <text>violate any agreement entered into pursuant to <cite doc="D.C. Code" path="§28-3909|(c)|(6)">section 28-3909(c)(6)</cite>.</text>
           </para>
@@ -188,7 +188,7 @@
       <para codify:path="(a)">
         <num>(2)</num>
         <text>Subsection (a) is amended by striking the phrase "Corporation Counsel" and inserting the phrase "Attorney General for the District of Columbia" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§28-3910|(a)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§28-3910">
           <find>Corporation Counsel</find>
           <replace>Attorney General for the District of Columbia</replace>
         </codify:find-replace>

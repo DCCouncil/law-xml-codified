@@ -414,7 +414,7 @@
         <para codify:path="(ii)">
           <num>(A)</num>
           <text>Subsection (ii) is amended by striking the phrase "; or" and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§28-3904|(ii)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§28-3904">
             <find>; or</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -422,7 +422,7 @@
         <para codify:path="(jj)">
           <num>(B)</num>
           <text>Subsection (jj) is amended by striking the period and inserting the phrase "; or" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§28-3904|(jj)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§28-3904">
             <find>.</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -432,7 +432,7 @@
           <text>A new subsection (kk) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(jj)" codified:doc="D.C. Code" codified:path="§28-3904|(kk)"/>
+              <codify:insert after="(jj)" codified:doc="D.C. Code" codified:path="§28-3904"/>
               <num>(kk)</num>
               <text>violate any provision of <cite doc="D.C. Code" path="28|38|II">subchapter 2 of Chapter 38 of this title</cite><span codify:value=";">.</span></text>
             </para>

@@ -92,7 +92,7 @@
       <para codify:path="(gg)">
         <num>(1)</num>
         <text>Paragraph (gg) is amended by striking the phrase "or".</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§28-3904|(gg)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§28-3904">
           <find>; or</find>
           <replace>;</replace>
         </codify:find-replace>
@@ -100,7 +100,7 @@
       <para codify:path="(hh)">
         <num>(2)</num>
         <text>Paragraph (hh) is amended by striking the period and inserting the phrase "; or" in its place.</text>
-        <codify:find-replace count="1" position="last" codified:doc="D.C. Code" codified:path="§28-3904|(hh)">
+        <codify:find-replace count="1" position="last" codified:doc="D.C. Code" codified:path="§28-3904">
           <find>.</find>
           <replace>; or</replace>
         </codify:find-replace>
@@ -110,7 +110,7 @@
         <text>A new paragraph (ii) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(hh)" codified:doc="D.C. Code" codified:path="§28-3904|(ii)"/>
+            <codify:insert after="(hh)" codified:doc="D.C. Code" codified:path="§28-3904"/>
             <num>(ii)</num>
             <text>violate any provision of <cite doc="D.C. Code" path="28|53">Chapter 53 of this title</cite>.</text>
           </para>

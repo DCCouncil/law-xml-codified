@@ -733,7 +733,7 @@
         <para>
           <num>(A)</num>
           <text>Subsection (nn) is redesignated as subsection (ll).</text>
-          <codify:replace path="[(ll)]|num" codified:doc="D.C. Code" codified:path="§28-3904|[(ll)]">
+          <codify:replace path="[(ll)]|num" codified:doc="D.C. Code" codified:path="§28-3904">
             <num>(ll)</num>
           </codify:replace>
         </para>
@@ -754,7 +754,7 @@
           <text>A new subsection (mm) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="[(ll)]" num-value="(mm)" codified:doc="D.C. Code" codified:path="§28-3904|(mm)"/>
+              <codify:insert after="[(ll)]" num-value="(mm)" codified:doc="D.C. Code" codified:path="§28-3904"/>
               <num>(mm)</num>
               <text>violate any provision of § 28-3820.</text>
             </para>
