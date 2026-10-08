@@ -168,6 +168,7 @@
         <xi:include href="./sections/2-218.11.xml"/>
         <xi:include href="./sections/2-218.12.xml"/>
         <xi:include href="./sections/2-218.13.xml"/>
+        <xi:include href="./sections/2-218.13a.xml"/>
         <xi:include href="./sections/2-218.14.xml"/>
         <xi:include href="./sections/2-218.15.xml"/>
       </container>
@@ -1515,6 +1516,13 @@
         <heading>Application of Law.</heading>
         <xi:include href="./sections/2-1215.71.xml"/>
       </container>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>VIII-A</num>
+      <heading>Federal Property Tax Fund.</heading>
+      <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="II|KK" target-path="2|12" type="History" display="false"/>
+      <xi:include href="./sections/2-1216.01.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>

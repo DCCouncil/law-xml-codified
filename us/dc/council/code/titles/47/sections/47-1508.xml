@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-1508</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-1508(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Exemptions.</heading>
   <para>
     <num>(a)</num>
-    <text>The following personal property shall be exempt from the tax imposed by this act [this subchapter]:</text>
+    <text>The following personal property shall be exempt from the tax imposed by <cite path="47|15|I">[this subchapter]</cite>:</text>
     <para>
       <num>(1)</num>
       <text>The personal property of any corporation, and any community chest fund or foundation, organized exclusively for religious, scientific, charitable, or educational purposes, including hospitals, no part of the net earnings of which inure to the benefit of any private shareholder or individual; provided, that (A) the organization shall have first obtained a letter from the Mayor stating that it is entitled to the exemption, and (B) any personal property used for activities that generate unrelated business income subject to tax under section 511 of the Internal Revenue Code of 1986 shall not be exempt.</text>
@@ -49,7 +52,26 @@
       <num>(9)</num>
       <para>
         <num>(A)</num>
-        <text>The personal property of a qualified supermarket, as defined in <cite path="§47-3801|(2)">§ 47-3801(2)</cite>, which is a development, as defined in <cite path="§47-3801|(1)">§ 47-3801(1)</cite>, for the first 10 years for which the tax imposed by this chapter would otherwise be due.</text>
+        <text>The personal property of a qualified supermarket, as defined in <cite path="§47-3801|(2)">§ 47-3801(2)</cite>, as follows:</text>
+        <para>
+          <num>(i)</num>
+          <para>
+            <num>(I)</num>
+            <text>In the case of a qualified supermarket that is a development, as defined in <cite path="§47-3801|(1)">§ 47-3801(1)</cite>, that is certified for the exemption pursuant to Chapter 38 of this title before October 1, 2026, for the first 10 years for which the tax imposed by this chapter would otherwise be due;</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>In the case of a qualified supermarket that is a development, as defined in <cite path="§47-3801|(1)">§ 47-3801(1)</cite>, that is certified for the exemption pursuant to Chapter 38 of this title on or after October 1, 2026, for the first 5 years for which the tax imposed by this chapter would otherwise be due; and</text>
+          </para>
+          <para>
+            <num>(III)</num>
+            <text>In the case of a qualified supermarket that experienced hardship, as described in <cite path="§47-3802|(a)|(2)">§ 47-3802(a)(2)</cite>, for 5 consecutive personal property tax years beginning with the personal property tax year in which the Mayor certifies to the Office of Tax and Revenue that the qualified supermarket has experienced such hardship; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>For any additional tax years as extended by the Mayor pursuant to <cite path="§47-3802">§ 47-3802</cite>.</text>
+        </para>
       </para>
       <para>
         <num>(B)</num>
@@ -60,7 +82,7 @@
         </para>
         <para>
           <num>(ii)</num>
-          <text>In the case of the development of a qualified supermarket on real property not owned by the supermarket, if the owner of the real property leases the land or structure to the supermarket at a fair market rent reduced by the amount of the real property tax exemption provided by <cite path="§47-1002|(23)">§ 47-1002(23)</cite>; and</text>
+          <text>In the case of a qualified supermarket located on real property not owned by the supermarket, if the owner of the real property leases the land or structure to the supermarket at a fair market rent reduced by the amount of the real property tax exemption provided by <cite path="§47-1002|(23)">§ 47-1002(23)</cite>; and</text>
         </para>
         <para>
           <num>(iii)</num>
@@ -179,5 +201,10 @@
     <annotation doc="D.C. Law 23-149" path="§7153" type="Applicability" history="false" app="2020-12-03" eff="2020-12-03"><cite doc="D.C. Law 23-149" path="§7153">Section 7153 of D.C. Law 23-149</cite> provided that the changes made to this section by section 7152(a) of D.C. Law 23-149 shall apply as of July 1, 2021.
         </annotation>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7153" target-path="§47-1508" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2062|(b)" target-path="§47-1508" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2062|(b)|(2)|(A)" target-path="§47-1508|(a)|(9)|(A)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2062|(b)|(2)|(B)" target-path="§47-1508|(a)|(9)|(B)|(ii)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2062|(b)|(1)" target-path="§47-1508|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§2062|(b)" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§2062|(b)">§ 2062(b) of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
   </annotations>
 </section>

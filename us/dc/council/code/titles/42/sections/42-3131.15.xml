@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-3131.15</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§42-3131.15(Perm)">Permanent Version</cite>.*
+      </text>
   <heading proof="needed">Administrative review and appeal.</heading>
   <para>
     <num>(a)</num>
-    <text>Within 15 days after the designation of an owner's building as a vacant building, the determination of delinquency of registration or fee payment, the denial or revocation of registration, or the designation of a vacant building as a blighted vacant building, the owner may petition the Mayor for reconsideration by filing the form prescribed by the Mayor.</text>
+    <text>Within 15 days after the designation of an owner's building as a vacant building, the determination of delinquency of registration, the denial or revocation of registration, or the designation of a vacant building as a blighted vacant building, the owner may petition the Mayor for reconsideration by filing the form prescribed by the Mayor.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -64,5 +67,8 @@
         </annotation>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7132|(a)" target-path="§42-3131.15" type="History" display="false"/>
     <annotation app="2025-10-01" doc="D.C. Law 26-41" eff="2025-10-01" path="§202|(k)" target-path="§42-3131.15" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2082|(i)" target-path="§42-3131.15" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2082|(i)" target-path="§42-3131.15|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§2082|(i)" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§2082|(i)">§ 2082(i) of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
   </annotations>
 </section>

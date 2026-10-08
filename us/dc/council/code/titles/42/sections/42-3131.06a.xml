@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-3131.06a</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§42-3131.06a(Perm)">Permanent Version</cite>.*
+      </text>
   <heading proof="needed">Exemptions.</heading>
   <para>
     <num>(a)</num>
-    <text>A vacant building shall not be subject to the registration requirements of <cite path="§42-3131.06">§ 42-3131.06</cite>, the registration fee pursuant to <cite path="§42-3131.09">§ 42-3131.09</cite>, or the increased real property tax rates for vacant buildings set forth in <cite path="§47-812|(b-10)">§ 47-812(b-10)</cite>, if it is:</text>
+    <text>A vacant building shall not be subject to the registration requirements of <cite path="§42-3131.06">§ 42-3131.06</cite> or the increased real property tax rates for vacant buildings set forth in <cite path="§47-812|(b-10)">§ 47-812(b-10)</cite>, if it is:</text>
     <para>
       <num>(1)</num>
       <text>Owned by the government of the United States or its instrumentalities; or</text>
@@ -16,7 +19,7 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>A vacant building shall not be subject to the registration fee pursuant to <cite path="§42-3131.09">§ 42-3131.09</cite> or the increased real property tax rates for vacant buildings set forth in <cite path="§47-812|(b-10)">§ 47-812(b-10)</cite> if it is:</text>
+    <text>A vacant building shall not be subject to the increased real property tax rates for vacant buildings set forth in <cite path="§47-812|(b-10)">§ 47-812(b-10)</cite> if it is:</text>
     <para>
       <num>(1)</num>
       <text>Exempted by the Mayor in extraordinary circumstances and upon a showing of substantial economic or personal hardship as determined pursuant to subsection (c) of this section;</text>
@@ -24,9 +27,9 @@
     <para>
       <num>(2)</num>
       <text>In compliance with the requirements of <cite path="§42-3131.12">§ 42-3131.12</cite> and applicable property maintenance code standards for the District of Columbia, and, if a rental, properly licensed in accordance with applicable District regulations, and the owner or his or her agent has been actively seeking in good faith to rent or sell the building; provided, that an exemption under this paragraph shall only be available for a period not to exceed:</text>
-      <para>
+      <para placeholder="Repealed">
         <num>(A)</num>
-        <text>Half a tax year from the initial listing, offer, or advertisement of rent or sale in the case of a single-family residential building;</text>
+        <text>Repealed.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -107,10 +110,16 @@
   </para>
   <para>
     <num>(e)</num>
-    <text>If a vacant building is owned by the District of Columbia or its instrumentalities, it shall be subject to the registration requirements of <cite path="§42-3131.06">§ 42-3131.06</cite> and the maintenance requirements of <cite path="§42-3131.12">§ 42-3131.12</cite>, but not subject to the fee requirements of <cite path="§42-3131.09">§ 42-3131.09</cite>, the fines and penalties collected under <cite path="§42-3131.10">§ 42-3131.10</cite>, or the increased real property tax rates for vacant buildings set forth in <cite path="§47-812|(b-10)">§ 47-812(b-10)</cite>.</text>
+    <text>If a vacant building is owned by the District of Columbia or its instrumentalities, it shall be subject to the registration requirements of <cite path="§42-3131.06">§ 42-3131.06</cite> and the maintenance requirements of <cite path="§42-3131.12">§ 42-3131.12</cite>, but not subject to the fines and penalties collected under <cite path="§42-3131.10">§ 42-3131.10</cite> or the increased real property tax rates for vacant buildings set forth in <cite path="§47-812|(b-10)">§ 47-812(b-10)</cite>.</text>
   </para>
   <annotations>
     <annotation type="History" doc="Stat. 59-1-ch1626" path="§6a">Apr. 14, 1906, 34 Stat. 115, ch. 1626, § 6a</annotation>
     <annotation app="2025-10-01" doc="D.C. Law 26-41" eff="2025-10-01" path="§202|(e)" prefix="as added" target-path="42|31A|II" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2082|(c)" target-path="§42-3131.06a" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2082|(c)|(1)" target-path="§42-3131.06a|(a)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2082|(c)|(2)|(B)" target-path="§42-3131.06a|(b)|(2)|(A)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2082|(c)|(2)|(A)" target-path="§42-3131.06a|(b)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2082|(c)|(3)" target-path="§42-3131.06a|(e)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§2082|(c)" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§2082|(c)">§ 2082(c) of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
   </annotations>
 </section>

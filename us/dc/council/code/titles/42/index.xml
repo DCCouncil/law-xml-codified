@@ -1624,6 +1624,13 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>V-C</num>
+      <heading>Rent Payment Reporting Program.</heading>
+      <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="II|B" target-path="42|35" type="History" display="false"/>
+      <xi:include href="./sections/42-3505.71.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>VI</num>
       <heading>Conversion or Demolition of Rental Housing for Hotels, Motels, or Inns.</heading>
       <xi:include href="./sections/42-3506.01.xml"/>

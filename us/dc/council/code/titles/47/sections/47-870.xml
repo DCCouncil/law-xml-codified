@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>47-870</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-870(Perm)">Permanent Version</cite>.*
+      </text>
   <heading proof="needed">Central Washington activation projects— temporary tax abatement – Definitions.</heading>
   <para>
     <num undesignated="true">(a)</num>
@@ -25,7 +28,7 @@
       <num>(3)</num>
       <para>
         <num>(A)</num>
-        <text>"Repositioning" means a construction, reconstruction, alteration, or renovation to a property with a minimum of 50,000 square feet that results in the conversion of the property from a primarily office use to a use that is not residential or in an upgrade in the class of the office space to class A or higher from a class below class A.</text>
+        <text>"Repositioning" means the construction or substantial improvement of a property that results in the conversion of the property from a primarily non-residential use to a new non-residential use or that results in an upgrade of a primarily office use to class A or higher from a class below class A and the conversion or upgrade of the property results in the property being expanded to 50,000 square feet or more.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -86,5 +89,8 @@
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§2122|(c)|(2)|(B)" target-path="§47-870|(1)|(B)" type="History"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§2232|(a)|(2)" target-path="§47-870|(3)" type="History"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§2232|(a)|(1)" target-path="§47-870|(3)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2002|(d)" target-path="§47-870" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2002|(d)" target-path="§47-870|(3)|(A)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§2002|(d)" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§2002|(d)">§ 2002(d) of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
   </annotations>
 </section>

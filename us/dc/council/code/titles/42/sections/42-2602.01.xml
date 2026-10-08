@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-2602.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§42-2602.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Home Purchase Assistance Program Revision.</heading>
   <para>
     <num>(a)</num>
@@ -62,7 +65,7 @@
       <num>(1)</num>
       <para>
         <num>(A)</num>
-        <text>At the beginning of each quarter in a fiscal year, funds necessary to administer the Program and provide financial assistance to qualifying applicants shall be disbursed to a grantee who has an agreement or contract with the District to administer the Program.</text>
+        <text>Funds necessary to administer the Program and provide financial assistance to qualifying applicants shall be disbursed to a grantee who has an agreement or contract with the District to administer the Program.</text>
       </para>
       <para placeholder="Repealed">
         <num>(B)</num>
@@ -128,5 +131,8 @@
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2152|(b)|(1)" target-path="§42-2602.01|(d)" type="History"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2152|(b)|(2)" target-path="§42-2602.01|(e)|(1)" type="History"/>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2152|(b)|(3)" target-path="§42-2602.01|(g)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2212" target-path="§42-2602.01" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2212" target-path="§42-2602.01|(e)|(1)|(A)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§2212" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§2212">§ 2212 of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
   </annotations>
 </section>

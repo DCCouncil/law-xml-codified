@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>42-2802</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§42-2802(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Housing Production Trust Fund established.</heading>
   <para>
     <num>(a)</num>
@@ -80,11 +83,11 @@
     <num>(b-1)</num>
     <para>
       <num>(1)</num>
-      <text>At least 40% of the funds obligated to new projects for a future expenditure from the Fund during a fiscal year shall be for the purposes of assisting in the provision of housing opportunities for very low-income households, which includes individuals who have previously been incarcerated for or convicted of a felony under state or federal law and who are otherwise entitled to services and assistance pursuant to this chapter, including maximizing the possibility of home ownership. The Mayor shall submit a written request to the Council for a waiver of the 40% requirement if, by the last day of the 3rd quarter of the fiscal year, the Mayor has not received a sufficient number of viable housing proposals. The Council shall approve or disapprove the waiver by resolution within 30 days, and the resolution shall be deemed disapproved if the Council does not act within this 30-day period.</text>
+      <text>At least 40% of the total housing units across all new projects for which HTPF funds are obligated in a fiscal year shall be set aside for very low-income households, which includes individuals who have previously been incarcerated for or convicted of a felony under state or federal law and who are otherwise entitled to services and assistance pursuant to this act. The Mayor shall submit a written request to the Council for a waiver of this 40% requirement if, in the judgment of the Mayor, compliance with the requirement is not feasible. The Council shall approve or disapprove the waiver by resolution within 30 days, and the resolution shall be deemed disapproved if the Council does not act within this 30-day period.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>At least 50% of the funds obligated to new projects for a future expenditure from the Fund during a fiscal year shall be for the purposes of assisting in the provision of housing opportunities for extremely low-income households, including maximizing the possibility of home ownership. The Mayor shall submit a written request to the Council for a waiver of the 50% requirement if, by the last day of the 3rd quarter of the fiscal year, the Mayor has not received a sufficient number of viable housing proposals. The Council shall approve or disapprove the waiver by resolution within 30 days, and the resolution shall [be] deemed disapproved if the Council does not act within this 30-day period.</text>
+      <text>At least 50% of the total housing units across all new projects for which HTPF funds are obligated in a fiscal year shall be set aside for extremely low-income households. The Mayor shall submit a written request to the Council for a waiver of the 50% requirement if, in the judgment of the Mayor, compliance with the requirement is not feasible. The Council shall approve or disapprove the waiver by resolution within 30 days, and the resolution shall be deemed disapproved if the Council does not act within this 30-day period.</text>
     </para>
     <para>
       <num>(3)</num>
@@ -150,6 +153,17 @@
     <para>
       <num>(2)</num>
       <text>The Mayor's selection process for funding viable preservation of affordable rental housing proposals shall give a preference to projects or proposals that previously have received Fund commitments.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b-8)</num>
+    <para>
+      <num>(1)</num>
+      <text>Notwithstanding any provision of <cite path="42|28">this chapter</cite> or any other law, the Mayor in Fiscal Year 2027 shall use 15% of the Fund for the purpose of assisting in the preservation of affordable rental housing.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Mayor's selection process for funding viable preservation of affordable rental housing proposals pursuant to this subsection shall provide a preference for projects or proposals that have previously received Fund commitments.</text>
     </para>
   </para>
   <para>
@@ -292,32 +306,130 @@
           <table>
             <tbody>
               <tr>
-                <td rowspan="2">Affordability Level</td>
-                <td colspan="2">Total Number of Proposed Units</td>
+                <td rowspan="3">Affordability Level</td>
+                <td colspan="4" class="text-indent-2">Total Number of Proposed Units</td>
               </tr>
               <tr>
-                <td>Selected Project Proposals</td>
-                <td>All Project Proposals that Met Minimum Requirements</td>
+                <td colspan="2">Selected Project Proposals</td>
+                <td colspan="2">All Project Proposals that Met Minimum Requirements</td>
               </tr>
               <tr>
-                <td>Extremely low income</td>
-                <td/>
-                <td/>
+                <td>New Construction</td>
+                <td>Preservation Units</td>
+                <td>New Construction</td>
+                <td>Preservation Units</td>
               </tr>
               <tr>
-                <td>Very low income</td>
-                <td/>
-                <td/>
+                <td>Extremely low-income studio</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
               </tr>
               <tr>
-                <td>Low income</td>
-                <td/>
-                <td/>
+                <td>Extremely low-income 1 bedroom</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>Extremely low-income 2 bedrooms</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>Extremely low-income 3+ bedrooms</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>Total Extremely low-income Units</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>Very low-income studio</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>Very low-income 1 bedroom</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>Very low-income 2 bedrooms</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>Very low-income 3+ bedrooms</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>Total Very low-income units</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>Low-income studio</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>Low-income 1 bedroom</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>Low-income 2 bedrooms</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>Low-income 3+ bedrooms</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>Total Low-income units</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
               </tr>
               <tr>
                 <td>Total Affordable Units</td>
-                <td/>
-                <td/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
               </tr>
             </tbody>
           </table>
@@ -352,7 +464,11 @@
         </para>
         <para>
           <num>(v)</num>
-          <text>Number of extremely low-income housing units per project proposal, the number of very low-income housing units per project proposal, the number of low-income housing units per project proposal, and the amount of Local Rent Supplement assistance proposed for the project;</text>
+          <text>For new construction projects, number of housing units per project proposal that will be affordable to households earning up to 30% of the area median income, the number of housing units per project proposal that will be affordable to households earning between 30% and 50% of the area median income, the number of housing units per project proposal that will be affordable to households earning between 50% and 80% of the area median income, and the amount of Local Rent Supplement assistance proposed for the project; and</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>For each preservation project proposal, number of housing units that will, upon completion of rehabilitation, be rented at levels affordable to households earning up to 30% of the area median income, the number of housing units that will be rented at levels affordable to households earning between 30% and 50% of the area median income, and the number of housing units that will be rented at levels affordable to households earning between 50% and 80% of the area median income;</text>
         </para>
       </para>
       <para>
@@ -550,5 +666,13 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§2202" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§2202">§ 2202 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
     <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2202" target-path="§42-2802" type="History" display="false"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§2202" target-path="§42-2802" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2252|(a)" target-path="§42-2802" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2252|(a)|(1)|(A)" target-path="§42-2802|(b-1)|(1)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2252|(a)|(1)|(B)" target-path="§42-2802|(b-1)|(2)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2252|(a)|(2)" target-path="§42-2802" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2252|(a)|(3)|(A)" target-path="§42-2802|(d)|(9)|(A)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2252|(a)|(3)|(B)|(i)" target-path="§42-2802|(d)|(9)|(D)|(v)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2252|(a)|(3)|(B)|(ii)" target-path="§42-2802|(d)|(9)|(D)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§2252|(a)" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§2252|(a)">§ 2252(a) of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
   </annotations>
 </section>

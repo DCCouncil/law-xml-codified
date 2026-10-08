@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>6-226</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§6-226(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Rent Supplement Program: establishment of program and distribution of funds.</heading>
   <para>
     <num>(a)</num>
@@ -23,6 +26,10 @@
     <para>
       <num>(4)</num>
       <text>The Authority shall award the funds appropriated for new tenant-based voucher assistance, including funds transferred by the Department of Human Services to the District of Columbia Housing Authority for the purposes of providing tenant-based voucher assistance.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>During Fiscal Year 2027, the Authority shall provide families referred by the Department of Human Services pursuant to section 31c of the Homeless Services Reform Act of 2005, passed on emergency basis on July 7, 2026 (Enrolled version of Bill 26-724), with the exclusive opportunity to apply for the 26 new Rent Supplement Program vouchers funded in <cite doc="D.C. Law 26-179">the Fiscal Year 2027 Local Budget Act of 2026</cite>.</text>
     </para>
   </para>
   <para>
@@ -81,5 +88,8 @@
     <annotation app="2025-03-07" doc="D.C. Law 25-261" eff="2025-03-07" path="§2|(b)|(2)|(B)" target-path="§6-226|(b)|(2)" type="History"/>
     <annotation app="2025-03-07" doc="D.C. Law 25-261" eff="2025-03-07" path="§2|(b)|(2)|(C)" target-path="§6-226|(b)|(3)" type="History"/>
     <annotation app="2025-03-07" doc="D.C. Law 25-261" eff="2025-03-07" path="§2|(b)|(3)" target-path="§6-226|(c)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2152" target-path="§6-226" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2152" target-path="§6-226|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§2152" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§2152">§ 2152 of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
   </annotations>
 </section>

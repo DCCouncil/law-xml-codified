@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-3131.05</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§42-3131.05(Perm)">Permanent Version</cite>.*
+      </text>
   <heading proof="needed">Definitions.</heading>
   <para>
     <num undesignated="true">(a)</num>
@@ -83,7 +86,14 @@
     </para>
     <para>
       <num>(14)</num>
-      <text>"Vacant building" means any real property improved by a building that is not lawfully occupied on a regular or habitual basis by the owner or a tenant or other person having the permission of the owner; provided, that, in the case of residential buildings, the Mayor determines that there is no resident for whom an intent to return and lawfully occupy the building can be shown.</text>
+      <para>
+        <num>(A)</num>
+        <text>"Vacant building" means any real property improved by a building that is not lawfully occupied on a regular or habitual basis by the owner or a tenant or other person having the permission of the owner; provided, that, in the case of a residential building, the Mayor determines that there is no resident for whom an intent to return and lawfully occupy the building can be shown.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Notwithstanding subparagraph (A) of this paragraph, a single-family or 2-family building that the owner or owner's agent is actively attempting to sell or rent, as evidenced by MLS electronic listing, shall not be considered a vacant property; provided, that the time period for attempting such sale or rent shall not exceed 6 months from the date of the initial listing, offer, or advertisement of sale or rent; provided further, that the building is in compliance with the requirements of section 12 and applicable property maintenance code standards for the District of Columbia, and, if a rental, properly licensed in accordance with applicable District regulations.</text>
+      </para>
     </para>
   </para>
   <annotations>
@@ -120,5 +130,8 @@
     <annotation type="Applicability" doc="D.C. Law 22-287" path="§4|(b)" codified:display="Note" app="2019-04-11" eff="2019-04-11">Applicability of <cite doc="D.C. Law 22-287" path="">D.C. Law 22-287</cite>: <cite doc="D.C. Law 22-287" path="§8">§ 8 of D.C. Law 22-287</cite> provided that the change made to this section by <cite doc="D.C. Law 22-287" path="§4|(b)">§ 4(b) of D.C. Law 22-287</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2019-04-11" doc="D.C. Law 22-287" eff="2019-04-11" path="§4|(b)" target-path="§42-3131.05" type="History"/>
     <annotation app="2025-10-01" doc="D.C. Law 26-41" eff="2025-10-01" path="§202|(a)" target-path="§42-3131.05" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2082|(a)" target-path="§42-3131.05" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2082|(a)" target-path="§42-3131.05|(14)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§2082|(a)" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§2082|(a)">§ 2082(a) of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
   </annotations>
 </section>

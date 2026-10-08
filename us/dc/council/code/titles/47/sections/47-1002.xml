@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-1002</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-1002(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Real property — Exemptions.</heading>
   <text>Only the following real property shall be exempt from taxation in the District of Columbia:</text>
   <para>
@@ -176,26 +179,41 @@
     <num>(23)</num>
     <para>
       <num>(A)</num>
-      <text>Subject to the provisions of subparagraph (B) of this paragraph, the development of a qualified supermarket, as defined in <cite path="§47-3801">§ 47-3801</cite>.</text>
+      <text>Subject to the provisions of subparagraph (B) of this paragraph, a qualified supermarket, as defined in <cite path="§47-3801|(2)">§ 47-3801(2)</cite>, that is a development, as defined in <cite path="§47-3801|(1)">§ 47-3801(1)</cite>, or that experienced hardship, as described in <cite path="§47-3802|(a)|(2)">§ 47-3802(a)(2)</cite>.</text>
     </para>
     <para>
       <num>(B)</num>
       <text>The real property tax exemption granted by subparagraph (A) of this paragraph shall apply only:</text>
       <para>
         <num>(i)</num>
-        <text>For 10 consecutive real property tax years beginning with the tax year in which a certificate of occupancy was issued for the development;</text>
+        <para>
+          <num>(I)</num>
+          <text>For qualified supermarket developments that have been certified for an exemption pursuant to <cite path="47|38">Chapter 38 of this title</cite> before October 1, 2026, for 10 consecutive real property tax years beginning with the real property tax year in which a certificate of occupancy was issued for the development;</text>
+        </para>
+        <para>
+          <num>(II)</num>
+          <text>For qualified supermarket developments that have been certified for an exemption pursuant to <cite path="47|38">Chapter 38 of this title</cite> on or after October 1, 2026, for 5 consecutive real property tax years beginning with either the real property tax year in which a certificate of occupancy was issued for the development or the real property tax year in which the Mayor certifies to the Office of Tax and Revenue that the development has made eligible improvements, as defined in <cite path="§47-3801|(1)|(C)">§ 47-3801(1)(C)</cite>; and</text>
+        </para>
+        <para>
+          <num>(III)</num>
+          <text>For qualified supermarkets that experienced hardship, for 5 consecutive real property tax years beginning with the real property tax year in which the Mayor certifies to the Office of Tax and Revenue that the qualified supermarket experienced such hardship;</text>
+        </para>
       </para>
       <para>
         <num>(ii)</num>
-        <text>During the time that the real property is used as a supermarket;</text>
+        <text>For additional tax years as extended by the Mayor pursuant to <cite path="§47-3802">§ 47-3802</cite>;</text>
       </para>
       <para>
         <num>(iii)</num>
-        <text>In the case of the development of a qualified supermarket, on real property not owned by the supermarket, if the owner of the real property leases the land or structure to the supermarket at a fair market rent reduced by the amount of the real property tax exemption; and</text>
+        <text>During the time that the real property is used as a supermarket;</text>
       </para>
       <para>
         <num>(iv)</num>
-        <text>During the time that the supermarket is in compliance with the requirements of <cite path="2|2|X">subchapter X of Chapter 2 of Title 2</cite>;</text>
+        <text>In the case of a qualified supermarket located on real property not owned by the supermarket, if the owner of the real property leases the land or structure to the supermarket at a fair market rent reduced by the amount of the real property tax exemption; and</text>
+      </para>
+      <para>
+        <num>(v)</num>
+        <text>During the time that the supermarket is in compliance with the requirements of <cite path="2|2|X">Subchapter X of Chapter 2 of Title 2</cite>;</text>
       </para>
     </para>
   </para>
@@ -518,5 +536,8 @@
     <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="§17|(b)|(1)|(A)" target-path="§47-1002|(34)" type="History"/>
     <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="§17|(b)|(1)|(B)" target-path="§47-1002|(35)" type="History"/>
     <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="§17|(b)|(1)|(C)" target-path="§47-1002" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2062|(a)" target-path="§47-1002" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2062|(a)" target-path="§47-1002|(23)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§2062|(a)" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§2062|(a)">§ 2062(a) of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
   </annotations>
 </section>

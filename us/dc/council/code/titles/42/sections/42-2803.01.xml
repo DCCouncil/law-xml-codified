@@ -1,7 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>42-2803.01</num>
-  <heading>Annual report by Mayor.</heading>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§42-2803.01(Perm)">Permanent Version</cite>.*
+      </text>
+  <heading>Annual reporting.</heading>
   <text>No later than April 1 of each fiscal year, the Mayor shall transmit to the Council a Housing Production Trust Fund Annual Report. The report shall include the following information:</text>
   <para>
     <num>(1)</num>
@@ -45,22 +48,54 @@
   </para>
   <para>
     <num>(7)</num>
-    <text>The amount and percentage of funds legally obligated to rental housing or homeownership opportunities for households with incomes at or below 30% of the area median income;</text>
+    <text>The percentage of total housing units in new construction projects to which Fund funds are legally obligated during the prior fiscal year, to rental housing or homeownership opportunities for households with incomes at or below 30% of the area median income;</text>
   </para>
   <para>
     <num>(8)</num>
-    <text>The amount and percentage of funds legally obligated to rental housing or homeownership opportunities for households with incomes at or below 50% of the area median income;</text>
+    <text>The percentage of total housing units in new construction projects to which Fund funds are legally obligated during the prior fiscal year, to rental housing or homeownership opportunities for households with incomes at or below 50% of the area median income;</text>
   </para>
   <para>
     <num>(9)</num>
-    <text>The amount and percentage of funds legally obligated to rental housing or homeownership opportunities for households with incomes at or below 80% of the area median income;</text>
+    <text>The percentage of total housing units in new construction projects to which Fund funds are legally obligated during the prior fiscal year to rental housing or homeownership opportunities for households with incomes at or below 80% of the area median income;</text>
   </para>
   <para>
     <num>(10)</num>
-    <text>The number of housing units assisted, including the number of rental housing units assisted and the number of homeownership units assisted; and</text>
+    <text>For rental units in preservation projects to which Fund funds are legally obligated during the prior fiscal year, the percentage that will:</text>
+    <para>
+      <num>(A)</num>
+      <text>Have, upon completion of rehabilitation, rents affordable to households earning up to 30% of the area median income;</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Have, upon completion of rehabilitation, rents affordable to households earning between 30% and 50% of the area median income;</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Have, upon completion of rehabilitation, rents affordable to households earning between 50% and 80% of the area median income;</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>Have, upon completion of rehabilitation, rents affordable to households earning more than 80% of the area median income;</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>Be rented at levels affordable to households earning up to 30% of the area median income pursuant to an affordable housing covenant;</text>
+    </para>
+    <para>
+      <num>(F)</num>
+      <text>Be rented at levels affordable to households earning between 30% and 50% of the area median income pursuant to an affordable housing covenant; and</text>
+    </para>
+    <para>
+      <num>(G)</num>
+      <text>Be rented at levels affordable to households earning between 50% and 80% of the area median income pursuant to an affordable housing covenant;</text>
+    </para>
   </para>
   <para>
     <num>(11)</num>
+    <text>The number of housing units assisted, including the number of rental housing units assisted and the number of homeownership units assisted; and</text>
+  </para>
+  <para>
+    <num>(12)</num>
     <text>The amount expended on administrative costs during the prior fiscal year.</text>
   </para>
   <annotations>
@@ -104,5 +139,14 @@
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§2102|(b)|(8)" target-path="§42-2803.01|(8)" type="History"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§2102|(b)|(9)" target-path="§42-2803.01|(9)" type="History"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§2102|(b)|(10)" target-path="§42-2803.01|(11)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2252|(b)" target-path="§42-2803.01" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2252|(b)|(1)" target-path="§42-2803.01|heading" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2252|(b)|(2)" target-path="§42-2803.01|(7)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2252|(b)|(2)" target-path="§42-2803.01|(8)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2252|(b)|(2)" target-path="§42-2803.01|(9)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2252|(b)|(2)" target-path="§42-2803.01|(10)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2252|(b)|(2)" target-path="§42-2803.01|(11)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2252|(b)|(3)" target-path="§42-2803.01" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§2252|(b)" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§2252|(b)">§ 2252(b) of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
   </annotations>
 </section>

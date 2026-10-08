@@ -1,17 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-3801</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-3801(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <para>
     <num>(1)</num>
+    <text>"Development" means:</text>
     <para>
       <num>(A)</num>
-      <text>“Development” means the new construction or substantial rehabilitation of a qualified supermarket for which building permits are issued on or after [October 4, 2000]. For the purposes of this paragraph, “substantial rehabilitation” means a capital investment within any 24-month period in a qualified supermarket that exceeds 50% of the adjusted basis of the building as calculated for District income tax purposes.</text>
+      <text>The new construction of a qualified supermarket for which building permits are issued on or after October 4, 2000;</text>
     </para>
     <para>
       <num>(B)</num>
-      <text>“Development” also means the new construction or substantial rehabilitation of a qualified restaurant or retail store for which building permits are issued on or after October 4, 2000. For the purposes of this sub-subparagraph, “substantial rehabilitation” means a capital investment within any 24-month period in a qualified restaurant or retail store that exceeds 50% of the adjusted basis of the building as calculated for District income tax purposes.</text>
+      <text>The rehabilitation of a qualified supermarket for which building permits are issued on or after October 4, 2000, and before October 1, 2026.  For the purposes of this subparagraph, the term "rehabilitation" means a capital investment within any 24-month period in a qualified supermarket that exceeds 50% of the adjusted basis of the building as calculated for District income tax purposes; or</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>The improvement of a qualified supermarket for which building permits are issued on or after October 1, 2026. For the purposes of this subparagraph, "improvement" means a capital investment within any 24-month period in the qualified supermarket that exceeds 10% of the current assessed value of the building space being leased or owned for the qualified supermarket, exclusive of parking.</text>
     </para>
   </para>
   <para>
@@ -106,6 +114,10 @@
     </para>
   </para>
   <para>
+    <num>(1E)</num>
+    <text>"Hardship" means operating at a net loss for a tax year, as demonstrated on a profit and loss statement.</text>
+  </para>
+  <para>
     <num>(2)</num>
     <text>“Qualified supermarket” means a supermarket located in an eligible area.</text>
   </para>
@@ -116,7 +128,7 @@
       <text>“Supermarket” means a self-service retail establishment, independently owned or part of a corporation operating a chain of retail establishments under the same trade name, that:</text>
       <para>
         <num>(i)</num>
-        <text>Is licensed as a grocery store under <cite path="§47-2827">§ 47-2827</cite>;</text>
+        <text>Holds a food service license with a "grocery store" notation;</text>
       </para>
       <para>
         <num>(ii)</num>
@@ -212,5 +224,10 @@
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2022|(b)|(2)|(A)" target-path="§47-3801|(3)|(A)|(ii)" type="History"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2022|(b)|(2)|(B)" target-path="§47-3801|(3)|(A)|(iii)" type="History"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2022|(b)|(2)|(C)" target-path="§47-3801|(3)|(A)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2062|(c)|(1)" target-path="§47-3801" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2062|(c)|(1)|(A)" target-path="§47-3801|(1)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2062|(c)|(1)|(B)" target-path="§47-3801" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2062|(c)|(1)|(C)" target-path="§47-3801|(3)|(A)|(i)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§2062|(c)|(1)" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§2062|(c)|(1)">§ 2062(c)(1) of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
   </annotations>
 </section>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-1215.52</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§2-1215.52(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Golden Triangle BID.</heading>
   <para>
     <num>(a)</num>
@@ -199,6 +202,10 @@
           <text>The amount of $163 per residential unit annually for nonexempt residential properties; provided, that for a residential unit restricted to residents based upon income pursuant to a federal or District affordable housing program, which the BID shall identify and certify as such, the BID tax due on the unit shall be computed by applying the percentage (not to exceed 100%) of area median income that an eligible household must meet to participate in the affordable housing program for the unit to the amount of the BID tax that would otherwise be due.</text>
         </para>
       </para>
+      <para>
+        <num>(F)</num>
+        <text>For tax year 2027 and thereafter, a 3% annual increase in the prior year's BID tax rate is hereby authorized and imposed, subject to the requirements of <cite path="§2-1215.07">§ 2-1215.07</cite>.</text>
+      </para>
     </para>
   </para>
   <annotations>
@@ -226,5 +233,8 @@
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-55" path="§2" codified:display="Note" app="2023-09-16" eff="2023-09-16">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-55" path="§2">§ 2 of Golden Triangle Business Improvement District Temporary Amendment Act of 2023 (D.C. Law 25-55, Sept. 16, 2023, 70 DCR 10702)</cite>.</annotation>
     <annotation app="2023-09-16" doc="D.C. Law 25-55" eff="2023-09-16" path="§2" target-path="§2-1215.52" type="History" display="false"/>
     <annotation app="2024-03-01" doc="D.C. Law 25-133" eff="2024-03-01" path="§2" target-path="§2-1215.52|(c)|(2)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2202" target-path="§2-1215.52" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2202" target-path="§2-1215.52|(c)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§2202" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§2202">§ 2202 of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
   </annotations>
 </section>

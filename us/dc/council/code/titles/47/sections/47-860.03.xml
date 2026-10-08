@@ -2,6 +2,9 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>§</prefix>
   <num>47-860.03</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-860.03(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Tax abatements for housing in downtown – Abatement period and caps.</heading>
   <para>
     <num>(a)</num>
@@ -14,7 +17,7 @@
       <num>(2)</num>
       <para>
         <num>(A)</num>
-        <text>A property shall cease to receive the abatement if during the period of the tax abatement the Mayor determines that the property is no longer eligible for the abatement.  If the Mayor makes such a determination, the Mayor shall transmit to the property owner and the Office of Tax and Revenue a letter of termination, setting forth the reason for the termination and the date on which the termination took, or shall take, effect. A property shall no longer be eligible for the tax abatement if it no longer contains 10 housing units, is in noncompliance with <cite path="§47-860.02|(a)|(1)">§ 47-860.02(a)(1)</cite> or <cite path="§47-860.02|(a)|(2)">(2)</cite>, is in noncompliance with any conditions set forth in the certification of tax abatement, or for any reason set forth by the Mayor by rule.</text>
+        <text>A property shall cease to receive the abatement if during the period of the tax abatement the Mayor determines that the property is no longer eligible for the abatement.  If the Mayor makes such a determination, the Mayor shall transmit to the property owner and the Office of Tax and Revenue a letter of termination, setting forth the reason for the termination and the date on which the termination took, or shall take, effect. Upon transmission of the letter of termination to the Office of Tax and Revenue, the Office of Tax and Revenue shall assess and collect any tax benefits improperly received during any period of ineligibility, in addition to interest, as provided by law. Amounts recaptured under this subparagraph, including interest, shall be deposited into the General Fund of the District. A property shall no longer be eligible for the tax abatement if it no longer contains 10 housing units, is in noncompliance with <cite path="§47-860.02|(a)|(1)">§ 47-860.02(a)(1)</cite> or <cite path="§47-860.02|(a)|(2)">(2)</cite>, is in noncompliance with any conditions set forth in the certification of tax abatement, or for any reason set forth by the Mayor by rule.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -69,5 +72,8 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§2122|(b)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§2122|(b)">§ 2122(b) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
     <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2122|(b)" target-path="§47-860.03" type="History" display="false"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§2122|(b)" target-path="§47-860.03|(b)|(2)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2002|(c)" target-path="§47-860.03" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2002|(c)" target-path="§47-860.03|(a)|(2)|(A)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§2002|(c)" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§2002|(c)">§ 2002(c) of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
   </annotations>
 </section>

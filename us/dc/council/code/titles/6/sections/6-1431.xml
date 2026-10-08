@@ -1,16 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>6-1431</num>
-  <heading>DCRA housing and building infractions fine; periodic adjustments.</heading>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§6-1431(Perm)">Permanent Version</cite>.*
+      </text>
+  <heading proof="needed">Housing and building infraction fines; periodic adjustments.</heading>
   <para>
     <num>(a)</num>
-    <text>Beginning on January 1, 2018, a fine amount listed in section 3201.1 of Title 16 of the District of Columbia Municipal Regulations (16 DCMR § 3201.1), when assessed for an infraction listed in sections 3301 through 3313 of Title 16 of the District of Columbia Municipal Regulations (16 DCMR § 3301 through 16 DCMR § 3313), shall be adjusted according to the most recent Consumer Price Index for All Urban Consumers in the Washington Metropolitan Statistical area, as published by the United States Bureau of Labor Statistics.</text>
+    <text>On January 1 of each year, beginning on January 1, 2018, and ending on January 1, 2026, a fine amount listed in section 3201.1 of Title 16 of the District of Columbia Municipal Regulations (16 DCMR § 3201.1), when assessed for an infraction listed in sections 3301 through 3313 and section 3315 of Title 16 of the District of Columbia Municipal Regulations (16 DCMR §§ 3301 through 3313 and 3315), shall be adjusted according to the most recent Consumer Price Index for All Urban Consumers in the Washington Metropolitan Statistical area, as published by the United States Bureau of Labor Statistics.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>Beginning on or after January 1, 2018, and on or after January 1 of every year thereafter, there shall be published in the District of Columbia Register a schedule of the fine amounts for each infraction listed in sections 3301 through 3313 of Title 16 of the District of Columbia Municipal Regulations (16 DCMR § 3301 through 16 DCMR § 3313), as adjusted according to the most recent Consumer Price Index for All Urban Consumers in the Washington Metropolitan Statistical area, as published by the United States Bureau of Labor Statistics.</text>
+    <text>A schedule of the fine amounts for each infraction listed in sections 3301 through 3313 and section 3315 of Title 16 of the District of Columbia Municipal Regulations (16 DCMR §§ 3301 through 3313 and 3315), as adjusted pursuant to subsection (a) of this section, shall be published in the District of Columbia Register within 30 days after the adjustments become effective; provided, that a failure to publish the schedule in the District of Columbia Register shall not impair the validity of the adjusted fine amounts.</text>
   </para>
+  <codify:emergency doc="D.C. Code" path="§6-1431" codified:doc="D.C. Code" codified:path="§6-1431" codified:display="Note"/>
+  <codify:insert doc="D.C. Code" path="§6-1431" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-1431">
+    <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§6-1431(Perm)">Permanent Version</cite>.*
+      </text>
+  </codify:insert>
   <annotations>
+    <annotation doc="D.C. Law 6-216" type="History" path="§11a" display="false">Mar. 21, 1987, D.C. Law 6-216, § 11a</annotation>
+    <annotation doc="D.C. Law 6-216" type="History" path="§11a">Mar. 21, 1987, D.C. Law 6-216, § 11a</annotation>
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="II" target-path="6|14" type="History" display="false"/>
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§2222|(b)" prefix="as added" target-path="6|14|II" type="History"/>
     <annotation doc="D.C. Law 22-33" path="§2222|(b)" type="Emergency Legislation" history="false" app="2017-12-13" eff="2017-12-13">
@@ -20,5 +31,8 @@
     <annotation doc="D.C. Law 22-33" path="§2222|(b)" type="Emergency Legislation" history="false" app="2017-12-13" eff="2017-12-13">
           For temporary (90-day) creation of this section, see <cite doc="D.C. Act 22-167" path="§2222|(b)">§ 2222(b) of the Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017, effective October 24, 2017 (D.C. Act 22-167; 64 DCR 10802)</cite>.
         </annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2092" target-path="§6-1431" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2092" target-path="§6-1431" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§2092" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§2092|includes|11a">§ 11a of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
   </annotations>
 </section>
