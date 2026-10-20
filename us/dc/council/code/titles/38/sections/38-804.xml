@@ -1,8 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-804</num>
-  <heading>Deposit of revenues and receipts.</heading>
-  <text>All revenues and receipts of any nature whatever derived from the operation of food services, or as otherwise provided by this chapter shall, under regulations established by the Mayor, be paid to the D.C. Treasurer and deposited in the General Fund, and accounted for within the General Fund as a separate revenue source allocable to provide authorization for such school authority as the Board of Education may approve. Any unexpended balance at the end of the fiscal year shall revert to the unrestricted fund balance of the General Fund of the District of Columbia.</text>
+  <heading proof="needed">Food Services Fund.</heading>
+  <para>
+    <num>(a)</num>
+    <text>There is established as a special fund the District of Columbia Public Schools Food Services Fund ("Fund"), which shall be administered by the Chancellor of the District of Columbia Public Schools in accordance with subsection (c) of this section.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>All revenue derived from the operation of food services, as defined in section 1, of the District of Columbia Public Schools shall be deposited in the Fund.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>Money in the Fund shall be used for the operation or improvement of food services in the District of Columbia Public Schools.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <para>
+      <num>(1)</num>
+      <text>The money deposited into the Fund but not expended in a fiscal year shall not revert to the unassigned fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+    </para>
+  </para>
   <annotations>
     <annotation type="History" doc="Stat. 82-1-ch448" path="§5">Oct. 8, 1951, 65 Stat. 369, ch. 448, title I, § 5</annotation>
     <annotation doc="Pub. L. 90-640" type="History">Oct. 25, 1968, 82 Stat. 1363, Pub. L. 90-640, § 2</annotation>
@@ -12,5 +34,8 @@
     <annotation type="Prior Codifications">1973 Ed., § 31-1404.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 31-804.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§38-806">§ 38-806</cite>.</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§4022" target-path="§38-804" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§4022" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§4022">§ 4022 of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§4022" target-path="§38-804" type="History" display="false"/>
   </annotations>
 </section>

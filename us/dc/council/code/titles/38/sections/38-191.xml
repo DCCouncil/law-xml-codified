@@ -101,18 +101,46 @@
     <num>(b-1)</num>
     <para>
       <num>(1)</num>
-      <text>The Deputy Mayor for Education may implement a centralized data system to collect, analyze, and publish data on how and how well the District's education and workforce-related programs, and the agencies and entities implementing those programs, are serving District residents throughout their lifetimes, with the goal of enabling the linkage, management, and monitoring of information on individuals' progress through education, workforce training, and employment.</text>
+      <text>The Deputy Mayor for Education may implement a centralized data system in the District government to collect, analyze, share, and publish data on how and how well the District's education and workforce-related programs, and the agencies and entities implementing those programs, are serving District residents throughout their lifetimes, with the goal of enabling the linkage, management, and monitoring of information on individuals' progress through education, workforce training, and employment.</text>
+    </para>
+    <para>
+      <num>(1A)</num>
+      <text>The centralized data system may incorporate relevant data, including education data and workforce data, to the maximum extent allowed by federal law and notwithstanding the provisions of any District law otherwise limiting the sharing of such information.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Each agency of the District government, including independent agencies, shall cooperate with the Deputy Mayor for Education in the implementation of the centralized data system, including by sharing education data for grades pre-kindergarten through 12, higher education data, and adult education data and workforce data with the Deputy Mayor for Education to the maximum extent allowed by federal law and notwithstanding the provisions of any District law otherwise limiting the sharing of such information.</text>
+      <text>Each agency of the District government, including independent agencies, shall cooperate with the Deputy Mayor for Education in the implementation of the centralized data system, including by sharing education data for early childhood and grades pre-kindergarten through 12, higher education data, and adult education data and workforce data with the Deputy Mayor for Education to the maximum extent allowed by federal law and notwithstanding the provisions of any District law otherwise limiting the sharing of such information.</text>
+    </para>
+    <para>
+      <num>(2A)</num>
+      <text>Each agency of the District government, including independent agencies, may share health and human services data with the Deputy Mayor for Education to the maximum extent allowed by federal law and notwithstanding the provisions of any District law otherwise limiting the sharing of such information.</text>
+    </para>
+    <para>
+      <num>(2B)</num>
+      <text>The Deputy Mayor for Education may share or redisclose otherwise confidential education data, workforce data, and health and human services data within the centralized data system with federal, state, and local governmental agencies, and the agents and contractors of such governmental agencies, to the maximum extent allowed by federal law and notwithstanding the provisions of any District law otherwise limiting the sharing of such data and information, to:</text>
+      <para>
+        <num>(A)</num>
+        <text>Evaluate the effectiveness of education and workforce-related programs;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Perform financial analysis related to the impact and return on investment of publicly funded programming;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Assess and prepare reports on the operation and performance of education and workforce-related programs; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Establish and implement collaborative management and information systems between federal, state, and local government agencies delivering or supporting education, social services, or workforce services for a shared population.</text>
+      </para>
     </para>
     <para>
       <num>(3)</num>
       <text>For the purposes of this subsection, the term:</text>
       <para>
         <num>(A)</num>
-        <text>"Education data" means data relating to individual and aggregate student performance, including, as applicable:</text>
+        <text>"Education data" means data relating to individual-level information that tracks a student's academic and personal progress from early learning through postsecondary education and into employment, including, as applicable:</text>
         <para>
           <num>(i)</num>
           <text>Student progress information, including enrollment, retention, attendance, credit hours earned, graduation status, graduation rate, and time to degree;</text>
@@ -159,6 +187,18 @@
         </para>
       </para>
       <para>
+        <num>(A-i)</num>
+        <text>"Health and human services data" means:</text>
+        <para>
+          <num>(i)</num>
+          <text>Information within the scope of <cite path="§7-241|(3)|(B)">§ 7-241(3)(B)</cite> and <cite path="§7-241|(3)|(C)">(C)</cite>; and</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Birth records.</text>
+        </para>
+      </para>
+      <para>
         <num>(B)</num>
         <text>"Workforce data" means data relating to participation in workforce programs and workforce outcomes, including:</text>
         <para>
@@ -167,11 +207,15 @@
         </para>
         <para>
           <num>(ii)</num>
-          <text>Employment-related benefits data and status, including unemployment status and data; and</text>
+          <text>Employment-related benefits data and status, including unemployment status and data;</text>
         </para>
         <para>
           <num>(iii)</num>
-          <text>Workforce program participation data, including program enrollment, program completion status, and credentials earned.</text>
+          <text>Workforce program participation data, including program enrollment, program completion status, and credentials earned; and</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Confidential UC information, as that term is defined in 20 CFR § 603.2(b).</text>
         </para>
       </para>
       <para>
@@ -336,5 +380,16 @@
     <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§4132" target-path="§38-191" type="History" display="false"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4132" target-path="§38-191" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§4012" target-path="§38-191" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§4042|(a)" target-path="§38-191|(b-1)|(1)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§4042|(b)" target-path="§38-191|(b-1)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§4042|(c)" target-path="§38-191|(b-1)|(2)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§4042|(d)" target-path="§38-191|(b-1)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§4042|(e)|(1)" target-path="§38-191|(b-1)|(3)|(A)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§4042|(e)|(2)" target-path="§38-191|(b-1)|(3)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§4042|(e)|(3)|(A)" target-path="§38-191|(b-1)|(3)|(B)|(ii)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§4042|(e)|(3)|(B)" target-path="§38-191|(b-1)|(3)|(B)|(iii)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§4042|(e)|(3)|(C)" target-path="§38-191|(b-1)|(3)|(B)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§4042" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§4042">§ 4042 of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§4042" target-path="§38-191" type="History" display="false"/>
   </annotations>
 </section>

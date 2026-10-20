@@ -273,6 +273,13 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>2C</num>
+    <heading>Early Childhood Education Microcenters.</heading>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="IV|K" target-path="38" type="History" display="false"/>
+    <xi:include href="./sections/38-291.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>3</num>
     <heading>Residency Requirement and Nonresident Tuition.</heading>
     <xi:include href="./sections/38-301.xml"/>
@@ -724,6 +731,14 @@
     <xi:include href="./sections/38-851.01.xml"/>
     <xi:include href="./sections/38-851.02.xml"/>
     <xi:include href="./sections/38-851.03.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>8E</num>
+    <heading>Math Task Force Recommendations.</heading>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="IV|Q" target-path="38" type="History" display="false"/>
+    <xi:include href="./sections/38-861.xml"/>
+    <xi:include href="./sections/38-862.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1768,12 +1783,14 @@
     <xi:include href="./sections/38-2611.xml"/>
     <xi:include href="./sections/38-2612.xml"/>
     <xi:include href="./sections/38-2612.01.xml"/>
+    <xi:include href="./sections/38-2612.02.xml"/>
     <xi:include href="./sections/38-2613.xml"/>
     <xi:include href="./sections/38-2614.xml"/>
     <xi:include href="./sections/38-2615.xml"/>
     <xi:include href="./sections/38-2616.xml"/>
     <xi:include href="./sections/38-2617.xml"/>
     <xi:include href="./sections/38-2618.xml"/>
+    <xi:include href="./sections/38-2619.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

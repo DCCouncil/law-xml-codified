@@ -38,11 +38,15 @@
       <text>Increase the amount in paragraph (1) of this subsection by the percentage that is the higher of:</text>
       <para>
         <num>(A)</num>
-        <text>The projected increase for the forthcoming year in the foundation level of the Uniform Per Student Funding Formula; or</text>
+        <text>The projected increase for the forthcoming year in the foundation level of the Uniform Per Student Funding Formula;</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>The collectively bargained salary increase, for the forthcoming year, for members of the teachers' labor union.</text>
+        <text>The collectively bargained salary increase, for the forthcoming year, for members of the teachers' labor union; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The projected increase in the average position cost.</text>
       </para>
     </para>
     <para>
@@ -66,7 +70,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>The decrease shall not be made unless the enrollment decline is great enough on the grade or subject level to eliminate a classroom or warrant elimination of instructional or school-based support personnel; and</text>
+        <text>The decrease shall not be made unless the enrollment decline is great enough on the grade or subject level to eliminate a classroom or warrant elimination of instructional personnel; and</text>
       </para>
       <para>
         <num>(C)</num>
@@ -78,12 +82,16 @@
       <text>The amount derived pursuant to paragraph (6) of this subsection may be decreased, incrementally, to reflect a reduced need for special education or ELL personnel; provided, that the funding for such faculty shall fully align with the required service levels for students.</text>
     </para>
     <para>
+      <num>(7A)</num>
+      <text>As applicable, decrease the amount derived pursuant to paragraph (7) of this subsection to account for the reduction of instructional or school-based support personnel resulting from the elimination of a grade level due to a school or campus closure over multiple years.</text>
+    </para>
+    <para>
       <num>(8)</num>
-      <text>Adjust the amount derived pursuant to paragraph (7) of this subsection by the amount of per pupil funding derived from a proposed change, if any, to the weight for the forthcoming school year for the at-risk general education add-on described in <cite path="§38-2905">§ 38-2905</cite>.</text>
+      <text>Adjust the amount derived pursuant to paragraph (7A) of this subsection by the amount of per pupil funding derived from a proposed change, if any, to the weight for the forthcoming school year for the at-risk general education add-on described in <cite path="§38-2905">§ 38-2905</cite>.</text>
     </para>
     <para>
       <num>(9)</num>
-      <text>As applicable, increase the amount derived pursuant to paragraph (7) of this subsection by the amount to be allocated to the school through the at-risk concentration supplement provided pursuant to <cite path="§38-2905.01|(c-2)">§ 38-2905.01(c-2)</cite>.</text>
+      <text>As applicable, increase the amount derived pursuant to paragraph (8) of this subsection by the amount to be allocated to the school through the at-risk concentration supplement provided pursuant to <cite path="§38-2905.01|(c-2)">§ 38-2905.01(c-2)</cite>.</text>
     </para>
     <para>
       <num>(10)</num>
@@ -114,5 +122,12 @@
     <annotation app="2023-03-10" doc="D.C. Act 24-722" eff="2023-01-10" path="§104" target-path="§38-2851.03" type="History" display="false"/>
     <annotation app="2023-03-10" doc="D.C. Law 24-300" eff="2023-03-10" path="" target-path="38" type="History" display="false"/>
     <annotation app="2023-03-10" doc="D.C. Law 24-300" eff="2023-03-10" path="§104" target-path="38|28A" type="History"/>
+    <annotation app="2026-10-14" doc="D.C. Law 26-190" eff="2026-10-14" path="§2|(b)|(1)|(A)" target-path="§38-2851.03|(a)|(2)|(A)" type="History"/>
+    <annotation app="2026-10-14" doc="D.C. Law 26-190" eff="2026-10-14" path="§2|(b)|(1)|(B)" target-path="§38-2851.03|(a)|(2)|(B)" type="History"/>
+    <annotation app="2026-10-14" doc="D.C. Law 26-190" eff="2026-10-14" path="§2|(b)|(1)|(C)" target-path="§38-2851.03|(a)|(2)" type="History"/>
+    <annotation app="2026-10-14" doc="D.C. Law 26-190" eff="2026-10-14" path="§2|(b)|(2)" target-path="§38-2851.03|(a)|(6)|(B)" type="History"/>
+    <annotation app="2026-10-14" doc="D.C. Law 26-190" eff="2026-10-14" path="§2|(b)|(3)" target-path="§38-2851.03|(a)" type="History"/>
+    <annotation app="2026-10-14" doc="D.C. Law 26-190" eff="2026-10-14" path="§2|(b)|(4)" target-path="§38-2851.03|(a)|(8)" type="History"/>
+    <annotation app="2026-10-14" doc="D.C. Law 26-190" eff="2026-10-14" path="§2|(b)|(5)" target-path="§38-2851.03|(a)|(9)" type="History"/>
   </annotations>
 </section>

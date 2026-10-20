@@ -1778,6 +1778,7 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>District of Columbia Homeland Security Commission.</heading>
+      <reason>Repealed</reason>
       <xi:include href="./sections/7-2271.01.xml"/>
       <xi:include href="./sections/7-2271.02.xml"/>
       <xi:include href="./sections/7-2271.03.xml"/>
@@ -1785,6 +1786,17 @@
       <xi:include href="./sections/7-2271.05.xml"/>
       <xi:include href="./sections/7-2271.06.xml"/>
       <xi:include href="./sections/7-2271.07.xml"/>
+      <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§3012" target-path="7|22|II" type="History"/>
+      <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§3012" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§3012">§ 3012 of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
+      <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§3012" target-path="7|22|II" type="History" display="false"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>III</num>
+      <heading>Homeland Security Commission Dissolution.</heading>
+      <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="III|B" target-path="7|22" type="History" display="false"/>
+      <xi:include href="./sections/7-2281.01.xml"/>
+      <xi:include href="./sections/7-2281.02.xml"/>
     </container>
   </container>
   <container>
