@@ -1,37 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-736.04</num>
-  <heading proof="needed">Establishment of the grocery access pilot grant program.</heading>
+  <heading proof="needed">Establishment of the grocery store access pilot grant program.</heading>
   <para>
     <num>(a)</num>
-    <text>In Fiscal Years 2025 and 2026, the Department of Health shall establish a grocery access pilot grant program for the purpose of providing up to 1,000 eligible District residents with membership to a grocery delivery service at no cost for 2 years.</text>
+    <text>The Department of Health shall establish a grocery access pilot grant program for the purpose of providing at least 1,000 eligible District residents with membership to a grocery delivery service at no cost in Fiscal Years 2025, 2026, and 2027.</text>
   </para>
   <para>
     <num>(b)</num>
     <para>
       <num>(1)</num>
-      <text>To be eligible to participate in the pilot program, an applicant shall:</text>
-      <para>
-        <num>(A)</num>
-        <text>Be a resident of the District; and</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Be enrolled in the Supplemental Nutrition Assistance Program Education ("SNAP-Ed") program.</text>
-      </para>
+      <text>To be eligible to participate in the pilot program, an applicant shall be a resident of the District.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The Department of Health shall give preference to an applicant who lives in an "eligible area" as that term is defined in <cite path="§47-3801|(1D)|(A)">§ 47-3801(1D)(A)</cite>.</text>
+      <text>At least 50% of participants in the pilot program shall be enrolled in a federal or local public assistance program, including the Supplemental Nutrition Assistance Program, Special Supplemental Nutrition Program for Women, Infants, and Children, Temporary Assistance for Needy Families, National School Lunch Program free or reduced price meals, Low-Income Home Energy Assistance Program, Medicaid, or DC Healthcare Alliance.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>When selecting participants for the pilot program, the Department of Health shall give preference to applicants who live in "low food access areas," as that term is defined in <cite path="§7-742.21|(7)">§ 7-742.21(7)</cite>, and enrolled in a public benefit program pursuant to paragraph (2) of this subsection.</text>
     </para>
   </para>
   <para>
     <num>(c)</num>
-    <text>At the conclusion of the 2-year pilot program, the Department of Health shall incorporate the data collected in the program in their SNAP-Ed program.</text>
-  </para>
-  <para>
-    <num>(d)</num>
-    <text>The data collected pursuant to subsection (c) of this section shall be made available to the Council upon request.</text>
+    <text>Upon the conclusion of the pilot program following Fiscal Year 2027, the Department of Health shall make data collected on the outcomes of the pilot program publicly available.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 14-28" type="History" path="§4907d">Oct. 3, 2001, D.C. Law 14-28, § 4907d</annotation>
@@ -45,5 +37,6 @@
     <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§5162" target-path="§7-736.04" type="History" display="false"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5162|(a)" target-path="§7-736.04|(a)" type="History"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5162|(b)" target-path="§7-736.04|(c)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5102" target-path="§7-736.04" type="History"/>
   </annotations>
 </section>

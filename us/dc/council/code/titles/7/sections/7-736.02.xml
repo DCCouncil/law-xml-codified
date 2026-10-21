@@ -1,40 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-736.02</num>
-  <heading>Communicable and Chronic Disease Prevention and Treatment Fund.</heading>
+  <heading>AIDS Drug Assistance Program Fund.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established as a special fund the Communicable and Chronic Disease Prevention and Treatment Fund (“Fund”), to be administered by the Department of Health in accordance with subsection (c) of this section.</text>
+    <text>There is established as a special fund the AIDS Drug Assistance Program Fund (“Fund”), to be administered by the Department of Health in accordance with subsection (c) of this section.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>The Fund shall consist of revenue from the following sources related to the prevention and treatment of communicable and chronic diseases by the Department of Health:</text>
+    <text>Revenue from the following sources shall be deposited into the Fund:</text>
     <para>
       <num>(1)</num>
-      <text>Third-party payors;</text>
+      <text>Rebates provided by pharmaceutical companies to the District pursuant to section 340B of the Public Health Service Act, approved November 4, 1992 (106 Stat. 4967; 42 U.S.C. § 256b), for medications included in the AIDS Drug Assistance Program ("ADAP") formulary; and</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Sliding-fee scale collections; and</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Other collections.</text>
+      <text>Insurance refunds and excess premium tax credits recovered by the District from ADAP program participants.</text>
     </para>
   </para>
   <para>
     <num>(c)</num>
-    <text>The Fund shall be used for operations necessary to provide communicable and chronic disease prevention and treatment services.</text>
+    <text>Money in the Fund shall be used to administer ADAP, including the procurement of HIV/AIDS medications and the provision of HIV care and services for eligible District residents, and for the fulfillment of federal grant-matching requirements for ADAP.</text>
   </para>
   <para>
     <num>(d)</num>
     <para>
       <num>(1)</num>
-      <text>The money deposited into the Fund, and interest earned, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+      <text>The money deposited into the Fund but not expended in a fiscal year shall not revert to the unassigned fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+      <text>Any money in the Communicable and Chronic Disease Prevention and Treatment Fund as of September 30, 2026 shall be considered part of the Fund.</text>
     </para>
   </para>
   <annotations>
@@ -43,5 +39,12 @@
     <annotation type="Emergency Legislation">For temporary (90 days) addition of this section, see § 5012(b) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015,  62 DCR 884, 21 STAT 541).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) addition of this section, see § 5012(b) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014,  61 DCR 10915, 20 STAT 4188).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) addition of this section, see § 5012(b) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014,  61 DCR 7598, 20 STAT 3696).</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5012|(a)" target-path="§7-736.02|heading" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5012|(b)" target-path="§7-736.02|(a)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5012|(c)" target-path="§7-736.02|(b)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5012|(c)" target-path="§7-736.02|(c)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5012|(c)" target-path="§7-736.02|(d)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§5012" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§5012">§ 5012 of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5012" target-path="§7-736.02" type="History" display="false"/>
   </annotations>
 </section>

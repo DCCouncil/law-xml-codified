@@ -1,14 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-205.83</num>
   <heading proof="needed">Prevention of theft of electronically transferred benefits.</heading>
-  <reason>Not Funded</reason>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>By March 1, 2028, the Department shall issue, to all recipients receiving public assistance on electronic benefit transfer cards, updated EBT cards that incorporate EMV technology.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The Department shall seek reimbursement for the costs of transitioning to the use of EMV technology from the Food and Nutrition Service of the Department of Agriculture to the fullest extent permissible under federal law.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§4-205.83" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-205.83">Applicability of <cite doc="D.C. Law 26-104" path="">D.C. Law 26-104</cite>: <cite doc="D.C. Law 26-104" path="§4">§ 4 of D.C. Law 26-104</cite> provided that the creation of this section by <cite doc="D.C. Law 26-104" path="§2|(c)">§ 2(c) of D.C. Law 26-104</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 4-101" type="History" path="§583">Apr. 6, 1982, D.C. Law 4-101, § 583</annotation>
-    <annotation app="2026-03-24" doc="D.C. Law 26-104" eff="2026-03-24" path="§4|(a)" target-path="§2|(c)|includes|583" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 26-104" eff="2026-03-24" path="§2|(c)" prefix="as added" target-path="4|2|V" type="History"/>
+    <annotation app="2026-03-24" doc="D.C. Law 26-104" eff="2026-03-24" path="§2|(c)" prefix="as added" target-path="4|2|V" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 26-104" path="§2|(c)" codified:display="Note" app="2026-03-24" eff="2026-03-24">Applicability of <cite doc="D.C. Law 26-104" path="">D.C. Law 26-104</cite>: <cite doc="D.C. Law 26-104" path="§4">§ 4 of D.C. Law 26-104</cite> provided that the creation of this section by <cite doc="D.C. Law 26-104" path="§2|(c)">§ 2(c) of D.C. Law 26-104</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2026-03-24" doc="D.C. Law 26-104" eff="2026-03-24" path="§2|(c)" target-path="§4-205.83" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5182|(a)" target-path="§4-205.83|(a)" type="History"/>
+    <annotation doc="D.C. Act 26-416" path="§5183" type="Applicability" history="false" app="2026-08-13" eff="2026-08-13"><cite doc="D.C. Act 26-416" path="§5183">Section 5183 of D.C. Act 26-416</cite> repealed the applicability provision of <cite doc="D.C. Law 26-104" path="§4">section 4 of D.C. Law 26-104</cite> that impacted this section. Therefore the creation of this section by <cite doc="D.C. Law 26-104" path="§2|(c)">§2(c) of Law 26-104</cite> has been implemented.
+        </annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5183" target-path="§4-205.83" type="History" display="false"/>
   </annotations>
 </section>

@@ -1,14 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>48-314</num>
-  <heading>Appointment and duties of Food Policy Director.</heading>
+  <heading>Office of Food Policy.</heading>
   <para>
     <num>(a)</num>
-    <text>The Mayor shall appoint a Food Policy Director ("Director") within the Office of Planning with the advice and consent of the Council of the District of Columbia to promote equitable and sustainable food policies across the District that increase food access and build a local food economy.</text>
+    <para>
+      <num>(1)</num>
+      <text>There is established an Office of Food Policy ("Office") within the Department of Health for the purpose of promoting equitable and sustainable food policies across the District that increase food access and build a local food economy.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Office shall be led by the Food Policy Director, who shall be hired and employed by the Department of Health.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
-    <text>The Director shall:</text>
+    <text>The Office shall:</text>
     <para>
       <num>(1)</num>
       <text>Collaborate with other jurisdictions to promote locally-grown and sustainable food production practices;</text>
@@ -40,5 +47,8 @@
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§513" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) creation of § 48-314.01, see <cite doc="D.C. Law 23-130" path="§513">§ 513 of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§513" target-path="§48-314" type="History" display="false"/>
     <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§2092" target-path="§48-314" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5082|(a)|(1)" target-path="§48-314|heading" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5082|(a)|(2)" target-path="§48-314|(a)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5082|(a)|(3)" target-path="§48-314|(b)" type="History"/>
   </annotations>
 </section>

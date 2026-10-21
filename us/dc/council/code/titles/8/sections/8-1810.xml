@@ -1,15 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-1810</num>
-  <heading>Education and incentive program.</heading>
-  <text>The Mayor shall implement an education and incentive program, which shall include the following:</text>
+  <heading proof="needed">Animal population health and education program.</heading>
   <para>
-    <num>(1)</num>
-    <text>Low-cost spay and neuter clinic services; and</text>
+    <num>(a)</num>
+    <text>The Mayor shall implement an animal population health and education program, which shall include the provision of:</text>
+    <para>
+      <num>(1)</num>
+      <text>Animal care services, including:</text>
+      <para>
+        <num>(A)</num>
+        <text>Low-cost or no-cost preventive and emergency veterinary services; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Low-cost or no-cost spay and neuter clinic services; and</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Educational services, including with respect to:</text>
+      <para>
+        <num>(A)</num>
+        <text>Pet care and safety, including pet care and safety in extreme weather conditions or emergencies; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>District laws related to pet ownership.</text>
+      </para>
+    </para>
   </para>
   <para>
-    <num>(2)</num>
-    <text>An educational program for animal owners regarding pet care and safety, specifically in extreme weather conditions or emergencies, and the laws related to pet ownership.</text>
+    <num>(b)</num>
+    <text>The Mayor may establish eligibility standards for animal care services provided pursuant to subsection (a)(1) of this section.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 3-30" type="History" path="§11">Oct. 18, 1979, D.C. Law 3-30, § 11, 26 DCR 765</annotation>
@@ -24,5 +47,8 @@
     <annotation app="2017-10-23" doc="D.C. Act 22-165" eff="2017-10-23" path="§2|(l)" target-path="§8-1810" type="History" display="false"/>
     <annotation app="2017-12-20" doc="D.C. Law 22-37" eff="2017-12-20" path="§2|(l)|(1)" target-path="§8-1810|(1)" type="History"/>
     <annotation app="2017-12-20" doc="D.C. Law 22-37" eff="2017-12-20" path="§2|(l)|(2)" target-path="§8-1810|(2)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5022|(c)" target-path="§8-1810" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§5022|(c)" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§5022|(c)">§ 5022(c) of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5022|(c)" target-path="§8-1810" type="History" display="false"/>
   </annotations>
 </section>

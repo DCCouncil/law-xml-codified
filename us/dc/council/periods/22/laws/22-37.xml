@@ -576,7 +576,7 @@
       <para codify:path="(1)">
         <num>(1)</num>
         <text>Paragraph (1) is amended by striking the phrase "Low cost" and inserting the phrase "Low-cost" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1810|(1)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1810">
           <find>Low cost</find>
           <replace>Low-cost</replace>
         </codify:find-replace>
@@ -586,7 +586,7 @@
         <text>Paragraph (2) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§8-1810|(2)"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§8-1810"/>
             <num>(2)</num>
             <text>An educational program for animal owners regarding pet care and safety, specifically in extreme weather conditions or emergencies, and the laws related to pet ownership.</text>
           </para>

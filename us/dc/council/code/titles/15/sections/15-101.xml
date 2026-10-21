@@ -4,7 +4,7 @@
   <heading>Enforceable period of judgments; expiration.</heading>
   <para>
     <num>(a)</num>
-    <text>Except as provided by subsection (b) of this section, every final judgment or final decree for the payment of money rendered in the —</text>
+    <text>Except as provided by subsections (a-1) and (b) of this section, every final judgment or final decree for the payment of money rendered in the —</text>
     <para>
       <num>(1)</num>
       <text>United States District Court for the District of Columbia; or</text>
@@ -13,11 +13,15 @@
       <num>(2)</num>
       <text>Superior Court of the District of Columbia,</text>
     </para>
-    <aftertext>when filed and recorded in the office of the Recorder of Deeds of the District of Columbia, is enforceable, by execution issued thereon, for the period of twelve years only from the date when an execution might first be issued thereon, or from the date of the last order of revival thereof. The time during which the judgment creditor is stayed from enforcing the judgment, by written agreement filed in the case, or other order, or by the operation of an appeal, may not be computed as a part of the period within which the judgment is enforceable by execution.</aftertext>
+    <aftertext>when filed and recorded in the office of the Recorder of Deeds of the District of Columbia, is enforceable, by execution issued thereon, for the period of 12 years only from the date when an execution might first be issued thereon, or from the date of the last order of revival thereof. The time during which the judgment creditor is stayed from enforcing the judgment, by written agreement filed in the case, or other order, or by the operation of an appeal, may not be computed as a part of the period within which the judgment is enforceable by execution.</aftertext>
+  </para>
+  <para>
+    <num>(a-1)</num>
+    <text>For support orders entered in cases filed 120 days after [December 11, 2026], the 12-year period of limitation on the enforceability of a final judgment or final decree for the payment of money provided by subsection (a) of this section shall not apply to judgments or decrees for past-due child support. Child support judgments entered pursuant to these support orders shall be enforceable for a period of 5 years after the date of the emancipation of the youngest child subject to the support order. The time during which the judgment creditor is stayed from enforcing the judgment as provided in subsection (a) of this section shall not be computed as a part of the period within which the judgment is enforceable by execution.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>At the expiration of the twelve-year period provided by subsection (a) of this section, the judgment or decree shall cease to have any operation or effect. Thereafter, except in the case of a proceeding that may be then pending for the enforcement of the judgment or decree, action may not be brought on it, nor may it be revived, and execution may not issue on it.</text>
+    <text>At the expiration of the periods provided by subsections (a) and (a-1) of this section, the judgment or decree shall cease to have any operation or effect. Thereafter, except in the case of a proceeding that may be then pending for the enforcement of the judgment or decree, action may not be brought on it, nor may it be revived, and execution may not issue on it.</text>
   </para>
   <annotations>
     <annotation doc="Pub. L. 88-241" type="History">Dec. 23, 1963, 77 Stat. 522, Pub. L. 88-241, § 1</annotation>
@@ -34,5 +38,9 @@
     <annotation type="Cross References">Child support, withholding of income after lapse, see <cite path="§46-215">§ 46-215</cite>.</annotation>
     <annotation type="Cross References">Adoption proceedings, entry of interlocutory or final decrees, see <cite path="§16-309">§ 16-309</cite>.</annotation>
     <annotation type="Cross References">Action of account, see <cite path="§16-101">§ 16-101</cite>.</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5194|(a)|(1)" target-path="§15-101|(a)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5194|(a)|(2)" target-path="§15-101|(a)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5194|(b)" target-path="§15-101" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5194|(c)" target-path="§15-101|(b)" type="History"/>
   </annotations>
 </section>

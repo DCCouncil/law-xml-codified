@@ -36,7 +36,15 @@
     <text>The term “importer” means “importer” as the term is defined in section 5702(l) of the Internal Revenue Code of 1986, approved October 22, 1986 (68A Stat. 707; 26 U.S.C. § 5702(l)) [now 26 U.S.C. § 5702(k)].</text>
   </para>
   <para>
-    <num>(3B)</num>
+    <num>[(3B)]</num>
+    <text>The term "licensed retailer" means an individual who has obtained a basic business license under <cite path="47|28">Chapter 28 of this title</cite> and a retailer's permit pursuant to <cite path="§47-2404|(b)|(2)">§ 47-2404(b)(2)</cite>.</text>
+  </para>
+  <para>
+    <num>[(3C)]</num>
+    <text>The term "licensed wholesaler" means an individual who has obtained a basic business license under <cite path="47|28">Chapter 28 of this title</cite> and a wholesaler's permit pursuant to <cite path="§47-2404|(b)|(1)">§ 47-2404(b)(1)</cite>.</text>
+  </para>
+  <para>
+    <num>(3D)</num>
     <text>The term “manufacturer” means “manufacturer of tobacco products” as the term is defined in section 5702(d) of the Internal Revenue Code of 1986, approved October 22, 1986 (68A Stat. 707; 26 U.S.C. § 5702(d)).</text>
   </para>
   <para>
@@ -136,5 +144,9 @@
     <annotation type="Prior Codifications">1973 Ed., § 47-2801.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 47-2401.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§47-2001">§ 47-2001</cite>.</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5042|(b)|(2)" target-path="§47-2401" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5042|(b)|(1)" target-path="§47-2401|(3B)|num" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§5042|(b)" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§5042|(b)">§ 5042(b) of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5042|(b)" target-path="§47-2401" type="History" display="false"/>
   </annotations>
 </section>

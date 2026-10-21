@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-736.05</num>
-  <heading proof="needed">Tobacco Use Cessation Fund.</heading>
+  <heading proof="needed">JUUL Settlement Fund.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established as a special fund the Tobacco Use Cessation Fund ("Fund"), which shall be administered by the Department of Health in accordance with subsection (c) of this section.</text>
+    <text>There is established as a special fund the JUUL Settlement Fund ("Fund"), which shall be administered by the Department of Health in accordance with subsection (c) of this section.</text>
   </para>
   <para>
     <num>(b)</num>
     <text>There shall be deposited into the Fund:</text>
-    <para>
+    <para placeholder="Repealed">
       <num>(1)</num>
-      <text>Such funds as may be appropriated for that purpose; and</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -67,5 +67,10 @@
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§5212" prefix="as added" target-path="7|7A|I" type="History"/>
     <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5152|(b)" target-path="§7-736.05" type="History" display="false"/>
     <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§5152|(b)" target-path="§7-736.05" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5043|(a)" target-path="§7-736.05|heading" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5043|(b)" target-path="§7-736.05|(a)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5043|(c)" target-path="§7-736.05|(b)|(1)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§5043" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§5043">§ 5043 of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5043" target-path="§7-736.05" type="History" display="false"/>
   </annotations>
 </section>

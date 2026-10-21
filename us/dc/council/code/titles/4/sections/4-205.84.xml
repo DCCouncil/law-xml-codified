@@ -1,14 +1,126 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-205.84</num>
   <heading proof="needed">Reimbursement for theft of electronically transferred benefits.</heading>
-  <reason>Not Funded</reason>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>If a recipient reports the theft of public assistance by fraudulent means to the Department within 6 months of the theft, and if an investigation by the Department shows that a recipient's correctly issued public assistance was lost due to theft by fraudulent means, the Department shall restore up to 2 months of correctly issued public assistance lost due to theft by fraudulent means.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>For the purposes of this section:</text>
+      <para>
+        <num>(A)</num>
+        <text>Public assistance is "correctly issued" if the amount of, and the recipient's eligibility for, public assistance was accurately calculated under applicable law;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Theft is "by fraudulent means" if it is done by phishing, skimming, cloning, or otherwise with the intent to obtain the property of another by means of a false or fraudulent pretense, representation, or promise;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>If incidents of theft that occurred in multiple months are reported simultaneously, the value of "2 months of correctly issued public assistance" subject to restoration shall be calculated on the basis of the 2 months during which public assistance was lost due to theft in which the correctly issued benefit amounts were the highest;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>In calculating the value of "2 months of correctly issued public assistance," the Department shall exclude any special or additional payments received by the recipient during the months that serve as the basis for the Department's calculation, including any amount received in compensation for past underpayment;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>A recipient need not perfect a report of theft by providing any supporting documentation requested by the Department within the timelines established by this subsection for a report of theft to be considered timely made; and</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>The term "public assistance" does not include public benefits programs administered by agencies other than the Department or the minimum annual benefit  established by <cite path="§4-261.03|(c)">§ 4-261.03(c)</cite>.".</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Not later than 20 days after a recipient informs the Department of the loss of public assistance due to theft, the Department shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>If the Department determines that the recipient lost public assistance due to theft by fraudulent means, restore the lower of:</text>
+      <para>
+        <num>(A)</num>
+        <text>The stolen public assistance in the amount that was lost; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Two months of correctly issued public assistance;</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>If the Department determines that the recipient lost public assistance due to theft, provide the recipient with a new EBT card; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Notify the recipient in writing of:</text>
+      <para>
+        <num>(A)</num>
+        <text>The Department's decision whether to restore public assistance;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The amount of public assistance to be restored, if any; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>If the Department finds that public assistance was not lost due to theft by fraudulent means or if the Department restores less in public assistance than the recipient alleged was lost due to theft by fraudulent means:</text>
+        <para>
+          <num>(i)</num>
+          <text>The reason for the Department's decision;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The recipient's right to a fair hearing on the Department's decision;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>The method for requesting a fair hearing;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>The right to representation in a fair hearing; and</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>The availability of, and means of contacting, free legal counsel.</text>
+        </para>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>If a recipient disputes the amount of public assistance restored under subsection (a) of this section or the Department's determination that no restoration is due, the recipient may request a fair hearing within 90 days of the date of the Department's determination.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <para>
+      <num>(1)</num>
+      <text>This section shall apply as of March 1, 2028.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Nothing in this section shall be construed to require the Department to restore public assistance lost due to theft before March 1, 2028.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Nothing in this section shall be construed to limit the Department's ability to restore public assistance lost due to theft before March 1, 2028.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§4-205.84" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-205.84">Applicability of <cite doc="D.C. Law 26-104" path="">D.C. Law 26-104</cite>: <cite doc="D.C. Law 26-104" path="§4">§ 4 of D.C. Law 26-104</cite> provided that the creation of this section by <cite doc="D.C. Law 26-104" path="§2|(c)">§ 2(c) of D.C. Law 26-104</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 4-101" type="History" path="§584">Apr. 6, 1982, D.C. Law 4-101, § 584</annotation>
-    <annotation app="2026-03-24" doc="D.C. Law 26-104" eff="2026-03-24" path="§4|(a)" target-path="§2|(c)|includes|584" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 26-104" eff="2026-03-24" path="§2|(c)" prefix="as added" target-path="4|2|V" type="History"/>
+    <annotation app="2026-03-24" doc="D.C. Law 26-104" eff="2026-03-24" path="§2|(c)" prefix="as added" target-path="4|2|V" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 26-104" path="§2|(c)" codified:display="Note" app="2026-03-24" eff="2026-03-24">Applicability of <cite doc="D.C. Law 26-104" path="">D.C. Law 26-104</cite>: <cite doc="D.C. Law 26-104" path="§4">§ 4 of D.C. Law 26-104</cite> provided that the creation of this section by <cite doc="D.C. Law 26-104" path="§2|(c)">§ 2(c) of D.C. Law 26-104</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2026-03-24" doc="D.C. Law 26-104" eff="2026-03-24" path="§2|(c)" target-path="§4-205.84" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5182|(b)" target-path="§4-205.84|(d)" type="History"/>
+    <annotation doc="D.C. Act 26-416" path="§5183" type="Applicability" history="false" app="2026-08-13" eff="2026-08-13"><cite doc="D.C. Act 26-416" path="§5183">Section 5183 of D.C. Act 26-416</cite> repealed the applicability provision of <cite doc="D.C. Law 26-104" path="§4">section 4 of D.C. Law 26-104</cite> that impacted this section. Therefore the creation of this section by <cite doc="D.C. Law 26-104" path="§2|(c)">§2(c) of Law 26-104</cite> has been implemented.
+        </annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5183" target-path="§4-205.84" type="History" display="false"/>
   </annotations>
 </section>

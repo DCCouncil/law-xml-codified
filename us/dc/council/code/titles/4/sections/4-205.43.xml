@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-205.43</num>
-  <heading>Participation in labor dispute; pregnancy.</heading>
+  <heading>Eligibility of a pregnant person for TANF.</heading>
   <para>
     <num>(a)</num>
     <text>Repealed.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>A pregnant woman may be eligible for TANF benefits for herself if the pregnancy has been medically certified, the pregnancy is in the third trimester, and other eligibility requirements are met. The Mayor may provide to the pregnant woman written information and referral as to the availability of prenatal care services and nutrition supplements for pregnant women.</text>
+    <text>Beginning October 1, 2026, a pregnant person shall be eligible for TANF benefits if the pregnancy has been medically certified, the pregnancy is in the second or third trimester, and other generally applicable TANF eligibility requirements are met. The Mayor shall provide to the pregnant person written information and referrals regarding the availability of prenatal care services and nutrition supplements.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 4-101" type="History" path="§543">Apr. 6, 1982, D.C. Law 4-101, § 543, 29 DCR 1060</annotation>
@@ -26,5 +26,7 @@
     <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 2(a) of Human Services Spending Reduction Temporary Amendment Act of 1995 (<cite doc="D.C. Law 11-29">D.C. Law 11-29</cite>, July 25, 1995, law notification  42 DCR 4002).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 502(d) of Multiyear Budget Spending Reduction and Support Temporary Act of 1995 (<cite doc="D.C. Law 10-253">D.C. Law 10-253</cite>, March 23, 1995, law notification  42 DCR 1652).</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 3-205.43.</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5172|(a)" target-path="§4-205.43|heading" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5172|(b)" target-path="§4-205.43|(b)" type="History"/>
   </annotations>
 </section>

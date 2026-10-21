@@ -671,15 +671,32 @@
     <prefix>Chapter</prefix>
     <num>18</num>
     <heading>Emergency and Non-Emergency Number Telephone System Assessments Fund.</heading>
-    <xi:include href="./sections/34-1801.xml"/>
-    <xi:include href="./sections/34-1802.xml"/>
-    <xi:include href="./sections/34-1803.xml"/>
-    <xi:include href="./sections/34-1803.01.xml"/>
-    <xi:include href="./sections/34-1803.02.xml"/>
-    <xi:include href="./sections/34-1803.03.xml"/>
-    <xi:include href="./sections/34-1804.xml"/>
-    <xi:include href="./sections/34-1805.xml"/>
-    <xi:include href="./sections/34-1806.xml"/>
+    <container>
+      <prefix>Part</prefix>
+      <num>A</num>
+      <heading>Telephone System Assessments Fund.</heading>
+      <xi:include href="./sections/34-1801.xml"/>
+      <xi:include href="./sections/34-1802.xml"/>
+      <xi:include href="./sections/34-1803.xml"/>
+      <xi:include href="./sections/34-1803.01.xml"/>
+      <xi:include href="./sections/34-1803.02.xml"/>
+      <xi:include href="./sections/34-1803.03.xml"/>
+      <xi:include href="./sections/34-1804.xml"/>
+      <xi:include href="./sections/34-1805.xml"/>
+      <xi:include href="./sections/34-1806.xml"/>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>B</num>
+      <heading>988 Lifeline Support and Sustainability Fund.</heading>
+      <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="V" target-path="34|18" type="History" display="false"/>
+      <xi:include href="./sections/34-1811.xml"/>
+      <xi:include href="./sections/34-1812.xml"/>
+      <xi:include href="./sections/34-1813.xml"/>
+      <xi:include href="./sections/34-1814.xml"/>
+      <xi:include href="./sections/34-1815.xml"/>
+      <xi:include href="./sections/34-1816.xml"/>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>

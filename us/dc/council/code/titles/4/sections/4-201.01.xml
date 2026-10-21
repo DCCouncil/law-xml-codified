@@ -23,9 +23,9 @@
     <num>(1D)</num>
     <text>Repealed.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(1E)</num>
-    <text>Not Funded.</text>
+    <text>"Cloning" means using data acquired by unlawful means to create a duplicate copy of a recipient's EBT card.</text>
   </para>
   <para>
     <num>(2)</num>
@@ -39,13 +39,13 @@
     <num>(3)</num>
     <text>“District” means the District of Columbia government.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(3A)</num>
-    <text>Not Funded.</text>
+    <text>"EBT card" means a method to access public assistance issued to a recipient or a recipient's authorized representative through an electronic payments system.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(3B)</num>
-    <text>Not Funded.</text>
+    <text>"EMV technology" means the integration in a method of payment of a microchip that generates a dynamic, one-time-use code for each payment transaction.</text>
   </para>
   <para>
     <num>(3C)</num>
@@ -99,9 +99,9 @@
     <num>(5C)</num>
     <text>“Parent who is the principal household income earner” means whichever parent, in a home in which both parents of a minor child are living, earned the greater amount of income in a 24-month period, the last month of which immediately preceded the month in which a TANF application was filed.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(5D)</num>
-    <text>Not Funded.</text>
+    <text>"Phishing" means a technique for attempting to acquire sensitive data, such as EBT card information, through a solicitation in which the solicitor purports to be other than who the solicitor is.</text>
   </para>
   <para>
     <num>(5E)</num>
@@ -119,9 +119,9 @@
     <num>(8)</num>
     <text>“State” means each of the states of the United States. The term “state” includes Puerto Rico, Guam, and the United States Virgin Islands.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(8A)</num>
-    <text>Not Funded.</text>
+    <text>"Skimming" means using technology unlawfully installed on an automated teller machine, point-of-sale terminal, or similar device to capture data associated with a recipient's EBT card.</text>
   </para>
   <para>
     <num>(9)</num>
@@ -131,9 +131,9 @@
     <num>(10)</num>
     <text>“TANF” means the Temporary Assistance for Needy Families Program established by <cite path="4|2|II">subchapter II of this chapter</cite>.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(10A)</num>
-    <text>Not Funded.</text>
+    <text>"Theft" shall have the same meaning as in <cite path="§22-3211">§ 22-3211</cite>.</text>
   </para>
   <para>
     <num>(11)</num>
@@ -189,19 +189,17 @@
     <annotation app="2021-06-07" doc="D.C. Act 24-96" eff="2021-06-07" path="§508|(a)|(1)" target-path="§4-201.01" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-9" path="§508|(a)|(1)" codified:display="Note" app="2021-06-24" eff="2021-06-24">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-9" path="§508|(a)|(1)">§ 508(a)(1) of Coronavirus Support Temporary Amendment Act of 2021 (D.C. Law 24-9, June 24, 2021, 68 DCR 004824)</cite>.</annotation>
     <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§508|(a)|(1)" target-path="§4-201.01" type="History" display="false"/>
-    <annotation app="2026-03-24" doc="D.C. Law 26-104" eff="2026-03-24" path="§4|(a)" target-path="§2|(a)|(1)" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 26-104" path="§2|(a)" codified:display="Note" app="2026-03-24" eff="2026-03-24">Applicability of <cite doc="D.C. Law 26-104" path="">D.C. Law 26-104</cite>: <cite doc="D.C. Law 26-104" path="§4">§ 4 of D.C. Law 26-104</cite> provided that the amendment to this section by <cite doc="D.C. Law 26-104" path="§2|(a)">§ 2(a) of D.C. Law 26-104</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2026-03-24" doc="D.C. Law 26-104" eff="2026-03-24" path="§2|(a)" target-path="§2|(a)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 26-104" eff="2026-03-24" path="§2|(a)|(1)" target-path="§4-201.01" type="History"/>
-    <annotation app="2026-03-24" doc="D.C. Law 26-104" eff="2026-03-24" path="§4|(a)" target-path="§2|(a)|(3)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 26-104" eff="2026-03-24" path="§2|(a)|(3)" target-path="§4-201.01" type="History"/>
+    <annotation app="2026-03-24" doc="D.C. Law 26-104" eff="2026-03-24" path="§2|(a)|(1)" target-path="§4-201.01" type="History"/>
+    <annotation app="2026-03-24" doc="D.C. Law 26-104" eff="2026-03-24" path="§2|(a)|(3)" target-path="§4-201.01" type="History"/>
     <annotation app="2026-03-24" doc="D.C. Law 26-104" eff="2026-03-24" path="§2|(a)|(2)" target-path="§4-201.01|(3A)|num" type="History"/>
-    <annotation app="2026-03-24" doc="D.C. Law 26-104" eff="2026-03-24" path="§4|(a)" target-path="§2|(a)|(5)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 26-104" eff="2026-03-24" path="§2|(a)|(5)" target-path="§4-201.01" type="History"/>
+    <annotation app="2026-03-24" doc="D.C. Law 26-104" eff="2026-03-24" path="§2|(a)|(5)" target-path="§4-201.01" type="History"/>
     <annotation app="2026-03-24" doc="D.C. Law 26-104" eff="2026-03-24" path="§2|(a)|(4)" target-path="§4-201.01|(5D)|num" type="History"/>
-    <annotation app="2026-03-24" doc="D.C. Law 26-104" eff="2026-03-24" path="§4|(a)" target-path="§2|(a)|(6)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 26-104" eff="2026-03-24" path="§2|(a)|(6)" target-path="§4-201.01" type="History"/>
-    <annotation app="2026-03-24" doc="D.C. Law 26-104" eff="2026-03-24" path="§4|(a)" target-path="§2|(a)|(7)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 26-104" eff="2026-03-24" path="§2|(a)|(7)" target-path="§4-201.01" type="History"/>
+    <annotation app="2026-03-24" doc="D.C. Law 26-104" eff="2026-03-24" path="§2|(a)|(6)" target-path="§4-201.01" type="History"/>
+    <annotation app="2026-03-24" doc="D.C. Law 26-104" eff="2026-03-24" path="§2|(a)|(7)" target-path="§4-201.01" type="History"/>
+    <annotation doc="D.C. Act 26-416" path="§5183" type="Applicability" history="false" app="2026-08-13" eff="2026-08-13"><cite doc="D.C. Act 26-416" path="§5183">Section 5183 of D.C. Act 26-416</cite> repealed the applicability provision of <cite doc="D.C. Law 26-104" path="§4">section 4 of D.C. Law 26-104</cite> that impacted this section. Therefore the amendment to this section by <cite doc="D.C. Law 26-104" path="§2|(a)">§2(a) of Law 26-104</cite> has been implemented.
+        </annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5183" target-path="§4-201.01" type="History" display="false"/>
   </annotations>
 </section>

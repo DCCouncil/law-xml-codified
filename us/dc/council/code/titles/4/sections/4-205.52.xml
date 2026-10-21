@@ -132,9 +132,17 @@
     <num>(c-3)</num>
     <text>Repealed.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(c-4)</num>
-    <text>[Applicable on October 1, 2027.]</text>
+    <text>The level of District-funded TANF assistance paid to each assistance unit receiving benefits under <cite path="§4-205.11a|(a-1)">§ 4-205.11a(a-1)</cite> shall be as follows:</text>
+    <para>
+      <num>(1)</num>
+      <text>For Fiscal Year 2027, 100% of the Fiscal Year 2026 amount; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>For Fiscal Year 2028 and thereafter, $0.</text>
+    </para>
   </para>
   <para>
     <num>(d)</num>
@@ -281,5 +289,8 @@
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5032|(b)" target-path="§4-205.52|(d-1)|(1)|(C)" type="History"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5032|(c)" target-path="§4-205.52|(d-1)|(1)" type="History"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5063" target-path="§4-205.52" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5062" target-path="§4-205.52|(c-4)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§5062" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§5062">§ 5062 of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5062" target-path="§4-205.52" type="History" display="false"/>
   </annotations>
 </section>
