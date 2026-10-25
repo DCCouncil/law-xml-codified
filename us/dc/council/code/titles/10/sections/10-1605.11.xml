@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-1605.11</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 6, 2027. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§10-1605.11(Perm)">Permanent Version</cite>.*
+      </text>
   <heading proof="needed">RFK infrastructure and parking facilities bond authorizations.</heading>
   <para>
     <num>(a)</num>
@@ -10,7 +13,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>The Mayor, or any District government authority or instrumentality designated by the Mayor, may allocate to the Bonds authorized by paragraph (1) of this subsection the funds in the RFK Campus Infrastructure Fund.</text>
+      <text>The Mayor, or any District government authority or instrumentality designated by the Mayor, may allocate to the Bonds authorized by paragraph (1) of this subsection the funds in the RFK Campus Infrastructure Fund and, in Fiscal Year 2027, revenue from the sports facilities fee deposited in the Ballpark Preservation and Improvement Fund pursuant to <cite path="§47-2762|(d)|(1)">§ 47-2762(d)(1)</cite>.</text>
     </para>
   </para>
   <para>
@@ -197,5 +200,8 @@
     <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="" target-path="10|16" type="History" display="false"/>
     <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="" target-path="10|16|V" type="History" display="false"/>
     <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="§12" target-path="10|16|V|A" type="History"/>
+    <annotation app="2026-10-08" doc="D.C. Act 26-419" eff="2026-10-08" path="§2|(b)" target-path="§10-1605.11" type="History" display="false"/>
+    <annotation app="2026-10-08" doc="D.C. Act 26-419" eff="2026-10-08" path="§2|(b)" target-path="§10-1605.11|(a)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-419" path="§2|(b)" codified:display="Note" app="2026-10-08" eff="2026-10-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-419" path="§2|(b)">§ 2(b) of Ballpark Bonds Loan Repayment Emergency Amendment Act of 2026 (D.C. Act 26-419, Oct. 8, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

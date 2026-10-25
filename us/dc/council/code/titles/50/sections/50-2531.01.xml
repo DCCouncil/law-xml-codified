@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-2531.01</num>
-  <heading proof="needed">Performance Parking Program Fund.</heading>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 19, 2027. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-2531.01(Perm)">Permanent Version</cite>.*
+      </text>
+  <heading proof="needed">Greater U Street Parking Benefit Fund.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established as a nonlapsing fund the Performance Parking Program Fund ("Fund"), which shall be administered by the Director of the District Department of Transportation in accordance with subsections (b) and (c) of this section.</text>
+    <text>There is established as a nonlapsing fund the Greater U Street Parking Benefit Fund ("Fund"), which shall be administered in accordance with subsections (b) and (c) of this section.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -15,11 +18,11 @@
     <text>Money in the Fund shall be used for the following purposes:</text>
     <para>
       <num>(1)</num>
-      <text>Up to 60% shall be used to repay the cost of procurement and maintenance of new meters and related signage for the pilot program in the Greater U Street Performance Parking Zone;</text>
+      <text>Up to 5% may be used to pay for maintenance of parking meters, signage and other costs related to operation of the Greater U Street Performance Parking Zone;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Once the cost of meter procurement is paid in full for the Greater U Street Performance Parking Zone, up to 5% shall be used to pay for meter maintenance and related signage in that zone; and</text>
+      <text>In Fiscal Years 2026 and 2027, up to $2,550,000 may be used support the Automated Curbside Management Program as established in <cite path="§50-2653">§ 50-2653</cite>, passed on emergency basis on July 7, 2026 (Enrolled version of Bill 26-724); provided, that any funds used pursuant to this paragraph shall be replenished by excess loading zone management program revenue as set forth in <cite path="§50-921.13|(b-2)">§ 50-921.13(b-2)</cite>.</text>
     </para>
     <para>
       <num>(3)</num>
@@ -44,6 +47,21 @@
         <num>(E)</num>
         <text>Support for businesses.</text>
       </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <para>
+        <num>(A)</num>
+        <text>Notwithstanding paragraph (3) of this subsection, within the first quarter of Fiscal Year 2027, the Department of Small and Local Business Development shall award a grant in the amount of $1 million from the Fund to support the Duke Business Improvement District Corporation, d/b/a Duke District BID, to improve conditions for property owners, businesses, residents, and visitors within the Greater Shaw/U Street area.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Starting in Fiscal Year 2028, up to $800,000 of revenue from the Fund shall be distributed annually to support place management activities in the area covered by the Greater U Street Performance Parking Zone in the form of a matching grant to the organization performing those activities for every dollar raised from other sources, including BID taxes as defined in <cite path="§2-1215.02|(8)">§ 2-1215.02(8)</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Notwithstanding <cite path="1|3|XII-A|B">part B of subchapter XII-A of Chapter 3 of Title 1</cite>, beginning in Fiscal Year 2028, up to $250,000 annually may be awarded as a grant to support the operations of the African American Civil War Museum, located at 1925 Vermont Avenue, NW.</text>
     </para>
   </para>
   <para>
@@ -75,5 +93,13 @@
     <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§6013|(a)" target-path="§50-2531.01" type="History" display="false"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§6013|(a)" target-path="§50-2531.01" type="History"/>
     <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6112|(a)" target-path="§50-2531.01" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§6302|(a)" target-path="§50-2531.01|heading" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§6302|(b)" target-path="§50-2531.01|(a)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§6302|(c)|(1)" target-path="§50-2531.01|(c)|(1)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§6302|(c)|(2)" target-path="§50-2531.01|(c)|(2)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§6302|(c)|(3)" target-path="§50-2531.01|(c)" type="History"/>
+    <annotation app="2026-10-21" doc="D.C. Act 26-450" eff="2026-10-21" path="§2" target-path="§50-2531.01" type="History" display="false"/>
+    <annotation app="2026-10-21" doc="D.C. Act 26-450" eff="2026-10-21" path="§2" target-path="§50-2531.01|(c)|(4)|(A)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-450" path="§2" codified:display="Note" app="2026-10-21" eff="2026-10-21">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-450" path="§2">§ 2 of Duke District BID Grantmaking Emergency Amendment Act of 2026 (D.C. Act 26-450, Oct. 21, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

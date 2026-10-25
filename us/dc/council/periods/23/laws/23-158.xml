@@ -1081,7 +1081,7 @@
       <text>Section 2 (D.C. Official Code § 50-2651) is amended by adding a new subsection (a-1) to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§50-2651|(a-1)"/>
+          <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§50-2651"/>
           <num>(a-1)</num>
           <text>To ensure that residential developments have adequate commercial and passenger vehicle loading and unloading zones to eliminate the need for illegal parking by commercial vehicles, the program rules shall establish a process by which the owner of a building with 50 or more residential units shall submit to the District Department of Transportation for approval plans to reduce or prevent congestion caused by:</text>
           <para>
@@ -1100,7 +1100,7 @@
     <para>
       <num>(b)</num>
       <text>Section 3(a) (D.C. Official Code § 50-2652(a)) is amended by striking the phrase "Within 120 days of the effective date of this act, the" and inserting the word "The" in its place.</text>
-      <codify:find-replace path="§50-2652|(a)" count="1" codified:doc="D.C. Code" codified:path="§50-2652|(a)">
+      <codify:find-replace path="§50-2652|(a)" count="1" codified:doc="D.C. Code" codified:path="§50-2652">
         <find>Within 120 days of October 22, 2009, the</find>
         <replace>The</replace>
       </codify:find-replace>
@@ -1154,7 +1154,7 @@
       <codify:applicability doc="D.C. Law 23-158" path="§8|(d)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.04e"/>
       <codify:applicability doc="D.C. Law 23-158" path="§8|(e)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.05a|(b-2)"/>
       <codify:applicability doc="D.C. Law 23-158" path="§9" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2209.02|(b)"/>
-      <codify:applicability doc="D.C. Law 23-158" path="§12" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2651|(a-1)"/>
+      <codify:applicability doc="D.C. Law 23-158" path="§12" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2651"/>
     </para>
     <para>
       <num>(b)</num>

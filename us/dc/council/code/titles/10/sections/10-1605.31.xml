@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-1605.31</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 6, 2027. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§10-1605.31(Perm)">Permanent Version</cite>.*
+      </text>
   <heading proof="needed">RFK Campus Infrastructure Fund.</heading>
   <para>
     <num>(a)</num>
@@ -33,7 +36,7 @@
       <text>Except as provided in paragraph (2) of this subsection, any money available in the RFK Campus Infrastructure Fund in excess of the amounts required to be paid or reserved pursuant to subsection (c)(1) and (2) of this section, as determined by the Chief Financial Officer, shall:</text>
       <para>
         <num>(A)</num>
-        <text>In Fiscal Years 2026 and 2027:</text>
+        <text>In Fiscal Year 2026:</text>
         <para>
           <num>(i)</num>
           <text>Be used to pay the debt service on any ballpark early redemption borrowing; and</text>
@@ -93,5 +96,8 @@
     <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2322|(c)" target-path="§10-1605.31|(d)|(1)|(C)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§2322" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§2322">§ 2322 of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
     <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2322" target-path="§10-1605.31" type="History" display="false"/>
+    <annotation app="2026-10-08" doc="D.C. Act 26-419" eff="2026-10-08" path="§2|(c)" target-path="§10-1605.31" type="History" display="false"/>
+    <annotation app="2026-10-08" doc="D.C. Act 26-419" eff="2026-10-08" path="§2|(c)" target-path="§10-1605.31|(d)|(1)|(A)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-419" path="§2|(c)" codified:display="Note" app="2026-10-08" eff="2026-10-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-419" path="§2|(c)">§ 2(c) of Ballpark Bonds Loan Repayment Emergency Amendment Act of 2026 (D.C. Act 26-419, Oct. 8, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

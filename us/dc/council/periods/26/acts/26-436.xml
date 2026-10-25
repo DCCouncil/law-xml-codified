@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Act 26-436">
+<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Act 26-436" codify:doc="D.C. Code">
   <num type="act">26-436</num>
   <num type="bill">26-787</num>
   <heading type="short">Community Schools Task Force Emergency Amendment Act of 2026</heading>
@@ -19,9 +19,19 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Community Schools Task Force Emergency Amendment Act of 2026".</text>
-  <section>
+  <section codify:path="§38-754.03|(i)|(2)">
     <num>2</num>
     <text>Section 403(i)(2) of the Community Schools Incentive Act of 2012, effective June 19, 2012 (D.C. Law 19-142; D.C. Official Code § 38-754.03(i)(2)), is amended by striking the phrase "District residents" and inserting the word "individuals" in its place.</text>
+    <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-754.03|(i)|(2)">
+      <find>District residents</find>
+      <replace>individuals</replace>
+    </codify:find-replace>
+    <codify:emergency doc="D.C. Code" path="§38-754.03" codified:doc="D.C. Code" codified:path="§38-754.03" codified:display="Note"/>
+    <codify:insert doc="D.C. Code" path="§38-754.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-754.03">
+      <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 18, 2027. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§38-754.03(Perm)">Permanent Version</cite>.*
+      </text>
+    </codify:insert>
   </section>
   <section>
     <num>3</num>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-1601.02a</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 6, 2027. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§10-1601.02a(Perm)">Permanent Version</cite>.*
+      </text>
   <heading proof="needed">Ballpark Preservation and Improvement Fund.</heading>
   <para>
     <num>(a)</num>
@@ -57,6 +60,18 @@
     </para>
   </para>
   <para>
+    <num>(c-1)</num>
+    <text>Notwithstanding subsections (a), (b), and (c) of this section, in Fiscal Year 2027, pursuant to <cite path="§47-2762|(d)">§ 47-2762(d)</cite>, the revenues received by the District from the sports facilities fee imposed by <cite path="§47-2762">§ 47-2762</cite> shall be deposited in the Fund and shall be used as follows:</text>
+    <para>
+      <num>(1)</num>
+      <text>All amounts up to $49,505,000 shall be used to pay the debt service on any ballpark early redemption borrowing and, as described in <cite path="§10-1605.31|(c)|(1)">§ 10-1605.31(c)(1)</cite> and <cite path="§10-1605.31|(c)|(2)">(2)</cite>, to pay debt service on the bonds for the RFK infrastructure financing and to fund any reserves required under the indenture for the RFK infrastructure financing.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The remainder shall be transferred to the General Fund of the District of Columbia.</text>
+    </para>
+  </para>
+  <para>
     <num>(d)</num>
     <para>
       <num>(1)</num>
@@ -89,5 +104,8 @@
           </annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-313" path="§2" codified:display="Note" app="2026-04-24" eff="2026-04-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-313" path="§2">§ 2 of Nationals Ballpark Amended and Restated Lease Emergency Act of 2026 (D.C. Act 26-313, Apr. 24, 2026, 73 DCR 6836)</cite>.</annotation>
     <annotation app="2026-04-24" doc="D.C. Act 26-313" eff="2026-04-24" path="§2" target-path="§10-1601.02a" type="History" display="false"/>
+    <annotation app="2026-10-08" doc="D.C. Act 26-419" eff="2026-10-08" path="§2|(a)" target-path="§10-1601.02a" type="History" display="false"/>
+    <annotation app="2026-10-08" doc="D.C. Act 26-419" eff="2026-10-08" path="§2|(a)" target-path="§10-1601.02a" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-419" path="§2|(a)" codified:display="Note" app="2026-10-08" eff="2026-10-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-419" path="§2|(a)">§ 2(a) of Ballpark Bonds Loan Repayment Emergency Amendment Act of 2026 (D.C. Act 26-419, Oct. 8, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

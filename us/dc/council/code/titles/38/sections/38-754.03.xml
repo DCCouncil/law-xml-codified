@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>38-754.03</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 18, 2027. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§38-754.03(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Administration of Community Schools Incentive Initiative.</heading>
   <para>
     <num>(a)</num>
@@ -213,7 +216,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>The Task Force shall be composed of the Chairman of the Council ("Chairman"), or his or her designee, and 15 District residents, representing the following entities or groups:</text>
+      <text>The Task Force shall be composed of the Chairman of the Council ("Chairman"), or his or her designee, and 15 individuals, representing the following entities or groups:</text>
       <para>
         <num>(A)</num>
         <text>Three community-based organizations with a history of sustained partnership with schools in providing wraparound services, designated by the Chairman;</text>
@@ -341,5 +344,8 @@
     <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§4082|(c)" target-path="§38-754.03" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§4082" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§4082">§ 4082 of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
     <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§4082" target-path="§38-754.03" type="History" display="false"/>
+    <annotation app="2026-10-20" doc="D.C. Act 26-436" eff="2026-10-20" path="§2" target-path="§38-754.03" type="History" display="false"/>
+    <annotation app="2026-10-20" doc="D.C. Act 26-436" eff="2026-10-20" path="§2" target-path="§38-754.03|(i)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-436" path="§2" codified:display="Note" app="2026-10-20" eff="2026-10-20">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-436" path="§2">§ 2 of Community Schools Task Force Emergency Amendment Act of 2026 (D.C. Act 26-436, Oct. 20, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
