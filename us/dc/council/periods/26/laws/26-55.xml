@@ -10988,7 +10988,7 @@
       <section>
         <num>7093</num>
         <text>Drug-, Firearm-, or Prostitution-Related Nuisance Abatement Fund (1060263)</text>
-        <para codify:path="§42-3111.01" codify:applicability="notfunded">
+        <para codify:path="§42-3111.01">
           <num>(a)</num>
           <text>Section 12a of the Drug-Related Nuisance Abatement Act of 1998, effective April 4, 2006 (D.C. Law 16-81; D.C. Official Code § 42-3111.01), is amended as follows:</text>
           <para codify:path="(a)">
@@ -11031,11 +11031,6 @@
         <para>
           <num>(b)</num>
           <text>This section shall apply as of September 30, 2026.</text>
-          <codify:applicability doc="D.C. Law 26-55" path="§7093|(a)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-3111.01|(a)"/>
-          <codify:find-replace doc="D.C. Code" path="§42-3111.01" count="2" codified:doc="D.C. Code" codified:path="§42-3111.01">
-            <find>Not Funded.</find>
-            <replace>[Applicable as of September 30, 2026.]</replace>
-          </codify:find-replace>
         </para>
         <codify:annotation doc="D.C. Code" path="§42-3111.01" type="Applicability" codified:doc="D.C. Code" codified:path="§42-3111.01"><cite doc="D.C. Law 26-55" path="§7093|(b)">Section 7093(b) of D.C. Law 26-55</cite> provides that the amendments made to this section by <cite doc="D.C. Law 26-55" path="§7093|(a)">section 7093(a) of D.C. Law 26-55</cite> shall apply as of September 30, 2026.</codify:annotation>
       </section>
