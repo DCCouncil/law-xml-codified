@@ -9410,14 +9410,14 @@
           <text>New sections 4b and 4c are added to read as follows:</text>
           <include>
             <section>
-              <codify:insert path="10|10B" after="§10-1053.01" num-value="10-1053.02" history-prefix="as added" codified:doc="D.C. Code" codified:path="§10-1053.02"/>
+              <codify:insert path="10|10B" after="§10-1053.01" num-value="10-1053.02" history-prefix="as added" codified:doc="D.C. Code" codified:path="§10-1053.02|(a)"/>
               <num>4b</num>
               <heading proof="needed">Rulemaking.</heading>
               <text>The Mayor, pursuant to <code-cite doc="D.C. Code" path="2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq</em>.)</code-cite>, may issue rules to implement the provisions of <code-cite doc="D.C. Code" path="10|10B">this act</code-cite>.</text>
               <annotation doc="D.C. Law 22-280" type="History" path="§4b">Apr. 11, 2019, D.C. Law 22-280, § 4b</annotation>
             </section>
             <section>
-              <codify:insert path="10|10B" after="§10-1053.02" num-value="10-1053.03" history-prefix="as added" codified:doc="D.C. Code" codified:path="§10-1053.03"/>
+              <codify:insert path="10|10B" after="§10-1053.02" num-value="10-1053.03" history-prefix="as added" codified:doc="D.C. Code" codified:path="§10-1053.03|(a)"/>
               <num>4c</num>
               <heading proof="needed">Public restroom partnership agreements.</heading>
               <text>The Director may enter into an MOU, partnership, or cost-sharing agreement with one or more third-party entities to support additional public restroom facilities under the Department of Public Works's contract.</text>
