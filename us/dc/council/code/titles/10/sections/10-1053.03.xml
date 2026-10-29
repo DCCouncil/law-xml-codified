@@ -2,7 +2,14 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-1053.03</num>
   <heading proof="needed">Public restroom partnership agreements.</heading>
-  <text>The Director may enter into an MOU, partnership, or cost-sharing agreement with one or more third-party entities to support additional public restroom facilities under the Department of Public Works's contract.</text>
+  <para>
+    <num>(a)</num>
+    <text>The Director may enter into an MOU, partnership, or cost-sharing agreement with one or more third-party entities to support additional public restroom facilities under the Department of Public Works's contract.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The contract authorized by section <cite path="§10-1053.01|(b)">§ 10-1053.01(b)</cite> shall allow for third-party sponsorships, to be displayed on the exterior of a public restroom facility.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 22-280" type="History" path="§4c">Apr. 11, 2019, D.C. Law 22-280, § 4c</annotation>
     <annotation doc="D.C. Law 22-280" type="History" path="§4c" display="false">Apr. 11, 2019, D.C. Law 22-280, § 4c</annotation>
@@ -20,5 +27,7 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§6092|(d)" codified:display="Note" app="2025-12-06" eff="2025-11-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-210" path="§6092|(d)|includes|4c">§ 4c of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
     <annotation app="2025-12-06" doc="D.C. Act 26-210" eff="2025-11-24" path="§6092|(d)" target-path="§10-1053.03" type="History" display="false"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§6092|(d)" prefix="as added" target-path="10|10B" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§6192|(c)|(2)" target-path="§10-1053.03" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§6192|(c)|(1)" target-path="§10-1053.03" type="History"/>
   </annotations>
 </section>

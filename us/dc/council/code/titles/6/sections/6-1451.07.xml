@@ -13,17 +13,13 @@
   <para>
     <num>(c)</num>
     <text>Money in the Fund shall be used for the following:</text>
-    <para>
+    <para placeholder="Repealed">
       <num>(1)</num>
-      <text>The following amounts shall be transferred to the Sustainable Energy Trust Fund ("SETF") established by <cite path="§8-1774.10">§ 8-1774.10</cite>:</text>
-      <para>
-        <num>(A)</num>
-        <text>For each of Fiscal Years 2022, 2023, 2024, and 2025, a minimum of $900,000; and</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>For each fiscal year thereafter, 50% of monies in the Fund; and</text>
-      </para>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(1A)</num>
+      <text>50% of the monies deposited into the Fund each fiscal year shall be transferred to the Sustainable Materials and Building Fund established by <cite path="§1-325.381">§ 1-325.381</cite></text>
     </para>
     <para>
       <num>(2)</num>
@@ -64,7 +60,7 @@
   </para>
   <para>
     <num>(d)</num>
-    <text>Any money remaining available in the Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
+    <text>The money deposited into the Fund but not expended in a fiscal year shall not revert to the unassigned fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
   </para>
   <para>
     <num>(e)</num>
@@ -113,5 +109,8 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§7099" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§7099">§ 7099 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
     <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7099" target-path="§6-1451.07" type="History" display="false"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7099" target-path="§6-1451.07|(d)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§6102|(a)|(1)" target-path="§6-1451.07|(c)|(1)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§6102|(a)|(2)" target-path="§6-1451.07|(c)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§6102|(b)" target-path="§6-1451.07|(d)" type="History"/>
   </annotations>
 </section>

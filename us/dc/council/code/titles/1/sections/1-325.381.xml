@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-325.381</num>
-  <heading>Product Stewardship Fund.</heading>
+  <heading>Sustainable Materials and Building Fund.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established as a special fund the Product Stewardship Fund ("Fund"), which shall be administered by the Mayor in accordance with subsection (c) of this section.</text>
+    <text>There is established as a special fund the Sustainable Materials and Building Fund ("Fund"), which shall be administered by the Mayor in accordance with subsection (c) of this section.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -23,20 +23,39 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>Civil penalties and fines collected pursuant to <cite path="§8-1041.12">§ 8-1041.12</cite>; and</text>
+      <text>Civil penalties and fines collected pursuant to <cite path="§8-1041.12">§ 8-1041.12</cite>;</text>
     </para>
     <para>
       <num>(5)</num>
-      <text>Fees and fines collected pursuant to <cite path="§8-771.10">§ 8-771.10</cite>.</text>
+      <text>Fees and fines collected pursuant to <cite path="§8-771.10">§ 8-771.10</cite>; and</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Monies transferred from the Green Building Fund pursuant to <cite path="§6-1451.07|(c)|(1A)">§ 6-1451.07(c)(1A)</cite>.</text>
     </para>
   </para>
   <para>
     <num>(c)</num>
-    <text>Money in the Fund shall be used for the purposes of supporting and administering <cite path="8|2A|II">subchapter II of Chapter 2A of Title 8</cite> , Subtitle B, and Subtitle D.</text>
+    <text>Money in the Fund shall be used as follows:</text>
+    <para>
+      <num>(1)</num>
+      <text>Money deposited pursuant to subsection (b)(1) through (5) of this section shall be used for the purposes of supporting and administering Subtitle B, Subtitle D, and <cite path="8|2A|II">subchapter II of Chapter 2A of Title 8</cite>; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Money deposited pursuant to subsection (b)(6) of this section shall be used for activities permitted under <cite path="§6-1451.07|(c)|(2)">§ 6-1451.07(c)(2)</cite> through <cite path="§6-1451.07|(c)|(7)">(7)</cite>.</text>
+    </para>
   </para>
   <para>
     <num>(d)</num>
-    <text>Any money remaining available in the Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
+    <para>
+      <num>(1)</num>
+      <text>The money deposited into the Fund but not expended in a fiscal year shall not revert to the unassigned fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 20-154" type="History" path="§127">Feb. 26, 2015, D.C. Law 20-154, § 127</annotation>
@@ -66,5 +85,12 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§7118" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§7118">§ 7118 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
     <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7118" target-path="§1-325.381" type="History" display="false"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7118" target-path="§1-325.381|(d)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§6103|(c)|(1)" target-path="§1-325.381|heading" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§6103|(c)|(2)" target-path="§1-325.381|(a)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§6103|(c)|(3)|(A)" target-path="§1-325.381|(b)|(4)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§6103|(c)|(3)|(B)" target-path="§1-325.381|(b)|(5)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§6103|(c)|(3)|(C)" target-path="§1-325.381|(b)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§6103|(c)|(4)" target-path="§1-325.381|(c)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§6103|(c)|(5)" target-path="§1-325.381|(d)" type="History"/>
   </annotations>
 </section>
