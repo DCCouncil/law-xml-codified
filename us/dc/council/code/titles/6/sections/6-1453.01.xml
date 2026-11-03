@@ -2,9 +2,6 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>6-1453.01</num>
   <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 28, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§6-1453.01(Perm)">Past Permanent Version</cite>.*
-      </text>
-  <text>
       *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§6-1453.01(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Net-zero-energy building code requirements.</heading>
@@ -28,19 +25,23 @@
       <text>"Net-zero-energy standard" means a standard under which:</text>
       <para>
         <num>(A)</num>
-        <text>A building conserves an amount of energy attributable to building operations that is equal to or greater than the amount that would be required by the most recent version of Appendix Z;</text>
+        <text>A building conserves an amount of energy attributable to building operations that is equal to or greater than the amount that would be required by the most recent version of Appendix Z; and</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>A building obtains energy from renewable energy sources in the amount that would be required by the most recent version of Appendix Z;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>Renewable energy shall be generated at the building site wherever feasible; and".</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>On-site fuel combustion shall not be permitted for the provision of thermal energy to the building except for backup power generation.</text>
+        <text>A building obtains energy from renewable energy sources in the amount that would be required by the most recent version of Appendix Z; provided, that the following restrictions shall apply:</text>
+        <para>
+          <num>(i)</num>
+          <text>Renewable energy shall be generated at the building site wherever feasible;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>To the extent a building owner procures renewable energy through offsite sources, the building owner may not rely on unbundled renewable energy credits to satisfy the renewable energy requirement; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>On-site fuel combustion shall not be permitted for the provision of thermal energy to the building.</text>
+        </para>
       </para>
     </para>
     <para>
@@ -94,11 +95,8 @@
     <annotation app="2026-03-06" doc="D.C. Act 26-275" eff="2026-03-06" path="§3" target-path="§6-1453.01" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Law 26-123" path="§3" codified:display="Note" app="2026-05-21" eff="2026-05-21">For temporary (90 days) amendment of this section, see <cite doc="D.C. Law 26-123" path="§3">§ 3 of Net Zero Modification and Preservation Temporary Amendment Act of 2026 (D.C. Law 26-123, May 21, 2026, 73 DCR 5075)</cite>.</annotation>
     <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§3" target-path="§6-1453.01" type="History" display="false"/>
-    <annotation app="2026-07-30" doc="D.C. Act 26-394" eff="2026-07-30" path="§3" target-path="§6-1453.01" type="History" display="false"/>
-    <annotation app="2026-07-30" doc="D.C. Act 26-394" eff="2026-07-30" path="§3|(a)|(2)|(A)" target-path="§6-1453.01|(a)|(3)|(A)" type="History"/>
-    <annotation app="2026-07-30" doc="D.C. Act 26-394" eff="2026-07-30" path="§3|(a)|(2)|(B)" target-path="§6-1453.01|(a)|(3)|(B)" type="History"/>
-    <annotation app="2026-07-30" doc="D.C. Act 26-394" eff="2026-07-30" path="§3|(a)|(2)|(C)" target-path="§6-1453.01|(a)|(3)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-394" path="§3" codified:display="Note" app="2026-07-30" eff="2026-07-30">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-394" path="§3">§ 3 of Net Zero Continuity Emergency Amendment Act of 2026 (D.C. Act 26-394, July 30, 2026, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2026-07-30" doc="D.C. Act 26-394" eff="2026-07-30" path="§3" target-path="§6-1453.01" type="History" display="false"/>
     <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2112" target-path="§6-1453.01" type="History" display="false"/>
     <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2112|(a)" target-path="§6-1453.01|(a)" type="History"/>
     <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2112|(b)|(1)|(A)" target-path="§6-1453.01|(b)|(1)" type="History"/>
