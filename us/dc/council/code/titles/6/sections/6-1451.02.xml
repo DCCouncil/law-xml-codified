@@ -1,12 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>6-1451.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 27, 2027. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§6-1451.02(Perm)">Past Permanent Version</cite>.*
+      </text>
   <heading>Publicly-owned, leased, and financed buildings and projects.</heading>
   <para>
     <num>(a)</num>
     <para>
       <num>(1)</num>
-      <text>This subsection shall apply to all new construction and substantial improvement of:</text>
+      <text>This subsection shall apply to all new construction and Level 3 alterations of:</text>
       <para>
         <num>(A)</num>
         <text>Projects that are District-owned or District instrumentality-owned; and</text>
@@ -55,27 +58,51 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>Institute building systems monitoring and maintenance accountability methods upon receipt of a certificate of occupancy; and</text>
+        <text>Institute building systems monitoring and maintenance accountability methods upon receipt of a certificate of occupancy;</text>
       </para>
       <para>
         <num>(D)</num>
-        <text>Maintain net zero energy compliance unless the project is for the installation of temporary structures.</text>
+        <text>Be built to comply with the net-zero-energy standard, as defined in <cite path="§6-1453.01|(a)|(3)">§ 6-1453.01(a)(3)</cite>, unless the project is for the construction of:</text>
+        <para>
+          <num>(i)</num>
+          <text>A temporary building;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>An addition less than 10,000 square feet;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>A police, fire, emergency response, or Office of Unified Communications facility; except, that the facility need not comply with energy conservation and obtainment standards otherwise required by <cite path="§6-1453.01|(a)|(3)|(A)">§ 6-1453.01(a)(3)(A)</cite> and <cite path="§6-1453.01|(a)|(3)|(B)">(B)</cite>, until the effective date of the final regulations issued by the Mayor pursuant to <cite path="§6-1453.01|(b)|(1)">§ 6-1453.01(b)(1)</cite>;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>A natatorium; except, that the aquatic center in which the natatorium is located need not comply with energy conservation and obtainment standards otherwise required <cite path="§6-1453.01|(a)|(3)|(A)">§ 6-1453.01(a)(3)(A)</cite> and <cite path="§6-1453.01|(a)|(3)|(B)">(B)</cite>, until the effective date of the final regulations issued by the Mayor pursuant to <cite path="§6-1453.01|(b)|(1)">§ 6-1453.01(b)(1)</cite>; or</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>A project for which all permits necessary to begin construction were submitted before October 1, 2024, and that were not submitted to GBAC before February 1, 2026; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Be built to comply with <cite path="§6-1453.01|(a)|(3)|(D)">§ 6-1453.01(a)(3)(D)</cite>.</text>
       </para>
     </para>
     <para>
       <num>(3)</num>
-      <text>If a residential project includes 10,000 square feet of gross floor area or more, the residential project shall:</text>
+      <text>If a residential project is for new construction and includes 10,000 square feet of gross floor area or more, the residential project shall:</text>
       <para>
         <num>(A)</num>
-        <text>Fulfill or exceed the current edition of the Green Communities standard, or a substantially similar standard;</text>
+        <text>Be built to comply with the net-zero-energy standard; except, that a project need not comply with the renewable energy requirements otherwise required by <cite path="§6-1453.01|(a)|(3)|(A)">§ 6-1453.01(a)(3)(A)</cite>, <cite path="§6-1453.01|(a)|(3)|(B)">(B)</cite>, and <cite path="§6-1453.01|(a)|(3)|(C)">(C)</cite>, until the effective date of the final regulations issued by the Mayor pursuant to section <cite path="§6-1453.01|(b)|(1)">§ 6-1453.01(b)(1)</cite>; and</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>Submit to DCRA a copy of the standard’s self-certification checklist and a verification of meeting the standard’s requirements for energy efficiency, as part of the application for a certificate of occupancy; and</text>
+        <text>Submit to DOB a copy of the standard’s self-certification checklist and a verification of meeting the standard’s requirements for energy efficiency, as part of the application for a certificate of occupancy; and</text>
       </para>
-      <para>
+      <para placeholder="Repealed">
         <num>(C)</num>
-        <text>Maintain net zero energy compliance.</text>
+        <text>Repealed.</text>
       </para>
     </para>
     <para>
@@ -112,7 +139,7 @@
     </para>
     <para>
       <num>(6)</num>
-      <text>An applicant for new construction or substantial improvement of a mixed-use space shall maintain net zero energy compliance and fulfill or exceed the current edition of the LEED standard for commercial and institutional buildings at the certified level for the mixed-use space of the project. Any requirements of <cite path="§6-1451.05">§ 6-1451.05</cite> shall apply to the mixed-use space of the project. For the purposes of mixed-use space in this paragraph, the term:</text>
+      <text>An applicant for new construction or substantial improvement of a mixed-use space shall be built to comply with the net-zero-energy-standard and fulfill or exceed the current edition of the LEED standard for commercial and institutional buildings at the certified level for the mixed-use space of the project. Any requirements of <cite path="§6-1451.05">§ 6-1451.05</cite> shall apply to the mixed-use space of the project. For the purposes of mixed-use space in this paragraph, the term:</text>
       <para>
         <num>(A)</num>
         <text>“LEED” also includes LEED for Commercial Interiors and LEED for Retail: Commercial Interiors; and</text>
@@ -234,5 +261,16 @@
     <annotation app="2026-05-21" doc="D.C. Law 26-123" eff="2026-05-21" path="§2|(b)" target-path="§6-1451.02" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-394" path="§2|(b)" codified:display="Note" app="2026-07-30" eff="2026-07-30">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-394" path="§2|(b)">§ 2(b) of Net Zero Continuity Emergency Amendment Act of 2026 (D.C. Act 26-394, July 30, 2026, 0 DCR 0)</cite>.</annotation>
     <annotation app="2026-07-30" doc="D.C. Act 26-394" eff="2026-07-30" path="§2|(b)" target-path="§6-1451.02" type="History" display="false"/>
+    <annotation app="2026-10-29" doc="D.C. Act 26-457" eff="2026-10-29" path="§2|(b)" target-path="§6-1451.02" type="History" display="false"/>
+    <annotation app="2026-10-29" doc="D.C. Act 26-457" eff="2026-10-29" path="§2|(b)|(1)" target-path="§6-1451.02|(a)|(1)" type="History"/>
+    <annotation app="2026-10-29" doc="D.C. Act 26-457" eff="2026-10-29" path="§2|(b)|(2)|(A)" target-path="§6-1451.02|(a)|(2)|(C)" type="History"/>
+    <annotation app="2026-10-29" doc="D.C. Act 26-457" eff="2026-10-29" path="§2|(b)|(2)|(B)" target-path="§6-1451.02|(a)|(2)|(D)" type="History"/>
+    <annotation app="2026-10-29" doc="D.C. Act 26-457" eff="2026-10-29" path="§2|(b)|(2)|(C)" target-path="§6-1451.02|(a)|(2)" type="History"/>
+    <annotation app="2026-10-29" doc="D.C. Act 26-457" eff="2026-10-29" path="§2|(b)|(3)|(B)" target-path="§6-1451.02|(a)|(3)|(A)" type="History"/>
+    <annotation app="2026-10-29" doc="D.C. Act 26-457" eff="2026-10-29" path="§2|(b)|(3)|(C)" target-path="§6-1451.02|(a)|(3)|(B)" type="History"/>
+    <annotation app="2026-10-29" doc="D.C. Act 26-457" eff="2026-10-29" path="§2|(b)|(3)|(D)" target-path="§6-1451.02|(a)|(3)|(C)" type="History"/>
+    <annotation app="2026-10-29" doc="D.C. Act 26-457" eff="2026-10-29" path="§2|(b)|(3)|(A)" target-path="§6-1451.02|(a)|(3)" type="History"/>
+    <annotation app="2026-10-29" doc="D.C. Act 26-457" eff="2026-10-29" path="§2|(b)|(4)" target-path="§6-1451.02|(a)|(6)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-457" path="§2|(b)" codified:display="Note" app="2026-10-29" eff="2026-10-29">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-457" path="§2|(b)">§ 2(b) of Net Zero Continuity Congressional Review Emergency Amendment Act of 2026 (D.C. Act 26-457, Oct. 29, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
