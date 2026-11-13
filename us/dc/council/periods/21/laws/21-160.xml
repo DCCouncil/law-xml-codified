@@ -9912,7 +9912,7 @@
             <para>
               <num>(A)</num>
               <text>Subparagraph (A) is amended by striking the phrase "serve at the pleasure of" and inserting the phrase "shall be appointed by" in its place.</text>
-              <codify:find-replace path="(A)" count="1" codified:doc="D.C. Code" codified:path="§47-355.07|(c)|(1)|(A)">
+              <codify:find-replace path="(A)" count="1" codified:doc="D.C. Code" codified:path="§47-355.07|(c)|(1)">
                 <find>serve at the pleasure of</find>
                 <replace>shall be appointed by</replace>
               </codify:find-replace>
@@ -9920,7 +9920,7 @@
             <para>
               <num>(B)</num>
               <text>Subparagraph (B) is amended by striking the phrase "serves at the pleasure of" and inserting the phrase "shall be appointed by" in its place.</text>
-              <codify:find-replace path="(B)" count="1" codified:doc="D.C. Code" codified:path="§47-355.07|(c)|(1)|(B)">
+              <codify:find-replace path="(B)" count="1" codified:doc="D.C. Code" codified:path="§47-355.07|(c)|(1)">
                 <find>serves at the pleasure of</find>
                 <replace>shall be appointed by</replace>
               </codify:find-replace>
@@ -9928,7 +9928,7 @@
             <para>
               <num>(C)</num>
               <text>Subparagraph (D) is amended by striking the phrase "serves at the pleasure of" and inserting the phrase "shall be appointed by" in its place.</text>
-              <codify:find-replace path="(D)" count="1" codified:doc="D.C. Code" codified:path="§47-355.07|(c)|(1)|(D)">
+              <codify:find-replace path="(D)" count="1" codified:doc="D.C. Code" codified:path="§47-355.07|(c)|(1)">
                 <find>serves at the pleasure of</find>
                 <replace>shall be appointed by</replace>
               </codify:find-replace>
@@ -10106,7 +10106,7 @@
               <para>
                 <num>(h-1)</num>
                 <para>
-                  <codify:replace path="§47-1806.02|(h-1)|(1)" codified:doc="D.C. Code" codified:path="§47-1806.02|(h-1)|(1)"/>
+                  <codify:replace path="§47-1806.02|(h-1)|(1)" codified:doc="D.C. Code" codified:path="§47-1806.02"/>
                   <num>(1)</num>
                   <text>For taxable years beginning after December 31, 2014, the amount of the personal exemption otherwise allowable for the taxable year in the case of an individual whose adjusted gross income exceeds $150,000 shall be reduced by 2% for every $2,500 (or fraction thereof) by which the taxpayer's adjusted gross income for the taxable year exceeds $150,000.</text>
                 </para>

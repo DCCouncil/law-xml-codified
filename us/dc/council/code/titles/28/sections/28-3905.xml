@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>28-3905</num>
   <heading>Complaint procedures.</heading>
   <para>
     <num>(a)</num>
-    <text>A case is begun by filing with the Department a complaint plainly describing a trade practice and stating the complainant’s (and, if different, the consumer’s) name and address, the name and address (if known) of the respondent, and such other information as the Director may require. The complaint must be in or reduced by the Director to writing. The filing of a complaint with the Department shall toll the periods for limitation of time for bringing an action as set out in section 12-301 until the complaint has been resolved through an administrative order, consent decree, or dismissal in accordance with this section or until an opportunity to arbitrate has been provided in <cite path="50|5">Chapter 5 of Title 50</cite>.</text>
+    <text>An investigation shall begin by filing with the Department a complaint plainly describing a trade practice and stating the complainant's, and if different, the consumer's name, mailing address, and electronic mail address, and the respondent's name, mailing address, and electronic mail address, if known, and such other information the Director may require. The complaint shall be in, or reduced by the Director to, writing.  The filing of a complaint with the Department shall toll the periods for limitation of time for bringing an action as set forth in <cite path="§12-301">§ 12-301</cite> until the complaint has been resolved through a final order issued by the Office of Administrative Hearings, consent order, or settlement agreement.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -22,200 +23,138 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>The Director may, in his or her discretion, decline to prosecute certain cases as necessary to manage the Department’s caseload and control program costs.</text>
+      <text>The Director may, in their discretion, decline to investigate, in a whole or in part, a complaint. If the Director declines to investigate, in a whole or in part, a complaint, the Director shall notify the complainant, in writing, of the determination.</text>
     </para>
-  </para>
-  <para>
-    <num>(b-1)</num>
-    <text>In carrying out an investigation and determination pursuant to subsection (b) of this section, the Director shall consult the respondent and such other available sources of information, and make such other efforts, as are appropriate and necessary to carry out such duties.</text>
   </para>
   <para>
     <num>(c)</num>
-    <text>If at any time the Director finds that the trade practice complained of may, in whole or in part, be a violation of law other than a law of the District of Columbia or a law within the jurisdiction of the Department, the Director may in writing so inform the complainant, respondent and officials of the District, the United States, or other jurisdiction, who would properly enforce such law.</text>
+    <text>In carrying out an investigation and determination pursuant to subsection (b) of this section, the Director shall consult the respondent and such other available sources of information, and make such other efforts, as appropriate and necessary, to carry out such duties.</text>
   </para>
   <para>
     <num>(d)</num>
-    <text>The Director shall determine that there are, or are not, reasonable grounds to believe that a trade practice, in violation of a law of the District of Columbia within the jurisdiction of the Department, has occurred in any part or all of the case. The Director may find that there are not such reasonable grounds for any of the following reasons:</text>
-    <para>
-      <num>(1)</num>
-      <text>any violation of law which may have occurred is of a law not of the District of Columbia or not within the jurisdiction of the Department, or occurred more than three years prior to the filing of the complaint;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>in case paragraph (1) of this subsection does not apply, no trade practice occurred in violation of any law of the District;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>the respondent cannot be identified or located, or would not be subject to the personal jurisdiction of a District of Columbia court;</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>the complainant, to the Director’s knowledge, no longer seeks redress in the case;</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>the complainant and respondent, to the Director’s knowledge, have themselves reached an agreement which settles the case; or</text>
-    </para>
-    <para>
-      <num>(6)</num>
-      <text>the complainant can no longer be located.</text>
-    </para>
-  </para>
-  <para>
-    <num>(d-1)</num>
-    <text>The Director may dismiss any part or all of a case to which one or more of the reasons stated in subsection (d) of this section apply. The Director shall inform all parties in writing of the determination, and, if any part or all of the case is dismissed, shall specify which of the reasons in this subsection applies to which part of the case, and such other detail as is necessary to explain the dismissal.</text>
+    <text>If at any time the Director finds that the trade practice complained of may, in whole or in part, be a violation of law other than a law of the District of Columbia or a law within the jurisdiction of the Department, the Director may in writing so inform the complainant, respondent, and officials of the District, the United States, or other jurisdiction, who would properly enforce such law.</text>
   </para>
   <para>
     <num>(e)</num>
-    <text>The Director may attempt to settle, in accordance with subsection (h) of this section, each case for which reasonable grounds are found in accordance with subsection (d-1) of this section. After the Director’s determination as to whether the complaint is within the Department’s jurisdiction, in accordance with subsection (d-1) of this section, the Director shall:</text>
+    <text>The Director shall determine that there are, or are not, reasonable grounds to believe that a trade practice, in violation of a law of the District of Columbia within the jurisdiction of the Department, has occurred in any part or all of the case. The Director may find that there are not such reasonable grounds for any of the following reasons:</text>
     <para>
       <num>(1)</num>
-      <text>effect a consent decree;</text>
+      <text>Any violation of law which may have occurred is of a law not of the District of Columbia or not within the jurisdiction of the Department, or occurred more than 3 years prior to filing of the complaint;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>dismiss the case in accordance with subsection (h)(2) of this section;</text>
+      <text>In case of paragraph (1) of this subsection does not apply, no trade practice occurred in violation of any law of the District;</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>through the Chief of the Office of Compliance present to the Office of Adjudication, with copies to all parties, a brief and plain statement of each trade practice that occurred in violation of District law, the law the trade practice violates, and the relief sought from the Office of Adjudication for violation; or</text>
+      <text>The respondent cannot be identified or located, or would not be subject to the personal jurisdiction of the District of Columbia court;</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>notify all parties of another action taken, with the reasons therefor stated in detail and supported by fact. Reasons may include:</text>
-      <para>
-        <num>(A)</num>
-        <text>any reason listed in subsections (d)(1) through (d)(6) of this section; and</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>that the presentation of a charge to the Office of Adjudication would not serve the purposes of this chapter.</text>
-      </para>
+      <text>The complainant, to the Director's knowledge, no longer seeks redress in the case;</text>
     </para>
     <para>
       <num>(5)</num>
-      <text>Repealed.</text>
+      <text>The complainant and respondent, to the Director's knowledge, have themselves reached an agreement which settles the case; or</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The complainant can no longer be located.</text>
     </para>
   </para>
   <para>
     <num>(f)</num>
-    <text>When the case is transmitted to the Office of Adjudication, the Chief of the Office of Compliance shall sign, and serve the respondent, the Department’s summons to answer or appear before the Office of Adjudication. Not less than 15 nor more than 90 days after such transmittal, the case shall be heard. The case shall proceed under section 10 of the District of Columbia Administrative Procedure Act (section 2-509). The Office of Adjudication may, without delaying its hearing or decision, attempt to settle the case pursuant to subsection (h) of this section, and has discretion to permit any stipulation or consent decree the parties agree to. The Director shall be a party on behalf of the complainant. Applications to intervene shall be decided as may be proper or required by law or rule. Reasonable discovery shall be freely allowed. Any finding or decision may be modified or set aside, in whole or part, before a notice of appeal is filed in the case, or the time to so file has run out.</text>
+    <text>The Director may reject and dismiss any part of a complaint to which one or more of the reasons stated in subsection (e) of this section apply. The Director shall inform all parties in writing of the determination, and, if any part or all of the complaint is rejected and dismissed, shall specify which reason in subsection (e) of this section apply to which part of the complaint, and such other detail as is necessary to explain the rejection and dismissal.</text>
   </para>
   <para>
     <num>(g)</num>
-    <text>If, after hearing the evidence, the Office of Adjudication decides a trade practice occurred in which the respondent violated a law of the District of Columbia within the jurisdiction of the Department, such Office of Adjudication shall issue an order which:</text>
     <para>
       <num>(1)</num>
-      <text>shall require the respondent to cease and desist from such conduct;</text>
+      <text>The Director, at any time, may attempt to settle a complaint for which reasonable grounds are found in accordance with subsection (e) of this section.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>shall, if such Office of Adjudication also decides that the consumer has been injured by the trade practice, order redress through contract damages, restitution for money, time, property or other value received from the consumer by the respondent, or through rescission, reformation, repair, replacement, or other just method;</text>
+      <text>The Department shall administer the settlement proceedings in a manner determined by the Director or their designee. All settlement proceedings shall be informal and include all interested parties and such representative as the parties may choose to represent them.  Such proceedings shall be private and confidential, and nothing said or done, except a consent decree or settlement agreement, shall be made public or introduced into the record of a court of competent jurisdiction by the Department or any party unless the parties jointly agree thereto in writing. The representative of the Department may call settlement conferences.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>shall state the number of trade practices the respondent performed in violation of law;</text>
+      <text>For persistent and unreasonable failure by the complainant to attend such settlement conferences or to take part in other settlement proceedings, at the discretion of the Director, they or their designee may dismiss the complaint.</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>shall, absent good cause found by the Office of Adjudication, require the respondent to pay the Department its costs for investigation, negotiation, and hearing;</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>may include such other findings, stipulations, conditions, directives, and remedies including punitive damages, treble damages, or reasonable attorney’s fees, as are reasonable and necessary to identify, correct, or prevent the conduct which violated District law; and</text>
-    </para>
-    <para>
-      <num>(6)</num>
-      <text>may be based, in whole or part, upon a violation of a law establishing or regulating a type of business, occupational or professional license or permit, and may refer the case for further proceedings to an appropriate board or commission, but may not suspend or revoke a license or permit if there is a board or commission which oversees the specific type of license or permit.</text>
+      <text>A consent decree or settlement agreement described in paragraph (1) of this subsection may only be modified by a joint agreement between the Department, the complainant, and respondent.</text>
     </para>
   </para>
   <para>
     <num>(h)</num>
     <para>
       <num>(1)</num>
-      <text>At any time after reasonable grounds are found in accordance with subsection (d) of this section, the respondent, the Department (represented by (i) the Director prior to transmittal to the Office of Adjudication and after an order issued pursuant to subsection (f) of this section has been appealed, and (ii) the Office of Adjudication after transmittal to the Office of Adjudication and prior to such appeal), and the complainant, may agree to settle all or part of the case by a written consent decree which may:</text>
-      <para>
-        <num>(A)</num>
-        <text>include any provision described in subsection (g)(2) through (6) of this section;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>not contain an assertion that the respondent has violated a law;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>contain an assurance that the respondent will refrain from a trade practice;</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>bar the Department from further action in the case, or a part thereof; or</text>
-      </para>
-      <para>
-        <num>(E)</num>
-        <text>contain such other provisions or considerations as the parties agree to.</text>
-      </para>
+      <text>If complainant and the respondent are unable to reach a settlement in accordance with subsection (g) of this section, and the Director has determined that there are reasonable grounds that there is a trade practice that occurred in violation of District law, the Department shall impose a civil fine, penalty, or fee in accordance with subsection (i) of this section.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The representative of the Department shall administer the settlement proceedings, and may utilize the good offices of the Advisory Committee on Consumer Protection. All settlement proceedings shall be informal and include all interested parties and such representatives as the parties may choose to represent them. Such proceedings shall be private, and nothing said or done, except a consent decree, shall be made public by the Department, any party, or the Advisory Committee, unless the parties agree thereto in writing. The representative of the Department may call settlement conferences. For persistent and unreasonable failure by the complainant to attend such conferences or to take part in other settlement proceedings, the Director, prior to transmittal to the Office of Adjudication, may dismiss the case.</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>A consent decree described in paragraph (1) of this subsection may be modified by agreement of the Department, complainant and respondent.</text>
+      <text>Appeals of a civil fine, penalty, or fee imposed by the Director pursuant to paragraph (1) of this subsection shall be in accordance with <cite path="2|18A">Chapter 18A of Title 2</cite>.</text>
     </para>
   </para>
   <para>
     <num>(i)</num>
     <para>
       <num>(1)</num>
-      <text>An aggrieved party may appeal to the District of Columbia Court of Appeals after:</text>
-      <para>
-        <num>(A)</num>
-        <text>the Office of Adjudication decides a case pursuant to subsection (f) of this section;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>all parts of a case have been dismissed by operation of subsection (d) or (e) of this section; or</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>the Director dismisses an entire case in accordance with subsection (h)(2) of this section.</text>
-      </para>
-    </para>
-    <para>
-      <num>(1A)</num>
-      <text>Such appeals shall be conducted in accordance with the procedures and standards of section 11 of the District of Columbia Administrative Procedure Act (section 2-510), and take into account the procedural duties placed upon the Department in this section and all actions taken by the Department in the case.</text>
+      <text>Civil fines, penalties, and fees may be imposed for a violation of <cite path="28|39">this chapter</cite> pursuant to <cite path="2|18">Chapter 18 of Title 2</cite>.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>An aggrieved party may appeal any ruling of the Office of Adjudication under subsection (j) of this section to the Superior Court of the District of Columbia.</text>
+      <text>A violation of <cite path="28|39">this chapter</cite> shall constitute a Class I infraction pursuant to § 3200.1(a) of Title 16 of the District of Columbia Municipal Regulations (16 DCMR § 3200.1(a)).</text>
     </para>
     <para>
       <num>(3)</num>
-      <para>
-        <num>(A)</num>
-        <text>Any person found to have executed a trade practice in violation of a law of the District within the jurisdiction of the Department may be liable for a civil penalty not exceeding $1,000 for each failure to adhere to a provision of an order described in subsection (f), (g), or (j) of this section, or a consent decree described in subsection (h) of this section.</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>The Department, the complainant, or the respondent may sue in the Superior Court of the District of Columbia for a remedy, enforcement, or assessment or collection of a civil penalty, when any violation, or failure to adhere to a provision of a consent decree described in subsection (h) of this section, or an order described in subsection (f), (g), or (j) of this section, has occurred. The Department shall sue in that Court for assessment of a civil penalty when an order described in subsection (g) of this section has been issued and become final. A failure by the Department or any person to file suit or prosecute under this subparagraph in regard to any provision or violation of a provision of any consent decree or order, shall not constitute a waiver of such provision or any right under such provision. The Court shall levy the appropriate civil penalties, and may order, if supported by evidence, temporary, preliminary, or permanent injunctions, damages, treble damages, reasonable attorney’s fees, consumer redress, or other remedy. The Court may set aside the final order if the Court determines that the Department of Licensing and Consumer Protection lacked jurisdiction over the respondent or that the complaint was frivolous. If, after considering an application to set aside an order of the Department of Licensing and Consumer Protection, the Court determines that the application was frivolous or that the Department of Licensing and Consumer Protection lacked jurisdiction, the Court shall award reasonable attorney’s fees.</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>Application to the Court to enforce an order shall be made at no cost to the District of Columbia or the complainant.</text>
-      </para>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>The Attorney General for the District of Columbia shall represent the Department in all proceedings described in this subsection.</text>
+      <text>Beginning on January 1, 2027, a fine amount for a violation of <cite path="28|39">this chapter</cite>, as set forth in § 3201.1 of Title 16 of the District of Columbia Municipal Regulations (16 DCMR § 3201.1), shall be adjusted according to the most recent Consumer Price Index for All Urban Consumers in the Washington Metropolitan Statistical area, as published by the United States Bureau of Labor Statistics, and shall be posted in the District of Columbia Register on or after January 1 of every year thereafter.</text>
     </para>
   </para>
   <para>
     <num>(j)</num>
-    <text>If, at any time before notice of appeal from a decision made according to subsection (f) of this section is filed or the time to so file has run out, the Director believes that legal action is necessary to preserve the subject matter of the case, to prevent further injury to any party, or to enable the Department ultimately to order a full and fair remedy in the case, the Chief of the Office of Compliance shall present the matter to the Office of Adjudication, which may issue a cease and desist order to take effect immediately, or grant such other relief as will assure a just adjudication of the case, in accordance with such beliefs of the Director which are substantiated by evidence. The Office of Adjudication’s ruling may be appealed to court within 7 days of notice thereof on the Director, respondent, and complainant.</text>
+    <para>
+      <num>(1)</num>
+      <text>After the Director's determination as to whether the complaint is within the Department's jurisdiction, in accordance with subsection (e-1) of this section, the Director shall:</text>
+      <para>
+        <num>(A)</num>
+        <text>Effect a consent decree pursuant to subsection (g) of this section;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Reject and dismiss the complaint in accordance with subsection (f) of this section; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Adhere to notification procedures outlined in <cite path="2|18">Chapter 18 of Title 2</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>When the case is transmitted to the Office of Administrative Hearings, the Office of Enforcement shall sign and serve the respondent with a copy of the Notice of Infraction. The case shall proceed under <cite path="§2-509">§ 2-509</cite>. The Director shall be a party on behalf of the complainant. Applications to intervene shall be decided as may be proper or required by law or rule. Reasonable discovery shall be freely allowed. Any finding or decision may be modified or set aside, in whole or part, before a notice of appeal is filed in the case, or the time to so file has run out.</text>
+    </para>
   </para>
   <para>
     <num>(k)</num>
+    <para>
+      <num>(1)</num>
+      <text>The Department, the complainant, or the respondent may file a complaint in the Superior Court of the District of Columbia ("Court") for a remedy, enforcement, or assessment or collection of a civil penalty, when any violation or failure to adhere to a provision of a consent decree described in subsection (g) of this section, or a final order from the Office of Administrative Hearings has occurred. The Department shall file a complaint in the Court for assessment of a civil penalty when an order has been issued and become final. A failure by the Department or any person to file a complaint or prosecute under this subparagraph in regard to any provision or violation of a provision of any consent decree or order, shall not constitute a waiver of such provision or any right under such provision. The Court shall levy the appropriate civil penalties, and may order, if supported by evidence, a temporary, preliminary, or permanent injunction, damages, treble damages, reasonable attorney's fees, consumer redress, or other remedy. The Court may set aside the final order if the Court determines that the Department lacked jurisdiction over the respondent or that the complaint was frivolous. If, after considering an application to set aside an order of the Department, the Court determines that the application was frivolous or that the Department lacked jurisdiction, the Court shall award reasonable attorney's fees.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Application to the Court to enforce an order shall be made at no cost to the District of Columbia or the complainant.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The Attorney General for the District of Columbia shall represent the Department in all proceedings described in this subsection.</text>
+    </para>
+  </para>
+  <para>
+    <num>(l)</num>
+    <text>If, at any time before notice of appeal of a final order issued by the Office of Administrative Hearings in accordance with <cite path="2|18">Chapter 18 of Title 2</cite> is filed or the time to so file has run out, the Director believes that legal action is necessary to preserve the subject matter of the case, to prevent further injury to any party, or to enable the Department ultimately to order a full and fair remedy in the case, the Department shall present the matter to the Office of Administrative Hearings, which may issue a cease and desist order to take effect immediately, or grant such other relief as will assure a just adjudication of the case, in accordance with such beliefs of the Director which are substantiated by evidence. Any person aggrieved by an order from the Office of Administrative Hearings may appeal in accordance with <cite path="2|18A">Chapter 18A of Title 2</cite>.</text>
+  </para>
+  <para>
+    <num>(m)</num>
     <para>
       <num>(1)</num>
       <para>
@@ -224,11 +163,11 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>An individual may, on behalf of that individual, or on behalf of both the individual and the general public, bring an action seeking relief from the use of a trade practice in violation of a law of the District when that trade practice involves consumer goods or services that the individual purchased or received in order to test or evaluate qualities pertaining to use for personal, household, or family purposes.</text>
+        <text>An individual may, on behalf of that individual, or on behalf of both the individual and the general public, bring an action seeking relief from the use of a trade practice in violation of District law or regulations when that trade practice involves consumer goods or services that the individual purchased or received in order to test or evaluate qualities pertaining to use for personal, household, family, or charitable purposes.</text>
       </para>
       <para>
         <num>(C)</num>
-        <text>A nonprofit organization may, on behalf of itself or any of its members, or on any such behalf and on behalf of the general public, bring an action seeking relief from the use of a trade practice in violation of a law of the District, including a violation involving consumer goods or services that the organization purchased or received in order to test or evaluate qualities pertaining to use for personal, household, or family purposes.</text>
+        <text>A nonprofit organization may, on behalf of itself or any of its members, or on any such behalf and on behalf of the general public, bring an action seeking relief from the use of a trade practice in violation of District law or regulations, including a violation involving consumer goods or services that the organization purchased or received in order to test or evaluate qualities pertaining to use for personal, household, family, or charitable purposes.</text>
       </para>
       <para>
         <num>(D)</num>
@@ -238,27 +177,27 @@
         </para>
         <para>
           <num>(ii)</num>
-          <text>An action brought under sub-subparagraph (i) of this subparagraph shall be dismissed if the court determines that the public interest organization does not have sufficient nexus to the interests involved of the consumer or class to adequately represent those interests.</text>
+          <text>An action brought under sub-subparagraph (i) of this subparagraph shall be dismissed if the Court determines that the public interest organization does not have a sufficient nexus to the interests involved of the consumer or class to adequately represent those interests.</text>
         </para>
       </para>
     </para>
     <para>
       <num>(2)</num>
-      <text>Any claim under this chapter shall be brought in the Superior Court of the District of Columbia and may recover or obtain the following remedies:</text>
+      <text>Any claim under <cite path="28|39">this chapter</cite> shall be brought in the Superior Court of the District of Columbia and may recover or obtain the following remedies:</text>
       <para>
         <num>(A)</num>
         <para>
           <num>(i)</num>
-          <text>Treble damages, or $1,500 per violation, whichever is greater, payable to the consumer;</text>
+          <text>Treble damages, or $3,000 per violation, whichever is greater, which shall be adjusted for inflation using the greater of either 3% annually or the percentage increase in the most recent Consumer Price Index for All Urban Consumers in the Washington Metropolitan Statistical area, as published by the United States Bureau of Labor Statistics; and</text>
         </para>
         <para>
           <num>(ii)</num>
-          <text>Notwithstanding sub-subparagraph (i) of this subparagraph, for a violation of <cite path="§28-3904|(kk)">§ 28-3904(kk)</cite> a consumer may recover or obtain actual damages. Actual damages shall not include dignitary damages, including pain and suffering.</text>
+          <text>Notwithstanding sub-subparagraph (i) of this subparagraph, for a violation of <cite path="§28-3904|(b)|(14)">§ 28-3904(b)(14)</cite>, a consumer may recover or obtain actual damages, which shall not include dignitary damages, including pain and suffering. This exclusion shall not limit the availability of dignitary damages for violations of any other provision of this section;</text>
         </para>
       </para>
       <para>
         <num>(B)</num>
-        <text>Reasonable attorney’s fees;</text>
+        <text>Reasonable attorney's fees;</text>
       </para>
       <para>
         <num>(C)</num>
@@ -270,7 +209,7 @@
       </para>
       <para>
         <num>(E)</num>
-        <text>In representative actions, additional relief as may be necessary to restore to the consumer money or property, real or personal, which may have been acquired by means of the unlawful trade practice; or</text>
+        <text>In representative actions, additional relief as may be necessary to refund to the consumer money, or restore to the consumer money or property, real or personal, which may have been acquired by means of the unlawful trade practice; or</text>
       </para>
       <para>
         <num>(F)</num>
@@ -279,25 +218,21 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>Any written decision made pursuant to subsection (f) of this section is admissible as prima facie evidence of the facts stated therein.</text>
+      <text>Any prevailing consumer under <cite path="28|39">this chapter</cite> shall also recover reasonable attorney's fees and costs to be paid by the defendant in accordance with the method cited in <cite path="§32-1308|(b)">§ 32-1308(b)</cite>, except that attorney's fees shall not be considered costs.</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>If a merchant files in any court a suit seeking to collect a debt arising out of a trade practice from which has also arisen a complaint filed with the Department by the defendant in the suit either before or after the suit was filed, the court shall dismiss the suit without prejudice, or remand it to the Department.</text>
+      <text>An action brought by a person under this subsection against a nonprofit organization shall be based on a dispute arising from a trade practice and not based solely on membership in such organization, membership services, training or credentialing activities, sale of publications of the nonprofit organization, medical or legal malpractice, or other similar activity.</text>
     </para>
     <para>
       <num>(5)</num>
-      <text>An action brought by a person under this subsection against a nonprofit organization shall not be based on membership in such organization, membership services, training or credentialing activities, sale of publications of the nonprofit organization, medical or legal malpractice, or any other transaction, interaction, or dispute not arising from the purchase or sale of consumer goods or services in the ordinary course of business.</text>
-    </para>
-    <para>
-      <num>(6)</num>
       <text>The right of action established by this subsection shall apply to trade practices arising from landlord-tenant relations.</text>
     </para>
     <para>
-      <num>(7)</num>
+      <num>(6)</num>
       <para>
         <num>(A)</num>
-        <text>Commencement of an action by the Attorney General under <cite path="§28-3909">§ 28-3909</cite>, including the maintenance of an action previously commenced and pending as of [October 1, 2021], shall serve to stay until the resolution of the Attorney General's action any civil action that includes any claim that is:</text>
+        <text>Commencement of an action by the Attorney General under <cite path="§28-3909">§ 28-3909</cite>, including the maintenance of an action previously commenced and pending as [of] [September 26, 2026], shall serve to stay until the resolution of the Attorney General's action in any civil action that includes any claim that is:</text>
         <para>
           <num>(i)</num>
           <text>Made pursuant to this subsection by a public interest organization or on behalf of the general public; and</text>
@@ -309,65 +244,35 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>A plaintiff that is a public interest organization or is acting on behalf of the general public shall provide notice to the Office of the Attorney General within 10 days of the filing of an action that includes a claim made under this subsection.</text>
+        <text>A plaintiff that is a public interest organization or is acting on behalf of the general public shall provide notice to the Office of the Attorney General within 10 business days after the filing of an action that includes a claim under this subsection.</text>
       </para>
     </para>
-  </para>
-  <para>
-    <num>(l)</num>
-    <text>The Director and Office of Adjudication may use any power granted to the Department in section 28-3903, as each reasonably deems will aid in carrying out the functions assigned to each in this section. Each, while holding the primary responsibility of the Department for decision in a certain case, may join such case with others then before the Department. No case may be disposed of in a manner not expressly authorized in this section. Every complaint case filed with the Department and within its jurisdiction shall be decided in accordance with the procedures and sanctions of this section, notwithstanding that a given trade practice, at issue in the case, may be governed in whole or in part by another law which has different enforcement procedures and sanctions.</text>
-  </para>
-  <para>
-    <num>(m)</num>
     <para>
-      <num>(1)</num>
-      <text>Whenever requested, the Department will make available to the complainant and respondent an explanation, and any other information helpful in understanding, the provisions of any consent decree to which the Department agrees, and any order or decision which the Department makes.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The Director shall maintain a public index for all the cases on which the Department has made a final action or a consent decree, organized by:</text>
-      <para>
-        <num>(A)</num>
-        <text>name of complainant;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>name of respondent;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>industry of the merchant involved;</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>nature of the violation of District law alleged or found to exist (for example, subsection of section 28-3904 involved, or section of a licensing law involved);</text>
-      </para>
-      <para>
-        <num>(E)</num>
-        <text>final disposition.</text>
-      </para>
+      <num>(7)</num>
+      <text>Nothing in <cite path="28|39">this chapter</cite> shall be construed to prevent a merchant from asserting, and the Court from finding, that an action by a consumer was groundless and brought in bad faith or brought for the purpose of harassment and, in such cases, the Court shall award to the defendant reasonable and necessary attorney's fees in defending the action plus court costs.</text>
     </para>
   </para>
   <para>
     <num>(n)</num>
-    <text>There shall be established a Consumer Protection Education Fund (“Fund”). All monies awarded to or paid to the Department by operation of this section, including final judgements, consent decrees, or settlements reduced to final judgements, shall be paid into the Fund in order to further the purpose of this chapter as enumerated in <cite path="§28-3901">§ 28-3901</cite>.</text>
+    <text>The Director may use any power granted to the Department in <cite path="§28-3903">§ 28-3903</cite>, as each reasonably deems will aid in carrying out the functions assigned to each in this section. Each, while holding the primary responsibility of the Department for decision in a certain case, may join such case with others then before the Department. No case may be disposed of in a manner not expressly authorized in this section. Every complaint filed with the Department and within its jurisdiction shall be decided in accordance with the procedures and sanctions of this section, notwithstanding that a given trade practice, at issue in the case, may be governed in whole or in part by another law which has different enforcement procedures and sanctions.</text>
   </para>
   <para>
     <num>(o)</num>
-    <text>Every complaint case that is before the Department in accordance with this section shall proceed in confidence, except for hearings and meetings before the Office of Adjudication, until the Department makes a final action or a consent decree.</text>
+    <text>Whenever requested, the Department will make available to the complainant and respondent an explanation, and any other information helpful in understanding, the provisions of any consent decree to which the Department agrees.</text>
   </para>
   <para>
     <num>(p)</num>
-    <text>The Director may file a complaint in accordance with subsection (a) of this section, on behalf of one or more consumers or as complainant, based on evidence and information gathered by the Department in carrying out this chapter. Persons not parties to but directly or indirectly intended as beneficiaries of an order described in subsection (f), (g), or (j) of this section, or a consent decree described in subsection (h) of this section, arising out of a complaint filed by the Director, may enforce such order or decree in the manner provided in subsection (i)(3)(B) of this section.</text>
+    <text>There shall be established a Consumer Protection Education Fund ("Fund"). All fines, fees, and penalties shall be paid into the Fund in order to further the purpose of <cite path="28|39">this chapter</cite> as enumerated in <cite path="§28-3901">§ 28-3901</cite>.</text>
   </para>
   <para>
     <num>(q)</num>
-    <text>At any hearing pursuant to subsection (f) or (j) of this section, a witness has the right to be advised by counsel present at such hearing. In any process under this section, the complainant and respondent may have legal or other counsel for representation and advice.</text>
+    <text>Every complaint case that is before the Department in accordance with this section shall proceed with confidence, except for hearings and meetings before the Office of Administrative Hearings, until the Department issues a consent decree or settlement agreement or the Office of Administrative Hearings issues a final order.</text>
   </para>
   <para>
     <num>(r)</num>
-    <text>All cases for which complaints were filed before March 5, 1981, may be presented to and heard by the Office of Adjudication notwithstanding the time limits previously provided in section 28-3905(d), 28-3905(e), and 28-3905(f) for the investigation and transmittal of cases to the Office of Adjudication, and for the hearing of cases by the Office of Adjudication.</text>
+    <text>The Director may file a complaint in accordance with subsection (a) of this section, on behalf of one or more consumers, or as complainant, based on evidence and information gathered by the Department in carrying out <cite path="28|39">this chapter</cite>. Persons not parties to but directly or indirectly intended as beneficiaries of an order described in this section, a consent decree, or a settlement agreement, arising out of a complaint filed by the Director, may enforce such order or decree in the manner provided in subsection (j)(1) of this section.</text>
   </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§28-3905" codified:display="Note" codified:doc="D.C. Code" codified:path="§28-3905">Applicability of <cite doc="D.C. Law 26-187" path="">D.C. Law 26-187</cite>: <cite doc="D.C. Law 26-187" path="§6">§ 6 of D.C. Law 26-187</cite> provided that the amendment to this section by <cite doc="D.C. Law 26-187" path="§4|(g)">§ 4(g) of D.C. Law 26-187</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 1-76" type="History">July 22, 1976, D.C. Law 1-76, § 6, 23 DCR 1185</annotation>
     <annotation doc="D.C. Law 2-8" type="History">June 11, 1977, D.C. Law 2-8, § 4(b), 24 DCR 726</annotation>
@@ -407,9 +312,7 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§1042" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§1042">§ 1042 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
     <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§1042" target-path="§28-3905" type="History" display="false"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§1042" target-path="§28-3905|(k)" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 26-187" path="§4|(g)" codified:display="Note" app="2026-09-26" eff="2026-09-26">Applicability of <cite doc="D.C. Law 26-187" path="">D.C. Law 26-187</cite>: <cite doc="D.C. Law 26-187" path="§6">§ 6 of D.C. Law 26-187</cite> provided that the amendment to this section by <cite doc="D.C. Law 26-187" path="§4|(g)">§ 4(g) of D.C. Law 26-187</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2026-09-26" doc="D.C. Law 26-187" eff="2026-09-26" path="§6|(a)" target-path="§4|(g)" type="History" display="false"/>
     <annotation app="2026-09-26" doc="D.C. Law 26-187" eff="2026-09-26" path="§4|(g)" target-path="§28-3905" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 26-187" eff="2026-09-26" path="§4|(g)" target-path="§28-3905" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 26-187" path="§4|(g)" codified:display="Note" app="2026-09-26" eff="2026-09-26">Applicability of <cite doc="D.C. Law 26-187" path="">D.C. Law 26-187</cite>: <cite doc="D.C. Law 26-187" path="§6">§ 6 of D.C. Law 26-187</cite> provided that the amendment to this section by <cite doc="D.C. Law 26-187" path="§4|(g)">§ 4(g) of D.C. Law 26-187</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

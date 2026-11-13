@@ -80,12 +80,12 @@
         <text>New paragraphs (7A) and (7B) are added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(7)" num-value="[(8)]" codified:doc="D.C. Code" codified:path="§31-1601|[(8)]"/>
+            <codify:insert after="(7)" num-value="[(8)]" codified:doc="D.C. Code" codified:path="§31-1601|(8)"/>
             <num codify:value="[(8)]">(7A)</num>
             <text>"PrEP" means pre-exposure prophylaxis antiretroviral medication approved by the U.S. Food and Drug Administration ("FDA") used to prevent HIV in a person without HIV.</text>
           </para>
           <para>
-            <codify:insert after="[(8)]" num-value="[(9)]" codified:doc="D.C. Code" codified:path="§31-1601|[(9)]"/>
+            <codify:insert after="[(8)]" num-value="[(9)]" codified:doc="D.C. Code" codified:path="§31-1601|(9)"/>
             <num codify:value="[(9)]">(7B)</num>
             <text>"PEP" means post-exposure prophylaxis antiretroviral medication approved by the FDA used to prevent HIV in a person without HIV who may have been recently exposed to HIV.</text>
           </para>

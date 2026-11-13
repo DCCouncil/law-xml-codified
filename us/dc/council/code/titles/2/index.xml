@@ -1228,10 +1228,9 @@
       <container>
         <prefix>Part</prefix>
         <num>A</num>
-        <heading>Office of Motion Picture and Television Development. [Repealed]</heading>
+        <heading>Office of Motion Picture and Television Development.</heading>
         <xi:include href="./sections/2-1204.01.xml"/>
         <xi:include href="./sections/2-1204.02.xml"/>
-        <annotation app="2024-07-19" doc="D.C. Law 25-190" eff="2024-07-19" path="§10|(a)" target-path="2|12|II-A|A" type="History" display="false"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -1725,6 +1724,60 @@
           <xi:include href="./sections/2-1217.40l.xml"/>
           <xi:include href="./sections/2-1217.40m.xml"/>
           <xi:include href="./sections/2-1217.40n.xml"/>
+        </container>
+        <container>
+          <prefix>Subpart</prefix>
+          <num>11</num>
+          <heading>Northeast Heights.</heading>
+          <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="VII|E" target-path="2|12|IX|B" type="History" display="false"/>
+          <xi:include href="./sections/2-1217.40aa.xml"/>
+          <xi:include href="./sections/2-1217.40bb.xml"/>
+          <xi:include href="./sections/2-1217.40cc.xml"/>
+          <xi:include href="./sections/2-1217.40dd.xml"/>
+          <xi:include href="./sections/2-1217.40ee.xml"/>
+          <xi:include href="./sections/2-1217.40ff.xml"/>
+          <xi:include href="./sections/2-1217.40gg.xml"/>
+          <xi:include href="./sections/2-1217.40hh.xml"/>
+          <xi:include href="./sections/2-1217.40ii.xml"/>
+          <xi:include href="./sections/2-1217.40jj.xml"/>
+          <xi:include href="./sections/2-1217.40kk.xml"/>
+          <xi:include href="./sections/2-1217.40ll.xml"/>
+        </container>
+        <container>
+          <prefix>Subpart</prefix>
+          <num>12</num>
+          <heading>Bryant Street Phase 2.</heading>
+          <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="VII" target-path="2|12|IX|B" type="History" display="false"/>
+          <xi:include href="./sections/2-1217.40aaa.xml"/>
+          <xi:include href="./sections/2-1217.40bbb.xml"/>
+          <xi:include href="./sections/2-1217.40ccc.xml"/>
+          <xi:include href="./sections/2-1217.40ddd.xml"/>
+          <xi:include href="./sections/2-1217.40eee.xml"/>
+          <xi:include href="./sections/2-1217.40fff.xml"/>
+          <xi:include href="./sections/2-1217.40ggg.xml"/>
+          <xi:include href="./sections/2-1217.40hhh.xml"/>
+          <xi:include href="./sections/2-1217.40iii.xml"/>
+          <xi:include href="./sections/2-1217.40jjj.xml"/>
+          <xi:include href="./sections/2-1217.40kkk.xml"/>
+          <xi:include href="./sections/2-1217.40lll.xml"/>
+        </container>
+        <container>
+          <prefix>Subpart</prefix>
+          <num>13</num>
+          <heading>Frank D. Reeves Municipal Center.</heading>
+          <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="VII" target-path="2|12|IX|B" type="History" display="false"/>
+          <xi:include href="./sections/2-1217.40aaaa.xml"/>
+          <xi:include href="./sections/2-1217.40bbbb.xml"/>
+          <xi:include href="./sections/2-1217.40cccc.xml"/>
+          <xi:include href="./sections/2-1217.40dddd.xml"/>
+          <xi:include href="./sections/2-1217.40eeee.xml"/>
+          <xi:include href="./sections/2-1217.40ffff.xml"/>
+          <xi:include href="./sections/2-1217.40gggg.xml"/>
+          <xi:include href="./sections/2-1217.40hhhh.xml"/>
+          <xi:include href="./sections/2-1217.40iiii.xml"/>
+          <xi:include href="./sections/2-1217.40jjjj.xml"/>
+          <xi:include href="./sections/2-1217.40kkkk.xml"/>
+          <xi:include href="./sections/2-1217.40llll.xml"/>
         </container>
       </container>
       <container>

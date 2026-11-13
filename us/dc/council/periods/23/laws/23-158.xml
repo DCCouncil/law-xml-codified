@@ -959,7 +959,7 @@
       <text>Section 10a (D.C. Official Code § 50-2201.05a) is amended by adding a new subsection (b-2) to read as follows:</text>
       <include>
         <para>
-          <codify:insert path="§50-2201.05a" after="(b-1)" codified:doc="D.C. Code" codified:path="§50-2201.05a|(b-2)"/>
+          <codify:insert path="§50-2201.05a" after="(b-1)" codified:doc="D.C. Code" codified:path="§50-2201.05a"/>
           <num>(b-2)</num>
           <text>If a person fails to enroll in the Program within 30 days after notification by the Department of Motor Vehicles of the requirement that the person enroll in the Program, the person's license, permit, or privilege to drive in the District shall be revoked and the person's vehicle registration, if any, shall be suspended, until the person enters the Program. The period of time the person is required to enroll in the Program may be extended, pursuant to regulations, for failure to comply with the requirements of the Program.</text>
         </para>
@@ -1152,7 +1152,7 @@
       <codify:applicability doc="D.C. Law 23-158" path="§8|(a)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-1401.01|(a)|(1)|(B)|(i)"/>
       <codify:applicability doc="D.C. Law 23-158" path="§8|(b)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-1401.01d"/>
       <codify:applicability doc="D.C. Law 23-158" path="§8|(d)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.04e"/>
-      <codify:applicability doc="D.C. Law 23-158" path="§8|(e)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.05a|(b-2)"/>
+      <codify:applicability doc="D.C. Law 23-158" path="§8|(e)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.05a"/>
       <codify:applicability doc="D.C. Law 23-158" path="§9" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2209.02|(b)"/>
       <codify:applicability doc="D.C. Law 23-158" path="§12" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2651"/>
     </para>

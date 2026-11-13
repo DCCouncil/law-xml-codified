@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-3505.71</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on November 11, 2026.*
-      </text>
   <heading proof="needed">Rent payment reporting program.</heading>
   <para>
     <num>(a)</num>
@@ -89,17 +86,12 @@
   </para>
   <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§42-3505.55" expire="2026-08-13" codified:display="Note">For temporary (90 days) creation of § 42-3505.71, see <cite doc="D.C. Act 26-416" path="§2012|(b)|includes|V-C|541">§ 541 of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</codify:annotation>
   <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§42-3505.71" applicability="2026-08-13" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-3505.71">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-416" path="§2012|(b)|includes|V-C|541">§ 541 of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§42-3505.71" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-3505.71">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on November 11, 2026.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation doc="D.C. Law 6-10" type="History" path="§541" display="false">July 17, 1985, D.C. Law 6-10, § 541, 32 DCR 3089</annotation>
     <annotation doc="D.C. Law 6-10" type="History" path="§541">July 17, 1985, D.C. Law 6-10, § 541, 32 DCR 3089</annotation>
+    <annotation doc="D.C. Law 6-10" type="History" path="§541" display="false">July 17, 1985, D.C. Law 6-10, § 541, 32 DCR 3089</annotation>
     <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="II|B" target-path="42|35" type="History" display="false"/>
-    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2012|(b)" target-path="§42-3505.71" type="History" display="false"/>
     <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2012|(b)" prefix="as added" target-path="42|35|V-C" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§2012|(b)" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-416" path="§2012|(b)|includes|V-C|541">§ 541 of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2012|(b)" target-path="§42-3505.71" type="History" display="false"/>
   </annotations>
 </section>

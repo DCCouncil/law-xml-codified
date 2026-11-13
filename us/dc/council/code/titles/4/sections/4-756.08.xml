@@ -33,8 +33,13 @@
     <num>(c)</num>
     <text>The Mayor, pursuant to <cite path="2|5|I">subchapter I of Chapter 5 of Title 2</cite>, may issue rules to implement the provisions of this section.</text>
   </para>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-756.07" expire="2026-08-13" codified:display="Note">For temporary (90 days) creation of § 4-756.08, see <cite doc="D.C. Act 26-416" path="§5162|(c)|includes|31f">§ 31f of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-756.08" applicability="2026-08-13" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-756.08">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-416" path="§5162|(c)|includes|31f">§ 31f of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 16-35" type="History" path="§31f">Oct. 22, 2005, D.C. Law 16-35, §  31f</annotation>
+    <annotation doc="D.C. Law 16-35" type="History" path="§31f" display="false">Oct. 22, 2005, D.C. Law 16-35, §  31f</annotation>
     <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5162|(c)" prefix="as added" target-path="4|7A|VI" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§5162|(c)" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-416" path="§5162|(c)|includes|31f">§ 31f of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§5162|(c)" target-path="§4-756.08" type="History" display="false"/>
   </annotations>
 </section>

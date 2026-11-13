@@ -1093,14 +1093,14 @@
         <para>
           <num>(1)</num>
           <text>Subsection (a) is amended by striking the phrase "The Mayor or his or her designated agent" and inserting the phrase "Except as provided in subsection (a-1) of this section, the Mayor or his or her designated agent" in its place.</text>
-          <codify:find-replace path="(a)" find="The Mayor or his or her designated agent" replace="Except as provided in subsection (a-1) of this section, the Mayor or his or her designated agent" count="1" codified:doc="D.C. Code" codified:path="§50-2206.55|(a)"/>
+          <codify:find-replace path="(a)" find="The Mayor or his or her designated agent" replace="Except as provided in subsection (a-1) of this section, the Mayor or his or her designated agent" count="1" codified:doc="D.C. Code" codified:path="§50-2206.55"/>
         </para>
         <para>
           <num>(2)</num>
           <text>A new subsection (a-1) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§50-2206.55|(a-1)"/>
+              <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§50-2206.55"/>
               <num>(a-1)</num>
               <para>
                 <num>(1)</num>

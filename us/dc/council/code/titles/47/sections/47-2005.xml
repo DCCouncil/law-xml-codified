@@ -316,7 +316,7 @@
   </para>
   <para placeholder="Not Funded">
     <num>(41)</num>
-    <text>Not Funded; and</text>
+    <text>Not Funded;</text>
   </para>
   <para>
     <num>(42)</num>
@@ -333,8 +333,27 @@
       </para>
       <para>
         <num>(ii)</num>
-        <text>"Stadium" shall have the same meaning as set forth in <cite path="§47-2002.08|(a)|(2)">§ 47-2002.08(a)(2)</cite>.</text>
+        <text>"Stadium" shall have the same meaning as set forth in <cite path="§47-2002.08|(a)|(2)">§ 47-2002.08(a)(2)</cite>; and</text>
       </para>
+    </para>
+  </para>
+  <para>
+    <num>(43)</num>
+    <para>
+      <num>(A)</num>
+      <text>Sales by the District of, and charges and fees imposed by the District for, the service of parking a motor vehicle or trailer at a parking space on a street, avenue, road, highway, or other public space in the District under the jurisdiction and control of the Mayor pursuant to <cite path="§50-2603">§ 50-2603</cite>, including:</text>
+      <para>
+        <num>(i)</num>
+        <text>Such sales, charges, and fees that are paid through a person under contract with the District ( "parking payment contractor") to list, advertise, store, or process such sales, charges, and fees; and</text>
+      </para>
+      <para>
+        <num>(ii)</num>
+        <text>Transaction fees imposed by a parking payment contractor on a purchaser of such parking, pursuant to the parking payment contractor's contract with the District; and</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Sales of or charges for the service of parking, storing, or keeping a motor vehicle or trailer at a parking lot owned or operated by the Washington Metropolitan Area Transit Authority and located adjacent to a Washington Metropolitan Area Transit Authority passenger stop or station.</text>
     </para>
   </para>
   <annotations>
@@ -520,5 +539,10 @@
     <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="§18|(c)|(3)" target-path="§47-2005|(40)" type="History"/>
     <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="§18|(c)|(4)" target-path="§47-2005|(41)" type="History"/>
     <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="§18|(c)|(5)" target-path="§47-2005" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§7312|(a)|(3)|(A)" target-path="§47-2005|(41)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§7312|(a)|(3)|(B)" target-path="§47-2005|(42)|(B)|(ii)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§7312|(a)|(3)|(C)" target-path="§47-2005" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§7312|(a)|(3)" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§7312|(a)|(3)">§ 7312(a)(3) of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§7312|(a)|(3)" target-path="§47-2005" type="History" display="false"/>
   </annotations>
 </section>

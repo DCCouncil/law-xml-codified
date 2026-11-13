@@ -31,7 +31,7 @@
       <para codify:path="(i)|(4)">
         <num>(1)</num>
         <text>Subsection (i)(4) is amended by striking the phrase "Corporation Counsel" and inserting the phrase "Attorney General for the District of Columbia" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§28-3905|(i)|(4)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§28-3905">
           <find>Corporation Counsel</find>
           <replace>Attorney General for the District of Columbia</replace>
         </codify:find-replace>
@@ -41,7 +41,7 @@
         <text>Subsection (k) is amended by adding a new paragraph (6) to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§28-3905|(k)|(6)"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§28-3905"/>
             <num>(6)</num>
             <text>The right of action established by this subsection shall apply to trade practices arising from landlord-tenant relations.</text>
           </para>

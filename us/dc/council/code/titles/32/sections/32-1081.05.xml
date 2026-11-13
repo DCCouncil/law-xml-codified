@@ -1,17 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-1081.05</num>
   <heading proof="needed">Enforcement; rulemaking.</heading>
-  <reason>Not Funded</reason>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>The mayor shall enforce <cite path="32|10C">this chapter</cite> consistent with existing wage enforcement in the District.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The Mayor, pursuant to <cite path="2|5|I">subchapter I of Chapter 5 of Title 2</cite>, may issue rules as necessary to implement <cite path="32|10C">this chapter</cite>.</text>
+  </para>
+  <codify:annotation history="false" path="§32-1081.05" type="Editor's Notes" effective="true" codified:doc="D.C. Code" codified:path="§32-1081.05"><cite doc="D.C. Law 25-274" path="§7">Section 7 of D.C. Law 25-274</cite> provided that D.C. Law 25-274 shall apply 180 day after its applicability date.</codify:annotation>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 25-274" path="§6" codified:display="Note" codified:doc="D.C. Code" codified:path="§32-1081.05">Applicability of <cite doc="D.C. Law 25-274" path="">D.C. Law 25-274</cite>: <cite doc="D.C. Law 25-274" path="§8">§ 8 of D.C. Law 25-274</cite> provided that the creation of this section by <cite doc="D.C. Law 25-274" path="§6">§ 6 of D.C. Law 25-274</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="" target-path="32" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 25-274" path="§6" codified:display="Note" app="2025-03-07" eff="2025-03-07">Applicability of <cite doc="D.C. Law 25-274" path="">D.C. Law 25-274</cite>: <cite doc="D.C. Law 25-274" path="§8">§ 8 of D.C. Law 25-274</cite> provided that the creation of this section by <cite doc="D.C. Law 25-274" path="§6">§ 6 of D.C. Law 25-274</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="§6" target-path="§6" type="History"/>
-    <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="§8|(a)" target-path="§6" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-274" eff="2025-03-07" path="§6" target-path="32|10C" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="§6" target-path="32|10C" type="History"/>
+    <annotation history="false" path="§6" type="Editor's Notes" effective="true" app="2025-03-07" eff="2025-03-07" doc="D.C. Law 25-274"><cite doc="D.C. Law 25-274" path="§7">Section 7 of D.C. Law 25-274</cite> provided that D.C. Law 25-274 shall apply 180 day after its applicability date.</annotation>
     <annotation type="Applicability" doc="D.C. Law 25-274" path="§6" codified:display="Note" app="2025-03-07" eff="2025-03-07" display="false">Applicability of <cite doc="D.C. Law 25-274" path="">D.C. Law 25-274</cite>: <cite doc="D.C. Law 25-274" path="§8">§ 8 of D.C. Law 25-274</cite> provided that the creation of this section by <cite doc="D.C. Law 25-274" path="§6">§ 6 of D.C. Law 25-274</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="§6" target-path="§6" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-274" eff="2025-03-07" path="§6" target-path="§32-1081.05" type="History" display="false"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="§6" target-path="§32-1081.05" type="History" display="false"/>
   </annotations>
 </section>

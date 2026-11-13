@@ -87,13 +87,61 @@
       </para>
     </para>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(b-3)</num>
-    <text>Not Funded.</text>
+    <text>For residential leases beginning after October 1, 2025, a housing provider may:</text>
+    <para>
+      <num>(1)</num>
+      <text>, Require a prospective tenant to pay a refundable security deposit, subject to the requirements of section 217 and the provisions of 14 DCMR §§ 308-311, associated with the residence of common household pets in the rental unit; provided, that:</text>
+      <para>
+        <num>(A)</num>
+        <text>The pet security deposit authorized by this paragraph does not exceed 15% of the monthly rent, in addition to any security deposit otherwise authorized by law;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The pet security deposit shall be withheld only for compensation for damages directly caused by a common household pet that are not due to ordinary wear and tear;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The tenant shall be responsible for any damages in excess of ordinary wear and tear by the common household pet that exceed the total amount of the security deposit withheld by the landlord pursuant to subparagraph (A) of this paragraph and any other security deposit withheld by the landlord; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>No security deposit may be required for a service or assistance animal required by a tenant with a disability as a reasonable accommodation under local or federal law; and</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Require a tenant to pay an additional rent for common household pets; provided, that:</text>
+      <para>
+        <num>(A)</num>
+        <text>The amount of additional rent charged for each common household pet that is a dog may not exceed 1 percent of the first full month's rent charged to that tenant for the dwelling unit per common household pet;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The amount of additional rent charged for all other common household pets may not cumulatively exceed 1 percent of the first full month's rent charged to that tenant for the dwelling unit;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>No additional rent for common household pets may be required for a service or assistance animal required by a tenant with a disability as a reasonable accommodation under local or federal law;</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Unless otherwise prohibited by law, establish reasonable pet policies to ensure the safety and maintenance of the property, including limitations on the number of common household pets permissible in a dwelling unit.</text>
+    </para>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(b-4)</num>
-    <text>Not Funded.</text>
+    <text>A housing provider shall not:</text>
+    <para>
+      <num>(1)</num>
+      <text>For residential leases beginning after October 1, 2025, charge an additional security deposit, fee, or additional rent associated with the residence of common household pets except as authorized by subsection (b-3) of this section; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>For residential leases beginning after October 1, 2026, impose restrictions on tenancy or impose differential fees or rent charged associated with the residence of a common household pet based on the pet's breed, size, or weight.</text>
+    </para>
   </para>
   <para>
     <num>(c)</num>
@@ -295,8 +343,7 @@
     <annotation app="2023-11-28" doc="D.C. Law 25-65" eff="2023-11-28" path="§2|(d)|(2)" target-path="§42-3505.10" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 25-308" path="§2|(c)|(2)" codified:display="Note" app="2025-03-21" eff="2025-03-21">Applicability of <cite doc="D.C. Law 25-308" path="">D.C. Law 25-308</cite>: <cite doc="D.C. Law 25-308" path="§4">§ 4 of D.C. Law 25-308</cite> provided that the amendment to this section by <cite doc="D.C. Law 25-308" path="§2|(c)|(2)">§ 2(c)(2) of D.C. Law 25-308</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-03-21" doc="D.C. Law 25-308" eff="2025-03-21" path="§2|(c)|(2)" target-path="§2|(c)" type="History"/>
-    <annotation app="2025-03-21" doc="D.C. Law 25-308" eff="2025-03-21" path="§4|(a)" target-path="§2|(c)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-308" eff="2025-03-21" path="§2|(c)|(2)" target-path="§42-3505.10" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-308" eff="2025-03-21" path="§2|(c)|(2)" target-path="§42-3505.10" type="History"/>
     <annotation app="2026-08-14" doc="D.C. Law 26-156" eff="2026-08-14" path="§2|(b)|(1)" target-path="§42-3505.10|(b-2)" type="History"/>
   </annotations>
 </section>

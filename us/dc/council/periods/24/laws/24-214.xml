@@ -174,21 +174,27 @@
       <para codify:path="(a)">
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "Except as provided in subsection (b) of this section, DDOT" and inserting the acronym "DDOT" in its place.</text>
-        <codify:marginalia display="Not funded"/>
+        <codify:find-replace count="1">
+          <find>Except as provided in subsection (b) of this section, DDOT</find>
+          <replace>DDOT</replace>
+        </codify:find-replace>
       </para>
       <para codify:path="(b)">
         <num>(2)</num>
         <text>Subsection (b) is repealed.</text>
+        <codify:repeal/>
       </para>
       <para>
         <num>(3)</num>
         <text>New subsections (c), (d), (e), and (f) are added to read as follows:</text>
         <include>
           <para>
+            <codify:insert/>
             <num>(c)</num>
             <text>Beginning January 1, 2025, a motor vehicle operator shall not make a turn when facing a steady red traffic control signal unless DDOT has installed signage, pursuant to subsection (d) of this section, permitting a turn when facing a steady red traffic control signal at that intersection.</text>
           </para>
           <para>
+            <codify:insert/>
             <num>(d)</num>
             <para>
               <num>(1)</num>
@@ -208,10 +214,12 @@
             </para>
           </para>
           <para>
+            <codify:insert/>
             <num>(e)</num>
             <text>By January 1, 2025, DDOT shall undertake a public education campaign on the provisions of this section.</text>
           </para>
           <para>
+            <codify:insert/>
             <num>(f)</num>
             <text>DDOT shall maintain, update within 30 days after the installation of signage permitting a turn on red, and post publicly on its website:</text>
             <para>
@@ -241,7 +249,7 @@
       <text>New sections 2b and 2c are added to read as follows:</text>
       <include>
         <section>
-          <codify:insert path="9|4|III-A" after="§9-425.01a" num-value="9-425.01b" history-prefix="as added" codified:doc="D.C. Code" codified:path="§9-425.01b"/>
+          <codify:insert path="9|4|III-A" after="§9-425.01a" num-value="9-425.01b" history-prefix="as added"/>
           <num>2b</num>
           <heading>Tactical safety project and bicycle lane conversions.</heading>
           <para>
@@ -333,10 +341,10 @@
             </para>
           </para>
           <annotation doc="D.C. Law 18-227" type="History" path="§2b">Sept. 24, 2010, D.C. Law 18-227, § 2b</annotation>
-          <codify:not-funded-anno doc="D.C. Code" path="§9-425.01b" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§9-425.01b" codified:display="Note"/>
+          <codify:not-funded-anno doc="D.C. Code" path="§9-425.01b" applicability-path="§4" action="creation of" display-template=""/>
         </section>
         <section>
-          <codify:insert path="9|4|III-A" after="§9-425.01b" num-value="9-425.01c" history-prefix="as added" codified:doc="D.C. Code" codified:path="§9-425.01c"/>
+          <codify:insert path="9|4|III-A" after="§9-425.01b" num-value="9-425.01c" history-prefix="as added"/>
           <num>2c</num>
           <heading>Continuous sidewalks, raised crosswalks, and raised intersections.</heading>
           <para>
@@ -376,7 +384,7 @@
             </para>
           </para>
           <annotation doc="D.C. Law 18-227" type="History" path="§2c">Sept. 24, 2010, D.C. Law 18-227, § 2c</annotation>
-          <codify:not-funded-anno doc="D.C. Code" path="§9-425.01c" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§9-425.01c" codified:display="Note"/>
+          <codify:not-funded-anno doc="D.C. Code" path="§9-425.01c" applicability-path="§4" action="creation of" display-template=""/>
         </section>
       </include>
       <aftertext>.</aftertext>
@@ -386,7 +394,7 @@
       <text>Section 3(f) (D.C. Official Code § 9-425.02(f)) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace codified:doc="D.C. Code" codified:path="§9-425.02|(f)"/>
+          <codify:replace/>
           <num>(f)</num>
           <text>For the purposes of <code-cite doc="D.C. Code" path="9|4|III-A">this act</code-cite>, the term:</text>
           <para>
@@ -422,7 +430,7 @@
       <num>(a)</num>
       <text>Sections 2(d) and 3 shall apply upon the date of inclusion of their fiscal effect in an approved budget and financial plan.</text>
       <codify:applicability doc="D.C. Law 24-214" path="§2|(d)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.04e"/>
-      <codify:applicability doc="D.C. Law 24-214" path="§3" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§9-425.01b"/>
+      <codify:applicability doc="D.C. Law 24-214" path="§3" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§9-425.02"/>
     </para>
     <para>
       <num>(b)</num>

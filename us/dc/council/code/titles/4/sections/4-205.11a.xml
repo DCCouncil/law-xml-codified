@@ -67,7 +67,7 @@
     <text>A monthly average of no more than 20% of the average monthly number of assistance units for which federally-funded TANF benefits are provided during the current fiscal year or the prior fiscal year (as the Mayor may elect) may be exempt under subsection (e) of this section.</text>
   </para>
   <para placeholder="Not Funded">
-    <num>[(g)]</num>
+    <num>(g)</num>
     <text>[Applicable on October 1, 2027.]</text>
   </para>
   <annotations>
@@ -95,5 +95,8 @@
     <annotation app="notfunded" doc="D.C. Law 26-55" eff="2025-12-06" path="§5062|(a)|(6)" target-path="§4-205.11a|(f)" type="History"/>
     <annotation app="notfunded" doc="D.C. Law 26-55" eff="2025-12-06" path="§5062|(a)|(7)" target-path="§4-205.11a" type="History"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§5063" target-path="§4-205.11a" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§8002" target-path="§4-205.11a|[(g)]|num" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§8002" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§8002">§ 8002 of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§8002" target-path="§4-205.11a" type="History" display="false"/>
   </annotations>
 </section>

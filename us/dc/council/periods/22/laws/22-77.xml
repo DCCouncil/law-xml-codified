@@ -280,7 +280,7 @@
       <para codify:path="(b)">
         <num>(1)</num>
         <text>Subsection (b) is amended by striking the phrase "shall, as a condition of a restricted license, enroll" and inserting the phrase "shall enroll" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2201.05a|(b)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2201.05a">
           <find>shall, as a condition of a restricted license, enroll</find>
           <replace>shall enroll</replace>
         </codify:find-replace>
@@ -290,7 +290,7 @@
         <text>A new subsection (b-1) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§50-2201.05a|(b-1)"/>
+            <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§50-2201.05a"/>
             <num>(b-1)</num>
             <text>A person required to participate in the Program pursuant to <code-cite doc="D.C. Code" path="§50-1403.01|(a)">section 13(a)</code-cite> shall enroll in the Program for a period of time to be determined by the Mayor.</text>
           </para>
@@ -302,7 +302,7 @@
         <text>A new subsection (f) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(e)" codified:doc="D.C. Code" codified:path="§50-2201.05a|(f)"/>
+            <codify:insert after="(e)" codified:doc="D.C. Code" codified:path="§50-2201.05a"/>
             <num>(f)</num>
             <text>A person violating subsection (c) of this section shall be fined no more than the amount set forth in <code-cite doc="D.C. Code" path="§22-3571.01">section 101 of the Criminal Fine Proportionality Amendment Act of 2012, effective June 11, 2013 (D.C. Law 19-317; D.C. Official Code § 22-3571.01),</code-cite> or incarcerated for no more than one year, or both.</text>
           </para>
@@ -316,7 +316,7 @@
       <para>
         <num>(1)</num>
         <text>Strike the phrase "suspend an operator's permit" and insert the phrase "suspend an operator's permit, or require participation in the Ignition Interlock System Program established by section 10a ("Program")," in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-1403.01|(a)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-1403.01">
           <find>suspend an operator's permit</find>
           <replace>suspend an operator's permit, or require participation in the Ignition Interlock System Program established by <code-cite doc="D.C. Code" path="§50-2201.05a">section 10a</code-cite> ("Program"),</replace>
         </codify:find-replace>
@@ -324,7 +324,7 @@
       <para>
         <num>(2)</num>
         <text>Strike the phrase "suspended the reasons therefor shall be set out in the order of revocation or suspension" and inserting the phrase "suspended, or where a person is required to participate in the Program, the reasons therefor shall be set out in the order of revocation or suspension, or the order requiring participation in the Program" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-1403.01|(a)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-1403.01">
           <find>suspended the reasons therefor shall be set out in the order of revocation or suspension</find>
           <replace>suspended, or where a person is required to participate in the Program, the reasons therefor shall be set out in the order of revocation or suspension, or the order requiring participation in the Program</replace>
         </codify:find-replace>
@@ -332,7 +332,7 @@
       <para>
         <num>(3)</num>
         <text>Strike the phrase "suspending a permit on account" and inserting the phrase "suspending a permit, or requiring participation in the Program, on account" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-1403.01|(a)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-1403.01">
           <find>suspending a permit on account</find>
           <replace>suspending a permit, or requiring participation in the Program, on account</replace>
         </codify:find-replace>

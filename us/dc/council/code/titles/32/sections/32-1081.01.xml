@@ -1,17 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-1081.01</num>
   <heading proof="needed">Definitions.</heading>
-  <reason>Not Funded</reason>
-  <text>Not Funded.</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>For the purposes of <cite path="32|10C">this chapter</cite>, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>"Covered employer" means a contractor of a gas company or an electric company contracted to perform underground utility work in a contract amount over $250,000.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Davis-Bacon Act" means An Act Relating to the rate of wages for laborers and mechanics employed on public buildings of the United States and the District of Columbia by contractors and subcontractors, and for other purposes, approved March 3, 1931 (46 Stat. 1494; 40 U.S.C. 3141 <em>et seq</em>).</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Electric company" shall have the same meaning as in <cite path="§34-207">section 8 of An Act Making appropriations to provide for the expenses of the government of the District of Columbia for the fiscal year ending June thirtieth, nineteen hundred and fourteen, and for other purposes, approved March 4, 1913 (37 Stat. 976; D.C. Official Code § 34-207)</cite> ("Act").</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"Gas company" shall have the same meaning as in <cite path="§34-209">§ 34-209</cite>.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"Prevailing wage" means the wage paid to specified categories of workers, as described in <cite path="§32-1081.02">§ 32-1081.02</cite>, doing underground utility work.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>"Underground utility work" means work pursuant to a contract awarded to a covered employer by a gas company or an electric company in an amount over $250,000 for which a permit is required under <cite path="§34-2705">section 6 of the Underground Facilities Protection Act of 1980, effective March 4, 1981 (D.C. Law 3-127; D.C. Official Code § 34-2705)</cite> ("Underground Facilities Protection Act") or <cite path="§47-2718">§ 47-2718</cite> to excavate a street or other public space for the purpose of installing, maintaining, replacing, demolishing, as defined in <cite path="§34-2701|(1)">§ 34-2701(1)</cite>, or removing a utility line or underground facility.  The term includes traffic control and all other construction tasks necessary to perform and complete the underground utility work.</text>
+    </para>
+    <codify:annotation history="false" path="§32-1081.01" type="Editor's Notes" effective="true" codified:doc="D.C. Code" codified:path="§32-1081.01"><cite doc="D.C. Law 25-274" path="§7">Section 7 of D.C. Law 25-274</cite> provided that D.C. Law 25-274 shall apply 180 day after its applicability date.</codify:annotation>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 25-274" path="§2" codified:display="Note" codified:doc="D.C. Code" codified:path="§32-1081.01">Applicability of <cite doc="D.C. Law 25-274" path="">D.C. Law 25-274</cite>: <cite doc="D.C. Law 25-274" path="§8">§ 8 of D.C. Law 25-274</cite> provided that the creation of this section by <cite doc="D.C. Law 25-274" path="§2">§ 2 of D.C. Law 25-274</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="" target-path="32" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 25-274" path="§2" codified:display="Note" app="2025-03-07" eff="2025-03-07">Applicability of <cite doc="D.C. Law 25-274" path="">D.C. Law 25-274</cite>: <cite doc="D.C. Law 25-274" path="§8">§ 8 of D.C. Law 25-274</cite> provided that the creation of this section by <cite doc="D.C. Law 25-274" path="§2">§ 2 of D.C. Law 25-274</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="§2" target-path="§2" type="History"/>
-    <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="§8|(a)" target-path="§2" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-274" eff="2025-03-07" path="§2" target-path="32|10C" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="§2" target-path="32|10C" type="History"/>
+    <annotation history="false" path="§2" type="Editor's Notes" effective="true" app="2025-03-07" eff="2025-03-07" doc="D.C. Law 25-274"><cite doc="D.C. Law 25-274" path="§7">Section 7 of D.C. Law 25-274</cite> provided that D.C. Law 25-274 shall apply 180 day after its applicability date.</annotation>
     <annotation type="Applicability" doc="D.C. Law 25-274" path="§2" codified:display="Note" app="2025-03-07" eff="2025-03-07" display="false">Applicability of <cite doc="D.C. Law 25-274" path="">D.C. Law 25-274</cite>: <cite doc="D.C. Law 25-274" path="§8">§ 8 of D.C. Law 25-274</cite> provided that the creation of this section by <cite doc="D.C. Law 25-274" path="§2">§ 2 of D.C. Law 25-274</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="§2" target-path="§2" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-274" eff="2025-03-07" path="§2" target-path="§32-1081.01" type="History" display="false"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="§2" target-path="§32-1081.01" type="History" display="false"/>
   </annotations>
 </section>

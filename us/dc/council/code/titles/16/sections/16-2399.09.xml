@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>§</prefix>
-  <num>[16-2399.09]</num>
+  <num>16-2399.09</num>
   <heading proof="needed">Additional available remedies.</heading>
   <para>
     <num undesignated="true">(a)</num>
@@ -26,5 +26,8 @@
     <annotation app="2024-07-19" doc="D.C. Act 25-492" eff="2024-06-26" path="§3|(b)" target-path="§[16-2399.09]" type="History" display="false"/>
     <annotation app="2024-07-19" doc="D.C. Law 25-188" eff="2024-07-19" path="" target-path="16|23" type="History" display="false"/>
     <annotation app="2024-07-19" doc="D.C. Law 25-188" eff="2024-07-19" path="§3|(b)" target-path="16|23|VI" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§8010" target-path="§[16-2399.09]|num" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§8010" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§8010">§ 8010 of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§8010" target-path="§16-2399.09" type="History" display="false"/>
   </annotations>
 </section>

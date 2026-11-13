@@ -10,7 +10,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>A tax, separate from and in addition to the taxes imposed pursuant to <cite path="§47-2002|(a)|(2)|(A)">§ 47-2002(a)(2)(A)</cite>, <cite path="§47-2002.02">§ 47-2002.02</cite>, and paragraph (1) of this subsection, is imposed on all vendors at the rate of 1.0% of the gross receipts from the sale of or charges on or after April 1, 2023, and on or before September 30, 2027, for any room or rooms, lodgings, or accommodations furnished to a transient by any hotel, inn, tourist camp, tourist cabin, or any other place in which rooms, lodgings, or accommodations are regularly furnished to transients.</text>
+      <text>A tax, separate from and in addition to the taxes imposed pursuant to <cite path="§47-2002|(a)|(2)|(A)">§ 47-2002(a)(2)(A)</cite>, <cite path="§47-2002.02">§ 47-2002.02</cite>, and paragraph (1) of this subsection, is imposed on all vendors at the rate of 1.0% of the gross receipts from the sale of or charges on or after April 1, 2023, for any room or rooms, lodgings, or accommodations furnished to a transient by any hotel, inn, tourist camp, tourist cabin, or any other place in which rooms, lodgings, or accommodations are regularly furnished to transients.</text>
     </para>
   </para>
   <para>
@@ -25,22 +25,26 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>Beginning October 1, 2025, the tax revenue received pursuant to subsection (a)(2) of this section shall be deposited as follows:</text>
+      <text>Beginning October 1, 2025, the tax revenue received pursuant to subsection (a)(2) of this section shall be deposited and dedicated as follows:</text>
       <para>
         <num>(A)</num>
-        <text>In the following fiscal years, the following amounts shall be deposited in the Economic Development Special Account established by <cite path="§2-1225.21">[§ 2-1225.21]</cite>:</text>
-        <para>
-          <num>(i)</num>
-          <text>In Fiscal Year 2026, $10,466,000; and</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>In Fiscal Year 2027, $6,140,000.</text>
-        </para>
+        <text>In Fiscal Year 2026, $10,466,000 shall be deposited in the Economic Development Special Account established by <cite path="§2-1225.21">§ 2-1225.21</cite> and the remainder shall be deposited in the General Fund of the District of Columbia.</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>All other tax revenue received pursuant to subsection (a)(2) of this section shall be deposited in local funds.</text>
+        <text>In Fiscal Year 2027, $6,140,000 shall be deposited in the Economic Development Special Account established by <cite path="§2-1225.21">§ 2-1225.21</cite> and the remainder shall be deposited in the General Fund of the District of Columbia.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>In Fiscal Year 2028 and each subsequent fiscal year:</text>
+        <para>
+          <num>(i)</num>
+          <text>Two-thirds shall be dedicated to the Washington Convention and Sports Authority, for transfer to Destination DC, pursuant to a memorandum of understanding, for the purposes of marketing and promoting the District as a destination, and such amounts shall be in addition to the funds dedicated to Destination DC pursuant to <cite path="§10-1202.08a">§ 10-1202.08a</cite>; and</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>One-third shall be dedicated to the Washington Convention and Sports Authority, for transfer to the Washington DC Economic Partnership, pursuant to a memorandum of understanding, to be used for the purposes outlined in <cite path="§10-1202.08a|(e)|(4)">§ 10-1202.08a(e)(4)</cite>.</text>
+        </para>
       </para>
     </para>
   </para>
@@ -87,5 +91,9 @@
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7022|(a)|(2)|(C)" target-path="§47-2002.03a|(c)" type="History"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7022|(a)|(2)|(A)" target-path="§47-2002.03a|(c)" type="History"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7022|(a)|(3)" target-path="§47-2002.03a|(d)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§7012|(a)|(2)|(A)" target-path="§47-2002.03a|(a)|(2)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§7012|(a)|(2)|(B)" target-path="§47-2002.03a|(c)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§7012|(a)|(2)" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§7012|(a)|(2)">§ 7012(a)(2) of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§7012|(a)|(2)" target-path="§47-2002.03a" type="History" display="false"/>
   </annotations>
 </section>

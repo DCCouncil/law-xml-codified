@@ -45,9 +45,33 @@
       <num>(6)</num>
       <text>“Capital improvement” means an improvement or renovation other than ordinary repair, replacement, or maintenance if the improvement or renovation is deemed depreciable under the Internal Revenue Code (26 U.S.C.).</text>
     </para>
-    <para placeholder="Not Funded">
+    <para>
       <num>(6A)</num>
-      <text>Not Funded.</text>
+      <text>"Common household pet" means a domesticated animal traditionally kept in the home for pleasure rather than for commercial purposes, including :</text>
+      <para>
+        <num>(A)</num>
+        <text>Domestic dogs, excluding hybrids, with wolves, coyotes, or jackals;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Domestic cats, excluding hybrids with ocelots or margays;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Domesticated rodents and rabbits;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Captive-bred species of common cage birds;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Non-venomous snakes, fish, and turtles; and</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Ferrets.</text>
+      </para>
     </para>
     <para>
       <num>(7)</num>
@@ -288,8 +312,7 @@
     <annotation app="2023-11-28" doc="D.C. Law 25-65" eff="2023-11-28" path="§2|(a)|(2)" target-path="§42-3501.03|(a)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 25-308" path="§2|(a)" codified:display="Note" app="2025-03-21" eff="2025-03-21">Applicability of <cite doc="D.C. Law 25-308" path="">D.C. Law 25-308</cite>: <cite doc="D.C. Law 25-308" path="§4">§ 4 of D.C. Law 25-308</cite> provided that the amendment to this section by <cite doc="D.C. Law 25-308" path="§2|(a)">§ 2(a) of D.C. Law 25-308</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-03-21" doc="D.C. Law 25-308" eff="2025-03-21" path="§2|(a)" target-path="§2|(a)" type="History"/>
-    <annotation app="2025-03-21" doc="D.C. Law 25-308" eff="2025-03-21" path="§4|(a)" target-path="§2|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-308" eff="2025-03-21" path="§2|(a)" target-path="§42-3501.03|(a)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-308" eff="2025-03-21" path="§2|(a)" target-path="§42-3501.03|(a)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-85" path="§3|(a)" codified:display="Note" app="2025-06-25" eff="2025-06-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-85" path="§3|(a)">§ 3(a) of Emergency Rental Assistance Program Reform Congressional Review Emergency Amendment Act of 2025 (D.C. Act 26-85, June 25, 2025, 72 DCR 7528)</cite>.</annotation>
     <annotation app="2025-06-25" doc="D.C. Act 26-85" eff="2025-06-25" path="§3|(a)" target-path="§42-3501.03" type="History" display="false"/>
     <annotation app="2025-07-18" doc="D.C. Law 26-20" eff="2025-07-18" path="§3|(a)|(1)" target-path="§42-3501.03|(a)" type="History"/>

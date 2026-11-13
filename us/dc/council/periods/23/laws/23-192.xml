@@ -611,7 +611,7 @@
       <para codify:path="(g)|(1)">
         <num>(5)</num>
         <text>Subsection (g)(1) is amended by striking the phrase "he or she has" and inserting the phrase "the person has" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.09|(g)|(1)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.09|(g)">
           <find>he or she has</find>
           <replace>the person has</replace>
         </codify:find-replace>

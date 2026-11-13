@@ -61,7 +61,7 @@
         <text>Other substances hazardous to user health.</text>
       </para>
     </para>
-    <codify:not-funded-anno doc="D.C. Code" path="§10-1071" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§10-1071" codified:display="Note"/>
+    <codify:not-funded-anno doc="D.C. Code" path="§10-1071" applicability-path="§4" action="creation of" display-template=""/>
   </section>
   <section codify:applicability="notfunded">
     <codify:insert doc="D.C. Code" path="10|10C" num-value="10-1072" codified:doc="D.C. Code" codified:path="§10-1072"/>
@@ -86,7 +86,7 @@
       <num>(b)</num>
       <text>Period products required to be made available pursuant to <code-cite doc="D.C. Code" path="10|10C">this act</code-cite> shall be free of charge.</text>
     </para>
-    <codify:not-funded-anno doc="D.C. Code" path="§10-1072" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§10-1072" codified:display="Note"/>
+    <codify:not-funded-anno doc="D.C. Code" path="§10-1072" applicability-path="§4" action="creation of" display-template=""/>
   </section>
   <section>
     <codify:insert doc="D.C. Code" path="10|10C" num-value="10-1073" codified:doc="D.C. Code" codified:path="§10-1073"/>
@@ -95,8 +95,8 @@
     <para>
       <num>(a)</num>
       <text><code-cite doc="D.C. Code" path="10|10C">This act</code-cite> shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 24-250" path="§2" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§10-1071"/>
-      <codify:applicability doc="D.C. Law 24-250" path="§3" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§10-1072"/>
+      <codify:applicability doc="D.C. Law 24-250" path="§2" date="notfunded" history="false" display-template=""/>
+      <codify:applicability doc="D.C. Law 24-250" path="§3" date="notfunded" history="false" display-template=""/>
     </para>
     <para>
       <num>(b)</num>

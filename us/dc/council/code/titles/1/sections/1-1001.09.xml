@@ -18,7 +18,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>The Board shall permit any duly registered voter to vote by mail-in ballot, for any reason, under such rules as the Board may issue.</text>
+      <text>The Board shall permit any duly registered voter to vote by mail-in ballot, for any reason, under such rules as the Board may issue. The Board shall permit a voter not registered with a political party to vote by mail-in ballot in a primary election if such voter has requested such a ballot for a specific primary election held by a political party or for that specific election and all future elections in which the voter may be eligible to vote, in accordance with such rules as the Board may issue.</text>
     </para>
     <para placeholder="Repealed">
       <num>(3)</num>
@@ -150,7 +150,27 @@
     <num>(g)</num>
     <para>
       <num>(1)</num>
-      <text>No person shall vote more than once in any election nor shall any person vote in a primary or party election held by a political party other than that to which the person has declared themselves to be a member.</text>
+      <text>No person shall vote more than once in any election.</text>
+    </para>
+    <para>
+      <num>(1A)</num>
+      <text>A duly registered voter who is not registered as affiliated with any political party shall be permitted to vote in a primary election held by a single political party of that voter's choice, for all offices other than:</text>
+      <para>
+        <num>(A)</num>
+        <text>National committeemen and national committeewomen;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Delegates to conventions and conferences of political parties other than delegates to nominate candidates for the Presidency and Vice Presidency of the United States;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Alternates to the officials referred to in subparagraphs (A) and (B) of this paragraph, where permitted by political party rules; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Such members and officials of local committees of political parties as may be designated by the duly authorized local committees of such parties for election at large or by ward in the District of Columbia.</text>
+      </para>
     </para>
     <para>
       <num>(2)</num>
@@ -416,8 +436,7 @@
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(g)|(15)|(C)" target-path="§1-1001.09|(j-2)|(3)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 25-295" path="§2|(d)" codified:display="Note" app="2025-03-07" eff="2025-03-07">Applicability of <cite doc="D.C. Law 25-295" path="">D.C. Law 25-295</cite>: <cite doc="D.C. Law 25-295" path="§3">§ 3 of D.C. Law 25-295</cite> provided that the amendment to this section by <cite doc="D.C. Law 25-295" path="§2|(d)">§ 2(d) of D.C. Law 25-295</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-03-07" doc="D.C. Law 25-295" eff="2025-03-07" path="§2|(d)" target-path="§2|(d)" type="History"/>
-    <annotation app="2025-03-07" doc="D.C. Law 25-295" eff="2025-03-07" path="§3|(a)" target-path="§2|(d)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-295" eff="2025-03-07" path="§2|(d)|(1)" target-path="§1-1001.09|(b)|(2)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 25-295" eff="2025-03-07" path="§2|(d)|(2)" target-path="§1-1001.09|(g)" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-295" eff="2025-03-07" path="§2|(d)|(1)" target-path="§1-1001.09|(b)|(2)" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-295" eff="2025-03-07" path="§2|(d)|(2)" target-path="§1-1001.09|(g)" type="History"/>
   </annotations>
 </section>

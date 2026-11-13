@@ -2,7 +2,18 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-335.01</num>
   <heading>Borrowing of funds for capital projects.</heading>
-  <text>The Mayor shall not borrow any funds for capital projects unless the Mayor has obtained prior approval from the Council, by resolution, identifying the projects and amounts to be financed with such borrowings. In determining the amounts to be financed, the Mayor shall consult with the Chief Financial Officer to determine if any funds appropriated for Debt Service, as defined in <cite path="§47-334|(1)">§ 47-334(1)</cite>, in excess of Debt Service requirements are available to reduce the amount of borrowing for the next bond issuance.</text>
+  <para>
+    <num>(a)</num>
+    <text>The Mayor shall not borrow any funds for capital projects unless the Mayor has obtained prior approval from the Council, by resolution, identifying the projects and amounts to be financed with such borrowings. In determining the amounts to be financed, the Mayor shall consult with the Chief Financial Officer to determine if any funds appropriated for Debt Service, as defined in <cite path="§47-334|(1)">§ 47-334(1)</cite>, in excess of Debt Service requirements are available to reduce the amount of borrowing for the next bond issuance.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The Chief Financial Officer is authorized to determine whether income tax secured revenue bonds, general obligation bonds, or bond anticipation notes or other notes or obligations authorized by <cite path="47|3|II-D">subchapter II-D of this chapter</cite> ("Income Tax Bond Act") or acts authorizing the issuance of bonds and notes pursuant to §§ <cite path="§1-204.61">1-204.61</cite> through <cite path="§1-204.67">1-204.67</cite> and <cite path="§1-204.75">1-204.75</cite> ("Bond Acts"), will be issued to finance or refinance the capital projects identified in a resolution passed pursuant to subsection (a) of this section. If notes or other temporary obligations are issued to finance such capital projects, the Chief Financial Officer shall determine when and whether income tax secured revenue bonds or general obligation bonds will be issued to refund or refinance the outstanding notes in accordance with the Income Tax Bond Act, the Bond Acts, and other applicable laws.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>If the funds allocated pursuant to a resolution passed pursuant to subsection (a) of this section exceed the amount required to complete any authorized capital project identified in such resolution, the excess funds shall be made available to finance other capital projects approved by a prior or subsequent Council bond issuance resolution or act.</text>
+  </para>
   <annotations>
     <text type="Resolutions">Resolution 16-356, the “Fiscal Year 2006 General Obligation Bond Issuance Approval Emergency Resolution of 2005”, was approved effective November 1, 2005.</text>
     <text type="Resolutions">Resolution 15-129, the “General Obligation Bond Issuance Approval Resolution of 2003”, was approved effective July 8, 2003.</text>
@@ -21,5 +32,9 @@
     <annotation type="Temporary Legislation">“Sec. 3. (a) Pursuant to section 3302 of the Fiscal Year 2001 Budget Support Act of 2000, effective October 19, 2000 (<cite doc="D.C. Law 13-172">D.C. Law 13-172</cite>; D.C. Official Code <cite path="§47-335.01">§ 47-335.01</cite>), the Council approves the issuance and sale of general obligation bonds in an aggregate principal amount not to exceed $180 million to fund certain capital projects listed in section 4, plus all costs and expenses related to issuing and delivering the bonds as authorized pursuant to the Bond Acts.</annotation>
     <annotation type="Temporary Legislation">Section 3 of <cite doc="D.C. Law 18-308">D.C. Law 18-308</cite> added a section to read as follows:</annotation>
     <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> added the last sentence.</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§7232|(b)" target-path="§47-335.01" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§7232|(a)" target-path="§47-335.01" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§7232" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§7232">§ 7232 of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§7232" target-path="§47-335.01" type="History" display="false"/>
   </annotations>
 </section>

@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>42-2802</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§42-2802(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Housing Production Trust Fund established.</heading>
   <para>
     <num>(a)</num>
@@ -666,7 +663,6 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§2202" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§2202">§ 2202 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 72 DCR 13514)</cite>.</annotation>
     <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2202" target-path="§42-2802" type="History" display="false"/>
     <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§2202" target-path="§42-2802" type="History"/>
-    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2252|(a)" target-path="§42-2802" type="History" display="false"/>
     <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2252|(a)|(1)|(A)" target-path="§42-2802|(b-1)|(1)" type="History"/>
     <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2252|(a)|(1)|(B)" target-path="§42-2802|(b-1)|(2)" type="History"/>
     <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2252|(a)|(2)" target-path="§42-2802" type="History"/>
@@ -674,5 +670,6 @@
     <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2252|(a)|(3)|(B)|(i)" target-path="§42-2802|(d)|(9)|(D)|(v)" type="History"/>
     <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2252|(a)|(3)|(B)|(ii)" target-path="§42-2802|(d)|(9)|(D)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§2252|(a)" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§2252|(a)">§ 2252(a) of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§2252|(a)" target-path="§42-2802" type="History" display="false"/>
   </annotations>
 </section>

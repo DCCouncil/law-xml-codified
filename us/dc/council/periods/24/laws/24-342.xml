@@ -290,7 +290,7 @@
         </para>
       </para>
     </para>
-    <para codify:applicability="notfunded">
+    <para>
       <num>(d)</num>
       <text>Section 13(c) (D.C. Official Code § 1-309.10(c)) is amended by adding a new paragraph (5) to read as follows:</text>
       <include lvl="1">
@@ -547,7 +547,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
-        <para codify:path="(10A)" codify:applicability="notfunded">
+        <para codify:path="(10A)">
           <num>(G)</num>
           <text>Paragraph (10A) is amended to read as follows:</text>
           <include lvl="1">
@@ -1539,7 +1539,7 @@
       <para codify:path="(g)|(1)">
         <num>(11)</num>
         <text>Subsection (g)(1) is amended by striking the phrase "declared himself or herself" and inserting the phrase "declared themselves" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.09|(g)|(1)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.09|(g)">
           <find>declared himself or herself</find>
           <replace>declared themselves</replace>
         </codify:find-replace>
@@ -1816,13 +1816,6 @@
     <para>
       <num>(a)</num>
       <text>Section 2(d) and the amendatory section 5(10A), (10E), and (21) within section 3(c)(1)(G), (H), and (N) shall apply upon the date of inclusion of their fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 24-342" path="§2|(d)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-309.10|(c)|(5)"/>
-      <codify:repeal doc="D.C. Code" path="§1-1001.05|(a)|(10E)" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-1001.05|(a)|(10E)"/>
-      <codify:find-replace doc="D.C. Code" path="§1-1001.05|(a)|(10E)" history="false" display-template="" count="1" codified:doc="D.C. Code" codified:path="§1-1001.05|(a)|(10E)">
-        <find>Repealed</find>
-        <replace>Not funded</replace>
-      </codify:find-replace>
-      <codify:applicability doc="D.C. Law 24-342" path="§3|(c)|(1)|(G)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-1001.05|(a)|(10A)"/>
       <codify:applicability doc="D.C. Law 24-342" path="§3|(c)|(1)|(N)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-1001.05|(a)|(21)"/>
     </para>
     <para>

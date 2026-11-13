@@ -1,17 +1,60 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-1081.02</num>
   <heading proof="needed">Prevailing wage requirement.</heading>
-  <reason>Not Funded</reason>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>Within 180 days after the applicability date of <cite path="32|10C">this chapter</cite>, the underground utility work prevailing wage for the following categories of workers shall be the equivalent of the prevailing wage, including fringe benefits, under the Davis-Bacon Act, as published in the Washington D.C. wage determination by the U.S. Department of Labor ("Wage and Hour Division"):</text>
+      <para>
+        <num>(A)</num>
+        <text>Foreman (Group 5 of Laborers (Heavy &amp; Highway &amp; Sewer &amp; Water Line Construction);</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Crew Leader (Group 3 of Laborers (Heavy &amp; Highway &amp; Sewer and Water Lines)</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Skilled Laborer/Pipe Layer (Group 1 Laborers (Heavy &amp; Highway &amp; Sewer and Water Lines);</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Operator (Group 3 (Sewer, Gas, Waterline Construction); and</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Truck Driver (Heavy &amp; Highway).</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>If a category of workers as listed in paragraph (1)(A) through (E) of this subsection is no longer published by the Wage and Hour Division, the Mayor shall by rule establish and apply an alternative classification.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>A covered employer awarded a contract for underground utility work shall pay its workers described in subsection (a) of this subsection or as established by rule who are performing duties pursuant to the contract no less than the prevailing wage.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>If a subcontractor to a covered employer receives over $50,000 and the receipt of those funds is from the contract with a gas company or an electric company, the subcontractor shall pay its workers performing duties described in subsection (a) of this section pursuant to the contract no less than the prevailing wage.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>Notwithstanding the adoption of the Davis-Bacon wage rates, the enforcement provisions of the Davis-Bacon Act and its implementing regulations shall not apply to <cite path="32|10C">this chapter</cite>.  This chapter shall be enforced pursuant to <cite path="§32-1081.05">§ 32-1081.05</cite>.</text>
+  </para>
+  <codify:annotation history="false" path="§32-1081.02" type="Editor's Notes" effective="true" codified:doc="D.C. Code" codified:path="§32-1081.02"><cite doc="D.C. Law 25-274" path="§7">Section 7 of D.C. Law 25-274</cite> provided that D.C. Law 25-274 shall apply 180 day after its applicability date.</codify:annotation>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 25-274" path="§3" codified:display="Note" codified:doc="D.C. Code" codified:path="§32-1081.02">Applicability of <cite doc="D.C. Law 25-274" path="">D.C. Law 25-274</cite>: <cite doc="D.C. Law 25-274" path="§8">§ 8 of D.C. Law 25-274</cite> provided that the creation of this section by <cite doc="D.C. Law 25-274" path="§3">§ 3 of D.C. Law 25-274</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="" target-path="32" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 25-274" path="§3" codified:display="Note" app="2025-03-07" eff="2025-03-07">Applicability of <cite doc="D.C. Law 25-274" path="">D.C. Law 25-274</cite>: <cite doc="D.C. Law 25-274" path="§8">§ 8 of D.C. Law 25-274</cite> provided that the creation of this section by <cite doc="D.C. Law 25-274" path="§3">§ 3 of D.C. Law 25-274</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="§3" target-path="§3" type="History"/>
-    <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="§8|(a)" target-path="§3" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-274" eff="2025-03-07" path="§3" target-path="32|10C" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="§3" target-path="32|10C" type="History"/>
+    <annotation history="false" path="§3" type="Editor's Notes" effective="true" app="2025-03-07" eff="2025-03-07" doc="D.C. Law 25-274"><cite doc="D.C. Law 25-274" path="§7">Section 7 of D.C. Law 25-274</cite> provided that D.C. Law 25-274 shall apply 180 day after its applicability date.</annotation>
     <annotation type="Applicability" doc="D.C. Law 25-274" path="§3" codified:display="Note" app="2025-03-07" eff="2025-03-07" display="false">Applicability of <cite doc="D.C. Law 25-274" path="">D.C. Law 25-274</cite>: <cite doc="D.C. Law 25-274" path="§8">§ 8 of D.C. Law 25-274</cite> provided that the creation of this section by <cite doc="D.C. Law 25-274" path="§3">§ 3 of D.C. Law 25-274</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="§3" target-path="§3" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-274" eff="2025-03-07" path="§3" target-path="§32-1081.02" type="History" display="false"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="§3" target-path="§32-1081.02" type="History" display="false"/>
   </annotations>
 </section>

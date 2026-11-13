@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-309.10</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on November 11, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-309.10(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Advisory Neighborhood Commissions — Duties and responsibilities; notice; great weight; access to documents; reports; contributions.</heading>
   <para>
     <num>(a)</num>
@@ -73,9 +70,9 @@
       <num>(4)</num>
       <text>The Office of Zoning shall ensure that each affected Commission, the Commissioner representing the affected single member district, the affected ward Councilmember, and the Office of Advisory Neighborhood Commissions is provided notice of applications, public hearings, proposed actions, and actions on all zoning cases. The notice may be provided by electronic mail, subject to paragraph (1A) of this subsection.</text>
     </para>
-    <para placeholder="Not Funded">
+    <para>
       <num>(5)</num>
-      <text>Not Funded.</text>
+      <text>The Department of Corrections shall employ a staff liaison for any Commissioner in its care and custody who represents the single-member district containing the Central Detention Facility and Correctional Treatment Facility. Such liaison shall assist the Commissioner in carrying out the Commissioner's duties, including pursuant to this section. The Commissioner shall be entitled to technology and space necessary to access Commission meetings and perform the Commissioner's duties.</text>
     </para>
   </para>
   <para>
@@ -300,8 +297,7 @@
     <annotation type="Applicability" doc="D.C. Law 24-333" path="§2" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the change made to this section by <cite doc="D.C. Law 24-333" path="§2">§ 2 of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation doc="D.C. Law 24-333" path="§2" type="Applicability" app="2023-03-22" eff="2023-03-22"><cite doc="D.C. Law 25-217" path="§7286">Section 7286 of D.C. Law 25-217</cite> provided that the amendments made to this section by <cite doc="D.C. Law 24-333" path="§2">Section 2 of D.C. Law 24-333</cite> shall apply as of October 1, 2025.  Therefore those amendments have been implemented.
          </annotation>
-    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§10|(a)" target-path="§2|(d)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-342" eff="2023-04-06" path="§2|(d)" target-path="§1-309.10|(c)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§2|(d)" target-path="§1-309.10|(c)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-342" path="§2|(d)" codified:display="Note" app="2023-04-06" eff="2023-04-06">Applicability of <cite doc="D.C. Law 24-342" path="">D.C. Law 24-342</cite>: <cite doc="D.C. Law 24-342" path="§10">§ 10 of D.C. Law 24-342</cite> provided that the change made to this section by <cite doc="D.C. Law 24-342" path="§2|(d)">§ 2(d) of D.C. Law 24-342</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§2|(d)" target-path="§1-309.10" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-165" path="§2" codified:display="Note" app="2025-10-23" eff="2025-10-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-165" path="§2">§ 2 of Revised Business Licensing Reform Emergency Amendment Act of 2025 (D.C. Act 26-165, Oct. 23, 2025, 0 DCR 0)</cite>.</annotation>
@@ -310,9 +306,9 @@
     <annotation app="2025-12-31" doc="D.C. Law 26-78" eff="2025-12-31" path="§2" target-path="§1-309.10" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-399" path="§2" codified:display="Note" app="2026-08-10" eff="2026-08-10">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-399" path="§2">§ 2 of Business Licensing Reform and Accountancy Practice Emergency Amendment Act of 2026 (D.C. Act 26-399, Aug. 10, 2026, 0 DCR 0)</cite>.</annotation>
     <annotation app="2026-08-10" doc="D.C. Act 26-399" eff="2026-08-10" path="§2" target-path="§1-309.10" type="History" display="false"/>
-    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1012|(a)" target-path="§1-309.10" type="History" display="false"/>
     <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1012|(a)" target-path="§1-309.10|(n-1)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§1012|(a)" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§1012|(a)">§ 1012(a) of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§1012|(a)" target-path="§1-309.10" type="History" display="false"/>
     <annotation app="2026-09-25" doc="D.C. Law 26-183" eff="2026-09-25" path="§2" target-path="§1-309.10|(q)" type="History"/>
   </annotations>
 </section>

@@ -1,14 +1,96 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-183.02</num>
   <heading proof="needed">Functions and procedures of the Youth Climate Council.</heading>
-  <reason>Not Funded</reason>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>The Youth Climate Council shall elect from among its membership a chairperson, vice-chairperson, and secretary, each for a term of one year.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>These officers shall be re-elected annually or in the event of a vacancy, but shall serve no more than 2 terms in any combination of offices.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The Youth Climate Council may vote to create other leadership positions from within its membership.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The Youth Climate Council may form committees or working groups from its membership to consider specific subtopics and invite participation from outside individuals and entities, including the public and subject-matter experts.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>The Youth Climate Council shall meet at least once per month.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The chairperson of the Youth Climate Council, or vice-chairperson in the chairperson's absence, shall, in consultation with and with the assistance of the Department of Energy and Environment ("DOEE"), convene all Youth Climate Council meetings.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>A majority of the members appointed to the Youth Climate Council at any given time shall constitute a quorum for the transaction of official business.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <para>
+      <num>(1)</num>
+      <text>The Youth Climate Council may provide updates to the Commission on Climate Change and Resiliency ("Commission") at each of the Commission's quarterly meetings, and may seek the advice of the Commission as needed.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Youth Climate Council shall meet jointly with the Commission at least once each year to exchange information and feedback related to common issues and concerns.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>All actions of the Youth Climate Council shall be considered advisory and shall be approved by a majority vote of the members present and voting at a meeting.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <para>
+      <num>(1)</num>
+      <text>DOEE shall provide principal staff to support the activities of the Youth Climate Council, to include:</text>
+      <para>
+        <num>(A)</num>
+        <text>Convening and managing logistics for meetings;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Delivering and coordinating education and training;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Partnering with other agencies, the Council, organizations, and colleges; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Assisting with the development, publication, and submission of all reports to the Council and Mayor.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Youth Climate Council may use space and supplies owned or rented by the District government for purposes consistent with <cite doc="D.C. Law 26-66">the Youth Advisory Council on Climate Change and Environmental Conservation Establishment Act of 2025</cite>.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The Council shall provide staff assistance to the Youth Climate Council for the purposes of facilitating comments on all proposed legislation pending before the Council of interest to the Youth Climate Council.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The chairpersons of the Council committees with jurisdiction over the environment, energy, and natural resources shall provide an opportunity for the Youth Climate Council to report in person on its findings and recommendations at least once each year.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 26-62" path="§3" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-183.02">Applicability of <cite doc="D.C. Law 26-62" path="">D.C. Law 26-62</cite>: <cite doc="D.C. Law 26-62" path="§5|(a)">§ 5(a) of D.C. Law 26-62</cite> provided that the creation of this section by <cite doc="D.C. Law 26-62" path="§3">§ 3 of D.C. Law 26-62</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2025-12-31" doc="D.C. Law 26-62" eff="2025-12-31" path="" target-path="8" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 26-62" path="§3" codified:display="Note" app="2025-12-31" eff="2025-12-31">Applicability of <cite doc="D.C. Law 26-62" path="">D.C. Law 26-62</cite>: <cite doc="D.C. Law 26-62" path="§5|(a)">§ 5(a) of D.C. Law 26-62</cite> provided that the creation of this section by <cite doc="D.C. Law 26-62" path="§3">§ 3 of D.C. Law 26-62</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-12-31" doc="D.C. Law 26-62" eff="2025-12-31" path="§3" target-path="§3" type="History"/>
-    <annotation app="2025-12-31" doc="D.C. Law 26-62" eff="2025-12-31" path="§5|(a)" target-path="§3" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 26-62" eff="2025-12-31" path="§3" target-path="8|1C-i" type="History"/>
+    <annotation app="2025-12-31" doc="D.C. Law 26-62" eff="2025-12-31" path="§3" target-path="8|1C-i" type="History"/>
   </annotations>
 </section>

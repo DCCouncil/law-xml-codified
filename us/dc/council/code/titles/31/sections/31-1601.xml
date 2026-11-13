@@ -56,11 +56,11 @@
     <text>“Insurer” means any individual, partnership, corporation, association, fraternal benefit association, nonprofit health service plan, health maintenance organization, or other business entity that issues, amends, or renews individual or group health, disability, or life insurance policies or contracts, including health maintenance organization membership contracts, in the District. The term “insurer” shall include Group Hospitalization and Medical Services, Incorporated.</text>
   </para>
   <para>
-    <num>[(8)]</num>
+    <num>(8)</num>
     <text>"PrEP" means pre-exposure prophylaxis antiretroviral medication approved by the U.S. Food and Drug Administration ("FDA") used to prevent HIV in a person without HIV.</text>
   </para>
   <para>
-    <num>[(9)]</num>
+    <num>(9)</num>
     <text>"PEP" means post-exposure prophylaxis antiretroviral medication approved by the FDA used to prevent HIV in a person without HIV who may have been recently exposed to HIV.</text>
   </para>
   <annotations>
@@ -76,5 +76,9 @@
     <annotation app="2026-05-21" doc="D.C. Law 26-115" eff="2026-05-21" path="§2|(a)|(2)" target-path="§31-1601" type="History"/>
     <annotation app="2026-05-21" doc="D.C. Law 26-115" eff="2026-05-21" path="§2|(a)|(3)" target-path="§31-1601" type="History"/>
     <annotation app="2026-05-21" doc="D.C. Law 26-115" eff="2026-05-21" path="§2|(a)|(4)" target-path="§31-1601" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§8009|(a)" target-path="§31-1601|[(8)]|num" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§8009|(b)" target-path="§31-1601|[(9)]|num" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§8009" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§8009">§ 8009 of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§8009" target-path="§31-1601" type="History" display="false"/>
   </annotations>
 </section>

@@ -31,7 +31,7 @@
       <para codify:path="text">
         <num>(1)</num>
         <text>The lead-in language is amended by striking the phrase "means a violation of any of the following provisions of law" and inserting the word "means" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2201.05a|(a)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2201.05a">
           <find>means a violation of any of the following provisions of law</find>
           <replace>means</replace>
         </codify:find-replace>
@@ -39,7 +39,7 @@
       <para codify:path="(1)">
         <num>(2)</num>
         <text>Paragraph (1) is amended by striking the word "Section" and inserting the phrase "A violation of section" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2201.05a|(a)|(1)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2201.05a">
           <find>
             <cite doc="D.C. Code" path="§50-2206.11">Section </cite>
           </find>
@@ -51,7 +51,7 @@
         <text>Paragraph (2) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§50-2201.05a|(a)|(2)"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§50-2201.05a"/>
             <num>(2)</num>
             <text>Driving a motor vehicle in another jurisdiction, including foreign jurisdictions and military jurisdictions, while under the influence of intoxicating liquor or a narcotic drug or under the influence of any other drug to a degree that renders the driver incapable of safely driving a motor vehicle.</text>
           </para>
@@ -69,7 +69,7 @@
           <para>
             <num>(b)</num>
             <text>Except as provided in sections 3d(d-1), 3f(c-1), and 3t(a-1)(2) of the Anti-Drunk Driving Act of 1982, effective September 14, 1982 (D.C. Law 4-45; D.C. Official Code §§ 50-2206.13(d-1), 50-2206.15(c-1), and 50-2206.55(a-1)(2)), a person who holds a driver's license issued by the District and commits a covered offense shall enroll in the Ignition Interlock System Program ("Program") established by this section for:</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2201.05a|(b)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2201.05a">
               <find>a person convicted of a covered offense who holds a driver's license issued by the District shall enroll in the Ignition Interlock System Program ("Program") established by this section for:</find>
               <replace>a person who holds a driver's license issued by the District and commits a covered offense shall enroll in the Ignition Interlock System Program ("Program") established by this section for:</replace>
             </codify:find-replace>
@@ -80,7 +80,7 @@
       <para codify:path="(1)">
         <num>(2)</num>
         <text>Paragraph (1) is amended by striking the phrase "a first conviction" and inserting the phrase "the first commission of a covered offense" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2201.05a|(b)|(1)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2201.05a">
           <find>a first conviction</find>
           <replace>the first commission of a covered offense</replace>
         </codify:find-replace>
@@ -88,7 +88,7 @@
       <para codify:path="(2)">
         <num>(3)</num>
         <text>Paragraph (2) is amended to striking the phrase "a second conviction" and inserting the phrase "the second commission of a covered offense" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2201.05a|(b)|(2)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2201.05a">
           <find>a second conviction</find>
           <replace>the second commission of a covered offense</replace>
         </codify:find-replace>
@@ -96,7 +96,7 @@
       <para codify:path="(3)">
         <num>(4)</num>
         <text>Paragraph (3) is amended to striking the phrase "a third or subsequent conviction" and inserting the phrase "the third or subsequent commission of a covered offense" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2201.05a|(b)|(3)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2201.05a">
           <find>a third or subsequent conviction</find>
           <replace>the third or subsequent commission of a covered offense</replace>
         </codify:find-replace>
@@ -107,7 +107,7 @@
       <text>A new subsection (b-3) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(b-2)" codified:doc="D.C. Code" codified:path="§50-2201.05a|(b-3)"/>
+          <codify:insert after="(b-2)" codified:doc="D.C. Code" codified:path="§50-2201.05a"/>
           <num>(b-3)</num>
           <para>
             <num>(1)</num>
@@ -138,7 +138,7 @@
       <text>A new subsection (c-1) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(c)" codified:doc="D.C. Code" codified:path="§50-2201.05a|(c-1)"/>
+          <codify:insert after="(c)" codified:doc="D.C. Code" codified:path="§50-2201.05a"/>
           <num>(c-1)</num>
           <text>The driver's license of a person required to enroll in the Program shall be suspended until the person enrolls in the Program.</text>
         </para>

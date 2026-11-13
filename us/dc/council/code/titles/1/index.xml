@@ -207,9 +207,8 @@
       <prefix>Subchapter</prefix>
       <num>VII</num>
       <heading>Juneteenth History and Planning Commission.</heading>
-      <reason>Not Funded</reason>
-      <annotation app="notfunded" doc="D.C. Law 24-179" eff="2022-09-21" path="§3|(a)" target-path="" type="History" display="false"/>
-      <annotation app="notfunded" doc="D.C. Law 24-179" eff="2022-09-21" path="" target-path="1|1" type="History" display="false"/>
+      <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§7223" target-path="" type="History" display="false"/>
+      <annotation app="2022-09-21" doc="D.C. Law 24-179" eff="2022-09-21" path="" target-path="1|1" type="History" display="false"/>
       <xi:include href="./sections/1-185.01.xml"/>
     </container>
   </container>
@@ -682,6 +681,7 @@
         <xi:include href="./sections/1-301.158.xml"/>
         <xi:include href="./sections/1-301.159.xml"/>
         <xi:include href="./sections/1-301.160.xml"/>
+        <xi:include href="./sections/1-301.161.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>

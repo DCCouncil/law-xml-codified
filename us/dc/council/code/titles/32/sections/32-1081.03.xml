@@ -1,17 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-1081.03</num>
   <heading proof="needed">Notification and record-keeping requirements.</heading>
-  <reason>Not Funded</reason>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>A covered employer subject to <cite path="32|10C">this chapter</cite> shall notify each subcontractor in writing of the prevailing wage requirements.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Covered employers and subcontractors subject to <cite path="32|10C">this chapter</cite> shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Retain payroll records created and maintained in the regular course of business under District of Columbia law for a period of at least 3 years or the prevailing federal standard at the time the record is created, whichever is greater; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Acknowledge and abide by the rights of employees under the National Labor Relations Act (29 U.S.C. § 157).</text>
+    </para>
+  </para>
+  <codify:annotation history="false" path="§32-1081.03" type="Editor's Notes" effective="true" codified:doc="D.C. Code" codified:path="§32-1081.03"><cite doc="D.C. Law 25-274" path="§7">Section 7 of D.C. Law 25-274</cite> provided that D.C. Law 25-274 shall apply 180 day after its applicability date.</codify:annotation>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 25-274" path="§4" codified:display="Note" codified:doc="D.C. Code" codified:path="§32-1081.03">Applicability of <cite doc="D.C. Law 25-274" path="">D.C. Law 25-274</cite>: <cite doc="D.C. Law 25-274" path="§8">§ 8 of D.C. Law 25-274</cite> provided that the creation of this section by <cite doc="D.C. Law 25-274" path="§4">§ 4 of D.C. Law 25-274</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="" target-path="32" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 25-274" path="§4" codified:display="Note" app="2025-03-07" eff="2025-03-07">Applicability of <cite doc="D.C. Law 25-274" path="">D.C. Law 25-274</cite>: <cite doc="D.C. Law 25-274" path="§8">§ 8 of D.C. Law 25-274</cite> provided that the creation of this section by <cite doc="D.C. Law 25-274" path="§4">§ 4 of D.C. Law 25-274</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="§4" target-path="§4" type="History"/>
-    <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="§8|(a)" target-path="§4" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-274" eff="2025-03-07" path="§4" target-path="32|10C" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="§4" target-path="32|10C" type="History"/>
+    <annotation history="false" path="§4" type="Editor's Notes" effective="true" app="2025-03-07" eff="2025-03-07" doc="D.C. Law 25-274"><cite doc="D.C. Law 25-274" path="§7">Section 7 of D.C. Law 25-274</cite> provided that D.C. Law 25-274 shall apply 180 day after its applicability date.</annotation>
     <annotation type="Applicability" doc="D.C. Law 25-274" path="§4" codified:display="Note" app="2025-03-07" eff="2025-03-07" display="false">Applicability of <cite doc="D.C. Law 25-274" path="">D.C. Law 25-274</cite>: <cite doc="D.C. Law 25-274" path="§8">§ 8 of D.C. Law 25-274</cite> provided that the creation of this section by <cite doc="D.C. Law 25-274" path="§4">§ 4 of D.C. Law 25-274</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="§4" target-path="§4" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-274" eff="2025-03-07" path="§4" target-path="§32-1081.03" type="History" display="false"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-274" eff="2025-03-07" path="§4" target-path="§32-1081.03" type="History" display="false"/>
   </annotations>
 </section>

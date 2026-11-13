@@ -5,27 +5,34 @@
   <text>Each of the following persons shall file a return with the Chief Financial Officer stating specifically the items of his gross income and the items claimed as deductions and credits allowed under this chapter, and such other information for the purpose of carrying out the provisions of this chapter as the Chief Financial Officer may require:</text>
   <para>
     <num>(1)</num>
-    <heading>Residents and nonresidents. —</heading>
-    <text>Every nonresident of the District receiving income subject to tax pursuant to this chapter and every resident of the District, except a fiduciary, who is required to file a federal return under the provisions of § 6012 of the Internal Revenue Code of 1986 [26 U.S.C. § 6012].</text>
+    <text>Residents and nonresidents. —</text>
+    <para>
+      <num>(A)</num>
+      <text>Except as provided in subparagraph (B) of this paragraph, every individual required to file a federal return under the provisions of § 6012 of the Internal Revenue Code of 1986; and</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>For taxable years beginning after December 31, 2024, and ending before January 1, 2030, every individual having, for the taxable year, gross income that equals or exceeds the applicable basic standard deduction as defined under <cite path="§47-1801.04|(3A)">§ 47-1801.04(3A)</cite>.</text>
+    </para>
   </para>
   <para>
     <num>(2)</num>
     <heading>Fiduciaries. —</heading>
     <para>
       <num>(A)</num>
-      <text>Every individual, if single, or if married and not living with spouse, for whom he or she acts, having met the filing requirements of § 6012 of the Internal Revenue Code of 1986 [26 U.S.C. § 6012];</text>
+      <text>Every fiduciary of a trust that has gross income of $100 or more for the taxable year; and</text>
     </para>
     <para>
       <num>(B)</num>
-      <text>Every individual, if married and living with spouse, for whom he or she acts, having met the filing requirements of § 6012 of the Internal Revenue Code of 1986 [26 U.S.C. § 6012], except that if the fiduciary elects to file a separate return, the provisions of § 6012 of the Internal Revenue Code of 1986 [26 U.S.C. § 6012], relating to filing requirements for separate returns, shall be followed;</text>
+      <text>Every fiduciary of an estate that has gross income of $1 or more for the taxable year.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(C)</num>
-      <text>Every estate for which he or she acts, the gross income of which for the taxable year is in excess of its personal exemption of $885 for taxable years beginning after December 31, 1986, $1,025 for taxable years beginning after December 31, 1987, $1,160 for taxable years beginning after December 31, 1988, $1,270 for taxable years beginning after December 31, 1989, and $1,370 for taxable years beginning after December 31, 1990; and</text>
+      <text>[Repealed].</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(D)</num>
-      <text>Every trust for which he or she acts, the gross income of which for the taxable year is $100 or over.</text>
+      <text>[Repealed].</text>
     </para>
   </para>
   <para>
@@ -140,5 +147,12 @@
     <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(f)" target-path="§47-1805.02" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-89" path="§2|(f)" codified:display="Note" app="2026-02-12" eff="2026-02-12">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-89" path="§2|(f)">§ 2(f) of D.C. Income and Franchise Tax Conformity and Revision Temporary Amendment Act of 2025 (D.C. Law 26-89, Feb. 12, 2026, 73 DCR 9)</cite>.</annotation>
     <annotation app="2026-02-12" doc="D.C. Law 26-89" eff="2026-02-12" path="§2|(f)" target-path="§47-1805.02" type="History" display="false"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§7112|(f)|(1)" target-path="§47-1805.02|(1)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§7112|(f)|(2)|(A)" target-path="§47-1805.02|(2)|(A)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§7112|(f)|(2)|(B)" target-path="§47-1805.02|(2)|(B)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§7112|(f)|(2)|(C)" target-path="§47-1805.02|(2)|(C)" type="History"/>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§7112|(f)|(2)|(D)" target-path="§47-1805.02|(2)|(D)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-416" path="§7112|(f)" codified:display="Note" app="2026-08-13" eff="2026-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-416" path="§7112|(f)">§ 7112(f) of Fiscal Year 2027 Budget Support Emergency Act of 2026 (D.C. Act 26-416, Aug. 13, 2026, 73 DCR 11509)</cite>.</annotation>
+    <annotation app="2026-08-13" doc="D.C. Act 26-416" eff="2026-08-13" path="§7112|(f)" target-path="§47-1805.02" type="History" display="false"/>
   </annotations>
 </section>

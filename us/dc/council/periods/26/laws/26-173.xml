@@ -30,7 +30,7 @@
       <heading>District Workers with Disabilities Program. [Not Funded]</heading>
     </container>
   </codify:insert>
-  <section codify:applicability="notfunded">
+  <section>
     <num>2</num>
     <text>The District of Columbia Public Assistance Act of 1982, effective April 6, 1982 (D.C. Law 4-101; D.C. Official Code § 4-201.01 <em>passim</em>), is amended by adding a new title IV-A to read as follows:</text>
     <include>
@@ -38,7 +38,7 @@
         <prefix>TITLE</prefix>
         <num>IV-A</num>
         <heading>– DISTRICT WORKERS WITH DISABILITIES PROGRAM</heading>
-        <section>
+        <section codify:applicability="notfunded">
           <codify:insert path="4|2|IV-A" num-value="4-204.81" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-204.81"/>
           <num>411</num>
           <heading proof="needed">Definitions.</heading>
@@ -81,7 +81,7 @@
           <annotation doc="D.C. Law 4-101" type="History" path="§411">Apr. 6, 1982, D.C. Law 4-101, § 411</annotation>
           <codify:not-funded-anno doc="D.C. Code" path="§4-204.81" applicability-path="§3|(a)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§4-204.81" codified:display="Note"/>
         </section>
-        <section>
+        <section codify:applicability="notfunded">
           <codify:insert path="4|2|IV-A" after="§4-204.81" num-value="4-204.82" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-204.82"/>
           <num>412</num>
           <heading proof="needed">Establishment of the District Workers with Disabilities Program.</heading>
@@ -199,7 +199,7 @@
           <annotation doc="D.C. Law 4-101" type="History" path="§412">Apr. 6, 1982, D.C. Law 4-101, § 412</annotation>
           <codify:not-funded-anno doc="D.C. Code" path="§4-204.82" applicability-path="§3|(a)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§4-204.82" codified:display="Note"/>
         </section>
-        <section>
+        <section codify:applicability="notfunded">
           <codify:insert path="4|2|IV-A" after="§4-204.82" num-value="4-204.83" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-204.83"/>
           <num>413</num>
           <heading proof="needed">Application process.</heading>
@@ -367,7 +367,7 @@
           <annotation doc="D.C. Law 4-101" type="History" path="§413">Apr. 6, 1982, D.C. Law 4-101, § 413</annotation>
           <codify:not-funded-anno doc="D.C. Code" path="§4-204.83" applicability-path="§3|(a)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§4-204.83" codified:display="Note"/>
         </section>
-        <section>
+        <section codify:applicability="notfunded">
           <codify:insert path="4|2|IV-A" after="§4-204.83" num-value="4-204.84" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-204.84"/>
           <num>414</num>
           <heading proof="needed">Premiums.</heading>
@@ -482,7 +482,7 @@
           <annotation doc="D.C. Law 4-101" type="History" path="§414">Apr. 6, 1982, D.C. Law 4-101, § 414</annotation>
           <codify:not-funded-anno doc="D.C. Code" path="§4-204.84" applicability-path="§3|(a)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§4-204.84" codified:display="Note"/>
         </section>
-        <section>
+        <section codify:applicability="notfunded">
           <codify:insert path="4|2|IV-A" after="§4-204.84" num-value="4-204.85" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-204.85"/>
           <num>415</num>
           <heading proof="needed">Recertification.</heading>
@@ -515,7 +515,7 @@
           <annotation doc="D.C. Law 4-101" type="History" path="§415">Apr. 6, 1982, D.C. Law 4-101, § 415</annotation>
           <codify:not-funded-anno doc="D.C. Code" path="§4-204.85" applicability-path="§3|(a)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§4-204.85" codified:display="Note"/>
         </section>
-        <section>
+        <section codify:applicability="notfunded">
           <codify:insert path="4|2|IV-A" after="§4-204.85" num-value="4-204.86" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-204.86"/>
           <num>416</num>
           <heading proof="needed">Responsibilities of the enrollee and liability.</heading>
@@ -598,7 +598,7 @@
           <annotation doc="D.C. Law 4-101" type="History" path="§416">Apr. 6, 1982, D.C. Law 4-101, § 416</annotation>
           <codify:not-funded-anno doc="D.C. Code" path="§4-204.86" applicability-path="§3|(a)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§4-204.86" codified:display="Note"/>
         </section>
-        <section>
+        <section codify:applicability="notfunded">
           <codify:insert path="4|2|IV-A" after="§4-204.86" num-value="4-204.87" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-204.87"/>
           <num>417</num>
           <heading proof="needed">Scope of coverage.</heading>
@@ -645,7 +645,7 @@
           <annotation doc="D.C. Law 4-101" type="History" path="§417">Apr. 6, 1982, D.C. Law 4-101, § 417</annotation>
           <codify:not-funded-anno doc="D.C. Code" path="§4-204.87" applicability-path="§3|(a)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§4-204.87" codified:display="Note"/>
         </section>
-        <section>
+        <section codify:applicability="notfunded">
           <codify:insert path="4|2|IV-A" after="§4-204.87" num-value="4-204.88" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-204.88"/>
           <num>418</num>
           <heading proof="needed">Provider participation and reimbursement.</heading>
@@ -668,7 +668,7 @@
           <annotation doc="D.C. Law 4-101" type="History" path="§418">Apr. 6, 1982, D.C. Law 4-101, § 418</annotation>
           <codify:not-funded-anno doc="D.C. Code" path="§4-204.88" applicability-path="§3|(a)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§4-204.88" codified:display="Note"/>
         </section>
-        <section>
+        <section codify:applicability="notfunded">
           <codify:insert path="4|2|IV-A" after="§4-204.88" num-value="4-204.89" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-204.89"/>
           <num>419</num>
           <heading proof="needed">Rulemaking.</heading>
@@ -676,7 +676,7 @@
           <annotation doc="D.C. Law 4-101" type="History" path="§419">Apr. 6, 1982, D.C. Law 4-101, § 419</annotation>
           <codify:not-funded-anno doc="D.C. Code" path="§4-204.89" applicability-path="§3|(a)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§4-204.89" codified:display="Note"/>
         </section>
-        <section>
+        <section codify:applicability="notfunded">
           <codify:insert path="4|2|IV-A" after="§4-204.89" num-value="4-204.90" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-204.90"/>
           <num>420</num>
           <heading proof="needed">District Workers with Disabilities Premium Fund.</heading>
@@ -732,7 +732,16 @@
     <para>
       <num>(a)</num>
       <text>Section 2 shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 26-173" path="§2" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-204.81"/>
+      <codify:applicability doc="D.C. Law 26-173" path="§2|includes|IV-A|411" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-204.81"/>
+      <codify:applicability doc="D.C. Law 26-173" path="§2|includes|IV-A|412" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-204.82"/>
+      <codify:applicability doc="D.C. Law 26-173" path="§2|includes|IV-A|413" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-204.83"/>
+      <codify:applicability doc="D.C. Law 26-173" path="§2|includes|IV-A|414" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-204.84"/>
+      <codify:applicability doc="D.C. Law 26-173" path="§2|includes|IV-A|415" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-204.85"/>
+      <codify:applicability doc="D.C. Law 26-173" path="§2|includes|IV-A|416" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-204.86"/>
+      <codify:applicability doc="D.C. Law 26-173" path="§2|includes|IV-A|417" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-204.87"/>
+      <codify:applicability doc="D.C. Law 26-173" path="§2|includes|IV-A|418" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-204.88"/>
+      <codify:applicability doc="D.C. Law 26-173" path="§2|includes|IV-A|419" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-204.89"/>
+      <codify:applicability doc="D.C. Law 26-173" path="§2|includes|IV-A|420" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-204.90"/>
     </para>
     <para>
       <num>(b)</num>
