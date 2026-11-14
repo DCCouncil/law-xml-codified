@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-3505.10</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 7, 2027. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§42-3505.10(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Tenant screening.</heading>
   <para>
     <num>(a)</num>
@@ -89,7 +92,7 @@
   </para>
   <para>
     <num>(b-3)</num>
-    <text>For residential leases beginning after October 1, 2025, a housing provider may:</text>
+    <text>For residential leases beginning after October 1, 2026, a housing provider may:</text>
     <para>
       <num>(1)</num>
       <text>, Require a prospective tenant to pay a refundable security deposit, subject to the requirements of section 217 and the provisions of 14 DCMR §§ 308-311, associated with the residence of common household pets in the rental unit; provided, that:</text>
@@ -136,7 +139,7 @@
     <text>A housing provider shall not:</text>
     <para>
       <num>(1)</num>
-      <text>For residential leases beginning after October 1, 2025, charge an additional security deposit, fee, or additional rent associated with the residence of common household pets except as authorized by subsection (b-3) of this section; or</text>
+      <text>For residential leases beginning after October 1, 2026, charge an additional security deposit, fee, or additional rent associated with the residence of common household pets except as authorized by subsection (b-3) of this section; or</text>
     </para>
     <para>
       <num>(2)</num>
@@ -345,5 +348,9 @@
     <annotation app="2025-03-21" doc="D.C. Law 25-308" eff="2025-03-21" path="§2|(c)|(2)" target-path="§2|(c)" type="History"/>
     <annotation app="2025-03-21" doc="D.C. Law 25-308" eff="2025-03-21" path="§2|(c)|(2)" target-path="§42-3505.10" type="History"/>
     <annotation app="2026-08-14" doc="D.C. Law 26-156" eff="2026-08-14" path="§2|(b)|(1)" target-path="§42-3505.10|(b-2)" type="History"/>
+    <annotation app="2026-11-09" doc="D.C. Act 26-480" eff="2026-11-09" path="§3" target-path="§42-3505.10" type="History" display="false"/>
+    <annotation app="2026-11-09" doc="D.C. Act 26-480" eff="2026-11-09" path="§3|(a)" target-path="§42-3505.10|(b-3)" type="History"/>
+    <annotation app="2026-11-09" doc="D.C. Act 26-480" eff="2026-11-09" path="§3|(b)" target-path="§42-3505.10|(b-4)|(1)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-480" path="§3" codified:display="Note" app="2026-11-09" eff="2026-11-09">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-480" path="§3">§ 3 of Homeless Services Contract Adjustment Emergency Amendment Act of 2026 (D.C. Act 26-480, Nov. 9, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-1161.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 7, 2027. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-1161.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <para>
@@ -734,6 +737,10 @@
   </para>
   <para>
     <num>(33C)</num>
+    <text>"Mayor-elect" means the person who is certified as the successful candidate for the office of Mayor by the Board of Elections following the 2026 general election held to determine the Mayor or, prior to such certification, the person announced and published by the Board of Elections as the unofficial winner of the 2026 general election for Mayor; provided, that such person was announced as the unofficial winner with a margin of victory of at least 2% of the votes cast.</text>
+  </para>
+  <para>
+    <num>(33D)</num>
     <text>"Membership organization" means an organization that:</text>
     <para>
       <num>(A)</num>
@@ -1154,7 +1161,7 @@
   </para>
   <para>
     <num>(52)</num>
-    <text>“Transition committee” means any person, or group of persons, organized for the purpose of soliciting, accepting, or expending funds for office and personnel transition on behalf of the Mayor, Attorney General, or Chairman of the Council.</text>
+    <text>“Transition committee” means any person, or group of persons, organized for the purpose of soliciting, accepting, or expending funds for office and personnel transition on behalf of the Mayor, the Mayor-elect, Attorney General, or Chairman of the Council.</text>
   </para>
   <para>
     <num>(53)</num>
@@ -1332,5 +1339,10 @@
     <annotation doc="D.C. Law 24-328" path="§2" type="Applicability" history="false" app="2023-03-10" eff="2023-03-10"><cite doc="D.C. Law 24-328" path="§2">Section 2 of D.C. Law 24-328</cite> provided that the addition of paragraphs (9B), (10C), and (45A) through (45D) to this section shall not apply to: (1) Any inaugural or transition committee organized in 2022; and (2) Contracts, as defined in § 1-1161.01(10C)(A)(ii), including those contracts' option periods or similar contract extensions or modifications, sought, entered into, or executed before November 9, 2022.
     </annotation>
     <annotation app="2023-03-10" doc="D.C. Law 24-328" eff="2023-03-10" path="§2" target-path="§1-1161.01" type="History" display="false"/>
+    <annotation app="2026-11-09" doc="D.C. Act 26-481" eff="2026-11-09" path="§2" target-path="§1-1161.01" type="History" display="false"/>
+    <annotation app="2026-11-09" doc="D.C. Act 26-481" eff="2026-11-09" path="§2|(b)" target-path="§1-1161.01" type="History"/>
+    <annotation app="2026-11-09" doc="D.C. Act 26-481" eff="2026-11-09" path="§2|(a)" target-path="§1-1161.01|(33C)|num" type="History"/>
+    <annotation app="2026-11-09" doc="D.C. Act 26-481" eff="2026-11-09" path="§2|(c)" target-path="§1-1161.01|(52)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-481" path="§2" codified:display="Note" app="2026-11-09" eff="2026-11-09">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-481" path="§2">§ 2 of Mayoral Transition Emergency Amendment Act of 2026 (D.C. Act 26-481, Nov. 9, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
