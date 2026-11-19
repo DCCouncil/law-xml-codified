@@ -1,15 +1,84 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>44-424</num>
   <heading proof="needed">Financial assistance policy requirements.</heading>
-  <reason>Not Funded</reason>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>Each health care facility-FAP shall establish a financial assistance policy to provide financial assistance for medically necessary health services to eligible patients residing within the facility's defined primary service area.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The financial assistance policy shall include:</text>
+      <para>
+        <num>(A)</num>
+        <text>Eligibility criteria;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The health care facility-FAP's basis for calculating amounts charged to patients;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The application process, including the information and documentation needed for the application;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The application review process, including the maximum number of days needed to determine a patient's eligibility;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>The process for a patient to dispute an adverse financial assistance decision;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>The billing and collections policy, including possible actions in the event of non-payment; and</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>The process to ensure patients have access to, and understand, the financial assistance policy.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The financial assistance policy may not discriminate on the basis of a patient's health insurance coverage status, citizenship or immigration status, or assets.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>A health care facility-FAP shall make its financial assistance policy, including a user-friendly summary, publicly available, including by:</text>
+    <para>
+      <num>(1)</num>
+      <text>Posting the policy in a prominent location on its website;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Providing written notice of the policy to patients in their preferred language during the intake and registration process and discharge, which shall be available in all languages for which the Department of Health would be required to provide translation of vital documents under <cite path="§2-1933">§ 2-1933</cite>;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Posting notice of the availability of financial assistance and instructions to apply:</text>
+      <para>
+        <num>(A)</num>
+        <text>In high traffic areas, including the emergency department, billing office, waiting area, and other outpatient settings; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>On bills and statements; and</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>A disclaimer in the application materials that the patient is not required to pay the medical bill until a decision on their application has been rendered, in accordance with <cite path="§44-425|(e)">§ 44-425(e)</cite>.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§44-424" codified:display="Note" codified:doc="D.C. Code" codified:path="§44-424">Applicability of <cite doc="D.C. Law 26-172" path="">D.C. Law 26-172</cite>: <cite doc="D.C. Law 26-172" path="§6">§ 6 of D.C. Law 26-172</cite> provided that the creation of this section by <cite doc="D.C. Law 26-172" path="§2|(c)">§ 2(c) of D.C. Law 26-172</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 11-191" type="History" path="§202">Apr. 9, 1997, D.C. Law 11-191, § 202</annotation>
     <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="" target-path="44|4" type="History" display="false"/>
-    <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§6|(a)" target-path="§2" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 26-172" eff="2026-08-20" path="§2|(c)" prefix="as added" target-path="44|4|II" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 26-172" path="§2|(c)" codified:display="Note" app="2026-08-20" eff="2026-08-20">Applicability of <cite doc="D.C. Law 26-172" path="">D.C. Law 26-172</cite>: <cite doc="D.C. Law 26-172" path="§6|(a)">§ 6(a) of D.C. Law 26-172</cite> provided that the creation of this section by <cite doc="D.C. Law 26-172" path="§2|(c)">§ 2(c) of D.C. Law 26-172</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§2|(c)" prefix="as added" target-path="44|4|II" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 26-172" path="§2|(c)" codified:display="Note" app="2026-08-20" eff="2026-08-20">Applicability of <cite doc="D.C. Law 26-172" path="">D.C. Law 26-172</cite>: <cite doc="D.C. Law 26-172" path="§6">§ 6 of D.C. Law 26-172</cite> provided that the creation of this section by <cite doc="D.C. Law 26-172" path="§2|(c)">§ 2(c) of D.C. Law 26-172</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§2|(c)" target-path="§44-424" type="History"/>
   </annotations>
 </section>

@@ -1,15 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>44-423</num>
   <heading proof="needed">Definitions.</heading>
-  <reason>Not Funded</reason>
-  <text>Not Funded.</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>For the purposes of <cite path="44|4|II">this subchapter</cite>, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>"Collection entity" means a person that purchases medical debt or collects medical debt on behalf of another.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Consumer reporting agency" shall have the same meaning as provided in section 603(f) of the Fair Credit Reporting Act, approved October 26, 1970 (84 Stat. 1128; 15 U.S.C. § 1681a(f)).</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"External review" means a review of an adverse benefit determination, as that term is defined in section 101(1) of the Health Benefits Plan Members Bill of Rights Act of 1998, effective April 27, 1999 (D.C. Law 12-274; D.C. Official Code § 44-301.01(1)).</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"Financial assistance policy" means the policy required by <cite path="§44-424">§ 44-424</cite>.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"Medical debt" means a debt, including a bill that is not past due, owed by a patient to a health care provider for the provision of medical services, products, or devices. The term "medical debt" does not include charges to a credit card for the provision of medical services, products, or devices, unless the credit card is a medical lending product.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>"Medical lending product" means any third-party financing, including a medical credit card or installment loan, issued under an open-end or closed-end credit plan offered specifically for the payment of medical services, products, or devices provided to a patient.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>"Medically necessary health service" means a health service, including pharmaceuticals, medical supplies, and plastic surgery designed to correct disfigurement caused by injury, illness, or congenital defect or deformity, provided by a health care provider to a patient that is necessary to prevent, diagnose, or treat an illness, injury, condition or disease, or the symptoms of an illness, injury, condition or disease, and meets accepted standards of medicine. The term "medically necessary health service" does not include elective cosmetic surgery.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>"Patient" means an individual who receives medical services, products, or devices, including an individual's parent or legal guardian if the individual is a minor, legal guardian if the individual is an adult under guardianship, or an individual's legally appointed healthcare agent.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§44-423" codified:display="Note" codified:doc="D.C. Code" codified:path="§44-423">Applicability of <cite doc="D.C. Law 26-172" path="">D.C. Law 26-172</cite>: <cite doc="D.C. Law 26-172" path="§6">§ 6 of D.C. Law 26-172</cite> provided that the creation of this section by <cite doc="D.C. Law 26-172" path="§2|(c)">§ 2(c) of D.C. Law 26-172</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 11-191" type="History" path="§201">Apr. 9, 1997, D.C. Law 11-191, § 201</annotation>
     <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="" target-path="44|4" type="History" display="false"/>
-    <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§6|(a)" target-path="§2" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 26-172" eff="2026-08-20" path="§2|(c)" prefix="as added" target-path="44|4|II" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 26-172" path="§2|(c)" codified:display="Note" app="2026-08-20" eff="2026-08-20">Applicability of <cite doc="D.C. Law 26-172" path="">D.C. Law 26-172</cite>: <cite doc="D.C. Law 26-172" path="§6|(a)">§ 6(a) of D.C. Law 26-172</cite> provided that the creation of this section by <cite doc="D.C. Law 26-172" path="§2|(c)">§ 2(c) of D.C. Law 26-172</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§2|(c)" prefix="as added" target-path="44|4|II" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 26-172" path="§2|(c)" codified:display="Note" app="2026-08-20" eff="2026-08-20">Applicability of <cite doc="D.C. Law 26-172" path="">D.C. Law 26-172</cite>: <cite doc="D.C. Law 26-172" path="§6">§ 6 of D.C. Law 26-172</cite> provided that the creation of this section by <cite doc="D.C. Law 26-172" path="§2|(c)">§ 2(c) of D.C. Law 26-172</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§2|(c)" target-path="§44-423" type="History"/>
   </annotations>
 </section>

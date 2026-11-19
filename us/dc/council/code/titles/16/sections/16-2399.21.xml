@@ -1,14 +1,60 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>§</prefix>
   <num>16-2399.21</num>
   <heading proof="needed">Definitions.</heading>
-  <reason>Not Funded</reason>
-  <text>Not Funded.</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>For purposes of <cite path="16|23|VII">this subchapter</cite>, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>"Agency" means the Child and Family Services Agency, established by <cite path="§4-1303.01a">§ 4-1303.01a</cite>, including the Child and Family Services Agency's contracted placement and service providers.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Parent and child relationship" shall have the same meaning as defined in <cite path="§16-2352|(a)|(1)">§ 16-2352(a)(1)</cite>.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"SOUL" means a permanency plan for a youth in the care and custody of the Agency that allows the youth to establish a legal relationship with a SOUL Family, without terminating existing familial legal relationships, including the parent and child relationship and sibling relationships.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"SOUL Caregiver" means an adult who is not the youth's birth parent and who is committed to providing housing for the youth, meeting the basic needs of the youth, and holding rights and taking on responsibilities to care for the youth as specified in the SOUL Family agreement.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"SOUL Family" means a legal relationship between a youth, a SOUL Caregiver, and at least one other SOUL Caregiver or SOUL Supporter.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>"SOUL Family Form" means a form for selecting a SOUL permanency plan, as specified by the Family Court.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>"SOUL Supporter" means an adult who is committed to holding rights and responsibilities to care for the youth as specified in the SOUL Family agreement.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>"Youth" means an individual who:</text>
+      <para>
+        <num>(A)</num>
+        <text>Is 16 years of age or older, but less than 21 years of age;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Has been adjudicated to be neglected pursuant to <cite path="§16-2317">§ 16-2317</cite>; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Is in the care and custody of the Agency.</text>
+      </para>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§16-2399.21" codified:display="Note" codified:doc="D.C. Code" codified:path="§16-2399.21">Applicability of <cite doc="D.C. Law 26-159" path="">D.C. Law 26-159</cite>: <cite doc="D.C. Law 26-159" path="§4">§ 4 of D.C. Law 26-159</cite> provided that the creation of this section by <cite doc="D.C. Law 26-159" path="§2|(c)">§ 2(c) of D.C. Law 26-159</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2026-08-14" doc="D.C. Law 26-159" eff="2026-08-14" path="" target-path="16|23" type="History" display="false"/>
-    <annotation app="2026-08-14" doc="D.C. Law 26-159" eff="2026-08-14" path="§4|(a)" target-path="§2|(c)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 26-159" eff="2026-08-14" path="§2|(c)" target-path="16|23|VII" type="History"/>
+    <annotation app="2026-08-14" doc="D.C. Law 26-159" eff="2026-08-14" path="§2|(c)" target-path="16|23|VII" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 26-159" path="§2|(c)" codified:display="Note" app="2026-08-14" eff="2026-08-14">Applicability of <cite doc="D.C. Law 26-159" path="">D.C. Law 26-159</cite>: <cite doc="D.C. Law 26-159" path="§4">§ 4 of D.C. Law 26-159</cite> provided that the creation of this section by <cite doc="D.C. Law 26-159" path="§2|(c)">§ 2(c) of D.C. Law 26-159</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2026-08-14" doc="D.C. Law 26-159" eff="2026-08-14" path="§2|(c)" target-path="§16-2399.21" type="History"/>
   </annotations>

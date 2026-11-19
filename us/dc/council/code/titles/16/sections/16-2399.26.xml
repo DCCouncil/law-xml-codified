@@ -1,14 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>§</prefix>
   <num>16-2399.26</num>
   <heading proof="needed">Parties to a SOUL Family proceeding.</heading>
-  <reason>Not Funded</reason>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>The parties to a proceeding to establish a SOUL shall include:</text>
+    <para>
+      <num>(1)</num>
+      <text>The youth;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The youth's parent; provided, that they retain legal rights;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>All proposed SOUL Caregivers; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The agency having legal custody of the child and the District of Columbia.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>A proposed SOUL Supporter shall be provided notice of, and an opportunity to be heard, in a proceeding to establish a SOUL Family.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>The guardian ad litem shall continue to represent the best interests of the youth and have the rights of a party during these proceedings.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>The Agency may, upon request, provide support for a SOUL Caregiver to access legal representation.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>The Family Court may, at its discretion, join other parties on its own motion or in response to a motion for joinder or intervention.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§16-2399.26" codified:display="Note" codified:doc="D.C. Code" codified:path="§16-2399.26">Applicability of <cite doc="D.C. Law 26-159" path="">D.C. Law 26-159</cite>: <cite doc="D.C. Law 26-159" path="§4">§ 4 of D.C. Law 26-159</cite> provided that the creation of this section by <cite doc="D.C. Law 26-159" path="§2|(c)">§ 2(c) of D.C. Law 26-159</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2026-08-14" doc="D.C. Law 26-159" eff="2026-08-14" path="" target-path="16|23" type="History" display="false"/>
-    <annotation app="2026-08-14" doc="D.C. Law 26-159" eff="2026-08-14" path="§4|(a)" target-path="§2|(c)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 26-159" eff="2026-08-14" path="§2|(c)" target-path="16|23|VII" type="History"/>
+    <annotation app="2026-08-14" doc="D.C. Law 26-159" eff="2026-08-14" path="§2|(c)" target-path="16|23|VII" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 26-159" path="§2|(c)" codified:display="Note" app="2026-08-14" eff="2026-08-14">Applicability of <cite doc="D.C. Law 26-159" path="">D.C. Law 26-159</cite>: <cite doc="D.C. Law 26-159" path="§4">§ 4 of D.C. Law 26-159</cite> provided that the creation of this section by <cite doc="D.C. Law 26-159" path="§2|(c)">§ 2(c) of D.C. Law 26-159</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2026-08-14" doc="D.C. Law 26-159" eff="2026-08-14" path="§2|(c)" target-path="§16-2399.26" type="History"/>
   </annotations>

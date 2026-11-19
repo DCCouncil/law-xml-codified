@@ -1,15 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>44-426</num>
   <heading proof="needed">Medical expenses payment plans.</heading>
-  <reason>Not Funded</reason>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>For a patient who is approved for reduced-cost care financial assistance under <cite path="§44-425">§ 44-425</cite> ("eligible patient"), a health care facility-FAP shall offer a payment plan with a monthly installment payment not to exceed 3% of the patient's monthly household income and with the first payment not due until at least 30 days after the patient is discharged or finished treatment at the facility; provided, that, upon written request by the patient, or if the patient currently has a payment plan within the same health care system as the health care facility-FAP with a higher monthly installment percentage, the health care facility-FAP may offer a payment plan with a higher monthly installment payment.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Any medical debt sold by a health care facility-FAP to a collection entity shall retain the terms of the payment plan.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>A health care facility-FAP shall provide each eligible patient with:</text>
+      <para>
+        <num>(A)</num>
+        <text>An itemized medical bill;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A document explaining the existence of a payment plan option, the eligible patient's eligibility, and how to request a payment plan; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>An opportunity to discuss with staff the payment plan option prior to the eligible patient being discharged.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>An eligible patient shall have 45 days after receiving the first statement to decide whether to enter a payment plan.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>A health care facility-FAP shall provide patients who enter into a payment plan with a written copy, via mail or email, of the payment plan within 21 days after the agreement, which shall, at a minimum, include:</text>
+    <para>
+      <num>(1)</num>
+      <text>The total amount of debt owed, including principal, fees, and any other charges;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The schedule of installment payments, including the expected date by which the medical bill will be paid in full; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Information on whether late or missed payments would incur penalties.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>A health care facility-FAP or collection entity may accelerate a payment plan or declare it in default or no longer operative if:</text>
+    <para>
+      <num>(1)</num>
+      <text>The patient fails to make scheduled payments for at least 3 consecutive months;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The health care facility-FAP or collection entity has made at least 3 reasonable attempts to contact the patient by telephone or another method of contact preferred by the patient;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The health care facility-FAP or collection entity has provided the patient written notice that the payment plan may be declared in default and with an opportunity to renegotiate the payment plan; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The health care facility-FAP or collection entity has made a good faith effort to renegotiate the terms of the payment plan, if requested by the patient.</text>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>A health care facility-FAP or collection entity shall not commence a civil action against the patient for nonpayment until at least 90 days after the payment plan is declared in default.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§44-426" codified:display="Note" codified:doc="D.C. Code" codified:path="§44-426">Applicability of <cite doc="D.C. Law 26-172" path="">D.C. Law 26-172</cite>: <cite doc="D.C. Law 26-172" path="§6">§ 6 of D.C. Law 26-172</cite> provided that the creation of this section by <cite doc="D.C. Law 26-172" path="§2|(c)">§ 2(c) of D.C. Law 26-172</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 11-191" type="History" path="§204">Apr. 9, 1997, D.C. Law 11-191, § 204</annotation>
     <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="" target-path="44|4" type="History" display="false"/>
-    <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§6|(a)" target-path="§2" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 26-172" eff="2026-08-20" path="§2|(c)" prefix="as added" target-path="44|4|II" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 26-172" path="§2|(c)" codified:display="Note" app="2026-08-20" eff="2026-08-20">Applicability of <cite doc="D.C. Law 26-172" path="">D.C. Law 26-172</cite>: <cite doc="D.C. Law 26-172" path="§6|(a)">§ 6(a) of D.C. Law 26-172</cite> provided that the creation of this section by <cite doc="D.C. Law 26-172" path="§2|(c)">§ 2(c) of D.C. Law 26-172</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§2|(c)" prefix="as added" target-path="44|4|II" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 26-172" path="§2|(c)" codified:display="Note" app="2026-08-20" eff="2026-08-20">Applicability of <cite doc="D.C. Law 26-172" path="">D.C. Law 26-172</cite>: <cite doc="D.C. Law 26-172" path="§6">§ 6 of D.C. Law 26-172</cite> provided that the creation of this section by <cite doc="D.C. Law 26-172" path="§2|(c)">§ 2(c) of D.C. Law 26-172</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§2|(c)" target-path="§44-426" type="History"/>
   </annotations>
 </section>

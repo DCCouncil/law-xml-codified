@@ -1,15 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>44-428</num>
   <heading proof="needed">Rulemaking.</heading>
-  <reason>Not Funded</reason>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>No later than the applicability date of <cite doc="D.C. Law 26-172">the Medical Debt Mitigation Amendment Act of 2026</cite>, the Mayor, pursuant to <cite path="2|5|I">subchapter I of Chapter 5 of Title 2</cite>, shall issue rules to implement the provisions of <cite path="44|4|II">this subchapter</cite>, including:</text>
+    <para>
+      <num>(1)</num>
+      <text>Minimum requirements for patient appeals regarding their eligibility for financial assistance; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The process for patients to submit a complaint to the Department pursuant to <cite path="§44-427|(c)">§ 44-427(c)</cite>.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The Department shall engage with health care facilities and patient advocates in the rulemaking process in order to minimize administrative costs for health care providers and ensure a streamlined application process for patients.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§44-428" codified:display="Note" codified:doc="D.C. Code" codified:path="§44-428">Applicability of <cite doc="D.C. Law 26-172" path="">D.C. Law 26-172</cite>: <cite doc="D.C. Law 26-172" path="§6">§ 6 of D.C. Law 26-172</cite> provided that the creation of this section by <cite doc="D.C. Law 26-172" path="§2|(c)">§ 2(c) of D.C. Law 26-172</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 11-191" type="History" path="§206">Apr. 9, 1997, D.C. Law 11-191, § 206</annotation>
     <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="" target-path="44|4" type="History" display="false"/>
-    <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§6|(a)" target-path="§2" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 26-172" eff="2026-08-20" path="§2|(c)" prefix="as added" target-path="44|4|II" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 26-172" path="§2|(c)" codified:display="Note" app="2026-08-20" eff="2026-08-20">Applicability of <cite doc="D.C. Law 26-172" path="">D.C. Law 26-172</cite>: <cite doc="D.C. Law 26-172" path="§6|(a)">§ 6(a) of D.C. Law 26-172</cite> provided that the creation of this section by <cite doc="D.C. Law 26-172" path="§2|(c)">§ 2(c) of D.C. Law 26-172</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§2|(c)" prefix="as added" target-path="44|4|II" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 26-172" path="§2|(c)" codified:display="Note" app="2026-08-20" eff="2026-08-20">Applicability of <cite doc="D.C. Law 26-172" path="">D.C. Law 26-172</cite>: <cite doc="D.C. Law 26-172" path="§6">§ 6 of D.C. Law 26-172</cite> provided that the creation of this section by <cite doc="D.C. Law 26-172" path="§2|(c)">§ 2(c) of D.C. Law 26-172</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§2|(c)" target-path="§44-428" type="History"/>
   </annotations>
 </section>

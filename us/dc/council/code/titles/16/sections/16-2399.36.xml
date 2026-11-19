@@ -1,14 +1,67 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>§</prefix>
   <num>16-2399.36</num>
   <heading proof="needed">Subsidy.</heading>
-  <reason>Not Funded</reason>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>The Mayor may make subsidy payments to members of the SOUL Family, irrespective of their state of residence, pursuant to this section.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Members of the SOUL Family who may be eligible for subsidy payments under this section are limited to:</text>
+    <para>
+      <num>(1)</num>
+      <text>SOUL Caregivers who provide housing for the youth; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The youth.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>The Agency, the youth, and the SOUL Caregivers shall enter into a subsidy payment agreement that shall be incorporated into the SOUL Family agreement.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <para>
+      <num>(1)</num>
+      <text>Subsidy payments shall be allocated as follows:</text>
+      <para>
+        <num>(A)</num>
+        <text>If the youth is 18 years and 6 months old or younger, the subsidy shall be paid to the SOUL Caregiver or SOUL Caregivers who are providing housing; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>If the youth is older than 18 years and 6 months, half of the subsidy shall be paid to the youth, and the remaining half shall be paid to the SOUL Caregivers who are providing housing.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The SOUL Caregiver may choose to decline all or part of the subsidy, and that portion shall be paid directly to the youth.</text>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>If the youth is 18 years of age or older and can establish that they are not residing with a SOUL Caregiver, the youth may at any time request the Agency to pay the entire subsidy to the youth and the Agency shall comply with this request.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>Eligibility for subsidy payments under this section shall continue until the youth reaches 21 years of age.</text>
+  </para>
+  <para>
+    <num>(g)</num>
+    <text>The Agency shall disseminate information to prospective members of the SOUL Family as to eligibility for subsidy under this section.</text>
+  </para>
+  <para>
+    <num>(h)</num>
+    <text>SOUL Family subsidies shall be subject to the availability of appropriations. Nothing in this section shall be construed to create an entitlement to a SOUL Family subsidy for any person.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§16-2399.36" codified:display="Note" codified:doc="D.C. Code" codified:path="§16-2399.36">Applicability of <cite doc="D.C. Law 26-159" path="">D.C. Law 26-159</cite>: <cite doc="D.C. Law 26-159" path="§4">§ 4 of D.C. Law 26-159</cite> provided that the creation of this section by <cite doc="D.C. Law 26-159" path="§2|(c)">§ 2(c) of D.C. Law 26-159</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2026-08-14" doc="D.C. Law 26-159" eff="2026-08-14" path="" target-path="16|23" type="History" display="false"/>
-    <annotation app="2026-08-14" doc="D.C. Law 26-159" eff="2026-08-14" path="§4|(a)" target-path="§2|(c)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 26-159" eff="2026-08-14" path="§2|(c)" target-path="16|23|VII" type="History"/>
+    <annotation app="2026-08-14" doc="D.C. Law 26-159" eff="2026-08-14" path="§2|(c)" target-path="16|23|VII" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 26-159" path="§2|(c)" codified:display="Note" app="2026-08-14" eff="2026-08-14">Applicability of <cite doc="D.C. Law 26-159" path="">D.C. Law 26-159</cite>: <cite doc="D.C. Law 26-159" path="§4">§ 4 of D.C. Law 26-159</cite> provided that the creation of this section by <cite doc="D.C. Law 26-159" path="§2|(c)">§ 2(c) of D.C. Law 26-159</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2026-08-14" doc="D.C. Law 26-159" eff="2026-08-14" path="§2|(c)" target-path="§16-2399.36" type="History"/>
   </annotations>

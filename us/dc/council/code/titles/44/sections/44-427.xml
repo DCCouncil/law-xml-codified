@@ -1,15 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>44-427</num>
   <heading proof="needed">Compliance and enforcement.</heading>
-  <reason>Not Funded</reason>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>A violation of <cite path="44|4|II">this subchapter</cite> shall be considered a violation of <cite path="§44-416">§ 44-416</cite>.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The Department shall make the information reported by a health care facility-FAP pursuant to <cite path="§44-405|(a-2)">§ 44-405(a-2)</cite> and any corrective action plans or fines imposed for a violation of <cite path="44|4|II">this subchapter</cite> publicly available.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <para>
+      <num>(1)</num>
+      <text>The Department shall create a process for patients to submit a complaint relating to a health care facility's noncompliance with <cite path="44|4|II">this subchapter</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Department shall review complaints submitted pursuant to paragraph (1) of this subsection within 30 days after receipt of the complaint.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>The Department shall share information obtained pursuant to <cite path="44|4|II">this subchapter</cite> and <cite path="§44-405|(a-2)">§ 44-405(a-2)</cite> with the Office of the Attorney General, upon request, within 30 days after the request is made.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§44-427" codified:display="Note" codified:doc="D.C. Code" codified:path="§44-427">Applicability of <cite doc="D.C. Law 26-172" path="">D.C. Law 26-172</cite>: <cite doc="D.C. Law 26-172" path="§6">§ 6 of D.C. Law 26-172</cite> provided that the creation of this section by <cite doc="D.C. Law 26-172" path="§2|(c)">§ 2(c) of D.C. Law 26-172</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 11-191" type="History" path="§205">Apr. 9, 1997, D.C. Law 11-191, § 205</annotation>
     <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="" target-path="44|4" type="History" display="false"/>
-    <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§6|(a)" target-path="§2" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 26-172" eff="2026-08-20" path="§2|(c)" prefix="as added" target-path="44|4|II" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 26-172" path="§2|(c)" codified:display="Note" app="2026-08-20" eff="2026-08-20">Applicability of <cite doc="D.C. Law 26-172" path="">D.C. Law 26-172</cite>: <cite doc="D.C. Law 26-172" path="§6|(a)">§ 6(a) of D.C. Law 26-172</cite> provided that the creation of this section by <cite doc="D.C. Law 26-172" path="§2|(c)">§ 2(c) of D.C. Law 26-172</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§2|(c)" prefix="as added" target-path="44|4|II" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 26-172" path="§2|(c)" codified:display="Note" app="2026-08-20" eff="2026-08-20">Applicability of <cite doc="D.C. Law 26-172" path="">D.C. Law 26-172</cite>: <cite doc="D.C. Law 26-172" path="§6">§ 6 of D.C. Law 26-172</cite> provided that the creation of this section by <cite doc="D.C. Law 26-172" path="§2|(c)">§ 2(c) of D.C. Law 26-172</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§2|(c)" target-path="§44-427" type="History"/>
   </annotations>
 </section>

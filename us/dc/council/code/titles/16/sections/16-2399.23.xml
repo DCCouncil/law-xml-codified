@@ -1,14 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>§</prefix>
   <num>16-2399.23</num>
   <heading proof="needed">Motion to establish a SOUL Family.</heading>
-  <reason>Not Funded</reason>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>Only a youth may initiate a proceeding to establish a SOUL Family by the filing of a motion to establish a SOUL Family, with the assistance of a guardian ad litem or stated interest attorney as needed.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>If the guardian ad litem does not support the SOUL Family agreement as being in the best interest of the youth, the Family Court shall appoint a stated interest attorney to assist the youth with the proceeding to establish a SOUL Family. The guardian ad litem shall continue to represent the best interest of the youth.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>A motion to establish a SOUL Family shall include:</text>
+    <para>
+      <num>(1)</num>
+      <text>A description of the proposed SOUL Family, identifying each member of the SOUL Family by name and role;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A statement explaining why the establishment of the proposed SOUL Family is in the youth's best interest;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Written parental consents, if any, to the proposed SOUL Family; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>A proposed SOUL Family agreement that meets the requirements of <cite path="16|23|VII">this subchapter</cite>.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>A youth may file a motion to establish a SOUL Family even if a parent, the District government, or the guardian ad litem objects or fails to sign the SOUL Family agreement. The motion shall identify any such person or entity who objects or fails to sign the SOUL Family agreement.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>Any person or entity who objects or fails to sign the SOUL Family agreement may file a praecipe or opposition alerting the court to the points of disagreement, the reasoning, and the efforts to resolve the disagreement.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§16-2399.23" codified:display="Note" codified:doc="D.C. Code" codified:path="§16-2399.23">Applicability of <cite doc="D.C. Law 26-159" path="">D.C. Law 26-159</cite>: <cite doc="D.C. Law 26-159" path="§4">§ 4 of D.C. Law 26-159</cite> provided that the creation of this section by <cite doc="D.C. Law 26-159" path="§2|(c)">§ 2(c) of D.C. Law 26-159</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2026-08-14" doc="D.C. Law 26-159" eff="2026-08-14" path="" target-path="16|23" type="History" display="false"/>
-    <annotation app="2026-08-14" doc="D.C. Law 26-159" eff="2026-08-14" path="§4|(a)" target-path="§2|(c)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 26-159" eff="2026-08-14" path="§2|(c)" target-path="16|23|VII" type="History"/>
+    <annotation app="2026-08-14" doc="D.C. Law 26-159" eff="2026-08-14" path="§2|(c)" target-path="16|23|VII" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 26-159" path="§2|(c)" codified:display="Note" app="2026-08-14" eff="2026-08-14">Applicability of <cite doc="D.C. Law 26-159" path="">D.C. Law 26-159</cite>: <cite doc="D.C. Law 26-159" path="§4">§ 4 of D.C. Law 26-159</cite> provided that the creation of this section by <cite doc="D.C. Law 26-159" path="§2|(c)">§ 2(c) of D.C. Law 26-159</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2026-08-14" doc="D.C. Law 26-159" eff="2026-08-14" path="§2|(c)" target-path="§16-2399.23" type="History"/>
   </annotations>

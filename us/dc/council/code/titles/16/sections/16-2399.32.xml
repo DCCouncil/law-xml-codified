@@ -1,14 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>§</prefix>
   <num>16-2399.32</num>
   <heading proof="needed">SOUL Family order – finality, appeals, transcripts.</heading>
-  <reason>Not Funded</reason>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>Every SOUL Family order shall be in writing and shall recite the findings upon which such order is based, including findings pertaining to the Family Court's jurisdiction.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Except as otherwise expressly provided by law, the entry of a SOUL Family order shall be final.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>In all appeals from decisions of the Family Court with respect to a SOUL Family order under <cite path="16|23|VII">this subchapter</cite>, the youth shall be identified only by initials in all transcripts, briefs, and other papers filed, and all necessary steps, as prescribed by rules of the District of Columbia Court of Appeals, shall be taken to protect the identity of the youth.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>Upon the filing of a motion and supporting affidavit stating that they are financially unable to purchase a transcript, a party who has filed notice of appeal or of interlocutory appeal of an order under <cite path="16|23|VII">this subchapter</cite> shall be furnished, at no cost or at such part of cost as they are able to pay, so much of the transcript as is necessary to prepare adequately and support the appeal.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>An appeal does not operate to stay the order, judgment, or decree appealed from, but whenever the case is properly before the District of Columbia Court of Appeals, that Court, on application and hearing, may order otherwise if suitable provision is made in the order for the care and custody of the youth.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§16-2399.32" codified:display="Note" codified:doc="D.C. Code" codified:path="§16-2399.32">Applicability of <cite doc="D.C. Law 26-159" path="">D.C. Law 26-159</cite>: <cite doc="D.C. Law 26-159" path="§4">§ 4 of D.C. Law 26-159</cite> provided that the creation of this section by <cite doc="D.C. Law 26-159" path="§2|(c)">§ 2(c) of D.C. Law 26-159</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2026-08-14" doc="D.C. Law 26-159" eff="2026-08-14" path="" target-path="16|23" type="History" display="false"/>
-    <annotation app="2026-08-14" doc="D.C. Law 26-159" eff="2026-08-14" path="§4|(a)" target-path="§2|(c)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 26-159" eff="2026-08-14" path="§2|(c)" target-path="16|23|VII" type="History"/>
+    <annotation app="2026-08-14" doc="D.C. Law 26-159" eff="2026-08-14" path="§2|(c)" target-path="16|23|VII" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 26-159" path="§2|(c)" codified:display="Note" app="2026-08-14" eff="2026-08-14">Applicability of <cite doc="D.C. Law 26-159" path="">D.C. Law 26-159</cite>: <cite doc="D.C. Law 26-159" path="§4">§ 4 of D.C. Law 26-159</cite> provided that the creation of this section by <cite doc="D.C. Law 26-159" path="§2|(c)">§ 2(c) of D.C. Law 26-159</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2026-08-14" doc="D.C. Law 26-159" eff="2026-08-14" path="§2|(c)" target-path="§16-2399.32" type="History"/>
   </annotations>

@@ -1,14 +1,56 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>§</prefix>
   <num>28-3820</num>
   <heading proof="needed">Prohibition on certain medical lending promotion.</heading>
-  <reason>Not Funded</reason>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>For the purposes of this section, the term "medical lending product" shall have the same meaning as provided in <cite path="§44-423|(6)">[§ 44-423(6)]</cite>.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>A health care provider, as that term is defined in <cite path="§28-3814|(dd)|(7)|(B)">§ 28-3814(dd)(7)(B)</cite>, shall not:</text>
+    <para>
+      <num>(1)</num>
+      <text>Complete, or assist a patient in completing, any portion of an application for a medical lending product;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Promote a medical lending product to a patient who:</text>
+      <para>
+        <num>(A)</num>
+        <text>Is under the influence of general anesthesia, conscious sedation, or moderation sedation, including any period in which the patient has been advised not to engage in activities due to such influence;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Is being administered treatment; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Is in a treatment area, including an exam room, surgical room, or other area where medical treatment is administered, unless an area separated from the treatment area does not exist on site;</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Charge a medical lending product for a medical procedure before the date of the procedure or before costs have been incurred;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Charge a medical lending product or another form of credit when the patient's insurance, including Medicaid, will cover the services, unless the amount is for a copay, deductible, or co-insurance;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Require credit card pre-authorization or require the patient to have a credit card on file prior to administering emergency health services; or</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>If the services were provided at a health care facility-FAP, as defined in <cite path="§44-401|(10A)">§ 44-401(10A)</cite>, offer a medical lending product or another form of credit until the health care facility-FAP has offered or conducted a financial assistance eligibility screening pursuant to <cite path="§44-425">[§ 44-425]</cite>.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§28-3820" codified:display="Note" codified:doc="D.C. Code" codified:path="§28-3820">Applicability of <cite doc="D.C. Law 26-172" path="">D.C. Law 26-172</cite>: <cite doc="D.C. Law 26-172" path="§6">§ 6 of D.C. Law 26-172</cite> provided that the creation of this section by <cite doc="D.C. Law 26-172" path="§3|(a)|(2)">§ 3(a)(2) of D.C. Law 26-172</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§6|(a)" target-path="§3" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 26-172" eff="2026-08-20" path="§3|(a)|(2)" target-path="28|38|I" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 26-172" path="§3|(a)|(2)" codified:display="Note" app="2026-08-20" eff="2026-08-20">Applicability of <cite doc="D.C. Law 26-172" path="">D.C. Law 26-172</cite>: <cite doc="D.C. Law 26-172" path="§6|(a)">§ 6(a) of D.C. Law 26-172</cite> provided that the creation of this section by <cite doc="D.C. Law 26-172" path="§3|(a)|(2)">§ 3(a)(2) of D.C. Law 26-172</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§3|(a)|(2)" target-path="28|38|I" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 26-172" path="§3|(a)|(2)" codified:display="Note" app="2026-08-20" eff="2026-08-20">Applicability of <cite doc="D.C. Law 26-172" path="">D.C. Law 26-172</cite>: <cite doc="D.C. Law 26-172" path="§6">§ 6 of D.C. Law 26-172</cite> provided that the creation of this section by <cite doc="D.C. Law 26-172" path="§3|(a)|(2)">§ 3(a)(2) of D.C. Law 26-172</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§3|(a)|(2)" target-path="§28-3820" type="History"/>
   </annotations>
 </section>

@@ -1,15 +1,152 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>44-425</num>
   <heading proof="needed">Eligibility for financial assistance.</heading>
-  <reason>Not Funded</reason>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>Except in emergency circumstances, a health care facility-FAP shall inform patients of the following information before the provision of a medically necessary health service:</text>
+    <para>
+      <num>(1)</num>
+      <text>If the patient is uninsured, a good faith estimate of the cost of the health service; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>If the patient is insured, a good faith estimate of the patient's cost-sharing responsibility under the patient's health insurance plan.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>A health care facility shall affirmatively offer to screen a patient for financial assistance if the patient:</text>
+      <para>
+        <num>(A)</num>
+        <text>Is uninsured;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Is participating in a federal or local public assistance program, including the Supplemental Nutrition Assistance Program, Special Supplemental Nutrition Program for Women, Infants, and Children, Temporary Assistance for Needy Families, National School Lunch Program, Low-Income Home Energy Assistance Program, Medicaid, or DC Healthcare Alliance;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Is experiencing homelessness or is at risk of homelessness, as those terms are defined in <cite path="§4-751.01">§ 4-751.01</cite>;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Was previously determined to be eligible for financial assistance by the health care facility-FAP in the prior 6-month period; provided, that the patient's income or insurance status has not changed during that time; or</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Satisfies any other criteria established by the Department through rulemaking.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A health care facility-FAP shall also affirmatively screen a patient for financial assistance if a member of the patient's household satisfies paragraph (1)(B) or (E) of this subsection.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>A patient who is screened for financial assistance eligibility under paragraph (1) of this subsection shall be deemed eligible for financial assistance if they apply for financial assistance and provide documentation that they satisfy at least one of the criteria under paragraph (1) of this subsection.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>If a patient does not meet any of the criteria set forth in subsection (b)(1) of this section, the health care facility-FAP shall screen the patient for financial assistance eligibility upon request and determine a patient's eligibility for financial assistance using:</text>
+    <para>
+      <num>(1)</num>
+      <text>The following proofs of income:</text>
+      <para>
+        <num>(A)</num>
+        <text>The patient's most recent available tax return; except, that the health care facility-FAP shall exclude any medical expense deductible;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Two recent pay stubs from all adults in the patient's household showing year-to-date income;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Proof of enrollment in a public benefits program; or</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Other documentation of household income identified through rulemaking; and</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Documentation of proof of residency, including a utility bill, pay stub, bank statement, government-issued identification, or attestation from a homeless shelter.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>A health care facility-FAP shall provide a patient, including the patient's representative if the patient is deceased and died intestate, with the opportunity to apply for financial assistance for up to 240 days after the date of the first posted medical bill; provided, that a patient who is the subject of a collection activity by the facility or a collection entity may submit an application for financial assistance at any time and the health care facility-FAP or collection entity shall cease collection activity until the health care facility-FAP renders a decision on the application, including a determination on the amount of medical debt owed, new payment plan terms, or debt cancellation.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>A health care facility-FAP shall determine whether a patient is entitled to financial assistance within 30 days after the patient files a complete financial assistance application and:</text>
+    <para>
+      <num>(1)</num>
+      <text>If approved, notify the patient that their medical bill has been reduced or eliminated, of any amount still outstanding, and on how to apply for additional financial assistance for any remaining balance; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>If denied, notify the patient of the denial and include an explanation of the basis for the denial of financial assistance and the process for appealing the decision.</text>
+    </para>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>A patient's refusal to be screened for financial assistance shall not be grounds for refusing to provide medically necessary health services or denying financial assistance if the patient later decides to apply.</text>
+  </para>
+  <para>
+    <num>(g)</num>
+    <text>The financial assistance policy shall, at a minimum, provide:</text>
+    <para>
+      <num>(1)</num>
+      <text>Free care to patients with a household income of 200% or less of the federal poverty level; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Reduced-cost care to patients with a household income of more than 200% but not more than 500% of the federal poverty level by reducing the patient's out-of-pocket expenses for the health service, based on the amounts generally billed under 26 U.S.C. § 501(r)(5), by:</text>
+      <para>
+        <num>(A)</num>
+        <text>75%, for a patient with a household income of more than 200% but not more than 300% of the federal poverty level;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>60%, for a patient with a household income of more than 300% but not more than 400% of the federal poverty level; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>40%, for a patient with a household income of more than 400% but not more than 500% of the federal poverty level.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(h)</num>
+    <text>Nothing in this section shall be construed to prohibit or limit a health care facility from:</text>
+    <para>
+      <num>(1)</num>
+      <text>Granting financial assistance notwithstanding a patient's failure to provide one of the required forms of documentation described in subsection (c) of this section;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Granting financial assistance to patients at income levels higher than those specified in this section or to provide greater amounts of financial assistance to patients than those required by this section;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Requiring a patient to undertake good faith efforts to apply for and enroll in insurance programs for which the patient may be eligible as a condition of awarding financial assistance; or</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Coordinating insurance benefits with other states.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§44-425" codified:display="Note" codified:doc="D.C. Code" codified:path="§44-425">Applicability of <cite doc="D.C. Law 26-172" path="">D.C. Law 26-172</cite>: <cite doc="D.C. Law 26-172" path="§6">§ 6 of D.C. Law 26-172</cite> provided that the creation of this section by <cite doc="D.C. Law 26-172" path="§2|(c)">§ 2(c) of D.C. Law 26-172</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 11-191" type="History" path="§203">Apr. 9, 1997, D.C. Law 11-191, § 203</annotation>
     <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="" target-path="44|4" type="History" display="false"/>
-    <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§6|(a)" target-path="§2" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 26-172" eff="2026-08-20" path="§2|(c)" prefix="as added" target-path="44|4|II" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 26-172" path="§2|(c)" codified:display="Note" app="2026-08-20" eff="2026-08-20">Applicability of <cite doc="D.C. Law 26-172" path="">D.C. Law 26-172</cite>: <cite doc="D.C. Law 26-172" path="§6|(a)">§ 6(a) of D.C. Law 26-172</cite> provided that the creation of this section by <cite doc="D.C. Law 26-172" path="§2|(c)">§ 2(c) of D.C. Law 26-172</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§2|(c)" prefix="as added" target-path="44|4|II" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 26-172" path="§2|(c)" codified:display="Note" app="2026-08-20" eff="2026-08-20">Applicability of <cite doc="D.C. Law 26-172" path="">D.C. Law 26-172</cite>: <cite doc="D.C. Law 26-172" path="§6">§ 6 of D.C. Law 26-172</cite> provided that the creation of this section by <cite doc="D.C. Law 26-172" path="§2|(c)">§ 2(c) of D.C. Law 26-172</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2026-08-20" doc="D.C. Law 26-172" eff="2026-08-20" path="§2|(c)" target-path="§44-425" type="History"/>
   </annotations>
 </section>

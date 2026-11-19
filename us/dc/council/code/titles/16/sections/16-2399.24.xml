@@ -1,14 +1,92 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>§</prefix>
   <num>16-2399.24</num>
   <heading proof="needed">Allocation of rights and responsibilities.</heading>
-  <reason>Not Funded</reason>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>Unless the Family Court specifies otherwise, one or more SOUL Caregivers shall maintain physical custody of the youth until they are 18 years of age.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The SOUL Family shall determine the allocation of the following legal custody rights between SOUL Caregivers and SOUL Supporters until the youth is 18 years of age:</text>
+    <para>
+      <num>(1)</num>
+      <text>Access to information related to the youth's education;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The right to make educational decisions when a decision by a parent is required by law, regulation, or policy;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Access to information related to the youth's physical or mental health;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Consent to health care when consent of a parent is required by law, regulation, or policy;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Authorize release of information when consent of a parent is required by law, regulation, or policy;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Make financial decisions when a decision by a parent is required by law, regulation, or policy;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Consent to social and school activities of the child; and</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>Consent to military enlistment.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>Rights not specified in subsection (b) of this section that are not allocated to a member of the SOUL Family shall remain with the youth's birth parents or any other such person who held the rights at the time the youth entered into the SOUL Family agreement, until the youth is 18 years of age.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>Notwithstanding subsection (b) of this section, the youth shall retain all existing legal rights or capacity to make education, medical, or financial decisions for themselves under District law.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>The SOUL Family shall determine the allocation of the following responsibilities concerning the youth amongst the SOUL Family:</text>
+    <para>
+      <num>(1)</num>
+      <text>Housing;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Food, clothing, transportation, and meeting any other of the youth's basic needs;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Support for the youth's education;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Support for the youth's physical and mental health and well-being;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Guidance and consistent support through challenges; and</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Support for the youth's development of financial management, problem-solving, and independent living skills.</text>
+    </para>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>If a SOUL Family has more than one SOUL Caregiver, a lead SOUL Caregiver shall be designated. If there is a disagreement concerning the youth's rights and responsibilities or any other aspect related to the youth's care , the lead SOUL Caregiver shall make the final decision if the youth is less than 18 years of age.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§16-2399.24" codified:display="Note" codified:doc="D.C. Code" codified:path="§16-2399.24">Applicability of <cite doc="D.C. Law 26-159" path="">D.C. Law 26-159</cite>: <cite doc="D.C. Law 26-159" path="§4">§ 4 of D.C. Law 26-159</cite> provided that the creation of this section by <cite doc="D.C. Law 26-159" path="§2|(c)">§ 2(c) of D.C. Law 26-159</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2026-08-14" doc="D.C. Law 26-159" eff="2026-08-14" path="" target-path="16|23" type="History" display="false"/>
-    <annotation app="2026-08-14" doc="D.C. Law 26-159" eff="2026-08-14" path="§4|(a)" target-path="§2|(c)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 26-159" eff="2026-08-14" path="§2|(c)" target-path="16|23|VII" type="History"/>
+    <annotation app="2026-08-14" doc="D.C. Law 26-159" eff="2026-08-14" path="§2|(c)" target-path="16|23|VII" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 26-159" path="§2|(c)" codified:display="Note" app="2026-08-14" eff="2026-08-14">Applicability of <cite doc="D.C. Law 26-159" path="">D.C. Law 26-159</cite>: <cite doc="D.C. Law 26-159" path="§4">§ 4 of D.C. Law 26-159</cite> provided that the creation of this section by <cite doc="D.C. Law 26-159" path="§2|(c)">§ 2(c) of D.C. Law 26-159</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2026-08-14" doc="D.C. Law 26-159" eff="2026-08-14" path="§2|(c)" target-path="§16-2399.24" type="History"/>
   </annotations>
